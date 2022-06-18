@@ -15,20 +15,6 @@ from shapely.geometry import Point, shape
 import streamlit as st
 import requests
 
-#Forbedring
-
-#Behovsklasser
-#class grunnlag   
-#class kostnader
-#arve fra input 
-#class klimagassutslipp
-#arve fra kostnader
-#class dimensjonering
-#arve fra dimensjonering
-
-#variabler initialiseres i konstruktøren til klassen
-
-#klasse kjøres -> oppdaterer en self.variabel -> henter ut self.variabel fra arvet klasse -> bruker i en annen (muligens oppdater self.variabel igjen) ->
 
 #--OK--
 class Forklaringer:
