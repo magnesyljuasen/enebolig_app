@@ -1,0 +1,718 @@
+,Navn,Long,Lat
+1492647,"Heggvegen 22, Ranheim og Charlottenlund",63.42058,10.496503
+1493276,"Bøkvegen 3A, Ranheim og Charlottenlund",63.420485,10.504712
+1493277,"Bøkvegen 1, Ranheim og Charlottenlund",63.420626,10.50502
+1493431,"Bøkvegen 11C, Ranheim og Charlottenlund",63.420458,10.502705
+1493432,"Bøkvegen 11B, Ranheim og Charlottenlund",63.420408,10.502644
+1493434,"Bøkvegen 11D, Ranheim og Charlottenlund",63.420578,10.502753
+1493439,"Bøkvegen 8C, Ranheim og Charlottenlund",63.419623,10.503004
+1493440,"Bøkvegen 8B, Ranheim og Charlottenlund",63.419675,10.503207
+1493441,"Bøkvegen 9A, Ranheim og Charlottenlund",63.42007,10.503248
+1493442,"Bøkvegen 8D, Ranheim og Charlottenlund",63.419608,10.502763
+1493443,"Bøkvegen 9C, Ranheim og Charlottenlund",63.420109,10.502949
+1493444,"Bøkvegen 9B, Ranheim og Charlottenlund",63.420089,10.503109
+1493445,"Bøkvegen 11A, Ranheim og Charlottenlund",63.420375,10.502422
+1493446,"Bøkvegen 9D, Ranheim og Charlottenlund",63.420146,10.502791
+1493447,"Bøkvegen 3C, Ranheim og Charlottenlund",63.420334,10.504544
+1493448,"Bøkvegen 3B, Ranheim og Charlottenlund",63.420414,10.504648
+1493449,"Bøkvegen 5B, Ranheim og Charlottenlund",63.420176,10.504195
+1493450,"Bøkvegen 5A, Ranheim og Charlottenlund",63.420255,10.504359
+1493451,"Bøkvegen 7B, Ranheim og Charlottenlund",63.420073,10.503829
+1493452,"Bøkvegen 7A, Ranheim og Charlottenlund",63.420134,10.503952
+1493453,"Bøkvegen 8A, Ranheim og Charlottenlund",63.419772,10.503352
+1493454,"Bøkvegen 7C, Ranheim og Charlottenlund",63.42002,10.503726
+1493489,"Carl Lønseths veg 3, Ranheim og Charlottenlund",63.414417,10.490993
+1493502,"Carl Lønseths veg 1, Ranheim og Charlottenlund",63.414577,10.491142
+1493775,"Dalheimslyngen 15D, Strinda",63.41354,10.486401
+1493776,"Dalheimslyngen 15C, Strinda",63.413199,10.486443
+1493777,"Dalheimslyngen 15F, Strinda",63.413802,10.486314
+1493778,"Dalheimslyngen 15E, Strinda",63.413608,10.485904
+1493779,"Dalheimslyngen 17B, Strinda",63.412633,10.486474
+1493780,"Dalheimslyngen 17, Strinda",63.412534,10.486449
+1493781,"Dalheimslyngen 21A, Strinda",63.412609,10.485291
+1493782,"Dalheimslyngen 19, Strinda",63.412667,10.485815
+1493783,"Dalheimslyngen 8, Strinda",63.412345,10.484857
+1493784,"Dalheimslyngen 7, Strinda",63.412099,10.487768
+1493785,"Dalheimslyngen 10, Strinda",63.412208,10.484209
+1493786,"Dalheimslyngen 9, Strinda",63.412302,10.487198
+1493787,"Dalheimslyngen 12, Strinda",63.412173,10.484948
+1493788,"Dalheimslyngen 11, Strinda",63.412625,10.487195
+1493789,"Dalheimslyngen 15B, Strinda",63.413295,10.486689
+1493790,"Dalheimslyngen 15, Strinda",63.412933,10.48693
+1493791,"Dalheimslyngen 1, Strinda",63.411405,10.48627
+1493793,"Dalheimslyngen 3, Strinda",63.411813,10.486812
+1493794,"Dalheimslyngen 2, Strinda",63.411565,10.485578
+1493795,"Dalheimslyngen 5, Strinda",63.412021,10.487286
+1493796,"Dalheimslyngen 4, Strinda",63.412295,10.486156
+1493797,"Dalheimslyngen 6B, Strinda",63.412327,10.485637
+1493798,"Dalheimslyngen 6, Strinda",63.412166,10.485589
+1493888,"Dalheimvegen 19, Strinda",63.411816,10.482126
+1493889,"Dalheimvegen 20, Strinda",63.411236,10.480914
+1493890,"Dalheimvegen 19A, Strinda",63.41197,10.481993
+1493891,"Dalheimvegen 22, Strinda",63.411156,10.480049
+1493892,"Dalheimvegen 21, Strinda",63.411753,10.481321
+1493893,"Dalheimvegen 25, Strinda",63.411401,10.480582
+1493894,"Dalheimvegen 22B, Strinda",63.411189,10.479469
+1493895,"Dalheimvegen 11A, Strinda",63.411442,10.484528
+1493896,"Dalheimvegen 10, Strinda",63.41112,10.483532
+1493897,"Dalheimvegen 14, Strinda",63.411326,10.482701
+1493898,"Dalheimvegen 13, Strinda",63.411592,10.483897
+1493899,"Dalheimvegen 16, Strinda",63.411207,10.482074
+1493900,"Dalheimvegen 15, Strinda",63.411589,10.483236
+1493901,"Dalheimvegen 17B, Strinda",63.411686,10.48262
+1493902,"Dalheimvegen 17A, Strinda",63.411782,10.482865
+1493903,"Dalheimvegen 5, Strinda",63.411602,10.487182
+1493904,"Dalheimvegen 4C, Strinda",63.411057,10.486072
+1493905,"Dalheimvegen 7, Strinda",63.411482,10.486695
+1493906,"Dalheimvegen 6, Strinda",63.411133,10.484814
+1493908,"Dalheimvegen 8, Strinda",63.411148,10.484294
+1493909,"Dalheimvegen 7B, Strinda",63.411564,10.486579
+1493910,"Dalheimvegen 9, Strinda",63.411435,10.48513
+1493911,"Dalheimvegen 8B, Strinda",63.41115,10.484054
+1493912,"Dalheimslyngen 43, Strinda",63.411871,10.485493
+1493913,"Dalheimslyngen 41, Strinda",63.411779,10.484868
+1493914,"Dalheimslyngen 45B, Strinda",63.411865,10.486054
+1493915,"Dalheimslyngen 45, Strinda",63.411778,10.485869
+1493916,"Dalheimvegen 3, Strinda",63.411705,10.487648
+1493917,"Dalheimvegen 1, Strinda",63.411728,10.48803
+1493918,"Dalheimvegen 4B, Strinda",63.411064,10.486253
+1493919,"Dalheimvegen 4, Strinda",63.41114,10.486737
+1493920,"Dalheimslyngen 27B, Strinda",63.412978,10.484369
+1493921,"Dalheimslyngen 27, Strinda",63.412647,10.484292
+1493922,"Dalheimslyngen 31, Strinda",63.412277,10.483551
+1493923,"Dalheimslyngen 27C, Strinda",63.412856,10.484002
+1493924,"Dalheimslyngen 35A, Strinda",63.412237,10.482621
+1493925,"Dalheimslyngen 33, Strinda",63.412075,10.48314
+1493926,"Dalheimslyngen 39, Strinda",63.411875,10.484232
+1493927,"Dalheimslyngen 37, Strinda",63.411862,10.48379
+1493928,"Dalheimslyngen 21C, Strinda",63.412941,10.485328
+1493929,"Dalheimslyngen 21B, Strinda",63.412815,10.485342
+1493930,"Dalheimslyngen 21E, Strinda",63.413363,10.48531
+1493931,"Dalheimslyngen 21D, Strinda",63.413156,10.4854
+1493932,"Dalheimslyngen 23B, Strinda",63.412963,10.484969
+1493933,"Dalheimslyngen 23A, Strinda",63.412632,10.484812
+1493934,"Dalheimslyngen 25, Strinda",63.412634,10.484692
+1493935,"Dalheimslyngen 23C, Strinda",63.413233,10.484903
+1494515,"Einervegen 5, Ranheim og Charlottenlund",63.422875,10.495941
+1494516,"Einervegen 4, Ranheim og Charlottenlund",63.423349,10.496126
+1494517,"Einervegen 7B, Ranheim og Charlottenlund",63.42286,10.496561
+1494518,"Einervegen 7A, Ranheim og Charlottenlund",63.422898,10.496363
+1494519,"Einervegen 11, Ranheim og Charlottenlund",63.423102,10.497456
+1494520,"Einervegen 9A, Ranheim og Charlottenlund",63.422972,10.496978
+1494527,"Einervegen 2, Ranheim og Charlottenlund",63.42314,10.495554
+1494528,"Einervegen 1, Ranheim og Charlottenlund",63.422443,10.496039
+1494529,"Einervegen 3, Ranheim og Charlottenlund",63.422677,10.495991
+1494530,"Einervegen 2B, Ranheim og Charlottenlund",63.423382,10.495527
+1494592,"Eikvegen 8A, Ranheim og Charlottenlund",63.420975,10.502943
+1494593,"Eikvegen 7, Ranheim og Charlottenlund",63.4213,10.503152
+1494594,"Eikvegen 8C, Ranheim og Charlottenlund",63.420876,10.502746
+1494595,"Eikvegen 8B, Ranheim og Charlottenlund",63.420919,10.502849
+1494596,"Eikvegen 10B, Ranheim og Charlottenlund",63.420807,10.502325
+1494597,"Eikvegen 10A, Ranheim og Charlottenlund",63.42078,10.502427
+1494599,"Eikvegen 10C, Ranheim og Charlottenlund",63.420835,10.502186
+1494600,"Eikvegen 4C, Ranheim og Charlottenlund",63.420786,10.504307
+1494601,"Eikvegen 4B, Ranheim og Charlottenlund",63.420739,10.504445
+1494602,"Eikvegen 5A, Ranheim og Charlottenlund",63.421241,10.50371
+1494603,"Eikvegen 4D, Ranheim og Charlottenlund",63.420823,10.504169
+1494604,"Eikvegen 6B, Ranheim og Charlottenlund",63.420971,10.503776
+1494605,"Eikvegen 6A, Ranheim og Charlottenlund",63.420951,10.503975
+1494606,"Eikvegen 6D, Ranheim og Charlottenlund",63.420966,10.503355
+1494607,"Eikvegen 6C, Ranheim og Charlottenlund",63.420955,10.503595
+1494610,"Eikvegen 1B, Ranheim og Charlottenlund",63.421411,10.504282
+1494611,"Eikvegen 1, Ranheim og Charlottenlund",63.421314,10.504435
+1494612,"Eikvegen 2B, Ranheim og Charlottenlund",63.420842,10.504931
+1494613,"Eikvegen 2, Ranheim og Charlottenlund",63.420951,10.504757
+1494614,"Eikvegen 4A, Ranheim og Charlottenlund",63.420702,10.504563
+1494615,"Eikvegen 3, Ranheim og Charlottenlund",63.421526,10.503925
+1495078,"Jakobslivegen 89, Ranheim og Charlottenlund",63.416213,10.493531
+1497643,"Heggvegen 8, Ranheim og Charlottenlund",63.421199,10.496595
+1497644,"Heggvegen 6, Ranheim og Charlottenlund",63.421344,10.496422
+1497645,"Heggvegen 12, Ranheim og Charlottenlund",63.420993,10.496686
+1497646,"Heggvegen 10, Ranheim og Charlottenlund",63.421144,10.496632
+1497647,"Heggvegen 16, Ranheim og Charlottenlund",63.420782,10.496934
+1497648,"Heggvegen 14, Ranheim og Charlottenlund",63.420936,10.496802
+1497649,"Heggvegen 20, Ranheim og Charlottenlund",63.420645,10.496306
+1497650,"Heggvegen 18, Ranheim og Charlottenlund",63.420737,10.496992
+1497653,"Heggvegen 4, Ranheim og Charlottenlund",63.421398,10.496385
+1499735,"Jakobslivegen 43, Ranheim og Charlottenlund",63.422859,10.494097
+1499736,"Jakobslivegen 45, Ranheim og Charlottenlund",63.422588,10.494183
+1499737,"Jakobslivegen 43A, Ranheim og Charlottenlund",63.422805,10.494094
+1499738,"Jakobslivegen 47, Ranheim og Charlottenlund",63.422381,10.494232
+1499739,"Jakobslivegen 46, Ranheim og Charlottenlund",63.422649,10.495248
+1499740,"Jakobslivegen 51, Ranheim og Charlottenlund",63.421865,10.493845
+1499741,"Jakobslivegen 48, Ranheim og Charlottenlund",63.422379,10.495314
+1499742,"Jakobslivegen 24B, Ranheim og Charlottenlund",63.424298,10.494653
+1499743,"Jakobslivegen 24A, Ranheim og Charlottenlund",63.42446,10.494641
+1499744,"Jakobslivegen 30, Ranheim og Charlottenlund",63.423703,10.494922
+1499745,"Jakobslivegen 28A, Ranheim og Charlottenlund",63.423894,10.495493
+1499746,"Jakobslivegen 34, Ranheim og Charlottenlund",63.423342,10.495064
+1499747,"Jakobslivegen 32, Ranheim og Charlottenlund",63.423564,10.495296
+1499752,"Jakobslivegen 20B, Ranheim og Charlottenlund",63.424909,10.494644
+1499753,"Jakobslivegen 20A, Ranheim og Charlottenlund",63.425035,10.494551
+1499754,"Jakobslivegen 21A, Ranheim og Charlottenlund",63.424538,10.493202
+1499755,"Jakobslivegen 21, Ranheim og Charlottenlund",63.424551,10.493624
+1499756,"Jakobslivegen 23, Ranheim og Charlottenlund",63.424236,10.493748
+1499757,"Jakobslivegen 22, Ranheim og Charlottenlund",63.4247,10.494794
+1499761,"Jakobslivegen 17, Ranheim og Charlottenlund",63.425316,10.493403
+1499837,"Jakobslivegen 68, Ranheim og Charlottenlund",63.419778,10.495603
+1499838,"Jakobslivegen 67C, Ranheim og Charlottenlund",63.418897,10.494371
+1499839,"Skogvegen 3, Ranheim og Charlottenlund",63.419479,10.495383
+1499840,"Jakobslivegen 69, Ranheim og Charlottenlund",63.418673,10.49436
+1499841,"Skogvegen 5, Ranheim og Charlottenlund",63.419236,10.495391
+1499842,"Jakobslivegen 71, Ranheim og Charlottenlund",63.418619,10.494357
+1499843,"Heggvegen 15, Ranheim og Charlottenlund",63.420715,10.495668
+1499844,"Heggvegen 13, Ranheim og Charlottenlund",63.42076,10.49567
+1499848,"Heggvegen 17, Ranheim og Charlottenlund",63.420472,10.495656
+1499849,"Heggvegen 19, Ranheim og Charlottenlund",63.420257,10.495644
+1499850,"Heggvegen 3, Ranheim og Charlottenlund",63.421496,10.495629
+1499852,"Heggvegen 5, Ranheim og Charlottenlund",63.421298,10.495679
+1499855,"Heggvegen 7, Ranheim og Charlottenlund",63.421199,10.495673
+1499856,"Heggvegen 11, Ranheim og Charlottenlund",63.420975,10.495662
+1499857,"Heggvegen 9, Ranheim og Charlottenlund",63.421047,10.495665
+1499926,"Jakobslivegen 112, Ranheim og Charlottenlund",63.414636,10.493208
+1499927,"Jakobslivegen 110, Ranheim og Charlottenlund",63.414849,10.49352
+1499934,"Jakobslivegen 101, Ranheim og Charlottenlund",63.414676,10.492008
+1499935,"Jakobslivegen 100, Ranheim og Charlottenlund",63.415147,10.494162
+1499936,"Jakobslivegen 102A, Ranheim og Charlottenlund",63.415353,10.495048
+1499937,"Jakobslivegen 102, Ranheim og Charlottenlund",63.415068,10.494873
+1499938,"Jakobslivegen 104, Ranheim og Charlottenlund",63.415221,10.495642
+1499939,"Jakobslivegen 103, Ranheim og Charlottenlund",63.4144,10.491774
+1499940,"Jakobslivegen 108, Ranheim og Charlottenlund",63.414797,10.494158
+1499941,"Jakobslivegen 106, Ranheim og Charlottenlund",63.414735,10.494906
+1499942,"Jakobslivegen 96, Ranheim og Charlottenlund",63.41571,10.494406
+1499943,"Jakobslivegen 94, Ranheim og Charlottenlund",63.416103,10.494566
+1499944,"Jakobslivegen 98, Ranheim og Charlottenlund",63.415496,10.494314
+1499945,"Jakobslivegen 96A, Ranheim og Charlottenlund",63.415656,10.494383
+1499946,"Jakobslivegen 98C, Ranheim og Charlottenlund",63.415388,10.494269
+1499947,"Jakobslivegen 98B, Ranheim og Charlottenlund",63.415433,10.494291
+1499948,"Jakobslivegen 99, Ranheim og Charlottenlund",63.414888,10.49236
+1499949,"Jakobslivegen 98D, Ranheim og Charlottenlund",63.415344,10.494246
+1499950,"Jakobslivegen 85, Ranheim og Charlottenlund",63.416747,10.493939
+1499951,"Jakobslivegen 84, Ranheim og Charlottenlund",63.417631,10.495247
+1499952,"Jakobslivegen 86, Ranheim og Charlottenlund",63.417382,10.495054
+1499953,"Jakobslivegen 85B, Ranheim og Charlottenlund",63.416657,10.493954
+1499954,"Jakobsgrenda 1A, Ranheim og Charlottenlund",63.417091,10.495057
+1499955,"Jakobslivegen 87, Ranheim og Charlottenlund",63.416453,10.493763
+1499956,"Jakobslivegen 92, Ranheim og Charlottenlund",63.41639,10.494662
+1499957,"Jakobslivegen 90, Ranheim og Charlottenlund",63.416701,10.494918
+1499958,"Jakobslivegen 75, Ranheim og Charlottenlund",63.418376,10.494404
+1499959,"Jakobslivegen 73, Ranheim og Charlottenlund",63.418403,10.494406
+1499960,"Jakobslivegen 79, Ranheim og Charlottenlund",63.41768,10.494262
+1499961,"Skogvegen 19, Ranheim og Charlottenlund",63.418429,10.495271
+1499962,"Jakobslivegen 82, Ranheim og Charlottenlund",63.417889,10.495441
+1499963,"Jakobslivegen 81, Ranheim og Charlottenlund",63.41742,10.494014
+1499964,"Jakobslivegen 83B, Ranheim og Charlottenlund",63.416954,10.49387
+1499965,"Jakobslivegen 83A, Ranheim og Charlottenlund",63.41707,10.494016
+1500501,"Jonsvannsveien 429, Strinda",63.409839,10.491897
+1503855,"Lønnvegen 10, Ranheim og Charlottenlund",63.4189,10.500121
+1503856,"Lønnvegen 8, Ranheim og Charlottenlund",63.418987,10.500386
+1503857,"Lønnvegen 15, Ranheim og Charlottenlund",63.419148,10.498692
+1503858,"Lønnvegen 12, Ranheim og Charlottenlund",63.41893,10.499782
+1503864,"Lønnvegen 2, Ranheim og Charlottenlund",63.419113,10.499451
+1503866,"Lønnvegen 6A, Ranheim og Charlottenlund",63.419066,10.500737
+1503867,"Lønnvegen 4, Ranheim og Charlottenlund",63.419127,10.499853
+1505860,"Poppelvegen 10, Ranheim og Charlottenlund",63.421751,10.502174
+1505867,"Poppelvegen 5, Ranheim og Charlottenlund",63.421149,10.502222
+1505868,"Poppelvegen 4F, Ranheim og Charlottenlund",63.421163,10.500861
+1505869,"Poppelvegen 6B, Ranheim og Charlottenlund",63.421336,10.501451
+1505870,"Poppelvegen 6, Ranheim og Charlottenlund",63.421222,10.501224
+1505871,"Poppelvegen 7B, Ranheim og Charlottenlund",63.421369,10.502575
+1505872,"Poppelvegen 7, Ranheim og Charlottenlund",63.421308,10.502431
+1505873,"Poppelvegen 9, Ranheim og Charlottenlund",63.421652,10.50299
+1505874,"Poppelvegen 8, Ranheim og Charlottenlund",63.421575,10.501804
+1505875,"Poppelvegen 2E, Ranheim og Charlottenlund",63.420795,10.49996
+1505876,"Poppelvegen 2D, Ranheim og Charlottenlund",63.420697,10.499895
+1505877,"Poppelvegen 4A, Ranheim og Charlottenlund",63.420819,10.500262
+1505878,"Poppelvegen 3, Ranheim og Charlottenlund",63.420885,10.501668
+1505879,"Poppelvegen 4C, Ranheim og Charlottenlund",63.420951,10.500489
+1505880,"Poppelvegen 4B, Ranheim og Charlottenlund",63.420898,10.500406
+1505881,"Poppelvegen 4E, Ranheim og Charlottenlund",63.421057,10.500735
+1505882,"Poppelvegen 4D, Ranheim og Charlottenlund",63.421041,10.500554
+1505883,"Poppelvegen 1D, Ranheim og Charlottenlund",63.420411,10.500701
+1505884,"Poppelvegen 1C, Ranheim og Charlottenlund",63.420412,10.500541
+1505885,"Poppelvegen 1F, Ranheim og Charlottenlund",63.420535,10.500828
+1507766,"Odd Sørlis veg 21, Ranheim og Charlottenlund",63.416786,10.497927
+1507767,"Odd Sørlis veg 20, Ranheim og Charlottenlund",63.415757,10.496812
+1507768,"Odd Sørlis veg 25, Ranheim og Charlottenlund",63.416427,10.497127
+1507769,"Odd Sørlis veg 23, Ranheim og Charlottenlund",63.416602,10.497517
+1507770,"Odd Sørlis veg 29, Ranheim og Charlottenlund",63.415977,10.496323
+1507771,"Odd Sørlis veg 27, Ranheim og Charlottenlund",63.416233,10.496737
+1507773,"Odd Sørlis veg 31, Ranheim og Charlottenlund",63.415847,10.495915
+1507774,"Odd Sørlis veg 13, Ranheim og Charlottenlund",63.41626,10.499322
+1507775,"Odd Sørlis veg 12, Ranheim og Charlottenlund",63.416207,10.498338
+1507776,"Odd Sørlis veg 15, Ranheim og Charlottenlund",63.416601,10.49932
+1507777,"Odd Sørlis veg 14, Ranheim og Charlottenlund",63.416475,10.498532
+1507778,"Odd Sørlis veg 17, Ranheim og Charlottenlund",63.416785,10.498929
+1507779,"Odd Sørlis veg 16, Ranheim og Charlottenlund",63.416346,10.497965
+1507780,"Odd Sørlis veg 19, Ranheim og Charlottenlund",63.416871,10.498433
+1507781,"Odd Sørlis veg 18, Ranheim og Charlottenlund",63.416064,10.497429
+1507782,"Odd Sørlis veg 4, Ranheim og Charlottenlund",63.415393,10.497214
+1507783,"Odd Sørlis veg 3, Ranheim og Charlottenlund",63.415535,10.495719
+1507784,"Odd Sørlis veg 6, Ranheim og Charlottenlund",63.415579,10.497524
+1507785,"Odd Sørlis veg 5, Ranheim og Charlottenlund",63.415348,10.498113
+1507786,"Odd Sørlis veg 9, Ranheim og Charlottenlund",63.415845,10.49862
+1507787,"Odd Sørlis veg 7, Ranheim og Charlottenlund",63.41557,10.498325
+1507788,"Odd Sørlis veg 11, Ranheim og Charlottenlund",63.416021,10.499029
+1507789,"Odd Sørlis veg 10, Ranheim og Charlottenlund",63.415934,10.497923
+1507796,"Odd Sørlis veg 2, Ranheim og Charlottenlund",63.41557,10.496614
+1507797,"Odd Sørlis veg 1, Ranheim og Charlottenlund",63.415667,10.495125
+1508313,"Heggvegen 2, Ranheim og Charlottenlund",63.421579,10.496294
+1508314,"Oldervegen 1, Ranheim og Charlottenlund",63.421797,10.496045
+1508315,"Oldervegen 3B, Ranheim og Charlottenlund",63.422176,10.497528
+1508316,"Oldervegen 3A, Ranheim og Charlottenlund",63.422142,10.497365
+1508317,"Oldervegen 3D, Ranheim og Charlottenlund",63.422272,10.497793
+1508318,"Oldervegen 3C, Ranheim og Charlottenlund",63.42222,10.49765
+1509371,"Per Kvists veg 14, Ranheim og Charlottenlund",63.41492,10.497865
+1509378,"Per Kvists veg 8C, Ranheim og Charlottenlund",63.415208,10.496389
+1509379,"Per Kvists veg 8B, Ranheim og Charlottenlund",63.414902,10.496086
+1509380,"Per Kvists veg 9B, Ranheim og Charlottenlund",63.414019,10.49562
+1509381,"Per Kvists veg 9A, Ranheim og Charlottenlund",63.414207,10.49561
+1509382,"Per Kvists veg 10B, Ranheim og Charlottenlund",63.414847,10.497085
+1509383,"Per Kvists veg 10, Ranheim og Charlottenlund",63.414651,10.496915
+1509384,"Per Kvists veg 12, Ranheim og Charlottenlund",63.415092,10.497974
+1509385,"Per Kvists veg 10C, Ranheim og Charlottenlund",63.415079,10.497217
+1509388,"Per Kvists veg 2, Ranheim og Charlottenlund",63.414566,10.493926
+1509390,"Per Kvists veg 6, Ranheim og Charlottenlund",63.41464,10.495392
+1509391,"Per Kvists veg 4, Ranheim og Charlottenlund",63.414541,10.494585
+1509392,"Per Kvists veg 8, Ranheim og Charlottenlund",63.41459,10.49593
+1509393,"Per Kvists veg 7, Ranheim og Charlottenlund",63.414258,10.495011
+1509741,"Poppelvegen 1E, Ranheim og Charlottenlund",63.420454,10.500824
+1509742,"Poppelvegen 2A, Ranheim og Charlottenlund",63.420514,10.499444
+1509743,"Poppelvegen 1G, Ranheim og Charlottenlund",63.420615,10.500932
+1509744,"Poppelvegen 2C, Ranheim og Charlottenlund",63.420635,10.499831
+1509745,"Poppelvegen 2B, Ranheim og Charlottenlund",63.420576,10.499508
+1509752,"Poppelvegen 1B, Ranheim og Charlottenlund",63.420423,10.500381
+1509753,"Poppelvegen 1A, Ranheim og Charlottenlund",63.420407,10.50018
+1509932,"Presthusvegen 80, Strinda",63.411784,10.498988
+1509933,"Presthusvegen 78, Strinda",63.41203,10.499502
+1510059,"Presthusvegen 84A, Strinda",63.411875,10.497133
+1510060,"Presthusvegen 82, Strinda",63.411646,10.49842
+1510062,"Presthusvegen 84B, Strinda",63.411712,10.497262
+1511505,"Røsslyngvegen 9, Ranheim og Charlottenlund",63.420664,10.498811
+1511506,"Røsslyngvegen 7B, Ranheim og Charlottenlund",63.420513,10.498603
+1511507,"Røsslyngvegen 10, Ranheim og Charlottenlund",63.421006,10.498689
+1511508,"Røsslyngvegen 9A, Ranheim og Charlottenlund",63.42069,10.498913
+1511509,"Røsslyngvegen 11, Ranheim og Charlottenlund",63.420794,10.499259
+1511510,"Røsslyngvegen 10A, Ranheim og Charlottenlund",63.421068,10.498812
+1511511,"Røsslyngvegen 3, Ranheim og Charlottenlund",63.420029,10.496875
+1511512,"Røsslyngvegen 2, Ranheim og Charlottenlund",63.420374,10.496472
+1511513,"Røsslyngvegen 6A, Ranheim og Charlottenlund",63.420677,10.49759
+1511514,"Røsslyngvegen 4B, Ranheim og Charlottenlund",63.420564,10.497203
+1511515,"Røsslyngvegen 6C, Ranheim og Charlottenlund",63.42081,10.497757
+1511516,"Røsslyngvegen 6B, Ranheim og Charlottenlund",63.420755,10.497834
+1511517,"Røsslyngvegen 7A, Ranheim og Charlottenlund",63.420365,10.498234
+1511518,"Røsslyngvegen 7, Ranheim og Charlottenlund",63.420428,10.498178
+1511589,"Røsslyngvegen 21A, Ranheim og Charlottenlund",63.421635,10.501186
+1511590,"Røsslyngvegen 19, Ranheim og Charlottenlund",63.421495,10.500838
+1511591,"Røsslyngvegen 21C, Ranheim og Charlottenlund",63.421787,10.501314
+1511592,"Røsslyngvegen 21B, Ranheim og Charlottenlund",63.421714,10.50135
+1511593,"Røsslyngvegen 21E, Ranheim og Charlottenlund",63.421891,10.50166
+1511594,"Røsslyngvegen 21D, Ranheim og Charlottenlund",63.421848,10.501498
+1511597,"Røsslyngvegen 17, Ranheim og Charlottenlund",63.421284,10.500446
+1511598,"Røsslyngvegen 16A, Ranheim og Charlottenlund",63.421594,10.499982
+1511599,"Røsslyngvegen 18A, Ranheim og Charlottenlund",63.421744,10.50021
+1511600,"Røsslyngvegen 17A, Ranheim og Charlottenlund",63.421328,10.500549
+1511601,"Røsslyngvegen 18C, Ranheim og Charlottenlund",63.42184,10.500475
+1511602,"Røsslyngvegen 18B, Ranheim og Charlottenlund",63.421797,10.500333
+1511603,"Røsslyngvegen 18E, Ranheim og Charlottenlund",63.422,10.500664
+1511604,"Røsslyngvegen 18D, Ranheim og Charlottenlund",63.421939,10.500521
+1511605,"Røsslyngvegen 12, Ranheim og Charlottenlund",63.421217,10.4991
+1511606,"Røsslyngvegen 11B, Ranheim og Charlottenlund",63.420829,10.499361
+1511607,"Røsslyngvegen 13, Ranheim og Charlottenlund",63.420968,10.499809
+1511608,"Røsslyngvegen 12A, Ranheim og Charlottenlund",63.421243,10.499202
+1511609,"Røsslyngvegen 14A, Ranheim og Charlottenlund",63.421418,10.499612
+1511610,"Røsslyngvegen 14, Ranheim og Charlottenlund",63.421375,10.499509
+1511611,"Røsslyngvegen 16, Ranheim og Charlottenlund",63.421559,10.49992
+1511612,"Røsslyngvegen 15, Ranheim og Charlottenlund",63.421125,10.500157
+1513290,"Skogvegen 17, Ranheim og Charlottenlund",63.418469,10.495772
+1513291,"Skogvegen 14, Ranheim og Charlottenlund",63.418982,10.497407
+1513292,"Skogvegen 23, Ranheim og Charlottenlund",63.418191,10.495749
+1513293,"Skogvegen 18, Ranheim og Charlottenlund",63.418759,10.497189
+1513294,"Skogvegen 16, Ranheim og Charlottenlund",63.418765,10.49759
+1513295,"Skogvegen 9, Ranheim og Charlottenlund",63.418965,10.495825
+1513296,"Skogvegen 4, Ranheim og Charlottenlund",63.419545,10.496789
+1513297,"Skogvegen 8, Ranheim og Charlottenlund",63.419262,10.497129
+1513298,"Skogvegen 11, Ranheim og Charlottenlund",63.418973,10.495389
+1513299,"Skogvegen 15, Ranheim og Charlottenlund",63.418742,10.49581
+1513300,"Skogvegen 10, Ranheim og Charlottenlund",63.419197,10.496551
+1513301,"Skogvegen 12, Ranheim og Charlottenlund",63.418946,10.496538
+1513302,"Skogvegen 13, Ranheim og Charlottenlund",63.418783,10.495307
+1513309,"Skogvegen 7, Ranheim og Charlottenlund",63.41924,10.495872
+1513310,"Skogvegen 1, Ranheim og Charlottenlund",63.419438,10.495862
+1513413,"Skogvegen 21, Ranheim og Charlottenlund",63.418135,10.495173
+1513414,"Skogvegen 26, Ranheim og Charlottenlund",63.418468,10.49748
+1513415,"Skogvegen 22, Ranheim og Charlottenlund",63.418474,10.496437
+1513416,"Skogvegen 30, Ranheim og Charlottenlund",63.418259,10.496983
+1513417,"Skogvegen 28, Ranheim og Charlottenlund",63.418527,10.497998
+1515795,"Syrinvegen 41, Ranheim og Charlottenlund",63.419532,10.500555
+1515796,"Syrinvegen 39, Ranheim og Charlottenlund",63.419502,10.500854
+1515797,"Syrinvegen 45, Ranheim og Charlottenlund",63.419575,10.499956
+1515798,"Syrinvegen 43, Ranheim og Charlottenlund",63.419554,10.500256
+1515799,"Syrinvegen 49, Ranheim og Charlottenlund",63.419499,10.499431
+1515800,"Syrinvegen 47, Ranheim og Charlottenlund",63.419578,10.499656
+1515801,"Syrinvegen 51, Ranheim og Charlottenlund",63.419558,10.499014
+1515802,"Syrinvegen 26, Ranheim og Charlottenlund",63.419303,10.499587
+1515803,"Syrinvegen 25, Ranheim og Charlottenlund",63.42011,10.500245
+1515804,"Syrinvegen 29, Ranheim og Charlottenlund",63.420023,10.500881
+1515805,"Syrinvegen 27, Ranheim og Charlottenlund",63.420098,10.500585
+1515806,"Syrinvegen 33, Ranheim og Charlottenlund",63.419889,10.501615
+1515807,"Syrinvegen 31, Ranheim og Charlottenlund",63.419983,10.50122
+1515808,"Syrinvegen 37, Ranheim og Charlottenlund",63.419552,10.501217
+1515809,"Syrinvegen 35, Ranheim og Charlottenlund",63.41971,10.501586
+1515817,"Syrinvegen 18, Ranheim og Charlottenlund",63.419243,10.50076
+1515818,"Syrinvegen 17, Ranheim og Charlottenlund",63.419709,10.500865
+1515819,"Syrinvegen 20, Ranheim og Charlottenlund",63.419246,10.50046
+1515820,"Syrinvegen 19, Ranheim og Charlottenlund",63.41975,10.501187
+1515821,"Syrinvegen 22, Ranheim og Charlottenlund",63.419303,10.500162
+1515822,"Syrinvegen 21, Ranheim og Charlottenlund",63.419927,10.500576
+1515823,"Syrinvegen 24, Ranheim og Charlottenlund",63.419324,10.499863
+1515824,"Syrinvegen 23, Ranheim og Charlottenlund",63.41994,10.500256
+1515825,"Syrinvegen 10, Ranheim og Charlottenlund",63.419446,10.501953
+1515826,"Syrinvegen 8, Ranheim og Charlottenlund",63.419622,10.502323
+1515827,"Syrinvegen 12, Ranheim og Charlottenlund",63.41935,10.501647
+1515828,"Syrinvegen 11, Ranheim og Charlottenlund",63.419745,10.499965
+1515829,"Syrinvegen 14, Ranheim og Charlottenlund",63.419237,10.501361
+1515830,"Syrinvegen 13, Ranheim og Charlottenlund",63.419733,10.500265
+1515831,"Syrinvegen 16, Ranheim og Charlottenlund",63.419257,10.501102
+1515832,"Syrinvegen 15, Ranheim og Charlottenlund",63.419721,10.500565
+1515833,"Syrinvegen 4G, Ranheim og Charlottenlund",63.420108,10.502128
+1515834,"Syrinvegen 4F, Ranheim og Charlottenlund",63.420146,10.50201
+1515835,"Syrinvegen 6A, Ranheim og Charlottenlund",63.419999,10.502282
+1515836,"Syrinvegen 5, Ranheim og Charlottenlund",63.419984,10.499437
+1515837,"Syrinvegen 6C, Ranheim og Charlottenlund",63.419772,10.502395
+1515838,"Syrinvegen 6B, Ranheim og Charlottenlund",63.4199,10.502277
+1515839,"Syrinvegen 7, Ranheim og Charlottenlund",63.420025,10.499779
+1515840,"Syrinvegen 6D, Ranheim og Charlottenlund",63.419757,10.502604
+1515841,"Syrinvegen 2G, Ranheim og Charlottenlund",63.420409,10.499178
+1515842,"Syrinvegen 2F, Ranheim og Charlottenlund",63.420346,10.499115
+1515843,"Syrinvegen 4A, Ranheim og Charlottenlund",63.4205,10.501627
+1515844,"Syrinvegen 3, Ranheim og Charlottenlund",63.419888,10.499151
+1515845,"Syrinvegen 4C, Ranheim og Charlottenlund",63.420329,10.501618
+1515846,"Syrinvegen 4B, Ranheim og Charlottenlund",63.42042,10.501563
+1515847,"Syrinvegen 4E, Ranheim og Charlottenlund",63.420165,10.50187
+1515848,"Syrinvegen 4D, Ranheim og Charlottenlund",63.420203,10.501712
+1515851,"Syrinvegen 2A, Ranheim og Charlottenlund",63.420202,10.498386
+1515852,"Syrinvegen 1, Ranheim og Charlottenlund",63.419857,10.498749
+1515853,"Syrinvegen 2C, Ranheim og Charlottenlund",63.420154,10.498684
+1515854,"Syrinvegen 2B, Ranheim og Charlottenlund",63.420173,10.498525
+1515855,"Syrinvegen 2E, Ranheim og Charlottenlund",63.420266,10.499051
+1515856,"Syrinvegen 2D, Ranheim og Charlottenlund",63.420223,10.498928
+1520421,"Dalheimslyngen 29A, Strinda",63.412662,10.483712
+1520548,"Jonsvannsveien 417, Strinda",63.410347,10.48962
+1520552,"Jonsvannsveien 427, Strinda",63.409949,10.491602
+1520554,"Jonsvannsveien 415, Strinda",63.409977,10.489781
+1520617,"Eikvegen 5B, Ranheim og Charlottenlund",63.421251,10.50355
+1520642,"Dalheimslyngen 29B, Strinda",63.412492,10.483583
+1520903,"Jakobslivegen 25B, Ranheim og Charlottenlund",63.423748,10.494003
+1520904,"Jakobslivegen 25A, Ranheim og Charlottenlund",63.423955,10.493974
+1521098,"Dalheimvegen 2B, Strinda",63.411316,10.487948
+1521149,"Dalheimvegen 2A, Strinda",63.411392,10.488453
+1522748,"Dalheimvegen 2C, Strinda",63.411314,10.487267
+1522825,"Jakobslivegen 44A, Ranheim og Charlottenlund",63.422946,10.495143
+1522827,"Jonsvannsveien 439, Strinda",63.408886,10.494531
+1522828,"Jonsvannsveien 437, Strinda",63.409311,10.493392
+1523092,"Skogvegen 2, Ranheim og Charlottenlund",63.419728,10.496498
+1523096,"Jakobslivegen 44B, Ranheim og Charlottenlund",63.422876,10.495128
+1523361,"Dalheimslyngen 9B, Strinda",63.412467,10.487591
+1524281,"Jakobslivegen 49A, Ranheim og Charlottenlund",63.422192,10.494303
+1524283,"Jakobslivegen 49B, Ranheim og Charlottenlund",63.422111,10.494378
+1524813,"Heggvegen 1, Ranheim og Charlottenlund",63.421578,10.495493
+1524854,"Dalheimslyngen 7B, Strinda",63.412087,10.488068
+1524952,"Jakobslivegen 50B, Ranheim og Charlottenlund",63.422126,10.495501
+1525254,"Jakobslivegen 107A, Strinda",63.413295,10.490975
+1525256,"Jakobslivegen 107B, Strinda",63.413251,10.490873
+1525529,"Jonsvannsveien 435, Strinda",63.409479,10.4928
+1525531,"Jakobslivegen 26B, Ranheim og Charlottenlund",63.423919,10.494833
+1525816,"Jakobslivegen 26A, Ranheim og Charlottenlund",63.424018,10.494818
+1525861,"Dalheimvegen 23, Strinda",63.411936,10.48095
+1526131,"Jakobsgrenda 11, Ranheim og Charlottenlund",63.417565,10.496466
+1526132,"Jakobsgrenda 13, Ranheim og Charlottenlund",63.417753,10.496495
+1526133,"Jakobsgrenda 7, Ranheim og Charlottenlund",63.417395,10.496377
+1526134,"Jakobsgrenda 9, Ranheim og Charlottenlund",63.417484,10.496421
+1526135,"Jakobsgrenda 15, Ranheim og Charlottenlund",63.41776,10.496696
+1526136,"Jakobsgrenda 17, Ranheim og Charlottenlund",63.417757,10.496916
+1526137,"Jakobsgrenda 50, Ranheim og Charlottenlund",63.417198,10.498009
+1526138,"Jakobsgrenda 52, Ranheim og Charlottenlund",63.417119,10.497885
+1526139,"Jakobsgrenda 46, Ranheim og Charlottenlund",63.417413,10.49808
+1526140,"Jakobsgrenda 48, Ranheim og Charlottenlund",63.417323,10.498096
+1526141,"Jakobsgrenda 3, Ranheim og Charlottenlund",63.41719,10.496226
+1526142,"Jakobsgrenda 5, Ranheim og Charlottenlund",63.41727,10.49629
+1526143,"Jakobsgrenda 54, Ranheim og Charlottenlund",63.417048,10.497761
+1526144,"Jakobsgrenda 56, Ranheim og Charlottenlund",63.416978,10.497637
+1526145,"Jakobsgrenda 38A, Ranheim og Charlottenlund",63.417943,10.498048
+1526146,"Jakobsgrenda 38B, Ranheim og Charlottenlund",63.417925,10.498047
+1526147,"Jakobsgrenda 36A, Ranheim og Charlottenlund",63.417945,10.497888
+1526148,"Jakobsgrenda 36B, Ranheim og Charlottenlund",63.417927,10.497887
+1526149,"Jakobsgrenda 42, Ranheim og Charlottenlund",63.417592,10.49809
+1526150,"Jakobsgrenda 44, Ranheim og Charlottenlund",63.417503,10.498085
+1526151,"Jakobsgrenda 40A, Ranheim og Charlottenlund",63.417941,10.498188
+1526152,"Jakobsgrenda 40B, Ranheim og Charlottenlund",63.417924,10.498187
+1526153,"Jakobsgrenda 30A, Ranheim og Charlottenlund",63.418142,10.497938
+1526154,"Jakobsgrenda 30B, Ranheim og Charlottenlund",63.41816,10.497919
+1526155,"Jakobsgrenda 28A, Ranheim og Charlottenlund",63.418153,10.497718
+1526157,"Jakobsgrenda 28B, Ranheim og Charlottenlund",63.418154,10.497658
+1526158,"Jakobsgrenda 34A, Ranheim og Charlottenlund",63.418175,10.4982
+1526159,"Jakobsgrenda 34B, Ranheim og Charlottenlund",63.418202,10.498182
+1526160,"Jakobsgrenda 32A, Ranheim og Charlottenlund",63.418149,10.498079
+1526161,"Jakobsgrenda 32B, Ranheim og Charlottenlund",63.418185,10.498061
+1526224,"Jakobsgrenda 27, Ranheim og Charlottenlund",63.417204,10.497488
+1526225,"Jakobsgrenda 29, Ranheim og Charlottenlund",63.417133,10.497365
+1526226,"Jakobsgrenda 23, Ranheim og Charlottenlund",63.417445,10.497641
+1526227,"Jakobsgrenda 25, Ranheim og Charlottenlund",63.417283,10.497633
+1526229,"Jakobsgrenda 31, Ranheim og Charlottenlund",63.417063,10.497221
+1526231,"Jakobsgrenda 19, Ranheim og Charlottenlund",63.417764,10.497117
+1526232,"Jakobsgrenda 21, Ranheim og Charlottenlund",63.417534,10.497646
+1526498,"Jakobsgrenda 22A, Ranheim og Charlottenlund",63.417965,10.497688
+1526499,"Jakobsgrenda 22B, Ranheim og Charlottenlund",63.417956,10.497628
+1526500,"Jakobsgrenda 20A, Ranheim og Charlottenlund",63.417902,10.497685
+1526501,"Jakobsgrenda 20B, Ranheim og Charlottenlund",63.417902,10.497645
+1526502,"Jakobsgrenda 26A, Ranheim og Charlottenlund",63.41809,10.497695
+1526503,"Jakobsgrenda 26B, Ranheim og Charlottenlund",63.418091,10.497635
+1526504,"Jakobsgrenda 24A, Ranheim og Charlottenlund",63.418036,10.497692
+1526505,"Jakobsgrenda 24B, Ranheim og Charlottenlund",63.418028,10.497632
+1526506,"Jakobsgrenda 8, Ranheim og Charlottenlund",63.417561,10.495904
+1526507,"Jakobsgrenda 10, Ranheim og Charlottenlund",63.417695,10.495992
+1526508,"Jakobsgrenda 4, Ranheim og Charlottenlund",63.417312,10.495771
+1526509,"Jakobsgrenda 6, Ranheim og Charlottenlund",63.417436,10.495838
+1526510,"Jakobsgrenda 16, Ranheim og Charlottenlund",63.417964,10.496927
+1526511,"Jakobsgrenda 18, Ranheim og Charlottenlund",63.41797,10.497208
+1526512,"Jakobsgrenda 12, Ranheim og Charlottenlund",63.41782,10.496038
+1526513,"Jakobsgrenda 14, Ranheim og Charlottenlund",63.417958,10.496626
+1526677,"Per Kvists veg 25, Ranheim og Charlottenlund",63.414315,10.497338
+1526679,"Per Kvists veg 21, Ranheim og Charlottenlund",63.414296,10.496515
+1526680,"Per Kvists veg 23, Ranheim og Charlottenlund",63.41431,10.496917
+1526686,"Per Kvists veg 11, Ranheim og Charlottenlund",63.414013,10.49612
+1526689,"Per Kvists veg 17, Ranheim og Charlottenlund",63.414099,10.497427
+1526690,"Per Kvists veg 19, Ranheim og Charlottenlund",63.414277,10.496202
+1526691,"Per Kvists veg 13, Ranheim og Charlottenlund",63.414054,10.496543
+1526692,"Per Kvists veg 15, Ranheim og Charlottenlund",63.414033,10.496862
+1526736,"Dalheimslyngen 23E, Strinda",63.413445,10.484393
+1526756,"Jakobslivegen 17B, Ranheim og Charlottenlund",63.425383,10.493928
+1526758,"Jakobslivegen 17C, Ranheim og Charlottenlund",63.425494,10.493573
+1526762,"Jakobslivegen 17A, Ranheim og Charlottenlund",63.425159,10.493836
+1526877,"Jakobsgrenda 33, Ranheim og Charlottenlund",63.416928,10.496372
+1526955,"Syrinvegen 9, Ranheim og Charlottenlund",63.41977,10.499686
+1527177,"Jakobsgrenda 94, Ranheim og Charlottenlund",63.417044,10.495617
+1527183,"Jakobsgrenda 82, Ranheim og Charlottenlund",63.416168,10.495291
+1527184,"Jakobsgrenda 84, Ranheim og Charlottenlund",63.416302,10.495318
+1527185,"Jakobsgrenda 76, Ranheim og Charlottenlund",63.416208,10.495754
+1527186,"Jakobsgrenda 80, Ranheim og Charlottenlund",63.416025,10.495183
+1527187,"Jakobsgrenda 90, Ranheim og Charlottenlund",63.416776,10.495523
+1527188,"Jakobsgrenda 92, Ranheim og Charlottenlund",63.416856,10.495587
+1527189,"Jakobsgrenda 86, Ranheim og Charlottenlund",63.416507,10.495489
+1527190,"Jakobsgrenda 88, Ranheim og Charlottenlund",63.41665,10.495476
+1527191,"Jakobsgrenda 64, Ranheim og Charlottenlund",63.41661,10.496716
+1527192,"Jakobsgrenda 66, Ranheim og Charlottenlund",63.416531,10.496552
+1527193,"Jakobsgrenda 60, Ranheim og Charlottenlund",63.416768,10.497125
+1527194,"Jakobsgrenda 62, Ranheim og Charlottenlund",63.416689,10.496921
+1527195,"Jakobsgrenda 72, Ranheim og Charlottenlund",63.416448,10.495947
+1527196,"Jakobsgrenda 74, Ranheim og Charlottenlund",63.416359,10.495902
+1527197,"Jakobsgrenda 68, Ranheim og Charlottenlund",63.416627,10.496036
+1527198,"Jakobsgrenda 70, Ranheim og Charlottenlund",63.416537,10.495991
+1527201,"Jakobsgrenda 58, Ranheim og Charlottenlund",63.416847,10.49731
+1527403,"Jakobslivegen 114A, Ranheim og Charlottenlund",63.414216,10.493106
+1527430,"Jonsvannsveien 433K, Strinda",63.409655,10.492308
+1527432,"Jonsvannsveien 433L, Strinda",63.409692,10.49223
+1527434,"Jonsvannsveien 433H, Strinda",63.40959,10.492465
+1527436,"Jonsvannsveien 433J, Strinda",63.409618,10.492386
+1527442,"Jonsvannsveien 433M, Strinda",63.40971,10.492171
+1527446,"Jonsvannsveien 433B, Strinda",63.409581,10.492465
+1527448,"Jonsvannsveien 433C, Strinda",63.409618,10.492366
+1527452,"Jonsvannsveien 433A, Strinda",63.409563,10.492504
+1527454,"Jonsvannsveien 433F, Strinda",63.409692,10.49215
+1527456,"Jonsvannsveien 433G, Strinda",63.409572,10.492504
+1527457,"Jakobsgrenda 78, Ranheim og Charlottenlund",63.416118,10.495729
+1527458,"Jonsvannsveien 433D, Strinda",63.409637,10.492327
+1527460,"Jonsvannsveien 433E, Strinda",63.409674,10.492209
+1527489,"Jakobslivegen 114B, Ranheim og Charlottenlund",63.414067,10.492738
+1527590,"Jakobslivegen 50A, Ranheim og Charlottenlund",63.422074,10.495318
+1527732,"Oldervegen 4A, Ranheim og Charlottenlund",63.422589,10.496708
+1527743,"Oldervegen 4B, Ranheim og Charlottenlund",63.422596,10.496848
+1527746,"Oldervegen 2B, Ranheim og Charlottenlund",63.422217,10.496227
+1527747,"Oldervegen 2A, Ranheim og Charlottenlund",63.42213,10.495942
+1527867,"Jonsvannsveien 421, Strinda",63.410092,10.490849
+1527873,"Jonsvannsveien 413, Strinda",63.40982,10.490214
+1528002,"Einervegen 6B, Ranheim og Charlottenlund",63.423271,10.496723
+1528008,"Einervegen 6A, Ranheim og Charlottenlund",63.423137,10.496676
+1528465,"Dalheimslyngen 17A, Strinda",63.412812,10.486543
+1528705,"Dalheimvegen 2E, Strinda",63.411196,10.487381
+1528706,"Dalheimvegen 2F, Strinda",63.411142,10.487438
+1528708,"Dalheimvegen 2D, Strinda",63.41126,10.487324
+1529778,"Almevegen 44, Ranheim og Charlottenlund",63.421394,10.505455
+1529779,"Almevegen 46A, Ranheim og Charlottenlund",63.421175,10.505316
+1529780,"Almevegen 40, Ranheim og Charlottenlund",63.4219,10.505067
+1529781,"Almevegen 42, Ranheim og Charlottenlund",63.421505,10.505046
+1529782,"Almevegen 52, Ranheim og Charlottenlund",63.420644,10.505842
+1529784,"Almevegen 48, Ranheim og Charlottenlund",63.421067,10.505744
+1529785,"Almevegen 50, Ranheim og Charlottenlund",63.420841,10.505893
+1529786,"Almevegen 28, Ranheim og Charlottenlund",63.422468,10.503954
+1529787,"Almevegen 30, Ranheim og Charlottenlund",63.422318,10.503726
+1529788,"Almevegen 24, Ranheim og Charlottenlund",63.42276,10.50437
+1529789,"Almevegen 26, Ranheim og Charlottenlund",63.422582,10.504221
+1529790,"Almevegen 36, Ranheim og Charlottenlund",63.421944,10.504288
+1529791,"Almevegen 38, Ranheim og Charlottenlund",63.422137,10.504558
+1529792,"Almevegen 32, Ranheim og Charlottenlund",63.422149,10.503557
+1529793,"Almevegen 34, Ranheim og Charlottenlund",63.422019,10.503971
+1529794,"Almevegen 10, Ranheim og Charlottenlund",63.422408,10.502789
+1529795,"Almevegen 12A, Ranheim og Charlottenlund",63.422677,10.503119
+1529796,"Almevegen 6E, Ranheim og Charlottenlund",63.422439,10.50243
+1529797,"Almevegen 8, Ranheim og Charlottenlund",63.422211,10.502739
+1529798,"Almevegen 20, Ranheim og Charlottenlund",63.423014,10.504143
+1529799,"Almevegen 22, Ranheim og Charlottenlund",63.423024,10.504885
+1529800,"Almevegen 14, Ranheim og Charlottenlund",63.4228,10.50307
+1529801,"Almevegen 16, Ranheim og Charlottenlund",63.422957,10.503579
+1529802,"Almevegen 4F, Ranheim og Charlottenlund",63.422371,10.501184
+1529803,"Almevegen 4G, Ranheim og Charlottenlund",63.422424,10.501307
+1529804,"Almevegen 4D, Ranheim og Charlottenlund",63.422303,10.5009
+1529805,"Almevegen 4E, Ranheim og Charlottenlund",63.422346,10.501063
+1529806,"Almevegen 6C, Ranheim og Charlottenlund",63.422353,10.502105
+1529807,"Almevegen 6D, Ranheim og Charlottenlund",63.422405,10.502268
+1529808,"Almevegen 6A, Ranheim og Charlottenlund",63.422348,10.501664
+1529809,"Almevegen 6B, Ranheim og Charlottenlund",63.422391,10.501887
+1529810,"Almevegen 2E, Ranheim og Charlottenlund",63.422556,10.499812
+1529811,"Almevegen 2F, Ranheim og Charlottenlund",63.422582,10.499953
+1529812,"Almevegen 2C, Ranheim og Charlottenlund",63.422533,10.49943
+1529813,"Almevegen 2D, Ranheim og Charlottenlund",63.422522,10.499669
+1529814,"Almevegen 4B, Ranheim og Charlottenlund",63.422379,10.500443
+1529815,"Almevegen 4C, Ranheim og Charlottenlund",63.422333,10.500581
+1529816,"Almevegen 2G, Ranheim og Charlottenlund",63.422634,10.500076
+1529817,"Almevegen 4A, Ranheim og Charlottenlund",63.422451,10.500407
+1529822,"Almevegen 2A, Ranheim og Charlottenlund",63.422483,10.499106
+1529823,"Almevegen 2B, Ranheim og Charlottenlund",63.422535,10.499249
+1531176,"Asalvegen 5L, Ranheim og Charlottenlund",63.421202,10.497116
+1531177,"Asalvegen 5M, Ranheim og Charlottenlund",63.421275,10.49706
+1531178,"Asalvegen 5I, Ranheim og Charlottenlund",63.421057,10.497249
+1531179,"Asalvegen 5K, Ranheim og Charlottenlund",63.42113,10.497172
+1531184,"Asalvegen 5C, Ranheim og Charlottenlund",63.421057,10.497249
+1531187,"Asalvegen 5D, Ranheim og Charlottenlund",63.42113,10.497172
+1531188,"Asalvegen 5A, Ranheim og Charlottenlund",63.421054,10.497589
+1531189,"Asalvegen 5B, Ranheim og Charlottenlund",63.421046,10.497429
+1531190,"Asalvegen 5G, Ranheim og Charlottenlund",63.421054,10.497589
+1531191,"Asalvegen 5H, Ranheim og Charlottenlund",63.421046,10.497429
+1531192,"Asalvegen 5E, Ranheim og Charlottenlund",63.421202,10.497116
+1531193,"Asalvegen 5F, Ranheim og Charlottenlund",63.421275,10.49706
+1531194,"Asalvegen 13A, Ranheim og Charlottenlund",63.42177,10.49943
+1531195,"Asalvegen 13B, Ranheim og Charlottenlund",63.421823,10.499573
+1531196,"Asalvegen 11, Ranheim og Charlottenlund",63.421613,10.499001
+1531197,"Asalvegen 11A, Ranheim og Charlottenlund",63.421648,10.499123
+1531198,"Asalvegen 13E, Ranheim og Charlottenlund",63.422017,10.499884
+1531199,"Asalvegen 13F, Ranheim og Charlottenlund",63.42207,10.499986
+1531200,"Asalvegen 13C, Ranheim og Charlottenlund",63.421875,10.499696
+1531201,"Asalvegen 13D, Ranheim og Charlottenlund",63.421974,10.499741
+1531202,"Asalvegen 4C, Ranheim og Charlottenlund",63.421933,10.498437
+1531203,"Asalvegen 4D, Ranheim og Charlottenlund",63.421968,10.498599
+1531204,"Asalvegen 4A, Ranheim og Charlottenlund",63.421846,10.498232
+1531205,"Asalvegen 4B, Ranheim og Charlottenlund",63.42189,10.498334
+1531206,"Asalvegen 9, Ranheim og Charlottenlund",63.421447,10.498611
+1531207,"Asalvegen 9A, Ranheim og Charlottenlund",63.4215,10.498694
+1531208,"Asalvegen 4E, Ranheim og Charlottenlund",63.42212,10.498607
+1531209,"Asalvegen 4F, Ranheim og Charlottenlund",63.422172,10.49877
+1531210,"Asalvegen 2C, Ranheim og Charlottenlund",63.421875,10.497672
+1531211,"Asalvegen 2D, Ranheim og Charlottenlund",63.421814,10.497849
+1531212,"Asalvegen 2A, Ranheim og Charlottenlund",63.421988,10.497518
+1531213,"Asalvegen 2B, Ranheim og Charlottenlund",63.421909,10.497558
+1531214,"Asalvegen 3B, Ranheim og Charlottenlund",63.421614,10.497198
+1531215,"Asalvegen 3C, Ranheim og Charlottenlund",63.421533,10.497213
+1531216,"Asalvegen 3, Ranheim og Charlottenlund",63.421715,10.496983
+1531217,"Asalvegen 3A, Ranheim og Charlottenlund",63.421669,10.49712
+1531218,"Asalvegen 1A, Ranheim og Charlottenlund",63.421808,10.496667
+1531219,"Asalvegen 1B, Ranheim og Charlottenlund",63.421745,10.496764
+1531220,"Asalvegen 1, Ranheim og Charlottenlund",63.421881,10.49659
+1533088,"Barlindvegen 5, Ranheim og Charlottenlund",63.419746,10.497281
+1533089,"Barlindvegen 7, Ranheim og Charlottenlund",63.419674,10.497357
+1533090,"Barlindvegen 1, Ranheim og Charlottenlund",63.419864,10.497146
+1533091,"Barlindvegen 3, Ranheim og Charlottenlund",63.419801,10.497203
+1533215,"Lønnvegen 33, Ranheim og Charlottenlund",63.41863,10.498484
+1533216,"Lønnvegen 35, Ranheim og Charlottenlund",63.418584,10.498542
+1533217,"Lønnvegen 29, Ranheim og Charlottenlund",63.418775,10.498352
+1533218,"Lønnvegen 31, Ranheim og Charlottenlund",63.418684,10.498427
+1533221,"Lønnvegen 37, Ranheim og Charlottenlund",63.41852,10.498619
+1533222,"Lønnvegen 3, Ranheim og Charlottenlund",63.419638,10.498176
+1533223,"Lønnvegen 17, Ranheim og Charlottenlund",63.419093,10.498789
+1533224,"Lønnvegen 19, Ranheim og Charlottenlund",63.418993,10.498884
+1533225,"Lønnvegen 11, Ranheim og Charlottenlund",63.419329,10.498521
+1533226,"Lønnvegen 13, Ranheim og Charlottenlund",63.419275,10.498578
+1533227,"Lønnvegen 25, Ranheim og Charlottenlund",63.418875,10.498217
+1533228,"Lønnvegen 27, Ranheim og Charlottenlund",63.41882,10.498274
+1533229,"Lønnvegen 21, Ranheim og Charlottenlund",63.41893,10.498941
+1533230,"Lønnvegen 23, Ranheim og Charlottenlund",63.418929,10.498159
+1533231,"Barlindvegen 13, Ranheim og Charlottenlund",63.419474,10.497567
+1533232,"Barlindvegen 15, Ranheim og Charlottenlund",63.419429,10.497625
+1533233,"Barlindvegen 9, Ranheim og Charlottenlund",63.41961,10.497414
+1533234,"Barlindvegen 11, Ranheim og Charlottenlund",63.419565,10.497471
+1533235,"Lønnvegen 5, Ranheim og Charlottenlund",63.419584,10.498254
+1533236,"Lønnvegen 9, Ranheim og Charlottenlund",63.419429,10.498426
+1533237,"Barlindvegen 17, Ranheim og Charlottenlund",63.419374,10.497682
+1533238,"Barlindvegen 19, Ranheim og Charlottenlund",63.41932,10.497739
+1535221,"Lønnvegen 39, Ranheim og Charlottenlund",63.418731,10.499111
+1535447,"Skogvegen 6, Ranheim og Charlottenlund",63.419441,10.496423
+1535779,"Lønnvegen 7, Ranheim og Charlottenlund",63.419484,10.498349
+1535781,"Barlindvegen 21, Ranheim og Charlottenlund",63.419145,10.498131
+1535830,"Jonsvannsveien 419A, Strinda",63.410217,10.490054
+1535832,"Jonsvannsveien 419B, Strinda",63.410188,10.490233
+1536253,"Per Kvists veg 1C, Ranheim og Charlottenlund",63.413958,10.493654
+1536254,"Per Kvists veg 1D, Ranheim og Charlottenlund",63.413974,10.493915
+1536255,"Per Kvists veg 1A, Ranheim og Charlottenlund",63.413952,10.493453
+1536256,"Per Kvists veg 1B, Ranheim og Charlottenlund",63.41396,10.493553
+1536257,"Per Kvists veg 1G, Ranheim og Charlottenlund",63.413979,10.494236
+1536258,"Per Kvists veg 1H, Ranheim og Charlottenlund",63.413987,10.494336
+1536259,"Per Kvists veg 1E, Ranheim og Charlottenlund",63.413972,10.494035
+1536260,"Per Kvists veg 1F, Ranheim og Charlottenlund",63.41398,10.494135
+1536261,"Per Kvists veg 3A, Ranheim og Charlottenlund",63.414217,10.493807
+1536262,"Per Kvists veg 3B, Ranheim og Charlottenlund",63.414225,10.493928
+1536265,"Per Kvists veg 5B, Ranheim og Charlottenlund",63.414237,10.494469
+1536266,"Per Kvists veg 5C, Ranheim og Charlottenlund",63.414245,10.49457
+1536267,"Per Kvists veg 3C, Ranheim og Charlottenlund",63.414233,10.494028
+1536268,"Per Kvists veg 5A, Ranheim og Charlottenlund",63.414238,10.494349
+1536445,"Barlindvegen 4A, Ranheim og Charlottenlund",63.420173,10.497724
+1536447,"Barlindvegen 4B, Ranheim og Charlottenlund",63.420129,10.497581
+1536449,"Barlindvegen 2E, Ranheim og Charlottenlund",63.420289,10.497393
+1536451,"Barlindvegen 2F, Ranheim og Charlottenlund",63.420296,10.497586
+1536453,"Barlindvegen 4E, Ranheim og Charlottenlund",63.420093,10.497619
+1536455,"Barlindvegen 4F, Ranheim og Charlottenlund",63.420068,10.497458
+1536457,"Barlindvegen 4C, Ranheim og Charlottenlund",63.420095,10.497439
+1536459,"Barlindvegen 4D, Ranheim og Charlottenlund",63.420154,10.497743
+1536469,"Barlindvegen 2C, Ranheim og Charlottenlund",63.420278,10.497603
+1536471,"Barlindvegen 2D, Ranheim og Charlottenlund",63.42024,10.497266
+1536473,"Barlindvegen 2A, Ranheim og Charlottenlund",63.420213,10.497285
+1536475,"Barlindvegen 2B, Ranheim og Charlottenlund",63.420263,10.497416
+1536618,"Skogvegen 32, Ranheim og Charlottenlund",63.418238,10.496421
+1536850,"Jakobslivegen 107C, Strinda",63.413272,10.490573
+1536851,"Jakobslivegen 107D, Strinda",63.413095,10.490732
+1536922,"Røsslyngvegen 1, Ranheim og Charlottenlund",63.419938,10.496403
+1651351,"Skogvegen 24B, Ranheim og Charlottenlund",63.418458,10.49696
+1766223,"Jakobslivegen 67A, Ranheim og Charlottenlund",63.418979,10.49445
+1766225,"Jakobslivegen 67B, Ranheim og Charlottenlund",63.419001,10.494407
+1852522,"Jakobslivegen 107E, Strinda",63.412955,10.491412
+1867232,"Carl Lønseths veg 2, Ranheim og Charlottenlund",63.413943,10.490358
+1940763,"Jakobsgrenda 1B, Ranheim og Charlottenlund",63.417054,10.49504
+1940764,"Jakobsgrenda 1C, Ranheim og Charlottenlund",63.416995,10.495019
+1940765,"Jakobsgrenda 1D, Ranheim og Charlottenlund",63.416957,10.495003
+1940769,"Jakobsgrenda 1E, Ranheim og Charlottenlund",63.416912,10.495003
+1941948,"Einervegen 9B, Ranheim og Charlottenlund",63.423017,10.497115
+1943331,"Dalheimslyngen 35B, Strinda",63.412331,10.482734
+1959265,"Røsslyngvegen 4A, Ranheim og Charlottenlund",63.420463,10.496992
+1970493,"Lønnvegen 6B, Ranheim og Charlottenlund",63.419064,10.500581
+1972355,"Jakobslivegen 19B, Ranheim og Charlottenlund",63.424684,10.493603
+1972381,"Jakobslivegen 19A, Ranheim og Charlottenlund",63.424756,10.493669
+1996353,"Dalheimvegen 11B, Strinda",63.411377,10.484118
+2000471,"Almevegen 12C, Ranheim og Charlottenlund",63.422624,10.502807
+2000475,"Almevegen 12B, Ranheim og Charlottenlund",63.422654,10.502948
+2013310,"Almevegen 46B, Ranheim og Charlottenlund",63.421213,10.505698
+2036269,"Per Kvists veg 18, Ranheim og Charlottenlund",63.414565,10.497628
+2036273,"Per Kvists veg 16, Ranheim og Charlottenlund",63.414745,10.497738
+2047996,"Almevegen 56, Ranheim og Charlottenlund",63.419766,10.505001
+2078307,"Presthusvegen 76, Strinda",63.411987,10.500397
+2083344,"Jakobslivegen 28B, Ranheim og Charlottenlund",63.423744,10.495508
+2176301,"Jakobslivegen 65, Ranheim og Charlottenlund",63.419121,10.494403
+2180477,"Skogvegen 24A, Ranheim og Charlottenlund",63.418459,10.496923
+2187075,"Einervegen 8, Ranheim og Charlottenlund",63.423208,10.497018
+2227180,"Skogvegen 20A, Ranheim og Charlottenlund",63.418702,10.496685
+2227216,"Skogvegen 20B, Ranheim og Charlottenlund",63.418657,10.496474
+2227217,"Skogvegen 20C, Ranheim og Charlottenlund",63.418692,10.496475
+2353626,"Dalheimvegen 18A, Strinda",63.411192,10.481616
+2353627,"Dalheimvegen 18B, Strinda",63.411194,10.481478
+2385782,"Jakobslivegen 65A, Ranheim og Charlottenlund",63.419189,10.494565
+2385783,"Jakobslivegen 65B, Ranheim og Charlottenlund",63.41911,10.494562
+2390827,"Presthusvegen 71, Strinda",63.413164,10.500943
+2390829,"Presthusvegen 69, Strinda",63.413521,10.501142

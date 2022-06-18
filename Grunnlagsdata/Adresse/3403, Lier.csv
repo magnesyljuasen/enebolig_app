@@ -1,0 +1,907 @@
+,Navn,Long,Lat
+2056604,"Hegsbroveien 85, Frogner",59.788966,10.247518
+2257345,"Skafstadveien 13, Frogner",59.790672,10.265666
+2257346,"Skafstadveien 19, Frogner",59.790538,10.26587
+2536108,"Brastadveien 1, Frogner",59.789109,10.248546
+2536109,"Brastadveien 2, Frogner",59.788406,10.24884
+2536110,"Brastadveien 3, Frogner",59.789266,10.248997
+2536111,"Brastadveien 4, Frogner",59.788034,10.249183
+2536112,"Brastadveien 5, Frogner",59.789535,10.249078
+2536113,"Brastadveien 7, Frogner",59.78951,10.249676
+2536114,"Brastadveien 8, Frogner",59.785298,10.247869
+2536115,"Brastadveien 9, Frogner",59.789496,10.250875
+2536116,"Brastadveien 11, Frogner",59.789517,10.250187
+2536117,"Brastadveien 12, Frogner",59.787188,10.253142
+2536118,"Brastadveien 18, Frogner",59.782589,10.256977
+2536119,"Brastadveien 20, Frogner",59.781995,10.259948
+2536120,"Brastadveien 24, Frogner",59.787524,10.253689
+2536121,"Brastadveien 25, Frogner",59.787765,10.257653
+2536122,"Brastadveien 27, Frogner",59.787715,10.259112
+2536123,"Brastadveien 29, Frogner",59.78757,10.259267
+2536124,"Brastadveien 32, Frogner",59.784669,10.261117
+2536125,"Brastadveien 34, Frogner",59.784219,10.262169
+2536126,"Brastadveien 38, Frogner",59.785812,10.264581
+2536128,"Brastadveien 40, Frogner",59.78555,10.264821
+2536138,"Brattbakken 5A, Frogner",59.795608,10.25916
+2536139,"Brattbakken 5B, Frogner",59.79568,10.259145
+2536140,"Brattbakken 7, Frogner",59.79592,10.259457
+2536141,"Brattbakken 11A, Frogner",59.795769,10.260218
+2536142,"Brattbakken 11B, Frogner",59.795823,10.26022
+2536222,"Elveveien 2, Frogner",59.790461,10.248044
+2536392,"Elveveien 4, Frogner",59.790401,10.247703
+2536393,"Elveveien 6B, Frogner",59.790364,10.247212
+2536394,"Elveveien 8, Frogner",59.790284,10.246733
+2536395,"Elveveien 11, Frogner",59.789767,10.244437
+2536396,"Elveveien 13, Frogner",59.789934,10.244835
+2536397,"Elveveien 15, Frogner",59.790154,10.245378
+2536398,"Elveveien 17, Frogner",59.790193,10.244987
+2536399,"Elveveien 18, Frogner",59.790494,10.244517
+2536400,"Elveveien 20, Frogner",59.790265,10.244045
+2536401,"Elveveien 21, Frogner",59.789843,10.243994
+2536402,"Elveveien 22, Frogner",59.790052,10.243806
+2536492,"Fosshaugveien 1, Frogner",59.790366,10.269172
+2536493,"Fosshaugveien 2, Frogner",59.790668,10.270502
+2536494,"Fosshaugveien 3, Frogner",59.790658,10.269629
+2536495,"Fosshaugveien 4, Frogner",59.791015,10.270854
+2536496,"Fosshaugveien 5, Frogner",59.791064,10.26943
+2536497,"Fosshaugveien 6, Frogner",59.79118,10.270504
+2536498,"Fosshaugveien 7, Frogner",59.79126,10.269634
+2536499,"Fosshaugveien 8, Frogner",59.791244,10.270328
+2536500,"Fosshaugveien 9, Frogner",59.791324,10.269512
+2536501,"Fosshaugveien 10, Frogner",59.791654,10.269774
+2536502,"Fosshaugveien 12, Frogner",59.79156,10.270198
+2536503,"Fosshaugveien 14, Frogner",59.791338,10.270795
+2536504,"Fossveien 12A, Frogner",59.793629,10.257696
+2536505,"Fossveien 12B, Frogner",59.793834,10.257864
+2536506,"Fossveien 14A, Frogner",59.793664,10.258695
+2536507,"Fossveien 14B, Frogner",59.793932,10.258883
+2536508,"Fossveien 16A, Frogner",59.793078,10.258031
+2536509,"Fossveien 16B, Frogner",59.793381,10.258239
+2536510,"Fossveien 17, Frogner",59.794568,10.259994
+2536511,"Fossveien 18A, Frogner",59.793646,10.259585
+2536512,"Fossveien 18B, Frogner",59.793914,10.259774
+2536513,"Fossveien 19, Frogner",59.794189,10.261049
+2536514,"Fossveien 20A, Frogner",59.793353,10.260233
+2536515,"Fossveien 20B, Frogner",59.793603,10.260421
+2536516,"Fossveien 20C, Frogner",59.79379,10.260535
+2536517,"Fossveien 22, Frogner",59.793602,10.261455
+2536518,"Fossveien 23A, Frogner",59.79384,10.262346
+2536519,"Fossveien 24, Frogner",59.793309,10.261016
+2536520,"Fossveien 25, Frogner",59.793444,10.262892
+2536521,"Fossveien 27, Frogner",59.793623,10.262988
+2536686,"Grimsgaards vei 3, Frogner",59.796353,10.259242
+2536687,"Grimsgaards vei 5, Frogner",59.796383,10.25894
+2536688,"Grimsgaards vei 7, Frogner",59.796452,10.258283
+2536689,"Grimsgaards vei 10, Frogner",59.796775,10.258331
+2536815,"Haskollveien 1, Frogner",59.79106,10.251095
+2536816,"Haskollveien 2A, Frogner",59.790777,10.250713
+2536817,"Haskollveien 2B, Frogner",59.790814,10.250669
+2536818,"Haskollveien 2C, Frogner",59.790853,10.250624
+2536819,"Haskollveien 2D, Frogner",59.790884,10.250589
+2536820,"Haskollveien 2E, Frogner",59.79092,10.250552
+2536821,"Haskollveien 2F, Frogner",59.790954,10.250511
+2536822,"Haskollveien 3, Frogner",59.791213,10.251083
+2536823,"Haskollveien 4A, Frogner",59.790463,10.250369
+2536824,"Haskollveien 4B, Frogner",59.790502,10.250326
+2536825,"Haskollveien 4C, Frogner",59.790536,10.250286
+2536826,"Haskollveien 4D, Frogner",59.790571,10.250245
+2536827,"Haskollveien 4E, Frogner",59.790604,10.250213
+2536828,"Haskollveien 4F, Frogner",59.790638,10.250175
+2536829,"Haskollveien 5, Frogner",59.791218,10.251511
+2536830,"Haskollveien 6A, Frogner",59.790153,10.250027
+2536831,"Haskollveien 6B, Frogner",59.790191,10.249988
+2536832,"Haskollveien 6C, Frogner",59.790226,10.249949
+2536833,"Haskollveien 6D, Frogner",59.79026,10.249911
+2536834,"Haskollveien 6E, Frogner",59.790294,10.249876
+2536835,"Haskollveien 6F, Frogner",59.790333,10.249828
+2536836,"Haskollveien 7, Frogner",59.791206,10.251796
+2536837,"Haskollveien 8A, Frogner",59.79005,10.250901
+2536838,"Haskollveien 8B, Frogner",59.790087,10.250856
+2536839,"Haskollveien 8C, Frogner",59.790123,10.250816
+2536840,"Haskollveien 8D, Frogner",59.790156,10.25078
+2536841,"Haskollveien 8E, Frogner",59.790192,10.250741
+2536842,"Haskollveien 8F, Frogner",59.790223,10.250705
+2536843,"Haskollveien 9, Frogner",59.791221,10.252099
+2536844,"Haskollveien 10A, Frogner",59.79042,10.251227
+2536845,"Haskollveien 10B, Frogner",59.790459,10.25118
+2536846,"Haskollveien 10C, Frogner",59.790493,10.251145
+2536847,"Haskollveien 10D, Frogner",59.790521,10.251111
+2536848,"Haskollveien 10E, Frogner",59.790558,10.251077
+2536849,"Haskollveien 10F, Frogner",59.790594,10.251024
+2536850,"Haskollveien 11, Frogner",59.791228,10.252385
+2536851,"Haskollveien 13, Frogner",59.790947,10.252623
+2536852,"Haskollveien 15, Frogner",59.790887,10.252318
+2536853,"Haskollveien 17, Frogner",59.790881,10.252033
+2536854,"Haskollveien 21, Frogner",59.791338,10.254028
+2536855,"Haskollveien 22A, Frogner",59.790273,10.25356
+2536856,"Haskollveien 22B, Frogner",59.790409,10.253459
+2536857,"Haskollveien 22C, Frogner",59.790563,10.253322
+2536858,"Haskollveien 22D, Frogner",59.790708,10.25322
+2536859,"Haskollveien 23, Frogner",59.791331,10.253743
+2536860,"Haskollveien 24A, Frogner",59.790165,10.254608
+2536861,"Haskollveien 24B, Frogner",59.790309,10.254524
+2536862,"Haskollveien 24C, Frogner",59.790454,10.254369
+2536863,"Haskollveien 24D, Frogner",59.790608,10.254268
+2536864,"Haskollveien 24E, Frogner",59.790753,10.254113
+2536865,"Haskollveien 24F, Frogner",59.790907,10.253994
+2536866,"Haskollveien 25, Frogner",59.791325,10.253439
+2536867,"Haskollveien 26A, Frogner",59.790942,10.255011
+2536868,"Haskollveien 26B, Frogner",59.791087,10.254892
+2536869,"Haskollveien 27, Frogner",59.79112,10.25336
+2536870,"Haskollveien 28A, Frogner",59.791397,10.255313
+2536871,"Haskollveien 28B, Frogner",59.791533,10.255211
+2536872,"Haskollveien 29, Frogner",59.79106,10.253055
+2536873,"Haskollveien 30A, Frogner",59.791911,10.255172
+2536874,"Haskollveien 30B, Frogner",59.792046,10.255088
+2536875,"Haskollveien 30C, Frogner",59.7922,10.254916
+2536876,"Haskollveien 30D, Frogner",59.792354,10.254814
+2536877,"Haskollveien 31, Frogner",59.791286,10.252886
+2536878,"Haskollveien 33, Frogner",59.79143,10.252873
+2536879,"Haskollveien 34A, Frogner",59.792938,10.254971
+2536880,"Haskollveien 34B, Frogner",59.793004,10.254921
+2536881,"Haskollveien 34C, Frogner",59.793041,10.254887
+2536882,"Haskollveien 34D, Frogner",59.793081,10.254877
+2536883,"Haskollveien 34E, Frogner",59.793118,10.254837
+2536884,"Haskollveien 35, Frogner",59.791574,10.252843
+2536885,"Haskollveien 36A, Frogner",59.792637,10.254518
+2536886,"Haskollveien 36B, Frogner",59.792701,10.254464
+2536887,"Haskollveien 36C, Frogner",59.792739,10.25444
+2536888,"Haskollveien 36D, Frogner",59.792784,10.254408
+2536889,"Haskollveien 36E, Frogner",59.79282,10.254385
+2536890,"Haskollveien 36F, Frogner",59.792859,10.254356
+2536891,"Haskollveien 37, Frogner",59.791726,10.252849
+2536892,"Haskollveien 38A, Frogner",59.79304,10.254168
+2536893,"Haskollveien 38B, Frogner",59.793079,10.254147
+2536894,"Haskollveien 38C, Frogner",59.793123,10.254108
+2536895,"Haskollveien 38D, Frogner",59.793157,10.254082
+2536896,"Haskollveien 38E, Frogner",59.793198,10.254053
+2536897,"Haskollveien 38F, Frogner",59.793235,10.254027
+2536898,"Haskollveien 39, Frogner",59.791597,10.253254
+2536899,"Haskollveien 41, Frogner",59.791639,10.253558
+2536900,"Haskollveien 43, Frogner",59.791672,10.253844
+2536901,"Haskollveien 45, Frogner",59.791723,10.254131
+2536902,"Haskollveien 47, Frogner",59.791923,10.253907
+2536903,"Haskollveien 49, Frogner",59.79197,10.253624
+2536904,"Haskollveien 51, Frogner",59.791928,10.25332
+2536905,"Haskollveien 53, Frogner",59.791895,10.253015
+2536906,"Haskollveien 55, Frogner",59.791839,10.252318
+2536907,"Haskollveien 57, Frogner",59.791833,10.252015
+2536908,"Haskollveien 59, Frogner",59.7918,10.251729
+2536909,"Haskollveien 61, Frogner",59.791794,10.251426
+2536910,"Haskollveien 63, Frogner",59.79222,10.251869
+2536911,"Haskollveien 65, Frogner",59.792235,10.252173
+2536912,"Haskollveien 67, Frogner",59.792242,10.252458
+2536913,"Haskollveien 69, Frogner",59.792211,10.252831
+2536914,"Haskollveien 71, Frogner",59.792235,10.253135
+2536915,"Haskollveien 73, Frogner",59.792268,10.253421
+2536916,"Haskollveien 75, Frogner",59.792329,10.253709
+2536917,"Haskollveien 77, Frogner",59.792537,10.253556
+2536918,"Haskollveien 79, Frogner",59.792539,10.253289
+2536919,"Haskollveien 81, Frogner",59.792506,10.252985
+2536920,"Haskollveien 83, Frogner",59.7925,10.2527
+2536921,"Haskollveien 85, Frogner",59.792478,10.252218
+2536922,"Haskollveien 87, Frogner",59.792621,10.252223
+2536923,"Haskollveien 89, Frogner",59.792807,10.252497
+2536924,"Haskollveien 91, Frogner",59.792849,10.252784
+2536925,"Haskollveien 93, Frogner",59.7929,10.253089
+2536926,"Haskollveien 95, Frogner",59.793163,10.252903
+2536927,"Haskollveien 97, Frogner",59.793206,10.253219
+2536928,"Haskollveien 99, Frogner",59.793349,10.253159
+2536929,"Haslumveien 2, Frogner",59.78821,10.268306
+2536930,"Haslumveien 4, Frogner",59.787898,10.268063
+2536931,"Haslumveien 6, Frogner",59.787779,10.267435
+2536932,"Haslumveien 8, Frogner",59.787692,10.267075
+2536933,"Haslumveien 10, Frogner",59.787298,10.266027
+2536934,"Haslumveien 12, Frogner",59.787372,10.266707
+2536935,"Haslumveien 14, Frogner",59.787475,10.267281
+2536936,"Haslumveien 16, Frogner",59.78756,10.267801
+2536937,"Haslumveien 22, Frogner",59.787526,10.268512
+2536938,"Haslumveien 24, Frogner",59.78702,10.268814
+2536939,"Haslumveien 26, Frogner",59.786861,10.269431
+2537068,"Heggtoppen 2, Frogner",59.77953,10.244358
+2537069,"Heggtoppen 4, Frogner",59.779845,10.244299
+2537070,"Heggtoppen 5A, Frogner",59.779657,10.242804
+2537071,"Heggtoppen 6, Frogner",59.78005,10.244431
+2537072,"Heggtoppen 7A, Frogner",59.780133,10.243086
+2537073,"Heggtoppen 8, Frogner",59.780207,10.244027
+2537074,"Heggtoppen 9A, Frogner",59.780837,10.242577
+2537075,"Heggtoppen 9B, Frogner",59.780874,10.242513
+2537076,"Heggtoppen 9C, Frogner",59.78091,10.242452
+2537077,"Heggtoppen 9D, Frogner",59.780948,10.242412
+2537078,"Heggtoppen 10, Frogner",59.780324,10.243643
+2537079,"Heggtoppen 12, Frogner",59.780612,10.243742
+2537080,"Heggtoppen 13, Frogner",59.78177,10.242234
+2537081,"Heggtoppen 14, Frogner",59.78098,10.242946
+2537082,"Heggtoppen 16, Frogner",59.781277,10.242945
+2537083,"Heggtoppen 18A, Frogner",59.781442,10.242902
+2537402,"Kirkeveien 1, Frogner",59.781477,10.243665
+2537403,"Kirkeveien 3, Frogner",59.781154,10.243599
+2537404,"Kirkeveien 5, Frogner",59.780894,10.243572
+2537406,"Kirkeveien 7, Frogner",59.780808,10.24405
+2537408,"Kirkeveien 9, Frogner",59.780653,10.244382
+2538234,"Nordveien 7, Frogner",59.789402,10.247035
+2538315,"Nordveien 2, Frogner",59.788809,10.24702
+2538316,"Nordveien 3, Frogner",59.789099,10.246764
+2538317,"Nordveien 4, Frogner",59.789059,10.24719
+2538318,"Nordveien 5, Frogner",59.78925,10.246912
+2538319,"Nordveien 6, Frogner",59.78921,10.247356
+2538320,"Nordveien 8, Frogner",59.789406,10.247488
+2538639,"Ottar Lingjærdes vei 2A, Frogner",59.795319,10.261199
+2538640,"Ottar Lingjærdes vei 2B, Frogner",59.795282,10.261304
+2538641,"Ottar Lingjærdes vei 2C, Frogner",59.795246,10.261392
+2538642,"Ottar Lingjærdes vei 2D, Frogner",59.7952,10.261479
+2538643,"Ottar Lingjærdes vei 3A, Frogner",59.795263,10.262768
+2538644,"Ottar Lingjærdes vei 3B, Frogner",59.795308,10.262688
+2538645,"Ottar Lingjærdes vei 3C, Frogner",59.79535,10.26261
+2538646,"Ottar Lingjærdes vei 3D, Frogner",59.795396,10.262494
+2538647,"Ottar Lingjærdes vei 3E, Frogner",59.795443,10.262409
+2538648,"Ottar Lingjærdes vei 3F, Frogner",59.795476,10.26234
+2538649,"Ottar Lingjærdes vei 4A, Frogner",59.795179,10.261817
+2538650,"Ottar Lingjærdes vei 4B, Frogner",59.795133,10.261904
+2538651,"Ottar Lingjærdes vei 4C, Frogner",59.795096,10.261992
+2538652,"Ottar Lingjærdes vei 4D, Frogner",59.795051,10.262062
+2538653,"Ottar Lingjærdes vei 5, Frogner",59.795381,10.26325
+2538654,"Ottar Lingjærdes vei 6A, Frogner",59.794967,10.262362
+2538655,"Ottar Lingjærdes vei 6B, Frogner",59.794931,10.262396
+2538656,"Ottar Lingjærdes vei 6C, Frogner",59.794876,10.262501
+2538657,"Ottar Lingjærdes vei 6D, Frogner",59.794821,10.262588
+2538658,"Ottar Lingjærdes vei 7, Frogner",59.795046,10.263523
+2538659,"Ottar Lingjærdes vei 8, Frogner",59.794612,10.262865
+2538660,"Ottar Lingjærdes vei 9, Frogner",59.794682,10.264008
+2538661,"Ottar Lingjærdes vei 10, Frogner",59.793612,10.264164
+2538662,"Ottar Lingjærdes vei 11, Frogner",59.794587,10.263577
+2538665,"Paradisbakkene 1, Frogner",59.794597,10.256004
+2538666,"Paradisbakkene 3, Frogner",59.795784,10.256743
+2538667,"Paradisbakkene 9A, Frogner",59.79685,10.25607
+2538668,"Paradisbakkene 11, Frogner",59.797129,10.256936
+2538669,"Paradisbakkene 12, Frogner",59.796794,10.258207
+2538670,"Paradisbakkene 13, Frogner",59.796846,10.257425
+2538671,"Paradisbakkene 15, Frogner",59.797033,10.257646
+2538672,"Paradisbakkene 16, Frogner",59.797178,10.258417
+2538673,"Paradisbakkene 17, Frogner",59.797328,10.257817
+2538674,"Paradisbakkene 18, Frogner",59.797598,10.258629
+2538675,"Paradisbakkene 19, Frogner",59.797442,10.257073
+2538676,"Paradisbakkene 20, Frogner",59.79789,10.258563
+2538677,"Paradisbakkene 21, Frogner",59.797701,10.257279
+2538678,"Paradisbakkene 22, Frogner",59.798118,10.258702
+2538679,"Paradisbakkene 23, Frogner",59.797646,10.25796
+2538680,"Paradisbakkene 25, Frogner",59.798207,10.257904
+2538681,"Paradisbakkene 27, Frogner",59.798341,10.257944
+2538767,"Rønningen 4, Frogner",59.789203,10.24618
+2538850,"Rønningen 1, Frogner",59.788586,10.246834
+2538851,"Rønningen 2, Frogner",59.788959,10.246597
+2538852,"Rønningen 3, Frogner",59.788385,10.246256
+2538853,"Rønningen 9, Frogner",59.788532,10.245905
+2538854,"Rønningen 11, Frogner",59.788716,10.246375
+2538855,"Rønningen 13, Frogner",59.78881,10.245969
+2538856,"Rønningen 15, Frogner",59.788581,10.245479
+2538857,"Rønningen 17, Frogner",59.788709,10.245235
+2538858,"Rønningen 21, Frogner",59.788417,10.244743
+2538859,"Rønningen 23, Frogner",59.788557,10.244196
+2538860,"Rønningen 25, Frogner",59.788585,10.244072
+2538861,"Rønningen 27, Frogner",59.788707,10.244504
+2538862,"Rønningen 29, Frogner",59.788883,10.244938
+2538863,"Rønningen 31, Frogner",59.788937,10.244833
+2538864,"Rønningen 33, Frogner",59.788975,10.245619
+2538865,"Rønningen 35, Frogner",59.789104,10.245285
+2540311,"Grønnlundveien 3, Frogner",59.785132,10.242643
+2540312,"Grønnlundveien 5, Frogner",59.785359,10.242473
+2540313,"Grønnlundveien 9, Frogner",59.784909,10.242563
+2540314,"Grønnlundveien 11, Frogner",59.784879,10.241939
+2540315,"Grønnlundveien 16, Frogner",59.785156,10.241112
+2540316,"Heggveien 1, Frogner",59.783228,10.244585
+2540317,"Heggveien 3, Frogner",59.783162,10.244974
+2540318,"Heggveien 2, Frogner",59.782846,10.245123
+2540319,"Heggveien 4, Frogner",59.781826,10.245351
+2540320,"Heggveien 6, Frogner",59.781915,10.246692
+2540321,"Heggveien 8, Frogner",59.781907,10.247564
+2540322,"Heggveien 10, Frogner",59.781834,10.247704
+2540323,"Heggveien 5A, Frogner",59.783202,10.250415
+2540324,"Heggveien 7, Frogner",59.782851,10.246441
+2540325,"Heggveien 9, Frogner",59.782659,10.24688
+2540326,"Heggveien 11, Frogner",59.782484,10.247265
+2540327,"Heggveien 15, Frogner",59.782172,10.247984
+2540328,"Heggveien 17, Frogner",59.782073,10.248033
+2540329,"Heggalleen 4, Frogner",59.781251,10.248928
+2540330,"Heggalleen 6, Frogner",59.781187,10.24862
+2540331,"Heggalleen 8, Frogner",59.780787,10.248129
+2540332,"Heggalleen 10, Frogner",59.780838,10.248397
+2540333,"Heggalleen 12, Frogner",59.78097,10.248937
+2540334,"Heggalleen 15, Frogner",59.781198,10.250564
+2540335,"Heggalleen 11, Frogner",59.7817,10.250371
+2540336,"Heggveien 23, Frogner",59.782295,10.249217
+2540337,"Heggveien 21, Frogner",59.782235,10.248966
+2540338,"Klokkersvingen 1, Frogner",59.78313,10.242998
+2540339,"Klokkersvingen 4, Frogner",59.783316,10.241916
+2540340,"Klokkersvingen 3, Frogner",59.782872,10.242381
+2540341,"Klokkersvingen 2, Frogner",59.783418,10.241564
+2540342,"Klokkersvingen 6, Frogner",59.783065,10.241853
+2540343,"Klokkersvingen 7, Frogner",59.782487,10.242242
+2540344,"Klokkersvingen 8, Frogner",59.782851,10.241739
+2540345,"Klokkersvingen 9, Frogner",59.782256,10.242002
+2540346,"Klokkersvingen 11, Frogner",59.782096,10.241764
+2540347,"Slettaveien 1, Frogner",59.783449,10.243043
+2540348,"Slettaveien 4, Frogner",59.783709,10.243089
+2540349,"Slettaveien 3, Frogner",59.783506,10.242707
+2540350,"Slettaveien 5, Frogner",59.78359,10.24239
+2540351,"Slettaveien 6, Frogner",59.783785,10.242717
+2540352,"Slettaveien 7A, Frogner",59.783595,10.241891
+2540353,"Slettaveien 7B, Frogner",59.783605,10.241731
+2540354,"Slettaveien 8, Frogner",59.783877,10.2424
+2540355,"Slettaveien 10, Frogner",59.783863,10.242026
+2540356,"Slettaveien 12, Frogner",59.783938,10.241672
+2540357,"Slettaveien 14, Frogner",59.784032,10.241212
+2540358,"Verkstedveien 6A, Frogner",59.785,10.24092
+2540359,"Verkstedveien 7, Frogner",59.784176,10.242215
+2540360,"Verkstedveien 9, Frogner",59.784262,10.241631
+2540510,"Hellumveien 4, Tranby og Lierskogen",59.810675,10.249103
+2540511,"Hellumveien 2, Tranby og Lierskogen",59.809633,10.248119
+2540512,"Hellumveien 1A, Tranby og Lierskogen",59.808154,10.246922
+2540513,"Hellumveien 6, Tranby og Lierskogen",59.810694,10.249923
+2540514,"Hellumveien 9, Tranby og Lierskogen",59.808162,10.24514
+2540515,"Hellumveien 5, Tranby og Lierskogen",59.807236,10.245195
+2540516,"Hellumveien 7, Tranby og Lierskogen",59.806341,10.238209
+2540517,"Kikutveien 1, Tranby og Lierskogen",59.801731,10.248091
+2540518,"Kikutveien 2, Tranby og Lierskogen",59.802048,10.248744
+2540566,"Ringeriksveien 165, Frogner",59.79246,10.249348
+2540567,"Ringeriksveien 175, Frogner",59.793993,10.252453
+2540568,"Ringeriksveien 178, Frogner",59.795835,10.25425
+2540569,"Ringeriksveien 180, Frogner",59.796919,10.25454
+2540570,"Ringeriksveien 182, Frogner",59.796779,10.255034
+2540571,"Ringeriksveien 183, Frogner",59.797732,10.251203
+2540572,"Ringeriksveien 185, Frogner",59.797872,10.250602
+2540573,"Ringeriksveien 184, Frogner",59.797128,10.25519
+2540574,"Ringeriksveien 191, Tranby og Lierskogen",59.799929,10.248513
+2540575,"Ringeriksveien 193, Tranby og Lierskogen",59.800417,10.248345
+2540576,"Ringeriksveien 195, Tranby og Lierskogen",59.800222,10.247143
+2540577,"Ringeriksveien 197, Tranby og Lierskogen",59.799961,10.247205
+2540578,"Ringeriksveien 221, Tranby og Lierskogen",59.806806,10.246681
+2540579,"Ringeriksveien 223, Tranby og Lierskogen",59.806971,10.245773
+2540580,"Ringeriksveien 225, Tranby og Lierskogen",59.807083,10.247168
+2540581,"Ringeriksveien 227, Tranby og Lierskogen",59.80765,10.247046
+2540582,"Ringeriksveien 235, Tranby og Lierskogen",59.810376,10.245544
+2540583,"Ringeriksveien 237, Tranby og Lierskogen",59.810757,10.246164
+2540584,"Ringeriksveien 238, Tranby og Lierskogen",59.811749,10.247627
+2540585,"Ringeriksveien 244, Tranby og Lierskogen",59.812849,10.249023
+2540586,"Ringeriksveien 246, Tranby og Lierskogen",59.812615,10.250031
+2540587,"Ringeriksveien 250, Tranby og Lierskogen",59.81486,10.249063
+2540588,"Ringeriksveien 252, Tranby og Lierskogen",59.815257,10.248846
+2540631,"Ringeriksveien 187, Frogner",59.798209,10.25106
+2540737,"Vestsideveien 1A, Frogner",59.785497,10.24347
+2540738,"Vestsideveien 1B, Frogner",59.785469,10.243653
+2540739,"Vestsideveien 5B, Frogner",59.786209,10.242772
+2540740,"Vestsideveien 5C, Frogner",59.786317,10.242705
+2540741,"Vestsideveien 5D, Frogner",59.786489,10.242569
+2540742,"Vestsideveien 5E, Frogner",59.786517,10.242516
+2540743,"Vestsideveien 5F, Frogner",59.786571,10.242465
+2540897,"Hegsbroveien 2, Frogner",59.778647,10.246623
+2540898,"Hegsbroveien 10, Frogner",59.780232,10.246094
+2540899,"Hegsbroveien 20, Frogner",59.783428,10.244361
+2540900,"Hegsbroveien 26, Frogner",59.784435,10.244256
+2540901,"Hegsbroveien 28, Frogner",59.784569,10.244332
+2540902,"Hegsbroveien 30, Frogner",59.784757,10.244357
+2540903,"Hegsbroveien 32, Frogner",59.784999,10.244384
+2540904,"Hegsbroveien 34, Frogner",59.785282,10.244385
+2540905,"Hegsbroveien 36, Frogner",59.785512,10.244497
+2540906,"Hegsbroveien 38, Frogner",59.785704,10.244476
+2540907,"Hegsbroveien 42, Frogner",59.785335,10.245857
+2540908,"Hegsbroveien 52, Frogner",59.786107,10.245165
+2540909,"Hegsbroveien 66, Frogner",59.787096,10.245869
+2540910,"Hegsbroveien 70, Frogner",59.786955,10.247468
+2540911,"Hegsbroveien 72, Frogner",59.787409,10.247859
+2540912,"Hegsbroveien 76C, Frogner",59.787072,10.24648
+2540913,"Hegsbroveien 80, Frogner",59.787593,10.246494
+2540914,"Hegsbroveien 78, Frogner",59.787407,10.246122
+2540915,"Hegsbroveien 82, Frogner",59.788186,10.247383
+2540916,"Hegsbroveien 84, Frogner",59.788327,10.247679
+2540917,"Hegsbroveien 86, Frogner",59.788163,10.247922
+2540918,"Hegsbroveien 88, Frogner",59.787986,10.248539
+2540919,"Hegsbroveien 90, Frogner",59.788496,10.247846
+2540920,"Hegsbroveien 15, Frogner",59.78269,10.243096
+2540921,"Hegsbroveien 81, Frogner",59.788308,10.246841
+2540922,"Bruveien 2, Frogner",59.787231,10.244539
+2540923,"Bruveien 5, Frogner",59.78748,10.244138
+2540924,"Bruveien 9, Frogner",59.787591,10.245727
+2540925,"Verkstedveien 2, Frogner",59.784793,10.243396
+2540980,"Ringeriksveien 161, Frogner",59.791227,10.249605
+2541010,"Vestsideveien 7B, Frogner",59.786432,10.241399
+2541011,"Vestsideveien 9A, Frogner",59.786643,10.241386
+2541012,"Vestsideveien 9B, Frogner",59.786785,10.241596
+2541013,"Vestsideveien 9C, Frogner",59.786865,10.241674
+2541014,"Vestsideveien 9D, Frogner",59.786915,10.24191
+2541015,"Vestsideveien 9E, Frogner",59.787032,10.241567
+2541016,"Vestsideveien 9F, Frogner",59.786915,10.241513
+2541147,"Vestsideveien 5A, Frogner",59.786164,10.242806
+2541889,"Ringeriksveien 159, Frogner",59.79162,10.249869
+2541890,"Ringeriksveien 169, Frogner",59.792957,10.249028
+2541891,"Ringeriksveien 171, Frogner",59.793126,10.249195
+2541975,"Grønnlundveien 1, Frogner",59.785209,10.24359
+2542061,"Stokkeveien 14, Frogner",59.788655,10.266916
+2542062,"Stokkeveien 16, Frogner",59.789145,10.269179
+2542063,"Stokkeveien 11, Frogner",59.7894,10.27163
+2542064,"Stokkeveien 13, Frogner",59.790111,10.27139
+2542067,"Stokkeveien 4, Frogner",59.791256,10.260725
+2542068,"Stokkeveien 8A, Frogner",59.791785,10.262028
+2542070,"Stokkeveien 12, Frogner",59.788607,10.265514
+2542071,"Stokkeveien 5, Frogner",59.790033,10.268322
+2542196,"Ringeriksveien 241, Tranby og Lierskogen",59.812607,10.244183
+2542211,"Haskollveien 101, Frogner",59.793446,10.253228
+2542212,"Hegsbroveien 48, Frogner",59.786241,10.246069
+2542213,"Hegsbroveien 46, Frogner",59.786077,10.24704
+2542214,"Kikutveien 3, Tranby og Lierskogen",59.801052,10.238191
+2542215,"Kikutveien 5, Tranby og Lierskogen",59.801267,10.237308
+2542356,"Heggtoppen 1, Frogner",59.779389,10.24316
+2542363,"Hegsbroveien 22, Frogner",59.783804,10.2445
+2542364,"Hegsbroveien 24, Frogner",59.784218,10.244408
+2542365,"Grønnlundveien 14A, Frogner",59.785402,10.241726
+2542427,"Vestsideveien 2, Frogner",59.786779,10.243221
+2542469,"Vestsideveien 3A, Frogner",59.785873,10.24295
+2542470,"Vestsideveien 3E, Frogner",59.786086,10.242284
+2542471,"Vestsideveien 3B, Frogner",59.785826,10.242455
+2542472,"Vestsideveien 3C, Frogner",59.785831,10.241938
+2542473,"Vestsideveien 3D, Frogner",59.785988,10.24141
+2542508,"Haskollbakken 1, Frogner",59.790473,10.252445
+2542509,"Haskollbakken 5, Frogner",59.79,10.252998
+2542510,"Haskollbakken 7, Frogner",59.789887,10.252602
+2542511,"Haskollbakken 9, Frogner",59.790287,10.252189
+2542512,"Haskollbakken 11, Frogner",59.790108,10.251854
+2542513,"Haskollbakken 15, Frogner",59.789822,10.251922
+2542514,"Haskollbakken 17, Frogner",59.789834,10.251566
+2542515,"Haskollbakken 19, Frogner",59.78991,10.251213
+2542517,"Heggveien 13, Frogner",59.782328,10.247615
+2542608,"Brattbakken 9A, Frogner",59.796015,10.259853
+2542609,"Brattbakken 9B, Frogner",59.795907,10.259902
+2542628,"Grimsgaards vei 1A, Frogner",59.796099,10.260444
+2542629,"Grimsgaards vei 1B, Frogner",59.79632,10.259918
+2542692,"Vestsideveien 13, Frogner",59.786997,10.241111
+2542693,"Vestsideveien 11, Frogner",59.787181,10.241561
+2542694,"Vestsideveien 15, Frogner",59.786828,10.240907
+2542704,"Fossveien 5, Frogner",59.794375,10.257563
+2542705,"Fossveien 7, Frogner",59.794729,10.258111
+2542706,"Fossveien 11, Frogner",59.794792,10.25904
+2542747,"Fossveien 13A, Frogner",59.794449,10.259295
+2542748,"Fossveien 13B, Frogner",59.794486,10.259118
+2542749,"Fossveien 13C, Frogner",59.794565,10.259353
+2542750,"Fossveien 13D, Frogner",59.794593,10.259193
+2542751,"Fossveien 15A, Frogner",59.794395,10.25931
+2542752,"Fossveien 15B, Frogner",59.794287,10.259253
+2542753,"Fossveien 15C, Frogner",59.794387,10.259114
+2542754,"Fossveien 15D, Frogner",59.794298,10.259093
+2542755,"Fossveien 15E, Frogner",59.794389,10.258918
+2542756,"Fossveien 15F, Frogner",59.7943,10.258879
+2542757,"Fossveien 15G, Frogner",59.7944,10.25874
+2542758,"Fossveien 15H, Frogner",59.79431,10.258719
+2542760,"Heggveien 19A, Frogner",59.782194,10.248466
+2542761,"Heggveien 19B, Frogner",59.782312,10.248399
+2542811,"Georg Tvibergs vei 1A, Frogner",59.795923,10.262843
+2542812,"Georg Tvibergs vei 1B, Frogner",59.795931,10.262933
+2542813,"Georg Tvibergs vei 1C, Frogner",59.795985,10.26297
+2542814,"Georg Tvibergs vei 1D, Frogner",59.79603,10.262919
+2542815,"Georg Tvibergs vei 1E, Frogner",59.796049,10.26283
+2542816,"Georg Tvibergs vei 1F, Frogner",59.796023,10.26274
+2542817,"Georg Tvibergs vei 3A, Frogner",59.796141,10.26262
+2542818,"Georg Tvibergs vei 3B, Frogner",59.796167,10.26271
+2542819,"Georg Tvibergs vei 3C, Frogner",59.796212,10.262747
+2542820,"Georg Tvibergs vei 3D, Frogner",59.796257,10.262713
+2542821,"Georg Tvibergs vei 3E, Frogner",59.796285,10.262607
+2542822,"Georg Tvibergs vei 3F, Frogner",59.79625,10.262517
+2542823,"Georg Tvibergs vei 5A, Frogner",59.796376,10.26245
+2542824,"Georg Tvibergs vei 5B, Frogner",59.796402,10.262576
+2542825,"Georg Tvibergs vei 5C, Frogner",59.796464,10.262596
+2542826,"Georg Tvibergs vei 5D, Frogner",59.796492,10.26258
+2542827,"Georg Tvibergs vei 5E, Frogner",59.796529,10.262456
+2542828,"Georg Tvibergs vei 5F, Frogner",59.796485,10.262365
+2542829,"Georg Tvibergs vei 7A, Frogner",59.796681,10.26248
+2542830,"Georg Tvibergs vei 7B, Frogner",59.796653,10.262586
+2542831,"Georg Tvibergs vei 7C, Frogner",59.796679,10.262694
+2542832,"Georg Tvibergs vei 7D, Frogner",59.796715,10.262713
+2542833,"Georg Tvibergs vei 7E, Frogner",59.796769,10.262697
+2542834,"Georg Tvibergs vei 7F, Frogner",59.796788,10.262591
+2542835,"Georg Tvibergs vei 11, Frogner",59.795561,10.264113
+2542836,"Georg Tvibergs vei 13, Frogner",59.795476,10.264537
+2542837,"Georg Tvibergs vei 15, Frogner",59.795363,10.265032
+2542838,"Georg Tvibergs vei 14, Frogner",59.795214,10.264705
+2542839,"Georg Tvibergs vei 12, Frogner",59.795081,10.264469
+2542840,"Georg Tvibergs vei 10, Frogner",59.795221,10.263939
+2542841,"Georg Tvibergs vei 8, Frogner",59.795413,10.263661
+2542842,"Ottar Lingjærdes vei 7B, Frogner",59.794977,10.264073
+2542895,"Paradisbakkene 7A, Frogner",59.796161,10.257198
+2542896,"Paradisbakkene 7B, Frogner",59.796438,10.256913
+2542897,"Paradisbakkene 7C, Frogner",59.796619,10.256504
+2542898,"Paradisbakkene 5A, Frogner",59.796572,10.257076
+2542899,"Paradisbakkene 5B, Frogner",59.796418,10.257319
+2542902,"Smedhagan 8, Frogner",59.794085,10.263107
+2542916,"Fosslia 2, Frogner",59.796998,10.260371
+2542922,"Stokkeveien 2, Frogner",59.791904,10.258629
+2542946,"Grønnlundveien 12, Frogner",59.785595,10.241199
+2542954,"Vestsideveien 17, Frogner",59.786524,10.240788
+2542955,"Haskollveien 34F, Frogner",59.793153,10.254809
+2542988,"Stokkeveien 3, Frogner",59.793018,10.26243
+2542989,"Stokkeveien 1A, Frogner",59.792901,10.259628
+2542990,"Stokkeveien 1B, Frogner",59.792901,10.259628
+2542991,"Stokkeveien 1C, Frogner",59.792901,10.259628
+2542992,"Stokkeveien 1D, Frogner",59.792901,10.259628
+2542993,"Stokkeveien 1E, Frogner",59.792901,10.259628
+2542994,"Stokkeveien 1F, Frogner",59.792901,10.259628
+2542995,"Stokkeveien 1G, Frogner",59.792901,10.259628
+2542996,"Stokkeveien 1H, Frogner",59.792901,10.259628
+2542997,"Stokkeveien 1I, Frogner",59.792901,10.259628
+2542998,"Stokkeveien 1J, Frogner",59.792901,10.259628
+2542999,"Stokkeveien 1K, Frogner",59.792901,10.259628
+2543000,"Stokkeveien 1L, Frogner",59.792901,10.259628
+2543001,"Stokkeveien 1M, Frogner",59.792901,10.259628
+2543002,"Stokkeveien 1N, Frogner",59.792901,10.259628
+2543003,"Stokkeveien 1O, Frogner",59.792901,10.259628
+2543004,"Stokkeveien 1P, Frogner",59.792901,10.259628
+2543005,"Stokkeveien 1Q, Frogner",59.792901,10.259628
+2543006,"Stokkeveien 1R, Frogner",59.792901,10.259628
+2543007,"Stokkeveien 1S, Frogner",59.792903,10.259624
+2543008,"Stokkeveien 1T, Frogner",59.792901,10.259628
+2543009,"Stokkeveien 1U, Frogner",59.792901,10.259628
+2543010,"Stokkeveien 1V, Frogner",59.792901,10.259628
+2543011,"Stokkeveien 1W, Frogner",59.792901,10.259628
+2543013,"Stokkeveien 1X, Frogner",59.792901,10.259628
+2543026,"Verkstedveien 1A, Frogner",59.783993,10.243473
+2543027,"Verkstedveien 1B, Frogner",59.783912,10.243453
+2543028,"Verkstedveien 1C, Frogner",59.78384,10.243468
+2543029,"Verkstedveien 1D, Frogner",59.783742,10.243446
+2543030,"Verkstedveien 1E, Frogner",59.78367,10.243426
+2543031,"Verkstedveien 1F, Frogner",59.784001,10.243527
+2543032,"Verkstedveien 1G, Frogner",59.78393,10.243524
+2543033,"Verkstedveien 1H, Frogner",59.783858,10.24354
+2543034,"Verkstedveien 1I, Frogner",59.78375,10.243518
+2543035,"Verkstedveien 1J, Frogner",59.783687,10.243515
+2543036,"Verkstedveien 1K, Frogner",59.784009,10.243634
+2543037,"Verkstedveien 1L, Frogner",59.783938,10.243632
+2543038,"Verkstedveien 1M, Frogner",59.783866,10.243629
+2543039,"Verkstedveien 1N, Frogner",59.783767,10.243608
+2543040,"Verkstedveien 1O, Frogner",59.783686,10.243605
+2543041,"Verkstedveien 3A, Frogner",59.784068,10.243173
+2543042,"Verkstedveien 3B, Frogner",59.784087,10.243049
+2543043,"Verkstedveien 3C, Frogner",59.784097,10.242943
+2543044,"Verkstedveien 3D, Frogner",59.78408,10.242835
+2543045,"Verkstedveien 3E, Frogner",59.784041,10.243172
+2543046,"Verkstedveien 3F, Frogner",59.784051,10.24303
+2543047,"Verkstedveien 3G, Frogner",59.78407,10.242906
+2543048,"Verkstedveien 3H, Frogner",59.78408,10.242818
+2543049,"Verkstedveien 3I, Frogner",59.784014,10.243171
+2543050,"Verkstedveien 3J, Frogner",59.784033,10.24303
+2543055,"Smedhagan 4, Frogner",59.794433,10.262134
+2543056,"Smedhagan 6, Frogner",59.794285,10.262605
+2543057,"Smedhagan 10A, Frogner",59.794167,10.263703
+2543058,"Smedhagan 10B, Frogner",59.79424,10.263738
+2543059,"Smedhagan 10C, Frogner",59.794285,10.263574
+2543060,"Smedhagan 10D, Frogner",59.794235,10.263464
+2543061,"Smedhagan 12A, Frogner",59.794321,10.263246
+2543062,"Smedhagan 12B, Frogner",59.794356,10.263319
+2543063,"Smedhagan 12C, Frogner",59.794412,10.263125
+2543064,"Smedhagan 12D, Frogner",59.794367,10.263087
+2543065,"Smedhagan 2, Frogner",59.794703,10.26175
+2543071,"Fossveien 9A, Frogner",59.795062,10.259015
+2543072,"Fossveien 9B, Frogner",59.79509,10.258945
+2543073,"Fossveien 9C, Frogner",59.795116,10.259017
+2543074,"Fossveien 9D, Frogner",59.795069,10.259211
+2543075,"Fossveien 9E, Frogner",59.795024,10.259209
+2543076,"Fossveien 9F, Frogner",59.795025,10.25912
+2543077,"Fossveien 9G, Frogner",59.794905,10.259472
+2543078,"Fossveien 9H, Frogner",59.794941,10.25942
+2543079,"Fossveien 9I, Frogner",59.794977,10.259475
+2543080,"Fossveien 9J, Frogner",59.794921,10.259687
+2543081,"Fossveien 9K, Frogner",59.794876,10.259685
+2543082,"Fossveien 9L, Frogner",59.794877,10.25956
+2543083,"Brattbakken 1A, Frogner",59.794696,10.260641
+2543084,"Brattbakken 1B, Frogner",59.794732,10.260678
+2543085,"Brattbakken 1C, Frogner",59.794759,10.260589
+2543086,"Brattbakken 1D, Frogner",59.794787,10.260501
+2543087,"Brattbakken 1E, Frogner",59.794815,10.260396
+2543088,"Brattbakken 1F, Frogner",59.79478,10.260359
+2543089,"Brattbakken 3A, Frogner",59.794933,10.260293
+2543090,"Brattbakken 3B, Frogner",59.794977,10.26033
+2543091,"Brattbakken 3C, Frogner",59.794996,10.260278
+2543092,"Brattbakken 3D, Frogner",59.795024,10.260172
+2543093,"Brattbakken 3E, Frogner",59.795061,10.260084
+2543094,"Brattbakken 3F, Frogner",59.795016,10.260029
+2543095,"Brattbakken 3G, Frogner",59.795081,10.259818
+2543096,"Brattbakken 3H, Frogner",59.795126,10.259873
+2543097,"Brattbakken 3I, Frogner",59.795145,10.259766
+2543098,"Brattbakken 3J, Frogner",59.795181,10.259697
+2543099,"Brattbakken 3K, Frogner",59.7952,10.25959
+2543100,"Brattbakken 3L, Frogner",59.795156,10.259535
+2543134,"Haskollveien 40A, Frogner",59.793418,10.254099
+2543135,"Haskollveien 40B, Frogner",59.793458,10.254072
+2543136,"Haskollveien 40C, Frogner",59.793498,10.254039
+2543137,"Haskollveien 40D, Frogner",59.79354,10.254011
+2543138,"Haskollveien 40E, Frogner",59.793578,10.253984
+2543139,"Haskollveien 40F, Frogner",59.793614,10.253957
+2543140,"Haskollveien 32A, Frogner",59.793282,10.254924
+2543141,"Haskollveien 32B, Frogner",59.79335,10.25487
+2543142,"Haskollveien 32C, Frogner",59.793391,10.254842
+2543143,"Haskollveien 32D, Frogner",59.793426,10.254813
+2543144,"Haskollveien 32E, Frogner",59.793461,10.254791
+2543145,"Haskollveien 32F, Frogner",59.793503,10.254762
+2543152,"Haslumveien 28, Frogner",59.786843,10.26943
+2543159,"Hegsbroveien 17, Frogner",59.78279,10.243393
+2543206,"Hegsbroveien 60A, Frogner",59.786741,10.245411
+2543207,"Hegsbroveien 60B, Frogner",59.786662,10.246138
+2543208,"Hegsbroveien 60C, Frogner",59.786389,10.245558
+2543222,"Fosslia 7, Frogner",59.797031,10.258822
+2543223,"Fosslia 5A, Frogner",59.796881,10.259404
+2543224,"Fosslia 5B, Frogner",59.796846,10.259349
+2543225,"Fosslia 5C, Frogner",59.796865,10.259243
+2543226,"Fosslia 5D, Frogner",59.796919,10.259245
+2543227,"Auvi terrasse 2A, Frogner",59.795942,10.260919
+2543228,"Auvi terrasse 2B, Frogner",59.795994,10.261135
+2543229,"Auvi terrasse 2C, Frogner",59.795938,10.261258
+2543230,"Auvi terrasse 2D, Frogner",59.795866,10.261308
+2543231,"Auvi terrasse 2E, Frogner",59.795776,10.261341
+2543232,"Auvi terrasse 2F, Frogner",59.795733,10.261161
+2543233,"Auvi terrasse 4A, Frogner",59.796451,10.261206
+2543234,"Auvi terrasse 4B, Frogner",59.796503,10.261422
+2543235,"Auvi terrasse 4C, Frogner",59.796438,10.261562
+2543236,"Auvi terrasse 4D, Frogner",59.796375,10.261613
+2543237,"Auvi terrasse 4E, Frogner",59.796277,10.261591
+2543238,"Auvi terrasse 4F, Frogner",59.796242,10.261412
+2543239,"Auvi terrasse 6A, Frogner",59.796007,10.261617
+2543240,"Auvi terrasse 6B, Frogner",59.796059,10.261833
+2543241,"Auvi terrasse 6C, Frogner",59.796004,10.261955
+2543242,"Auvi terrasse 6D, Frogner",59.79594,10.262006
+2543243,"Auvi terrasse 6E, Frogner",59.795841,10.26202
+2543244,"Auvi terrasse 6F, Frogner",59.795789,10.261822
+2543302,"Elveveien 12, Frogner",59.790109,10.24602
+2543351,"Paradisbakkene 29, Tranby og Lierskogen",59.799043,10.257846
+2543370,"Paradisbakkene 4, Frogner",59.795432,10.257461
+2543371,"Paradisbakkene 6, Frogner",59.795747,10.257847
+2543686,"Bruveien 7A, Frogner",59.787574,10.244924
+2543687,"Bruveien 7B, Frogner",59.787535,10.245013
+2543739,"Fosslia 3, Frogner",59.796742,10.259862
+2543858,"Heggalleen 1, Frogner",59.781951,10.249069
+2543859,"Heggalleen 3, Frogner",59.78213,10.249666
+2543860,"Heggalleen 5, Frogner",59.782075,10.24977
+2543861,"Heggalleen 7, Frogner",59.781974,10.250041
+2543862,"Heggalleen 9, Frogner",59.781927,10.250149
+2543863,"Heggalleen 21, Frogner",59.780484,10.251644
+2543868,"Verkstedveien 6B, Frogner",59.784939,10.240904
+2543869,"Verkstedveien 6C, Frogner",59.784896,10.240906
+2543870,"Verkstedveien 6D, Frogner",59.784859,10.241071
+2543871,"Verkstedveien 8A, Frogner",59.78477,10.241036
+2543872,"Verkstedveien 8B, Frogner",59.78471,10.241028
+2543873,"Verkstedveien 8C, Frogner",59.78475,10.241215
+2543874,"Verkstedveien 8D, Frogner",59.784725,10.241214
+2543875,"Verkstedveien 8E, Frogner",59.784674,10.241023
+2543876,"Verkstedveien 8F, Frogner",59.784597,10.241024
+2543877,"Verkstedveien 8G, Frogner",59.784648,10.241239
+2543878,"Verkstedveien 8H, Frogner",59.784616,10.24123
+2543908,"Klokkersvingen 5, Frogner",59.782665,10.242356
+2544024,"Vestsideveien 7A, Frogner",59.786512,10.242024
+2544025,"Hellumveien 1B, Tranby og Lierskogen",59.808262,10.246611
+2544026,"Hellumveien 1C, Tranby og Lierskogen",59.808313,10.246587
+2544185,"Ringeriksveien 167, Frogner",59.792723,10.24952
+2544222,"Heggtoppen 11K, Frogner",59.781539,10.24253
+2544223,"Heggtoppen 11J, Frogner",59.781511,10.242427
+2544224,"Heggtoppen 11I, Frogner",59.781484,10.242338
+2544225,"Heggtoppen 11N, Frogner",59.781485,10.242579
+2544226,"Heggtoppen 11M, Frogner",59.78146,10.242489
+2544227,"Heggtoppen 11L, Frogner",59.781436,10.2424
+2544228,"Heggtoppen 11D, Frogner",59.781425,10.242226
+2544229,"Heggtoppen 11C, Frogner",59.78138,10.242251
+2544230,"Heggtoppen 11B, Frogner",59.781342,10.242282
+2544231,"Heggtoppen 11A, Frogner",59.7813,10.242319
+2544232,"Heggtoppen 11E, Frogner",59.78127,10.242205
+2544233,"Heggtoppen 11F, Frogner",59.781321,10.242154
+2544234,"Heggtoppen 11G, Frogner",59.781368,10.242135
+2544235,"Heggtoppen 11H, Frogner",59.781405,10.242106
+2544236,"Heggtoppen 9L, Frogner",59.78119,10.242608
+2544237,"Heggtoppen 9P, Frogner",59.781199,10.242477
+2544238,"Heggtoppen 9K, Frogner",59.781142,10.242585
+2544239,"Heggtoppen 9O, Frogner",59.781156,10.242458
+2544240,"Heggtoppen 9J, Frogner",59.78109,10.242562
+2544241,"Heggtoppen 9N, Frogner",59.781109,10.242444
+2544242,"Heggtoppen 9I, Frogner",59.781044,10.242525
+2544243,"Heggtoppen 9M, Frogner",59.781051,10.24241
+2544244,"Heggtoppen 9F, Frogner",59.780828,10.242416
+2544245,"Heggtoppen 9G, Frogner",59.780872,10.242364
+2544246,"Heggtoppen 9H, Frogner",59.780918,10.242301
+2544247,"Elveveien 10A, Frogner",59.79006,10.246617
+2544248,"Elveveien 10B, Frogner",59.790064,10.246792
+2544369,"Heggtoppen 9E, Frogner",59.780795,10.242465
+2544466,"Fossveien 29, Frogner",59.793122,10.263181
+2544467,"Fossveien 31, Frogner",59.793062,10.264035
+2544468,"Fossveien 33, Frogner",59.792503,10.26382
+2544470,"Heggveien 5B, Frogner",59.782882,10.250665
+2544471,"Heggveien 5C, Frogner",59.782928,10.249893
+2544539,"Ringeriksveien 173, Frogner",59.793497,10.24562
+2544548,"Vestsideveien 9G, Frogner",59.786821,10.241449
+2544549,"Vestsideveien 9H, Frogner",59.786773,10.241406
+2544770,"Fossveien 10, Frogner",59.793669,10.257004
+2544773,"Heggtoppen 5B, Frogner",59.779709,10.242784
+2544774,"Heggtoppen 5C, Frogner",59.779759,10.242769
+2544775,"Heggtoppen 5D, Frogner",59.77981,10.242749
+2544776,"Heggtoppen 5E, Frogner",59.779735,10.243232
+2544777,"Heggtoppen 5F, Frogner",59.779783,10.243219
+2544778,"Heggtoppen 5G, Frogner",59.779833,10.243201
+2544779,"Heggtoppen 5H, Frogner",59.779883,10.243185
+2544780,"Heggtoppen 5I, Frogner",59.779935,10.243167
+2544781,"Heggtoppen 5J, Frogner",59.779983,10.243142
+2544782,"Heggtoppen 5K, Frogner",59.780033,10.243133
+2544783,"Heggtoppen 5L, Frogner",59.780111,10.243287
+2544784,"Heggtoppen 5M, Frogner",59.780033,10.243327
+2544785,"Heggtoppen 5N, Frogner",59.779953,10.243347
+2544786,"Heggtoppen 5O, Frogner",59.779885,10.243399
+2544787,"Heggtoppen 5P, Frogner",59.779813,10.24344
+2544788,"Heggtoppen 7B, Frogner",59.780187,10.243091
+2544789,"Heggtoppen 7C, Frogner",59.780236,10.24307
+2544790,"Heggtoppen 7D, Frogner",59.780284,10.24306
+2544791,"Heggtoppen 7E, Frogner",59.780335,10.24304
+2544792,"Heggtoppen 7F, Frogner",59.780373,10.242966
+2544793,"Heggtoppen 7G, Frogner",59.780129,10.242645
+2544794,"Heggtoppen 7H, Frogner",59.780182,10.242623
+2544795,"Heggtoppen 7I, Frogner",59.780231,10.242608
+2544796,"Heggtoppen 7J, Frogner",59.780283,10.242592
+2544797,"Heggtoppen 7K, Frogner",59.780332,10.242585
+2544807,"Fossbakken 29, Frogner",59.791379,10.26774
+2544809,"Grønnlundveien 14B, Frogner",59.785352,10.241701
+2544810,"Stokkeveien 8B, Frogner",59.791725,10.262029
+2544811,"Stokkeveien 8C, Frogner",59.79163,10.262069
+2544812,"Stokkeveien 8D, Frogner",59.791571,10.262078
+2544813,"Stokkeveien 8E, Frogner",59.791525,10.262084
+2544814,"Stokkeveien 8F, Frogner",59.791431,10.262087
+2544815,"Stokkeveien 8G, Frogner",59.79138,10.262101
+2544816,"Stokkeveien 8H, Frogner",59.791333,10.262105
+2544817,"Stokkeveien 8J, Frogner",59.791212,10.262127
+2544818,"Stokkeveien 8K, Frogner",59.791163,10.262177
+2544819,"Stokkeveien 8L, Frogner",59.791271,10.262342
+2544820,"Stokkeveien 8M, Frogner",59.791301,10.262446
+2544821,"Stokkeveien 8N, Frogner",59.791327,10.262544
+2544822,"Stokkeveien 8P, Frogner",59.791371,10.262959
+2544823,"Stokkeveien 8Q, Frogner",59.791418,10.262888
+2544824,"Stokkeveien 8R, Frogner",59.791514,10.262778
+2544825,"Stokkeveien 8S, Frogner",59.79157,10.262725
+2544826,"Stokkeveien 8T, Frogner",59.791622,10.262678
+2544827,"Stokkeveien 8U, Frogner",59.791729,10.262579
+2544828,"Stokkeveien 8V, Frogner",59.791774,10.262505
+2544850,"Fossbakken 21, Frogner",59.79152,10.267274
+2544866,"Vestsideveien 1C, Frogner",59.785509,10.24358
+2544867,"Vestsideveien 1D, Frogner",59.785597,10.243521
+2544878,"Heggtoppen 18B, Frogner",59.781521,10.242945
+2544879,"Heggtoppen 18C, Frogner",59.78146,10.243009
+2544880,"Heggtoppen 18D, Frogner",59.781574,10.243047
+2544881,"Fossbakken 1A, Frogner",59.791379,10.263976
+2544882,"Fossbakken 1B, Frogner",59.791686,10.263563
+2544883,"Fossbakken 1C, Frogner",59.791682,10.263441
+2544884,"Fossbakken 5, Frogner",59.791995,10.265092
+2544885,"Fossbakken 6, Frogner",59.792065,10.266086
+2544886,"Fossbakken 8, Frogner",59.792008,10.266149
+2544887,"Fossbakken 10, Frogner",59.791948,10.266194
+2544888,"Fossbakken 12, Frogner",59.791897,10.266279
+2544889,"Fossbakken 14, Frogner",59.791734,10.266455
+2544890,"Fossbakken 16, Frogner",59.791705,10.266464
+2544891,"Fossbakken 18, Frogner",59.791567,10.266541
+2544892,"Fossbakken 20, Frogner",59.79154,10.266578
+2544893,"Fossbakken 24, Frogner",59.791389,10.266762
+2544894,"Fossbakken 26, Frogner",59.791284,10.26703
+2544895,"Fossbakken 28, Frogner",59.791254,10.267081
+2544896,"Fossbakken 30, Frogner",59.791196,10.267304
+2544897,"Fossbakken 32, Frogner",59.791165,10.267367
+2544898,"Fossbakken 34, Frogner",59.791086,10.267572
+2544899,"Fossbakken 36, Frogner",59.791049,10.267675
+2544900,"Fossbakken 38, Frogner",59.791025,10.267749
+2544901,"Fossbakken 40, Frogner",59.790959,10.268039
+2544902,"Fossbakken 42, Frogner",59.790931,10.268052
+2544903,"Fossbakken 44, Frogner",59.790937,10.268267
+2544904,"Fossbakken 46, Frogner",59.790894,10.2684
+2544905,"Fossbakken 47, Frogner",59.791081,10.26884
+2544906,"Fossbakken 45, Frogner",59.791119,10.268701
+2544907,"Fossbakken 43, Frogner",59.791137,10.268582
+2544908,"Fossbakken 41, Frogner",59.791172,10.268471
+2544909,"Fossbakken 39, Frogner",59.791204,10.268335
+2544910,"Fossbakken 37, Frogner",59.791236,10.268202
+2544911,"Fossbakken 35, Frogner",59.791274,10.268098
+2544912,"Fossbakken 33, Frogner",59.791315,10.267945
+2544913,"Fossbakken 31, Frogner",59.791346,10.267843
+2544914,"Fossbakken 15, Frogner",59.791723,10.266864
+2544915,"Fossbakken 17, Frogner",59.791668,10.266947
+2544916,"Fossbakken 19, Frogner",59.791619,10.26701
+2544917,"Fossbakken 23, Frogner",59.791487,10.267392
+2544918,"Fossbakken 25, Frogner",59.791451,10.267501
+2544919,"Fossbakken 27, Frogner",59.791412,10.267594
+2544920,"Fossbakken 22, Frogner",59.791424,10.266715
+2544963,"Fossveien 23B, Frogner",59.793808,10.262658
+2544964,"Fossveien 23C, Frogner",59.793775,10.262619
+2544966,"Elveveien 6A, Frogner",59.790202,10.247257
+2544969,"Hegsbroveien 76B, Frogner",59.787305,10.246747
+2544970,"Hegsbroveien 76A, Frogner",59.787492,10.246977
+2544990,"Skafstadveien 1, Frogner",59.790862,10.265332
+2544991,"Skafstadveien 3, Frogner",59.79084,10.265375
+2544992,"Skafstadveien 5, Frogner",59.790811,10.265422
+2544993,"Skafstadveien 7, Frogner",59.79078,10.265471
+2544994,"Skafstadveien 9, Frogner",59.790731,10.265573
+2544995,"Skafstadveien 11, Frogner",59.790702,10.26562
+2544996,"Skafstadveien 15, Frogner",59.790636,10.265696
+2544997,"Skafstadveien 17, Frogner",59.790595,10.265769
+2544998,"Skafstadveien 21, Frogner",59.790498,10.265785
+2544999,"Skafstadveien 23, Frogner",59.79047,10.265973
+2545000,"Skafstadveien 25, Frogner",59.79043,10.265879
+2545001,"Skafstadveien 27, Frogner",59.790406,10.266088
+2545002,"Skafstadveien 29, Frogner",59.790374,10.265982
+2545003,"Skafstadveien 31, Frogner",59.790347,10.266193
+2545004,"Skafstadveien 33, Frogner",59.790316,10.266105
+2545005,"Skafstadveien 35, Frogner",59.790256,10.266225
+2545006,"Skafstadveien 37, Frogner",59.790218,10.266104
+2545007,"Skafstadveien 39, Frogner",59.7902,10.266327
+2545008,"Skafstadveien 41, Frogner",59.790161,10.266216
+2545009,"Skafstadveien 2, Frogner",59.791105,10.264221
+2545010,"Skafstadveien 4, Frogner",59.791071,10.264114
+2545011,"Skafstadveien 6, Frogner",59.791028,10.264342
+2545012,"Skafstadveien 8, Frogner",59.790996,10.264237
+2545013,"Skafstadveien 10, Frogner",59.790968,10.264441
+2545014,"Skafstadveien 12, Frogner",59.790936,10.264347
+2545015,"Skafstadveien 14, Frogner",59.790893,10.26456
+2545016,"Skafstadveien 16, Frogner",59.790858,10.264467
+2545017,"Skafstadveien 18, Frogner",59.790836,10.264644
+2545018,"Skafstadveien 20, Frogner",59.790803,10.264542
+2545019,"Skafstadveien 22, Frogner",59.790758,10.264767
+2545020,"Skafstadveien 24, Frogner",59.790721,10.264682
+2545021,"Skafstadveien 26, Frogner",59.790701,10.264857
+2545022,"Skafstadveien 28, Frogner",59.790668,10.264773
+2545023,"Skafstadveien 30, Frogner",59.790631,10.264964
+2545025,"Skafstadveien 32, Frogner",59.790598,10.264876
+2545026,"Skafstadveien 34, Frogner",59.790551,10.265065
+2545027,"Skafstadveien 36, Frogner",59.790517,10.26498
+2545028,"Skafstadveien 38, Frogner",59.790479,10.265182
+2545029,"Skafstadveien 40, Frogner",59.790444,10.265104
+2545030,"Skafstadveien 42, Frogner",59.79041,10.265284
+2545031,"Skafstadveien 44, Frogner",59.790379,10.26519
+2545032,"Skafstadveien 46, Frogner",59.79035,10.265375
+2545033,"Skafstadveien 48, Frogner",59.790313,10.265279
+2545034,"Skafstadveien 50, Frogner",59.790278,10.2655
+2545035,"Skafstadveien 52, Frogner",59.790231,10.265417
+2545036,"Skafstadveien 54, Frogner",59.790233,10.265613
+2545037,"Skafstadveien 56, Frogner",59.79019,10.265518
+2545038,"Skafstadveien 58, Frogner",59.790176,10.265783
+2545039,"Skafstadveien 60, Frogner",59.790127,10.265726
+2545040,"Skafstadveien 62, Frogner",59.79014,10.265906
+2545041,"Skafstadveien 64, Frogner",59.79009,10.265836
+2545042,"Borgeveien 2, Frogner",59.791522,10.265429
+2545043,"Borgeveien 4, Frogner",59.791467,10.26555
+2545044,"Borgeveien 6, Frogner",59.79137,10.265745
+2545045,"Borgeveien 8, Frogner",59.791332,10.265776
+2545046,"Borgeveien 10, Frogner",59.791213,10.265857
+2545047,"Borgeveien 12, Frogner",59.791181,10.26588
+2545048,"Borgeveien 14, Frogner",59.791034,10.266024
+2545049,"Borgeveien 16, Frogner",59.791009,10.266075
+2545050,"Borgeveien 18, Frogner",59.790941,10.266204
+2545051,"Borgeveien 20, Frogner",59.790914,10.266253
+2545052,"Borgeveien 22, Frogner",59.790829,10.266457
+2545053,"Borgeveien 24, Frogner",59.790798,10.266494
+2545054,"Borgeveien 26, Frogner",59.790707,10.266706
+2545055,"Borgeveien 28, Frogner",59.790682,10.266772
+2545056,"Borgeveien 30, Frogner",59.790605,10.267006
+2545057,"Borgeveien 32, Frogner",59.790589,10.267066
+2545058,"Borgeveien 34, Frogner",59.790567,10.267375
+2545059,"Borgeveien 36, Frogner",59.790555,10.26745
+2545060,"Borgeveien 38, Frogner",59.790531,10.267576
+2545061,"Borgeveien 1, Frogner",59.791622,10.265931
+2545062,"Borgeveien 3, Frogner",59.791633,10.266092
+2545063,"Borgeveien 5, Frogner",59.791515,10.266126
+2545064,"Borgeveien 7, Frogner",59.7915,10.265973
+2545065,"Borgeveien 9, Frogner",59.791422,10.266
+2545066,"Borgeveien 11, Frogner",59.791445,10.266142
+2545067,"Borgeveien 13, Frogner",59.791397,10.266185
+2545068,"Borgeveien 15, Frogner",59.791333,10.266228
+2545069,"Borgeveien 17, Frogner",59.79127,10.266261
+2545070,"Borgeveien 19, Frogner",59.791246,10.266108
+2545071,"Borgeveien 21, Frogner",59.791199,10.266424
+2545072,"Borgeveien 23, Frogner",59.791156,10.266517
+2545073,"Borgeveien 25, Frogner",59.791108,10.266606
+2545074,"Borgeveien 27, Frogner",59.791065,10.266698
+2545075,"Borgeveien 29, Frogner",59.791008,10.266843
+2545076,"Borgeveien 31, Frogner",59.790959,10.266943
+2545077,"Borgeveien 33, Frogner",59.790895,10.26712
+2545078,"Borgeveien 35, Frogner",59.790875,10.267201
+2545079,"Borgeveien 37, Frogner",59.790848,10.267296
+2545080,"Borgeveien 39, Frogner",59.790841,10.267501
+2545081,"Borgeveien 41, Frogner",59.790811,10.267614
+2545082,"Borgeveien 43, Frogner",59.790782,10.267772
+2545083,"Borgeveien 45, Frogner",59.790754,10.267884
+2545084,"Borgeveien 47, Frogner",59.790723,10.267998
+2545085,"Paradisbakkene 9B, Frogner",59.796997,10.255619

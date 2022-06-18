@@ -1,0 +1,829 @@
+,Navn,Long,Lat
+35932,"93/71, Slagen",59.291909,10.463444
+1126422,"Barkveien 9, Slagen",59.291983,10.475682
+1126424,"Barkveien 11A, Slagen",59.292158,10.476058
+1126426,"Barkveien 11B, Slagen",59.292067,10.476177
+1126428,"Barkveien 13, Slagen",59.291855,10.475922
+1126429,"Barkveien 4C, Slagen",59.292663,10.475869
+1126430,"Barkveien 5, Slagen",59.292408,10.475402
+1126431,"Barkveien 6, Slagen",59.292385,10.476682
+1126432,"Barkveien 7, Slagen",59.292287,10.475765
+1126433,"Barkveien 2, Slagen",59.293064,10.473815
+1126434,"Barkveien 3, Slagen",59.29262,10.474937
+1126435,"Barkveien 4A, Slagen",59.293056,10.475272
+1126436,"Barkveien 4B, Slagen",59.292584,10.475743
+1126440,"Barkveien 1, Slagen",59.292861,10.473507
+1126859,"Vinkelveien 2A, Søndre Slagen",59.28614,10.466546
+1126860,"Vinkelveien 2B, Søndre Slagen",59.286188,10.466285
+1127155,"Basbergveien 166, Slagen",59.300853,10.446421
+1127156,"Basbergveien 169, Slagen",59.30062,10.448658
+1127157,"Basbergveien 176, Slagen",59.301193,10.443275
+1127159,"Basbergveien 160, Slagen",59.299752,10.449255
+1127160,"Basbergveien 161, Slagen",59.301083,10.453983
+1127161,"Basbergveien 162, Slagen",59.300376,10.448122
+1127162,"Basbergveien 163, Slagen",59.30023,10.453139
+1127163,"Basbergveien 153, Slagen",59.299363,10.453576
+1127164,"Basbergveien 155, Slagen",59.299649,10.453676
+1127165,"Basbergveien 157, Slagen",59.300113,10.453959
+1127166,"Basbergveien 159, Slagen",59.300454,10.453655
+1127167,"Basbergveien 137, Slagen",59.299702,10.452941
+1127168,"Basbergveien 141, Slagen",59.298739,10.453198
+1127169,"Basbergveien 143, Slagen",59.298433,10.45322
+1127170,"Basbergveien 149, Slagen",59.298875,10.454626
+1127171,"Basbergveien 117B, Slagen",59.296077,10.451483
+1127172,"Basbergveien 119, Slagen",59.296361,10.451376
+1127173,"Basbergveien 121, Slagen",59.29681,10.451395
+1127174,"Basbergveien 123, Slagen",59.297296,10.45124
+1127175,"Basbergveien 98, Slagen",59.294837,10.45189
+1127176,"Basbergveien 106, Slagen",59.297093,10.450143
+1127177,"Basbergveien 108, Slagen",59.297319,10.449994
+1127178,"Basbergveien 115, Slagen",59.29581,10.451651
+1127179,"Basbergveien 87, Slagen",59.295738,10.456512
+1127180,"Basbergveien 88, Slagen",59.292131,10.454549
+1127181,"Basbergveien 90, Slagen",59.29383,10.45197
+1127182,"Basbergveien 95, Slagen",59.295316,10.453228
+1127183,"Basbergveien 82, Slagen",59.291817,10.454465
+1127184,"Basbergveien 84, Slagen",59.291876,10.451659
+1127185,"Basbergveien 85, Slagen",59.294766,10.456611
+1127186,"Basbergveien 86, Slagen",59.292547,10.453461
+1127187,"Basbergveien 75, Slagen",59.294234,10.454393
+1127188,"Basbergveien 76, Slagen",59.290127,10.452269
+1127189,"Basbergveien 78, Slagen",59.29063,10.452993
+1127190,"Basbergveien 79, Slagen",59.294479,10.454158
+1127191,"Basbergveien 64, Slagen",59.28876,10.454756
+1127192,"Basbergveien 68, Slagen",59.289119,10.454842
+1127193,"Basbergveien 72, Slagen",59.289684,10.454936
+1127194,"Basbergveien 73, Slagen",59.294296,10.456871
+1127195,"Basbergveien 42, Slagen",59.286693,10.452526
+1127196,"Basbergveien 53, Slagen",59.291508,10.455646
+1127197,"Basbergveien 55, Slagen",59.291992,10.455702
+1127198,"Basbergveien 58, Slagen",59.288265,10.454121
+1127199,"Basbergveien 35, Slagen",59.289381,10.455503
+1127200,"Basbergveien 36, Slagen",59.285867,10.456476
+1127201,"Basbergveien 37, Slagen",59.289694,10.455569
+1127202,"Basbergveien 41, Slagen",59.290027,10.455583
+1127203,"Basbergveien 27, Slagen",59.286258,10.456861
+1127204,"Basbergveien 29, Slagen",59.286767,10.456286
+1127205,"Basbergveien 31, Slagen",59.286977,10.456032
+1127206,"Basbergveien 33, Slagen",59.287195,10.455813
+1127207,"Basbergveien 23, Slagen",59.285972,10.457499
+1127208,"Basbergveien 24, Søndre Slagen",59.284242,10.460461
+1127209,"Basbergveien 25, Slagen",59.286138,10.45719
+1127210,"Basbergveien 26, Søndre Slagen",59.284464,10.460647
+1127211,"Basbergveien 19, Slagen",59.286188,10.45828
+1127212,"Basbergveien 20, Søndre Slagen",59.284027,10.461172
+1127213,"Basbergveien 21, Slagen",59.286148,10.45784
+1127214,"Basbergveien 22, Søndre Slagen",59.284081,10.460402
+1127215,"Basbergveien 4, Søndre Slagen",59.283328,10.464214
+1127216,"Basbergveien 5, Søndre Slagen",59.28476,10.461537
+1127217,"Basbergveien 17, Slagen",59.285878,10.457934
+1127218,"Basbergveien 18, Søndre Slagen",59.284313,10.461272
+1127221,"Basbergveien 1, Søndre Slagen",59.283481,10.464975
+1127222,"Basbergveien 2, Søndre Slagen",59.283105,10.464889
+1127227,"Barveien 11, Slagen",59.291774,10.467965
+1127228,"Barveien 13, Slagen",59.291774,10.467122
+1127231,"Barveien 3, Slagen",59.291824,10.469073
+1127232,"Barveien 7, Slagen",59.291499,10.468445
+1127233,"Barveien 9A, Slagen",59.291387,10.468036
+1127234,"Barveien 9B, Slagen",59.291387,10.468036
+1127238,"Barveien 1, Slagen",59.291472,10.469199
+1127253,"Bøgata 59, Slagen",59.302247,10.464693
+1127254,"Bøgata 61, Slagen",59.302234,10.465044
+1127255,"Bøgata 68, Slagen",59.303099,10.467189
+1127256,"Bøgata 71, Slagen",59.301796,10.467561
+1127257,"Bøgata 48, Slagen",59.305472,10.459879
+1127258,"Bøgata 49, Slagen",59.305155,10.459338
+1127259,"Bøgata 55, Slagen",59.303045,10.464833
+1127260,"Bøgata 57, Slagen",59.303006,10.465147
+1127261,"Bøgata 30, Slagen",59.308307,10.459368
+1127262,"Bøgata 38A, Slagen",59.306516,10.459037
+1127263,"Bøgata 40, Slagen",59.306453,10.459657
+1127264,"Bøgata 44, Slagen",59.306538,10.46089
+1127265,"Bøgata 21, Slagen",59.304538,10.453463
+1127266,"Bøgata 23, Slagen",59.305018,10.453922
+1127267,"Bøgata 24, Slagen",59.306415,10.454246
+1127268,"Bøgata 26, Slagen",59.306718,10.454452
+1127269,"Bøgata 13, Slagen",59.304126,10.453322
+1127270,"Bøgata 17A, Slagen",59.30375,10.454009
+1127271,"Bøgata 17B, Slagen",59.303678,10.454023
+1127272,"Bøgata 19, Slagen",59.304277,10.453504
+1127276,"Bøgata 7, Slagen",59.304823,10.45286
+1127690,"Bøgata 81, Slagen",59.30227,10.469102
+1127691,"Bøgata 83, Slagen",59.302002,10.468968
+1127692,"Bøgata 85, Slagen",59.301644,10.468812
+1127694,"Bøgata 72, Slagen",59.303079,10.468962
+1127695,"Bøgata 74, Slagen",59.30329,10.469375
+1127696,"Bøgata 75, Slagen",59.300611,10.468065
+1127697,"Bøgata 79, Slagen",59.302301,10.467927
+1127892,"Granheimveien 19, Søndre Slagen",59.284704,10.462517
+1127893,"Granheimveien 21, Søndre Slagen",59.284472,10.462385
+1127896,"Granheimveien 14, Søndre Slagen",59.284728,10.46313
+1127897,"Granheimveien 15, Søndre Slagen",59.285271,10.462727
+1127898,"Granheimveien 16, Søndre Slagen",59.284454,10.463139
+1127899,"Granheimveien 17, Søndre Slagen",59.284972,10.462599
+1127900,"Granheimveien 11E, Søndre Slagen",59.286036,10.463031
+1127901,"Granheimveien 11F, Søndre Slagen",59.285768,10.462914
+1127902,"Granheimveien 12, Søndre Slagen",59.284991,10.463285
+1127903,"Granheimveien 13, Søndre Slagen",59.285454,10.462866
+1127904,"Granheimveien 11A, Søndre Slagen",59.285697,10.463631
+1127905,"Granheimveien 11B, Søndre Slagen",59.285665,10.464086
+1127906,"Granheimveien 11C, Søndre Slagen",59.285978,10.46417
+1127907,"Granheimveien 11D, Søndre Slagen",59.286001,10.463784
+1127908,"Granheimveien 7, Søndre Slagen",59.285252,10.464051
+1127909,"Granheimveien 8, Søndre Slagen",59.284921,10.463966
+1127910,"Granheimveien 9, Søndre Slagen",59.285313,10.463439
+1127911,"Granheimveien 10, Søndre Slagen",59.284943,10.463634
+1127912,"Granheimveien 3, Søndre Slagen",59.285149,10.465222
+1127913,"Granheimveien 4, Søndre Slagen",59.284847,10.464964
+1127914,"Granheimveien 5, Søndre Slagen",59.285201,10.464645
+1127915,"Granheimveien 6, Søndre Slagen",59.284878,10.464561
+1127919,"Granheimveien 1, Søndre Slagen",59.285098,10.465747
+1127996,"Gauterødveien 96B, Slagen",59.289172,10.466375
+1127997,"Gauterødveien 98C, Slagen",59.28924,10.466833
+1127998,"Gauterødveien 98A, Slagen",59.289483,10.466136
+1127999,"Gauterødveien 100, Slagen",59.288954,10.467931
+1128000,"Gauterødveien 90, Slagen",59.288469,10.467103
+1128001,"Gauterødveien 94, Slagen",59.28883,10.466978
+1128002,"Gauterødveien 96A, Slagen",59.288969,10.466394
+1128003,"Gauterødveien 76, Søndre Slagen",59.285397,10.465566
+1128004,"Gauterødveien 82, Søndre Slagen",59.285884,10.466167
+1128005,"Gauterødveien 84, Søndre Slagen",59.286677,10.46671
+1128006,"Gauterødveien 86, Søndre Slagen",59.286892,10.466824
+1128007,"Gauterødveien 64, Søndre Slagen",59.283687,10.465072
+1128008,"Gauterødveien 72A, Søndre Slagen",59.284857,10.465666
+1128009,"Gauterødveien 72B, Søndre Slagen",59.28505,10.466043
+1128010,"Gauterødveien 74, Søndre Slagen",59.285302,10.465984
+1128011,"Gauterødveien 58B, Søndre Slagen",59.282411,10.464367
+1128012,"Gauterødveien 62, Søndre Slagen",59.282804,10.46456
+1128013,"Gauterødveien 88A, Slagen",59.287687,10.467226
+1128017,"Gauterødveien 56, Søndre Slagen",59.282197,10.464183
+1128020,"Gauterødveien 58A, Søndre Slagen",59.282357,10.464365
+1128021,"Gauterødveien 50, Søndre Slagen",59.281627,10.463719
+1128023,"Gauterødveien 52, Søndre Slagen",59.281805,10.46392
+1128024,"Gauterødveien 54, Søndre Slagen",59.281982,10.464138
+1128026,"Gauterødveien 46, Søndre Slagen",59.280913,10.46339
+1128027,"Gauterødveien 48, Søndre Slagen",59.281368,10.463603
+1128751,"Innlagveien 9, Slagen",59.301217,10.472446
+1128755,"Innlagveien 3, Slagen",59.302162,10.471504
+1128756,"Innlagveien 4, Slagen",59.303134,10.471247
+1128757,"Innlagveien 6, Slagen",59.303561,10.471634
+1128758,"Innlagveien 7, Slagen",59.301827,10.472455
+1128759,"Ingrids vei 20, Slagen",59.289984,10.464991
+1128760,"Ingrids vei 29, Slagen",59.291906,10.463441
+1128761,"Ingrids vei 30, Slagen",59.291027,10.464088
+1128762,"Innlagveien 2, Slagen",59.302326,10.4713
+1128763,"Ilebrekkeveien 62, Slagen",59.299219,10.470411
+1128764,"Ilebrekkeveien 64, Slagen",59.299121,10.471109
+1128765,"Ilebrekkeveien 69, Slagen",59.299277,10.472415
+1128766,"Ilebrekkeveien 78, Slagen",59.300174,10.469346
+1128767,"Ilebrekkeveien 30B, Slagen",59.296595,10.468963
+1128769,"Ilebrekkeveien 34, Slagen",59.297356,10.469944
+1128770,"Ilebrekkeveien 60, Slagen",59.299533,10.469652
+1128771,"Ilebrekkeveien 19, Slagen",59.29498,10.471949
+1128772,"Ilebrekkeveien 25, Slagen",59.295411,10.47202
+1128773,"Ilebrekkeveien 27, Slagen",59.295715,10.472068
+1128774,"Ilebrekkeveien 30A, Slagen",59.296702,10.469828
+1128778,"Ilebrekkeveien 6, Slagen",59.293718,10.47156
+1128786,"Ilebrekkeveien 48, Slagen",59.297609,10.47143
+1129565,"Kvistveien 12, Slagen",59.290644,10.470181
+1129566,"Kvistveien 14, Slagen",59.290941,10.470141
+1129569,"Kvistveien 2, Slagen",59.290032,10.469488
+1129570,"Kvistveien 4, Slagen",59.290109,10.469825
+1129571,"Kvistveien 6, Slagen",59.290095,10.47028
+1129572,"Kvistveien 8, Slagen",59.290307,10.469798
+1129624,"Mortens vei 11A, Søndre Slagen",59.282715,10.463608
+1129625,"Mortens vei 11B, Søndre Slagen",59.282782,10.463313
+1129626,"Mortens vei 15, Søndre Slagen",59.283385,10.463181
+1129628,"Mortens vei 7, Søndre Slagen",59.282262,10.463238
+1129629,"Mortens vei 9A, Søndre Slagen",59.282469,10.463194
+1129630,"Mortens vei 9B, Søndre Slagen",59.282482,10.463563
+1129631,"Mortens vei 10, Søndre Slagen",59.283851,10.462463
+1129632,"Mortens vei 1B, Søndre Slagen",59.281152,10.463646
+1129633,"Mortens vei 3, Søndre Slagen",59.281874,10.463344
+1129634,"Mortens vei 5B, Søndre Slagen",59.282092,10.463518
+1129635,"Mortens vei 6A, Søndre Slagen",59.281962,10.461961
+1129639,"Mortens vei 1A, Søndre Slagen",59.281147,10.46333
+1129942,"Linnomstien 15, Søndre Slagen",59.284521,10.463563
+1129943,"Linnomstien 17, Søndre Slagen",59.284332,10.463607
+1129944,"Linnomstien 19, Søndre Slagen",59.28423,10.463094
+1129946,"Linnomstien 8, Søndre Slagen",59.283976,10.464154
+1129947,"Linnomstien 9, Søndre Slagen",59.284522,10.464335
+1129948,"Linnomstien 11, Søndre Slagen",59.284675,10.464254
+1129949,"Linnomstien 13, Søndre Slagen",59.284709,10.463676
+1129950,"Linnomstien 3A, Søndre Slagen",59.284655,10.465219
+1129951,"Linnomstien 3B, Søndre Slagen",59.284625,10.464761
+1129952,"Linnomstien 5, Søndre Slagen",59.284293,10.464659
+1129953,"Linnomstien 7, Søndre Slagen",59.284308,10.464168
+1130477,"Romsveien 138, Slagen",59.321361,10.451739
+1130478,"Romsveien 160, Slagen",59.32309,10.453745
+1130479,"Romsveien 166, Slagen",59.323809,10.453776
+1130481,"Romsveien 125, Slagen",59.320211,10.451812
+1130482,"Romsveien 128, Slagen",59.320456,10.451577
+1130483,"Romsveien 130, Slagen",59.32056,10.451107
+1130484,"Romsveien 136, Slagen",59.321719,10.450313
+1130485,"Romsveien 82, Slagen",59.314646,10.450662
+1130486,"Romsveien 86, Slagen",59.315677,10.450829
+1130487,"Romsveien 92, Slagen",59.316598,10.450446
+1130488,"Romsveien 124, Slagen",59.319694,10.451439
+1130489,"Romsveien 64, Slagen",59.312244,10.450243
+1130490,"Romsveien 69, Slagen",59.313083,10.453951
+1130491,"Romsveien 70, Slagen",59.313116,10.450948
+1130492,"Romsveien 80, Slagen",59.314276,10.450804
+1130493,"Romsveien 44, Slagen",59.310641,10.45144
+1130494,"Romsveien 59, Slagen",59.312385,10.452367
+1130495,"Romsveien 60, Slagen",59.311921,10.451037
+1130496,"Romsveien 61, Slagen",59.312685,10.452366
+1130497,"Romsveien 31, Slagen",59.308981,10.452072
+1130498,"Romsveien 34, Slagen",59.309193,10.450833
+1130502,"Romsveien 37, Slagen",59.309964,10.45286
+1130503,"Romsveien 40, Slagen",59.309994,10.450657
+1130504,"Romsveien 5, Slagen",59.304132,10.445542
+1130505,"Romsveien 26, Slagen",59.308519,10.451648
+1130506,"Romsveien 27, Slagen",59.308518,10.452561
+1130523,"Robergveien 242, Slagen",59.3241,10.43346
+1130524,"Robergveien 254, Slagen",59.325467,10.435464
+1130525,"Robergveien 271, Slagen",59.326684,10.433371
+1130527,"Robergveien 235, Slagen",59.325726,10.438796
+1130528,"Robergveien 237, Slagen",59.325524,10.438401
+1130529,"Robergveien 238, Slagen",59.324621,10.437994
+1130530,"Robergveien 240, Slagen",59.324886,10.437654
+1130531,"Robergveien 224, Slagen",59.32371,10.43843
+1130532,"Robergveien 227, Slagen",59.324037,10.438848
+1130533,"Robergveien 231, Slagen",59.324451,10.43883
+1130534,"Robergveien 233, Slagen",59.324672,10.439138
+1130535,"Robergveien 136, Slagen",59.316222,10.439748
+1130536,"Robergveien 164, Slagen",59.319143,10.434723
+1130537,"Robergveien 179, Slagen",59.319532,10.439378
+1130538,"Robergveien 198, Slagen",59.322517,10.433354
+1130539,"Robergveien 88, Slagen",59.312428,10.439341
+1130540,"Robergveien 120, Slagen",59.314437,10.439602
+1130541,"Robergveien 126, Slagen",59.315055,10.439733
+1130542,"Robergveien 133, Slagen",59.315622,10.440408
+1130543,"Robergveien 60, Slagen",59.310176,10.439055
+1130544,"Robergveien 63, Slagen",59.310106,10.439735
+1130545,"Robergveien 77, Slagen",59.311259,10.440258
+1130546,"Robergveien 85, Slagen",59.312168,10.440086
+1130547,"Robergveien 34, Slagen",59.307534,10.440013
+1130548,"Robergveien 36, Slagen",59.307844,10.439657
+1130549,"Robergveien 39, Slagen",59.308043,10.440263
+1130550,"Robergveien 58, Slagen",59.309959,10.439202
+1130551,"Robergveien 28, Slagen",59.306994,10.440095
+1130552,"Robergveien 29, Slagen",59.307167,10.440753
+1130553,"Robergveien 30, Slagen",59.307274,10.439967
+1130554,"Robergveien 32, Slagen",59.307569,10.439329
+1130555,"Robergveien 4, Slagen",59.305324,10.440921
+1130556,"Robergveien 11, Slagen",59.30566,10.441391
+1130557,"Robergveien 16, Slagen",59.306028,10.440564
+1130558,"Robergveien 24, Slagen",59.306724,10.440137
+1130561,"Robergveien 1, Slagen",59.304924,10.442151
+1130562,"Robergveien 2, Slagen",59.305061,10.441085
+1130678,"Rektangelveien 18, Slagen",59.287566,10.455583
+1130679,"Rektangelveien 8, Slagen",59.287346,10.45754
+1130680,"Rektangelveien 10, Slagen",59.2876,10.457358
+1130681,"Rektangelveien 12, Slagen",59.287844,10.45721
+1130682,"Rektangelveien 16, Slagen",59.287695,10.456028
+1130687,"Rektangelveien 4, Slagen",59.286709,10.457495
+1130688,"Rektangelveien 5, Slagen",59.288162,10.456873
+1130689,"Rektangelveien 6, Slagen",59.287022,10.457631
+1130690,"Rektangelveien 7, Slagen",59.287988,10.455566
+1130692,"Rektangelveien 1, Slagen",59.286378,10.457358
+1130693,"Rektangelveien 2, Slagen",59.286531,10.456504
+1130694,"Rektangelveien 3, Slagen",59.2864,10.457833
+1130768,"Pyttenveien 30, Slagen",59.294519,10.468276
+1130769,"Pyttenveien 36, Slagen",59.295889,10.468581
+1130772,"Pyttenveien 20, Slagen",59.293686,10.466485
+1130773,"Pyttenveien 22, Slagen",59.293647,10.468344
+1130774,"Pyttenveien 26, Slagen",59.293905,10.468531
+1130775,"Pyttenveien 28, Slagen",59.294097,10.468276
+1130776,"Pyttenveien 6, Slagen",59.292975,10.470528
+1130777,"Pyttenveien 10, Slagen",59.292794,10.46829
+1130778,"Pyttenveien 14, Slagen",59.293236,10.468906
+1130779,"Pyttenveien 16, Slagen",59.293304,10.469225
+1130783,"Pyttenveien 5, Slagen",59.29326,10.470786
+1130918,"Romsdalsveien 36, Slagen",59.328264,10.452121
+1130919,"Romsdalsveien 40, Slagen",59.326158,10.452728
+1130922,"Romsdalsveien 11, Slagen",59.32609,10.439234
+1130923,"Romsdalsveien 14, Slagen",59.328322,10.441209
+1130924,"Romsdalsveien 18, Slagen",59.32689,10.439935
+1130925,"Romsdalsveien 32, Slagen",59.326368,10.451355
+1130927,"Romsdalsveien 1, Slagen",59.326151,10.435352
+1130928,"Romsdalsveien 8, Slagen",59.326619,10.438518
+1130929,"Romsdalsveien 9, Slagen",59.326177,10.438622
+1130992,"Senterveien 14, Slagen",59.288455,10.455568
+1130993,"Senterveien 16, Slagen",59.288715,10.455615
+1130996,"Senterveien 10, Slagen",59.288028,10.455989
+1130997,"Senterveien 11, Slagen",59.288826,10.456093
+1130998,"Senterveien 12, Slagen",59.288247,10.455665
+1130999,"Senterveien 13, Slagen",59.289038,10.455611
+1131000,"Senterveien 7, Slagen",59.288301,10.45651
+1131001,"Senterveien 8A, Slagen",59.287253,10.456219
+1131002,"Senterveien 8B, Slagen",59.287496,10.456159
+1131003,"Senterveien 9, Slagen",59.288527,10.456397
+1131004,"Senterveien 2, Slagen",59.28659,10.456893
+1131005,"Senterveien 3, Slagen",59.287271,10.457063
+1131006,"Senterveien 5, Slagen",59.287543,10.456829
+1131007,"Senterveien 6, Slagen",59.287071,10.456457
+1131189,"Sagveien 23B, Slagen",59.292097,10.47516
+1131190,"Sagveien 25, Slagen",59.292378,10.474944
+1131193,"Sagveien 16, Slagen",59.291837,10.474271
+1131194,"Sagveien 20, Slagen",59.292608,10.472864
+1131195,"Sagveien 21, Slagen",59.291898,10.475274
+1131196,"Sagveien 23A, Slagen",59.292029,10.474788
+1131197,"Sagveien 12, Slagen",59.29174,10.473371
+1131198,"Sagveien 13, Slagen",59.291283,10.474071
+1131199,"Sagveien 14, Slagen",59.291815,10.473901
+1131200,"Sagveien 15B, Slagen",59.291338,10.474741
+1131201,"Sagveien 8, Slagen",59.291616,10.472418
+1131202,"Sagveien 9, Slagen",59.291221,10.473173
+1131203,"Sagveien 10, Slagen",59.291601,10.472961
+1131204,"Sagveien 11, Slagen",59.291252,10.473596
+1131205,"Sagveien 6, Slagen",59.291595,10.471873
+1131206,"Sagveien 7, Slagen",59.291181,10.472733
+1131209,"Kvistveien 11, Slagen",59.291176,10.471562
+1131211,"Kvistveien 22, Slagen",59.291538,10.471474
+1131213,"Sagveien 1, Slagen",59.291206,10.470486
+1131234,"Røråsveien 103, Slagen",59.31445,10.472158
+1131235,"Røråsveien 109, Slagen",59.316384,10.473471
+1131238,"Røråsveien 88, Slagen",59.312794,10.467712
+1131239,"Røråsveien 94, Slagen",59.314231,10.468459
+1131240,"Røråsveien 95, Slagen",59.313731,10.469825
+1131241,"Røråsveien 97, Slagen",59.313885,10.470482
+1131242,"Røråsveien 80, Slagen",59.313354,10.469001
+1131243,"Røråsveien 81, Slagen",59.312025,10.468943
+1131244,"Røråsveien 82, Slagen",59.313221,10.468522
+1131245,"Røråsveien 85, Slagen",59.311896,10.470266
+1131246,"Røråsveien 72, Slagen",59.312326,10.468552
+1131247,"Røråsveien 73, Slagen",59.311172,10.468959
+1131248,"Røråsveien 75, Slagen",59.311221,10.468557
+1131249,"Røråsveien 79, Slagen",59.311846,10.4689
+1131250,"Røråsveien 61A, Slagen",59.310663,10.468691
+1131251,"Røråsveien 61B, Slagen",59.310663,10.468691
+1131252,"Røråsveien 65, Slagen",59.310544,10.471251
+1131253,"Røråsveien 67, Slagen",59.310671,10.470413
+1131254,"Røråsveien 26, Slagen",59.30584,10.466253
+1131255,"Røråsveien 32, Slagen",59.306642,10.466832
+1131256,"Røråsveien 53, Slagen",59.310174,10.472184
+1131257,"Røråsveien 55, Slagen",59.310032,10.471317
+1131259,"Røråsveien 6, Slagen",59.303404,10.468027
+1131260,"Røråsveien 12, Slagen",59.304233,10.467852
+1131261,"Røråsveien 22, Slagen",59.305353,10.467268
+1132642,"Trapesveien 18, Slagen",59.297753,10.448169
+1132643,"Trapesveien 20, Slagen",59.298084,10.448253
+1132646,"Trapesveien 10, Slagen",59.29681,10.448919
+1132647,"Trapesveien 12, Slagen",59.296992,10.448751
+1132648,"Trapesveien 14, Slagen",59.297183,10.448531
+1132649,"Trapesveien 16, Slagen",59.297445,10.448402
+1132650,"Trapesveien 5, Slagen",59.297009,10.449577
+1132651,"Trapesveien 6, Slagen",59.296355,10.449497
+1132652,"Trapesveien 7, Slagen",59.297263,10.449395
+1132653,"Trapesveien 8, Slagen",59.29654,10.449013
+1132654,"Trapesveien 1, Slagen",59.296876,10.450256
+1132655,"Trapesveien 2, Slagen",59.295952,10.450147
+1132656,"Trapesveien 3, Slagen",59.296774,10.449743
+1132657,"Trapesveien 4, Slagen",59.296064,10.449818
+1133051,"Vinkelveien 30B, Søndre Slagen",59.287453,10.46641
+1133052,"Vinkelveien 32, Søndre Slagen",59.287358,10.466915
+1133055,"Vinkelveien 24A, Søndre Slagen",59.287258,10.465572
+1133056,"Vinkelveien 26, Søndre Slagen",59.287518,10.465482
+1133057,"Vinkelveien 28, Søndre Slagen",59.287712,10.465754
+1133058,"Vinkelveien 30A, Søndre Slagen",59.287464,10.466252
+1133059,"Vinkelveien 16, Søndre Slagen",59.286337,10.46501
+1133060,"Vinkelveien 18, Søndre Slagen",59.286587,10.465179
+1133061,"Vinkelveien 20, Søndre Slagen",59.28681,10.465294
+1133062,"Vinkelveien 22, Søndre Slagen",59.287007,10.465372
+1133063,"Vinkelveien 12, Søndre Slagen",59.285944,10.464853
+1133064,"Vinkelveien 14, Søndre Slagen",59.28614,10.464949
+1133065,"Vinkelveien 7, Søndre Slagen",59.287007,10.466197
+1133066,"Vinkelveien 9, Søndre Slagen",59.287177,10.46624
+1133067,"Vinkelveien 10, Søndre Slagen",59.285738,10.464774
+1133068,"Vinkelveien 11, Søndre Slagen",59.287135,10.466782
+1133069,"Vinkelveien 3, Søndre Slagen",59.286587,10.466004
+1133070,"Vinkelveien 4, Søndre Slagen",59.286221,10.465777
+1133071,"Vinkelveien 5, Søndre Slagen",59.286756,10.466081
+1133072,"Vinkelveien 6, Søndre Slagen",59.285971,10.465661
+1133076,"Vinkelveien 1, Søndre Slagen",59.286472,10.466613
+1135798,"Basbergveien 62A, Slagen",59.288537,10.454641
+1135799,"Basbergveien 62B, Slagen",59.288518,10.453974
+1135800,"Basbergveien 62C, Slagen",59.288748,10.454247
+1135882,"Gauterødveien 72C, Søndre Slagen",59.285111,10.466256
+1135948,"Røråsveien 89, Slagen",59.312484,10.470509
+1136014,"Gauterødveien 70A, Søndre Slagen",59.284606,10.465638
+1136015,"Linnomstien 1B, Søndre Slagen",59.284251,10.465254
+1136017,"Gauterødveien 68, Søndre Slagen",59.284381,10.465611
+1136019,"Basbergveien 54, Slagen",59.287744,10.454116
+1136020,"Gauterødveien 70B, Søndre Slagen",59.284678,10.465641
+1136296,"Basbergveien 14C, Søndre Slagen",59.283461,10.463588
+1136297,"Basbergveien 14D, Søndre Slagen",59.283445,10.463429
+1136300,"Basbergveien 12A, Søndre Slagen",59.283153,10.463838
+1136301,"Basbergveien 12B, Søndre Slagen",59.283225,10.463806
+1136302,"Basbergveien 14A, Søndre Slagen",59.283524,10.463555
+1136303,"Basbergveien 14B, Søndre Slagen",59.283499,10.463396
+1136306,"Basbergveien 10A, Søndre Slagen",59.28299,10.463971
+1136307,"Basbergveien 10B, Søndre Slagen",59.282973,10.46383
+1136544,"Barveien 5A, Slagen",59.291794,10.468545
+1136551,"Barveien 5B, Slagen",59.291816,10.468248
+1136606,"Vinkelveien 8B, Søndre Slagen",59.285447,10.465112
+1136682,"Basbergveien 167, Slagen",59.300562,10.449131
+1136685,"Mortens vei 1C, Søndre Slagen",59.281426,10.463219
+1136701,"Linnomstien 4, Søndre Slagen",59.283924,10.464731
+1136706,"Linnomstien 1A, Søndre Slagen",59.284167,10.465531
+1136735,"Gauterødveien 66, Søndre Slagen",59.283893,10.465116
+1136738,"Basbergveien 3A, Søndre Slagen",59.284575,10.46195
+1136739,"Basbergveien 3B, Søndre Slagen",59.284799,10.462048
+1136859,"Gauterødveien 60, Søndre Slagen",59.282674,10.464115
+1136867,"Gauterødveien 92F, Slagen",59.288677,10.466164
+1136873,"Ilebrekkeveien 44, Slagen",59.296827,10.471431
+1136875,"Gauterødveien 92D, Slagen",59.288156,10.465457
+1136883,"Gauterødveien 92E, Slagen",59.288558,10.465597
+1136885,"Gauterødveien 92A, Slagen",59.288323,10.46657
+1136887,"Gauterødveien 92B, Slagen",59.288272,10.466269
+1136889,"Gauterødveien 92C, Slagen",59.288223,10.465846
+1136896,"Basbergveien 16B, Søndre Slagen",59.283888,10.461605
+1137198,"Vinkelveien 8A, Søndre Slagen",59.285721,10.465458
+1137205,"Vinkelveien 8C, Søndre Slagen",59.285515,10.464606
+1137254,"Bøgata 64C, Slagen",59.305102,10.466449
+1137255,"Bøgata 67A, Slagen",59.302533,10.467269
+1137256,"Bøgata 67B, Slagen",59.302548,10.467534
+1137257,"Bøgata 78A, Slagen",59.302494,10.470675
+1137258,"Bøgata 62A, Slagen",59.304238,10.465762
+1137260,"Bøgata 62B, Slagen",59.304243,10.466166
+1137261,"Bøgata 64A, Slagen",59.304965,10.465811
+1137262,"Bøgata 64B, Slagen",59.304887,10.46637
+1137337,"Basbergveien 16A, Søndre Slagen",59.284066,10.461735
+1137373,"Basbergveien 60A, Slagen",59.288206,10.454575
+1137588,"Romsveien 154A, Slagen",59.323179,10.449865
+1137589,"Romsveien 154B, Slagen",59.323449,10.449754
+1137591,"Romsveien 35A, Slagen",59.309493,10.452849
+1137592,"Romsveien 35B, Slagen",59.309565,10.452504
+1137593,"Romsveien 38A, Slagen",59.30998,10.450322
+1137594,"Romsveien 38B, Slagen",59.309837,10.451099
+1137595,"Robergveien 22A, Slagen",59.306677,10.439555
+1137596,"Robergveien 22B, Slagen",59.306677,10.439555
+1137597,"Robergveien 94A, Slagen",59.313233,10.438831
+1137598,"Robergveien 94B, Slagen",59.313233,10.438831
+1137625,"Mortens vei 13A, Søndre Slagen",59.282987,10.463462
+1137626,"Mortens vei 13B, Søndre Slagen",59.283122,10.463415
+1137631,"Kvistveien 10B, Slagen",59.290491,10.470227
+1137652,"Kvistveien 10A, Slagen",59.29037,10.470172
+1137764,"Røråsveien 2A, Slagen",59.302898,10.468286
+1137765,"Røråsveien 2B, Slagen",59.30297,10.468325
+1137779,"Ilebrekkeveien 32A, Slagen",59.297301,10.469274
+1137780,"Ilebrekkeveien 32B, Slagen",59.297207,10.469604
+1137893,"Gauterødveien 80A, Søndre Slagen",59.285571,10.466048
+1138041,"Mortens vei 1D, Søndre Slagen",59.281632,10.463281
+1138059,"Bøgata 60, Slagen",59.303759,10.465285
+1138127,"Gauterødveien 61D, Søndre Slagen",59.281062,10.464485
+1138129,"Gauterødveien 63B, Søndre Slagen",59.281006,10.464676
+1138130,"Gauterødveien 61A, Søndre Slagen",59.281134,10.464435
+1138131,"Gauterødveien 61B, Søndre Slagen",59.281106,10.464522
+1138132,"Gauterødveien 61C, Søndre Slagen",59.28109,10.464363
+1138133,"Gauterødveien 81B, Søndre Slagen",59.281473,10.46545
+1138134,"Gauterødveien 81C, Søndre Slagen",59.281448,10.465309
+1138135,"Gauterødveien 81D, Søndre Slagen",59.281438,10.465431
+1138136,"Gauterødveien 63A, Søndre Slagen",59.28105,10.46473
+1138137,"Gauterødveien 83D, Søndre Slagen",59.281251,10.465248
+1138138,"Gauterødveien 79A, Søndre Slagen",59.281486,10.465153
+1138139,"Gauterødveien 79B, Søndre Slagen",59.281459,10.465151
+1138140,"Gauterødveien 81A, Søndre Slagen",59.281475,10.465328
+1138141,"Gauterødveien 85C, Søndre Slagen",59.281189,10.465175
+1138142,"Gauterødveien 85D, Søndre Slagen",59.281127,10.465102
+1138143,"Gauterødveien 83A, Søndre Slagen",59.281286,10.465383
+1138144,"Gauterødveien 83C, Søndre Slagen",59.281322,10.465321
+1138145,"Gauterødveien 87C, Søndre Slagen",59.281003,10.464921
+1138146,"Gauterødveien 87D, Søndre Slagen",59.280965,10.465095
+1138147,"Gauterødveien 85A, Søndre Slagen",59.28117,10.465227
+1138148,"Gauterødveien 85B, Søndre Slagen",59.281108,10.465171
+1138149,"Gauterødveien 65D, Søndre Slagen",59.280877,10.464196
+1138150,"Gauterødveien 65C, Søndre Slagen",59.280957,10.464252
+1138151,"Gauterødveien 87A, Søndre Slagen",59.28103,10.464975
+1138152,"Gauterødveien 87B, Søndre Slagen",59.280992,10.465131
+1138153,"Gauterødveien 67A, Søndre Slagen",59.280778,10.464174
+1138154,"Gauterødveien 67B, Søndre Slagen",59.280806,10.464088
+1138155,"Gauterødveien 65B, Søndre Slagen",59.280885,10.464284
+1138156,"Gauterødveien 65A, Søndre Slagen",59.280947,10.46434
+1138157,"Gauterødveien 73B, Søndre Slagen",59.28078,10.464824
+1138158,"Gauterødveien 73A, Søndre Slagen",59.280833,10.464879
+1138159,"Gauterødveien 73D, Søndre Slagen",59.280799,10.464719
+1138160,"Gauterødveien 73C, Søndre Slagen",59.280861,10.464792
+1138161,"Gauterødveien 69C, Søndre Slagen",59.280654,10.464011
+1138162,"Gauterødveien 77, Søndre Slagen",59.281311,10.464671
+1138163,"Gauterødveien 75A, Søndre Slagen",59.280682,10.464697
+1138164,"Gauterødveien 75B, Søndre Slagen",59.280701,10.46461
+1138165,"Gauterødveien 69A, Søndre Slagen",59.280699,10.464031
+1138166,"Gauterødveien 71D, Søndre Slagen",59.28055,10.464445
+1138167,"Gauterødveien 71C, Søndre Slagen",59.280579,10.464341
+1138168,"Gauterødveien 69D, Søndre Slagen",59.280617,10.464115
+1138170,"Gauterødveien 71B, Søndre Slagen",59.280595,10.464482
+1138171,"Gauterødveien 71A, Søndre Slagen",59.280614,10.464378
+1138172,"Gauterødveien 69B, Søndre Slagen",59.280671,10.464135
+1138173,"Gauterødveien 111, Søndre Slagen",59.283202,10.465823
+1138174,"Gauterødveien 113, Søndre Slagen",59.283479,10.466011
+1138176,"Gauterødveien 103, Søndre Slagen",59.282429,10.46593
+1138177,"Gauterødveien 105, Søndre Slagen",59.282362,10.465454
+1138178,"Gauterødveien 107, Søndre Slagen",59.282622,10.465535
+1138179,"Gauterødveien 109, Søndre Slagen",59.282843,10.465808
+1138180,"Gauterødveien 95, Søndre Slagen",59.28207,10.465897
+1138181,"Gauterødveien 97, Søndre Slagen",59.281863,10.465924
+1138182,"Gauterødveien 99, Søndre Slagen",59.281919,10.466505
+1138183,"Gauterødveien 101, Søndre Slagen",59.282163,10.466445
+1138185,"Gauterødveien 89, Søndre Slagen",59.281802,10.464779
+1138186,"Gauterødveien 91, Søndre Slagen",59.281867,10.465056
+1138187,"Gauterødveien 93, Søndre Slagen",59.282121,10.46532
+1138255,"Mortens vei 2B, Søndre Slagen",59.280792,10.462929
+1138260,"Basbergveien 60C, Slagen",59.288376,10.454564
+1138261,"Basbergveien 60B, Slagen",59.288214,10.454593
+1138262,"Mortens vei 2A, Søndre Slagen",59.280792,10.462929
+1138272,"Mortens vei 8B, Søndre Slagen",59.283491,10.462518
+1138282,"Mortens vei 8A, Søndre Slagen",59.283307,10.462089
+1138284,"Basbergveien 6B, Søndre Slagen",59.28302,10.464446
+1138285,"Basbergveien 6A, Søndre Slagen",59.283111,10.464397
+1138306,"Sagveien 5B, Slagen",59.291208,10.471979
+1138313,"Sagveien 5A, Slagen",59.291209,10.471838
+1138420,"Linnomstien 10, Søndre Slagen",59.283965,10.463469
+1138746,"Røråsveien 76A, Slagen",59.312798,10.468924
+1138753,"Røråsveien 76B, Slagen",59.312798,10.468924
+1138930,"Mortens vei 4A, Søndre Slagen",59.281263,10.462598
+1138931,"Mortens vei 4B, Søndre Slagen",59.281263,10.462598
+1139000,"Ilebrekkeveien 4A, Slagen",59.293479,10.472077
+1139010,"Ilebrekkeveien 4B, Slagen",59.293479,10.472077
+1139086,"Granheimveien 11G, Søndre Slagen",59.285747,10.463212
+1139113,"Basbergveien 56A, Slagen",59.287382,10.451134
+1139120,"Basbergveien 56B, Slagen",59.287467,10.450716
+1139289,"Mortens vei 2C, Søndre Slagen",59.281054,10.462835
+1139408,"Basbergveien 56H, Slagen",59.288658,10.453523
+1139446,"Basbergveien 56F, Slagen",59.28863,10.452802
+1139447,"Basbergveien 56G, Slagen",59.288661,10.453172
+1139448,"Basbergveien 56C, Slagen",59.288359,10.452141
+1139449,"Basbergveien 56D, Slagen",59.288592,10.452133
+1139450,"Basbergveien 56E, Slagen",59.288615,10.452503
+1139523,"Kvistveien 7, Slagen",59.290643,10.471077
+1139524,"Kvistveien 9, Slagen",59.290848,10.471173
+1139528,"Kvistveien 1, Slagen",59.289987,10.471066
+1139529,"Kvistveien 3, Slagen",59.290222,10.471006
+1139530,"Kvistveien 5, Slagen",59.29042,10.470979
+1139531,"Greinveien 2, Slagen",59.291521,10.475995
+1139598,"Bekketjønnveien 21, Slagen",59.290002,10.4714
+1139599,"Bekketjønnveien 14, Slagen",59.290196,10.472444
+1139600,"Bekketjønnveien 16, Slagen",59.290166,10.472777
+1139601,"Bekketjønnveien 13, Slagen",59.290353,10.47131
+1139602,"Bekketjønnveien 15, Slagen",59.290401,10.471821
+1139603,"Bekketjønnveien 17, Slagen",59.290275,10.471833
+1139604,"Bekketjønnveien 19, Slagen",59.290209,10.471339
+1139605,"Bekketjønnveien 6, Slagen",59.290636,10.472498
+1139606,"Bekketjønnveien 8, Slagen",59.290606,10.472778
+1139607,"Bekketjønnveien 10, Slagen",59.290346,10.472749
+1139608,"Bekketjønnveien 12, Slagen",59.290376,10.47247
+1139609,"Bekketjønnveien 7, Slagen",59.290724,10.47187
+1139610,"Bekketjønnveien 9, Slagen",59.290607,10.471865
+1139611,"Bekketjønnveien 11, Slagen",59.290576,10.471407
+1139612,"Bekketjønnveien 4, Slagen",59.29075,10.472714
+1139613,"Bekketjønnveien 1, Slagen",59.290937,10.472037
+1139614,"Bekketjønnveien 3, Slagen",59.290925,10.47158
+1139615,"Bekketjønnveien 2, Slagen",59.290893,10.472755
+1139616,"Bekketjønnveien 5, Slagen",59.290745,10.471488
+1139655,"Greinveien 39B, Slagen",59.290205,10.473616
+1139659,"Greinveien 35B, Slagen",59.290168,10.473345
+1139660,"Greinveien 37A, Slagen",59.290181,10.473528
+1139661,"Greinveien 37B, Slagen",59.29018,10.473528
+1139662,"Greinveien 39A, Slagen",59.290206,10.473616
+1139663,"Greinveien 31B, Slagen",59.290171,10.473093
+1139664,"Greinveien 33A, Slagen",59.290171,10.473093
+1139665,"Greinveien 33B, Slagen",59.290171,10.473093
+1139666,"Greinveien 35A, Slagen",59.290168,10.473345
+1139667,"Greinveien 27B, Slagen",59.290369,10.473084
+1139668,"Greinveien 29A, Slagen",59.290369,10.473084
+1139669,"Greinveien 29B, Slagen",59.290369,10.473084
+1139670,"Greinveien 31A, Slagen",59.290171,10.473093
+1139671,"Greinveien 23B, Slagen",59.290679,10.473466
+1139672,"Greinveien 25A, Slagen",59.290369,10.473084
+1139673,"Greinveien 25B, Slagen",59.290369,10.473084
+1139674,"Greinveien 27A, Slagen",59.290369,10.473084
+1139675,"Greinveien 19B, Slagen",59.290679,10.473466
+1139676,"Greinveien 21A, Slagen",59.290679,10.473466
+1139677,"Greinveien 21B, Slagen",59.290679,10.473466
+1139678,"Greinveien 23A, Slagen",59.290679,10.473466
+1139679,"Greinveien 15B, Slagen",59.2908,10.473102
+1139680,"Greinveien 17A, Slagen",59.2908,10.473102
+1139681,"Greinveien 17B, Slagen",59.2908,10.473102
+1139682,"Greinveien 19A, Slagen",59.290679,10.473466
+1139683,"Greinveien 11B, Slagen",59.2908,10.473102
+1139684,"Greinveien 13A, Slagen",59.2908,10.473102
+1139685,"Greinveien 13B, Slagen",59.2908,10.473102
+1139686,"Greinveien 15A, Slagen",59.2908,10.473102
+1139689,"Greinveien 11A, Slagen",59.2908,10.473102
+1139702,"Bøgata 9, Slagen",59.305277,10.453196
+1139786,"Romsveien 152, Slagen",59.322354,10.449672
+1139789,"Basbergveien 56J, Slagen",59.288386,10.4534
+1139793,"Romsveien 134, Slagen",59.32108,10.451182
+1139980,"Barveien 15, Slagen",59.291387,10.467229
+1299818,"Greinveien 1, Slagen",59.291073,10.475133
+1299879,"Greinveien 3, Slagen",59.291086,10.474818
+1299882,"Greinveien 14, Slagen",59.290502,10.4756
+1299883,"Greinveien 4, Slagen",59.29071,10.475451
+1299884,"Greinveien 8, Slagen",59.290632,10.475184
+1299885,"Greinveien 10, Slagen",59.290514,10.47532
+1299887,"Greinveien 7, Slagen",59.29101,10.47434
+1299889,"Greinveien 5, Slagen",59.291061,10.474571
+1299891,"Greinveien 9, Slagen",59.290995,10.474094
+1299892,"Greinveien 6, Slagen",59.290734,10.474961
+1299895,"Greinveien 12, Slagen",59.290389,10.475244
+1447374,"Romsveien 35C, Slagen",59.309635,10.452525
+1646089,"Greinveien 22, Slagen",59.290635,10.47445
+1646090,"Greinveien 20, Slagen",59.290499,10.474536
+1646098,"Greinveien 18, Slagen",59.290367,10.474581
+1646100,"Greinveien 16, Slagen",59.290255,10.474612
+1646101,"Bøgata 38B, Slagen",59.306654,10.459045
+1649413,"Mortens vei 4C, Søndre Slagen",59.281522,10.462262
+1654079,"Mortens vei 4D, Søndre Slagen",59.281518,10.462655
+1702517,"Sevjeveien 15, Slagen",59.290862,10.477126
+1702518,"Sevjeveien 17, Slagen",59.290759,10.477455
+1702520,"Sevjeveien 11, Slagen",59.291046,10.476787
+1702521,"Sevjeveien 13, Slagen",59.291013,10.477308
+1702523,"Sevjeveien 19, Slagen",59.290874,10.47767
+1702538,"Sevjeveien 1, Slagen",59.291094,10.475678
+1702539,"Sevjeveien 7, Slagen",59.291104,10.476364
+1702540,"Sevjeveien 9, Slagen",59.291212,10.476811
+1702541,"Sevjeveien 3, Slagen",59.291098,10.475857
+1702542,"Sevjeveien 5, Slagen",59.291107,10.476135
+1702543,"Sevjeveien 21, Slagen",59.290666,10.477732
+1702546,"Sevjeveien 23, Slagen",59.290671,10.4781
+1731772,"Vinkelveien 24B, Søndre Slagen",59.287317,10.465376
+1763640,"Basbergveien 74B, Slagen",59.288983,10.454169
+1763642,"Basbergveien 74A, Slagen",59.288902,10.454165
+1772787,"Sevjeveien 28, Slagen",59.29124,10.478599
+1772788,"Sevjeveien 26, Slagen",59.291436,10.478801
+1772789,"Sevjeveien 24, Slagen",59.29143,10.478537
+1772790,"Sevjeveien 22, Slagen",59.291489,10.478083
+1772791,"Sevjeveien 20, Slagen",59.291392,10.477939
+1772792,"Sevjeveien 18, Slagen",59.291285,10.477811
+1772793,"Sevjeveien 16, Slagen",59.291179,10.477666
+1772798,"Sevjeveien 32, Slagen",59.290956,10.478306
+1772799,"Sevjeveien 30, Slagen",59.291072,10.478416
+1787374,"Robergveien 18, Slagen",59.306309,10.440433
+1845240,"Neverveien 21, Slagen",59.291848,10.477813
+1845247,"Neverveien 19, Slagen",59.292011,10.47789
+1845561,"Neverveien 7, Slagen",59.292654,10.477143
+1845562,"Neverveien 9, Slagen",59.292599,10.477381
+1845563,"Neverveien 11, Slagen",59.292544,10.477652
+1845564,"Neverveien 13, Slagen",59.292426,10.477881
+1845566,"Neverveien 15, Slagen",59.292283,10.47792
+1845567,"Neverveien 17, Slagen",59.292155,10.477878
+1845569,"Neverveien 1, Slagen",59.292816,10.476415
+1845570,"Neverveien 3, Slagen",59.292778,10.476687
+1845571,"Neverveien 5, Slagen",59.29271,10.476922
+1879648,"Sevjeveien 14B, Slagen",59.291437,10.477205
+1879649,"Sevjeveien 14A, Slagen",59.291552,10.477378
+1879650,"Sevjeveien 12B, Slagen",59.291671,10.477612
+1879651,"Sevjeveien 12A, Slagen",59.291743,10.477374
+1879652,"Sevjeveien 10B, Slagen",59.291784,10.477167
+1879976,"Sevjeveien 8A, Slagen",59.291507,10.4767
+1879979,"Sevjeveien 10A, Slagen",59.29183,10.476944
+1879985,"Sevjeveien 8B, Slagen",59.291627,10.476738
+1968764,"Løvveien 22, Slagen",59.29196,10.479315
+1968765,"Løvveien 24, Slagen",59.291859,10.479277
+1968766,"Løvveien 26, Slagen",59.291856,10.478805
+1968767,"Løvveien 28, Slagen",59.291685,10.478889
+1968768,"Løvveien 13, Slagen",59.292116,10.478828
+1968802,"Løvveien 30, Slagen",59.291705,10.478384
+1968804,"Løvveien 32, Slagen",59.291855,10.478426
+1968807,"Neverveien 16, Slagen",59.292307,10.478496
+1968809,"Neverveien 18, Slagen",59.292135,10.478489
+1968816,"Løvveien 4, Slagen",59.293015,10.478363
+1968817,"Løvveien 5, Slagen",59.292728,10.478854
+1968818,"Løvveien 6A, Slagen",59.29311,10.478745
+1968819,"Løvveien 1, Slagen",59.292659,10.478503
+1968834,"Løvveien 11, Slagen",59.292256,10.478853
+1968835,"Løvveien 18, Slagen",59.29228,10.479346
+1968836,"Løvveien 20, Slagen",59.292121,10.479373
+1968837,"Løvveien 9, Slagen",59.292442,10.47883
+1968846,"Løvveien 16, Slagen",59.292488,10.479328
+1968852,"Neverveien 14, Slagen",59.292498,10.478495
+1989401,"Basbergveien 74C, Slagen",59.289278,10.454386
+1997559,"Løvveien 6F, Slagen",59.293168,10.478477
+1997565,"Løvveien 6E, Slagen",59.293139,10.478649
+1997566,"Løvveien 6D, Slagen",59.293143,10.478463
+1997567,"Løvveien 6C, Slagen",59.29312,10.47862
+1998019,"Løvveien 8E, Slagen",59.293108,10.479302
+2013956,"Mortens vei 6B, Søndre Slagen",59.282968,10.462865
+2014298,"Sagveien 15A, Slagen",59.29135,10.474453
+2018653,"Gauterødveien 96C, Slagen",59.28923,10.46631
+2024897,"Gauterødveien 83B, Søndre Slagen",59.28124,10.465335
+2026167,"Bøgata 5, Slagen",59.305234,10.452343
+2074601,"Mortens vei 5A, Søndre Slagen",59.282103,10.46304
+2080289,"Gauterødveien 129A, Søndre Slagen",59.284321,10.466437
+2080290,"Gauterødveien 127A, Søndre Slagen",59.284249,10.466396
+2080291,"Gauterødveien 133A, Søndre Slagen",59.284479,10.466529
+2080292,"Gauterødveien 131A, Søndre Slagen",59.284399,10.466477
+2080517,"Gauterødveien 153B, Søndre Slagen",59.284847,10.467259
+2080518,"Gauterødveien 151B, Søndre Slagen",59.284764,10.46667
+2080519,"Gauterødveien 149B, Søndre Slagen",59.284741,10.466825
+2080520,"Gauterødveien 147B, Søndre Slagen",59.28472,10.466968
+2080521,"Gauterødveien 127B, Søndre Slagen",59.284261,10.466414
+2080529,"Gauterødveien 159A, Søndre Slagen",59.285075,10.467309
+2080530,"Gauterødveien 159B, Søndre Slagen",59.285088,10.467317
+2080538,"Gauterødveien 143B, Søndre Slagen",59.284447,10.467198
+2080539,"Gauterødveien 145B, Søndre Slagen",59.284699,10.46711
+2080540,"Gauterødveien 133B, Søndre Slagen",59.284492,10.466546
+2080541,"Gauterødveien 131B, Søndre Slagen",59.28441,10.466492
+2080542,"Gauterødveien 129B, Søndre Slagen",59.284334,10.466453
+2080543,"Gauterødveien 163A, Søndre Slagen",59.285401,10.467102
+2080545,"Gauterødveien 165A, Søndre Slagen",59.28542,10.466953
+2080734,"Gauterødveien 141B, Søndre Slagen",59.284355,10.467173
+2080741,"Gauterødveien 139B, Søndre Slagen",59.284282,10.467161
+2080764,"Gauterødveien 123B, Søndre Slagen",59.284046,10.4665
+2080826,"Gauterødveien 167, Søndre Slagen",59.285621,10.467089
+2080827,"Gauterødveien 169, Søndre Slagen",59.285691,10.467115
+2080836,"Gauterødveien 175, Søndre Slagen",59.285564,10.467586
+2080837,"Gauterødveien 177, Søndre Slagen",59.285639,10.467592
+2080838,"Gauterødveien 183, Søndre Slagen",59.286026,10.467295
+2080839,"Gauterødveien 185, Søndre Slagen",59.28611,10.467339
+2080840,"Gauterødveien 179, Søndre Slagen",59.285712,10.467608
+2080841,"Gauterødveien 181, Søndre Slagen",59.285786,10.467608
+2080860,"Gauterødveien 171, Søndre Slagen",59.285762,10.467158
+2080861,"Gauterødveien 173, Søndre Slagen",59.285829,10.467199
+2080884,"Gauterødveien 199, Søndre Slagen",59.286556,10.467568
+2080886,"Gauterødveien 201, Søndre Slagen",59.286735,10.467662
+2080888,"Gauterødveien 195, Søndre Slagen",59.286411,10.467496
+2080890,"Gauterødveien 197, Søndre Slagen",59.286486,10.46753
+2080894,"Gauterødveien 203, Søndre Slagen",59.286811,10.4677
+2080896,"Gauterødveien 205, Søndre Slagen",59.286879,10.467733
+2080908,"Gauterødveien 191, Søndre Slagen",59.286291,10.467695
+2080910,"Gauterødveien 193, Søndre Slagen",59.286347,10.467465
+2080911,"Gauterødveien 187, Søndre Slagen",59.286177,10.46737
+2080913,"Gauterødveien 189, Søndre Slagen",59.28618,10.467698
+2080985,"Gauterødveien 207, Søndre Slagen",59.286948,10.467769
+2083361,"Gauterødveien 115A, Søndre Slagen",59.283405,10.466443
+2083362,"Gauterødveien 115C, Søndre Slagen",59.283415,10.466848
+2083363,"Gauterødveien 115B, Søndre Slagen",59.283416,10.466652
+2084960,"Basbergveien 117A, Slagen",59.296001,10.451507
+2119586,"Gauterødveien 98D, Slagen",59.288892,10.46763
+2187999,"Gauterødveien 88D, Slagen",59.287929,10.466306
+2188175,"Gauterødveien 88C, Slagen",59.287889,10.466371
+2188188,"Gauterødveien 88G, Slagen",59.28812,10.467605
+2188189,"Gauterødveien 88B, Slagen",59.287684,10.466739
+2188198,"Gauterødveien 88E, Slagen",59.288048,10.466729
+2199886,"Gauterødveien 115J, Søndre Slagen",59.283014,10.466699
+2199887,"Gauterødveien 115E, Søndre Slagen",59.283172,10.466622
+2199944,"Gauterødveien 115N, Søndre Slagen",59.28288,10.466339
+2200014,"Gauterødveien 115F, Søndre Slagen",59.283174,10.466455
+2200015,"Gauterødveien 115H, Søndre Slagen",59.28301,10.466539
+2200019,"Gauterødveien 115K, Søndre Slagen",59.282849,10.466633
+2200020,"Gauterødveien 115L, Søndre Slagen",59.28286,10.466535
+2200022,"Gauterødveien 115M, Søndre Slagen",59.282869,10.466442
+2200041,"Gauterødveien 115G, Søndre Slagen",59.283007,10.466369
+2200042,"Gauterødveien 115D, Søndre Slagen",59.283179,10.466779
+2200043,"Gauterødveien 115P, Søndre Slagen",59.282889,10.466241
+2200044,"Gauterødveien 115R, Søndre Slagen",59.282901,10.466134
+2242775,"Senterveien 1, Slagen",59.286927,10.457132
+2377982,"Romsveien 1, Slagen",59.303935,10.443753
+2407569,"Løvveien 3, Slagen",59.292903,10.478782
+2407570,"Løvveien 2, Slagen",59.292857,10.478177
+2407571,"Neverveien 12, Slagen",59.292763,10.47809
+2407588,"Løvveien 7, Slagen",59.292571,10.478853
+2407592,"Løvveien 10, Slagen",59.292944,10.479374
+2407593,"Løvveien 12, Slagen",59.292759,10.479335
+2407594,"Løvveien 14, Slagen",59.292629,10.479282
+2407596,"Løvveien 8A, Slagen",59.293165,10.479095
+2408236,"Gauterødveien 98B, Slagen",59.289519,10.466531
+2408268,"Løvveien 6B, Slagen",59.293103,10.47872
+2408323,"Løvveien 8F, Slagen",59.293089,10.479426
+2408324,"Løvveien 8G, Slagen",59.293126,10.479367
+2408325,"Løvveien 8H, Slagen",59.293106,10.479502
+2408326,"Løvveien 8B, Slagen",59.293143,10.479174
+2408327,"Løvveien 8C, Slagen",59.29313,10.479085
+2408328,"Løvveien 8D, Slagen",59.293124,10.479174
+2410046,"Gauterødveien 165B, Søndre Slagen",59.285426,10.466931
+2410047,"Gauterødveien 163B, Søndre Slagen",59.285405,10.467086
+2410048,"Gauterødveien 161A, Søndre Slagen",59.285385,10.467249
+2410053,"Gauterødveien 161B, Søndre Slagen",59.28539,10.467228
+2410054,"Gauterødveien 157B, Søndre Slagen",59.284996,10.467291
+2410057,"Gauterødveien 155B, Søndre Slagen",59.284923,10.467279
+2410101,"Gauterødveien 121A, Søndre Slagen",59.284018,10.466667
+2410103,"Gauterødveien 119A, Søndre Slagen",59.284,10.466818
+2410105,"Gauterødveien 125A, Søndre Slagen",59.284068,10.466354
+2410107,"Gauterødveien 123A, Søndre Slagen",59.28404,10.466524
+2410111,"Gauterødveien 137A, Søndre Slagen",59.284192,10.467139
+2410112,"Gauterødveien 135A, Søndre Slagen",59.284117,10.467126
+2410149,"Gauterødveien 139A, Søndre Slagen",59.284269,10.467153
+2410150,"Gauterødveien 141A, Søndre Slagen",59.284341,10.467163
+2410151,"Gauterødveien 143A, Søndre Slagen",59.284432,10.467185
+2410152,"Gauterødveien 145A, Søndre Slagen",59.284693,10.46713
+2410153,"Gauterødveien 155A, Søndre Slagen",59.284913,10.467272
+2410154,"Gauterødveien 157A, Søndre Slagen",59.284985,10.467284
+2410155,"Gauterødveien 147A, Søndre Slagen",59.284716,10.466983
+2410156,"Gauterødveien 149A, Søndre Slagen",59.284735,10.466838
+2410157,"Gauterødveien 151A, Søndre Slagen",59.284758,10.46669
+2410158,"Gauterødveien 153A, Søndre Slagen",59.284837,10.467254
+2410171,"Gauterødveien 121B, Søndre Slagen",59.284025,10.466648
+2410172,"Gauterødveien 119B, Søndre Slagen",59.284008,10.46679
+2410173,"Gauterødveien 137B, Søndre Slagen",59.284206,10.46715
+2410174,"Gauterødveien 135B, Søndre Slagen",59.28413,10.467137
+2410176,"Gauterødveien 125B, Søndre Slagen",59.284075,10.466326
+2475328,"Kvistveien 20, Slagen",59.291586,10.471048
+2476160,"Kvistveien 16B, Slagen",59.291105,10.470439
+2476161,"Kvistveien 16A, Slagen",59.291103,10.470517
+2476164,"Kvistveien 18B, Slagen",59.29127,10.47065
+2476165,"Kvistveien 18A, Slagen",59.291272,10.470564
+2546130,"Gauterødveien 117B, Søndre Slagen",59.28374,10.466456
+2546131,"Gauterødveien 117C, Søndre Slagen",59.283708,10.46656
+2546151,"Gauterødveien 117A, Søndre Slagen",59.283788,10.466205

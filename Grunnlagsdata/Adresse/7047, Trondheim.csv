@@ -1,0 +1,503 @@
+,Navn,Long,Lat
+54795,"4/123-11, Strindheim",63.429641,10.465154
+54796,"4/123-17, Strindheim",63.429954,10.466064
+54797,"4/123-18, Strindheim",63.429689,10.466499
+54798,"4/123-20, Strindheim",63.429457,10.465829
+54799,"4/123-2, Strindheim",63.42984,10.464312
+54800,"4/123-5, Strindheim",63.429856,10.464634
+54801,"4/123-6, Strindheim",63.42986,10.464752
+54802,"4/123-7, Strindheim",63.429866,10.464859
+54803,"4/123-12, Strindheim",63.429592,10.465159
+54804,"4/123-13, Strindheim",63.429543,10.465171
+54805,"4/123-16, Strindheim",63.429921,10.465761
+54807,"4/123-10, Strindheim",63.429691,10.465149
+54808,"4/123-14, Strindheim",63.429491,10.465177
+54809,"4/123-1, Strindheim",63.429842,10.464199
+54810,"4/123-3, Strindheim",63.429842,10.464422
+54811,"4/123-4, Strindheim",63.429847,10.464528
+54812,"4/123-8, Strindheim",63.429869,10.464969
+54813,"4/123-9, Strindheim",63.429875,10.465079
+54814,"4/123-15, Strindheim",63.429444,10.46519
+54815,"4/123-19, Strindheim",63.429409,10.466225
+1496140,"General Wibes veg 19, Ranheim og Charlottenlund",63.42157,10.481608
+1496141,"General Wibes veg 17, Ranheim og Charlottenlund",63.421671,10.481412
+1496142,"General Wibes veg 23, Ranheim og Charlottenlund",63.421294,10.481413
+1496143,"General Wibes veg 21, Ranheim og Charlottenlund",63.421419,10.48152
+1496144,"General Wibes veg 27, Ranheim og Charlottenlund",63.421036,10.481199
+1496145,"General Wibes veg 25, Ranheim og Charlottenlund",63.421169,10.481306
+1496146,"General Wibes veg 31, Ranheim og Charlottenlund",63.42076,10.480965
+1496147,"General Wibes veg 29, Ranheim og Charlottenlund",63.420885,10.481051
+1496148,"General Wibes veg 3, Ranheim og Charlottenlund",63.421378,10.480255
+1496149,"General Wibes veg 1, Ranheim og Charlottenlund",63.420944,10.479632
+1496150,"General Wibes veg 7, Ranheim og Charlottenlund",63.421193,10.480767
+1496151,"General Wibes veg 5, Ranheim og Charlottenlund",63.421276,10.48053
+1496152,"General Wibes veg 11, Ranheim og Charlottenlund",63.421517,10.480663
+1496153,"General Wibes veg 9, Ranheim og Charlottenlund",63.421371,10.480876
+1496154,"General Wibes veg 15, Ranheim og Charlottenlund",63.421729,10.481055
+1496155,"General Wibes veg 13, Ranheim og Charlottenlund",63.421615,10.480768
+1496315,"General Wibes veg 51, Ranheim og Charlottenlund",63.42039,10.480284
+1496316,"General Wibes veg 49, Ranheim og Charlottenlund",63.420241,10.479916
+1496323,"General Wibes veg 35, Ranheim og Charlottenlund",63.42051,10.480832
+1496324,"General Wibes veg 33, Ranheim og Charlottenlund",63.420635,10.480878
+1496325,"General Wibes veg 39, Ranheim og Charlottenlund",63.42023,10.481017
+1496326,"General Wibes veg 37, Ranheim og Charlottenlund",63.420374,10.480925
+1496327,"General Wibes veg 43, Ranheim og Charlottenlund",63.419959,10.481164
+1496328,"General Wibes veg 41, Ranheim og Charlottenlund",63.420096,10.48099
+1496329,"General Wibes veg 47, Ranheim og Charlottenlund",63.420131,10.480211
+1496330,"General Wibes veg 45, Ranheim og Charlottenlund",63.420038,10.480527
+1496987,"Granåsvegen 43, Strinda",63.415723,10.464615
+1496989,"Granåsvegen 49, Strinda",63.41544,10.46628
+1496990,"Granåsvegen 45A, Strinda",63.41569,10.465078
+1496991,"Granåsvegen 51, Strinda",63.415322,10.466842
+1496992,"Granåsvegen 49B, Strinda",63.41541,10.466166
+1496993,"Granåsvegen 60, Ranheim og Charlottenlund",63.414846,10.470424
+1496994,"Granåsvegen 51B, Strinda",63.415145,10.466653
+1497003,"Nedre Granåslia 2A, Strinda",63.418619,10.474277
+1497007,"Nedre Granåslia 11A, Strinda",63.418619,10.472797
+1497008,"Nedre Granåslia 14, Strinda",63.417935,10.47314
+1497009,"Nedre Granåslia 9A, Strinda",63.418879,10.473287
+1497010,"Nedre Granåslia 10A, Strinda",63.418313,10.472743
+1497011,"Nedre Granåslia 1A, Strinda",63.419143,10.474519
+1497012,"Nedre Granåslia 8, Strinda",63.418361,10.473302
+1497013,"Nedre Granåslia 4, Strinda",63.418612,10.473722
+1497014,"Nedre Granåslia 6, Strinda",63.418439,10.473791
+1497015,"Nedre Granåslia 19A, Strinda",63.418172,10.470108
+1497016,"Nedre Granåslia 30, Strinda",63.417733,10.470391
+1497017,"Nedre Granåslia 20, Strinda",63.417958,10.471705
+1497018,"Nedre Granåslia 24, Strinda",63.417717,10.471166
+1497019,"Nedre Granåslia 15, Strinda",63.418373,10.471642
+1497020,"Nedre Granåslia 18, Strinda",63.417999,10.471835
+1497021,"Nedre Granåslia 13A, Strinda",63.418485,10.472165
+1497022,"Nedre Granåslia 16A, Strinda",63.418056,10.472581
+1497023,"Nedre Granåslia 44, Strinda",63.417136,10.469012
+1497024,"Nedre Granåslia 46A, Strinda",63.417352,10.468599
+1497025,"Nedre Granåslia 42A, Strinda",63.41692,10.469414
+1497026,"Øvre Granåslia 6, Strinda",63.416681,10.469332
+1497027,"Nedre Granåslia 34A, Strinda",63.417503,10.4693
+1497028,"Nedre Granåslia 21, Strinda",63.417959,10.469708
+1497029,"Nedre Granåslia 32A, Strinda",63.417664,10.469793
+1497036,"Nedre Granåslia 48A, Strinda",63.416889,10.468567
+1497037,"Nedre Granåslia 50A, Strinda",63.41714,10.468009
+1497508,"Nedre Granåslia 49, Strinda",63.417578,10.467755
+1497509,"Nedre Granåslia 47, Strinda",63.417826,10.467549
+1497511,"Nedre Granåslia 51, Strinda",63.417489,10.467662
+1497516,"Anton Furuseths veg 9, Strinda",63.419212,10.46729
+1497517,"Anton Furuseths veg 13, Strinda",63.41919,10.467819
+1497518,"Ingvald Ystgaards veg 28, Strinda",63.418897,10.466644
+1497519,"Ingvald Ystgaards veg 26, Strinda",63.419011,10.466911
+1497520,"Nedre Granåslia 41, Strinda",63.418564,10.467222
+1497521,"Ingvald Ystgaards veg 22, Strinda",63.418723,10.46706
+1497522,"Nedre Granåslia 45, Strinda",63.418032,10.467418
+1497523,"Nedre Granåslia 43, Strinda",63.418249,10.467276
+1497524,"Hallfred Høyems veg 55, Strinda",63.418889,10.47005
+1497525,"Hallfred Høyems veg 53, Strinda",63.418919,10.470592
+1497526,"Hallfred Høyems veg 59, Strinda",63.418752,10.469402
+1497527,"Hallfred Høyems veg 57, Strinda",63.419124,10.469882
+1497528,"Nedre Granåslia 37A, Strinda",63.418561,10.467917
+1497529,"Anton Furuseths veg 25, Strinda",63.418768,10.468591
+1497530,"Nedre Granåslia 39, Strinda",63.41888,10.467826
+1497531,"Nedre Granåslia 35, Strinda",63.418661,10.468235
+1497532,"Hallfred Høyems veg 41, Strinda",63.419426,10.471981
+1497533,"Nedre Granåslia 27A, Strinda",63.418089,10.468604
+1497534,"Hallfred Høyems veg 43, Strinda",63.41936,10.471376
+1497535,"Nedre Granåslia 31, Strinda",63.418093,10.46815
+1497536,"Hallfred Høyems veg 45, Strinda",63.419088,10.471603
+1497537,"Hallfred Høyems veg 43B, Strinda",63.419485,10.471403
+1497538,"Hallfred Høyems veg 49, Strinda",63.419311,10.470873
+1497539,"Hallfred Høyems veg 47, Strinda",63.418976,10.471136
+1497540,"Hallfred Høyems veg 32, Strinda",63.418626,10.471178
+1497541,"Hallfred Høyems veg 31, Strinda",63.419863,10.472243
+1497542,"Hallfred Høyems veg 35, Strinda",63.419582,10.472449
+1497543,"Hallfred Høyems veg 33, Strinda",63.419671,10.471673
+1497544,"Hallfred Høyems veg 37, Strinda",63.419393,10.47254
+1497545,"Hallfred Høyems veg 36, Strinda",63.418487,10.469849
+1497546,"Hallfred Høyems veg 39, Strinda",63.419182,10.472108
+1497547,"Hallfred Høyems veg 38, Strinda",63.418331,10.46928
+1497548,"Hallfred Høyems veg 25, Strinda",63.420107,10.471214
+1497549,"Hallfred Høyems veg 24, Strinda",63.419537,10.473329
+1497550,"Hallfred Høyems veg 27A, Strinda",63.420181,10.471719
+1497551,"Hallfred Høyems veg 26, Strinda",63.419086,10.472973
+1497552,"Hallfred Høyems veg 29A, Strinda",63.420036,10.472012
+1497553,"Hallfred Høyems veg 28, Strinda",63.418927,10.472416
+1497554,"Hallfred Høyems veg 30, Strinda",63.418809,10.471729
+1497555,"Hallfred Høyems veg 29B, Strinda",63.419981,10.472069
+1497556,"Hallfred Høyems veg 17, Strinda",63.419766,10.470335
+1497557,"Hallfred Høyems veg 16, Strinda",63.42039,10.472491
+1497558,"Hallfred Høyems veg 19, Strinda",63.419923,10.470764
+1497559,"Hallfred Høyems veg 18, Strinda",63.420153,10.472779
+1497560,"Hallfred Høyems veg 21, Strinda",63.419622,10.471169
+1497561,"Hallfred Høyems veg 20, Strinda",63.419919,10.472907
+1497562,"Hallfred Høyems veg 23, Strinda",63.419871,10.471482
+1497563,"Hallfred Høyems veg 22, Strinda",63.419755,10.473099
+1497564,"Hallfred Høyems veg 9, Strinda",63.419467,10.469659
+1497565,"Hallfred Høyems veg 8, Strinda",63.420398,10.470848
+1497566,"Hallfred Høyems veg 11, Strinda",63.419607,10.470006
+1497567,"Hallfred Høyems veg 10, Strinda",63.420591,10.471299
+1497568,"Hallfred Høyems veg 13, Strinda",63.419381,10.470255
+1497569,"Hallfred Høyems veg 12, Strinda",63.420739,10.471687
+1497570,"Hallfred Høyems veg 15, Strinda",63.419492,10.470742
+1497571,"Hallfred Høyems veg 14, Strinda",63.42059,10.472241
+1497572,"Hallfred Høyems veg 1, Strinda",63.419586,10.468827
+1497574,"Anton Furuseths veg 5, Strinda",63.419308,10.468114
+1497575,"Hallfred Høyems veg 2C, Strinda",63.419873,10.469539
+1497576,"Anton Furuseths veg 7, Strinda",63.419389,10.46796
+1497577,"Anton Furuseths veg 21, Strinda",63.419115,10.468389
+1497578,"Hallfred Høyems veg 6, Strinda",63.420214,10.470398
+1497579,"Anton Furuseths veg 23, Strinda",63.419026,10.468492
+1499210,"Ingvald Ystgaards veg 32, Strinda",63.419142,10.466417
+1499575,"Ingvald Ystgaards veg 30, Strinda",63.419308,10.466786
+1499576,"Ingvald Ystgaards veg 20, Strinda",63.419393,10.467331
+1499577,"Ingvald Ystgaards veg 13B, Strinda",63.420215,10.466772
+1499578,"Ingvald Ystgaards veg 13A, Strinda",63.420544,10.466268
+1499579,"Ingvald Ystgaards veg 15, Strinda",63.420006,10.467082
+1499580,"Ingvald Ystgaards veg 14, Strinda",63.420013,10.468965
+1499581,"Ingvald Ystgaards veg 17, Strinda",63.419868,10.465652
+1499582,"Ingvald Ystgaards veg 16, Strinda",63.419679,10.468307
+1499583,"Ingvald Ystgaards veg 19, Strinda",63.418984,10.463383
+1499584,"Ingvald Ystgaards veg 18, Strinda",63.419558,10.46782
+1499585,"Ingvald Ystgaards veg 6, Strinda",63.420766,10.470867
+1499586,"Ingvald Ystgaards veg 5, Strinda",63.420484,10.468569
+1499587,"Ingvald Ystgaards veg 8B, Strinda",63.420533,10.470348
+1499588,"Ingvald Ystgaards veg 8, Strinda",63.420581,10.470517
+1499589,"Ingvald Ystgaards veg 10, Strinda",63.420424,10.470008
+1499590,"Ingvald Ystgaards veg 9, Strinda",63.421292,10.467709
+1499591,"Ingvald Ystgaards veg 12, Strinda",63.420241,10.469518
+1499592,"Ingvald Ystgaards veg 11, Strinda",63.420929,10.467209
+1499599,"Ingvald Ystgaards veg 4, Strinda",63.420931,10.471336
+1499600,"Ingvald Ystgaards veg 1, Strinda",63.42173,10.470516
+1502983,"Landbruksvegen 2, Strindheim",63.428635,10.473796
+1503084,"Leistadgrenda 11, Ranheim og Charlottenlund",63.419431,10.480115
+1503085,"Leistadgrenda 10, Ranheim og Charlottenlund",63.419509,10.478656
+1503086,"Leistadgrenda 13, Ranheim og Charlottenlund",63.419293,10.480508
+1503087,"Leistadgrenda 12, Ranheim og Charlottenlund",63.419705,10.478787
+1503088,"Leistadgrenda 15, Ranheim og Charlottenlund",63.420044,10.479024
+1503089,"Leistadgrenda 14, Ranheim og Charlottenlund",63.419735,10.477646
+1503090,"Leistadgrenda 17, Ranheim og Charlottenlund",63.420246,10.478634
+1503091,"Leistadgrenda 16, Ranheim og Charlottenlund",63.419796,10.476968
+1503094,"Leistadgrenda 5, Ranheim og Charlottenlund",63.41901,10.47829
+1503095,"Leistadgrenda 4, Ranheim og Charlottenlund",63.419489,10.476311
+1503096,"Leistadgrenda 7, Ranheim og Charlottenlund",63.419218,10.479062
+1503097,"Leistadgrenda 6, Ranheim og Charlottenlund",63.419455,10.476951
+1503098,"Leistadgrenda 9, Ranheim og Charlottenlund",63.419402,10.479512
+1503099,"Leistadgrenda 8, Ranheim og Charlottenlund",63.419444,10.478072
+1503178,"Leistadvegen 10, Ranheim og Charlottenlund",63.418889,10.480527
+1503185,"Leistadgrenda 21, Ranheim og Charlottenlund",63.420041,10.477542
+1503186,"Leistadgrenda 19, Ranheim og Charlottenlund",63.420243,10.478053
+1503187,"Leistadvegen 1B, Ranheim og Charlottenlund",63.418552,10.478326
+1503188,"Leistadvegen 1, Ranheim og Charlottenlund",63.418537,10.478045
+1503189,"Leistadvegen 4, Ranheim og Charlottenlund",63.418853,10.478743
+1503190,"Leistadvegen 2B, Ranheim og Charlottenlund",63.419186,10.476897
+1503191,"Leistadvegen 8, Ranheim og Charlottenlund",63.41876,10.47998
+1503192,"Leistadvegen 6, Ranheim og Charlottenlund",63.418919,10.479327
+1503957,"Magnus Lagabøters veg 6, Ranheim og Charlottenlund",63.423994,10.473778
+1503958,"Magnus Lagabøters veg 4, Ranheim og Charlottenlund",63.42336,10.472623
+1503960,"Magnus Lagabøters veg 8, Ranheim og Charlottenlund",63.424203,10.475291
+1517867,"Tungavegen 1, Strindheim",63.430126,10.471047
+1517868,"Tungasletta 2, Strindheim",63.423189,10.465622
+1517869,"Tungavegen 26, Strindheim",63.425945,10.470863
+1517870,"Tungavegen 2, Strindheim",63.430733,10.474044
+1517871,"Tungavegen 30, Strindheim",63.425971,10.468369
+1517872,"Tungavegen 28, Strindheim",63.426229,10.466859
+1517873,"Tungavegen 34, Strindheim",63.425308,10.465549
+1517874,"Tungavegen 32, Strindheim",63.424834,10.471497
+1520558,"Nedre Granåslia 22, Strinda",63.417795,10.471188
+1521120,"Leistadvegen 3, Ranheim og Charlottenlund",63.417961,10.479057
+1521534,"Ingvald Ystgaards veg 7B, Strinda",63.421022,10.468596
+1521619,"Ingvald Ystgaards veg 7A, Strinda",63.42082,10.468145
+1521806,"Ingvald Ystgaards veg 23, Strinda",63.417871,10.460802
+1522163,"Øvre Granåslia 8, Strinda",63.41664,10.469947
+1522170,"Øvre Granåslia 30, Strinda",63.417619,10.47199
+1522171,"Øvre Granåslia 32, Strinda",63.417629,10.472495
+1522172,"Øvre Granåslia 24, Strinda",63.417433,10.471205
+1522173,"Øvre Granåslia 28, Strinda",63.417546,10.471576
+1522174,"Øvre Granåslia 18, Strinda",63.417092,10.470394
+1522175,"Øvre Granåslia 20, Strinda",63.417317,10.470785
+1522176,"Øvre Granåslia 12, Strinda",63.417075,10.469945
+1522177,"Øvre Granåslia 16, Strinda",63.416914,10.470163
+1522214,"Magnus Lagabøters veg 4A, Ranheim og Charlottenlund",63.422878,10.472999
+1522216,"Magnus Lagabøters veg 4C, Ranheim og Charlottenlund",63.423173,10.473639
+1522217,"Magnus Lagabøters veg 4B, Ranheim og Charlottenlund",63.423006,10.47326
+1522653,"Landbruksvegen 5, Strindheim",63.426403,10.474362
+1523222,"Tungasletta 12, Strindheim",63.421461,10.462608
+1523225,"Ingvald Ystgaards veg 3B, Strinda",63.421138,10.469564
+1523226,"Nedre Granåslia 38, Strinda",63.417351,10.469879
+1523233,"Ingvald Ystgaards veg 3A, Strinda",63.421638,10.468988
+1523360,"Tungasletta 9, Strindheim",63.422164,10.4605
+1523625,"Nedre Granåslia 12, Strinda",63.417679,10.473137
+1523653,"Anton Furuseths veg 1, Strinda",63.41942,10.468653
+1523772,"Tungavegen 36, Strindheim",63.425303,10.466952
+1523779,"Nedre Granåslia 36, Strinda",63.417326,10.469439
+1523791,"Tungavegen 32B, Strindheim",63.424701,10.470488
+1523816,"Tungavegen 51A, Strindheim",63.42505,10.46237
+1524138,"Tungavegen 49, Strindheim",63.425407,10.462048
+1524140,"Tungavegen 53, Strindheim",63.424775,10.461495
+1524142,"Tungavegen 43, Strindheim",63.425705,10.461021
+1524144,"Tungavegen 45, Strindheim",63.425402,10.460745
+1524146,"Tungavegen 77, Strindheim",63.423402,10.460643
+1524148,"Tungavegen 79, Strindheim",63.423195,10.460673
+1524150,"Tungavegen 55, Strindheim",63.424955,10.460622
+1524152,"Tungavegen 75, Strindheim",63.4236,10.460613
+1524162,"Tungavegen 39, Strindheim",63.425615,10.46278
+1524164,"Tungavegen 41, Strindheim",63.425875,10.461951
+1524168,"Tungavegen 37, Strindheim",63.425458,10.463193
+1524523,"Tungasletta 16, Strindheim",63.420785,10.461091
+1524565,"Nermarka 13, Strinda",63.420093,10.473397
+1524567,"Nermarka 15, Strinda",63.419985,10.473472
+1524570,"Nermarka 9, Strinda",63.420483,10.473016
+1524571,"Nermarka 11, Strinda",63.420292,10.473307
+1524573,"Nermarka 21, Strinda",63.419548,10.47405
+1524575,"Nermarka 23, Strinda",63.418743,10.47461
+1524577,"Nermarka 17, Strinda",63.419848,10.473685
+1524579,"Nermarka 19, Strinda",63.419649,10.473835
+1524581,"Magnus Lagabøters veg 2, Ranheim og Charlottenlund",63.422806,10.471493
+1524583,"Nermarka 2, Ranheim og Charlottenlund",63.420844,10.475459
+1524589,"Nermarka 5, Strinda",63.420738,10.472689
+1524591,"Nermarka 7, Strinda",63.420674,10.472766
+1524592,"Nermarka 1, Strinda",63.421159,10.471849
+1524594,"Nermarka 3, Strinda",63.420911,10.472457
+1524599,"Tungavegen 3, Strindheim",63.427611,10.466849
+1524965,"Anton Furuseths veg 11, Strinda",63.419264,10.467495
+1524976,"General Wibes veg 1D, Ranheim og Charlottenlund",63.421002,10.480156
+1524979,"General Wibes veg 1B, Ranheim og Charlottenlund",63.420432,10.479726
+1524980,"General Wibes veg 1C, Ranheim og Charlottenlund",63.420563,10.480013
+1525396,"Tungavegen 38, Strindheim",63.424932,10.466352
+1525624,"Tungasletta 7, Strindheim",63.422663,10.461748
+1526342,"Tungavegen 71C, Strindheim",63.424057,10.460677
+1526354,"Tungavegen 67B, Strindheim",63.423908,10.460308
+1526356,"Tungavegen 67C, Strindheim",63.423862,10.460446
+1526358,"Tungavegen 65C, Strindheim",63.424072,10.460016
+1526360,"Tungavegen 67A, Strindheim",63.423963,10.460191
+1526362,"Tungavegen 71A, Strindheim",63.4242,10.460664
+1526364,"Tungavegen 71B, Strindheim",63.42412,10.46068
+1526366,"Tungavegen 69A, Strindheim",63.424435,10.460536
+1526368,"Tungavegen 69B, Strindheim",63.424372,10.460572
+1526370,"Tungavegen 61A, Strindheim",63.42456,10.45974
+1526372,"Tungavegen 61B, Strindheim",63.424562,10.4595
+1526374,"Tungavegen 59A, Strindheim",63.424565,10.460161
+1526376,"Tungavegen 59B, Strindheim",63.424567,10.459921
+1526378,"Tungavegen 65A, Strindheim",63.424208,10.459883
+1526380,"Tungavegen 65B, Strindheim",63.424136,10.459959
+1526382,"Tungavegen 63A, Strindheim",63.424434,10.459814
+1526384,"Tungavegen 63B, Strindheim",63.424334,10.459849
+1528228,"Nedre Granåslia 17B, Strinda",63.418372,10.470903
+1528229,"Nedre Granåslia 17A, Strinda",63.41829,10.470672
+1528545,"Nermarka 25, Ranheim og Charlottenlund",63.417966,10.475071
+1528625,"Tungasletta 8, Strindheim",63.422107,10.465246
+1528836,"Hallfred Høyems veg 4A, Strinda",63.420049,10.469889
+1528837,"Hallfred Høyems veg 4B, Strinda",63.420119,10.470033
+1530015,"Amalienlyst 3C, Strindheim",63.430091,10.475314
+1530016,"Amalienlyst 1C, Strindheim",63.430085,10.474171
+1530017,"Amalienlyst 5B, Strindheim",63.429524,10.475485
+1530018,"Amalienlyst 6, Strindheim",63.429281,10.475512
+1530021,"Amalienlyst 1D, Strindheim",63.430013,10.474187
+1530023,"Amalienlyst 2B, Strindheim",63.430205,10.474698
+1530024,"Amalienlyst 3A, Strindheim",63.430237,10.475081
+1530025,"Amalienlyst 1B, Strindheim",63.430195,10.473936
+1530026,"Amalienlyst 2A, Strindheim",63.430251,10.47462
+1530027,"Amalienlyst 4A, Strindheim",63.429786,10.475338
+1530028,"Amalienlyst 5A, Strindheim",63.429562,10.475306
+1530029,"Amalienlyst 3B, Strindheim",63.430155,10.475217
+1530030,"Amalienlyst 4, Strindheim",63.429841,10.475221
+1530036,"Amalienlyst 1A, Strindheim",63.430232,10.473838
+1531570,"Aunegrenda 13, Ranheim og Charlottenlund",63.417974,10.476033
+1531576,"Aunegrenda 1, Ranheim og Charlottenlund",63.418251,10.476227
+1531577,"Aunegrenda 3, Ranheim og Charlottenlund",63.418236,10.476828
+1531580,"Aunegrenda 9, Ranheim og Charlottenlund",63.417653,10.476698
+1531581,"Aunegrenda 11, Ranheim og Charlottenlund",63.417705,10.476039
+1531582,"Aunegrenda 5, Ranheim og Charlottenlund",63.41807,10.4772
+1531583,"Aunegrenda 7, Ranheim og Charlottenlund",63.417766,10.477104
+1533110,"Nermarka 37A, Ranheim og Charlottenlund",63.417427,10.474262
+1533111,"Nermarka 37B, Ranheim og Charlottenlund",63.41739,10.47436
+1533112,"Nermarka 35A, Ranheim og Charlottenlund",63.417536,10.474187
+1533113,"Nermarka 35B, Ranheim og Charlottenlund",63.417499,10.474266
+1533116,"Nermarka 39, Ranheim og Charlottenlund",63.417539,10.474748
+1533117,"Nermarka 41, Ranheim og Charlottenlund",63.417572,10.475031
+1533118,"Nermarka 29A, Ranheim og Charlottenlund",63.418013,10.474052
+1533119,"Nermarka 29B, Ranheim og Charlottenlund",63.417985,10.47413
+1533121,"Nermarka 27, Ranheim og Charlottenlund",63.417999,10.474572
+1533122,"Nermarka 33A, Ranheim og Charlottenlund",63.417787,10.4742
+1533123,"Nermarka 33B, Ranheim og Charlottenlund",63.41775,10.474299
+1533124,"Nermarka 31A, Ranheim og Charlottenlund",63.417905,10.474106
+1533125,"Nermarka 31B, Ranheim og Charlottenlund",63.417868,10.474204
+1533300,"Bromstadvegen 66, Strindheim",63.424577,10.466855
+1533312,"Bromstadvegen 59, Strindheim",63.422746,10.467743
+1533313,"Bromstadvegen 68, Strindheim",63.42407,10.469013
+1533315,"Bromstadvegen 57, Strindheim",63.424324,10.461752
+1535652,"Hallfred Høyems veg 51A, Strinda",63.419128,10.470323
+1535654,"Hallfred Høyems veg 51B, Strinda",63.419243,10.470509
+1536791,"Tungasletta 10, Strindheim",63.421132,10.463994
+1539482,"Tungasletta 6, Strindheim",63.422419,10.463887
+1815359,"Granåsvegen 45B, Strinda",63.41559,10.465035
+1815365,"Granåsvegen 45C, Strinda",63.41556,10.465164
+1829464,"Tungavegen 51B, Strindheim",63.425039,10.462085
+1836547,"Ingvald Ystgaards veg 24, Strinda",63.418806,10.467103
+1845194,"Øvre Granåslia 34, Strinda",63.417714,10.47259
+1845195,"Anton Furuseths veg 15, Strinda",63.419162,10.46788
+1845196,"Hallfred Høyems veg 3, Strinda",63.419561,10.46892
+1845197,"Øvre Granåslia 22, Strinda",63.417425,10.471065
+1845198,"Øvre Granåslia 26, Strinda",63.417508,10.471173
+1845199,"Øvre Granåslia 10, Strinda",63.41672,10.469873
+1845200,"Øvre Granåslia 14, Strinda",63.416945,10.46997
+1845556,"Anton Furuseths veg 3, Strinda",63.419486,10.468361
+1845558,"Anton Furuseths veg 19, Strinda",63.419177,10.468328
+1850708,"Nedre Granåslia 2B, Strinda",63.418545,10.474185
+1850709,"Nedre Granåslia 10B, Strinda",63.418286,10.472635
+1850710,"Nedre Granåslia 16B, Strinda",63.41806,10.472425
+1850711,"Nedre Granåslia 13B, Strinda",63.418524,10.472311
+1850712,"Nedre Granåslia 13C, Strinda",63.418568,10.472235
+1850713,"Nedre Granåslia 13D, Strinda",63.418517,10.472026
+1850714,"Nedre Granåslia 37B, Strinda",63.418614,10.46784
+1850717,"Nedre Granåslia 9B, Strinda",63.418803,10.473223
+1850719,"Nedre Granåslia 11B, Strinda",63.418671,10.472705
+1850789,"Nedre Granåslia 50B, Strinda",63.417071,10.46801
+1850790,"Nedre Granåslia 48B, Strinda",63.416908,10.468674
+1850791,"Nedre Granåslia 40, Strinda",63.417397,10.470134
+1850793,"Nedre Granåslia 34B, Strinda",63.417485,10.469229
+1850794,"Nedre Granåslia 46B, Strinda",63.417312,10.468527
+1850796,"Nedre Granåslia 42B, Strinda",63.417013,10.469345
+1850797,"Nedre Granåslia 26, Strinda",63.417652,10.470774
+1850798,"Nedre Granåslia 32B, Strinda",63.417634,10.469685
+1850799,"Nedre Granåslia 28, Strinda",63.417549,10.470414
+1861041,"Leistadvegen 2A, Ranheim og Charlottenlund",63.418918,10.476959
+1963116,"Hallfred Høyems veg 27B, Strinda",63.420191,10.471885
+1973301,"Granåsvegen 47B, Strinda",63.415568,10.465769
+1973303,"Granåsvegen 47A, Strinda",63.415461,10.465803
+1985257,"Tungavegen 57B, Strindheim",63.424945,10.459998
+1985259,"Tungavegen 57C, Strindheim",63.425025,10.460121
+1985264,"Tungavegen 57A, Strindheim",63.424925,10.460123
+1989260,"Nedre Granåslia 5, Strinda",63.419271,10.47353
+1991125,"Nedre Granåslia 1B, Strinda",63.419124,10.474422
+1991126,"Nedre Granåslia 1C, Strinda",63.419109,10.474326
+1991127,"Nedre Granåslia 1D, Strinda",63.41909,10.474221
+1991128,"Nedre Granåslia 3D, Strinda",63.419304,10.474083
+1991131,"Nedre Granåslia 7, Strinda",63.419014,10.473942
+1991132,"Nedre Granåslia 3A, Strinda",63.419327,10.474406
+1991134,"Nedre Granåslia 3B, Strinda",63.419318,10.474297
+1991135,"Nedre Granåslia 3C, Strinda",63.419311,10.474195
+2005172,"Hallfred Høyems veg 2A, Strinda",63.419797,10.469311
+2009579,"Hallfred Høyems veg 2B, Strinda",63.419811,10.469284
+2014377,"Granåsvegen 47C, Strinda",63.415612,10.465809
+2022003,"Tungavegen 22, Strindheim",63.427521,10.469095
+2030049,"Øvre Granåslia 1, Strinda",63.418441,10.465554
+2030765,"Nedre Granåslia 29A, Strinda",63.418262,10.468352
+2030888,"Øvre Granåslia 3, Strinda",63.41822,10.464668
+2034112,"Nedre Granåslia 29B, Strinda",63.418312,10.468382
+2034337,"Ingvald Ystgaards veg 38, Strinda",63.418432,10.464096
+2037198,"Øvre Granåslia 7, Strinda",63.417504,10.463581
+2037199,"Øvre Granåslia 5, Strinda",63.417863,10.464017
+2048354,"Øvre Granåslia 11, Strinda",63.417476,10.465495
+2048521,"Øvre Granåslia 9, Strinda",63.417781,10.466191
+2050887,"Nedre Granåslia 19D, Strinda",63.418044,10.470279
+2050888,"Nedre Granåslia 19C, Strinda",63.417979,10.470093
+2050889,"Nedre Granåslia 19B, Strinda",63.418129,10.469965
+2057305,"Øvre Granåslia 13, Strinda",63.417182,10.46428
+2057323,"Øvre Granåslia 15, Strinda",63.41671,10.463582
+2068754,"Øvre Granåslia 27, Strinda",63.416768,10.466201
+2071950,"Øvre Granåslia 17, Strinda",63.417312,10.46634
+2071953,"Øvre Granåslia 19, Strinda",63.41714,10.466016
+2072102,"Øvre Granåslia 25, Strinda",63.416402,10.465513
+2074176,"Øvre Granåslia 21, Strinda",63.416708,10.465145
+2074178,"Øvre Granåslia 23, Strinda",63.416436,10.464557
+2074514,"Nedre Granåslia 27B, Strinda",63.418105,10.468827
+2076007,"Ingvald Ystgaards veg 40, Strinda",63.418133,10.46347
+2084842,"Landbruksvegen 3, Strindheim",63.426478,10.47229
+2091312,"Tungasletta 14, Strindheim",63.421107,10.460627
+2091313,"Tungasletta 18, Strindheim",63.42032,10.461814
+2180505,"Nedre Granåslia 23, Strinda",63.417717,10.468536
+2187932,"Bonesvegen 17A, Ranheim og Charlottenlund",63.415683,10.475476
+2187933,"Bonesvegen 17B, Ranheim og Charlottenlund",63.415685,10.475365
+2187934,"Bonesvegen 17D, Ranheim og Charlottenlund",63.415703,10.475146
+2187935,"Bonesvegen 17C, Ranheim og Charlottenlund",63.4157,10.475259
+2187936,"Bonesvegen 17E, Ranheim og Charlottenlund",63.41572,10.475048
+2187937,"Bonesvegen 17G, Ranheim og Charlottenlund",63.415729,10.474862
+2187938,"Bonesvegen 19A, Ranheim og Charlottenlund",63.415721,10.474606
+2187939,"Bonesvegen 17F, Ranheim og Charlottenlund",63.415718,10.474952
+2187940,"Bonesvegen 19B, Ranheim og Charlottenlund",63.415728,10.4745
+2187941,"Bonesvegen 19C, Ranheim og Charlottenlund",63.415739,10.474393
+2187942,"Bonesvegen 19D, Ranheim og Charlottenlund",63.415744,10.474283
+2187943,"Bonesvegen 19E, Ranheim og Charlottenlund",63.415758,10.474193
+2187944,"Bonesvegen 19F, Ranheim og Charlottenlund",63.415762,10.474089
+2187945,"Bonesvegen 19G, Ranheim og Charlottenlund",63.415772,10.47399
+2187946,"Bonesvegen 21A, Ranheim og Charlottenlund",63.415517,10.473845
+2187947,"Bonesvegen 21B, Ranheim og Charlottenlund",63.415509,10.473943
+2187948,"Bonesvegen 21C, Ranheim og Charlottenlund",63.415503,10.474043
+2187949,"Bonesvegen 21D, Ranheim og Charlottenlund",63.415494,10.474135
+2187950,"Bonesvegen 21E, Ranheim og Charlottenlund",63.415489,10.474254
+2187951,"Bonesvegen 21F, Ranheim og Charlottenlund",63.415481,10.474362
+2187952,"Bonesvegen 21G, Ranheim og Charlottenlund",63.415473,10.474464
+2187953,"Bonesvegen 23A, Ranheim og Charlottenlund",63.415475,10.474772
+2187954,"Bonesvegen 23B, Ranheim og Charlottenlund",63.415466,10.474878
+2187955,"Bonesvegen 23C, Ranheim og Charlottenlund",63.415457,10.474966
+2187956,"Bonesvegen 23E, Ranheim og Charlottenlund",63.415443,10.475171
+2187957,"Bonesvegen 23D, Ranheim og Charlottenlund",63.415453,10.475066
+2187958,"Bonesvegen 23F, Ranheim og Charlottenlund",63.41544,10.475283
+2187959,"Bonesvegen 23G, Ranheim og Charlottenlund",63.415429,10.475391
+2187960,"Bonesvegen 29A, Ranheim og Charlottenlund",63.415243,10.475014
+2187961,"Bonesvegen 29B, Ranheim og Charlottenlund",63.41524,10.475116
+2187962,"Bonesvegen 29C, Ranheim og Charlottenlund",63.415231,10.475221
+2187963,"Bonesvegen 29D, Ranheim og Charlottenlund",63.41522,10.475323
+2187964,"Bonesvegen 27A, Ranheim og Charlottenlund",63.415081,10.474284
+2187965,"Bonesvegen 27B, Ranheim og Charlottenlund",63.415076,10.474384
+2187967,"Bonesvegen 27C, Ranheim og Charlottenlund",63.41507,10.474492
+2187968,"Bonesvegen 27F, Ranheim og Charlottenlund",63.415046,10.474805
+2187969,"Bonesvegen 35A, Ranheim og Charlottenlund",63.414853,10.476547
+2187970,"Bonesvegen 33E, Ranheim og Charlottenlund",63.414873,10.476305
+2187971,"Bonesvegen 35F, Ranheim og Charlottenlund",63.414812,10.477066
+2187972,"Bonesvegen 35G, Ranheim og Charlottenlund",63.414803,10.477164
+2187973,"Bonesvegen 35H, Ranheim og Charlottenlund",63.414797,10.477271
+2187974,"Bonesvegen 31E, Ranheim og Charlottenlund",63.415082,10.476256
+2187975,"Bonesvegen 31D, Ranheim og Charlottenlund",63.415087,10.476151
+2187977,"Bonesvegen 37D, Ranheim og Charlottenlund",63.415022,10.477035
+2187978,"Bonesvegen 39F, Ranheim og Charlottenlund",63.415263,10.476423
+2187979,"Bonesvegen 39J, Ranheim og Charlottenlund",63.415239,10.476734
+2188006,"Bonesvegen 27D, Ranheim og Charlottenlund",63.415059,10.474605
+2188007,"Bonesvegen 25D, Ranheim og Charlottenlund",63.41527,10.47395
+2188008,"Bonesvegen 25B, Ranheim og Charlottenlund",63.415282,10.473745
+2188009,"Bonesvegen 25C, Ranheim og Charlottenlund",63.415279,10.473845
+2188010,"Bonesvegen 33A, Ranheim og Charlottenlund",63.414906,10.475894
+2188011,"Bonesvegen 33C, Ranheim og Charlottenlund",63.414889,10.4761
+2188012,"Bonesvegen 33D, Ranheim og Charlottenlund",63.414881,10.476203
+2188013,"Bonesvegen 35E, Ranheim og Charlottenlund",63.41482,10.476956
+2188014,"Bonesvegen 31C, Ranheim og Charlottenlund",63.415096,10.476047
+2188015,"Bonesvegen 37B, Ranheim og Charlottenlund",63.415038,10.476827
+2188016,"Bonesvegen 39G, Ranheim og Charlottenlund",63.415256,10.476527
+2188017,"Bonesvegen 39H, Ranheim og Charlottenlund",63.415248,10.476631
+2188018,"Bonesvegen 41B, Ranheim og Charlottenlund",63.415512,10.476028
+2188020,"Bonesvegen 41D, Ranheim og Charlottenlund",63.415496,10.476237
+2188021,"Bonesvegen 41F, Ranheim og Charlottenlund",63.41548,10.476442
+2188043,"Bonesvegen 27E, Ranheim og Charlottenlund",63.415051,10.474711
+2188044,"Bonesvegen 25A, Ranheim og Charlottenlund",63.415297,10.473649
+2188045,"Bonesvegen 27H, Ranheim og Charlottenlund",63.415027,10.475007
+2188046,"Bonesvegen 25E, Ranheim og Charlottenlund",63.41526,10.474048
+2188047,"Bonesvegen 35B, Ranheim og Charlottenlund",63.414843,10.476651
+2188048,"Bonesvegen 35C, Ranheim og Charlottenlund",63.414834,10.476747
+2188049,"Bonesvegen 35D, Ranheim og Charlottenlund",63.414827,10.476859
+2188050,"Bonesvegen 37A, Ranheim og Charlottenlund",63.415049,10.476727
+2188051,"Bonesvegen 41C, Ranheim og Charlottenlund",63.415503,10.476134
+2188074,"Bonesvegen 2, Ranheim og Charlottenlund",63.416931,10.476476
+2188080,"Bonesvegen 27G, Ranheim og Charlottenlund",63.415039,10.474917
+2188081,"Bonesvegen 25F, Ranheim og Charlottenlund",63.415254,10.474168
+2188082,"Bonesvegen 33B, Ranheim og Charlottenlund",63.414898,10.475997
+2188084,"Bonesvegen 31A, Ranheim og Charlottenlund",63.415113,10.475845
+2188085,"Bonesvegen 31B, Ranheim og Charlottenlund",63.415103,10.475944
+2188086,"Bonesvegen 37C, Ranheim og Charlottenlund",63.415031,10.476931
+2188087,"Bonesvegen 39B, Ranheim og Charlottenlund",63.415293,10.476012
+2188088,"Bonesvegen 39A, Ranheim og Charlottenlund",63.4153,10.475912
+2188089,"Bonesvegen 39C, Ranheim og Charlottenlund",63.415285,10.476116
+2188090,"Bonesvegen 39D, Ranheim og Charlottenlund",63.415278,10.476215
+2188091,"Bonesvegen 39E, Ranheim og Charlottenlund",63.415271,10.47632
+2188092,"Bonesvegen 41A, Ranheim og Charlottenlund",63.415521,10.475928
+2188094,"Bonesvegen 41E, Ranheim og Charlottenlund",63.415487,10.476339
+2188108,"Bonesvegen 4, Ranheim og Charlottenlund",63.417305,10.47654
+2188111,"Bonesvegen 10, Ranheim og Charlottenlund",63.416741,10.47762
+2188114,"Bonesvegen 12, Ranheim og Charlottenlund",63.416435,10.476823
+2188115,"Bonesvegen 8, Ranheim og Charlottenlund",63.416441,10.478313
+2189271,"Nedre Granåslia 23C, Strinda",63.417738,10.468764
+2189284,"Nedre Granåslia 2C, Strinda",63.418754,10.474025
+2189287,"Nedre Granåslia 2D, Strinda",63.418703,10.473903
+2189419,"Nedre Granåslia 23E, Strinda",63.417818,10.469144
+2189437,"Nedre Granåslia 23D, Strinda",63.417777,10.468948
+2192661,"Bonesvegen 6, Ranheim og Charlottenlund",63.417094,10.47731
+2227388,"Amalienlyst 5C, Strindheim",63.429455,10.475551
+2376749,"Nedre Granåslia 23A, Strinda",63.417641,10.468339
+2376783,"Nedre Granåslia 23B, Strinda",63.41768,10.468556

@@ -1,0 +1,579 @@
+,Navn,Long,Lat
+55885,"28/240-1, Ullern",59.932685,10.646778
+55886,"28/368-2, Ullern",59.932734,10.647185
+55887,"28/368-3, Ullern",59.932671,10.64759
+1546737,"Bjørnslettveien 4, Ullern",59.928509,10.636449
+1546738,"Bjørnslettveien 2C, Ullern",59.928857,10.637414
+1546739,"Bjørnslettveien 2, Ullern",59.928762,10.63707
+1546740,"Bjørnslettveien 1B, Ullern",59.929146,10.637232
+1546741,"Bjørnslettveien 1A, Ullern",59.929233,10.637504
+1546744,"Bjørnslettveien 7C, Ullern",59.928378,10.635476
+1546745,"Bjørnslettveien 7B, Ullern",59.928483,10.63566
+1546746,"Bjørnslettveien 7A, Ullern",59.92865,10.635955
+1546747,"Bjørnslettveien 6B, Ullern",59.928178,10.636343
+1546748,"Bjørnslettveien 6, Ullern",59.928299,10.636009
+1546749,"Bjørnslettveien 5C, Ullern",59.92871,10.63619
+1546750,"Bjørnslettveien 5B, Ullern",59.92882,10.636017
+1546751,"Bjørnslettveien 5A, Ullern",59.92885,10.636466
+1546756,"Bjørnslettveien 11, Ullern",59.92823,10.634989
+1546757,"Bjørnslettveien 10, Ullern",59.927812,10.635448
+1546758,"Bjørnslettveien 9, Ullern",59.928384,10.634975
+1546759,"Bjørnslettveien 8, Ullern",59.928053,10.635585
+1557532,"Gregers Grams vei 14A, Ullern",59.936077,10.646495
+1557620,"Gregers Grams vei 2C, Ullern",59.933631,10.646347
+1557621,"Gregers Grams vei 2B, Ullern",59.933556,10.646594
+1557622,"Gregers Grams vei 2A, Ullern",59.933339,10.646011
+1557623,"Gregers Grams vei 1, Ullern",59.933107,10.64659
+1557628,"Gregers Grams vei 9, Ullern",59.933756,10.648537
+1557629,"Gregers Grams vei 7A, Ullern",59.933627,10.648137
+1557630,"Gregers Grams vei 4, Ullern",59.934264,10.646701
+1557631,"Gregers Grams vei 3C, Ullern",59.933192,10.647474
+1557632,"Gregers Grams vei 2E, Ullern",59.933832,10.646769
+1557634,"Gregers Grams vei 2D, Ullern",59.933864,10.646412
+1557636,"Gregers Grams vei 13A, Ullern",59.93442,10.647573
+1557637,"Gregers Grams vei 12, Ullern",59.936168,10.646768
+1557638,"Gregers Grams vei 11B, Ullern",59.934038,10.647566
+1557639,"Gregers Grams vei 11A, Ullern",59.933998,10.647869
+1557640,"Gregers Grams vei 10B, Ullern",59.935732,10.646416
+1557641,"Gregers Grams vei 10A, Ullern",59.93568,10.647004
+1557642,"Gregers Grams vei 9B, Ullern",59.933991,10.648459
+1557643,"Gregers Grams vei 20, Ullern",59.937237,10.646025
+1557644,"Gregers Grams vei 18, Ullern",59.937029,10.645352
+1557645,"Gregers Grams vei 16B, Ullern",59.936514,10.646102
+1557646,"Gregers Grams vei 16A, Ullern",59.936382,10.646237
+1557647,"Gregers Grams vei 15, Ullern",59.934348,10.648602
+1557648,"Gregers Grams vei 14B, Ullern",59.936213,10.646371
+1557649,"Gregers Grams vei 29, Ullern",59.936493,10.64801
+1557650,"Gregers Grams vei 28, Ullern",59.936034,10.645348
+1557651,"Gregers Grams vei 27, Ullern",59.936266,10.647534
+1557652,"Gregers Grams vei 26, Ullern",59.936181,10.645072
+1557653,"Gregers Grams vei 25A, Ullern",59.935597,10.647613
+1557654,"Gregers Grams vei 24, Ullern",59.936461,10.644986
+1557655,"Gregers Grams vei 23, Ullern",59.93549,10.6478
+1557656,"Gregers Grams vei 22, Ullern",59.93685,10.646077
+1557663,"Gregers Grams vei 33, Ullern",59.93694,10.647478
+1557664,"Gregers Grams vei 31, Ullern",59.936645,10.648054
+1561934,"Hoffsjef Løvenskiolds vei 78B, Ullern",59.936135,10.650069
+1561935,"Hoffsjef Løvenskiolds vei 78A, Ullern",59.935871,10.650342
+1561936,"Hoffsjef Løvenskiolds vei 77, Ullern",59.936404,10.650816
+1561937,"Hoffsjef Løvenskiolds vei 76B, Ullern",59.935647,10.650295
+1561938,"Hoffsjef Løvenskiolds vei 76A, Ullern",59.935491,10.650574
+1561939,"Hoffsjef Løvenskiolds vei 74, Ullern",59.935298,10.650224
+1561940,"Ullernkollen 1A, Ullern",59.934904,10.649839
+1561941,"Hoffsjef Løvenskiolds vei 71, Ullern",59.935649,10.650868
+1561948,"Hoffsjef Løvenskiolds vei 82, Ullern",59.93644,10.650034
+1561949,"Hoffsjef Løvenskiolds vei 80, Ullern",59.936342,10.649666
+1562074,"Hoffsjef Løvenskiolds vei 1B, Ullern",59.924688,10.645475
+1562076,"Hoffsjef Løvenskiolds vei 2M, Ullern",59.924814,10.644747
+1562079,"Hoffsjef Løvenskiolds vei 9B, Ullern",59.927139,10.646256
+1562081,"Hoffsjef Løvenskiolds vei 7, Ullern",59.926885,10.645745
+1562082,"Hoffsjef Løvenskiolds vei 6B, Ullern",59.926125,10.644741
+1562083,"Hoffsjef Løvenskiolds vei 6A, Ullern",59.925981,10.644716
+1562084,"Hoffsjef Løvenskiolds vei 2D, Ullern",59.925052,10.64484
+1562085,"Hoffsjef Løvenskiolds vei 17, Ullern",59.930601,10.643746
+1562086,"Hoffsjef Løvenskiolds vei 15, Ullern",59.930716,10.644592
+1562087,"Hoffsjef Løvenskiolds vei 14, Ullern",59.927218,10.64492
+1562088,"Hoffsjef Løvenskiolds vei 13, Ullern",59.928,10.646301
+1562089,"Hoffsjef Løvenskiolds vei 12, Ullern",59.926887,10.644868
+1562090,"Hoffsjef Løvenskiolds vei 11, Ullern",59.927516,10.646223
+1562091,"Hoffsjef Løvenskiolds vei 10, Ullern",59.926619,10.644765
+1562092,"Hoffsjef Løvenskiolds vei 25A, Ullern",59.930693,10.643589
+1562093,"Hoffsjef Løvenskiolds vei 23B, Ullern",59.930628,10.643013
+1562094,"Hoffsjef Løvenskiolds vei 23A, Ullern",59.930625,10.642512
+1562095,"Hoffsjef Løvenskiolds vei 22, Ullern",59.928288,10.645546
+1562096,"Hoffsjef Løvenskiolds vei 21, Ullern",59.930498,10.642649
+1562097,"Hoffsjef Løvenskiolds vei 19, Ullern",59.930473,10.643238
+1562098,"Hoffsjef Løvenskiolds vei 18B, Ullern",59.927744,10.64525
+1562099,"Hoffsjef Løvenskiolds vei 18A, Ullern",59.927651,10.645514
+1562100,"Hoffsjef Løvenskiolds vei 29B, Ullern",59.93074,10.646293
+1562101,"Hoffsjef Løvenskiolds vei 29A, Ullern",59.930826,10.64585
+1562102,"Hoffsjef Løvenskiolds vei 27B, Ullern",59.930863,10.645065
+1562103,"Hoffsjef Løvenskiolds vei 27A, Ullern",59.93086,10.644546
+1562104,"Hoffsjef Løvenskiolds vei 25B, Ullern",59.930813,10.644024
+1562105,"Hoffsjef Løvenskiolds vei 36, Ullern",59.929606,10.642837
+1562106,"Hoffsjef Løvenskiolds vei 34, Ullern",59.930302,10.644643
+1562107,"Hoffsjef Løvenskiolds vei 33, Ullern",59.931631,10.645371
+1562108,"Hoffsjef Løvenskiolds vei 32, Ullern",59.9299,10.645214
+1562109,"Hoffsjef Løvenskiolds vei 31C, Ullern",59.931249,10.642901
+1562110,"Hoffsjef Løvenskiolds vei 31B, Ullern",59.930637,10.645859
+1562111,"Hoffsjef Løvenskiolds vei 31A, Ullern",59.930686,10.645539
+1562112,"Hoffsjef Løvenskiolds vei 30A, Ullern",59.929875,10.644354
+1562113,"Hoffsjef Løvenskiolds vei 42D, Ullern",59.931378,10.641171
+1562114,"Hoffsjef Løvenskiolds vei 16C, Ullern",59.927482,10.645064
+1562115,"Hoffsjef Løvenskiolds vei 42C, Ullern",59.931189,10.641269
+1562116,"Hoffsjef Løvenskiolds vei 42B, Ullern",59.930964,10.641294
+1562117,"Hoffsjef Løvenskiolds vei 42A, Ullern",59.930907,10.64156
+1562118,"Hoffsjef Løvenskiolds vei 41, Ullern",59.931432,10.647706
+1562119,"Hoffsjef Løvenskiolds vei 39, Ullern",59.93132,10.646608
+1562120,"Hoffsjef Løvenskiolds vei 38, Ullern",59.92999,10.642302
+1562121,"Hoffsjef Løvenskiolds vei 37, Ullern",59.931553,10.646638
+1562123,"Hoffsjef Løvenskiolds vei 46C, Ullern",59.93191,10.64245
+1562124,"Hoffsjef Løvenskiolds vei 46B, Ullern",59.931881,10.64193
+1562125,"Hoffsjef Løvenskiolds vei 46A, Ullern",59.931694,10.641795
+1562126,"Hoffsjef Løvenskiolds vei 45, Ullern",59.931655,10.649274
+1562127,"Hoffsjef Løvenskiolds vei 44, Ullern",59.931444,10.641694
+1562128,"Hoffsjef Løvenskiolds vei 43, Ullern",59.931484,10.648514
+1562129,"Hoffsjef Løvenskiolds vei 42E, Ullern",59.931585,10.641164
+1562130,"Hoffsjef Løvenskiolds vei 51A, Ullern",59.932569,10.649784
+1562131,"Hoffsjef Løvenskiolds vei 50, Ullern",59.932194,10.644182
+1562132,"Hoffsjef Løvenskiolds vei 49A, Ullern",59.932328,10.650379
+1562133,"Hoffsjef Løvenskiolds vei 48D, Ullern",59.932283,10.64356
+1562134,"Hoffsjef Løvenskiolds vei 48C, Ullern",59.932896,10.643322
+1562135,"Hoffsjef Løvenskiolds vei 48B, Ullern",59.932552,10.644289
+1562136,"Hoffsjef Løvenskiolds vei 48, Ullern",59.932507,10.643571
+1562137,"Hoffsjef Løvenskiolds vei 47, Ullern",59.932245,10.649836
+1562138,"Hoffsjef Løvenskiolds vei 52G, Ullern",59.932458,10.645376
+1562139,"Hoffsjef Løvenskiolds vei 52F, Ullern",59.93231,10.644958
+1562140,"Hoffsjef Løvenskiolds vei 52E, Ullern",59.932308,10.645154
+1562141,"Hoffsjef Løvenskiolds vei 52D, Ullern",59.93232,10.645638
+1562142,"Hoffsjef Løvenskiolds vei 52C, Ullern",59.932313,10.645441
+1562143,"Hoffsjef Løvenskiolds vei 52B, Ullern",59.932229,10.645723
+1562144,"Hoffsjef Løvenskiolds vei 52A, Ullern",59.932222,10.645526
+1562145,"Hoffsjef Løvenskiolds vei 51F, Ullern",59.932737,10.651027
+1562146,"Hoffsjef Løvenskiolds vei 55, Ullern",59.933323,10.650198
+1562147,"Hoffsjef Løvenskiolds vei 54, Ullern",59.932302,10.646353
+1562148,"Hoffsjef Løvenskiolds vei 53, Ullern",59.933019,10.650327
+1562149,"Hoffsjef Løvenskiolds vei 52M, Ullern",59.932535,10.644933
+1562150,"Hoffsjef Løvenskiolds vei 52L, Ullern",59.932542,10.645112
+1562151,"Hoffsjef Løvenskiolds vei 52K, Ullern",59.932539,10.645309
+1562152,"Hoffsjef Løvenskiolds vei 52J, Ullern",59.932444,10.645
+1562153,"Hoffsjef Løvenskiolds vei 52H, Ullern",59.932451,10.645197
+1562154,"Hoffsjef Løvenskiolds vei 60, Ullern",59.932478,10.648778
+1562155,"Hoffsjef Løvenskiolds vei 58C, Ullern",59.931926,10.648374
+1562156,"Hoffsjef Løvenskiolds vei 58A, Ullern",59.932163,10.648118
+1562157,"Hoffsjef Løvenskiolds vei 57, Ullern",59.933382,10.651203
+1562158,"Hoffsjef Løvenskiolds vei 56B, Ullern",59.932004,10.647215
+1562159,"Hoffsjef Løvenskiolds vei 56A, Ullern",59.932292,10.647176
+1562160,"Hoffsjef Løvenskiolds vei 69B, Ullern",59.935424,10.650946
+1562161,"Hoffsjef Løvenskiolds vei 69A, Ullern",59.935528,10.651238
+1562162,"Hoffsjef Løvenskiolds vei 68, Ullern",59.933875,10.649795
+1562163,"Hoffsjef Løvenskiolds vei 64, Ullern",59.933129,10.64963
+1562164,"Hoffsjef Løvenskiolds vei 63B, Ullern",59.934414,10.650667
+1562165,"Hoffsjef Løvenskiolds vei 63A, Ullern",59.934516,10.651232
+1562166,"Hoffsjef Løvenskiolds vei 61B, Ullern",59.934117,10.650946
+1562193,"Hoffsjef Løvenskiolds vei 59F, Ullern",59.933814,10.650383
+1569968,"Kvernkallveien 5, Ullern",59.929483,10.635423
+1569969,"Kvernkallveien 4, Ullern",59.929143,10.636051
+1569970,"Kvernkallveien 3B, Ullern",59.929702,10.635846
+1569971,"Kvernkallveien 3, Ullern",59.929612,10.635895
+1569972,"Kvernkallveien 2, Ullern",59.929416,10.63644
+1569973,"Kvernkallveien 1, Ullern",59.929749,10.636385
+1569976,"Kvernkallveien 11, Ullern",59.928809,10.634012
+1569977,"Kvernkallveien 10B, Ullern",59.928643,10.635078
+1569978,"Kvernkallveien 10, Ullern",59.928728,10.634778
+1569979,"Kvernkallveien 9, Ullern",59.92908,10.634616
+1569980,"Kvernkallveien 8, Ullern",59.928892,10.635305
+1569981,"Kvernkallveien 7, Ullern",59.929315,10.635182
+1569982,"Kvernkallveien 6B, Ullern",59.928941,10.635701
+1569983,"Kvernkallveien 6A, Ullern",59.929094,10.635655
+1569988,"Kvernkallveien 14B, Ullern",59.928287,10.634094
+1569989,"Kvernkallveien 14, Ullern",59.92833,10.634221
+1569990,"Kvernkallveien 12B, Ullern",59.92857,10.634448
+1569991,"Kvernkallveien 12, Ullern",59.928542,10.634536
+1574088,"Lyseveien 3, Ullern",59.931151,10.639925
+1577127,"Myntfunnveien 1, Ullern",59.928148,10.634409
+1577128,"Myntfunnveien 2, Ullern",59.92696,10.633419
+1589201,"Skogfaret 10D, Ullern",59.930461,10.63982
+1589202,"Skogfaret 10E, Ullern",59.930247,10.639738
+1589203,"Skogfaret 11, Ullern",59.928334,10.640448
+1589204,"Skogfaret 12, Ullern",59.930714,10.640405
+1589205,"Skogfaret 13, Ullern",59.928636,10.640678
+1589206,"Skogfaret 15, Ullern",59.928743,10.640075
+1589207,"Skogfaret 16A, Ullern",59.931585,10.640412
+1589208,"Skogfaret 16B, Ullern",59.931572,10.640071
+1589209,"Skogfaret 4, Ullern",59.929031,10.639284
+1589210,"Skogfaret 4B, Ullern",59.929048,10.638623
+1589211,"Skogfaret 5A, Ullern",59.927926,10.640421
+1589212,"Skogfaret 7, Ullern",59.928148,10.639473
+1589213,"Skogfaret 9, Ullern",59.928422,10.639862
+1589214,"Skogfaret 10A, Ullern",59.930089,10.640141
+1589215,"Skogfaret 10B, Ullern",59.930118,10.639946
+1589216,"Skogfaret 10C, Ullern",59.930321,10.640242
+1589217,"Skogfaret 26, Ullern",59.932902,10.640692
+1589218,"Skogfaret 26B, Ullern",59.932763,10.641043
+1589219,"Skogfaret 27, Ullern",59.931936,10.641127
+1589220,"Skogfaret 28, Ullern",59.933226,10.641388
+1589221,"Skogfaret 31, Ullern",59.932523,10.64155
+1589222,"Skogfaret 32, Ullern",59.933302,10.640318
+1589223,"Skogfaret 34, Ullern",59.933348,10.640231
+1589224,"Skogfaret 16C, Ullern",59.931437,10.640083
+1589225,"Skogfaret 17B, Ullern",59.929136,10.640202
+1589226,"Skogfaret 19, Ullern",59.929001,10.640964
+1589227,"Skogfaret 22, Ullern",59.932293,10.640608
+1589228,"Skogfaret 23, Ullern",59.929393,10.640483
+1589229,"Skogfaret 24A, Ullern",59.932579,10.640694
+1589230,"Skogfaret 24B, Ullern",59.93266,10.640644
+1589231,"Skogfaret 25C, Ullern",59.930452,10.641322
+1589232,"Skogfaret 36, Ullern",59.933377,10.640089
+1589233,"Skogfaret 38, Ullern",59.933423,10.639984
+1589234,"Skogfaret 40, Ullern",59.93368,10.640397
+1589446,"Skogfaret 2, Ullern",59.928664,10.639141
+1589447,"Skogfaret 3B, Ullern",59.927848,10.641111
+1591815,"Sportsveien 4, Ullern",59.927436,10.637523
+1591816,"Sportsveien 6, Ullern",59.927462,10.636898
+1591831,"Sportsveien 8, Ullern",59.927557,10.636491
+1591832,"Sportsveien 8B, Ullern",59.927508,10.636113
+1591833,"Sportsveien 14, Ullern",59.92702,10.634908
+1591834,"Sportsveien 16, Ullern",59.926881,10.63449
+1591835,"Sportsveien 16B, Ullern",59.926793,10.634307
+1598890,"Ullernkollen 5, Ullern",59.934928,10.651834
+1598891,"Ullernkollen 12, Ullern",59.935783,10.648501
+1598892,"Hoffsjef Løvenskiolds vei 72, Ullern",59.935267,10.650527
+1598904,"Ullernkollen 3, Ullern",59.934755,10.651289
+1599072,"Hoffsjef Løvenskiolds vei 1A, Ullern",59.924476,10.64516
+1600463,"Vesteråsveien 2E, Ullern",59.932665,10.645333
+1600464,"Vesteråsveien 2F, Ullern",59.932658,10.645136
+1600465,"Vesteråsveien 2G, Ullern",59.932652,10.644939
+1600466,"Vesteråsveien 3, Ullern",59.932622,10.646619
+1600467,"Vesteråsveien 4A, Ullern",59.932907,10.645381
+1600468,"Vesteråsveien 4B, Ullern",59.933163,10.645018
+1600469,"Vesteråsveien 4D, Ullern",59.933144,10.644337
+1600470,"Vesteråsveien 6A, Ullern",59.93333,10.643863
+1600474,"Vesteråsveien 1, Ullern",59.932681,10.647607
+1600475,"Vesteråsveien 2A, Ullern",59.932575,10.646044
+1600476,"Vesteråsveien 2B, Ullern",59.932746,10.645265
+1600477,"Vesteråsveien 2C, Ullern",59.93274,10.645068
+1600478,"Vesteråsveien 2D, Ullern",59.932724,10.644871
+1600479,"Vesteråsveien 13, Ullern",59.935158,10.646351
+1600480,"Vesteråsveien 14A, Ullern",59.934563,10.644511
+1600481,"Vesteråsveien 14B, Ullern",59.934428,10.644551
+1600482,"Vesteråsveien 14C, Ullern",59.934298,10.644598
+1600483,"Vesteråsveien 14D, Ullern",59.934159,10.64463
+1600484,"Vesteråsveien 14E, Ullern",59.933927,10.644766
+1600485,"Vesteråsveien 16, Ullern",59.934969,10.644946
+1600486,"Vesteråsveien 6B, Ullern",59.933857,10.644068
+1600487,"Vesteråsveien 8, Ullern",59.933485,10.645037
+1600488,"Vesteråsveien 9A, Ullern",59.934075,10.64555
+1600489,"Vesteråsveien 9B, Ullern",59.934285,10.645687
+1600490,"Vesteråsveien 9C, Ullern",59.934437,10.645594
+1600491,"Vesteråsveien 10, Ullern",59.933675,10.644989
+1600492,"Vesteråsveien 11, Ullern",59.934784,10.6461
+1600493,"Vesteråsveien 12, Ullern",59.934624,10.645251
+1600495,"Vesteråsveien 26B, Ullern",59.935045,10.643858
+1600496,"Vesteråsveien 26C, Ullern",59.935207,10.643848
+1600497,"Vesteråsveien 26D, Ullern",59.935333,10.643854
+1600498,"Vesteråsveien 28, Ullern",59.934844,10.643454
+1600499,"Vesteråsveien 30, Ullern",59.935123,10.643397
+1600500,"Vesteråsveien 32, Ullern",59.935437,10.64343
+1600501,"Vesteråsveien 34A, Ullern",59.935951,10.643975
+1600502,"Vesteråsveien 34B, Ullern",59.936086,10.643945
+1600503,"Vesteråsveien 18, Ullern",59.935487,10.645169
+1600504,"Vesteråsveien 20A, Ullern",59.935337,10.645662
+1600505,"Vesteråsveien 20B, Ullern",59.935665,10.646036
+1600506,"Vesteråsveien 20C, Ullern",59.93567,10.645589
+1600507,"Vesteråsveien 20D, Ullern",59.935418,10.646006
+1600508,"Vesteråsveien 22, Ullern",59.935461,10.646527
+1600509,"Vesteråsveien 24, Ullern",59.935501,10.646923
+1600510,"Vesteråsveien 26A, Ullern",59.93492,10.643834
+1600518,"Vesteråsveien 34C, Ullern",59.936221,10.643881
+1600519,"Vesteråsveien 36, Ullern",59.935794,10.643573
+1600520,"Vesteråsveien 38, Ullern",59.936082,10.643516
+1600521,"Vesteråsveien 40A, Ullern",59.936483,10.643804
+1600522,"Vesteråsveien 40B, Ullern",59.936591,10.643756
+1600523,"Vesteråsveien 40C, Ullern",59.936709,10.643708
+1600524,"Vesteråsveien 42, Ullern",59.936389,10.643423
+1600525,"Vesteråsveien 44, Ullern",59.936651,10.643275
+1601396,"Vækerøveien 59G, Ullern",59.927359,10.640865
+1601397,"Vækerøveien 59H, Ullern",59.927374,10.641099
+1601398,"Vækerøveien 59J, Ullern",59.927271,10.641452
+1601399,"Vækerøveien 59K, Ullern",59.927333,10.64149
+1601400,"Vækerøveien 59L, Ullern",59.927387,10.641511
+1601401,"Vækerøveien 59M, Ullern",59.927431,10.641549
+1601402,"Vækerøveien 61D, Ullern",59.927428,10.639652
+1601403,"Vækerøveien 61B, Ullern",59.927379,10.639863
+1601406,"Vækerøveien 59A, Ullern",59.927173,10.640642
+1601407,"Vækerøveien 59B, Ullern",59.927254,10.640646
+1601408,"Vækerøveien 59C, Ullern",59.927325,10.640649
+1601409,"Vækerøveien 59D, Ullern",59.927406,10.640671
+1601410,"Vækerøveien 59E, Ullern",59.927478,10.640692
+1601411,"Vækerøveien 59F, Ullern",59.927587,10.640573
+1601413,"Vækerøveien 86, Ullern",59.928968,10.637867
+1601419,"Skogfaret 1A, Ullern",59.927918,10.639247
+1601420,"Skogfaret 1B, Ullern",59.927844,10.639422
+1601425,"Vækerøveien 70, Ullern",59.927331,10.638788
+1601428,"Skogfaret 30, Ullern",59.933115,10.640166
+1602371,"Ullern Gårds vei 38, Ullern",59.925342,10.646276
+1606024,"Ullern Gårds vei 3, Ullern",59.926029,10.643036
+1606025,"Ullern Gårds vei 5A, Ullern",59.925863,10.64344
+1606033,"Ullern Gårds vei 11E, Ullern",59.925101,10.64401
+1606034,"Ullern Gårds vei 11F, Ullern",59.925217,10.644052
+1606035,"Ullern Gårds vei 11G, Ullern",59.925254,10.644036
+1606036,"Ullern Gårds vei 11H, Ullern",59.925174,10.643942
+1606037,"Ullern Gårds vei 11J, Ullern",59.92521,10.643908
+1606038,"Ullern Gårds vei 11K, Ullern",59.925318,10.643931
+1606039,"Ullern Gårds vei 11L, Ullern",59.925247,10.643856
+1606040,"Ullern Gårds vei 12, Ullern",59.925899,10.644139
+1606041,"Ullern Gårds vei 8, Ullern",59.926243,10.643924
+1606042,"Ullern Gårds vei 10, Ullern",59.926069,10.644148
+1606043,"Ullern Gårds vei 11, Ullern",59.925348,10.644416
+1606044,"Ullern Gårds vei 11B, Ullern",59.925117,10.644172
+1606045,"Ullern Gårds vei 11C, Ullern",59.925153,10.644138
+1606046,"Ullern Gårds vei 11D, Ullern",59.925083,10.644045
+1606047,"Ullern Gårds vei 29, Ullern",59.925401,10.643041
+1606048,"Ullern Gårds vei 31, Ullern",59.925438,10.642953
+1606049,"Ullern Gårds vei 33, Ullern",59.924779,10.643923
+1606050,"Ullern Gårds vei 39, Ullern",59.925035,10.646347
+1606051,"Ullern Gårds vei 41, Ullern",59.925019,10.646527
+1606054,"Ullern Gårds vei 13, Ullern",59.924907,10.643732
+1606055,"Ullern Gårds vei 15, Ullern",59.924953,10.643663
+1606056,"Ullern Gårds vei 17, Ullern",59.925035,10.64356
+1606057,"Ullern Gårds vei 19, Ullern",59.92508,10.643526
+1606058,"Ullern Gårds vei 21, Ullern",59.925162,10.643423
+1606059,"Ullern Gårds vei 23, Ullern",59.925217,10.643354
+1606060,"Ullern Gårds vei 25, Ullern",59.92529,10.64325
+1606061,"Ullern Gårds vei 27, Ullern",59.925327,10.643198
+1606863,"Hoffsjef Løvenskiolds vei 8C, Ullern",59.926351,10.644609
+1606864,"Hoffsjef Løvenskiolds vei 8D, Ullern",59.926425,10.644451
+1606865,"Hoffsjef Løvenskiolds vei 8E, Ullern",59.926454,10.644292
+1606866,"Hoffsjef Løvenskiolds vei 8F, Ullern",59.926473,10.644203
+1606878,"Hoffsjef Løvenskiolds vei 8B, Ullern",59.92634,10.644769
+1606886,"Hoffsjef Løvenskiolds vei 8A, Ullern",59.926338,10.64493
+1606967,"Skogfaret 33B, Ullern",59.932194,10.642071
+1606968,"Skogfaret 33A, Ullern",59.932295,10.641861
+1607015,"Sportsveien 18C, Ullern",59.926565,10.633902
+1607016,"Sportsveien 18B, Ullern",59.926521,10.63381
+1607034,"Sportsveien 18A, Ullern",59.926585,10.633724
+1607035,"Sportsveien 18D, Ullern",59.9266,10.633993
+1607672,"Ullern Gårds vei 1A, Ullern",59.926267,10.642672
+1607686,"Ullern Gårds vei 1B, Ullern",59.926095,10.642565
+1607804,"Hoffsjef Løvenskiolds vei 58B, Ullern",59.931669,10.648147
+1607813,"Hoffsjef Løvenskiolds vei 58D, Ullern",59.932065,10.648757
+1609096,"Hoffsjef Løvenskiolds vei 9A, Ullern",59.927189,10.645831
+1609503,"Skogfaret 35A, Ullern",59.932791,10.641653
+1609504,"Skogfaret 35C, Ullern",59.932949,10.641947
+1609518,"Skogfaret 35B, Ullern",59.932844,10.641727
+1609566,"Hoffsjef Løvenskiolds vei 70D, Ullern",59.934439,10.649807
+1609605,"Hoffsjef Løvenskiolds vei 70A, Ullern",59.934177,10.650066
+1609735,"Gregers Grams vei 17B, Ullern",59.934744,10.648568
+1609747,"Gregers Grams vei 17A, Ullern",59.93474,10.648854
+1610082,"Skogfaret 8C, Ullern",59.929903,10.639917
+1610083,"Skogfaret 8A, Ullern",59.929653,10.639712
+1610194,"Skogfaret 18, Ullern",59.931703,10.640328
+1610195,"Skogfaret 20A, Ullern",59.931899,10.640463
+1610530,"Skogfaret 20B, Ullern",59.931995,10.640021
+1612348,"Sportsveien 10A, Ullern",59.927299,10.63553
+1612351,"Sportsveien 10B, Ullern",59.927276,10.635923
+1612879,"Skogfaret 1D, Ullern",59.927707,10.64031
+1612880,"Skogfaret 1C, Ullern",59.927799,10.6401
+1612886,"Sportsveien 20A, Ullern",59.926454,10.633413
+1612909,"Sportsveien 20B, Ullern",59.926391,10.633482
+1613535,"Skogfaret 21B, Ullern",59.929442,10.640861
+1613536,"Skogfaret 21A, Ullern",59.929343,10.640946
+1621702,"Hoffsjef Løvenskiolds vei 20A, Ullern",59.92798,10.645763
+1621728,"Hoffsjef Løvenskiolds vei 20B, Ullern",59.928003,10.645406
+1622419,"Gregers Grams vei 5B, Ullern",59.9337,10.647335
+1622438,"Gregers Grams vei 5A, Ullern",59.933641,10.64701
+1622685,"Hoffsjef Løvenskiolds vei 5A, Ullern",59.926302,10.64568
+1622687,"Hoffsjef Løvenskiolds vei 5C, Ullern",59.926287,10.645429
+1622688,"Hoffsjef Løvenskiolds vei 5B, Ullern",59.926403,10.645488
+1622689,"Hoffsjef Løvenskiolds vei 5E, Ullern",59.926151,10.645529
+1622690,"Hoffsjef Løvenskiolds vei 5D, Ullern",59.926172,10.64528
+1623621,"Skogfaret 14D, Ullern",59.93112,10.640264
+1623623,"Skogfaret 14C, Ullern",59.931119,10.640389
+1623627,"Skogfaret 14E, Ullern",59.931287,10.640594
+1623641,"Lyseveien 5C, Ullern",59.931312,10.639271
+1623643,"Lyseveien 5B, Ullern",59.931311,10.639379
+1623645,"Skogfaret 14B, Ullern",59.931081,10.640548
+1623647,"Skogfaret 14A, Ullern",59.931261,10.640503
+1623809,"Lyseveien 5A, Ullern",59.931292,10.639485
+1624495,"Sportsveien 2B, Ullern",59.927417,10.638345
+1624496,"Sportsveien 2A, Ullern",59.9274,10.638255
+1624513,"Sportsveien 2C, Ullern",59.927435,10.638346
+1624514,"Sportsveien 12B, Ullern",59.92716,10.635184
+1624515,"Sportsveien 12A, Ullern",59.927222,10.63524
+1625312,"Sportsveien 3A, Ullern",59.927827,10.636415
+1625314,"Sportsveien 3B, Ullern",59.927813,10.636128
+1625443,"Hoffsjef Løvenskiolds vei 4C, Ullern",59.925573,10.645053
+1625444,"Hoffsjef Løvenskiolds vei 4B, Ullern",59.925627,10.64502
+1625446,"Hoffsjef Løvenskiolds vei 4A, Ullern",59.925749,10.644668
+1626565,"Sportsveien 1, Ullern",59.927755,10.637199
+1626915,"Skogfaret 25B, Ullern",59.930109,10.640679
+1626916,"Skogfaret 25A, Ullern",59.929759,10.640662
+1626917,"Skogfaret 25E, Ullern",59.929954,10.641602
+1626918,"Skogfaret 25D, Ullern",59.930267,10.641743
+1626920,"Skogfaret 25F, Ullern",59.929732,10.641376
+1627256,"Bjørnslettveien 3B, Ullern",59.929081,10.63671
+1627556,"Hoffsjef Løvenskiolds vei 31E, Ullern",59.931545,10.643649
+1627582,"Hoffsjef Løvenskiolds vei 31F, Ullern",59.931669,10.643834
+1627584,"Hoffsjef Løvenskiolds vei 31D, Ullern",59.931531,10.64338
+1628190,"Bjørnslettstubben 5, Ullern",59.92803,10.637463
+1628191,"Bjørnslettstubben 1, Ullern",59.928474,10.637127
+1628192,"Bjørnslettstubben 9, Ullern",59.927921,10.636814
+1628193,"Bjørnslettstubben 7, Ullern",59.928079,10.637072
+1628194,"Bjørnslettstubben 16, Ullern",59.927791,10.637845
+1628195,"Bjørnslettstubben 11, Ullern",59.927867,10.636829
+1628203,"Bjørnslettstubben 8, Ullern",59.928238,10.638046
+1628210,"Bjørnslettstubben 12, Ullern",59.927782,10.638596
+1628211,"Bjørnslettstubben 14, Ullern",59.927779,10.638131
+1628212,"Bjørnslettstubben 4, Ullern",59.928678,10.638014
+1628213,"Bjørnslettstubben 6, Ullern",59.928515,10.638185
+1628215,"Bjørnslettstubben 2, Ullern",59.92877,10.637893
+1628216,"Bjørnslettstubben 10, Ullern",59.928109,10.638308
+1629631,"Hoffsjef Løvenskiolds vei 67B, Ullern",59.935275,10.651315
+1629633,"Hoffsjef Løvenskiolds vei 67A, Ullern",59.935178,10.651202
+1629766,"Hoffsjef Løvenskiolds vei 47B, Ullern",59.932108,10.649819
+1630314,"Skogfaret 6A, Ullern",59.929227,10.639437
+1630316,"Skogfaret 6C, Ullern",59.929547,10.639685
+1630317,"Skogfaret 6B, Ullern",59.929476,10.63961
+1630590,"Hoffsjef Løvenskiolds vei 75A, Ullern",59.935847,10.65086
+1630592,"Hoffsjef Løvenskiolds vei 75C, Ullern",59.935996,10.651154
+1630593,"Hoffsjef Løvenskiolds vei 75B, Ullern",59.93586,10.651218
+1630594,"Hoffsjef Løvenskiolds vei 75E, Ullern",59.936028,10.650779
+1630595,"Hoffsjef Løvenskiolds vei 75D, Ullern",59.936122,10.651106
+1630614,"Vesteråsveien 7B, Ullern",59.93397,10.645791
+1630615,"Vesteråsveien 7A, Ullern",59.933864,10.645643
+1630617,"Vesteråsveien 7C, Ullern",59.933633,10.64547
+1630732,"Hoffsjef Løvenskiolds vei 66B, Ullern",59.933615,10.649783
+1630735,"Hoffsjef Løvenskiolds vei 66A, Ullern",59.933575,10.649423
+1694495,"Skogfaret 3A, Ullern",59.927749,10.640731
+1694497,"Skogfaret 3C, Ullern",59.927811,10.641319
+1694550,"Skogfaret 3D, Ullern",59.927607,10.641434
+1694570,"Skogfaret 3F, Ullern",59.927922,10.640863
+1694571,"Skogfaret 3E, Ullern",59.927792,10.641658
+1704607,"Skogfaret 5B, Ullern",59.92801,10.640493
+1704608,"Skogfaret 5F, Ullern",59.927996,10.640065
+1704609,"Skogfaret 5C, Ullern",59.928093,10.640553
+1704610,"Skogfaret 5E, Ullern",59.928126,10.640129
+1704611,"Skogfaret 5D, Ullern",59.928227,10.640207
+1710923,"Ullernkollen 1B, Ullern",59.934892,10.649964
+1710924,"Ullernkollen 1C, Ullern",59.934908,10.650217
+1710925,"Ullernkollen 1D, Ullern",59.934895,10.650347
+1710926,"Ullernkollen 1E, Ullern",59.934695,10.649741
+1710948,"Ullernkollen 1F, Ullern",59.934683,10.649862
+1710959,"Ullernkollen 1G, Ullern",59.934698,10.650123
+1710960,"Ullernkollen 1H, Ullern",59.934686,10.650238
+1711192,"Skogfaret 17C, Ullern",59.929029,10.640356
+1711193,"Skogfaret 17A, Ullern",59.929187,10.64002
+1713483,"Skogfaret 8B, Ullern",59.929762,10.639878
+1722961,"Ullern Gårds vei 7C, Ullern",59.925538,10.643645
+1722963,"Ullern Gårds vei 9B, Ullern",59.925605,10.644001
+1722964,"Ullern Gårds vei 9A, Ullern",59.92565,10.643928
+1722965,"Ullern Gårds vei 7B, Ullern",59.925575,10.643574
+1722966,"Ullern Gårds vei 7A, Ullern",59.925615,10.643495
+1722969,"Ullern Gårds vei 9C, Ullern",59.925571,10.644071
+1734611,"Vækerøveien 61C, Ullern",59.927507,10.639561
+1734614,"Vækerøveien 61A, Ullern",59.927269,10.639886
+1773968,"Gregers Grams vei 25D, Ullern",59.935767,10.647672
+1773970,"Gregers Grams vei 25C, Ullern",59.935764,10.647887
+1773973,"Gregers Grams vei 25B, Ullern",59.935634,10.647868
+1798661,"Hoffsjef Løvenskiolds vei 30B, Ullern",59.929624,10.644735
+1804396,"Hoffsjef Løvenskiolds vei 51E, Ullern",59.932745,10.649956
+1804400,"Hoffsjef Løvenskiolds vei 51D, Ullern",59.932698,10.650269
+1804403,"Hoffsjef Løvenskiolds vei 51C, Ullern",59.932552,10.650335
+1804405,"Hoffsjef Løvenskiolds vei 51B, Ullern",59.932518,10.650052
+1808380,"Hoffsjef Løvenskiolds vei 61A, Ullern",59.934063,10.650521
+1841885,"Hoffsjef Løvenskiolds vei 61C, Ullern",59.934059,10.65132
+1843624,"Gregers Grams vei 13B, Ullern",59.934315,10.647535
+1843628,"Gregers Grams vei 13C, Ullern",59.934278,10.647707
+1843629,"Gregers Grams vei 13D, Ullern",59.934312,10.647807
+1843861,"Gregers Grams vei 13E, Ullern",59.934448,10.64778
+1883779,"Gregers Grams vei 7B, Ullern",59.933452,10.648003
+1926187,"Gregers Grams vei 3A, Ullern",59.933307,10.647026
+1945052,"Gregers Grams vei 3B, Ullern",59.933239,10.64726
+1945218,"Bjørnslettveien 17, Ullern",59.928056,10.635015
+1945221,"Bjørnslettveien 15, Ullern",59.928116,10.63488
+1945223,"Bjørnslettveien 13, Ullern",59.928151,10.635175
+1945389,"Gregers Grams vei 3E, Ullern",59.933235,10.647894
+1945390,"Gregers Grams vei 3D, Ullern",59.932977,10.647655
+1953348,"Skogfaret 6D, Ullern",59.929409,10.639684
+1963340,"Skogfaret 6E, Ullern",59.92957,10.639284
+1966904,"Hoffsjef Løvenskiolds vei 3E, Ullern",59.925935,10.645628
+1966905,"Hoffsjef Løvenskiolds vei 3F, Ullern",59.925915,10.645752
+1966906,"Hoffsjef Løvenskiolds vei 3D, Ullern",59.925952,10.645516
+1966958,"Hoffsjef Løvenskiolds vei 3A, Ullern",59.925743,10.645454
+1966961,"Hoffsjef Løvenskiolds vei 3B, Ullern",59.925715,10.645608
+1966963,"Hoffsjef Løvenskiolds vei 3C, Ullern",59.92597,10.645384
+1967502,"Gregers Grams vei 6E, Ullern",59.934812,10.646651
+1967503,"Gregers Grams vei 6D, Ullern",59.93472,10.646634
+1967505,"Gregers Grams vei 6F, Ullern",59.934908,10.646665
+1967506,"Gregers Grams vei 6B, Ullern",59.934674,10.646821
+1967507,"Gregers Grams vei 6C, Ullern",59.934629,10.646611
+1967508,"Gregers Grams vei 6A, Ullern",59.934845,10.646842
+1968110,"Gregers Grams vei 21D, Ullern",59.935137,10.647716
+1968111,"Gregers Grams vei 21C, Ullern",59.935143,10.6475
+1968112,"Gregers Grams vei 21B, Ullern",59.934956,10.647922
+1968113,"Gregers Grams vei 21A, Ullern",59.934963,10.647621
+1968114,"Gregers Grams vei 21E, Ullern",59.935135,10.647907
+1969790,"Hoffsjef Løvenskiolds vei 24, Ullern",59.928374,10.646343
+2000705,"Gregers Grams vei 19F, Ullern",59.934741,10.647571
+2000706,"Gregers Grams vei 19E, Ullern",59.934732,10.647805
+2000708,"Gregers Grams vei 19D, Ullern",59.934726,10.648028
+2000709,"Gregers Grams vei 19A, Ullern",59.93464,10.647534
+2000710,"Gregers Grams vei 19B, Ullern",59.934634,10.647768
+2000829,"Gregers Grams vei 19C, Ullern",59.934628,10.647995
+2003097,"Gregers Grams vei 8C, Ullern",59.935215,10.646932
+2003107,"Gregers Grams vei 8A, Ullern",59.935068,10.646989
+2003108,"Gregers Grams vei 8B, Ullern",59.935231,10.646781
+2017256,"Åsjordet 1A, Ullern",59.929113,10.645808
+2017258,"Åsjordet 1B, Ullern",59.929189,10.645347
+2017268,"Åsjordet 1C, Ullern",59.929096,10.645151
+2028571,"Skogfaret 29B, Ullern",59.932192,10.641274
+2028576,"Skogfaret 29A, Ullern",59.932296,10.641163
+2028580,"Skogfaret 29C, Ullern",59.932132,10.6414
+2034840,"Hoffsjef Løvenskiolds vei 2G, Ullern",59.925184,10.645077
+2034842,"Hoffsjef Løvenskiolds vei 2F, Ullern",59.925141,10.645007
+2034843,"Hoffsjef Løvenskiolds vei 2E, Ullern",59.925089,10.644911
+2045186,"Ullern Gårds vei 5B, Ullern",59.925829,10.6434
+2045187,"Ullern Gårds vei 5C, Ullern",59.925751,10.643228
+2045189,"Ullern Gårds vei 5D, Ullern",59.925716,10.643155
+2046207,"Ullern Gårds vei 42, Ullern",59.925423,10.646796
+2046208,"Ullern Gårds vei 44, Ullern",59.925373,10.646926
+2048368,"Hoffsjef Løvenskiolds vei 47A, Ullern",59.932126,10.649603
+2049207,"Hoffsjef Løvenskiolds vei 47E, Ullern",59.93231,10.649968
+2049208,"Hoffsjef Løvenskiolds vei 47C, Ullern",59.932096,10.650018
+2049320,"Hoffsjef Løvenskiolds vei 47D, Ullern",59.932342,10.649734
+2084245,"Skogfaret 23A, Ullern",59.929351,10.640488
+2084246,"Skogfaret 23B, Ullern",59.929408,10.640169
+2093372,"Hoffsjef Løvenskiolds vei 49C, Ullern",59.932255,10.650869
+2093557,"Hoffsjef Løvenskiolds vei 84, Ullern",59.936487,10.649859
+2093560,"Hoffsjef Løvenskiolds vei 86, Ullern",59.936497,10.649906
+2094101,"Hoffsjef Løvenskiolds vei 49B, Ullern",59.932189,10.650739
+2094226,"Hoffsjef Løvenskiolds vei 49D, Ullern",59.932396,10.650534
+2100124,"Hoffsjef Løvenskiolds vei 70C, Ullern",59.934166,10.649615
+2104032,"Hoffsjef Løvenskiolds vei 70E, Ullern",59.934475,10.649605
+2107011,"Hoffsjef Løvenskiolds vei 62E, Ullern",59.932925,10.648639
+2107069,"Hoffsjef Løvenskiolds vei 62A, Ullern",59.932826,10.64935
+2107070,"Hoffsjef Løvenskiolds vei 62B, Ullern",59.932849,10.64917
+2107071,"Hoffsjef Løvenskiolds vei 62C, Ullern",59.932878,10.648996
+2107072,"Hoffsjef Løvenskiolds vei 62D, Ullern",59.932901,10.648816
+2109369,"Hoffsjef Løvenskiolds vei 16A, Ullern",59.927358,10.645355
+2109373,"Hoffsjef Løvenskiolds vei 16B, Ullern",59.927369,10.645293
+2111429,"Hoffsjef Løvenskiolds vei 26, Ullern",59.929208,10.644518
+2111431,"Hoffsjef Løvenskiolds vei 28, Ullern",59.929373,10.64424
+2117288,"Hoffsjef Løvenskiolds vei 55A, Ullern",59.933437,10.650379
+2117289,"Hoffsjef Løvenskiolds vei 55B, Ullern",59.933322,10.650346
+2117290,"Hoffsjef Løvenskiolds vei 55C, Ullern",59.933203,10.650306
+2117291,"Hoffsjef Løvenskiolds vei 55F, Ullern",59.933464,10.650582
+2117298,"Hoffsjef Løvenskiolds vei 55E, Ullern",59.933342,10.650544
+2117299,"Hoffsjef Løvenskiolds vei 55D, Ullern",59.93322,10.650511
+2182067,"Vesteråsveien 12A, Ullern",59.934489,10.645255
+2182069,"Vesteråsveien 12B, Ullern",59.934489,10.645006
+2182070,"Vesteråsveien 12C, Ullern",59.934614,10.644998
+2182071,"Vesteråsveien 12D, Ullern",59.934681,10.645048
+2182073,"Vesteråsveien 12E, Ullern",59.934671,10.6453
+2199903,"Hoffsjef Løvenskiolds vei 2A, Ullern",59.924396,10.644405
+2256409,"Ullernkollen 2, Ullern",59.935348,10.648415
+2256514,"Ullernkollen 4, Ullern",59.935436,10.648472
+2256515,"Ullernkollen 6, Ullern",59.935517,10.648515
+2256516,"Ullernkollen 10, Ullern",59.935688,10.648538
+2256517,"Ullernkollen 8, Ullern",59.935614,10.648523
+2256528,"Ullernkollen 16, Ullern",59.935409,10.649281
+2256549,"Ullernkollen 14, Ullern",59.93594,10.648924
+2377066,"Hoffsjef Løvenskiolds vei 49, Ullern",59.932358,10.650624
+2377521,"Hoffsjef Løvenskiolds vei 2N, Ullern",59.92479,10.644455
+2377522,"Hoffsjef Løvenskiolds vei 2R, Ullern",59.924951,10.644432
+2377523,"Hoffsjef Løvenskiolds vei 2S, Ullern",59.924941,10.644557
+2377530,"Hoffsjef Løvenskiolds vei 2P, Ullern",59.924867,10.644401
+2377941,"Bjørnslettveien 3A, Ullern",59.928909,10.636766
+2387092,"Hoffsjef Løvenskiolds vei 1M, Ullern",59.92509,10.645541
+2387095,"Hoffsjef Løvenskiolds vei 1L, Ullern",59.92508,10.645641
+2387096,"Hoffsjef Løvenskiolds vei 1K, Ullern",59.925069,10.64573
+2387097,"Hoffsjef Løvenskiolds vei 1H, Ullern",59.924916,10.645896
+2387098,"Hoffsjef Løvenskiolds vei 1G, Ullern",59.924863,10.64587
+2387110,"Hoffsjef Løvenskiolds vei 1J, Ullern",59.924968,10.645929
+2475718,"Ullern Gårds vei 40, Ullern",59.925288,10.646848
+2513699,"Hoffsjef Løvenskiolds vei 59E, Ullern",59.933616,10.651236
+2513701,"Hoffsjef Løvenskiolds vei 59D, Ullern",59.93372,10.651241
+2513703,"Hoffsjef Løvenskiolds vei 59C, Ullern",59.933832,10.651255
+2513705,"Hoffsjef Løvenskiolds vei 59B, Ullern",59.933833,10.651388
+2513725,"Hoffsjef Løvenskiolds vei 59A, Ullern",59.933726,10.651383

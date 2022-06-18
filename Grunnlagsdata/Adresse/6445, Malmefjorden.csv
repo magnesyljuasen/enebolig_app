@@ -1,0 +1,504 @@
+,Navn,Long,Lat
+35076,"73/1, Vågøy og Myrbostad",62.811386,7.146387
+61141,"Malmevegen 34, Vågøy og Myrbostad",62.79923,7.233807
+61142,"Sørsidevegen 124, Vågøy og Myrbostad",62.806371,7.224899
+61144,"Malmevegen 54, Vågøy og Myrbostad",62.800901,7.231877
+61145,"Malmedalsvegen 15, Vågøy og Myrbostad",62.79219,7.235262
+61146,"Sørsidevegen 190, Vågøy og Myrbostad",62.805497,7.211239
+61147,"Sørsidevegen 175, Vågøy og Myrbostad",62.805355,7.214896
+61148,"Sørsidevegen 159, Vågøy og Myrbostad",62.805108,7.217344
+61149,"Sørsidevegen 250, Vågøy og Myrbostad",62.803945,7.200034
+61151,"Sørsidevegen 123, Vågøy og Myrbostad",62.804628,7.225208
+61152,"Sørsidevegen 187, Vågøy og Myrbostad",62.804692,7.213583
+61153,"Malmevegen 63, Vågøy og Myrbostad",62.80107,7.229519
+61155,"Sørsidevegen 306, Vågøy og Myrbostad",62.802831,7.188748
+61156,"Sørsidevegen 286, Vågøy og Myrbostad",62.803207,7.194272
+61157,"Malmevegen 45, Vågøy og Myrbostad",62.79947,7.232257
+61158,"Malmevegen 37, Vågøy og Myrbostad",62.798922,7.232686
+61161,"Malmefjordvegen 541, Vågøy og Myrbostad",62.793708,7.232097
+61162,"Malmefjordvegen 545, Vågøy og Myrbostad",62.794522,7.233429
+61163,"Sørsidevegen 232, Vågøy og Myrbostad",62.804416,7.203183
+61165,"Malmevegen 41, Vågøy og Myrbostad",62.79902,7.232147
+61166,"Sørsidevegen 288, Vågøy og Myrbostad",62.802933,7.192543
+61167,"Malmevegen 49, Vågøy og Myrbostad",62.799914,7.230797
+61169,"Sørsidevegen 308, Vågøy og Myrbostad",62.80307,7.189724
+61170,"Sørsidevegen 310, Vågøy og Myrbostad",62.803129,7.188889
+61171,"Malmefjordvegen 526, Vågøy og Myrbostad",62.794456,7.229609
+61172,"Malmefjordvegen 542, Vågøy og Myrbostad",62.793469,7.230827
+61175,"Malmedalsvegen 119, Vågøy og Myrbostad",62.794408,7.248896
+61196,"Røssholvegen 35, Vågøy og Myrbostad",62.799972,7.221518
+61197,"Røssholvegen 40, Vågøy og Myrbostad",62.799789,7.220548
+61200,"Malmedalsvegen 37, Vågøy og Myrbostad",62.792781,7.240751
+61201,"Røssholvegen 30, Vågøy og Myrbostad",62.800643,7.221399
+61202,"Røssholvegen 2, Vågøy og Myrbostad",62.801078,7.224511
+61209,"Malmedalsvegen 117, Vågøy og Myrbostad",62.794522,7.251635
+61210,"Malmesetervegen 685, Vågøy og Myrbostad",62.825127,7.416122
+61213,"Malmedalsvegen 161, Vågøy og Myrbostad",62.794879,7.262019
+61214,"Malmedalsvegen 139, Vågøy og Myrbostad",62.794194,7.260655
+61232,"Malmedalsvegen 115, Vågøy og Myrbostad",62.794212,7.251927
+61235,"Malmefjordvegen 391, Vågøy og Myrbostad",62.80319,7.246923
+61236,"Malmefjordvegen 347, Vågøy og Myrbostad",62.807122,7.247411
+61237,"Malmefjordvegen 437, Vågøy og Myrbostad",62.799818,7.241416
+61238,"Malmedalsvegen 101, Vågøy og Myrbostad",62.793162,7.252484
+61239,"Malmedalsvegen 71, Vågøy og Myrbostad",62.79267,7.246313
+61240,"Malmefjordvegen 379, Vågøy og Myrbostad",62.804574,7.247036
+61242,"Malmedalsvegen 113, Vågøy og Myrbostad",62.794504,7.255244
+61243,"Malmedalsvegen 131, Vågøy og Myrbostad",62.793566,7.258515
+61244,"Malmedalsvegen 163, Vågøy og Myrbostad",62.795361,7.264234
+61245,"Malmedalsvegen 138, Vågøy og Myrbostad",62.792938,7.259345
+61248,"Malmedalsvegen 127, Vågøy og Myrbostad",62.794708,7.257212
+61249,"Malmedalsvegen 121, Vågøy og Myrbostad",62.794761,7.247698
+61250,"Malmedalsvegen 55, Vågøy og Myrbostad",62.792526,7.243478
+61261,"Malmedalsvegen 143, Vågøy og Myrbostad",62.794678,7.260358
+61264,"Malmefjordvegen 343, Vågøy og Myrbostad",62.807656,7.247893
+61265,"Malmefjordvegen 341, Vågøy og Myrbostad",62.807843,7.247843
+61266,"Malmefjordvegen 298, Vågøy og Myrbostad",62.811873,7.244856
+61267,"Øygardsvegen 62, Vågøy og Myrbostad",62.803416,7.236995
+61268,"Øygardsvegen 32, Vågøy og Myrbostad",62.805246,7.241198
+61269,"Øygardsvegen 43, Vågøy og Myrbostad",62.804164,7.240707
+61270,"Malmefjordvegen 453, Vågøy og Myrbostad",62.799047,7.240089
+61271,"Malmefjordvegen 443, Vågøy og Myrbostad",62.79935,7.240659
+61272,"Øygardsvegen 10, Vågøy og Myrbostad",62.806082,7.244122
+61273,"Malmefjordvegen 439, Vågøy og Myrbostad",62.799657,7.241235
+61274,"Malmefjordvegen 425, Vågøy og Myrbostad",62.800823,7.242846
+61275,"Malmefjordvegen 435, Vågøy og Myrbostad",62.800047,7.241814
+61276,"Malmefjordvegen 429, Vågøy og Myrbostad",62.800569,7.242467
+61277,"Malmefjordvegen 433, Vågøy og Myrbostad",62.800229,7.241999
+61335,"Sandevegen 6, Vågøy og Myrbostad",62.80583,7.161095
+61336,"Sørsidevegen 409, Vågøy og Myrbostad",62.803704,7.169545
+61337,"Sørsidevegen 413, Vågøy og Myrbostad",62.803325,7.168686
+61338,"Sørsidevegen 516, Vågøy og Myrbostad",62.811107,7.156821
+61339,"Sørsidevegen 511, Vågøy og Myrbostad",62.809784,7.154569
+61340,"Sørsidevegen 498, Vågøy og Myrbostad",62.809378,7.158181
+61341,"Sørsidevegen 512, Vågøy og Myrbostad",62.810415,7.157
+61342,"Sørsidevegen 492, Vågøy og Myrbostad",62.808418,7.157186
+61343,"Sørsidevegen 452, Vågøy og Myrbostad",62.805814,7.162665
+61344,"Sørsidevegen 482, Vågøy og Myrbostad",62.807687,7.158981
+61345,"Sørsidevegen 480, Vågøy og Myrbostad",62.807513,7.159381
+61346,"Sørsidevegen 477, Vågøy og Myrbostad",62.806903,7.158713
+61347,"Sørsidevegen 490, Vågøy og Myrbostad",62.808722,7.158462
+61348,"Sørsidevegen 488, Vågøy og Myrbostad",62.808304,7.158743
+61349,"Sandevegen 66, Vågøy og Myrbostad",62.805354,7.152846
+61350,"Sørsidevegen 505, Vågøy og Myrbostad",62.809262,7.155122
+61351,"Sørsidevegen 481, Vågøy og Myrbostad",62.807324,7.15796
+61352,"Sørsidevegen 479, Vågøy og Myrbostad",62.806936,7.156435
+61353,"Sørsidevegen 411, Vågøy og Myrbostad",62.803555,7.168922
+61354,"Sørsidevegen 404, Vågøy og Myrbostad",62.803956,7.170628
+61355,"Sørsidevegen 507, Vågøy og Myrbostad",62.809072,7.154569
+61356,"Sandevegen 51, Vågøy og Myrbostad",62.805584,7.15515
+61357,"Sørsidevegen 539, Vågøy og Myrbostad",62.812007,7.151526
+61358,"Sørsidevegen 530, Vågøy og Myrbostad",62.811271,7.154241
+61359,"Sørsidevegen 571, Vågøy og Myrbostad",62.815207,7.149088
+61360,"Øverlandsvegen 99, Vågøy og Myrbostad",62.808763,7.147197
+61361,"Sørsidevegen 570, Vågøy og Myrbostad",62.814558,7.152288
+61362,"Sørsidevegen 316, Vågøy og Myrbostad",62.802795,7.187805
+61363,"Sørsidevegen 314, Vågøy og Myrbostad",62.803123,7.187745
+61364,"Sørsidevegen 318, Vågøy og Myrbostad",62.802831,7.188267
+61365,"Sørsidevegen 312, Vågøy og Myrbostad",62.803152,7.188438
+61366,"Malmevegen 101, Vågøy og Myrbostad",62.80178,7.224626
+61367,"Malmevegen 39, Vågøy og Myrbostad",62.799253,7.231607
+61368,"Malmevegen 79, Vågøy og Myrbostad",62.801418,7.228021
+61369,"Holsvegen 88, Vågøy og Myrbostad",62.797419,7.163326
+61370,"Holsvegen 46, Vågøy og Myrbostad",62.800441,7.167845
+61371,"Holsvegen 70, Vågøy og Myrbostad",62.798398,7.164736
+61372,"Holsvegen 56, Vågøy og Myrbostad",62.797309,7.171374
+61373,"Sørsidevegen 383, Vågøy og Myrbostad",62.802681,7.17512
+61374,"Sørsidevegen 343, Vågøy og Myrbostad",62.802484,7.181466
+61375,"Holsvegen 29, Vågøy og Myrbostad",62.80144,7.170823
+61376,"Holsvegen 25, Vågøy og Myrbostad",62.801945,7.170282
+61377,"Holsvegen 9, Vågøy og Myrbostad",62.802618,7.173025
+61378,"Sørsidevegen 334, Vågøy og Myrbostad",62.802997,7.184222
+61379,"Holsvegen 80, Vågøy og Myrbostad",62.797961,7.163547
+61380,"Holsvegen 101, Vågøy og Myrbostad",62.796048,7.164176
+61381,"Sørsidevegen 359, Vågøy og Myrbostad",62.802541,7.179503
+61382,"Holsvegen 194, Vågøy og Myrbostad",62.789021,7.159614
+61383,"Sørsidevegen 349, Vågøy og Myrbostad",62.80249,7.180428
+61384,"Holsvegen 14, Vågøy og Myrbostad",62.802722,7.169765
+61385,"Sørsidevegen 326, Vågøy og Myrbostad",62.803235,7.185626
+61386,"Sandevegen 46, Vågøy og Myrbostad",62.804892,7.156504
+61387,"Holsvegen 187, Vågøy og Myrbostad",62.789082,7.160845
+61388,"Holsvegen 172, Vågøy og Myrbostad",62.790276,7.160888
+61389,"Sandevegen 23, Vågøy og Myrbostad",62.804228,7.158782
+61390,"Sørsidevegen 501, Vågøy og Myrbostad",62.808196,7.153788
+61391,"Sandevegen 54, Vågøy og Myrbostad",62.806141,7.155347
+61392,"Sørsidevegen 437, Vågøy og Myrbostad",62.803929,7.163371
+61518,"Vorpestranda 142, Vågøy og Myrbostad",62.825843,7.186799
+61519,"Vorpestranda 122, Vågøy og Myrbostad",62.827311,7.188862
+61520,"Vorpestranda 134, Vågøy og Myrbostad",62.82641,7.187877
+61521,"Kolbergvegen 282, Vågøy og Myrbostad",62.814234,7.198601
+61522,"Kolbergvegen 216, Vågøy og Myrbostad",62.816989,7.197329
+61523,"Malmefjordvegen 317, Vågøy og Myrbostad",62.809505,7.247155
+61525,"Kolbergvegen 224, Vågøy og Myrbostad",62.816678,7.195888
+61526,"Kolbergvegen 220, Vågøy og Myrbostad",62.816865,7.196556
+61527,"Kolbergvegen 486, Vågøy og Myrbostad",62.813802,7.240408
+61528,"Malmefjordvegen 335, Vågøy og Myrbostad",62.808837,7.246861
+61529,"Kolbergvegen 463, Vågøy og Myrbostad",62.814585,7.236237
+61530,"Malmefjordvegen 240, Vågøy og Myrbostad",62.815512,7.237162
+61531,"Malmefjordvegen 272, Vågøy og Myrbostad",62.813664,7.243062
+61532,"Malmefjordvegen 284, Vågøy og Myrbostad",62.812742,7.243274
+61533,"Malmefjordvegen 238, Vågøy og Myrbostad",62.815913,7.239042
+61534,"Malmefjordvegen 345, Vågøy og Myrbostad",62.807689,7.246949
+61535,"Kolbergvegen 456, Vågøy og Myrbostad",62.812764,7.233559
+61536,"Malmefjordvegen 309, Vågøy og Myrbostad",62.810809,7.24592
+61537,"Kolbergvegen 460, Vågøy og Myrbostad",62.812735,7.234836
+61538,"Malmefjordvegen 339, Vågøy og Myrbostad",62.808112,7.247022
+61539,"Malmefjordvegen 318, Vågøy og Myrbostad",62.812148,7.239581
+61540,"Kolbergvegen 458, Vågøy og Myrbostad",62.812774,7.234363
+61541,"Kolbergvegen 97, Vågøy og Myrbostad",62.818407,7.221092
+61542,"Kolbergvegen 354, Vågøy og Myrbostad",62.812265,7.214634
+61543,"Kolbergvegen 109, Vågøy og Myrbostad",62.818195,7.218151
+61544,"Kolbergvegen 392, Vågøy og Myrbostad",62.814659,7.222908
+61545,"Kolbergvegen 378, Vågøy og Myrbostad",62.813385,7.220202
+61546,"Kolbergvegen 365, Vågøy og Myrbostad",62.815477,7.217305
+61547,"Kolbergvegen 352, Vågøy og Myrbostad",62.812754,7.214919
+61548,"Kolbergvegen 351, Vågøy og Myrbostad",62.814791,7.214148
+61549,"Kolbergvegen 318, Vågøy og Myrbostad",62.811963,7.207805
+61550,"Kolbergvegen 413, Vågøy og Myrbostad",62.814997,7.226223
+61551,"Kolbergvegen 308, Vågøy og Myrbostad",62.813879,7.204458
+61552,"Kolbergvegen 316, Vågøy og Myrbostad",62.812371,7.20674
+61553,"Kolbergvegen 402, Vågøy og Myrbostad",62.812982,7.223715
+61554,"Kolbergvegen 404, Vågøy og Myrbostad",62.812969,7.224101
+61555,"Kolbergvegen 374, Vågøy og Myrbostad",62.813366,7.21863
+61556,"Kolbergvegen 412, Vågøy og Myrbostad",62.813026,7.226499
+61557,"Kolbergvegen 340, Vågøy og Myrbostad",62.812544,7.211978
+61558,"Kolbergvegen 99, Vågøy og Myrbostad",62.818318,7.220666
+61559,"Kolbergvegen 420, Vågøy og Myrbostad",62.813199,7.22818
+61560,"Kolbergvegen 357, Vågøy og Myrbostad",62.814935,7.214885
+61561,"Kolbergvegen 321, Vågøy og Myrbostad",62.814829,7.207984
+61562,"Kolbergvegen 367, Vågøy og Myrbostad",62.815556,7.217889
+61563,"Kolbergvegen 319, Vågøy og Myrbostad",62.814731,7.208629
+61564,"Kolbergvegen 306, Vågøy og Myrbostad",62.814537,7.204763
+61565,"Kolbergvegen 305, Vågøy og Myrbostad",62.814804,7.205336
+61567,"Kolbergvegen 74, Vågøy og Myrbostad",62.819446,7.224303
+61568,"Kolbergvegen 151, Vågøy og Myrbostad",62.817957,7.21027
+61569,"Kolbergvegen 242, Vågøy og Myrbostad",62.817717,7.183904
+61570,"Vorpestranda 130, Vågøy og Myrbostad",62.826784,7.188247
+61571,"Lindset, Kolbergvegen 238, Vågøy og Myrbostad",62.816459,7.193295
+61572,"Vorpestranda 126, Vågøy og Myrbostad",62.827031,7.188608
+61573,"Kolbergvegen 3, Vågøy og Myrbostad",62.82222,7.23731
+61574,"Kolbergvegen 432, Vågøy og Myrbostad",62.814317,7.23066
+61576,"Kolbergvegen 50, Vågøy og Myrbostad",62.822711,7.226309
+61578,"Kolbergvegen 53, Vågøy og Myrbostad",62.820086,7.228959
+61579,"Kolbergvegen 425, Vågøy og Myrbostad",62.814907,7.228662
+61581,"Kolbergvegen 434, Vågøy og Myrbostad",62.813035,7.231483
+61582,"Kolbergvegen 138, Vågøy og Myrbostad",62.818425,7.212573
+61586,"Kolbergvegen 342, Vågøy og Myrbostad",62.812036,7.211931
+61587,"Kolbergvegen 172, Vågøy og Myrbostad",62.817868,7.205883
+61588,"Kolbergvegen 337, Vågøy og Myrbostad",62.815022,7.212525
+61589,"Kolbergvegen 104, Vågøy og Myrbostad",62.819063,7.218992
+61590,"Kolbergvegen 158, Vågøy og Myrbostad",62.818139,7.209136
+61591,"Kolbergvegen 359, Vågøy og Myrbostad",62.814903,7.216653
+61592,"Kolbergvegen 197, Vågøy og Myrbostad",62.817089,7.202286
+61593,"Kolbergvegen 419, Vågøy og Myrbostad",62.815033,7.227226
+61594,"Kolbergvegen 408, Vågøy og Myrbostad",62.814581,7.225248
+61595,"Kolbergvegen 400, Vågøy og Myrbostad",62.812995,7.223361
+61596,"Kolbergvegen 168, Vågøy og Myrbostad",62.818242,7.206777
+61597,"Kolbergvegen 379, Vågøy og Myrbostad",62.8149,7.21995
+61598,"Kolbergvegen 388, Vågøy og Myrbostad",62.81316,7.220801
+61599,"Kolbergvegen 396, Vågøy og Myrbostad",62.813083,7.222473
+61600,"Kolbergvegen 376, Vågøy og Myrbostad",62.813378,7.219312
+61601,"Kolbergvegen 89, Vågøy og Myrbostad",62.818424,7.222465
+61627,"Kolbergvegen 27, Vågøy og Myrbostad",62.820616,7.233265
+61632,"Kolbergvegen 26, Vågøy og Myrbostad",62.821783,7.233215
+61796,"Sørsidevegen 545, Vågøy og Myrbostad",62.812152,7.152843
+61797,"Sørsidevegen 576, Vågøy og Myrbostad",62.818087,7.155776
+61798,"Sørsidevegen 557, Vågøy og Myrbostad",62.813442,7.152064
+61799,"Sørsidevegen 574, Vågøy og Myrbostad",62.817556,7.151531
+61800,"Sørsidevegen 563, Vågøy og Myrbostad",62.813408,7.151173
+61802,"Sørsidevegen 564, Vågøy og Myrbostad",62.814909,7.155779
+61803,"Sørsidevegen 561, Vågøy og Myrbostad",62.813641,7.152065
+61854,"Sørsidevegen 544, Vågøy og Myrbostad",62.812792,7.153292
+63117,"Galtenbakken 42, Vågøy og Myrbostad",62.816142,7.245897
+63118,"Galtenbakken 20, Vågøy og Myrbostad",62.817353,7.244724
+63119,"Galtenbakken 38, Vågøy og Myrbostad",62.816682,7.245295
+63120,"Galtenbakken 40, Vågøy og Myrbostad",62.81641,7.245696
+63121,"Galtenbakken 28, Vågøy og Myrbostad",62.817324,7.244637
+63122,"Galtenbakken 30, Vågøy og Myrbostad",62.817218,7.244726
+63123,"Galtenbakken 22, Vågøy og Myrbostad",62.817245,7.244807
+63124,"Galtenbakken 24, Vågøy og Myrbostad",62.817158,7.244828
+63127,"Galtenbakken 32, Vågøy og Myrbostad",62.817169,7.244735
+63266,"Galtenbakken 21, Vågøy og Myrbostad",62.816996,7.245983
+63267,"Galtenbakken 25, Vågøy og Myrbostad",62.816464,7.246545
+63297,"Galtenbakken 4, Vågøy og Myrbostad",62.818766,7.244129
+63298,"Galtenbakken 8, Vågøy og Myrbostad",62.818246,7.243986
+63299,"Galtenbakken 9, Vågøy og Myrbostad",62.818607,7.244886
+63300,"Galtenbakken 5, Vågøy og Myrbostad",62.819181,7.244872
+63301,"Galtenbakken 7, Vågøy og Myrbostad",62.818912,7.244829
+63302,"Galtenbakken 12, Vågøy og Myrbostad",62.817687,7.24427
+63304,"Galtenbakken 13, Vågøy og Myrbostad",62.818132,7.244954
+63305,"Galtenbakken 10, Vågøy og Myrbostad",62.817963,7.244085
+63306,"Galtenbakken 11, Vågøy og Myrbostad",62.818375,7.244959
+63307,"Galtenbakken 16, Vågøy og Myrbostad",62.817454,7.244347
+63308,"Galtenbakken 17, Vågøy og Myrbostad",62.817616,7.245373
+63309,"Galtenbakken 14, Vågøy og Myrbostad",62.817569,7.244289
+63310,"Galtenbakken 15, Vågøy og Myrbostad",62.817846,7.245069
+63311,"Granvegen 8, Vågøy og Myrbostad",62.817363,7.242998
+63322,"Nedre Julsvang 29, Vågøy og Myrbostad",62.813364,7.245572
+63323,"Nedre Julsvang 30, Vågøy og Myrbostad",62.813371,7.244708
+63324,"Nedre Julsvang 27, Vågøy og Myrbostad",62.813629,7.245261
+63325,"Nedre Julsvang 28, Vågøy og Myrbostad",62.813557,7.244501
+63326,"Nedre Julsvang 33, Vågøy og Myrbostad",62.812867,7.246092
+63327,"Nedre Julsvang 34, Vågøy og Myrbostad",62.81297,7.245177
+63328,"Nedre Julsvang 31, Vågøy og Myrbostad",62.813124,7.245802
+63329,"Nedre Julsvang 32, Vågøy og Myrbostad",62.813149,7.244937
+63330,"Nedre Julsvang 37, Vågøy og Myrbostad",62.81237,7.246533
+63331,"Nedre Julsvang 38, Vågøy og Myrbostad",62.812519,7.245543
+63332,"Nedre Julsvang 35, Vågøy og Myrbostad",62.812636,7.246262
+63333,"Nedre Julsvang 36, Vågøy og Myrbostad",62.812715,7.245394
+63334,"Nedre Julsvang 42, Vågøy og Myrbostad",62.812071,7.245817
+63335,"Nedre Julsvang 43, Vågøy og Myrbostad",62.811627,7.246735
+63336,"Nedre Julsvang 40, Vågøy og Myrbostad",62.812323,7.245673
+63337,"Nedre Julsvang 41, Vågøy og Myrbostad",62.811932,7.246658
+63338,"Nedre Julsvang 46, Vågøy og Myrbostad",62.811628,7.246107
+63339,"Nedre Julsvang 47, Vågøy og Myrbostad",62.811208,7.246936
+63340,"Nedre Julsvang 44, Vågøy og Myrbostad",62.811833,7.245977
+63341,"Nedre Julsvang 45, Vågøy og Myrbostad",62.811405,7.246885
+63342,"Nedre Julsvang 51, Vågøy og Myrbostad",62.810743,7.247101
+63343,"Øvre Julsvang 1, Vågøy og Myrbostad",62.816537,7.242341
+63344,"Nedre Julsvang 48, Vågøy og Myrbostad",62.811369,7.246201
+63345,"Nedre Julsvang 49, Vågøy og Myrbostad",62.811002,7.246923
+63346,"Øvre Julsvang 4, Vågøy og Myrbostad",62.816325,7.241843
+63347,"Øvre Julsvang 5, Vågøy og Myrbostad",62.816097,7.242995
+63348,"Øvre Julsvang 2, Vågøy og Myrbostad",62.816547,7.241569
+63349,"Øvre Julsvang 3, Vågøy og Myrbostad",62.816326,7.242667
+63350,"Øvre Julsvang 9, Vågøy og Myrbostad",62.815656,7.24363
+63351,"Øvre Julsvang 10, Vågøy og Myrbostad",62.815584,7.242928
+63352,"Øvre Julsvang 7, Vågøy og Myrbostad",62.815897,7.243252
+63353,"Øvre Julsvang 8, Vågøy og Myrbostad",62.81584,7.242539
+63358,"Nedre Julsvang 1, Vågøy og Myrbostad",62.816564,7.240848
+63359,"Nedre Julsvang 2, Vågøy og Myrbostad",62.816475,7.240264
+63362,"Nedre Julsvang 5, Vågøy og Myrbostad",62.816094,7.241492
+63363,"Nedre Julsvang 6, Vågøy og Myrbostad",62.816008,7.24094
+63364,"Nedre Julsvang 3, Vågøy og Myrbostad",62.816326,7.241274
+63365,"Nedre Julsvang 4, Vågøy og Myrbostad",62.816211,7.240653
+63366,"Nedre Julsvang 9, Vågøy og Myrbostad",62.81563,7.242326
+63367,"Nedre Julsvang 10, Vågøy og Myrbostad",62.815549,7.241576
+63368,"Nedre Julsvang 7, Vågøy og Myrbostad",62.815797,7.241992
+63369,"Nedre Julsvang 8, Vågøy og Myrbostad",62.815768,7.241309
+63370,"Nedre Julsvang 13, Vågøy og Myrbostad",62.815179,7.242956
+63371,"Nedre Julsvang 14, Vågøy og Myrbostad",62.815109,7.242269
+63372,"Nedre Julsvang 11, Vågøy og Myrbostad",62.815374,7.242665
+63373,"Nedre Julsvang 12, Vågøy og Myrbostad",62.815329,7.241922
+63374,"Nedre Julsvang 17, Vågøy og Myrbostad",62.814625,7.24377
+63375,"Nedre Julsvang 18, Vågøy og Myrbostad",62.814775,7.24286
+63376,"Nedre Julsvang 15, Vågøy og Myrbostad",62.814925,7.24332
+63377,"Nedre Julsvang 16, Vågøy og Myrbostad",62.814933,7.242593
+63378,"Nedre Julsvang 21, Vågøy og Myrbostad",62.814246,7.244381
+63379,"Nedre Julsvang 23, Vågøy og Myrbostad",62.814044,7.244707
+63380,"Nedre Julsvang 19, Vågøy og Myrbostad",62.81444,7.244055
+63381,"Nedre Julsvang 20, Vågøy og Myrbostad",62.814556,7.243177
+63382,"Nedre Julsvang 25, Vågøy og Myrbostad",62.813868,7.244992
+63383,"Nedre Julsvang 26, Vågøy og Myrbostad",62.813761,7.244292
+63384,"Nedre Julsvang 24A, Vågøy og Myrbostad",62.81414,7.243759
+63385,"Nedre Julsvang 24B, Vågøy og Myrbostad",62.813979,7.244095
+63387,"Granvegen 10A, Vågøy og Myrbostad",62.816788,7.243272
+63389,"Granvegen 10B, Vågøy og Myrbostad",62.81679,7.243415
+63398,"Granvegen 10C, Vågøy og Myrbostad",62.816694,7.243336
+63400,"Granvegen 10D, Vågøy og Myrbostad",62.8167,7.243467
+63434,"Kolbergvegen 338, Vågøy og Myrbostad",62.812128,7.208776
+63504,"Galtenbakken 18, Vågøy og Myrbostad",62.817444,7.244212
+63508,"Sørsidevegen 537, Vågøy og Myrbostad",62.811464,7.15258
+63536,"Malmefjordvegen 236, Vågøy og Myrbostad",62.81638,7.238406
+63544,"Malmefjordvegen 305, Vågøy og Myrbostad",62.811051,7.245866
+63545,"Tømmervegen 78, Vågøy og Myrbostad",62.819887,7.245413
+63546,"Malmefjordvegen 242, Vågøy og Myrbostad",62.815458,7.236479
+63552,"Malmedalsvegen 141, Vågøy og Myrbostad",62.794293,7.259923
+63554,"Sørsidevegen 569, Vågøy og Myrbostad",62.81512,7.150816
+63555,"Øvre Julsvang 13, Vågøy og Myrbostad",62.815224,7.244303
+63556,"Øvre Julsvang 14, Vågøy og Myrbostad",62.815145,7.243611
+63557,"Øvre Julsvang 11, Vågøy og Myrbostad",62.815436,7.243996
+63558,"Øvre Julsvang 12, Vågøy og Myrbostad",62.815373,7.243274
+63559,"Granvegen 1, Vågøy og Myrbostad",62.818557,7.243731
+63560,"Granvegen 3, Vågøy og Myrbostad",62.818293,7.243453
+63561,"Øvre Julsvang 15, Vågøy og Myrbostad",62.81503,7.24455
+63562,"Øvre Julsvang 16, Vågøy og Myrbostad",62.814887,7.24395
+63563,"Granvegen 9, Vågøy og Myrbostad",62.817488,7.243717
+63564,"Granvegen 11, Vågøy og Myrbostad",62.817251,7.243882
+63565,"Granvegen 5, Vågøy og Myrbostad",62.817988,7.243451
+63566,"Granvegen 7, Vågøy og Myrbostad",62.817736,7.243447
+63567,"Granvegen 14, Vågøy og Myrbostad",62.816237,7.244164
+63568,"Granvegen 16, Vågøy og Myrbostad",62.816021,7.24446
+63569,"Granvegen 12, Vågøy og Myrbostad",62.816466,7.243797
+63570,"Granvegen 13, Vågøy og Myrbostad",62.817076,7.244071
+63571,"Granvegen 19, Vågøy og Myrbostad",62.816505,7.244796
+63572,"Granvegen 21, Vågøy og Myrbostad",62.816001,7.245375
+63573,"Granvegen 17, Vågøy og Myrbostad",62.816558,7.244695
+63574,"Granvegen 18, Vågøy og Myrbostad",62.815776,7.244663
+63575,"Granvegen 25, Vågøy og Myrbostad",62.815425,7.245998
+63576,"Granvegen 22, Vågøy og Myrbostad",62.815355,7.245031
+63577,"Granvegen 23, Vågøy og Myrbostad",62.815764,7.245635
+63593,"Myrbakkvegen 8, Vågøy og Myrbostad",62.80952,7.153654
+63594,"Øverlandsvegen 5, Vågøy og Myrbostad",62.810434,7.154026
+63596,"Myrbakkvegen 5, Vågøy og Myrbostad",62.809976,7.15429
+63597,"Øverlandsvegen 15, Vågøy og Myrbostad",62.809774,7.153475
+63598,"Øverlandsvegen 17, Vågøy og Myrbostad",62.809641,7.153016
+63599,"Øverlandsvegen 7, Vågøy og Myrbostad",62.810203,7.154107
+63600,"Øverlandsvegen 13, Vågøy og Myrbostad",62.809996,7.153341
+63601,"Øverlandsvegen 26, Vågøy og Myrbostad",62.810213,7.151638
+63602,"Fjellsetra 3, Vågøy og Myrbostad",62.799564,7.129683
+63603,"Øverlandsvegen 19, Vågøy og Myrbostad",62.809756,7.152629
+63604,"Øverlandsvegen 24, Vågøy og Myrbostad",62.809942,7.151557
+63735,"Kolbergvegen 389, Vågøy og Myrbostad",62.81501,7.221458
+63759,"Sørsidevegen 514, Vågøy og Myrbostad",62.810867,7.156993
+63773,"Malmefjordvegen 421, Vågøy og Myrbostad",62.801227,7.243528
+63780,"Malmedalsvegen 57, Vågøy og Myrbostad",62.793227,7.24484
+63795,"Røssholvegen 32, Vågøy og Myrbostad",62.800428,7.221242
+63800,"Sørsidevegen 252, Vågøy og Myrbostad",62.80368,7.198749
+63922,"Malmedalsvegen 281, Vågøy og Myrbostad",62.796624,7.28379
+63928,"Kolbergvegen 398, Vågøy og Myrbostad",62.813016,7.22287
+63933,"Sørsidevegen 361, Vågøy og Myrbostad",62.802721,7.177491
+64011,"Malmevegen 43, Vågøy og Myrbostad",62.798803,7.231075
+64085,"Sørsidevegen 121, Vågøy og Myrbostad",62.805114,7.222709
+64089,"Holsvegen 85, Vågøy og Myrbostad",62.796855,7.165459
+64121,"Granvegen 4A, Vågøy og Myrbostad",62.817813,7.242382
+64122,"Granvegen 4D, Vågøy og Myrbostad",62.817775,7.242208
+64123,"Granvegen 4B, Vågøy og Myrbostad",62.817901,7.242299
+64124,"Granvegen 4C, Vågøy og Myrbostad",62.817872,7.242124
+64156,"Granvegen 2B, Vågøy og Myrbostad",62.81815,7.242107
+64159,"Granvegen 2D, Vågøy og Myrbostad",62.818042,7.242016
+64161,"Granvegen 2A, Vågøy og Myrbostad",62.81807,7.242151
+64162,"Granvegen 2C, Vågøy og Myrbostad",62.818131,7.241971
+64171,"Kolbergvegen 146, Vågøy og Myrbostad",62.818394,7.211594
+64211,"Sandevegen 77, Vågøy og Myrbostad",62.802479,7.159617
+64212,"Kolbergvegen 52, Vågøy og Myrbostad",62.823039,7.225327
+64244,"Øverlandsvegen 30, Vågøy og Myrbostad",62.810793,7.150032
+64245,"Øverlandsvegen 32, Vågøy og Myrbostad",62.811409,7.149172
+64246,"Øverlandsvegen 25, Vågøy og Myrbostad",62.809806,7.150761
+64247,"Øverlandsvegen 27, Vågøy og Myrbostad",62.810005,7.15016
+64250,"Øverlandsvegen 29, Vågøy og Myrbostad",62.811261,7.146371
+64261,"Øverlandsvegen 28, Vågøy og Myrbostad",62.810264,7.150752
+64281,"Sørsidevegen 542, Vågøy og Myrbostad",62.812774,7.156639
+64305,"Furumyra 9, Vågøy og Myrbostad",62.817885,7.241004
+64306,"Furumyra 11, Vågøy og Myrbostad",62.817975,7.240979
+64307,"Furumyra 7, Vågøy og Myrbostad",62.817805,7.241048
+64308,"Furumyra 15, Vågøy og Myrbostad",62.818071,7.241503
+64309,"Furumyra 17, Vågøy og Myrbostad",62.817964,7.241569
+64310,"Furumyra 21, Vågøy og Myrbostad",62.817984,7.241685
+64311,"Furumyra 19, Vågøy og Myrbostad",62.81809,7.24162
+64326,"Malmedalsvegen 140, Vågøy og Myrbostad",62.793199,7.261478
+64328,"Øygardsvegen 35, Vågøy og Myrbostad",62.804812,7.242314
+64332,"Kolbergvegen 199, Vågøy og Myrbostad",62.816995,7.201827
+64334,"Kolbergvegen 416, Vågøy og Myrbostad",62.814431,7.227319
+64340,"Lindset, Kolbergvegen 240, Vågøy og Myrbostad",62.816487,7.19274
+64343,"Kolbergvegen 414, Vågøy og Myrbostad",62.813024,7.227206
+64344,"Kolbergvegen 166, Vågøy og Myrbostad",62.818012,7.207711
+64368,"Malmesetervegen 635, Vågøy og Myrbostad",62.822677,7.408819
+64370,"Røssholvegen 44, Vågøy og Myrbostad",62.79971,7.218592
+64372,"Malmedalsvegen 129, Vågøy og Myrbostad",62.795083,7.258465
+64374,"Malmedalsvegen 147, Vågøy og Myrbostad",62.795324,7.26051
+64376,"Sørsidevegen 345, Vågøy og Myrbostad",62.80233,7.181301
+64378,"Holsvegen 7, Vågøy og Myrbostad",62.802192,7.171326
+64380,"Malmedalsvegen 17, Vågøy og Myrbostad",62.792417,7.2347
+64382,"Sørsidevegen 125, Vågøy og Myrbostad",62.803733,7.226489
+64388,"Sandevegen 58, Vågøy og Myrbostad",62.806378,7.15494
+64389,"Sørsidevegen 499, Vågøy og Myrbostad",62.807337,7.15484
+64412,"Kolbergvegen 335, Vågøy og Myrbostad",62.81501,7.211782
+64414,"Øygardsvegen 40, Vågøy og Myrbostad",62.804754,7.240552
+64417,"Øygardsvegen 33, Vågøy og Myrbostad",62.80501,7.241675
+64419,"Øygardsvegen 64, Vågøy og Myrbostad",62.803935,7.237561
+64470,"Sørsidevegen 436, Vågøy og Myrbostad",62.804833,7.165892
+64484,"Sørsidevegen 122, Vågøy og Myrbostad",62.806247,7.224318
+64507,"Sørsidevegen 365, Vågøy og Myrbostad",62.801832,7.176801
+64513,"Holsvegen 341, Vågøy og Myrbostad",62.780115,7.160326
+64516,"Sørsidevegen 348, Vågøy og Myrbostad",62.802889,7.181463
+64529,"Sørsidevegen 497, Vågøy og Myrbostad",62.808712,7.155637
+64542,"Holsvegen 81, Vågøy og Myrbostad",62.797851,7.164979
+64592,"Malmevegen 38, Vågøy og Myrbostad",62.7994,7.233354
+64597,"Skoglunden 42, Vågøy og Myrbostad",62.819757,7.247468
+64598,"Kolbergvegen 482, Vågøy og Myrbostad",62.812809,7.23724
+64600,"Kolbergvegen 478, Vågøy og Myrbostad",62.812854,7.236136
+64601,"Kolbergvegen 480, Vågøy og Myrbostad",62.812824,7.236746
+64795,"Bjørkesvingen 7, Vågøy og Myrbostad",62.820739,7.247562
+118701,"Malmefjordvegen 455, Vågøy og Myrbostad",62.79841,7.239593
+211054,"Skoglunden 46, Vågøy og Myrbostad",62.820256,7.247701
+282870,"Skoglunden 36, Vågøy og Myrbostad",62.81908,7.247092
+651135,"Skoglunden 34, Vågøy og Myrbostad",62.818864,7.246902
+727070,"Kolbergvegen 107, Vågøy og Myrbostad",62.818211,7.218963
+836916,"Bjørkesvingen 3, Vågøy og Myrbostad",62.821081,7.24677
+1210059,"Skoglunden 38, Vågøy og Myrbostad",62.81942,7.247238
+1303388,"Ramsvegen 20, Vågøy og Myrbostad",62.819403,7.24554
+1445929,"Malmedalsvegen 145, Vågøy og Myrbostad",62.795033,7.260845
+1640196,"Nedre Julsvang 22, Vågøy og Myrbostad",62.814352,7.243497
+1640797,"Ramsvegen 26, Vågøy og Myrbostad",62.818394,7.245639
+1733830,"Ramsvegen 10, Vågøy og Myrbostad",62.820248,7.245799
+1734869,"Holamyra 11, Vågøy og Myrbostad",62.819047,7.238026
+1753433,"Skoglunden 32, Vågøy og Myrbostad",62.818529,7.246777
+1765903,"Ramsvegen 22, Vågøy og Myrbostad",62.81903,7.245562
+1768282,"Holsvegen 49, Vågøy og Myrbostad",62.800105,7.168219
+1776796,"Sørsidevegen 363, Vågøy og Myrbostad",62.8025,7.178645
+1779146,"Holamyra 24, Vågøy og Myrbostad",62.82038,7.240712
+1779484,"Bjørkesvingen 11, Vågøy og Myrbostad",62.820399,7.247168
+1856736,"Tømmervegen 74, Vågøy og Myrbostad",62.819511,7.244929
+1856737,"Tømmervegen 76, Vågøy og Myrbostad",62.819593,7.245014
+1873992,"Øverlandsvegen 23, Vågøy og Myrbostad",62.809648,7.150359
+1932677,"Skoglunden 44, Vågøy og Myrbostad",62.819949,7.247609
+1933497,"Holamyra 5, Vågøy og Myrbostad",62.81835,7.238353
+1933499,"Holamyra 3, Vågøy og Myrbostad",62.818411,7.238875
+1933501,"Holamyra 1, Vågøy og Myrbostad",62.818532,7.238895
+1933502,"Holamyra 19, Vågøy og Myrbostad",62.819745,7.237841
+1933503,"Holamyra 7, Vågøy og Myrbostad",62.818384,7.23817
+1939188,"Ramsvegen 30, Vågøy og Myrbostad",62.818185,7.245689
+1939190,"Ramsvegen 32, Vågøy og Myrbostad",62.818105,7.245697
+1939357,"Ramsvegen 36, Vågøy og Myrbostad",62.817959,7.245857
+1939360,"Ramsvegen 44, Vågøy og Myrbostad",62.817508,7.246202
+1939361,"Ramsvegen 38, Vågøy og Myrbostad",62.817882,7.245872
+1939362,"Ramsvegen 50, Vågøy og Myrbostad",62.817737,7.24629
+1939363,"Ramsvegen 46, Vågøy og Myrbostad",62.817591,7.246274
+1939364,"Ramsvegen 56, Vågøy og Myrbostad",62.81795,7.246386
+1939366,"Ramsvegen 52, Vågøy og Myrbostad",62.817817,7.246366
+1939371,"Ramsvegen 62, Vågøy og Myrbostad",62.818146,7.24647
+1939373,"Ramsvegen 58, Vågøy og Myrbostad",62.818042,7.24641
+1939375,"Ramsvegen 64, Vågøy og Myrbostad",62.81824,7.246492
+1943140,"Ramsvegen 24, Vågøy og Myrbostad",62.818719,7.245598
+1947762,"Holsvegen 346, Vågøy og Myrbostad",62.779337,7.160555
+1952570,"Sørsidevegen 506, Vågøy og Myrbostad",62.810012,7.157372
+1952581,"Kolbergvegen 25, Vågøy og Myrbostad",62.820775,7.233095
+1955066,"Sørsidevegen 342, Vågøy og Myrbostad",62.802851,7.182829
+1955069,"Sørsidevegen 566, Vågøy og Myrbostad",62.816523,7.155564
+1959594,"Holamyra 4, Vågøy og Myrbostad",62.818699,7.239843
+1966221,"Bjørkesvingen 5, Vågøy og Myrbostad",62.820921,7.247226
+1968310,"Bjørkesvingen 9, Vågøy og Myrbostad",62.820571,7.247484
+1969720,"Holsvegen 286, Vågøy og Myrbostad",62.781498,7.151887
+1969759,"Sørsidevegen 503, Vågøy og Myrbostad",62.808012,7.150117
+1983505,"Galtenbakken 34, Vågøy og Myrbostad",62.816961,7.244818
+1984458,"Kolbergvegen 479, Vågøy og Myrbostad",62.814934,7.238563
+1984459,"Kolbergvegen 477, Vågøy og Myrbostad",62.814939,7.238478
+1984536,"Kolbergvegen 473, Vågøy og Myrbostad",62.814964,7.238108
+1984539,"Kolbergvegen 471, Vågøy og Myrbostad",62.81497,7.238017
+1984540,"Kolbergvegen 469, Vågøy og Myrbostad",62.814975,7.237917
+1984556,"Kolbergvegen 475, Vågøy og Myrbostad",62.814944,7.238376
+1986418,"Furumyra 2, Vågøy og Myrbostad",62.817402,7.241936
+1986420,"Furumyra 4, Vågøy og Myrbostad",62.817352,7.241882
+1986421,"Furumyra 6, Vågøy og Myrbostad",62.817304,7.241832
+1986423,"Furumyra 8, Vågøy og Myrbostad",62.817526,7.242007
+1986424,"Furumyra 10, Vågøy og Myrbostad",62.81765,7.241907
+1986530,"Furumyra 14, Vågøy og Myrbostad",62.817581,7.242053
+1986531,"Furumyra 12, Vågøy og Myrbostad",62.817625,7.242023
+1986533,"Furumyra 5, Vågøy og Myrbostad",62.817564,7.241381
+1986555,"Furumyra 1A, Vågøy og Myrbostad",62.817464,7.241371
+1994500,"Skoglunden 35, Vågøy og Myrbostad",62.819072,7.24635
+1997341,"Skoglunden 33, Vågøy og Myrbostad",62.81887,7.246305
+2003246,"Kolbergvegen 484, Vågøy og Myrbostad",62.812758,7.237841
+2013812,"Malmedalsvegen 159, Vågøy og Myrbostad",62.79456,7.261675
+2018347,"Tømmervegen 2, Vågøy og Myrbostad",62.817612,7.239378
+2026615,"Galtenbakken 36, Vågøy og Myrbostad",62.816853,7.244936
+2031909,"Bjørkesvingen 4, Vågøy og Myrbostad",62.820856,7.24648
+2031910,"Bjørkesvingen 6, Vågøy og Myrbostad",62.8208,7.246404
+2032523,"Bjørkesvingen 10, Vågøy og Myrbostad",62.820746,7.246339
+2032524,"Bjørkesvingen 12, Vågøy og Myrbostad",62.820605,7.246324
+2032526,"Bjørkesvingen 8, Vågøy og Myrbostad",62.820693,7.246271
+2032527,"Bjørkesvingen 16, Vågøy og Myrbostad",62.820452,7.246502
+2032529,"Bjørkesvingen 14, Vågøy og Myrbostad",62.820554,7.246382
+2032533,"Bjørkesvingen 18, Vågøy og Myrbostad",62.820504,7.246438
+2038356,"Holamyra 27, Vågøy og Myrbostad",62.820491,7.238193
+2039290,"Sandevegen 200, Vågøy og Myrbostad",62.793901,7.146325
+2062530,"Øverlandsvegen 30A, Vågøy og Myrbostad",62.810595,7.150777
+2067999,"Bjørkesvingen 13, Vågøy og Myrbostad",62.820149,7.246975
+2068001,"Bjørkesvingen 20, Vågøy og Myrbostad",62.820154,7.246506
+2080809,"Holsvegen 196, Vågøy og Myrbostad",62.790306,7.159529
+2370381,"Sørsidevegen 712, Vågøy og Myrbostad",62.817803,7.137104
+2389334,"Malmefjordvegen 348, Vågøy og Myrbostad",62.807026,7.244242
+2389441,"Malmefjordvegen 337, Vågøy og Myrbostad",62.808437,7.248822
+2389588,"Malmefjordvegen 165, Vågøy og Myrbostad",62.822708,7.238263
+2391436,"Furumyra 1B, Vågøy og Myrbostad",62.817583,7.24127
+2391437,"Furumyra 3, Vågøy og Myrbostad",62.817516,7.241403

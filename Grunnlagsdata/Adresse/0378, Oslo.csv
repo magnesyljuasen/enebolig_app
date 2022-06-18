@@ -1,0 +1,560 @@
+,Navn,Long,Lat
+44995,"32/212-1, Røa",59.942392,10.673236
+45292,"29/401, Ullern",59.938507,10.668988
+45323,"29/401-1, Ullern",59.938389,10.668899
+45324,"29/401-2, Ullern",59.938346,10.669142
+1561629,"Hemmestveitbakken 3, Ullern",59.93808,10.664019
+1561630,"Hemmestveitbakken 2, Ullern",59.937902,10.664583
+1561631,"Hemmestveitbakken 1, Ullern",59.938208,10.664509
+1561637,"Hemmestveitbakken 9, Ullern",59.937476,10.662718
+1561638,"Hemmestveitbakken 8B, Ullern",59.937221,10.663009
+1561639,"Hemmestveitbakken 8, Ullern",59.9372,10.663223
+1561640,"Hemmestveitbakken 7B, Ullern",59.937626,10.66294
+1561641,"Hemmestveitbakken 7, Ullern",59.937687,10.663122
+1561642,"Hemmestveitbakken 6A, Ullern",59.937477,10.66338
+1561643,"Hemmestveitbakken 4, Ullern",59.93765,10.663926
+1561648,"Hemmestveitbakken 12, Ullern",59.936401,10.662521
+1561649,"Hemmestveitbakken 11, Ullern",59.937174,10.66232
+1561650,"Hemmestveitbakken 9B, Ullern",59.937433,10.66259
+1563415,"Husebygrenda 12A, Røa",59.942535,10.6675
+1563416,"Husebygrenda 11C, Røa",59.943031,10.667382
+1563417,"Husebygrenda 11B, Røa",59.942922,10.667484
+1563418,"Husebygrenda 11A, Røa",59.94284,10.667551
+1563419,"Husebygrenda 10B, Røa",59.942171,10.669344
+1563420,"Husebygrenda 10A, Røa",59.942279,10.66926
+1563421,"Husebygrenda 16C, Røa",59.942514,10.666318
+1563422,"Husebygrenda 16B, Røa",59.942587,10.66625
+1563423,"Husebygrenda 16A, Røa",59.942687,10.666165
+1563424,"Husebygrenda 14C, Røa",59.942452,10.666959
+1563425,"Husebygrenda 14B, Røa",59.942543,10.666874
+1563426,"Husebygrenda 14A, Røa",59.942616,10.666788
+1563427,"Husebygrenda 12C, Røa",59.942354,10.667652
+1563428,"Husebygrenda 12B, Røa",59.942444,10.667585
+1563432,"Husebygrenda 18C, Røa",59.942523,10.665638
+1563433,"Husebygrenda 18B, Røa",59.942622,10.665589
+1563434,"Husebygrenda 18A, Røa",59.942704,10.665522
+1563639,"Husebygrenda 5A, Røa",59.942516,10.670471
+1563640,"Husebygrenda 4, Røa",59.942149,10.671025
+1563641,"Husebygrenda 3, Røa",59.942401,10.670966
+1563646,"Husebygrenda 8A, Røa",59.942272,10.669832
+1563647,"Husebygrenda 7C, Røa",59.942759,10.669678
+1563648,"Husebygrenda 7B, Røa",59.942678,10.669727
+1563649,"Husebygrenda 7A, Røa",59.942605,10.669813
+1563650,"Husebygrenda 6B, Røa",59.942102,10.670522
+1563651,"Husebygrenda 6A, Røa",59.94222,10.670438
+1563652,"Husebygrenda 5C, Røa",59.94267,10.6703
+1563653,"Husebygrenda 5B, Røa",59.942588,10.670385
+1563654,"Husebygrenda 9D, Røa",59.942904,10.668958
+1563655,"Husebygrenda 9C, Røa",59.94283,10.669037
+1563656,"Husebygrenda 9B, Røa",59.942748,10.669122
+1563657,"Husebygrenda 9A, Røa",59.942675,10.669208
+1563658,"Husebygrenda 8B, Røa",59.942154,10.669934
+1574099,"Lærer Holes vei 1B, Røa",59.943523,10.666816
+1574100,"Lærer Holes vei 1A, Røa",59.943432,10.666919
+1574101,"Lærer Holes vei 4B, Røa",59.943449,10.666221
+1574102,"Lærer Holes vei 4A, Røa",59.943367,10.666343
+1574103,"Lærer Holes vei 3, Røa",59.94338,10.667489
+1574104,"Lærer Holes vei 2D, Røa",59.943203,10.666549
+1574105,"Lærer Holes vei 2C, Røa",59.943139,10.6666
+1574106,"Lærer Holes vei 2B, Røa",59.943057,10.666721
+1574107,"Lærer Holes vei 2A, Røa",59.942975,10.666788
+1574108,"Lærer Holes vei 1C, Røa",59.943622,10.666749
+1574109,"Lærer Holes vei 9, Røa",59.943051,10.668636
+1574110,"Lærer Holes vei 7, Røa",59.943172,10.668266
+1574111,"Lærer Holes vei 6C, Røa",59.944003,10.665784
+1574112,"Lærer Holes vei 6B, Røa",59.943876,10.665867
+1574113,"Lærer Holes vei 6A, Røa",59.943804,10.665917
+1574114,"Lærer Holes vei 5, Røa",59.943322,10.667772
+1574115,"Lærer Holes vei 4D, Røa",59.943631,10.666052
+1574116,"Lærer Holes vei 4C, Røa",59.943567,10.666174
+1575867,"Mikjelsbakken 9, Ullern",59.938031,10.660061
+1575868,"Mikjelsbakken 6, Ullern",59.937747,10.66044
+1575869,"Mikjelsbakken 4, Ullern",59.937918,10.661129
+1575870,"Mikjelsbakken 3, Ullern",59.938306,10.661757
+1576102,"Mikjelsbakken 2C, Ullern",59.937976,10.661562
+1576103,"Mikjelsbakken 2B, Ullern",59.938044,10.661869
+1576126,"Morgedalsvegen 2, Ullern",59.935449,10.663905
+1576127,"Morgedalsvegen 1, Ullern",59.935421,10.664727
+1576133,"Morgedalsvegen 8B, Ullern",59.936411,10.664562
+1576134,"Morgedalsvegen 8A, Ullern",59.936443,10.664903
+1576135,"Morgedalsvegen 7B, Ullern",59.936424,10.665654
+1576136,"Morgedalsvegen 7, Ullern",59.936401,10.665331
+1576137,"Morgedalsvegen 5B, Ullern",59.936141,10.6653
+1576138,"Morgedalsvegen 5, Ullern",59.936063,10.665135
+1576139,"Morgedalsvegen 4, Ullern",59.935501,10.663371
+1576140,"Morgedalsvegen 3, Ullern",59.935675,10.665241
+1576141,"Morgedalsvegen 14, Ullern",59.937451,10.667567
+1576142,"Morgedalsvegen 13A, Ullern",59.937368,10.668458
+1576143,"Morgedalsvegen 12, Ullern",59.937348,10.667186
+1576144,"Morgedalsvegen 11B, Ullern",59.937231,10.667914
+1576145,"Morgedalsvegen 11, Ullern",59.937222,10.667878
+1576146,"Morgedalsvegen 9B, Ullern",59.937077,10.667334
+1576147,"Morgedalsvegen 9A, Ullern",59.936999,10.667079
+1576148,"Morgedalsvegen 22, Ullern",59.938435,10.669263
+1576149,"Morgedalsvegen 21B, Ullern",59.938376,10.669652
+1576150,"Morgedalsvegen 20, Ullern",59.938143,10.668926
+1576151,"Morgedalsvegen 19, Ullern",59.937958,10.6694
+1576152,"Morgedalsvegen 18, Ullern",59.937871,10.668607
+1576153,"Morgedalsvegen 17, Ullern",59.937773,10.669105
+1576154,"Morgedalsvegen 16, Ullern",59.937686,10.668187
+1576155,"Morgedalsvegen 15, Ullern",59.937551,10.668914
+1576156,"Morgedalsvegen 29, Ullern",59.939347,10.670329
+1576157,"Morgedalsvegen 28, Ullern",59.939374,10.669615
+1576158,"Morgedalsvegen 27, Ullern",59.939133,10.670193
+1576159,"Morgedalsvegen 26, Ullern",59.939043,10.669526
+1576160,"Morgedalsvegen 25, Ullern",59.938856,10.670054
+1576161,"Morgedalsvegen 24B, Ullern",59.938751,10.66919
+1576162,"Morgedalsvegen 24, Ullern",59.938671,10.669114
+1576163,"Morgedalsvegen 23, Ullern",59.938642,10.669936
+1576164,"Morgedalsvegen 35D, Ullern",59.939893,10.671162
+1576165,"Morgedalsvegen 35C, Ullern",59.939932,10.670949
+1576166,"Morgedalsvegen 35B, Ullern",59.939989,10.67072
+1576167,"Morgedalsvegen 35A, Ullern",59.939964,10.670521
+1576168,"Morgedalsvegen 33B, Ullern",59.939782,10.670727
+1576169,"Morgedalsvegen 33, Ullern",59.939793,10.670584
+1576170,"Morgedalsvegen 32, Ullern",59.939746,10.670027
+1576171,"Morgedalsvegen 31, Ullern",59.939569,10.670519
+1576176,"Morgedalsvegen 43, Ullern",59.939093,10.671229
+1576177,"Morgedalsvegen 41, Ullern",59.939467,10.671463
+1576178,"Morgedalsvegen 39, Ullern",59.939886,10.671735
+1576179,"Morgedalsvegen 37, Ullern",59.940151,10.670692
+1579206,"Nordheimbakken 5, Ullern",59.936034,10.663845
+1579207,"Nordheimbakken 7, Ullern",59.936365,10.663915
+1579213,"Nordheimbakken 16, Ullern",59.937216,10.664101
+1579214,"Nordheimbakken 17, Ullern",59.937929,10.667376
+1579215,"Nordheimbakken 19, Ullern",59.937954,10.667592
+1579216,"Nordheimbakken 20, Ullern",59.93811,10.666598
+1579217,"Nordheimbakken 20B, Ullern",59.93814,10.666349
+1579218,"Nordheimbakken 21, Ullern",59.938253,10.668055
+1579219,"Nordheimbakken 22, Ullern",59.938194,10.667014
+1579220,"Nordheimbakken 8, Ullern",59.935814,10.662796
+1579221,"Nordheimbakken 9, Ullern",59.936677,10.664146
+1579222,"Nordheimbakken 10, Ullern",59.936401,10.663237
+1579223,"Nordheimbakken 11, Ullern",59.937032,10.66445
+1579224,"Nordheimbakken 12, Ullern",59.936677,10.663412
+1579225,"Nordheimbakken 13A, Ullern",59.937196,10.664959
+1579226,"Nordheimbakken 13B, Ullern",59.937121,10.665242
+1579227,"Nordheimbakken 14, Ullern",59.936909,10.663549
+1579228,"Nordheimbakken 28A, Ullern",59.939074,10.668141
+1579229,"Nordheimbakken 29, Ullern",59.939184,10.669014
+1579230,"Nordheimbakken 30, Ullern",59.939415,10.668489
+1579231,"Nordheimbakken 31, Ullern",59.939444,10.66901
+1579232,"Nordheimbakken 32, Ullern",59.939588,10.668283
+1579233,"Nordheimbakken 33, Ullern",59.939602,10.669322
+1579235,"Nordheimbakken 22B, Ullern",59.93834,10.66754
+1579236,"Nordheimbakken 22C, Ullern",59.938434,10.667205
+1579237,"Nordheimbakken 23, Ullern",59.938519,10.668355
+1579238,"Nordheimbakken 24, Ullern",59.938664,10.667539
+1579239,"Nordheimbakken 24B, Ullern",59.938702,10.667326
+1579241,"Nordheimbakken 27, Ullern",59.938967,10.668644
+1579242,"Nordheimbakken 18, Ullern",59.937428,10.664466
+1579243,"Nordheimbakken 25A, Ullern",59.938679,10.668434
+1579244,"Nordheimbakken 25B, Ullern",59.938678,10.668542
+1579245,"Telesvingen 4, Ullern",59.938855,10.667639
+1588751,"Skjerstadveien 1, Røa",59.944182,10.665112
+1588752,"Skjerstadveien 2A, Røa",59.94304,10.665914
+1588753,"Skjerstadveien 2B, Røa",59.943131,10.665847
+1588754,"Skjerstadveien 2C, Røa",59.943222,10.66578
+1588761,"Skjerstadveien 7, Røa",59.94454,10.663806
+1588762,"Skjerstadveien 8, Røa",59.944104,10.66416
+1588763,"Skjerstadveien 10, Røa",59.944226,10.663736
+1588764,"Skjerstadveien 12, Røa",59.944382,10.663476
+1588767,"Skjerstadveien 2D, Røa",59.943295,10.665659
+1588768,"Skjerstadveien 3, Røa",59.944305,10.664653
+1588769,"Skjerstadveien 4A, Røa",59.943521,10.665545
+1588770,"Skjerstadveien 4B, Røa",59.943603,10.665477
+1588771,"Skjerstadveien 4C, Røa",59.943675,10.665409
+1588772,"Skjerstadveien 4D, Røa",59.943748,10.665323
+1588773,"Skjerstadveien 5, Røa",59.944427,10.66423
+1588774,"Skjerstadveien 6, Røa",59.943974,10.664547
+1590163,"Smithsvingen 6, Ullern",59.939668,10.666927
+1590164,"Smithsvingen 8, Ullern",59.939596,10.666279
+1590165,"Smithsvingen 10, Ullern",59.939394,10.665928
+1590166,"Smithsvingen 12, Ullern",59.939255,10.665794
+1590167,"Smithsvingen 14, Ullern",59.938933,10.665422
+1590168,"Smithsvingen 15, Ullern",59.939505,10.664896
+1590178,"Smithsvingen 2, Ullern",59.939629,10.667927
+1591506,"Sondrevegen 6A, Ullern",59.934764,10.663824
+1591507,"Sondrevegen 7, Ullern",59.935324,10.665331
+1591516,"Sondrevegen 13A, Ullern",59.936729,10.668123
+1591517,"Sondrevegen 14A, Ullern",59.935322,10.665959
+1591518,"Sondrevegen 14B, Ullern",59.935062,10.666176
+1591519,"Sondrevegen 16, Ullern",59.936153,10.667198
+1591520,"Sondrevegen 17, Ullern",59.937195,10.669362
+1591521,"Sondrevegen 18, Ullern",59.936299,10.66776
+1591522,"Sondrevegen 19, Ullern",59.93737,10.669711
+1591523,"Sondrevegen 20, Ullern",59.936373,10.668283
+1591524,"Sondrevegen 8A, Ullern",59.934852,10.664385
+1591525,"Sondrevegen 8B, Ullern",59.934869,10.664502
+1591526,"Sondrevegen 9, Ullern",59.935926,10.665969
+1591527,"Sondrevegen 11, Ullern",59.936607,10.667561
+1591528,"Sondrevegen 11B, Ullern",59.936632,10.667705
+1591529,"Sondrevegen 12, Ullern",59.935098,10.665444
+1591530,"Sondrevegen 12B, Ullern",59.934826,10.665628
+1591531,"Sondrevegen 30, Ullern",59.937414,10.670483
+1591532,"Sondrevegen 32, Ullern",59.937699,10.670712
+1591533,"Sondrevegen 34, Ullern",59.937973,10.670994
+1591534,"Sondrevegen 36, Ullern",59.93816,10.671147
+1591535,"Sondrevegen 38, Ullern",59.938186,10.671202
+1591539,"Sondrevegen 21, Ullern",59.937599,10.670062
+1591540,"Sondrevegen 22, Ullern",59.936494,10.6687
+1591541,"Sondrevegen 23, Ullern",59.937883,10.670309
+1591542,"Sondrevegen 24, Ullern",59.936702,10.669301
+1591543,"Sondrevegen 25, Ullern",59.938025,10.67046
+1591544,"Sondrevegen 27, Ullern",59.938185,10.670611
+1591545,"Sondrevegen 28, Ullern",59.937185,10.670131
+1591546,"Sondrevegen 29, Ullern",59.938488,10.670787
+1594884,"Husebygrenda 22, Røa",59.942566,10.664315
+1594885,"Husebygrenda 26, Røa",59.942811,10.663433
+1594886,"Husebygrenda 28, Røa",59.94301,10.66316
+1594887,"Sørkedalsveien 134, Røa",59.94209,10.664044
+1594888,"Sørkedalsveien 135, Røa",59.943196,10.662902
+1594889,"Sørkedalsveien 137, Røa",59.943369,10.662637
+1594890,"Sørkedalsveien 139, Røa",59.943543,10.662359
+1594897,"Sørkedalsveien 106, Ullern",59.941488,10.671457
+1594898,"Sørkedalsveien 110, Ullern",59.940458,10.671978
+1594905,"Sørkedalsveien 143, Røa",59.945263,10.658326
+1594922,"Husebygrenda 24, Røa",59.942649,10.663731
+1595560,"Telesvingen 9, Ullern",59.93881,10.666203
+1595567,"Telesvingen 1, Ullern",59.939201,10.667673
+1595568,"Telesvingen 3, Ullern",59.939272,10.667003
+1595569,"Telesvingen 10, Ullern",59.938676,10.666573
+1595570,"Telesvingen 12, Ullern",59.938599,10.66698
+1595571,"Telesvingen 5, Ullern",59.939178,10.666651
+1595572,"Telesvingen 14, Ullern",59.938463,10.666383
+1595573,"Telesvingen 7, Ullern",59.938987,10.666105
+1597231,"Torjusbakken 1, Ullern",59.938897,10.664704
+1597232,"Torjusbakken 2A, Ullern",59.938508,10.664219
+1597233,"Torjusbakken 2B, Ullern",59.938474,10.664092
+1597234,"Torjusbakken 3, Ullern",59.938736,10.66398
+1597235,"Torjusbakken 5, Ullern",59.938573,10.663363
+1597236,"Torjusbakken 7, Ullern",59.93848,10.662893
+1597252,"Torjusbakken 8, Ullern",59.938041,10.662818
+1597253,"Torjusbakken 9, Ullern",59.937621,10.661186
+1597254,"Torjusbakken 10, Ullern",59.93784,10.662396
+1597255,"Torjusbakken 12, Ullern",59.937585,10.6619
+1597256,"Torjusbakken 14, Ullern",59.937365,10.661567
+1597257,"Torjusbakken 16, Ullern",59.937162,10.661288
+1601765,"Sondrevegen 15B, Ullern",59.936941,10.668794
+1601767,"Sondrevegen 15A, Ullern",59.936908,10.668614
+1601769,"Sondrevegen 15C, Ullern",59.936966,10.668975
+1603225,"Øvre Smestadvei 42D, Røa",59.945732,10.663994
+1603226,"Øvre Smestadvei 43B, Røa",59.946029,10.664333
+1603227,"Øvre Smestadvei 43C, Røa",59.946202,10.66448
+1603228,"Øvre Smestadvei 44A, Røa",59.9454,10.66392
+1603229,"Øvre Smestadvei 44B, Røa",59.945273,10.664093
+1603230,"Øvre Smestadvei 37A, Røa",59.945922,10.665925
+1603231,"Øvre Smestadvei 37B, Røa",59.94605,10.666427
+1603391,"Øvre Smestadvei 3B, Røa",59.942674,10.672842
+1603392,"Øvre Smestadvei 4, Røa",59.942393,10.672308
+1603393,"Øvre Smestadvei 5, Røa",59.943208,10.672511
+1603394,"Øvre Smestadvei 6A, Røa",59.942754,10.672219
+1603395,"Øvre Smestadvei 6B, Røa",59.942927,10.672049
+1603396,"Øvre Smestadvei 7, Røa",59.943401,10.672162
+1603397,"Øvre Smestadvei 8, Røa",59.943031,10.671607
+1603398,"Øvre Smestadvei 9, Røa",59.943604,10.671761
+1603404,"Øvre Smestadvei 3, Røa",59.942829,10.672688
+1603405,"Øvre Smestadvei 13, Røa",59.944009,10.670976
+1603406,"Øvre Smestadvei 13B, Røa",59.944071,10.671032
+1603407,"Øvre Smestadvei 14A, Røa",59.943462,10.670178
+1603408,"Øvre Smestadvei 14B, Røa",59.943259,10.669935
+1603409,"Øvre Smestadvei 15, Røa",59.943973,10.67024
+1603410,"Øvre Smestadvei 15B, Røa",59.944221,10.670557
+1603411,"Øvre Smestadvei 16A, Røa",59.943743,10.670013
+1603412,"Øvre Smestadvei 16B, Røa",59.943355,10.669457
+1603413,"Øvre Smestadvei 10A, Røa",59.943241,10.671349
+1603414,"Øvre Smestadvei 10B, Røa",59.943154,10.671129
+1603415,"Øvre Smestadvei 11, Røa",59.943771,10.67134
+1603416,"Øvre Smestadvei 11B, Røa",59.943585,10.671151
+1603417,"Øvre Smestadvei 12A, Røa",59.943091,10.67041
+1603418,"Øvre Smestadvei 12B, Røa",59.943384,10.671005
+1603419,"Øvre Smestadvei 12C, Røa",59.943446,10.670786
+1603420,"Øvre Smestadvei 12D, Røa",59.943285,10.670692
+1603421,"Øvre Smestadvei 22B, Røa",59.944139,10.668512
+1603422,"Øvre Smestadvei 22D, Røa",59.944096,10.669064
+1603423,"Øvre Smestadvei 23, Røa",59.944708,10.669271
+1603424,"Øvre Smestadvei 21F, Røa",59.944712,10.668374
+1603425,"Øvre Smestadvei 24, Røa",59.943918,10.668232
+1603426,"Øvre Smestadvei 24B, Røa",59.944285,10.668191
+1603427,"Øvre Smestadvei 26, Røa",59.944095,10.667722
+1603428,"Øvre Smestadvei 26B, Røa",59.944559,10.667262
+1603429,"Øvre Smestadvei 16C, Røa",59.943593,10.669755
+1603430,"Øvre Smestadvei 18B, Røa",59.943841,10.669374
+1603431,"Øvre Smestadvei 19A, Røa",59.944457,10.670193
+1603432,"Øvre Smestadvei 20A, Røa",59.943648,10.669024
+1603433,"Øvre Smestadvei 19D, Røa",59.944565,10.669661
+1603434,"Øvre Smestadvei 21C, Røa",59.944492,10.668977
+1603435,"Øvre Smestadvei 20C, Røa",59.943788,10.668601
+1603436,"Øvre Smestadvei 28C, Røa",59.94476,10.666985
+1603437,"Øvre Smestadvei 28D, Røa",59.944792,10.666593
+1603438,"Øvre Smestadvei 29, Røa",59.945152,10.667936
+1603439,"Øvre Smestadvei 29B, Røa",59.945362,10.666226
+1603440,"Øvre Smestadvei 30A, Røa",59.944393,10.666895
+1603441,"Øvre Smestadvei 30B, Røa",59.945098,10.665857
+1603442,"Øvre Smestadvei 30C, Røa",59.94417,10.666795
+1603443,"Øvre Smestadvei 26C, Røa",59.943888,10.667729
+1603444,"Øvre Smestadvei 26D, Røa",59.943981,10.667501
+1603445,"Øvre Smestadvei 26E, Røa",59.944528,10.6676
+1603446,"Øvre Smestadvei 27, Røa",59.945069,10.668489
+1603447,"Øvre Smestadvei 27B, Røa",59.945173,10.666988
+1603448,"Øvre Smestadvei 27C, Røa",59.945069,10.667431
+1603449,"Øvre Smestadvei 27D, Røa",59.945187,10.668708
+1603450,"Øvre Smestadvei 28, Røa",59.944233,10.667442
+1603451,"Øvre Smestadvei 34B, Røa",59.944588,10.665706
+1603452,"Øvre Smestadvei 34C, Røa",59.944503,10.666006
+1603453,"Øvre Smestadvei 35, Røa",59.945655,10.666547
+1603454,"Øvre Smestadvei 35B, Røa",59.945916,10.666805
+1603455,"Øvre Smestadvei 35C, Røa",59.945884,10.666893
+1603456,"Øvre Smestadvei 35D, Røa",59.945857,10.667014
+1603457,"Øvre Smestadvei 35E, Røa",59.945829,10.667107
+1603458,"Øvre Smestadvei 36A, Røa",59.944813,10.66561
+1603459,"Øvre Smestadvei 30D, Røa",59.944226,10.666636
+1603460,"Øvre Smestadvei 31A, Røa",59.945346,10.667516
+1603461,"Øvre Smestadvei 31B, Røa",59.945629,10.667906
+1603462,"Øvre Smestadvei 32A, Røa",59.944524,10.66649
+1603463,"Øvre Smestadvei 32B, Røa",59.944355,10.666374
+1603464,"Øvre Smestadvei 33A, Røa",59.945523,10.667042
+1603465,"Øvre Smestadvei 33B, Røa",59.945787,10.667413
+1603466,"Øvre Smestadvei 34A, Røa",59.94471,10.665945
+1603467,"Øvre Smestadvei 36B, Røa",59.944896,10.665435
+1603477,"Øvre Smestadvei 50E, Røa",59.945505,10.662096
+1603478,"Øvre Smestadvei 51A, Røa",59.94633,10.661425
+1603479,"Øvre Smestadvei 51B, Røa",59.946526,10.66156
+1603480,"Øvre Smestadvei 51C, Røa",59.946453,10.661664
+1603481,"Øvre Smestadvei 51D, Røa",59.94638,10.661767
+1603482,"Øvre Smestadvei 52, Røa",59.945735,10.661628
+1603483,"Øvre Smestadvei 54A, Røa",59.946027,10.661231
+1603484,"Øvre Smestadvei 54B, Røa",59.945981,10.66079
+1603485,"Øvre Smestadvei 46, Røa",59.945526,10.663228
+1603486,"Øvre Smestadvei 47, Røa",59.946182,10.663942
+1603487,"Øvre Smestadvei 47B, Røa",59.94634,10.664236
+1603488,"Øvre Smestadvei 47C, Røa",59.946402,10.664275
+1603489,"Øvre Smestadvei 47D, Røa",59.946473,10.66435
+1603490,"Øvre Smestadvei 47E, Røa",59.946544,10.664389
+1603499,"Øvre Smestadvei 56A, Røa",59.946195,10.66072
+1603500,"Øvre Smestadvei 56B, Røa",59.946322,10.660637
+1603501,"Øvre Smestadvei 56D, Røa",59.946243,10.660454
+1603502,"Øvre Smestadvei 58, Røa",59.946443,10.660303
+1603503,"Øvre Smestadvei 58B, Røa",59.946662,10.660009
+1607523,"Øvre Smestadvei 30E, Røa",59.944923,10.666134
+1607871,"Øvre Smestadvei 25A, Røa",59.944835,10.668851
+1607888,"Øvre Smestadvei 25D, Røa",59.945074,10.669114
+1607890,"Øvre Smestadvei 25F, Røa",59.945004,10.669003
+1607891,"Øvre Smestadvei 25E, Røa",59.945018,10.66929
+1607893,"Øvre Smestadvei 25G, Røa",59.944948,10.669197
+1608408,"Øvre Smestadvei 53A, Røa",59.946523,10.661058
+1608411,"Øvre Smestadvei 53B, Røa",59.946655,10.661316
+1609652,"Øvre Smestadvei 25B, Røa",59.944939,10.667728
+1609653,"Øvre Smestadvei 25C, Røa",59.944793,10.6679
+1613335,"Hemmestveitbakken 10C, Ullern",59.93666,10.662623
+1613336,"Hemmestveitbakken 10B, Ullern",59.936657,10.66291
+1613338,"Hemmestveitbakken 10A, Ullern",59.936821,10.662649
+1614284,"Øvre Smestadvei 2B, Røa",59.942039,10.672362
+1614287,"Øvre Smestadvei 2A, Røa",59.942113,10.672812
+1614294,"Torjusbakken 15B, Ullern",59.937413,10.659887
+1614296,"Torjusbakken 17C, Ullern",59.93774,10.659581
+1614297,"Torjusbakken 17B, Ullern",59.93764,10.659666
+1614298,"Torjusbakken 17E, Ullern",59.937958,10.659395
+1614299,"Torjusbakken 17D, Ullern",59.937849,10.659479
+1614317,"Torjusbakken 17A, Ullern",59.93754,10.659768
+1616311,"Morgedalsvegen 14B, Ullern",59.937513,10.66766
+1619541,"Torjusbakken 15A, Ullern",59.937267,10.660041
+1620324,"Smithsvingen 4A, Ullern",59.939644,10.667427
+1620326,"Smithsvingen 4B, Ullern",59.939645,10.667319
+1620328,"Hemmestveitbakken 15C, Ullern",59.936716,10.661749
+1620330,"Hemmestveitbakken 15B, Ullern",59.936679,10.661819
+1620332,"Hemmestveitbakken 15A, Ullern",59.936625,10.661888
+1620334,"Hemmestveitbakken 15D, Ullern",59.936762,10.661662
+1623112,"Nordheimbakken 15A, Ullern",59.937784,10.666832
+1623116,"Nordheimbakken 15C, Ullern",59.937621,10.666896
+1623118,"Nordheimbakken 15B, Ullern",59.937597,10.66668
+1623215,"Torjusbakken 19F, Ullern",59.937455,10.65869
+1623216,"Torjusbakken 19E, Ullern",59.937347,10.65872
+1623217,"Torjusbakken 19H, Ullern",59.937672,10.658593
+1623218,"Torjusbakken 19G, Ullern",59.937564,10.658624
+1623219,"Torjusbakken 20B, Ullern",59.936616,10.661136
+1623220,"Torjusbakken 19J, Ullern",59.937771,10.658544
+1623221,"Torjusbakken 20D, Ullern",59.936649,10.66069
+1623222,"Torjusbakken 20C, Ullern",59.936637,10.660922
+1623227,"Torjusbakken 19B, Ullern",59.936986,10.658827
+1623229,"Torjusbakken 19D, Ullern",59.937229,10.658786
+1623230,"Torjusbakken 19C, Ullern",59.937112,10.658798
+1623231,"Sondrevegen 1F, Ullern",59.935639,10.661731
+1623232,"Sondrevegen 1E, Ullern",59.935575,10.661746
+1623233,"Sondrevegen 2D, Ullern",59.935815,10.659825
+1623234,"Sondrevegen 2C, Ullern",59.935777,10.660038
+1623235,"Sondrevegen 2F, Ullern",59.935866,10.659362
+1623236,"Sondrevegen 2E, Ullern",59.935845,10.659594
+1623237,"Sondrevegen 2J, Ullern",59.934851,10.660063
+1623238,"Sondrevegen 2H, Ullern",59.934752,10.66013
+1623239,"Torjusbakken 20F, Ullern",59.93669,10.660244
+1623240,"Torjusbakken 20E, Ullern",59.936669,10.660458
+1623241,"Torjusbakken 20H, Ullern",59.936723,10.659781
+1623242,"Torjusbakken 20G, Ullern",59.936702,10.660012
+1623243,"Sondrevegen 1B, Ullern",59.935305,10.661858
+1623244,"Torjusbakken 20J, Ullern",59.936735,10.659549
+1623245,"Sondrevegen 1D, Ullern",59.935485,10.661795
+1623246,"Sondrevegen 1C, Ullern",59.935395,10.661826
+1623247,"Sondrevegen 3B, Ullern",59.934972,10.661197
+1623248,"Sondrevegen 3H, Ullern",59.935113,10.662796
+1623249,"Sondrevegen 3D, Ullern",59.935019,10.661682
+1623250,"Sondrevegen 3C, Ullern",59.934987,10.66143
+1623251,"Sondrevegen 3G, Ullern",59.93509,10.662491
+1623252,"Sondrevegen 3F, Ullern",59.935066,10.662239
+1623253,"Sondrevegen 3K, Ullern",59.935145,10.663331
+1623254,"Sondrevegen 3J, Ullern",59.935137,10.663012
+1623255,"Sondrevegen 2L, Ullern",59.935069,10.659913
+1623256,"Sondrevegen 2K, Ullern",59.93496,10.659979
+1623257,"Sondrevegen 2N, Ullern",59.935295,10.659745
+1623258,"Sondrevegen 2M, Ullern",59.935178,10.659829
+1623259,"Sondrevegen 2G, Ullern",59.934634,10.660195
+1623260,"Sondrevegen 2A, Ullern",59.935717,10.660482
+1623261,"Sondrevegen 3E, Ullern",59.935042,10.662005
+1623262,"Sondrevegen 3A, Ullern",59.93498,10.661233
+1623263,"Sondrevegen 4H, Ullern",59.934656,10.66272
+1623264,"Sondrevegen 4A, Ullern",59.934459,10.660562
+1623265,"Sondrevegen 1A, Ullern",59.935242,10.661872
+1623266,"Sondrevegen 4B, Ullern",59.934455,10.660831
+1623268,"Sondrevegen 2B, Ullern",59.935747,10.660269
+1623271,"Sondrevegen 4D, Ullern",59.934459,10.66126
+1623272,"Sondrevegen 4C, Ullern",59.934444,10.661045
+1623273,"Sondrevegen 4F, Ullern",59.934498,10.661763
+1623274,"Sondrevegen 4E, Ullern",59.934474,10.661476
+1623275,"Sondrevegen 4J, Ullern",59.93468,10.662936
+1623276,"Sondrevegen 4G, Ullern",59.934513,10.661925
+1623277,"Sondrevegen 4L, Ullern",59.93472,10.663385
+1623278,"Sondrevegen 4K, Ullern",59.934704,10.663188
+1623296,"Torjusbakken 20A, Ullern",59.936606,10.661207
+1623309,"Torjusbakken 19A, Ullern",59.936895,10.658912
+1624575,"Sondrevegen 26B, Ullern",59.93684,10.66972
+1624576,"Sondrevegen 26A, Ullern",59.936804,10.669682
+1624578,"Sondrevegen 26C, Ullern",59.936866,10.669775
+1624942,"Øvre Smestadvei 14C, Røa",59.943566,10.670488
+1625374,"Mikjelsbakken 7B, Ullern",59.938224,10.660429
+1625376,"Mikjelsbakken 7A, Ullern",59.93824,10.660537
+1625380,"Mikjelsbakken 7C, Ullern",59.938189,10.660284
+1625723,"Øvre Smestadvei 49B, Røa",59.946269,10.661959
+1625724,"Øvre Smestadvei 49A, Røa",59.946162,10.661936
+1625834,"Mikjelsbakken 1A, Ullern",59.938398,10.662281
+1625840,"Mikjelsbakken 1B, Ullern",59.938373,10.662101
+1626265,"Øvre Smestadvei 41B, Røa",59.945813,10.665409
+1626266,"Øvre Smestadvei 41A, Røa",59.945605,10.665542
+1627578,"Øvre Smestadvei 41D, Røa",59.945878,10.665233
+1627580,"Øvre Smestadvei 41C, Røa",59.945841,10.665321
+1627991,"Telesvingen 6, Ullern",59.938965,10.667129
+1627997,"Telesvingen 8, Ullern",59.938967,10.666999
+1628777,"Øvre Smestadvei 39B, Røa",59.945935,10.665666
+1628778,"Øvre Smestadvei 39C, Røa",59.94616,10.665702
+1628779,"Øvre Smestadvei 38B, Røa",59.945061,10.664458
+1628780,"Øvre Smestadvei 38A, Røa",59.945047,10.664905
+1629822,"Morgedalsvegen 30B, Ullern",59.939577,10.669858
+1629824,"Morgedalsvegen 30A, Ullern",59.939558,10.669982
+1629825,"Morgedalsvegen 30C, Ullern",59.939597,10.669715
+1629959,"Øvre Smestadvei 48B, Røa",59.945729,10.663566
+1629960,"Øvre Smestadvei 48A, Røa",59.945867,10.663639
+1629977,"Øvre Smestadvei 48D, Røa",59.945903,10.66321
+1629978,"Øvre Smestadvei 48C, Røa",59.945796,10.663213
+1629980,"Øvre Smestadvei 48E, Røa",59.945954,10.663397
+1630568,"Morgedalsvegen 6A, Ullern",59.936132,10.664637
+1630571,"Morgedalsvegen 6B, Ullern",59.936241,10.664517
+1664561,"Telesvingen 2, Ullern",59.938845,10.6678
+1703234,"Morgedalsvegen 36, Røa",59.941526,10.669496
+1713403,"Morgedalsvegen 10C, Ullern",59.936656,10.664789
+1713404,"Morgedalsvegen 10B, Ullern",59.936605,10.665091
+1713405,"Morgedalsvegen 10A, Ullern",59.93672,10.665202
+1713407,"Morgedalsvegen 10F, Ullern",59.936914,10.665208
+1713408,"Morgedalsvegen 10E, Ullern",59.936866,10.664991
+1713409,"Morgedalsvegen 10D, Ullern",59.936771,10.664879
+1735403,"Øvre Smestadvei 21B, Røa",59.944296,10.6693
+1748820,"Øvre Smestadvei 50G, Røa",59.945273,10.662118
+1749240,"Øvre Smestadvei 50D, Røa",59.945392,10.661745
+1749241,"Øvre Smestadvei 50C, Røa",59.945527,10.661827
+1749242,"Øvre Smestadvei 50B, Røa",59.945628,10.662011
+1749244,"Øvre Smestadvei 50A, Røa",59.945741,10.662016
+1749256,"Øvre Smestadvei 50F, Røa",59.94528,10.661929
+1749494,"Morgedalsvegen 21A, Ullern",59.938244,10.669601
+1753473,"Hemmestveitbakken 6C, Ullern",59.937283,10.663481
+1753475,"Hemmestveitbakken 6B, Ullern",59.937372,10.663624
+1806016,"Øvre Smestadvei 18A, Røa",59.943854,10.669605
+1861873,"Morgedalsvegen 13B, Ullern",59.937137,10.668538
+1862067,"Morgedalsvegen 13C, Ullern",59.937207,10.668718
+1874916,"Nordheimbakken 28D, Ullern",59.939159,10.668215
+1874918,"Nordheimbakken 28C, Ullern",59.939193,10.66797
+1874919,"Nordheimbakken 28B, Ullern",59.939114,10.667924
+1881700,"Mikjelsbakken 2A, Ullern",59.93805,10.662031
+1927620,"Sondrevegen 13D, Ullern",59.936777,10.668416
+1927814,"Sondrevegen 13B, Ullern",59.936868,10.668077
+1927815,"Sondrevegen 13C, Ullern",59.936921,10.668278
+1963645,"Husebygrenda 21, Røa",59.94346,10.664258
+1989425,"Øvre Smestadvei 17C, Røa",59.944136,10.670001
+1989428,"Øvre Smestadvei 17B, Røa",59.944186,10.669869
+1989429,"Øvre Smestadvei 17A, Røa",59.944224,10.669767
+2015614,"Øvre Smestadvei 24C, Røa",59.944392,10.6682
+2015615,"Øvre Smestadvei 24D, Røa",59.944417,10.667987
+2025514,"Øvre Smestadvei 39D, Røa",59.946215,10.665599
+2054368,"Øvre Smestadvei 37C, Røa",59.946079,10.666298
+2054397,"Øvre Smestadvei 37D, Røa",59.946111,10.666167
+2054963,"Hemmestveitbakken 13B, Ullern",59.936904,10.662075
+2054964,"Hemmestveitbakken 13C, Ullern",59.936955,10.661978
+2054965,"Hemmestveitbakken 13A, Ullern",59.936871,10.662131
+2054966,"Hemmestveitbakken 13D, Ullern",59.936995,10.661888
+2056239,"Øvre Smestadvei 19C, Røa",59.944554,10.669967
+2056375,"Øvre Smestadvei 19E, Røa",59.944581,10.669653
+2056377,"Øvre Smestadvei 19B, Røa",59.944457,10.670445
+2063979,"Mikjelsbakken 5B, Ullern",59.938304,10.661102
+2063982,"Mikjelsbakken 5A, Ullern",59.938244,10.661165
+2063997,"Sondrevegen 10C, Ullern",59.934949,10.66517
+2064001,"Sondrevegen 10B, Ullern",59.934923,10.664888
+2064010,"Sondrevegen 10A, Ullern",59.934901,10.664704
+2064033,"Mikjelsbakken 5D, Ullern",59.93818,10.661015
+2064034,"Mikjelsbakken 5C, Ullern",59.938294,10.660921
+2075342,"Øvre Smestadvei 42B, Røa",59.945551,10.664488
+2075343,"Øvre Smestadvei 42A, Røa",59.945606,10.664536
+2075358,"Øvre Smestadvei 42C, Røa",59.945492,10.66445
+2076781,"Øvre Smestadvei 41G, Røa",59.946067,10.664938
+2076850,"Øvre Smestadvei 41F, Røa",59.945957,10.664799
+2078107,"Sondrevegen 5D, Ullern",59.935238,10.664349
+2078112,"Sondrevegen 5C, Ullern",59.935249,10.664194
+2078114,"Sondrevegen 5E, Ullern",59.935222,10.664527
+2078116,"Sondrevegen 5B, Ullern",59.935269,10.663987
+2078117,"Sondrevegen 5A, Ullern",59.935287,10.663772
+2082671,"Øvre Smestadvei 21D, Røa",59.944574,10.668652
+2082672,"Øvre Smestadvei 21E, Røa",59.9446,10.668571
+2085294,"Telesvingen 11, Ullern",59.938725,10.666122
+2096465,"Øvre Smestadvei 45E, Røa",59.94637,10.664526
+2096466,"Øvre Smestadvei 45F, Røa",59.94641,10.664612
+2096474,"Øvre Smestadvei 45H, Røa",59.946518,10.664884
+2096476,"Øvre Smestadvei 45G, Røa",59.946506,10.664996
+2096487,"Øvre Smestadvei 45B, Røa",59.94642,10.665157
+2096488,"Øvre Smestadvei 45A, Røa",59.946412,10.66526
+2096583,"Øvre Smestadvei 45C, Røa",59.946242,10.665191
+2096584,"Øvre Smestadvei 45D, Røa",59.946205,10.665105
+2101146,"Sondrevegen 6B, Ullern",59.934798,10.664048
+2101443,"Sondrevegen 6C, Ullern",59.934816,10.664165
+2165599,"Øvre Smestadvei 40B, Røa",59.945286,10.665236
+2165613,"Øvre Smestadvei 40A, Røa",59.945376,10.665319
+2181724,"Øvre Smestadvei 40C, Røa",59.94523,10.665158
+2181725,"Øvre Smestadvei 40E, Røa",59.945486,10.664865
+2181726,"Øvre Smestadvei 40D, Røa",59.945393,10.664627
+2194401,"Torjusbakken 11, Ullern",59.937453,10.660712
+2235331,"Hemmestveitbakken 5, Ullern",59.93787,10.663534
+2257116,"Øvre Smestadvei 29C, Røa",59.945319,10.666569
+2265816,"Øvre Smestadvei 29D, Røa",59.945293,10.666685
+2329138,"Øvre Smestadvei 20B, Røa",59.943627,10.669211
+2329166,"Øvre Smestadvei 20D, Røa",59.943615,10.668564
+2387435,"Husebygrenda 20, Røa",59.942719,10.66483
+2387436,"Torjusbakken 4A, Ullern",59.938408,10.663692
+2387437,"Torjusbakken 4B, Ullern",59.938382,10.663592
+2488029,"Øvre Smestadvei 41H, Røa",59.946056,10.665119
+2488030,"Øvre Smestadvei 41E, Røa",59.945829,10.664767
+2495055,"Øvre Smestadvei 1G, Røa",59.942493,10.67294
+2495057,"Øvre Smestadvei 1A, Røa",59.94201,10.673388
+2495058,"Øvre Smestadvei 1B, Røa",59.942009,10.673299
+2495059,"Øvre Smestadvei 1C, Røa",59.942072,10.673252
+2495060,"Øvre Smestadvei 1D, Røa",59.942137,10.673219
+2495061,"Øvre Smestadvei 1E, Røa",59.942169,10.673258
+2495062,"Øvre Smestadvei 1F, Røa",59.942102,10.673386
+2513577,"Nordheimbakken 18B, Ullern",59.937509,10.664563
+2513579,"Nordheimbakken 18A, Ullern",59.937486,10.664335
+2513585,"Nordheimbakken 18C, Ullern",59.937536,10.66472
+2545674,"Torjusbakken 6, Ullern",59.938248,10.663227

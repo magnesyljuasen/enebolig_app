@@ -1,0 +1,712 @@
+,Navn,Long,Lat
+1172134,"Balders vei 17, Sandar",59.14384,10.228818
+1172135,"Balders vei 15, Sandar",59.143656,10.228266
+1172137,"Balders vei 13, Sandar",59.143454,10.227734
+1172138,"Balders vei 12, Sandar",59.143676,10.227078
+1172146,"Balders vei 8, Sandar",59.143362,10.226225
+1172148,"Balders vei 7B, Sandar",59.142791,10.225709
+1172149,"Balders vei 7A, Sandar",59.142758,10.225538
+1172151,"Balders vei 6, Sandar",59.143185,10.225663
+1172153,"Balders vei 11, Sandar",59.143283,10.227313
+1172154,"Balders vei 10, Sandar",59.143562,10.226782
+1172156,"Balders vei 9A, Sandar",59.143062,10.226531
+1172157,"Balders vei 9, Sandar",59.142948,10.226213
+1172400,"Balders vei 1, Sandar",59.142286,10.224135
+1172408,"Balders vei 5, Sandar",59.142582,10.225011
+1172410,"Balders vei 4, Sandar",59.142709,10.224205
+1172412,"Balders vei 3, Sandar",59.142431,10.224575
+1172414,"Balders vei 2, Sandar",59.142577,10.223787
+1172591,"Brydedammen 1, Sandar",59.131384,10.239027
+1172602,"Brydedammen 4, Sandar",59.130947,10.239311
+1172603,"Brydedammen 3A, Sandar",59.131238,10.238582
+1172604,"Brydedammen 3, Sandar",59.131061,10.238919
+1172605,"Brydedammen 2, Sandar",59.13121,10.23917
+1172606,"Brydedammen 6, Sandar",59.130746,10.239405
+1172607,"Brydedammen 5, Sandar",59.130205,10.238321
+1172671,"Brydedamveien 34, Sandar",59.133635,10.236557
+1172672,"Brydedamveien 26, Sandar",59.132203,10.237874
+1172673,"Brydedamveien 24, Sandar",59.131832,10.238098
+1172674,"Brydedamveien 22, Sandar",59.131773,10.238744
+1172675,"Brydedamveien 40, Sandar",59.134511,10.235995
+1172688,"Brydedamveien 11, Sandar",59.13201,10.239101
+1172689,"Brydedamveien 10, Sandar",59.131361,10.240512
+1172690,"Brydedamveien 9, Sandar",59.131731,10.239337
+1172691,"Brydedamveien 8, Sandar",59.131687,10.240406
+1172692,"Brydedamveien 16, Sandar",59.131358,10.239949
+1172693,"Brydedamveien 14, Sandar",59.131064,10.24032
+1172694,"Brydedamveien 13, Sandar",59.132294,10.238693
+1172695,"Brydedamveien 12, Sandar",59.13108,10.240693
+1172696,"Brydedammen 10, Sandar",59.130027,10.239215
+1172697,"Brydedammen 9, Sandar",59.130389,10.238852
+1172698,"Brydedammen 8, Sandar",59.130395,10.239372
+1172699,"Brydedammen 7, Sandar",59.13066,10.238833
+1172700,"Brydedamveien 7, Sandar",59.131631,10.239832
+1172701,"Brydedamveien 3, Sandar",59.13194,10.240952
+1172702,"Brydedamveien 1, Sandar",59.131367,10.241288
+1172703,"Brydedammen 11, Sandar",59.130084,10.238771
+1172880,"Brages vei 8, Sandar",59.142797,10.226959
+1172881,"Brages vei 6, Sandar",59.142648,10.226587
+1172903,"Mølleråsveien 13, Sandar",59.140472,10.224535
+1172940,"Mølleråsveien 9, Sandar",59.140235,10.224242
+1172941,"Mølleråsveien 8, Sandar",59.140375,10.223682
+1172942,"Mølleråsveien 7B, Sandar",59.139761,10.224355
+1172943,"Mølleråsveien 7, Sandar",59.139938,10.223967
+1172944,"Mølleråsveien 12, Sandar",59.141006,10.223609
+1172945,"Mølleråsveien 11, Sandar",59.140394,10.224191
+1172946,"Mølleråsveien 10, Sandar",59.140592,10.223629
+1172947,"Mølleråsveien 9B, Sandar",59.14009,10.22452
+1172948,"Mølleråsveien 3, Sandar",59.139021,10.223538
+1172949,"Mølleråsveien 1, Sandar",59.13931,10.222577
+1172952,"Mølleråsveien 6, Sandar",59.14008,10.223417
+1172953,"Mølleråsveien 5B, Sandar",59.139492,10.224228
+1172954,"Mølleråsveien 5, Sandar",59.139504,10.223748
+1173054,"Breidablikkveien 5, Sandar",59.139091,10.229621
+1173055,"Breidablikkveien 3, Sandar",59.138721,10.229627
+1173056,"Brages vei 17, Sandar",59.14294,10.229006
+1173057,"Brages vei 15, Sandar",59.142775,10.228374
+1173058,"Breidablikkveien 17, Sandar",59.141691,10.227177
+1173059,"Breidablikkveien 13, Sandar",59.140781,10.228218
+1173060,"Breidablikkveien 11, Sandar",59.140521,10.228581
+1173061,"Breidablikkveien 9, Sandar",59.140225,10.228957
+1173062,"Brages vei 9B, Sandar",59.1422,10.226483
+1173063,"Brages vei 9A, Sandar",59.142146,10.226534
+1173064,"Brages vei 8B, Sandar",59.143042,10.227467
+1173065,"Brages vei 14, Sandar",59.143673,10.229209
+1173066,"Brages vei 13, Sandar",59.142358,10.227502
+1173067,"Brages vei 12, Sandar",59.143421,10.22845
+1173068,"Brages vei 11, Sandar",59.142375,10.226979
+1173071,"Breidablikkveien 35, Sandar",59.145057,10.2226
+1173072,"Breidablikkveien 33, Sandar",59.144556,10.223299
+1173076,"Breidablikkveien 23, Sandar",59.143032,10.225184
+1173077,"Breidablikkveien 22, Sandar",59.142855,10.224634
+1173078,"Breidablikkveien 21, Sandar",59.14242,10.226037
+1173079,"Breidablikkveien 19, Sandar",59.141945,10.226841
+1173080,"Breidablikkveien 31, Sandar",59.144329,10.223605
+1173081,"Breidablikkveien 30, Sandar",59.144919,10.221965
+1173082,"Breidablikkveien 27, Sandar",59.143685,10.224281
+1173083,"Breidablikkveien 25, Sandar",59.143296,10.224881
+1174227,"Glenneveien 7, Sandar",59.132727,10.234742
+1174228,"Glenneveien 6, Sandar",59.13292,10.234242
+1174229,"Glenneveien 5, Sandar",59.132678,10.234251
+1174230,"Glenneveien 4, Sandar",59.132853,10.23382
+1174234,"Glenneveien 8, Sandar",59.132961,10.234698
+1174239,"Glenneveien 3, Sandar",59.132629,10.233845
+1174240,"Glenneveien 2, Sandar",59.132806,10.233484
+1174241,"Glenneveien 1, Sandar",59.13257,10.233522
+1174298,"Fjellheimveien 5, Sandar",59.13182,10.242013
+1174299,"Fjellheimveien 4A, Sandar",59.13133,10.241534
+1174300,"Fjellheimveien 3, Sandar",59.131617,10.241937
+1174301,"Fjellheimveien 2, Sandar",59.131133,10.241558
+1174302,"Fjellheimveien 10, Sandar",59.132083,10.241372
+1174303,"Fjellheimveien 8, Sandar",59.131786,10.241377
+1174304,"Fjellheimveien 6, Sandar",59.131558,10.241532
+1174309,"Fjellheimveien 1, Sandar",59.131416,10.242042
+1174321,"Fjellheimveien 36, Sandar",59.134146,10.239325
+1174322,"Fjellheimveien 35, Sandar",59.134736,10.23959
+1174323,"Fjellheimveien 34, Sandar",59.133884,10.239711
+1174324,"Fjellheimveien 32, Sandar",59.133675,10.239914
+1174326,"Fjellheimveien 42, Sandar",59.134785,10.238512
+1174327,"Fjellheimveien 40, Sandar",59.134571,10.238811
+1174328,"Fjellheimveien 38, Sandar",59.134312,10.239063
+1174531,"Friggs vei 7, Sandar",59.144135,10.222932
+1174532,"Friggs vei 5, Sandar",59.144018,10.222646
+1174533,"Friggs vei 4, Sandar",59.144245,10.222011
+1174534,"Friggs vei 3B, Sandar",59.143916,10.222242
+1174541,"Friggs vei 3A, Sandar",59.143893,10.222174
+1174542,"Friggs vei 2, Sandar",59.144089,10.221411
+1174543,"Friggs vei 1B, Sandar",59.143762,10.221749
+1174544,"Friggs vei 1A, Sandar",59.143736,10.221661
+1174664,"Frøyas vei 12, Sandar",59.145658,10.227394
+1174665,"Frøyas vei 10, Sandar",59.145014,10.226217
+1174666,"Frøyas vei 8, Sandar",59.144138,10.223878
+1174667,"Frøyas vei 7, Sandar",59.143352,10.222921
+1174668,"Frøyas vei 19, Sandar",59.144355,10.225693
+1174669,"Frøyas vei 17, Sandar",59.144135,10.225084
+1174670,"Frøyas vei 15, Sandar",59.143986,10.224651
+1174672,"Frøyas vei 14, Sandar",59.145703,10.227975
+1174677,"Frøyas vei 6, Sandar",59.143814,10.222957
+1174678,"Frøyas vei 5, Sandar",59.14319,10.222411
+1174679,"Frøyas vei 3, Sandar",59.142812,10.221781
+1174680,"Frøyas vei 2, Sandar",59.143226,10.221451
+1174689,"Frøyas vei 47, Sandar",59.146158,10.232411
+1174690,"Frøyas vei 33, Sandar",59.145481,10.229268
+1174691,"Frøyas vei 23, Sandar",59.144749,10.226679
+1174692,"Frøyas vei 21, Sandar",59.144526,10.226069
+1175120,"Gokstadveien 9, Sandar",59.134689,10.230514
+1175121,"Gokstadveien 8A, Sandar",59.135317,10.230641
+1175122,"Gokstadveien 8, Sandar",59.135137,10.230687
+1175123,"Gokstadveien 7, Sandar",59.13454,10.229996
+1175124,"Gokstadveien 16, Sandar",59.13564,10.232521
+1175125,"Gokstadveien 12, Sandar",59.135553,10.231784
+1175126,"Gokstadveien 11, Sandar",59.134774,10.230968
+1175127,"Gokstadveien 9A, Sandar",59.134582,10.230429
+1175128,"Gokstadveien 2, Sandar",59.134825,10.22951
+1175129,"Gokstadveien 1, Sandar",59.133801,10.22864
+1175132,"Gokstadveien 6, Sandar",59.135042,10.230299
+1175133,"Gokstadveien 5B, Sandar",59.134477,10.229698
+1175134,"Gokstadveien 5, Sandar",59.134363,10.229497
+1175135,"Gokstadveien 3, Sandar",59.134209,10.229129
+1175291,"Gokstadveien 23, Sandar",59.135666,10.233857
+1175292,"Gokstadveien 18A, Sandar",59.136249,10.233948
+1175293,"Gokstadveien 18, Sandar",59.135911,10.233354
+1175294,"Gokstadveien 17, Sandar",59.135217,10.23272
+1175295,"Gokstadveien 29, Sandar",59.136205,10.235731
+1175296,"Gokstadveien 27, Sandar",59.136132,10.235182
+1175297,"Gokstadveien 25A, Sandar",59.135979,10.234741
+1175298,"Gokstadveien 25, Sandar",59.135886,10.234289
+1176879,"Høyåsveien 12, Sandar",59.134877,10.234348
+1176880,"Høyåsveien 11, Sandar",59.134502,10.235556
+1176881,"Høyåsveien 10, Sandar",59.134822,10.233904
+1176882,"Høyåsveien 9, Sandar",59.134575,10.234128
+1176883,"Høyåsveien 17B, Sandar",59.135026,10.237586
+1176884,"Høyåsveien 17, Sandar",59.135017,10.236315
+1176885,"Høyåsveien 16, Sandar",59.135107,10.235429
+1176886,"Høyåsveien 13, Sandar",59.134679,10.235645
+1176887,"Høyåsveien 4, Sandar",59.134705,10.232666
+1176888,"Høyåsveien 3, Sandar",59.134467,10.232714
+1176889,"Høyåsveien 2, Sandar",59.134696,10.232166
+1176890,"Høyåsveien 1, Sandar",59.134356,10.232355
+1176891,"Høyåsveien 8, Sandar",59.134779,10.233472
+1176892,"Høyåsveien 7, Sandar",59.134514,10.23352
+1176893,"Høyåsveien 6, Sandar",59.134835,10.233039
+1176894,"Høyåsveien 5, Sandar",59.134494,10.233111
+1176895,"Høyåsveien 24, Sandar",59.135472,10.238913
+1176896,"Høyåsveien 23, Sandar",59.135092,10.239331
+1176897,"Høyåsveien 22B, Sandar",59.135805,10.237272
+1176898,"Høyåsveien 22A, Sandar",59.135462,10.23713
+1176899,"Høyåsveien 24D, Sandar",59.135742,10.238853
+1176900,"Høyåsveien 24C, Sandar",59.135665,10.238396
+1176901,"Høyåsveien 24B, Sandar",59.135376,10.237599
+1176902,"Høyåsveien 24A, Sandar",59.135364,10.23817
+1176903,"Høyåsveien 19B, Sandar",59.134401,10.238175
+1176904,"Høyåsveien 19A, Sandar",59.134728,10.237768
+1176905,"Høyåsveien 19, Sandar",59.13499,10.23809
+1176906,"Høyåsveien 18, Sandar",59.135257,10.236004
+1176907,"Høyåsveien 22, Sandar",59.135877,10.236935
+1176908,"Høyåsveien 21, Sandar",59.135018,10.238927
+1176909,"Høyåsveien 20A, Sandar",59.135502,10.236677
+1176910,"Høyåsveien 20, Sandar",59.13536,10.23648
+1177004,"Iduns vei 13, Sandar",59.147362,10.222541
+1177005,"Iduns vei 12, Sandar",59.147017,10.221385
+1177006,"Iduns vei 11, Sandar",59.14707,10.222745
+1177007,"Iduns vei 10, Sandar",59.146337,10.221234
+1177008,"Iduns vei 20, Sandar",59.147565,10.221343
+1177009,"Iduns vei 18, Sandar",59.147399,10.221879
+1177010,"Iduns vei 16, Sandar",59.147137,10.221975
+1177011,"Iduns vei 14, Sandar",59.14722,10.220806
+1177012,"Iduns vei 3, Sandar",59.14621,10.222984
+1177013,"Iduns vei 2B, Sandar",59.145956,10.222509
+1177014,"Iduns vei 2, Sandar",59.145733,10.222629
+1177015,"Iduns vei 1, Sandar",59.145959,10.223222
+1177016,"Iduns vei 9, Sandar",59.146798,10.22276
+1177017,"Iduns vei 7, Sandar",59.146536,10.222766
+1177018,"Iduns vei 6, Sandar",59.146687,10.222098
+1177020,"Iduns vei 5, Sandar",59.146413,10.223703
+1177022,"Iduns vei 26, Sandar",59.148059,10.220997
+1177023,"Iduns vei 24, Sandar",59.147759,10.220808
+1177024,"Iduns vei 22, Sandar",59.147477,10.220542
+1177069,"Høyåsveien 29, Sandar",59.136152,10.239155
+1177070,"Høyåsveien 27, Sandar",59.135611,10.23939
+1177106,"Høyåsveien 24E, Sandar",59.135673,10.237919
+1178954,"Liveien 12, Sandar",59.13369,10.235511
+1178955,"Liveien 10, Sandar",59.133908,10.235489
+1178956,"Liveien 8B, Sandar",59.13416,10.235199
+1178957,"Liveien 8, Sandar",59.134149,10.235635
+1178958,"Liveien 20, Sandar",59.132551,10.235295
+1178959,"Liveien 18, Sandar",59.13283,10.235235
+1178960,"Liveien 16, Sandar",59.133127,10.235211
+1178961,"Liveien 14, Sandar",59.133341,10.235341
+1178962,"Liveien 1, Sandar",59.134411,10.234233
+1178966,"Liveien 6, Sandar",59.134344,10.235622
+1178967,"Liveien 4, Sandar",59.134375,10.234852
+1178968,"Liveien 3, Sandar",59.134211,10.234516
+1178969,"Liveien 2, Sandar",59.134639,10.234665
+1178979,"Liveien 26A, Sandar",59.131788,10.235525
+1178980,"Liveien 24, Sandar",59.132092,10.235418
+1178981,"Liveien 22, Sandar",59.132292,10.235367
+1179039,"Presthagan 8, Sandar",59.133572,10.234937
+1179040,"Presthagan 7, Sandar",59.133355,10.234835
+1179041,"Presthagan 6, Sandar",59.133513,10.234264
+1179046,"Presthagan 1, Sandar",59.133181,10.233291
+1179050,"Presthagan 5, Sandar",59.133293,10.234315
+1179051,"Presthagan 4, Sandar",59.133446,10.233754
+1179052,"Presthagan 3, Sandar",59.133233,10.233796
+1179053,"Presthagan 2, Sandar",59.133388,10.233228
+1179808,"Møllebakken 10, Sandar",59.138514,10.224436
+1179809,"Møllebakken 9, Sandar",59.138543,10.224018
+1179814,"Møllebakken 2, Sandar",59.139582,10.225874
+1179815,"Møllebakken 1, Sandar",59.139763,10.224858
+1179816,"Parkveien 40, Sandar",59.13234,10.234833
+1179817,"Parkveien 38, Sandar",59.132299,10.234412
+1179818,"Møllebakken 7, Sandar",59.139033,10.224203
+1179819,"Møllebakken 5, Sandar",59.139223,10.224346
+1179820,"Møllebakken 4, Sandar",59.139321,10.225482
+1179821,"Møllebakken 3, Sandar",59.139444,10.224916
+1179842,"Parkveien 32, Sandar",59.132151,10.233009
+1179843,"Parkveien 31, Sandar",59.131914,10.233332
+1179846,"Parkveien 36, Sandar",59.132242,10.233833
+1179847,"Parkveien 35, Sandar",59.132024,10.234284
+1179848,"Parkveien 34, Sandar",59.132191,10.233457
+1179849,"Parkveien 33, Sandar",59.131975,10.233806
+1180288,"Odins vei 21B, Sandar",59.145697,10.225192
+1180289,"Odins vei 21A, Sandar",59.145734,10.225071
+1180290,"Odins vei 20, Sandar",59.145609,10.22685
+1180291,"Odins vei 19, Sandar",59.145761,10.224229
+1180292,"Odins vei 27, Sandar",59.145336,10.226281
+1180293,"Odins vei 25, Sandar",59.145485,10.225951
+1180294,"Odins vei 23, Sandar",59.145649,10.225523
+1180295,"Odins vei 22, Sandar",59.145408,10.22721
+1180296,"Odins vei 14, Sandar",59.146106,10.225542
+1180297,"Odins vei 13, Sandar",59.145438,10.222908
+1180298,"Odins vei 12, Sandar",59.146044,10.223666
+1180299,"Odins vei 11, Sandar",59.145284,10.222311
+1180300,"Odins vei 18, Sandar",59.145771,10.226424
+1180301,"Odins vei 17, Sandar",59.145692,10.223811
+1180302,"Odins vei 16, Sandar",59.145913,10.226073
+1180303,"Odins vei 15, Sandar",59.145588,10.22344
+1180314,"Odins vei 29, Sandar",59.14519,10.22659
+1180335,"Odins vei 5, Sandar",59.14503,10.220762
+1180336,"Odins vei 4, Sandar",59.145391,10.220631
+1180337,"Odins vei 3, Sandar",59.144936,10.220165
+1180338,"Odins vei 2, Sandar",59.145335,10.220165
+1180339,"Odins vei 9, Sandar",59.145147,10.221624
+1180340,"Odins vei 8, Sandar",59.145802,10.221665
+1180341,"Odins vei 7, Sandar",59.145097,10.221185
+1180342,"Odins vei 6, Sandar",59.14547,10.221164
+1180346,"Odins vei 1, Sandar",59.144894,10.219724
+1180368,"Orelund 11, Sandar",59.13732,10.22916
+1180370,"Orelund 10, Sandar",59.137731,10.228139
+1180371,"Orelund 9, Sandar",59.137311,10.228424
+1180372,"Orelund 8B, Sandar",59.13671,10.227668
+1180376,"Orelund 12, Sandar",59.137623,10.228976
+1180381,"Parkveien 3, Sandar",59.134319,10.230623
+1180382,"Parkveien 2, Sandar",59.134673,10.23164
+1180383,"Parkveien 1, Sandar",59.134498,10.231225
+1180409,"Orelund 4, Sandar",59.136177,10.227842
+1180410,"Orelund 3, Sandar",59.136497,10.22827
+1180411,"Orelund 2, Sandar",59.135821,10.227604
+1180412,"Orelund 1, Sandar",59.136155,10.228399
+1180413,"Orelund 8, Sandar",59.136761,10.227226
+1180414,"Orelund 7, Sandar",59.137041,10.228439
+1180415,"Orelund 6, Sandar",59.13635,10.227742
+1180416,"Orelund 5, Sandar",59.136828,10.228476
+1180504,"Parkveien 15, Sandar",59.132579,10.231381
+1180505,"Parkveien 14, Sandar",59.132753,10.232908
+1180506,"Parkveien 13, Sandar",59.133123,10.231677
+1180507,"Parkveien 12, Sandar",59.133142,10.232879
+1180510,"Parkveien 26, Sandefjord",59.130949,10.23183
+1180511,"Parkveien 16, Sandar",59.132519,10.233005
+1180512,"Parkveien 6, Sandar",59.133934,10.232229
+1180513,"Parkveien 5, Sandar",59.134232,10.231336
+1180514,"Parkveien 4B, Sandar",59.134085,10.232151
+1180515,"Parkveien 4, Sandar",59.134292,10.231871
+1180516,"Parkveien 10, Sandar",59.13334,10.232667
+1180517,"Parkveien 9, Sandar",59.133761,10.231834
+1180518,"Parkveien 7, Sandar",59.13398,10.231432
+1180612,"Pyntestuen 10, Sandar",59.136533,10.226737
+1180613,"Pyntestuen 8, Sandar",59.136699,10.226785
+1180614,"Pyntestuen 7, Sandar",59.137267,10.226739
+1180615,"Pyntestuen 6, Sandar",59.136871,10.226834
+1180618,"Pyntestuen 14, Sandar",59.136939,10.226409
+1180619,"Pyntestuen 12, Sandar",59.136763,10.226358
+1180624,"Pyntestuen 5, Sandar",59.137042,10.226678
+1180676,"Preståsveien 2, Sandar",59.133282,10.230201
+1180677,"Preståsveien 1A, Sandar",59.132884,10.230711
+1180678,"Preståsveien 1, Sandar",59.133231,10.230863
+1180679,"Prestegårdsveien 10, Sandar",59.131993,10.230662
+1180680,"Preståsveien 4B, Sandar",59.13396,10.229995
+1180681,"Preståsveien 4A, Sandar",59.133748,10.230323
+1180682,"Preståsveien 4, Sandar",59.133458,10.230557
+1180683,"Preståsveien 3, Sandar",59.133353,10.231235
+1180684,"Prestegårdsveien 5, Sandar",59.132162,10.229551
+1180685,"Prestegårdsveien 4, Sandar",59.132757,10.230373
+1180686,"Prestegårdsveien 3, Sandar",59.132483,10.229176
+1180687,"Prestegårdsveien 2B, Sandar",59.133669,10.229149
+1180688,"Prestegårdsveien 9, Sandar",59.131491,10.230101
+1180689,"Prestegårdsveien 8, Sandar",59.132274,10.230462
+1180690,"Prestegårdsveien 7, Sandar",59.131715,10.229881
+1180691,"Prestegårdsveien 6, Sandar",59.13257,10.230438
+1180694,"Preståsveien 13, Sandar",59.133976,10.234735
+1180695,"Preståsveien 12, Sandar",59.134147,10.23371
+1180700,"Preståsveien 7, Sandar",59.133729,10.232971
+1180701,"Preståsveien 6, Sandar",59.133591,10.231065
+1180702,"Parkveien 11, Sandar",59.133579,10.232004
+1180703,"Preståsveien 4C, Sandar",59.133905,10.230783
+1180704,"Preståsveien 11, Sandar",59.133892,10.234115
+1180705,"Preståsveien 10, Sandar",59.134097,10.233316
+1180706,"Preståsveien 9, Sandar",59.133815,10.233511
+1180707,"Preståsveien 8A, Sandar",59.133928,10.232789
+1180728,"Prestegårdsveien 2, Sandar",59.133941,10.228949
+1180729,"Prestegårdsveien 1B, Sandar",59.132988,10.229037
+1181719,"Sandar Herredshus 3, Sandar",59.134582,10.228881
+1181720,"Sandar Herredshus 2, Sandar",59.134645,10.22834
+1181721,"Sandar Herredshus 1, Sandar",59.134298,10.227845
+1182341,"Skulds vei 6, Sandar",59.140686,10.229162
+1182342,"Skulds vei 4, Sandar",59.140321,10.229337
+1182345,"Skulds vei 10, Sandar",59.141118,10.228671
+1182346,"Skulds vei 9, Sandar",59.141125,10.229658
+1182347,"Skulds vei 8, Sandar",59.140946,10.228867
+1182348,"Skulds vei 7, Sandar",59.140607,10.23023
+1183136,"Sverdstadveien 4A, Sandar",59.135556,10.228168
+1183137,"Sverdstadveien 3, Sandar",59.135683,10.228673
+1183138,"Sverdstadveien 2, Sandar",59.135443,10.227744
+1183139,"Sverdstadveien 1, Sandar",59.13535,10.228711
+1183303,"Sverdstadveien 18, Sandar",59.138846,10.230386
+1183304,"Sverdstadveien 17A, Sandar",59.138687,10.232265
+1183309,"Sverdstadveien 10, Sandar",59.137034,10.229151
+1183310,"Sverdstadveien 8, Sandar",59.136737,10.22887
+1183311,"Sverdstadveien 4C, Sandar",59.135822,10.228119
+1183312,"Sverdstadveien 4B, Sandar",59.135559,10.228025
+1183313,"Sverdstadveien 16, Sandar",59.138456,10.229819
+1183314,"Sverdstadveien 15, Sandar",59.138281,10.23059
+1183315,"Sverdstadveien 14, Sandar",59.138004,10.229514
+1183316,"Sverdstadveien 12, Sandar",59.137636,10.229431
+1183587,"Knatten gård, Trudvangveien 5, Sandar",59.138773,10.227934
+1183588,"Trudvangveien 4, Sandar",59.137805,10.226798
+1183589,"Trudvangveien 3, Sandar",59.138721,10.228736
+1183590,"Trudvangveien 1, Sandar",59.138393,10.229161
+1183591,"Trudvangveien 10, Sandar",59.139303,10.225857
+1183592,"Trudvangveien 8, Sandar",59.139011,10.226227
+1183593,"Trudvangveien 7, Sandar",59.138224,10.227575
+1183594,"Trudvangveien 6, Sandar",59.139209,10.226533
+1183603,"Trudvangveien 18D, Sandar",59.140862,10.224683
+1183604,"Trudvangveien 18C, Sandar",59.140823,10.22471
+1183605,"Trudvangveien 18B, Sandar",59.14078,10.224727
+1183606,"Trudvangveien 18A, Sandar",59.140747,10.224765
+1183607,"Trudvangveien 22B, Sandar",59.141396,10.223151
+1183608,"Trudvangveien 22A, Sandar",59.141738,10.223058
+1183609,"Trudvangveien 18F, Sandar",59.140937,10.224323
+1183610,"Trudvangveien 18E, Sandar",59.140905,10.224351
+1183611,"Trudvangveien 16B, Sandar",59.140094,10.225734
+1183612,"Trudvangveien 16A, Sandar",59.140071,10.225797
+1183613,"Trudvangveien 14A, Sandar",59.139582,10.226297
+1183614,"Trudvangveien 12, Sandar",59.139408,10.226296
+1183615,"Trudvangveien 16F, Sandar",59.140219,10.225543
+1183616,"Trudvangveien 16E, Sandar",59.140194,10.225599
+1183617,"Trudvangveien 16D, Sandar",59.140156,10.225643
+1183618,"Trudvangveien 16C, Sandar",59.140131,10.225692
+1183626,"Tors vei 20, Sandar",59.144543,10.227018
+1183627,"Tors vei 16, Sandar",59.14516,10.22589
+1183628,"Tors vei 14, Sandar",59.145281,10.225492
+1183629,"Tors vei 12, Sandar",59.145375,10.225041
+1183632,"Tors vei 24, Sandar",59.144146,10.227707
+1183633,"Tors vei 22, Sandar",59.144356,10.227347
+1183665,"Tors vei 7, Sandar",59.144775,10.222922
+1183666,"Tors vei 6, Sandar",59.145231,10.223165
+1183667,"Tors vei 5, Sandar",59.144628,10.22234
+1183668,"Tors vei 4, Sandar",59.144833,10.221508
+1183669,"Tors vei 9, Sandar",59.14429,10.226494
+1183670,"Tors vei 8, Sandar",59.145333,10.223746
+1183671,"Tors vei 7A, Sandar",59.144918,10.223923
+1183675,"Tors vei 3, Sandar",59.144481,10.221688
+1183676,"Tors vei 2, Sandar",59.144722,10.220927
+1183677,"Tors vei 1, Sandar",59.144387,10.221177
+1183698,"Urds vei 3, Sandar",59.141447,10.228169
+1183699,"Urds vei 2, Sandar",59.141865,10.227896
+1183700,"Urds vei 1, Sandar",59.14127,10.227527
+1183794,"Trudvangveien 30C, Sandar",59.142447,10.222487
+1183795,"Trudvangveien 30B, Sandar",59.142415,10.222562
+1183796,"Trudvangveien 30A, Sandar",59.142377,10.222582
+1183797,"Trudvangveien 29, Sandar",59.14212,10.223722
+1183798,"Trudvangveien 34, Sandar",59.143523,10.221248
+1183799,"Trudvangveien 33, Sandar",59.142954,10.222699
+1183800,"Trudvangveien 32, Sandar",59.14264,10.221762
+1183801,"Trudvangveien 31, Sandar",59.142436,10.223345
+1183802,"Trudvangveien 26C, Sandar",59.142163,10.222157
+1183803,"Trudvangveien 26B, Sandar",59.142129,10.222215
+1183804,"Trudvangveien 26A, Sandar",59.142094,10.222247
+1183805,"Trudvangveien 24, Sandar",59.141785,10.221906
+1183806,"Trudvangveien 28C, Sandar",59.142159,10.222878
+1183807,"Trudvangveien 28B, Sandar",59.142128,10.222943
+1183808,"Trudvangveien 28A, Sandar",59.142091,10.222966
+1183809,"Trudvangveien 27, Sandar",59.141863,10.224164
+1183810,"Tryms vei 13, Sandar",59.146798,10.223502
+1183811,"Tryms vei 11, Sandar",59.147025,10.223393
+1183812,"Tryms vei 9, Sandar",59.147277,10.223343
+1183813,"Tryms vei 7, Sandar",59.147525,10.223231
+1183818,"Trudvangveien 40, Sandar",59.144285,10.220632
+1183819,"Trudvangveien 38, Sandar",59.144086,10.220781
+1183820,"Trudvangveien 36, Sandar",59.143842,10.220948
+1183821,"Trudvangveien 34A, Sandar",59.143541,10.22087
+1183822,"Tryms vei 5, Sandar",59.147751,10.223191
+1183823,"Tryms vei 3, Sandar",59.148034,10.223073
+1183824,"Trudvangveien 44, Sandar",59.144719,10.220315
+1183825,"Trudvangveien 42, Sandar",59.144511,10.220465
+1184218,"Vidars vei 3, Sandar",59.142819,10.223442
+1184219,"Vidars vei 2, Sandar",59.143129,10.223195
+1184220,"Vidars vei 1, Sandar",59.142689,10.223051
+1184222,"Vidars vei 5, Sandar",59.142988,10.223872
+1184223,"Vidars vei 4C, Sandar",59.143401,10.223922
+1184224,"Vidars vei 4B, Sandar",59.143295,10.223708
+1184225,"Vidars vei 4A, Sandar",59.143234,10.223496
+1184237,"Vidars vei 17, Sandar",59.144036,10.227004
+1184242,"Vidars vei 9, Sandar",59.14345,10.225373
+1184243,"Vidars vei 8, Sandar",59.143885,10.225329
+1184244,"Vidars vei 7, Sandar",59.143098,10.224301
+1184245,"Vidars vei 6, Sandar",59.143747,10.224979
+1184246,"Vidars vei 15, Sandar",59.143931,10.226702
+1184247,"Vidars vei 13, Sandar",59.143791,10.226365
+1184248,"Vidars vei 11, Sandar",59.143612,10.225818
+1184249,"Vidars vei 10, Sandar",59.144117,10.226062
+1184950,"Øvre Sverdstadvei 10, Sandar",59.144603,10.231519
+1184951,"Øvre Sverdstadvei 8, Sandar",59.14488,10.230897
+1184952,"Øvre Sverdstadvei 6, Sandar",59.145239,10.23084
+1184953,"Øvre Sverdstadvei 4, Sandar",59.145609,10.230731
+1184956,"Øvre Sverdstadvei 14, Sandar",59.14422,10.231258
+1184957,"Øvre Sverdstadvei 12, Sandar",59.144457,10.231073
+1185003,"Yngves vei 2, Sandar",59.146117,10.224341
+1185004,"Yngves vei 1, Sandar",59.146094,10.225032
+1185014,"Yngves vei 14, Sandar",59.147958,10.223975
+1185015,"Yngves vei 13, Sandar",59.147918,10.224539
+1185016,"Yngves vei 12, Sandar",59.147559,10.224099
+1185017,"Yngves vei 11, Sandar",59.147642,10.224632
+1185018,"Yngves vei 19, Sandar",59.148234,10.224758
+1185019,"Yngves vei 17B, Sandar",59.147818,10.225766
+1185020,"Yngves vei 17, Sandar",59.147253,10.226528
+1185021,"Yngves vei 15, Sandar",59.147212,10.225456
+1185022,"Yngves vei 6, Sandar",59.146672,10.224232
+1185023,"Yngves vei 5, Sandar",59.146681,10.225012
+1185024,"Yngves vei 4, Sandar",59.146395,10.224319
+1185025,"Yngves vei 3, Sandar",59.146391,10.22522
+1185026,"Yngves vei 10, Sandar",59.147329,10.224172
+1185027,"Yngves vei 9, Sandar",59.147331,10.224658
+1185028,"Yngves vei 8, Sandar",59.147008,10.224225
+1185029,"Yngves vei 7, Sandar",59.147045,10.224708
+1185148,"Breidablikkveien 15C, Sandar",59.141064,10.227851
+1185149,"Breidablikkveien 15B, Sandar",59.141024,10.227943
+1185150,"Breidablikkveien 15A, Sandar",59.140969,10.227973
+1185155,"Breidablikkveien 15D, Sandar",59.141129,10.227782
+1185251,"Sverdstadveien 37A, Sandar",59.139377,10.232447
+1185252,"Sverdstadveien 35B, Sandar",59.139373,10.231888
+1185253,"Sverdstadveien 35A, Sandar",59.139372,10.232062
+1185254,"Sverdstadveien 33B, Sandar",59.139422,10.23154
+1185255,"Sverdstadveien 45, Sandar",59.140783,10.231938
+1185257,"Sverdstadveien 31A, Sandar",59.139538,10.231579
+1185258,"Sverdstadveien 37B, Sandar",59.13937,10.232272
+1185272,"Sverdstadveien 31B, Sandar",59.139619,10.231617
+1185275,"Sverdstadveien 33A, Sandar",59.139341,10.23152
+1185276,"Skulds vei 4B, Sandar",59.140524,10.22922
+1185310,"Sverdstadveien 35C, Sandar",59.139354,10.232062
+1185311,"Sverdstadveien 33D, Sandar",59.139422,10.231487
+1185312,"Sverdstadveien 33C, Sandar",59.139342,10.23145
+1185313,"Sverdstadveien 31D, Sandar",59.139619,10.231582
+1185315,"Sverdstadveien 37D, Sandar",59.139352,10.232271
+1185316,"Sverdstadveien 37C, Sandar",59.139359,10.232447
+1185317,"Sverdstadveien 35D, Sandar",59.139356,10.231887
+1185322,"Sverdstadveien 31C, Sandar",59.139538,10.231544
+1185342,"Sverdstadveien 50, Sandar",59.141625,10.230373
+1185352,"Brydedamveien 28, Sandar",59.132662,10.237567
+1186011,"Brydedamveien 30, Sandar",59.132633,10.236646
+1186116,"Tors vei 10B, Sandar",59.145418,10.224326
+1186118,"Sverdstadveien 19, Sandar",59.139051,10.232698
+1186177,"Tors vei 10A, Sandar",59.145428,10.224134
+1186236,"Sverdstadveien 27D, Sandar",59.138836,10.231729
+1186237,"Sverdstadveien 25C, Sandar",59.138793,10.2315
+1186238,"Sverdstadveien 25B, Sandar",59.138822,10.231344
+1186239,"Sverdstadveien 25A, Sandar",59.138838,10.231484
+1186240,"Sverdstadveien 23D, Sandar",59.138726,10.231008
+1186241,"Sverdstadveien 27C, Sandar",59.138862,10.231852
+1186242,"Sverdstadveien 27B, Sandar",59.138881,10.231695
+1186243,"Sverdstadveien 27A, Sandar",59.138907,10.231836
+1186244,"Sverdstadveien 25D, Sandar",59.138777,10.231377
+1186265,"Sverdstadveien 23C, Sandar",59.138734,10.231166
+1186266,"Sverdstadveien 23B, Sandar",59.138762,10.230992
+1186267,"Sverdstadveien 23A, Sandar",59.138779,10.23115
+1186295,"Øvre Sverdstadvei 18, Sandar",59.143918,10.231611
+1186296,"Øvre Sverdstadvei 16, Sandar",59.144127,10.23181
+1186298,"Iduns vei 4, Sandar",59.146283,10.222136
+1186341,"Sverdstadveien 29A, Sandar",59.139073,10.231405
+1186343,"Sverdstadveien 29D, Sandar",59.139222,10.231367
+1186344,"Sverdstadveien 29C, Sandar",59.139107,10.231335
+1186345,"Sverdstadveien 29B, Sandar",59.13919,10.231444
+1186378,"Sverdstadveien 11, Sandar",59.13666,10.23006
+1186499,"Breidablikkveien 20B, Sandar",59.142291,10.22535
+1186500,"Breidablikkveien 20A, Sandar",59.142203,10.225456
+1186501,"Breidablikkveien 18B, Sandar",59.142121,10.224911
+1186502,"Breidablikkveien 18A, Sandar",59.142073,10.225016
+1186633,"Frøyas vei 4A, Sandar",59.143639,10.222409
+1186683,"Frøyas vei 4B, Sandar",59.143683,10.222533
+1186770,"Iduns vei 12B, Sandar",59.147338,10.221401
+1186834,"Trudvangveien 30D, Sandar",59.142483,10.222465
+1186835,"Trudvangveien 28F, Sandar",59.142261,10.222763
+1186836,"Trudvangveien 28E, Sandar",59.142227,10.222784
+1186837,"Trudvangveien 28D, Sandar",59.14219,10.222852
+1186839,"Trudvangveien 26E, Sandar",59.142228,10.22207
+1186840,"Trudvangveien 30F, Sandar",59.142551,10.22239
+1186841,"Trudvangveien 30E, Sandar",59.142518,10.222416
+1186851,"Mølleråsveien 1B, Sandar",59.139421,10.223161
+1186878,"Trudvangveien 26F, Sandar",59.142267,10.222042
+1186879,"Trudvangveien 26D, Sandar",59.142195,10.222127
+1186898,"Trudvangveien 18I, Sandar",59.141155,10.224296
+1186899,"Trudvangveien 18H, Sandar",59.141015,10.224267
+1186900,"Trudvangveien 18G, Sandar",59.140979,10.224304
+1186902,"Trudvangveien 18L, Sandar",59.141269,10.22421
+1186903,"Trudvangveien 18K, Sandar",59.141231,10.224249
+1186904,"Trudvangveien 18J, Sandar",59.141188,10.224265
+1186913,"Trudvangveien 16I, Sandar",59.140394,10.225297
+1186914,"Trudvangveien 16H, Sandar",59.140355,10.22534
+1186915,"Trudvangveien 16G, Sandar",59.140328,10.225389
+1186918,"Trudvangveien 16L, Sandar",59.140483,10.225146
+1186919,"Trudvangveien 16K, Sandar",59.140455,10.225199
+1186920,"Trudvangveien 16J, Sandar",59.140419,10.225246
+1186953,"Frøyas vei 9A, Sandar",59.143505,10.223313
+1186958,"Frøyas vei 11B, Sandar",59.143593,10.223561
+1186959,"Frøyas vei 11A, Sandar",59.143637,10.223668
+1186960,"Frøyas vei 9B, Sandar",59.143461,10.223207
+1186962,"Brydedamveien 9B, Sandar",59.131912,10.239389
+1186967,"Frøyas vei 40, Sandar",59.146596,10.23155
+1187107,"Brydedamveien 1A, Sandar",59.130855,10.241275
+1187208,"Skulds vei 5, Sandar",59.140581,10.229794
+1187345,"Sverdstadveien 13, Sandar",59.138018,10.233943
+1187431,"Frøyas vei 2B, Sandar",59.143521,10.222018
+1187434,"Brydedamveien 38, Sandar",59.134257,10.236283
+1187443,"Brydedamveien 36B, Sandar",59.133884,10.236179
+1187444,"Brydedamveien 36A, Sandar",59.134041,10.236559
+1187457,"Trudvangveien 35B, Sandar",59.143482,10.221932
+1187560,"Sverdstadveien 13O, Sandar",59.138316,10.231692
+1187561,"Sverdstadveien 13N, Sandar",59.138414,10.231731
+1187565,"Sverdstadveien 13P, Sandar",59.138397,10.23166
+1187613,"Nyveien 13, Sandar",59.13523,10.234358
+1187652,"Skulds vei 11, Sandar",59.141267,10.229212
+1187721,"Høyåsveien 3B, Sandar",59.134348,10.232891
+1187804,"Nyveien 16, Sandar",59.135721,10.235134
+1187805,"Nyveien 14B, Sandar",59.135533,10.234873
+1187806,"Nyveien 14A, Sandar",59.135639,10.234607
+1187807,"Nyveien 15, Sandar",59.13501,10.23468
+1187808,"Nyveien 24, Sandar",59.135256,10.235093
+1187809,"Nyveien 22, Sandar",59.135344,10.235435
+1187810,"Nyveien 20, Sandar",59.135487,10.235999
+1187811,"Nyveien 18, Sandar",59.135762,10.235778
+1187829,"Gokstadveien 4G, Sandar",59.13509,10.229892
+1187830,"Gokstadveien 4F, Sandar",59.135072,10.229804
+1187831,"Gokstadveien 4E, Sandar",59.135047,10.229688
+1187836,"Gokstadveien 4B, Sandar",59.135075,10.229566
+1187840,"Gokstadveien 4D, Sandar",59.13503,10.2296
+1187841,"Gokstadveien 4C, Sandar",59.135127,10.229848
+1187843,"Gokstadveien 4A, Sandar",59.134911,10.229858
+1187899,"Sverdstadveien 50B, Sandar",59.142094,10.22948
+1187900,"Sverdstadveien 50A, Sandar",59.141807,10.230052
+1187941,"Parkveien 5B, Sandar",59.134166,10.231027
+1187957,"Brydedamveien 7B, Sandar",59.131586,10.239461
+1188012,"Sverdstadveien 13L, Sandar",59.138515,10.231472
+1188013,"Sverdstadveien 13K, Sandar",59.138541,10.231631
+1188014,"Sverdstadveien 13J, Sandar",59.138542,10.231456
+1188015,"Sverdstadveien 13I, Sandar",59.138568,10.231614
+1188016,"Sverdstadveien 13M, Sandar",59.138333,10.231763
+1188017,"Sverdstadveien 13D, Sandar",59.138221,10.231225
+1188018,"Sverdstadveien 13C, Sandar",59.138122,10.231284
+1188019,"Sverdstadveien 13B, Sandar",59.138236,10.231291
+1188020,"Sverdstadveien 13A, Sandar",59.13813,10.231336
+1188021,"Sverdstadveien 13H, Sandar",59.138474,10.231139
+1188022,"Sverdstadveien 13G, Sandar",59.138347,10.231204
+1188023,"Sverdstadveien 13F, Sandar",59.138481,10.231214
+1188024,"Sverdstadveien 13E, Sandar",59.138361,10.231236
+1188081,"Brages vei 13C, Sandar",59.142644,10.22788
+1188082,"Brages vei 13E, Sandar",59.142982,10.228168
+1188085,"Brydedamveien 6C, Sandar",59.129851,10.239789
+1188091,"Brages vei 13D, Sandar",59.142867,10.227913
+1188092,"Brages vei 13B, Sandar",59.142479,10.228346
+1188096,"Trudvangveien 25, Sandar",59.142003,10.224608
+1188100,"Brydedamveien 6B, Sandefjord",59.129714,10.2401
+1188112,"Høyåsveien 7B, Sandar",59.134473,10.233701
+1188136,"Iduns vei 6B, Sandar",59.146842,10.222037
+1188145,"Parkveien 23B, Sandar",59.132338,10.232247
+1188147,"Parkveien 23A, Sandar",59.132409,10.232319
+1188149,"Parkveien 27, Sandar",59.131918,10.232004
+1188151,"Parkveien 25, Sandar",59.132239,10.231554
+1188153,"Parkveien 23F, Sandar",59.132301,10.23233
+1188155,"Parkveien 23E, Sandar",59.13236,10.232293
+1188157,"Parkveien 23D, Sandar",59.132442,10.232406
+1188159,"Parkveien 23C, Sandar",59.132277,10.232287
+1188163,"Brages vei 13A, Sandar",59.142172,10.227799
+1188167,"Balders vei 16, Sandar",59.143989,10.228106
+1188210,"Brydedamveien 41, Sandar",59.134797,10.236174
+1188212,"Brydedamveien 18, Sandar",59.1313,10.239526
+1188239,"Parkveien 19B, Sandar",59.13285,10.232195
+1188241,"Parkveien 19A, Sandar",59.132931,10.232146
+1188251,"Parkveien 19D, Sandar",59.132867,10.232318
+1188253,"Parkveien 19C, Sandar",59.132948,10.232269
+1188254,"Nyveien 9, Sandar",59.135013,10.233339
+1188256,"Nyveien 5, Sandar",59.134856,10.232521
+1188268,"Nyveien 11, Sandar",59.13512,10.233758
+1188270,"Parkveien 21F, Sandar",59.132008,10.232514
+1188271,"Parkveien 21E, Sandar",59.132097,10.232473
+1188272,"Parkveien 21D, Sandar",59.13217,10.232453
+1188273,"Parkveien 21C, Sandar",59.131986,10.232426
+1188282,"Parkveien 21B, Sandar",59.132076,10.232395
+1188283,"Parkveien 21A, Sandar",59.132147,10.232399
+1188305,"Nyveien 12, Sandar",59.135553,10.234318
+1188314,"Nyveien 10, Sandar",59.135483,10.233443
+1188315,"Nyveien 8, Sandar",59.135345,10.233111
+1188316,"Nyveien 2, Sandar",59.135026,10.231924
+1188317,"Nyveien 4, Sandar",59.135142,10.232386
+1188351,"Mølleråsveien 2A, Sandar",59.139544,10.222403
+1188356,"Mølleråsveien 2B, Sandar",59.139595,10.222667
+1188407,"Brages vei 12B, Sandar",59.143539,10.228663
+1188450,"Prestegårdsveien 3B, Sandar",59.132513,10.229824
+1188553,"Brages vei 11B, Sandar",59.142529,10.227392
+1188613,"Brydedamveien 1C, Sandar",59.130987,10.241412
+1188614,"Brydedamveien 1B, Sandar",59.130913,10.241352
+1188649,"Skulds vei 9B, Sandar",59.140885,10.229536
+1188678,"Friggs vei 6, Sandar",59.144362,10.222585
+1188722,"Brydedammen 4B, Sandar",59.130981,10.239632
+1188792,"Orelund 6B, Sandar",59.136225,10.227579
+1188822,"Brydedamveien 4B, Sandar",59.130322,10.240212
+1188823,"Brydedamveien 4A, Sandar",59.130411,10.240303
+1188824,"Brydedamveien 2D, Sandar",59.130505,10.240478
+1188825,"Brydedamveien 2C, Sandar",59.130587,10.240659
+1188826,"Brydedamveien 4F, Sandar",59.13025,10.240192
+1188827,"Brydedamveien 4E, Sandar",59.13026,10.24014
+1188828,"Brydedamveien 4D, Sandar",59.130312,10.240264
+1188829,"Brydedamveien 4C, Sandar",59.130392,10.240355
+1188834,"Brydedamveien 2B, Sandar",59.130528,10.240435
+1188835,"Brydedamveien 2A, Sandar",59.13062,10.240611
+1188924,"Odins vei 6B, Sandar",59.145562,10.221846
+1707778,"Prestegårdsveien 1A, Sandar",59.133395,10.228857
+1707779,"Prestegårdsveien 1D, Sandar",59.132877,10.229581
+1707780,"Prestegårdsveien 1C, Sandar",59.132774,10.22924
+1719084,"Trudvangveien 14B, Sandar",59.139765,10.226177
+1751652,"Sverdstadveien 17B, Sandar",59.138434,10.23265
+1873794,"Liveien 26B, Sandar",59.131697,10.235581
+1881919,"Yngves vei 13B, Sandar",59.147965,10.224737
+1933778,"Liveien 10B, Sandar",59.133962,10.235189
+1943650,"Brydedamveien 6, Sandar",59.131752,10.240695
+1946287,"Preståsveien 8B, Sandar",59.134088,10.232747
+1955885,"Sverdstadveien 20, Sandar",59.138889,10.23001
+1960042,"Breidablikkveien 25B, Sandar",59.143204,10.225105
+1968479,"Mølleråsveien 5A, Sandar",59.139629,10.223896
+1985945,"Prestegårdsveien 3A, Sandar",59.132559,10.229538
+1987439,"Mølleråsveien 11B, Sandar",59.140393,10.224337
+1997440,"Høyåsveien 24F, Sandar",59.135798,10.237573
+2000739,"Balders vei 8B, Sandar",59.143348,10.22587
+2001725,"Brydedamveien 22E, Sandar",59.131477,10.238126
+2001726,"Brydedamveien 22F, Sandar",59.131575,10.23796
+2001727,"Brydedamveien 22C, Sandar",59.131561,10.238608
+2001728,"Brydedamveien 22D, Sandar",59.131386,10.238247
+2001840,"Brydedamveien 22B, Sandar",59.13144,10.238673
+2013797,"Odins vei 6A, Sandar",59.145371,10.221351
+2013849,"Frøyas vei 17B, Sandar",59.143975,10.224988
+2014367,"Brydedamveien 1F, Sandar",59.131641,10.241184
+2020346,"Preståsveien 13B, Sandar",59.133931,10.234427
+2029679,"Presthagan 1B, Sandar",59.133066,10.233343
+2033701,"Iduns vei 1B, Sandar",59.146209,10.223466
+2037066,"Preståsveien 3B, Sandar",59.133523,10.23163
+2070226,"Trudvangveien 31B, Sandar",59.142513,10.223042
+2080446,"Preståsveien 3C, Sandar",59.133376,10.231667
+2082261,"Odins vei 19B, Sandar",59.145611,10.224332
+2090380,"Mølleråsveien 4A, Sandar",59.139896,10.223191
+2090382,"Mølleråsveien 4B, Sandar",59.13979,10.222975
+2090384,"Mølleråsveien 4C, Sandar",59.139901,10.222883
+2090385,"Mølleråsveien 4D, Sandar",59.13996,10.223139
+2100048,"Brages vei 10A, Sandar",59.14317,10.22785
+2100049,"Brages vei 10B, Sandar",59.143245,10.228006
+2100052,"Brages vei 10C, Sandar",59.143283,10.228198
+2380582,"Breidablikkveien 24, Sandar",59.142968,10.224381
+2384209,"Iduns vei 3B, Sandar",59.146329,10.223278
+2459090,"Brydedamveien 24B, Sandar",59.131861,10.23771
+2459500,"Brydedamveien 24A, Sandar",59.132009,10.238149
+2462329,"Tors vei 11, Sandar",59.143911,10.227174
+2462351,"Tors vei 13, Sandar",59.143781,10.227361
+2493506,"Parkveien 8B, Sandar",59.133509,10.232677
+2493507,"Parkveien 8C, Sandar",59.13353,10.232771
+2493508,"Parkveien 8A, Sandar",59.133649,10.232351

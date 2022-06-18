@@ -1,0 +1,977 @@
+,Navn,Long,Lat
+37844,"323/206-3, Tiller",63.372801,10.394198
+37845,"323/206-4, Tiller",63.372764,10.394071
+37853,"323/206-2, Tiller",63.372828,10.394333
+37854,"323/206-1, Tiller",63.372859,10.394456
+1493464,"Carl Schjetnans veg 18, Tiller",63.372012,10.39775
+1493471,"Carl Schjetnans veg 13, Tiller",63.371647,10.396572
+1493472,"Carl Schjetnans veg 12, Tiller",63.371832,10.395961
+1493473,"Carl Schjetnans veg 14B, Tiller",63.371934,10.396546
+1493474,"Carl Schjetnans veg 14, Tiller",63.3719,10.396384
+1493475,"Carl Schjetnans veg 15B, Tiller",63.371722,10.397196
+1493476,"Carl Schjetnans veg 15, Tiller",63.371715,10.396975
+1493477,"Carl Schjetnans veg 17, Tiller",63.371752,10.397777
+1493478,"Carl Schjetnans veg 16, Tiller",63.372028,10.39707
+1493479,"Carl Schjetnans veg 5, Tiller",63.370961,10.394159
+1493480,"Carl Schjetnans veg 4B, Tiller",63.371164,10.393608
+1493481,"Carl Schjetnans veg 7B, Tiller",63.371134,10.394907
+1493482,"Carl Schjetnans veg 7, Tiller",63.371064,10.394664
+1493483,"Carl Schjetnans veg 9B, Tiller",63.371299,10.395415
+1493484,"Carl Schjetnans veg 9, Tiller",63.371247,10.395273
+1493485,"Carl Schjetnans veg 11B, Tiller",63.371482,10.396024
+1493486,"Carl Schjetnans veg 11, Tiller",63.371395,10.39574
+1493487,"Carl Schjetnans veg 1, Tiller",63.370475,10.393435
+1493490,"Carl Schjetnans veg 2, Tiller",63.370723,10.392827
+1493491,"Carl Schjetnans veg 1B, Tiller",63.370537,10.393478
+1493492,"Carl Schjetnans veg 3, Tiller",63.370697,10.393606
+1493493,"Carl Schjetnans veg 2B, Tiller",63.370829,10.393012
+1493494,"Carl Schjetnans veg 4, Tiller",63.371149,10.393348
+1493495,"Carl Schjetnans veg 3B, Tiller",63.370777,10.39377
+1494357,"Egganvegen 9, Tiller",63.371558,10.390087
+1494358,"Egganvegen 8, Tiller",63.371292,10.388815
+1494359,"Egganvegen 11, Tiller",63.371798,10.390239
+1494360,"Egganvegen 10, Tiller",63.371595,10.388989
+1494361,"Egganvegen 13, Tiller",63.371746,10.390977
+1494362,"Egganvegen 12, Tiller",63.37187,10.389383
+1494363,"Egganvegen 2A, Tiller",63.370472,10.387215
+1494364,"Egganvegen 1, Tiller",63.370527,10.388374
+1494365,"Egganvegen 3, Tiller",63.370844,10.389085
+1494366,"Egganvegen 2B, Tiller",63.370613,10.387482
+1494367,"Egganvegen 5, Tiller",63.371088,10.389425
+1494368,"Egganvegen 4, Tiller",63.37086,10.387934
+1494369,"Egganvegen 7, Tiller",63.371354,10.389798
+1494370,"Egganvegen 6, Tiller",63.371062,10.388483
+1494435,"Egganvegen 46B, Tiller",63.372958,10.398396
+1494436,"Egganvegen 46, Tiller",63.372924,10.398194
+1494437,"Egganvegen 48B, Tiller",63.373222,10.398889
+1494438,"Egganvegen 48, Tiller",63.37317,10.398686
+1494443,"Egganvegen 40B, Tiller",63.372968,10.396436
+1494444,"Egganvegen 40, Tiller",63.372969,10.396256
+1494445,"Egganvegen 41B, Tiller",63.373145,10.399405
+1494446,"Egganvegen 41A, Tiller",63.373019,10.399459
+1494447,"Egganvegen 42B, Tiller",63.372853,10.397171
+1494448,"Egganvegen 42, Tiller",63.372865,10.396851
+1494449,"Egganvegen 44B, Tiller",63.372883,10.397792
+1494450,"Egganvegen 44, Tiller",63.372885,10.397552
+1494451,"Egganvegen 36, Tiller",63.37328,10.395671
+1494452,"Egganvegen 35B, Tiller",63.372572,10.398337
+1494453,"Egganvegen 37, Tiller",63.372649,10.398761
+1494454,"Egganvegen 36B, Tiller",63.373361,10.395675
+1494455,"Egganvegen 38, Tiller",63.37322,10.396348
+1494456,"Egganvegen 37B, Tiller",63.372692,10.398923
+1494457,"Egganvegen 39, Tiller",63.37275,10.399466
+1494458,"Egganvegen 38B, Tiller",63.373328,10.396334
+1494459,"Egganvegen 32, Tiller",63.372765,10.395106
+1494460,"Egganvegen 31B, Tiller",63.372549,10.396996
+1494461,"Egganvegen 33, Tiller",63.372509,10.397474
+1494462,"Egganvegen 32B, Tiller",63.372845,10.39521
+1494463,"Egganvegen 34, Tiller",63.372959,10.395516
+1494464,"Egganvegen 33B, Tiller",63.372515,10.397714
+1494465,"Egganvegen 35, Tiller",63.372538,10.398135
+1494466,"Egganvegen 34B, Tiller",63.372993,10.395717
+1494467,"Egganvegen 27, Tiller",63.372325,10.395185
+1494468,"Egganvegen 26, Tiller",63.372304,10.393624
+1494469,"Egganvegen 28, Tiller",63.372361,10.394187
+1494470,"Egganvegen 27B, Tiller",63.372498,10.395833
+1494471,"Egganvegen 30, Tiller",63.372527,10.394695
+1494472,"Egganvegen 29, Tiller",63.372566,10.396257
+1494473,"Egganvegen 31, Tiller",63.372551,10.396816
+1494474,"Egganvegen 30B, Tiller",63.372579,10.394857
+1494475,"Egganvegen 21B, Tiller",63.371763,10.393878
+1494476,"Egganvegen 21, Tiller",63.371712,10.393615
+1494477,"Egganvegen 23, Tiller",63.371876,10.394223
+1494478,"Egganvegen 22, Tiller",63.372217,10.392439
+1494479,"Egganvegen 24, Tiller",63.372265,10.393002
+1494480,"Egganvegen 23B, Tiller",63.371929,10.394386
+1494481,"Egganvegen 25B, Tiller",63.372139,10.394916
+1494482,"Egganvegen 25, Tiller",63.372051,10.394692
+1494483,"Egganvegen 15, Tiller",63.371754,10.392037
+1494484,"Egganvegen 14, Tiller",63.372099,10.389754
+1494485,"Egganvegen 17, Tiller",63.371678,10.392513
+1494486,"Egganvegen 16, Tiller",63.37212,10.390355
+1494487,"Egganvegen 19, Tiller",63.371681,10.393094
+1494488,"Egganvegen 18, Tiller",63.372133,10.390955
+1494489,"Egganvegen 20, Tiller",63.372132,10.391955
+1494490,"Egganvegen 19B, Tiller",63.371688,10.393234
+1496898,"Granhaugan 13, Tiller",63.370195,10.391192
+1496899,"Granhaugan 12, Tiller",63.371496,10.390865
+1496900,"Granhaugan 17, Tiller",63.370819,10.391232
+1496901,"Granhaugan 15, Tiller",63.370505,10.391217
+1496903,"Granhaugan 19, Tiller",63.371133,10.391267
+1496906,"Granhaugan 5, Tiller",63.370122,10.389118
+1496907,"Granhaugan 4, Tiller",63.3704,10.390052
+1496908,"Granhaugan 7, Tiller",63.370065,10.389783
+1496909,"Granhaugan 6, Tiller",63.370661,10.39025
+1496910,"Granhaugan 9, Tiller",63.370029,10.39028
+1496911,"Granhaugan 8, Tiller",63.370948,10.39036
+1496912,"Granhaugan 11, Tiller",63.370015,10.390873
+1496913,"Granhaugan 10, Tiller",63.371194,10.39055
+1496918,"Granhaugan 1, Tiller",63.370296,10.387827
+1496920,"Granhaugan 3, Tiller",63.370173,10.388441
+1496921,"Granhaugan 2, Tiller",63.37036,10.38951
+1497366,"Haldor Flatens veg 7, Tiller",63.371231,10.401492
+1497367,"Haldor Flatens veg 6, Tiller",63.371744,10.403117
+1497368,"Haldor Flatens veg 9, Tiller",63.371323,10.402156
+1497369,"Haldor Flatens veg 7B, Tiller",63.371237,10.401732
+1497370,"Haldor Flatens veg 11, Tiller",63.371362,10.402758
+1497371,"Haldor Flatens veg 9B, Tiller",63.371365,10.402418
+1497372,"Haldor Flatens veg 12, Tiller",63.371847,10.405442
+1497373,"Haldor Flatens veg 11B, Tiller",63.371227,10.402732
+1497374,"Haldor Flatens veg 2B, Tiller",63.371699,10.400395
+1497375,"Haldor Flatens veg 2, Tiller",63.371783,10.400119
+1497376,"Haldor Flatens veg 3B, Tiller",63.371358,10.400438
+1497377,"Haldor Flatens veg 3, Tiller",63.371405,10.40014
+1497378,"Haldor Flatens veg 4B, Tiller",63.37163,10.401071
+1497379,"Haldor Flatens veg 4, Tiller",63.37165,10.400832
+1497380,"Haldor Flatens veg 5B, Tiller",63.371262,10.400993
+1497381,"Haldor Flatens veg 5, Tiller",63.371282,10.400794
+1497388,"Haldor Flatens veg 1B, Tiller",63.371436,10.399802
+1497389,"Haldor Flatens veg 1, Tiller",63.371455,10.399623
+1497573,"Haldor Flatens veg 50, Tiller",63.369017,10.405664
+1497580,"Haldor Flatens veg 37, Tiller",63.369875,10.403386
+1497581,"Haldor Flatens veg 34, Tiller",63.369645,10.403954
+1497582,"Haldor Flatens veg 41, Tiller",63.368979,10.403122
+1497583,"Haldor Flatens veg 39, Tiller",63.369571,10.403211
+1497584,"Haldor Flatens veg 44, Tiller",63.368302,10.406269
+1497585,"Haldor Flatens veg 43, Tiller",63.368685,10.402928
+1497586,"Haldor Flatens veg 48, Tiller",63.368783,10.405732
+1497587,"Haldor Flatens veg 46, Tiller",63.36854,10.40582
+1497588,"Haldor Flatens veg 26, Tiller",63.37058,10.40472
+1497589,"Haldor Flatens veg 25B, Tiller",63.370493,10.403496
+1497590,"Haldor Flatens veg 27B, Tiller",63.370643,10.402823
+1497591,"Haldor Flatens veg 27, Tiller",63.370586,10.40316
+1497592,"Haldor Flatens veg 29A, Tiller",63.370327,10.402588
+1497593,"Haldor Flatens veg 28, Tiller",63.370313,10.404487
+1497594,"Haldor Flatens veg 31, Tiller",63.370115,10.402637
+1497595,"Haldor Flatens veg 30, Tiller",63.370118,10.404218
+1497596,"Haldor Flatens veg 19, Tiller",63.37104,10.403583
+1497597,"Haldor Flatens veg 18, Tiller",63.371362,10.406378
+1497598,"Haldor Flatens veg 21, Tiller",63.370826,10.403392
+1497599,"Haldor Flatens veg 19B, Tiller",63.371164,10.403729
+1497600,"Haldor Flatens veg 23, Tiller",63.370777,10.40383
+1497601,"Haldor Flatens veg 21B, Tiller",63.370882,10.403155
+1497602,"Haldor Flatens veg 25, Tiller",63.370428,10.403693
+1497603,"Haldor Flatens veg 23B, Tiller",63.370721,10.404067
+1497604,"Haldor Flatens veg 13B, Tiller",63.371378,10.403839
+1497605,"Haldor Flatens veg 13, Tiller",63.37152,10.404006
+1497606,"Haldor Flatens veg 15, Tiller",63.371398,10.40458
+1497607,"Haldor Flatens veg 14, Tiller",63.371706,10.405135
+1497608,"Haldor Flatens veg 16D, Tiller",63.371095,10.405174
+1497609,"Haldor Flatens veg 15B, Tiller",63.371237,10.404512
+1497610,"Haldor Flatens veg 17B, Tiller",63.371124,10.404107
+1497611,"Haldor Flatens veg 17, Tiller",63.371051,10.404283
+1503515,"Lunderhaugen 10, Tiller",63.366685,10.40089
+1503516,"Lunderhaugen 9B, Tiller",63.367075,10.400549
+1503517,"Lunderhaugen 11, Tiller",63.366968,10.400444
+1503518,"Lunderhaugen 10B, Tiller",63.366567,10.401105
+1503519,"Lunderhaugen 12, Tiller",63.365228,10.39662
+1503520,"Lunderhaugen 11B, Tiller",63.366863,10.400159
+1503521,"Lunderhaugen 13, Tiller",63.365434,10.39577
+1503522,"Lunderhaugen 12B, Tiller",63.365239,10.396401
+1503523,"Lunderhaugen 5, Tiller",63.367513,10.401611
+1503524,"Lunderhaugen 4B, Tiller",63.366594,10.402926
+1503525,"Lunderhaugen 6B, Tiller",63.366943,10.402043
+1503526,"Lunderhaugen 6, Tiller",63.367105,10.402011
+1503527,"Lunderhaugen 7B, Tiller",63.367214,10.401016
+1503528,"Lunderhaugen 7, Tiller",63.367284,10.40116
+1503529,"Lunderhaugen 9, Tiller",63.367109,10.400731
+1503530,"Lunderhaugen 8, Tiller",63.366904,10.401501
+1503535,"Lunderhaugen 1, Tiller",63.368196,10.402464
+1503537,"Lunderhaugen 4, Tiller",63.367036,10.402707
+1503538,"Lunderhaugen 3, Tiller",63.367994,10.402054
+1503626,"Lunderhaugen 53, Tiller",63.365077,10.398293
+1503627,"Lunderhaugen 51B, Tiller",63.364985,10.398548
+1503628,"Lunderhaugen 55, Tiller",63.365262,10.397742
+1503629,"Lunderhaugen 53B, Tiller",63.36517,10.398017
+1503630,"Lunderhaugen 57, Tiller",63.365472,10.397372
+1503631,"Lunderhaugen 55B, Tiller",63.365405,10.397829
+1503633,"Lunderhaugen 57B, Tiller",63.36556,10.397536
+1503634,"Lunderhaugen 43, Tiller",63.364347,10.400477
+1503635,"Lunderhaugen 41, Tiller",63.364037,10.400941
+1503636,"Lunderhaugen 47, Tiller",63.364868,10.400041
+1503637,"Lunderhaugen 43B, Tiller",63.364398,10.400719
+1503638,"Lunderhaugen 49, Tiller",63.364941,10.399366
+1503639,"Lunderhaugen 47B, Tiller",63.364918,10.399827
+1503640,"Lunderhaugen 51, Tiller",63.365027,10.39887
+1503641,"Lunderhaugen 49B, Tiller",63.364961,10.399187
+1503642,"Lunderhaugen 37, Tiller",63.36379,10.40047
+1503643,"Lunderhaugen 36B, Tiller",63.364786,10.397739
+1503644,"Lunderhaugen 38, Tiller",63.364861,10.397482
+1503645,"Lunderhaugen 37B, Tiller",63.363788,10.400669
+1503646,"Lunderhaugen 39, Tiller",63.36383,10.400991
+1503647,"Lunderhaugen 38B, Tiller",63.364949,10.397317
+1503648,"Lunderhaugen 40, Tiller",63.365089,10.397073
+1503649,"Lunderhaugen 39B, Tiller",63.363871,10.401393
+1503650,"Lunderhaugen 33, Tiller",63.363829,10.399272
+1503651,"Lunderhaugen 32B, Tiller",63.364443,10.398992
+1503652,"Lunderhaugen 34, Tiller",63.364637,10.398371
+1503653,"Lunderhaugen 33B, Tiller",63.363835,10.399532
+1503654,"Lunderhaugen 35, Tiller",63.363833,10.399772
+1503655,"Lunderhaugen 34B, Tiller",63.364548,10.398451
+1503656,"Lunderhaugen 36, Tiller",63.364712,10.397995
+1503657,"Lunderhaugen 35B, Tiller",63.363866,10.400093
+1503658,"Lunderhaugen 28, Tiller",63.364139,10.399647
+1503659,"Lunderhaugen 27B, Tiller",63.363943,10.397738
+1503660,"Lunderhaugen 29, Tiller",63.363865,10.398294
+1503661,"Lunderhaugen 28B, Tiller",63.364263,10.399813
+1503662,"Lunderhaugen 30B, Tiller",63.364491,10.399444
+1503663,"Lunderhaugen 30, Tiller",63.364367,10.399358
+1503664,"Lunderhaugen 32, Tiller",63.36453,10.399166
+1503665,"Lunderhaugen 31, Tiller",63.363825,10.398792
+1503666,"Lunderhaugen 24, Tiller",63.364196,10.39841
+1503667,"Lunderhaugen 23B, Tiller",63.364178,10.396609
+1503668,"Lunderhaugen 25, Tiller",63.364094,10.396945
+1503669,"Lunderhaugen 24B, Tiller",63.364177,10.398609
+1503670,"Lunderhaugen 26, Tiller",63.364164,10.398988
+1503671,"Lunderhaugen 25B, Tiller",63.364002,10.397181
+1503672,"Lunderhaugen 27, Tiller",63.36398,10.397559
+1503673,"Lunderhaugen 26B, Tiller",63.364152,10.399267
+1503674,"Lunderhaugen 20, Tiller",63.364414,10.397281
+1503675,"Lunderhaugen 18B, Tiller",63.364471,10.396983
+1503676,"Lunderhaugen 21, Tiller",63.3644,10.39596
+1503677,"Lunderhaugen 20B, Tiller",63.36434,10.397517
+1503678,"Lunderhaugen 22, Tiller",63.364247,10.397852
+1503679,"Lunderhaugen 21B, Tiller",63.36433,10.395777
+1503680,"Lunderhaugen 23, Tiller",63.364206,10.396511
+1503681,"Lunderhaugen 22B, Tiller",63.364398,10.39798
+1503682,"Lunderhaugen 14, Tiller",63.365035,10.396171
+1503683,"Lunderhaugen 13B, Tiller",63.365354,10.395727
+1503684,"Lunderhaugen 15, Tiller",63.365185,10.395558
+1503685,"Lunderhaugen 14B, Tiller",63.364909,10.396205
+1503686,"Lunderhaugen 16, Tiller",63.364728,10.396336
+1503687,"Lunderhaugen 15B, Tiller",63.365044,10.395472
+1503688,"Lunderhaugen 18, Tiller",63.364553,10.396787
+1503689,"Lunderhaugen 16B, Tiller",63.364782,10.396569
+1503690,"Lykkmarka 2A, Tiller",63.368044,10.397817
+1503691,"Lykkmarka 2, Tiller",63.368038,10.397517
+1503764,"Lykkmarka 33, Tiller",63.364911,10.402444
+1503765,"Lykkmarka 32B, Tiller",63.365262,10.403261
+1503766,"Lykkmarka 34, Tiller",63.365083,10.403192
+1503767,"Lykkmarka 33B, Tiller",63.364851,10.402101
+1503768,"Lykkmarka 35, Tiller",63.364936,10.401705
+1503769,"Lykkmarka 34B, Tiller",63.364984,10.403207
+1503770,"Lykkmarka 36, Tiller",63.364822,10.403259
+1503771,"Lykkmarka 35B, Tiller",63.365078,10.401912
+1503772,"Lykkmarka 27B, Tiller",63.365624,10.401999
+1503773,"Lykkmarka 27, Tiller",63.365725,10.401783
+1503774,"Lykkmarka 29B, Tiller",63.365378,10.402406
+1503775,"Lykkmarka 29, Tiller",63.365505,10.402253
+1503776,"Lykkmarka 30B, Tiller",63.365603,10.403217
+1503777,"Lykkmarka 30, Tiller",63.36574,10.403064
+1503778,"Lykkmarka 32, Tiller",63.365397,10.403187
+1503779,"Lykkmarka 31, Tiller",63.365197,10.402538
+1503780,"Lykkmarka 22, Tiller",63.366155,10.401844
+1503781,"Lykkmarka 21B, Tiller",63.365985,10.400036
+1503782,"Lykkmarka 23B, Tiller",63.365879,10.400771
+1503783,"Lykkmarka 23, Tiller",63.365936,10.400414
+1503784,"Lykkmarka 25, Tiller",63.365858,10.40111
+1503785,"Lykkmarka 24, Tiller",63.366498,10.401701
+1503786,"Lykkmarka 26, Tiller",63.366348,10.402334
+1503787,"Lykkmarka 25B, Tiller",63.36581,10.401408
+1503788,"Lykkmarka 18, Tiller",63.366555,10.400444
+1503789,"Lykkmarka 17B, Tiller",63.36641,10.398817
+1503790,"Lykkmarka 18C, Tiller",63.366445,10.400719
+1503791,"Lykkmarka 18B, Tiller",63.366359,10.400315
+1503792,"Lykkmarka 19B, Tiller",63.366125,10.399483
+1503793,"Lykkmarka 19, Tiller",63.36618,10.399306
+1503794,"Lykkmarka 21, Tiller",63.366023,10.399818
+1503795,"Lykkmarka 20, Tiller",63.366252,10.401109
+1503796,"Lykkmarka 14, Tiller",63.366998,10.399186
+1503797,"Lykkmarka 13B, Tiller",63.367005,10.398486
+1503798,"Lykkmarka 15, Tiller",63.366725,10.398733
+1503799,"Lykkmarka 14B, Tiller",63.36689,10.399301
+1503800,"Lykkmarka 16, Tiller",63.366787,10.399656
+1503801,"Lykkmarka 15B, Tiller",63.366673,10.39849
+1503802,"Lykkmarka 17, Tiller",63.3665,10.398742
+1503803,"Lykkmarka 16B, Tiller",63.366795,10.399756
+1503804,"Lykkmarka 10, Tiller",63.36719,10.399775
+1503805,"Lykkmarka 9, Tiller",63.367446,10.398348
+1503806,"Lykkmarka 11, Tiller",63.367258,10.398339
+1503807,"Lykkmarka 10B, Tiller",63.36717,10.400014
+1503808,"Lykkmarka 12, Tiller",63.367241,10.399118
+1503809,"Lykkmarka 11B, Tiller",63.367234,10.398037
+1503810,"Lykkmarka 13, Tiller",63.366989,10.398266
+1503811,"Lykkmarka 12B, Tiller",63.367169,10.399154
+1503812,"Lykkmarka 5, Tiller",63.367715,10.397561
+1503813,"Lykkmarka 4B, Tiller",63.367582,10.399174
+1503814,"Lykkmarka 6, Tiller",63.367505,10.39969
+1503815,"Lykkmarka 5B, Tiller",63.367631,10.397797
+1503816,"Lykkmarka 7, Tiller",63.367654,10.398198
+1503817,"Lykkmarka 6B, Tiller",63.36752,10.399971
+1503818,"Lykkmarka 8B, Tiller",63.367346,10.400383
+1503819,"Lykkmarka 8, Tiller",63.367416,10.400586
+1503820,"Lykkmarka 2D, Tiller",63.367851,10.399187
+1503821,"Lykkmarka 2C, Tiller",63.367992,10.398534
+1503822,"Lykkmarka 4, Tiller",63.367601,10.399075
+1503823,"Lykkmarka 2E, Tiller",63.36785,10.399327
+1503869,"Lykkmarka 68B, Tiller",63.366752,10.396854
+1503870,"Lykkmarka 68, Tiller",63.366644,10.396889
+1503871,"Lykkmarka 70B, Tiller",63.366926,10.396463
+1503872,"Lykkmarka 70, Tiller",63.366978,10.396685
+1503873,"Lykkmarka 72B, Tiller",63.367054,10.396289
+1503874,"Lykkmarka 72, Tiller",63.367105,10.396591
+1503875,"Lykkmarka 62, Tiller",63.366001,10.397438
+1503876,"Lykkmarka 61B, Tiller",63.367736,10.397162
+1503877,"Lykkmarka 63, Tiller",63.368114,10.39708
+1503878,"Lykkmarka 62B, Tiller",63.366055,10.39748
+1503879,"Lykkmarka 64B, Tiller",63.366273,10.397151
+1503880,"Lykkmarka 64, Tiller",63.366298,10.397352
+1503881,"Lykkmarka 66B, Tiller",63.366464,10.39692
+1503882,"Lykkmarka 66, Tiller",63.366479,10.397221
+1503883,"Lykkmarka 58, Tiller",63.365606,10.398418
+1503884,"Lykkmarka 57B, Tiller",63.367205,10.397356
+1503885,"Lykkmarka 59, Tiller",63.367458,10.397129
+1503886,"Lykkmarka 58B, Tiller",63.365482,10.398212
+1503887,"Lykkmarka 60, Tiller",63.365708,10.398063
+1503888,"Lykkmarka 59B, Tiller",63.367455,10.397508
+1503889,"Lykkmarka 61A, Tiller",63.367611,10.397156
+1503890,"Lykkmarka 60B, Tiller",63.365638,10.3979
+1503891,"Lykkmarka 54, Tiller",63.365334,10.399525
+1503892,"Lykkmarka 53B, Tiller",63.366787,10.397896
+1503893,"Lykkmarka 55, Tiller",63.36697,10.397465
+1503894,"Lykkmarka 54B, Tiller",63.365293,10.399203
+1503895,"Lykkmarka 56, Tiller",63.365341,10.398865
+1503896,"Lykkmarka 55B, Tiller",63.367004,10.397746
+1503897,"Lykkmarka 57, Tiller",63.367167,10.397574
+1503898,"Lykkmarka 56B, Tiller",63.365459,10.398771
+1503899,"Lykkmarka 50, Tiller",63.365126,10.400615
+1503900,"Lykkmarka 49B, Tiller",63.36636,10.398355
+1503901,"Lykkmarka 51, Tiller",63.366499,10.397922
+1503902,"Lykkmarka 50B, Tiller",63.36503,10.40039
+1503903,"Lykkmarka 52, Tiller",63.365331,10.399925
+1503904,"Lykkmarka 51B, Tiller",63.366533,10.398083
+1503905,"Lykkmarka 53, Tiller",63.36677,10.397795
+1503906,"Lykkmarka 52B, Tiller",63.365233,10.39984
+1503907,"Lykkmarka 45B, Tiller",63.365805,10.399128
+1503908,"Lykkmarka 45, Tiller",63.365758,10.399405
+1503909,"Lykkmarka 46B, Tiller",63.364589,10.401448
+1503910,"Lykkmarka 46, Tiller",63.364559,10.401687
+1503911,"Lykkmarka 47B, Tiller",63.365986,10.398977
+1503912,"Lykkmarka 47, Tiller",63.365898,10.398852
+1503913,"Lykkmarka 49, Tiller",63.366335,10.398234
+1503914,"Lykkmarka 48, Tiller",63.364748,10.400716
+1503915,"Lykkmarka 41B, Tiller",63.365685,10.400362
+1503916,"Lykkmarka 41, Tiller",63.365637,10.400679
+1503917,"Lykkmarka 42B, Tiller",63.364052,10.402102
+1503918,"Lykkmarka 42, Tiller",63.364141,10.402266
+1503919,"Lykkmarka 43B, Tiller",63.365727,10.399724
+1503920,"Lykkmarka 43, Tiller",63.365671,10.400021
+1503921,"Lykkmarka 44B, Tiller",63.36428,10.401793
+1503922,"Lykkmarka 44, Tiller",63.364422,10.40196
+1503923,"Lykkmarka 37, Tiller",63.365201,10.401278
+1503924,"Lykkmarka 36B, Tiller",63.364697,10.403153
+1503925,"Lykkmarka 38, Tiller",63.364555,10.402986
+1503926,"Lykkmarka 37B, Tiller",63.365278,10.401622
+1503927,"Lykkmarka 39, Tiller",63.365498,10.401193
+1503928,"Lykkmarka 38B, Tiller",63.364475,10.402962
+1503929,"Lykkmarka 40B, Tiller",63.364154,10.402747
+1503930,"Lykkmarka 40, Tiller",63.364233,10.402871
+1504805,"Mikkelvegen 11, Tiller",63.369807,10.391951
+1504806,"Mikkelvegen 9B, Tiller",63.370291,10.392026
+1504807,"Mikkelvegen 13B, Tiller",63.369913,10.393068
+1504808,"Mikkelvegen 13A, Tiller",63.369853,10.392765
+1504809,"Mikkelvegen 17, Tiller",63.36977,10.393881
+1504810,"Mikkelvegen 15, Tiller",63.369757,10.39342
+1504811,"Mikkelvegen 21, Tiller",63.369758,10.39416
+1504812,"Mikkelvegen 19, Tiller",63.36977,10.394007
+1504813,"Mikkelvegen 6, Tiller",63.370333,10.393248
+1504814,"Mikkelvegen 5B, Tiller",63.370482,10.391735
+1504815,"Mikkelvegen 7, Tiller",63.370305,10.392387
+1504816,"Mikkelvegen 6B, Tiller",63.370267,10.393585
+1504817,"Lykkmarka 77, Tiller",63.37003,10.395793
+1504818,"Mikkelvegen 7B, Tiller",63.370133,10.392599
+1504819,"Mikkelvegen 9, Tiller",63.370111,10.392117
+1504820,"Paul Skolemesters veg 2A, Tiller",63.370027,10.396113
+1504825,"Mikkelvegen 3A, Tiller",63.371049,10.391603
+1504827,"Mikkelvegen 5, Tiller",63.370524,10.392097
+1504828,"Mikkelvegen 3B, Tiller",63.370778,10.39177
+1508574,"Ole Skolemesters veg 9B, Tiller",63.36935,10.40008
+1508575,"Ole Skolemesters veg 9, Tiller",63.36937,10.399881
+1508576,"Ole Skolemesters veg 11B, Tiller",63.36929,10.400717
+1508577,"Ole Skolemesters veg 11, Tiller",63.369329,10.400479
+1508578,"Ole Skolemesters veg 13B, Tiller",63.369203,10.401353
+1508579,"Ole Skolemesters veg 13A, Tiller",63.369214,10.401134
+1508582,"Ole Skolemesters veg 5B, Tiller",63.369562,10.398671
+1508583,"Ole Skolemesters veg 4B, Tiller",63.369893,10.399687
+1508584,"Ole Skolemesters veg 6B, Tiller",63.369663,10.400255
+1508585,"Ole Skolemesters veg 6, Tiller",63.369692,10.400077
+1508586,"Ole Skolemesters veg 7B, Tiller",63.369469,10.3995
+1508587,"Ole Skolemesters veg 7, Tiller",63.369528,10.399329
+1508588,"Ole Skolemesters veg 8B, Tiller",63.369612,10.400873
+1508589,"Ole Skolemesters veg 8, Tiller",63.369659,10.400675
+1508592,"Ole Skolemesters veg 1, Tiller",63.369749,10.3979
+1508594,"Ole Skolemesters veg 2B, Tiller",63.369826,10.399203
+1508595,"Ole Skolemesters veg 2, Tiller",63.369864,10.398945
+1508596,"Ole Skolemesters veg 4, Tiller",63.36975,10.3996
+1508597,"Ole Skolemesters veg 3, Tiller",63.369675,10.398156
+1509092,"Parallellen 8B, Tiller",63.368219,10.399165
+1509093,"Parallellen 8, Tiller",63.368173,10.399343
+1509094,"Parallellen 12, Tiller",63.368374,10.398053
+1509095,"Parallellen 10B, Tiller",63.368332,10.398631
+1509096,"Parallellen 15A, Tiller",63.368625,10.399025
+1509097,"Parallellen 14, Tiller",63.368352,10.397572
+1509098,"Parallellen 16, Tiller",63.36802,10.395656
+1509099,"Parallellen 15B, Tiller",63.368635,10.398846
+1509100,"Parallellen 2, Tiller",63.367643,10.401157
+1509101,"Parallellen 1B, Tiller",63.368001,10.401294
+1509102,"Parallellen 4, Tiller",63.367829,10.400546
+1509103,"Parallellen 2B, Tiller",63.367744,10.400942
+1509104,"Parallellen 6, Tiller",63.368059,10.399917
+1509105,"Parallellen 4B, Tiller",63.367876,10.400328
+1509106,"Parallellen 7B, Tiller",63.368204,10.400744
+1509107,"Parallellen 7, Tiller",63.368148,10.400922
+1509114,"Parallellen 1, Tiller",63.367954,10.401532
+1509242,"Parallellen 43A, Tiller",63.369254,10.389696
+1509243,"Parallellen 41B, Tiller",63.369277,10.390117
+1509244,"Parallellen 45A, Tiller",63.36933,10.38932
+1509245,"Parallellen 43B, Tiller",63.369274,10.389577
+1509246,"Parallellen 47A, Tiller",63.369307,10.388939
+1509247,"Parallellen 45B, Tiller",63.369358,10.389221
+1509249,"Parallellen 47B, Tiller",63.369281,10.388837
+1509250,"Parallellen 35A, Tiller",63.369103,10.391429
+1509251,"Parallellen 33B, Tiller",63.369117,10.391829
+1509252,"Parallellen 37A, Tiller",63.369169,10.391072
+1509253,"Parallellen 35B, Tiller",63.369122,10.39133
+1509254,"Parallellen 39A, Tiller",63.369165,10.390552
+1509255,"Parallellen 37B, Tiller",63.369197,10.390993
+1509256,"Parallellen 41A, Tiller",63.36924,10.390235
+1509257,"Parallellen 39B, Tiller",63.369193,10.390453
+1509258,"Parallellen 30A, Tiller",63.36874,10.389071
+1509259,"Parallellen 29B, Tiller",63.369054,10.392726
+1509260,"Parallellen 31A, Tiller",63.369023,10.392305
+1509261,"Parallellen 30B, Tiller",63.368723,10.388971
+1509262,"Parallellen 32A, Tiller",63.368815,10.388735
+1509263,"Parallellen 31B, Tiller",63.369042,10.392186
+1509264,"Parallellen 33A, Tiller",63.369098,10.391968
+1509265,"Parallellen 32B, Tiller",63.368789,10.388614
+1509266,"Parallellen 26A, Tiller",63.368874,10.390038
+1509267,"Parallellen 25, Tiller",63.369029,10.394385
+1509268,"Parallellen 27A, Tiller",63.368951,10.393161
+1509269,"Parallellen 26B, Tiller",63.368866,10.389917
+1509270,"Parallellen 28A, Tiller",63.368753,10.389592
+1509271,"Parallellen 27B, Tiller",63.368952,10.393061
+1509272,"Parallellen 29A, Tiller",63.369017,10.392845
+1509273,"Parallellen 28B, Tiller",63.368781,10.389493
+1509274,"Parallellen 18, Tiller",63.368421,10.394136
+1509275,"Parallellen 17, Tiller",63.36873,10.39837
+1509276,"Parallellen 21B, Tiller",63.368741,10.397251
+1509277,"Parallellen 19A, Tiller",63.368707,10.397949
+1509278,"Parallellen 23, Tiller",63.368806,10.395214
+1509279,"Parallellen 21A, Tiller",63.368716,10.39705
+1509280,"Parallellen 24B, Tiller",63.368835,10.390416
+1509281,"Parallellen 24A, Tiller",63.368842,10.390536
+1509401,"Paul Skolemesters veg 22B, Tiller",63.369512,10.402788
+1509402,"Paul Skolemesters veg 22, Tiller",63.369614,10.402513
+1509404,"Paul Skolemesters veg 23, Tiller",63.369209,10.402633
+1509409,"Paul Skolemesters veg 17, Tiller",63.369366,10.402121
+1509410,"Paul Skolemesters veg 16B, Tiller",63.370347,10.401211
+1509411,"Paul Skolemesters veg 18B, Tiller",63.370098,10.401657
+1509412,"Paul Skolemesters veg 18, Tiller",63.370189,10.401541
+1509413,"Paul Skolemesters veg 20, Tiller",63.369915,10.401988
+1509414,"Paul Skolemesters veg 19A, Tiller",63.369109,10.401868
+1509415,"Paul Skolemesters veg 21, Tiller",63.368953,10.402531
+1509416,"Paul Skolemesters veg 20B, Tiller",63.369797,10.402182
+1509417,"Paul Skolemesters veg 13, Tiller",63.370005,10.401032
+1509418,"Paul Skolemesters veg 12A, Tiller",63.370676,10.399465
+1509419,"Paul Skolemesters veg 14, Tiller",63.370525,10.400087
+1509420,"Paul Skolemesters veg 13B, Tiller",63.369923,10.401148
+1509421,"Paul Skolemesters veg 15, Tiller",63.369706,10.401397
+1509422,"Paul Skolemesters veg 14B, Tiller",63.370491,10.400448
+1509423,"Paul Skolemesters veg 16, Tiller",63.370428,10.400951
+1509424,"Paul Skolemesters veg 15B, Tiller",63.369607,10.401373
+1509427,"Paul Skolemesters veg 8, Tiller",63.370381,10.39845
+1509428,"Paul Skolemesters veg 7B, Tiller",63.370113,10.399197
+1509429,"Paul Skolemesters veg 10A, Tiller",63.37051,10.398977
+1509430,"Paul Skolemesters veg 9, Tiller",63.370197,10.399761
+1509431,"Paul Skolemesters veg 10C, Tiller",63.370525,10.399317
+1509432,"Paul Skolemesters veg 10B, Tiller",63.370796,10.399111
+1509433,"Paul Skolemesters veg 11B, Tiller",63.3701,10.400537
+1509434,"Paul Skolemesters veg 11, Tiller",63.370111,10.400357
+1509435,"Paul Skolemesters veg 4, Tiller",63.370188,10.397081
+1509436,"Paul Skolemesters veg 3, Tiller",63.369808,10.397383
+1509437,"Paul Skolemesters veg 5, Tiller",63.369985,10.398531
+1509438,"Paul Skolemesters veg 4B, Tiller",63.370204,10.397262
+1509439,"Paul Skolemesters veg 6, Tiller",63.370244,10.397722
+1509440,"Paul Skolemesters veg 5B, Tiller",63.369904,10.398645
+1509441,"Paul Skolemesters veg 7, Tiller",63.370098,10.398957
+1509442,"Paul Skolemesters veg 6B, Tiller",63.370297,10.397866
+1509447,"Paul Skolemesters veg 1B, Tiller",63.369723,10.396717
+1509448,"Paul Skolemesters veg 1, Tiller",63.36968,10.396456
+1509449,"Paul Skolemesters veg 2C, Tiller",63.370075,10.396676
+1509450,"Paul Skolemesters veg 2B, Tiller",63.370068,10.396515
+1513149,"Skjetnemarkvegen 1A, Tiller",63.372923,10.389033
+1513163,"Skjetnemarkvegen 43, Tiller",63.371105,10.385906
+1513164,"Skjetnemarkvegen 42B, Tiller",63.374146,10.392513
+1513165,"Skjetnemarkvegen 44B, Tiller",63.373913,10.392442
+1513166,"Skjetnemarkvegen 44, Tiller",63.373872,10.39206
+1513167,"Skjetnemarkvegen 46, Tiller",63.373979,10.393105
+1513168,"Skjetnemarkvegen 47, Tiller",63.371059,10.385023
+1513169,"Skjetnemarkvegen 46B, Tiller",63.373984,10.393505
+1513170,"Skjetnemarkvegen 40, Tiller",63.374479,10.392409
+1513171,"Skjetnemarkvegen 39D, Tiller",63.371666,10.386353
+1513172,"Skjetnemarkvegen 41A, Tiller",63.371333,10.386377
+1513173,"Skjetnemarkvegen 40B, Tiller",63.374345,10.392402
+1513174,"Skjetnemarkvegen 41C, Tiller",63.371425,10.386161
+1513175,"Skjetnemarkvegen 41B, Tiller",63.371379,10.386279
+1513176,"Skjetnemarkvegen 42, Tiller",63.37415,10.392153
+1513177,"Skjetnemarkvegen 41D, Tiller",63.37148,10.386064
+1513178,"Skjetnemarkvegen 37C, Tiller",63.371815,10.38674
+1513179,"Skjetnemarkvegen 37B, Tiller",63.371769,10.386838
+1513180,"Skjetnemarkvegen 38, Tiller",63.374752,10.392002
+1513181,"Skjetnemarkvegen 37D, Tiller",63.371869,10.386642
+1513182,"Skjetnemarkvegen 39A, Tiller",63.371528,10.386666
+1513183,"Skjetnemarkvegen 38B, Tiller",63.374749,10.392342
+1513184,"Skjetnemarkvegen 39C, Tiller",63.37162,10.38645
+1513185,"Skjetnemarkvegen 39B, Tiller",63.371574,10.386568
+1513186,"Skjetnemarkvegen 34B, Tiller",63.374465,10.391148
+1513187,"Skjetnemarkvegen 34, Tiller",63.374393,10.391125
+1513188,"Skjetnemarkvegen 35B, Tiller",63.371973,10.387107
+1513189,"Skjetnemarkvegen 35A, Tiller",63.371918,10.387205
+1513190,"Skjetnemarkvegen 35D, Tiller",63.372064,10.386912
+1513191,"Skjetnemarkvegen 35C, Tiller",63.372018,10.38701
+1513192,"Skjetnemarkvegen 37A, Tiller",63.371732,10.386936
+1513193,"Skjetnemarkvegen 36, Tiller",63.374686,10.391419
+1513194,"Skjetnemarkvegen 31D, Tiller",63.372541,10.387675
+1513195,"Skjetnemarkvegen 31C, Tiller",63.372487,10.387772
+1513196,"Skjetnemarkvegen 32B, Tiller",63.374222,10.391176
+1513197,"Skjetnemarkvegen 32, Tiller",63.374113,10.391241
+1513198,"Skjetnemarkvegen 33B, Tiller",63.372158,10.387396
+1513199,"Skjetnemarkvegen 33A, Tiller",63.372121,10.387495
+1513200,"Skjetnemarkvegen 33D, Tiller",63.372259,10.387181
+1513201,"Skjetnemarkvegen 33C, Tiller",63.372204,10.387319
+1513202,"Skjetnemarkvegen 29B, Tiller",63.373076,10.389941
+1513203,"Skjetnemarkvegen 29A, Tiller",63.373078,10.389781
+1513204,"Skjetnemarkvegen 29D, Tiller",63.373073,10.390201
+1513205,"Skjetnemarkvegen 29C, Tiller",63.373075,10.390081
+1513206,"Skjetnemarkvegen 30B, Tiller",63.373897,10.391321
+1513207,"Skjetnemarkvegen 30, Tiller",63.373911,10.390841
+1513208,"Skjetnemarkvegen 31B, Tiller",63.372432,10.38787
+1513209,"Skjetnemarkvegen 31A, Tiller",63.372395,10.387968
+1513210,"Skjetnemarkvegen 26B, Tiller",63.374124,10.390172
+1513211,"Skjetnemarkvegen 26, Tiller",63.374268,10.390178
+1513212,"Skjetnemarkvegen 27B, Tiller",63.373113,10.390763
+1513213,"Skjetnemarkvegen 27A, Tiller",63.373105,10.390622
+1513214,"Skjetnemarkvegen 27D, Tiller",63.37311,10.391063
+1513215,"Skjetnemarkvegen 27C, Tiller",63.37312,10.390923
+1513216,"Skjetnemarkvegen 28B, Tiller",63.373925,10.390322
+1513217,"Skjetnemarkvegen 28, Tiller",63.373965,10.389884
+1513218,"Skjetnemarkvegen 23D, Tiller",63.373058,10.39266
+1513219,"Skjetnemarkvegen 23C, Tiller",63.373051,10.39254
+1513220,"Skjetnemarkvegen 24B, Tiller",63.374436,10.390347
+1513221,"Skjetnemarkvegen 24, Tiller",63.374544,10.390332
+1513222,"Skjetnemarkvegen 25B, Tiller",63.373105,10.391542
+1513223,"Skjetnemarkvegen 25A, Tiller",63.373107,10.391402
+1513224,"Skjetnemarkvegen 25D, Tiller",63.373111,10.391883
+1513225,"Skjetnemarkvegen 25C, Tiller",63.373113,10.391703
+1513226,"Skjetnemarkvegen 21B, Tiller",63.373111,10.393683
+1513227,"Skjetnemarkvegen 21A, Tiller",63.373113,10.393543
+1513228,"Skjetnemarkvegen 21D, Tiller",63.373108,10.393983
+1513229,"Skjetnemarkvegen 21C, Tiller",63.37311,10.393843
+1513230,"Skjetnemarkvegen 22B, Tiller",63.374743,10.390221
+1513231,"Skjetnemarkvegen 22, Tiller",63.374808,10.390005
+1513232,"Skjetnemarkvegen 23B, Tiller",63.373043,10.392379
+1513233,"Skjetnemarkvegen 23A, Tiller",63.373045,10.39222
+1513234,"Skjetnemarkvegen 18, Tiller",63.374513,10.38897
+1513235,"Skjetnemarkvegen 17D, Tiller",63.373585,10.393886
+1513236,"Skjetnemarkvegen 19B, Tiller",63.373343,10.393814
+1513237,"Skjetnemarkvegen 19A, Tiller",63.373354,10.393675
+1513238,"Skjetnemarkvegen 19D, Tiller",63.37334,10.394134
+1513239,"Skjetnemarkvegen 19C, Tiller",63.373351,10.393974
+1513240,"Skjetnemarkvegen 20B, Tiller",63.374768,10.389443
+1513241,"Skjetnemarkvegen 20, Tiller",63.374717,10.38922
+1513242,"Skjetnemarkvegen 15C, Tiller",63.37354,10.392984
+1513243,"Skjetnemarkvegen 15B, Tiller",63.373541,10.392844
+1513244,"Skjetnemarkvegen 16, Tiller",63.374207,10.389063
+1513245,"Skjetnemarkvegen 15D, Tiller",63.37353,10.393123
+1513246,"Skjetnemarkvegen 17A, Tiller",63.373589,10.393446
+1513247,"Skjetnemarkvegen 16B, Tiller",63.374306,10.38904
+1513248,"Skjetnemarkvegen 17C, Tiller",63.373577,10.393745
+1513249,"Skjetnemarkvegen 17B, Tiller",63.373588,10.393586
+1513250,"Skjetnemarkvegen 13A, Tiller",63.37351,10.391278
+1513251,"Skjetnemarkvegen 12B, Tiller",63.373935,10.388382
+1513252,"Skjetnemarkvegen 13C, Tiller",63.373509,10.391582
+1513253,"Skjetnemarkvegen 13B, Tiller",63.37351,10.391442
+1513254,"Skjetnemarkvegen 14, Tiller",63.374029,10.388887
+1513255,"Skjetnemarkvegen 13D, Tiller",63.373503,10.391742
+1513256,"Skjetnemarkvegen 15A, Tiller",63.373543,10.392704
+1513257,"Skjetnemarkvegen 14B, Tiller",63.374009,10.389086
+1513258,"Skjetnemarkvegen 10, Tiller",63.373645,10.387728
+1513259,"Skjetnemarkvegen 9D, Tiller",63.373534,10.389923
+1513260,"Skjetnemarkvegen 11A, Tiller",63.373476,10.39038
+1513261,"Skjetnemarkvegen 10B, Tiller",63.37376,10.387934
+1513262,"Skjetnemarkvegen 11C, Tiller",63.373482,10.390681
+1513263,"Skjetnemarkvegen 11B, Tiller",63.373474,10.39054
+1513264,"Skjetnemarkvegen 12, Tiller",63.373901,10.388221
+1513265,"Skjetnemarkvegen 11D, Tiller",63.37348,10.39082
+1513266,"Skjetnemarkvegen 7C, Tiller",63.373598,10.388886
+1513267,"Skjetnemarkvegen 7B, Tiller",63.37359,10.388746
+1513268,"Skjetnemarkvegen 8, Tiller",63.373332,10.387633
+1513269,"Skjetnemarkvegen 7D, Tiller",63.373606,10.389026
+1513270,"Skjetnemarkvegen 9A, Tiller",63.37352,10.389482
+1513271,"Skjetnemarkvegen 8B, Tiller",63.373468,10.38752
+1513272,"Skjetnemarkvegen 9C, Tiller",63.373526,10.389783
+1513273,"Skjetnemarkvegen 9B, Tiller",63.373528,10.389623
+1513274,"Skjetnemarkvegen 5A, Tiller",63.373359,10.388494
+1513275,"Skjetnemarkvegen 3D, Tiller",63.373128,10.389203
+1513276,"Skjetnemarkvegen 5C, Tiller",63.373365,10.388815
+1513277,"Skjetnemarkvegen 5B, Tiller",63.373358,10.388674
+1513278,"Skjetnemarkvegen 6, Tiller",63.373061,10.3878
+1513279,"Skjetnemarkvegen 5D, Tiller",63.373364,10.388955
+1513280,"Skjetnemarkvegen 7A, Tiller",63.373601,10.388586
+1513281,"Skjetnemarkvegen 6B, Tiller",63.373135,10.387604
+1513282,"Skjetnemarkvegen 1C, Tiller",63.37292,10.389333
+1513283,"Skjetnemarkvegen 1B, Tiller",63.372922,10.389193
+1513284,"Skjetnemarkvegen 2, Tiller",63.372571,10.388376
+1513285,"Skjetnemarkvegen 1D, Tiller",63.372919,10.389473
+1513286,"Skjetnemarkvegen 3A, Tiller",63.373132,10.388763
+1513287,"Skjetnemarkvegen 2B, Tiller",63.372667,10.388621
+1513288,"Skjetnemarkvegen 3C, Tiller",63.373139,10.389044
+1513289,"Skjetnemarkvegen 3B, Tiller",63.373131,10.388923
+1513342,"Skjetnemarkvegen 90, Tiller",63.371261,10.387313
+1513343,"Skjetnemarkvegen 88B, Tiller",63.371429,10.387581
+1513344,"Skjetnemarkvegen 92, Tiller",63.371058,10.386963
+1513345,"Skjetnemarkvegen 90B, Tiller",63.371208,10.387231
+1513346,"Skjetnemarkvegen 94, Tiller",63.3708,10.386711
+1513347,"Skjetnemarkvegen 92B, Tiller",63.370987,10.3869
+1513349,"Skjetnemarkvegen 94B, Tiller",63.370751,10.386549
+1513350,"Skjetnemarkvegen 82, Tiller",63.372208,10.388739
+1513351,"Skjetnemarkvegen 80B, Tiller",63.372349,10.388966
+1513352,"Skjetnemarkvegen 84, Tiller",63.371943,10.388286
+1513353,"Skjetnemarkvegen 82B, Tiller",63.372085,10.388513
+1513354,"Skjetnemarkvegen 86, Tiller",63.371721,10.388055
+1513355,"Skjetnemarkvegen 84B, Tiller",63.371872,10.388183
+1513356,"Skjetnemarkvegen 88, Tiller",63.371474,10.387643
+1513357,"Skjetnemarkvegen 86B, Tiller",63.371624,10.387871
+1513358,"Skjetnemarkvegen 74, Tiller",63.372676,10.392322
+1513359,"Skjetnemarkvegen 72, Tiller",63.372688,10.392922
+1513360,"Skjetnemarkvegen 76, Tiller",63.372717,10.391784
+1513361,"Skjetnemarkvegen 74B, Tiller",63.372686,10.392162
+1513362,"Skjetnemarkvegen 78A, Tiller",63.372715,10.391103
+1513363,"Skjetnemarkvegen 76B, Tiller",63.372719,10.391564
+1513364,"Skjetnemarkvegen 80, Tiller",63.372409,10.389269
+1513365,"Skjetnemarkvegen 78B, Tiller",63.372763,10.390726
+1513366,"Skjetnemarkvegen 62B, Tiller",63.373664,10.39501
+1513367,"Skjetnemarkvegen 62, Tiller",63.3738,10.394856
+1513368,"Skjetnemarkvegen 64B, Tiller",63.373314,10.394993
+1513369,"Skjetnemarkvegen 64, Tiller",63.373395,10.394997
+1513370,"Skjetnemarkvegen 66B, Tiller",63.373011,10.394718
+1513371,"Skjetnemarkvegen 66, Tiller",63.373082,10.394822
+1513372,"Skjetnemarkvegen 70, Tiller",63.372711,10.393363
+1513373,"Skjetnemarkvegen 68, Tiller",63.372809,10.394308
+1513374,"Skjetnemarkvegen 54B, Tiller",63.374693,10.39444
+1513375,"Skjetnemarkvegen 54, Tiller",63.374721,10.394301
+1513376,"Skjetnemarkvegen 56B, Tiller",63.374412,10.394686
+1513377,"Skjetnemarkvegen 56, Tiller",63.374493,10.39465
+1513378,"Skjetnemarkvegen 58B, Tiller",63.374145,10.394453
+1513379,"Skjetnemarkvegen 58, Tiller",63.374223,10.394697
+1513380,"Skjetnemarkvegen 60B, Tiller",63.373868,10.39436
+1513381,"Skjetnemarkvegen 60, Tiller",63.373958,10.394324
+1513382,"Skjetnemarkvegen 48B, Tiller",63.374337,10.393182
+1513383,"Skjetnemarkvegen 48, Tiller",63.37429,10.39342
+1513384,"Skjetnemarkvegen 50B, Tiller",63.374614,10.393276
+1513385,"Skjetnemarkvegen 50, Tiller",63.374498,10.39327
+1513386,"Skjetnemarkvegen 52, Tiller",63.374646,10.393757
+1513387,"Skjetnemarkvegen 51, Tiller",63.370519,10.385195
+1513388,"Skjetnemarkvegen 53, Tiller",63.370713,10.385527
+1513389,"Skjetnemarkvegen 52B, Tiller",63.374788,10.393864
+1516997,"Trofetvegen 6, Tiller",63.366082,10.395642
+1516998,"Trofetvegen 5B, Tiller",63.366387,10.396537
+1516999,"Trofetvegen 7, Tiller",63.366517,10.396103
+1517000,"Trofetvegen 6B, Tiller",63.366171,10.395646
+1517001,"Trofetvegen 8, Tiller",63.366307,10.395533
+1517002,"Trofetvegen 7B, Tiller",63.366562,10.396045
+1517003,"Trofetvegen 9B, Tiller",63.366807,10.395797
+1517004,"Trofetvegen 9, Tiller",63.366733,10.396073
+1517005,"Trofetvegen 2, Tiller",63.365574,10.396137
+1517006,"Trofetvegen 1B, Tiller",63.36589,10.396832
+1517007,"Trofetvegen 3, Tiller",63.366056,10.396471
+1517008,"Trofetvegen 2B, Tiller",63.365673,10.396142
+1517009,"Trofetvegen 4, Tiller",63.365836,10.39599
+1517010,"Trofetvegen 3B, Tiller",63.36617,10.396746
+1517011,"Trofetvegen 5, Tiller",63.366309,10.396273
+1517012,"Trofetvegen 4B, Tiller",63.365908,10.395913
+1517019,"Trofetvegen 1, Tiller",63.365871,10.396951
+1517156,"Trofetvegen 10B, Tiller",63.366626,10.395048
+1517157,"Trofetvegen 10, Tiller",63.366535,10.395144
+1517158,"Trofetvegen 11B, Tiller",63.366968,10.395825
+1517159,"Trofetvegen 11, Tiller",63.366939,10.395663
+1517160,"Trofetvegen 12B, Tiller",63.36687,10.39492
+1517161,"Trofetvegen 12, Tiller",63.366816,10.394938
+1519419,"Øverfossvegen 62, Tiller",63.371528,10.410527
+1519420,"Øverfossvegen 60, Tiller",63.3715,10.410645
+1519421,"Øverfossvegen 66, Tiller",63.371612,10.410151
+1519422,"Øverfossvegen 64, Tiller",63.371556,10.410388
+1519423,"Øverfossvegen 70, Tiller",63.371659,10.409913
+1519424,"Øverfossvegen 68, Tiller",63.37164,10.410032
+1519427,"Øverfossvegen 46, Tiller",63.371671,10.410574
+1519428,"Øverfossvegen 44, Tiller",63.371949,10.409627
+1519429,"Øverfossvegen 50, Tiller",63.371777,10.410679
+1519430,"Øverfossvegen 48, Tiller",63.371724,10.410616
+1519431,"Øverfossvegen 54, Tiller",63.371973,10.410828
+1519432,"Øverfossvegen 52, Tiller",63.371831,10.410721
+1519433,"Øverfossvegen 58, Tiller",63.371587,10.410909
+1519434,"Øverfossvegen 56, Tiller",63.371745,10.411277
+1519435,"Øverfossvegen 30, Tiller",63.372132,10.410216
+1519436,"Øverfossvegen 28, Tiller",63.37209,10.409954
+1519437,"Øverfossvegen 34, Tiller",63.372058,10.410473
+1519438,"Øverfossvegen 32, Tiller",63.372086,10.410314
+1519439,"Øverfossvegen 38, Tiller",63.371847,10.410022
+1519440,"Øverfossvegen 36, Tiller",63.371801,10.41016
+1519441,"Øverfossvegen 42, Tiller",63.37193,10.409746
+1519442,"Øverfossvegen 40, Tiller",63.371911,10.409865
+1519443,"Øverfossvegen 14, Tiller",63.37198,10.409309
+1519444,"Øverfossvegen 12, Tiller",63.372026,10.408271
+1519445,"Øverfossvegen 18, Tiller",63.372098,10.409174
+1519446,"Øverfossvegen 16, Tiller",63.372007,10.40921
+1519448,"Øverfossvegen 22, Tiller",63.372076,10.409573
+1519449,"Øverfossvegen 20, Tiller",63.372142,10.409197
+1519450,"Øverfossvegen 26, Tiller",63.372127,10.409836
+1519451,"Øverfossvegen 24, Tiller",63.372156,10.409597
+1519454,"Øverfossvegen 2, Tiller",63.37188,10.408484
+1519456,"Øverfossvegen 6, Tiller",63.371936,10.408246
+1519457,"Øverfossvegen 4, Tiller",63.371908,10.408365
+1519458,"Øverfossvegen 10, Tiller",63.372054,10.408152
+1519459,"Øverfossvegen 8, Tiller",63.371955,10.408127
+1520313,"Mikkelvegen 4B, Tiller",63.371091,10.392845
+1520315,"Trofetvegen 14, Tiller",63.3672,10.395056
+1520400,"Mikkelvegen 4A, Tiller",63.37105,10.392443
+1520789,"Lykkmarka 28, Tiller",63.366151,10.402264
+1520963,"Haldor Flatens veg 52, Tiller",63.36891,10.407418
+1521916,"Skjetnemarkvegen 96, Tiller",63.370593,10.386781
+1522758,"Ole Skolemesters veg 15, Tiller",63.369311,10.401756
+1522836,"Nedre Sjetnhaugan 11A, Tiller",63.369026,10.399957
+1522838,"Nedre Sjetnhaugan 5, Tiller",63.368734,10.40253
+1522840,"Nedre Sjetnhaugan 11C, Tiller",63.369035,10.400033
+1522842,"Nedre Sjetnhaugan 11B, Tiller",63.369031,10.399855
+1522844,"Nedre Sjetnhaugan 9A, Tiller",63.3689,10.40085
+1522846,"Nedre Sjetnhaugan 11D, Tiller",63.369057,10.39981
+1522848,"Nedre Sjetnhaugan 7A, Tiller",63.368707,10.401669
+1522850,"Nedre Sjetnhaugan 9B, Tiller",63.368921,10.40074
+1522852,"Nedre Sjetnhaugan 4, Tiller",63.368485,10.401338
+1522854,"Øvre Sjetnhaugan 15, Tiller",63.369851,10.387465
+1522856,"Parallellen 13, Tiller",63.368654,10.399666
+1522858,"Nedre Sjetnhaugan 6, Tiller",63.368534,10.40096
+1522859,"Nedre Sjetnhaugan 18, Tiller",63.368937,10.39742
+1522860,"Nedre Sjetnhaugan 14, Tiller",63.368908,10.398559
+1522862,"Nedre Sjetnhaugan 3, Tiller",63.368774,10.402152
+1522863,"Nedre Sjetnhaugan 1, Tiller",63.3685,10.402539
+1522869,"Øvre Sjetnhaugan 5, Tiller",63.369802,10.386883
+1522873,"Øvre Sjetnhaugan 9, Tiller",63.368965,10.387102
+1522875,"Øvre Sjetnhaugan 7, Tiller",63.369355,10.386761
+1522876,"Øvre Sjetnhaugan 13, Tiller",63.369456,10.387446
+1522878,"Øvre Sjetnhaugan 11, Tiller",63.369215,10.387334
+1523061,"Nedre Sjetnhaugan 15, Tiller",63.369222,10.398864
+1523069,"Nedre Sjetnhaugan 7C, Tiller",63.36877,10.401652
+1523071,"Nedre Sjetnhaugan 7B, Tiller",63.368733,10.40169
+1523073,"Nedre Sjetnhaugan 7E, Tiller",63.368789,10.401513
+1523075,"Nedre Sjetnhaugan 7D, Tiller",63.368779,10.401592
+1523077,"Nedre Sjetnhaugan 9C, Tiller",63.368918,10.400937
+1523079,"Nedre Sjetnhaugan 7F, Tiller",63.368754,10.401431
+1523081,"Nedre Sjetnhaugan 13, Tiller",63.369151,10.399331
+1523083,"Nedre Sjetnhaugan 9D, Tiller",63.368948,10.400702
+1523545,"Nedre Sjetnhaugan 2, Tiller",63.368344,10.401805
+1523582,"Nedre Sjetnhaugan 17, Tiller",63.36941,10.398563
+1523583,"Nedre Sjetnhaugan 23, Tiller",63.369471,10.397204
+1523584,"Nedre Sjetnhaugan 21, Tiller",63.369507,10.397808
+1523586,"Nedre Sjetnhaugan 25, Tiller",63.36941,10.396743
+1523782,"Skjetnemarkvegen 4A, Tiller",63.372814,10.388268
+1523975,"Mellomfossvegen 80, Tiller",63.37261,10.405459
+1523979,"Mellomfossvegen 61, Tiller",63.375475,10.402559
+1523981,"Mellomfossvegen 63, Tiller",63.375538,10.403502
+1523992,"Skjetnemarkvegen 49A, Tiller",63.370799,10.384971
+1524158,"Skjetnemarkvegen 4B, Tiller",63.372932,10.388094
+1524546,"Skjetnemarkvegen 49B, Tiller",63.370936,10.384797
+1525548,"Haldor Flatens veg 36A, Tiller",63.369481,10.404106
+1525549,"Haldor Flatens veg 36B, Tiller",63.369401,10.404083
+1525551,"Haldor Flatens veg 32, Tiller",63.36985,10.404064
+1525751,"Carl Schjetnans veg 6C, Tiller",63.371355,10.394258
+1525753,"Carl Schjetnans veg 6D, Tiller",63.371464,10.394143
+1525754,"Carl Schjetnans veg 6A, Tiller",63.371329,10.394157
+1525755,"Carl Schjetnans veg 6B, Tiller",63.371447,10.394022
+1525756,"Carl Schjetnans veg 8C, Tiller",63.371468,10.394683
+1525757,"Carl Schjetnans veg 8D, Tiller",63.37155,10.394547
+1525758,"Carl Schjetnans veg 8A, Tiller",63.371433,10.394542
+1525759,"Carl Schjetnans veg 8B, Tiller",63.371524,10.394406
+1525879,"Carl Schjetnans veg 10C, Tiller",63.371572,10.395048
+1525880,"Carl Schjetnans veg 10D, Tiller",63.371672,10.394933
+1525881,"Carl Schjetnans veg 10A, Tiller",63.371545,10.394978
+1525882,"Carl Schjetnans veg 10B, Tiller",63.371646,10.394827
+1526194,"Nedre Sjetnhaugan 12A, Tiller",63.368672,10.400607
+1526195,"Nedre Sjetnhaugan 10A, Tiller",63.368353,10.400172
+1526199,"Nedre Sjetnhaugan 8, Tiller",63.368297,10.400369
+1526734,"Mikkelvegen 2A, Tiller",63.371313,10.392116
+1526743,"Parallellen 8C, Tiller",63.368028,10.399496
+1526991,"Øverfossvegen 3, Tiller",63.371616,10.406111
+1527094,"Øverfossvegen 1, Tiller",63.371476,10.405764
+1527443,"Mikkelvegen 2B, Tiller",63.371317,10.392716
+1528377,"Lykkmarka 76, Tiller",63.369621,10.395394
+1529239,"Alf Godagers veg 34, Tiller",63.374592,10.401036
+1529240,"Alf Godagers veg 33, Tiller",63.373977,10.401526
+1529241,"Alf Godagers veg 33B, Tiller",63.374111,10.401632
+1529242,"Alf Godagers veg 30, Tiller",63.373932,10.400643
+1529243,"Alf Godagers veg 30B, Tiller",63.374074,10.40075
+1529244,"Alf Godagers veg 29, Tiller",63.373292,10.400932
+1529245,"Alf Godagers veg 29B, Tiller",63.373435,10.400999
+1529246,"Alf Godagers veg 32, Tiller",63.374253,10.400839
+1529247,"Alf Godagers veg 32B, Tiller",63.37436,10.400904
+1529248,"Alf Godagers veg 31, Tiller",63.373657,10.40117
+1529249,"Alf Godagers veg 31B, Tiller",63.373765,10.401195
+1529250,"Alf Godagers veg 26, Tiller",63.373335,10.400154
+1529251,"Alf Godagers veg 26B, Tiller",63.373488,10.400122
+1529252,"Alf Godagers veg 25, Tiller",63.372555,10.401036
+1529253,"Alf Godagers veg 25B, Tiller",63.372716,10.401104
+1529254,"Alf Godagers veg 28, Tiller",63.373664,10.40045
+1529255,"Alf Godagers veg 28B, Tiller",63.373772,10.400436
+1529256,"Alf Godagers veg 27, Tiller",63.372896,10.401053
+1529257,"Alf Godagers veg 27B, Tiller",63.373067,10.400961
+1529258,"Alf Godagers veg 22, Tiller",63.372562,10.400297
+1529259,"Alf Godagers veg 22B, Tiller",63.372732,10.400385
+1529260,"Alf Godagers veg 21, Tiller",63.372045,10.400325
+1529261,"Alf Godagers veg 21B, Tiller",63.372156,10.400497
+1529262,"Alf Godagers veg 24, Tiller",63.372957,10.400276
+1529263,"Alf Godagers veg 24B, Tiller",63.373128,10.400204
+1529264,"Alf Godagers veg 23, Tiller",63.372368,10.400887
+1529265,"Alf Godagers veg 23B, Tiller",63.372311,10.401124
+1529266,"Alf Godagers veg 17B, Tiller",63.371513,10.399285
+1529267,"Alf Godagers veg 18, Tiller",63.372202,10.399419
+1529268,"Alf Godagers veg 16B, Tiller",63.372003,10.398709
+1529269,"Alf Godagers veg 17, Tiller",63.371541,10.399127
+1529270,"Alf Godagers veg 20, Tiller",63.372351,10.399826
+1529271,"Alf Godagers veg 20B, Tiller",63.372403,10.400009
+1529272,"Alf Godagers veg 19, Tiller",63.371859,10.399662
+1529273,"Alf Godagers veg 19B, Tiller",63.371983,10.399848
+1529274,"Alf Godagers veg 13B, Tiller",63.370952,10.398798
+1529275,"Alf Godagers veg 14, Tiller",63.371495,10.398325
+1529276,"Alf Godagers veg 12F, Tiller",63.371221,10.397931
+1529277,"Alf Godagers veg 13, Tiller",63.37098,10.39868
+1529278,"Alf Godagers veg 15B, Tiller",63.371155,10.399128
+1529279,"Alf Godagers veg 16, Tiller",63.372005,10.398529
+1529280,"Alf Godagers veg 14B, Tiller",63.371701,10.398395
+1529281,"Alf Godagers veg 15, Tiller",63.371149,10.398868
+1529282,"Alf Godagers veg 11B, Tiller",63.370687,10.398305
+1529283,"Alf Godagers veg 12, Tiller",63.37111,10.397346
+1529284,"Alf Godagers veg 10D, Tiller",63.371133,10.397013
+1529285,"Alf Godagers veg 11, Tiller",63.370681,10.398085
+1529286,"Alf Godagers veg 12D, Tiller",63.370998,10.39774
+1529287,"Alf Godagers veg 12E, Tiller",63.371228,10.398092
+1529288,"Alf Godagers veg 12B, Tiller",63.371072,10.397484
+1529289,"Alf Godagers veg 12C, Tiller",63.371026,10.397622
+1529290,"Alf Godagers veg 8D, Tiller",63.371102,10.396266
+1529291,"Alf Godagers veg 9, Tiller",63.370615,10.397402
+1529292,"Alf Godagers veg 8B, Tiller",63.371042,10.396003
+1529293,"Alf Godagers veg 8C, Tiller",63.371068,10.396124
+1529294,"Alf Godagers veg 10B, Tiller",63.371142,10.396747
+1529295,"Alf Godagers veg 10C, Tiller",63.37115,10.396888
+1529296,"Alf Godagers veg 9B, Tiller",63.370632,10.397583
+1529297,"Alf Godagers veg 10, Tiller",63.371153,10.396608
+1529298,"Alf Godagers veg 6B, Tiller",63.370824,10.395332
+1529299,"Alf Godagers veg 6C, Tiller",63.370868,10.395474
+1529300,"Alf Godagers veg 5B, Tiller",63.3705,10.396356
+1529301,"Alf Godagers veg 6, Tiller",63.370781,10.39521
+1529302,"Alf Godagers veg 7B, Tiller",63.370566,10.396999
+1529303,"Alf Godagers veg 8, Tiller",63.371008,10.395841
+1529304,"Alf Godagers veg 6D, Tiller",63.370921,10.395557
+1529305,"Alf Godagers veg 7, Tiller",63.370523,10.396717
+1529306,"Alf Godagers veg 3B, Tiller",63.370408,10.395672
+1529307,"Alf Godagers veg 4, Tiller",63.370509,10.394497
+1529308,"Alf Godagers veg 2D, Tiller",63.370322,10.394348
+1529309,"Alf Godagers veg 3, Tiller",63.370311,10.395507
+1529310,"Alf Godagers veg 4D, Tiller",63.370668,10.394804
+1529311,"Alf Godagers veg 5, Tiller",63.370467,10.396075
+1529312,"Alf Godagers veg 4B, Tiller",63.370562,10.394619
+1529313,"Alf Godagers veg 4C, Tiller",63.370606,10.394721
+1529315,"Alf Godagers veg 1, Tiller",63.370143,10.395219
+1529318,"Alf Godagers veg 2B, Tiller",63.370197,10.394262
+1529319,"Alf Godagers veg 2C, Tiller",63.37026,10.394305
+1529320,"Lykkmarka 79, Tiller",63.370061,10.395375
+1529321,"Alf Godagers veg 2, Tiller",63.370126,10.394258
+1529897,"Alf Godagers veg 58B, Tiller",63.372009,10.40263
+1529898,"Alf Godagers veg 60, Tiller",63.371688,10.402434
+1529899,"Alf Godagers veg 56B, Tiller",63.3721,10.403454
+1529900,"Alf Godagers veg 58, Tiller",63.372117,10.402675
+1529902,"Alf Godagers veg 60B, Tiller",63.371677,10.402614
+1529903,"Alf Godagers veg 11C, Tiller",63.370695,10.398486
+1529904,"Alf Godagers veg 52, Tiller",63.37251,10.402814
+1529905,"Alf Godagers veg 52B, Tiller",63.372348,10.402846
+1529906,"Alf Godagers veg 51, Tiller",63.372001,10.401689
+1529907,"Alf Godagers veg 51B, Tiller",63.371929,10.401646
+1529908,"Alf Godagers veg 54, Tiller",63.372334,10.403386
+1529909,"Alf Godagers veg 56, Tiller",63.372129,10.403216
+1529910,"Alf Godagers veg 53, Tiller",63.371687,10.401634
+1529911,"Alf Godagers veg 53B, Tiller",63.371635,10.401452
+1529912,"Alf Godagers veg 48, Tiller",63.373207,10.402288
+1529913,"Alf Godagers veg 48B, Tiller",63.373082,10.402202
+1529914,"Alf Godagers veg 47, Tiller",63.372602,10.401659
+1529915,"Alf Godagers veg 47B, Tiller",63.372495,10.401653
+1529916,"Alf Godagers veg 50, Tiller",63.372857,10.402271
+1529917,"Alf Godagers veg 50B, Tiller",63.372692,10.402563
+1529918,"Alf Godagers veg 49, Tiller",63.372313,10.401845
+1529919,"Alf Godagers veg 49B, Tiller",63.372179,10.401858
+1529920,"Alf Godagers veg 44, Tiller",63.373813,10.402718
+1529921,"Alf Godagers veg 44B, Tiller",63.373742,10.402654
+1529922,"Alf Godagers veg 42B, Tiller",63.373973,10.402806
+1529923,"Alf Godagers veg 43, Tiller",63.373292,10.401852
+1529924,"Alf Godagers veg 46, Tiller",63.373509,10.402523
+1529925,"Alf Godagers veg 46B, Tiller",63.373367,10.402396
+1529926,"Alf Godagers veg 45, Tiller",63.373017,10.401625
+1529927,"Alf Godagers veg 45B, Tiller",63.372861,10.401649
+1529928,"Alf Godagers veg 38B, Tiller",63.374574,10.402875
+1529929,"Alf Godagers veg 39, Tiller",63.374061,10.40213
+1529930,"Alf Godagers veg 37B, Tiller",63.374213,10.402177
+1529931,"Alf Godagers veg 38, Tiller",63.374675,10.40266
+1529932,"Alf Godagers veg 41, Tiller",63.37365,10.40193
+1529933,"Alf Godagers veg 42, Tiller",63.374116,10.402893
+1529934,"Alf Godagers veg 39B, Tiller",63.373882,10.402021
+1529935,"Alf Godagers veg 40, Tiller",63.374331,10.402963
+1529936,"Alf Godagers veg 34B, Tiller",63.374661,10.401319
+1529937,"Alf Godagers veg 36, Tiller",63.374845,10.401828
+1529938,"Alf Godagers veg 37, Tiller",63.374347,10.402264
+1529939,"Alf Godagers veg 35, Tiller",63.374288,10.401821
+1529940,"Alf Godagers veg 35B, Tiller",63.374449,10.401929
+1535036,"Haldor Flatens veg 35A, Tiller",63.370207,10.403342
+1535038,"Haldor Flatens veg 33A, Tiller",63.370013,10.402992
+1535321,"Haldor Flatens veg 33B, Tiller",63.369897,10.402967
+1535323,"Haldor Flatens veg 35B, Tiller",63.370169,10.40358
+1536705,"Egganvegen 15B, Tiller",63.371513,10.391905
+1648482,"Skjetnemarkvegen 45A, Tiller",63.371441,10.38532
+1668138,"Paul Skolemesters veg 19B, Tiller",63.368945,10.401916
+1674721,"Haldor Flatens veg 29B, Tiller",63.37033,10.40281
+1718359,"Paul Skolemesters veg 12B, Tiller",63.370661,10.399702
+1721308,"Lykkmarka 2B, Tiller",63.367977,10.398224
+1748974,"Skjetnemarkvegen 45C, Tiller",63.3713,10.385284
+1753081,"Skjetnemarkvegen 10C, Tiller",63.373837,10.387911
+1882066,"Parallellen 11, Tiller",63.368465,10.399589
+1882137,"Parallellen 9, Tiller",63.368458,10.399687
+1936871,"Nedre Sjetnhaugan 20A, Tiller",63.369173,10.397695
+1936874,"Nedre Sjetnhaugan 20B, Tiller",63.369113,10.397643
+1960847,"Haldor Flatens veg 16A, Tiller",63.371178,10.405522
+1960850,"Haldor Flatens veg 16B, Tiller",63.371197,10.405504
+1960852,"Haldor Flatens veg 16C, Tiller",63.371257,10.405482
+1967381,"Nedre Sjetnhaugan 19A, Tiller",63.369439,10.398276
+1967442,"Nedre Sjetnhaugan 19C, Tiller",63.369329,10.398226
+1967443,"Nedre Sjetnhaugan 19E, Tiller",63.369284,10.398383
+1969607,"Nedre Sjetnhaugan 19B, Tiller",63.369449,10.398282
+1969608,"Nedre Sjetnhaugan 19D, Tiller",63.369334,10.398193
+1969611,"Nedre Sjetnhaugan 19F, Tiller",63.369289,10.398419
+1977784,"Parallellen 19B, Tiller",63.368652,10.397606
+1983311,"Parallellen 19C, Tiller",63.368719,10.397615
+1983316,"Lunderhaugen 12C, Tiller",63.365288,10.396488
+1997209,"Mikkelvegen 1B, Tiller",63.372211,10.391032
+2004353,"Nedre Sjetnhaugan 16A, Tiller",63.368895,10.398108
+2004354,"Nedre Sjetnhaugan 16B, Tiller",63.369002,10.398153
+2013311,"Nedre Sjetnhaugan 24, Tiller",63.369037,10.396908
+2013312,"Nedre Sjetnhaugan 22, Tiller",63.36902,10.397146
+2062756,"Parallellen 20, Tiller",63.368183,10.393933
+2063051,"Parallellen 10A, Tiller",63.368203,10.398752
+2063055,"Nedre Sjetnhaugan 12B, Tiller",63.368783,10.400077
+2079229,"Nedre Sjetnhaugan 10C, Tiller",63.368552,10.400168
+2079230,"Nedre Sjetnhaugan 10B, Tiller",63.368525,10.400283
+2080814,"Mikkelvegen 13C, Tiller",63.36969,10.392758
+2369935,"Keiseråsvegen 12, Tiller",63.367349,10.405856
+2369936,"Keiseråsvegen 10, Tiller",63.367845,10.405876
+2369937,"Keiseråsvegen 6, Tiller",63.367482,10.404915
+2369938,"Keiseråsvegen 8, Tiller",63.36783,10.405175
+2467273,"Keiseråsvegen 1, Tiller",63.367296,10.402714
+2475525,"Skjetnemarkvegen 45B, Tiller",63.371362,10.385154
+2477013,"Skjetnemarkvegen 45E, Tiller",63.371286,10.38512
+2477015,"Skjetnemarkvegen 45D, Tiller",63.37128,10.385137

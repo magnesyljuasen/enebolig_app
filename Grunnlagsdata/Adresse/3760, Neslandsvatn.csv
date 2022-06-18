@@ -1,0 +1,664 @@
+,Navn,Long,Lat
+4275,"17/25, Kroken",58.930432,9.172302
+4284,"25/22, Kroken",58.979715,9.258359
+4285,"25/18, Kroken",58.984175,9.255504
+4303,"25/85, Kroken",58.986408,9.243533
+4304,"25/92, Kroken",58.984904,9.240738
+4305,"25/42, Kroken",58.962451,9.23168
+4306,"25/40, Kroken",58.94942,9.216037
+4312,"25/122, Kroken",58.976811,9.259989
+4313,"25/35, Kroken",59.0019,9.217688
+4315,"25/196, Kroken",58.985141,9.243732
+4316,"19/18, Kroken",58.934268,9.16888
+4317,"19/8, Kroken",58.933288,9.16236
+4325,"17/18/2, Kroken",58.921858,9.167881
+4345,"25/158, Kroken",58.984492,9.22506
+4363,"18/47, Kroken",58.914037,9.107352
+4400,"25/180, Kroken",58.99025,9.244308
+4410,"23/3, Kroken",59.004753,9.142451
+4411,"18/6-1, Kroken",58.924428,9.14403
+20168,"25/194, Kroken",58.978476,9.186946
+28976,"24/218-1, Kroken",58.967419,9.180793
+36507,"25/85-1, Kroken",58.986437,9.243073
+40061,"18/52, Kroken",58.906549,9.091628
+503981,"Krokenveien 1610, Kroken",58.964295,9.153861
+503982,"Hauglandsgrenda 224, Kroken",58.949103,9.100752
+503983,"Krokenveien 1594, Kroken",58.964005,9.152994
+503984,"Hauglandsgrenda 226, Kroken",58.949158,9.099953
+503985,"Lundemoveien 12, Kroken",58.951295,9.110614
+503986,"Hauglandsgrenda 181, Kroken",58.949375,9.108487
+503987,"Lundemoveien 62, Kroken",58.952263,9.102517
+503988,"Hauglandsgrenda 41, Kroken",58.956892,9.128329
+503989,"Hauglandsgrenda 45, Kroken",58.957485,9.128036
+503990,"Hauglandsveien 26, Kroken",58.954745,9.119838
+503991,"Øygardsveien 70, Kroken",58.959078,9.133361
+503992,"Krokenveien 1451, Kroken",58.954099,9.137375
+503993,"Hauglandsgrenda 43, Kroken",58.957565,9.128679
+503994,"Fosstveit 3, Kroken",58.95403,9.134315
+503995,"Øygardsveien 15, Kroken",58.957823,9.139754
+503996,"Fosstveit 21, Kroken",58.953044,9.131947
+503997,"Hauglandsgrenda 24, Kroken",58.95194,9.127862
+503998,"Øygardsveien 45, Kroken",58.96273,9.136557
+503999,"Øygardsveien 24, Kroken",58.959216,9.138209
+504000,"Sandvannsveien 21, Kroken",58.942744,9.131925
+504001,"Rød 2, Kroken",58.948214,9.130608
+504002,"Solheimsveien 63, Kroken",58.945106,9.137754
+504003,"Krokenveien 1311, Kroken",58.943324,9.135108
+504004,"Hauglandsgrenda 177, Kroken",58.949365,9.109391
+504005,"Rød 9, Kroken",58.949661,9.129918
+504006,"Lundemoveien 19, Kroken",58.951018,9.109622
+504007,"Hauglandsgrenda 221, Kroken",58.95008,9.103171
+504008,"Hauglandsgrenda 176, Kroken",58.949806,9.108836
+504009,"Hauglandsgrenda 67, Kroken",58.954544,9.123262
+504010,"Hauglandsgrenda 222, Kroken",58.949551,9.101588
+504011,"Hauglandsveien 21, Kroken",58.954244,9.117455
+504012,"Hauglandsveien 12, Kroken",58.953757,9.119435
+504013,"Hauglandsgrenda 206, Kroken",58.949019,9.104541
+504014,"Hauglandsgrenda 187, Kroken",58.950536,9.10604
+504015,"Hauglandsgrenda 228, Kroken",58.950669,9.096221
+504016,"Hauglandsgrenda 204, Kroken",58.949373,9.105093
+504017,"Lundemoveien 50, Kroken",58.952127,9.104133
+504018,"Hauglandsgrenda 223, Kroken",58.950201,9.102006
+504019,"Hauglandsgrenda 199, Kroken",58.950169,9.104823
+504020,"Lundemoveien 39, Kroken",58.951318,9.104965
+504021,"Solheimsveien 106, Kroken",58.948307,9.136326
+504022,"Solheimsveien 29, Kroken",58.941291,9.137659
+504023,"Solheimsveien 26, Kroken",58.941499,9.137238
+504024,"Solheimsveien 76, Kroken",58.945621,9.136872
+504025,"Solheimsveien 9, Kroken",58.939324,9.138654
+504026,"Krokenveien 1384, Kroken",58.949812,9.131101
+504027,"Rød 172, Kroken",58.940055,9.116451
+504028,"Krokenveien 1383, Kroken",58.951613,9.135053
+504029,"Krokenveien 1288, Kroken",58.940811,9.133673
+504030,"Harkjæråsen 17, Kroken",58.931,9.14523
+504031,"Krokenveien 1364, Kroken",58.947755,9.131284
+504032,"Sandvannsveien 46, Kroken",58.940121,9.13202
+504033,"Sandvannsveien 54, Kroken",58.939297,9.130227
+504034,"Krokenveien 1357, Kroken",58.947269,9.133211
+504035,"Rød 7, Kroken",58.949184,9.130855
+504036,"Sandvannsveien 20, Kroken",58.942366,9.132689
+504037,"Sandvannsveien 42, Kroken",58.940624,9.132056
+504038,"Krokenveien 1358, Kroken",58.94736,9.131474
+504039,"Solheimsveien 19, Kroken",58.940879,9.137705
+504040,"Krokenveien 1386, Kroken",58.95066,9.130131
+504041,"Stengerveien 135, Kroken",58.941039,9.15456
+504042,"Sandvannsveien 34, Kroken",58.940947,9.13237
+504043,"Krokenveien 1381, Kroken",58.949881,9.13423
+504044,"Krokenveien 1302, Kroken",58.942579,9.134636
+504045,"Sandvannsveien 10, Kroken",58.943182,9.133352
+504046,"Solheimsveien 15, Kroken",58.94033,9.13805
+504047,"Krokenveien 1379, Kroken",58.949378,9.133915
+504048,"Krokenveien 660, Kroken",58.903387,9.178779
+504049,"Solheimsveien 51, Kroken",58.943599,9.138463
+504050,"Stengerveien 18, Kroken",58.932026,9.143298
+504051,"Krokenveien 669, Kroken",58.904423,9.178782
+504052,"Harkjæråsen 47, Kroken",58.927627,9.142602
+504053,"Lundemoveien 2, Kroken",58.950135,9.112487
+504054,"Krokenveien 652, Kroken",58.902274,9.178764
+504055,"Stengerveien 33, Kroken",58.934728,9.152412
+504056,"Harkjæråsen 40, Kroken",58.928693,9.144517
+504057,"Krokenveien 715, Kroken",58.909078,9.181186
+504058,"Stengerveien 44, Kroken",58.934359,9.145514
+504059,"Krokenveien 1122, Kroken",58.927888,9.14163
+504060,"Holmfetveien 63, Kroken",58.946367,9.096435
+504062,"Krokenveien 654, Kroken",58.89902,9.176405
+504063,"Krokenveien 658, Kroken",58.903136,9.178934
+504064,"Harkjæråsen 34, Kroken",58.92969,9.144591
+504065,"Hauglandsgrenda 281, Kroken",58.961164,9.100475
+504066,"Krokenveien 711, Kroken",58.908227,9.179239
+504067,"Krokenveien 713, Kroken",58.908264,9.180522
+504068,"Krokenveien 665, Kroken",58.904121,9.180588
+504069,"Krokenveien 1135, Kroken",58.928804,9.14219
+504070,"Brødsjøveien 54, Kroken",58.927699,9.133292
+504071,"Stengerveien 2, Kroken",58.931569,9.142445
+504074,"Brødsjøveien 5, Kroken",58.930018,9.140145
+504075,"Stengerveien 27, Kroken",58.932625,9.146028
+504076,"Krokenveien 606, Kroken",58.902531,9.186757
+504077,"Krokenveien 637, Kroken",58.903446,9.183632
+504078,"Rønninggrenda 25, Kroken",58.92327,9.143209
+504079,"Krokenveien 645, Kroken",58.903823,9.182027
+504080,"Rønninggrenda 54, Kroken",58.922303,9.148572
+504081,"Rønninggrenda 48, Kroken",58.922779,9.148469
+504082,"Juklerødveien 27, Kroken",58.923456,9.137635
+504083,"Rønninggrenda 31, Kroken",58.923726,9.145365
+504084,"Juklerødveien 83, Kroken",58.922088,9.13143
+504085,"Krokenveien 647, Kroken",58.903787,9.181466
+504086,"Åkregrenda 83, Kroken",58.919446,9.164362
+504087,"Måbuholtveien 54, Kroken",58.91081,9.179173
+504088,"Juklerødveien 25, Kroken",58.923383,9.138694
+504089,"Krokenveien 906, Kroken",58.912237,9.155091
+504090,"Krokenveien 706, Kroken",58.906861,9.173988
+504091,"Harkjæråsen 26, Kroken",58.929947,9.144873
+504092,"Krokenveien 702, Kroken",58.905952,9.175286
+504093,"Krokenveien 947, Kroken",58.916449,9.155614
+504094,"Øygardsgrenda 121, Kroken",58.901948,9.136647
+504095,"Vølaneveien 721, Kroken",58.99734,9.021512
+504096,"Krokenveien 1025, Kroken",58.92039,9.146618
+504097,"Brødsjøveien 70, Kroken",58.927133,9.132288
+504098,"Hauglandsveien 7, Kroken",58.952753,9.117919
+504099,"Rønninggrenda 16, Kroken",58.925315,9.145562
+504100,"Juklerødveien 107, Kroken",58.920646,9.128351
+504101,"Krokenveien 626, Kroken",58.901914,9.183039
+504102,"Krokenveien 1023, Kroken",58.920158,9.147243
+504103,"Juklerødveien 103, Kroken",58.921004,9.129186
+504104,"Juklerødveien 114, Kroken",58.9199,9.128678
+504105,"Krokenveien 624, Kroken",58.902589,9.184277
+504106,"Krokenveien 655, Kroken",58.903469,9.180364
+504107,"Krokenveien 683, Kroken",58.905778,9.177871
+504108,"Rønninggrenda 26, Kroken",58.924099,9.149344
+504109,"Rønninggrenda 37, Kroken",58.923385,9.145433
+504110,"Krokenveien 1021, Kroken",58.919629,9.147171
+504111,"Krokenveien 758, Kroken",58.908101,9.170726
+504112,"Åkregrenda 51, Kroken",58.919064,9.161304
+504113,"Øygardsgrenda 102, Kroken",58.902021,9.14385
+504114,"Åkregrenda 53, Kroken",58.91875,9.160747
+504115,"Krokenveien 912, Kroken",58.913017,9.156692
+504116,"Krokenveien 747, Kroken",58.908821,9.172158
+504117,"Krokenveien 969, Kroken",58.916595,9.153096
+504118,"Øygardsgrenda 131, Kroken",58.900984,9.139403
+504119,"Øygardsgrenda 85, Kroken",58.903915,9.144657
+504120,"Øygardsgrenda 6, Kroken",58.906443,9.156593
+504121,"Krokenveien 980, Kroken",58.916734,9.149728
+504122,"Krokenveien 972, Kroken",58.915986,9.151514
+504123,"Øygardsgrenda 142, Kroken",58.900617,9.141613
+504124,"Krokenveien 756, Kroken",58.908031,9.171789
+504125,"Krokenveien 982, Kroken",58.916142,9.149031
+504126,"Måbuholtveien 19, Kroken",58.910631,9.175327
+504127,"Krokenveien 704, Kroken",58.906419,9.175291
+504128,"Krokenveien 986, Kroken",58.917157,9.149244
+504129,"Åkregrenda 35, Kroken",58.920179,9.159815
+504130,"Øygardsgrenda 124, Kroken",58.901549,9.140585
+504131,"Måbuholtveien 12, Kroken",58.91039,9.173884
+504132,"Øygardsgrenda 115, Kroken",58.90215,9.140831
+504133,"Øygardsgrenda 22, Kroken",58.904675,9.155127
+504134,"Krokenveien 757, Kroken",58.909955,9.170358
+504135,"Åkregrenda 131, Kroken",58.922863,9.168546
+504136,"Krokenveien 726, Kroken",58.908672,9.176237
+504137,"Krokenveien 749, Kroken",58.908993,9.171378
+504138,"Krokenveien 983, Kroken",58.91834,9.150812
+504139,"Måbuholtveien 5, Kroken",58.909329,9.175164
+504154,"Øygardsgrenda 26, Kroken",58.904999,9.154083
+504155,"Åkregrenda 112, Kroken",58.923784,9.164
+504156,"Øygardsgrenda 119, Kroken",58.902225,9.137863
+504157,"Åkregrenda 45, Kroken",58.919576,9.160889
+504158,"Åkregrenda 137, Kroken",58.923059,9.169485
+504159,"Krokenveien 961, Kroken",58.918088,9.156385
+504160,"Måbuholtveien 33, Kroken",58.911464,9.177015
+504161,"Øygardsgrenda 99, Kroken",58.903162,9.143456
+504162,"Krokenveien 904, Kroken",58.912173,9.155872
+504163,"Krokenveien 759, Kroken",58.909624,9.169558
+504164,"Åkregrenda 70, Kroken",58.919108,9.162207
+504165,"Øygardsgrenda 109, Kroken",58.902506,9.141808
+504166,"Åkregrenda 66, Kroken",58.918272,9.16262
+504381,"Krokenveien 1512, Kroken",58.959606,9.143534
+504383,"Stengerveien 421, Kroken",58.959546,9.171002
+504385,"Gareveien 172, Kroken",58.975914,9.136175
+504386,"Gareveien 183, Kroken",58.976649,9.13736
+504388,"Krokenveien 1510, Kroken",58.959322,9.140229
+504390,"Heldalsgrenda 16, Kroken",58.962259,9.1485
+504392,"Stengerveien 423, Kroken",58.959615,9.171858
+504394,"Stengerveien 193, Kroken",58.945859,9.157136
+504398,"Heldalsgrenda 18, Kroken",58.961927,9.147994
+504404,"Heldalsgrenda 24, Kroken",58.962162,9.146396
+504405,"Stengerveien 169, Kroken",58.945017,9.162068
+504406,"Krokenveien 1506, Kroken",58.958037,9.140937
+504407,"Stengerveien 266, Kroken",58.95279,9.15835
+504408,"Krokenveien 1532, Kroken",58.960585,9.143155
+504409,"Øygardsveien 35, Kroken",58.961506,9.138743
+504410,"Gareveien 404, Kroken",58.994245,9.125527
+504411,"Heldalsgrenda 56, Kroken",58.963282,9.141132
+504412,"Gareveien 175, Kroken",58.977812,9.141974
+504413,"Gareveien 187, Kroken",58.977593,9.136129
+504414,"Heldalsgrenda 9, Kroken",58.963848,9.148187
+504415,"Gareveien 173, Kroken",58.97619,9.138089
+504416,"Stengerveien 378, Kroken",58.962269,9.162597
+504417,"Stengerveien 386, Kroken",58.961781,9.164615
+504418,"Stengerveien 360, Kroken",58.960758,9.163932
+504620,"Søndre Havna 14, Kroken",58.971388,9.166435
+504621,"Søndre Havna 5, Kroken",58.971285,9.162887
+504622,"Stengerveien 497, Kroken",58.966712,9.177802
+504623,"Lundtveit 36, Kroken",58.974582,9.154606
+504624,"Krokenveien 1661, Kroken",58.967825,9.157966
+504625,"Krokenveien 1614, Kroken",58.965929,9.150863
+504626,"Søndre Havna 6, Kroken",58.971463,9.163844
+504627,"Krokenveien 1693, Kroken",58.968285,9.162855
+504628,"Krokenveien 1570, Kroken",58.962267,9.148935
+504629,"Gareveien 53, Kroken",58.966659,9.148641
+504630,"Gareveien 213, Kroken",58.979347,9.134257
+504631,"Gareveien 216, Kroken",58.979472,9.134814
+504632,"Stengerveien 344, Kroken",58.961708,9.158599
+504633,"Heldalsgrenda 11, Kroken",58.963479,9.147745
+504634,"Heldalsgrenda 7, Kroken",58.963507,9.148297
+504635,"Heldalsgrenda 12, Kroken",58.962958,9.148371
+504636,"Nybråteveien 73, Kroken",58.977517,9.163368
+504637,"Stasjonsveien 39, Kroken",58.970717,9.157145
+504638,"Stasjonsveien 19, Kroken",58.969726,9.159593
+504639,"Løbbedalen 86, Kroken",58.978408,9.168713
+504640,"Stengerveien 587, Kroken",58.973723,9.186448
+504641,"Krokenveien 1697, Kroken",58.968525,9.165047
+504642,"Eskilt 75, Kroken",58.965782,9.187848
+504729,"Drangedalsveien 1494, Kroken",58.981748,9.195068
+504732,"Drangedalsveien 1177, Kroken",58.98119,9.238381
+504733,"Krokenveien 1908, Kroken",58.980216,9.192641
+504734,"Drangedalsveien 1578, Kroken",58.988729,9.196506
+504735,"Drangedalsveien 1432, Kroken",58.978406,9.201485
+504736,"Drangedalsveien 1605, Kroken",58.990461,9.199972
+504737,"Krokenveien 1914, Kroken",58.979099,9.194757
+504738,"Drangedalsveien 1591, Kroken",58.987072,9.201953
+504739,"Drangedalsveien 1628, Kroken",58.992655,9.197931
+504740,"Drangedalsveien 1439, Kroken",58.9791,9.200149
+504741,"Jordbudalen 12, Kroken",58.978159,9.186628
+504742,"Kjennbakkveien 111, Kroken",58.970062,9.1956
+504743,"Kjennbakkveien 9, Kroken",58.976319,9.204134
+504748,"Drangedalsveien 1551, Kroken",58.985935,9.19965
+504749,"Drangedalsveien 1643, Kroken",58.994629,9.199213
+504750,"Drangedalsveien 1122, Kroken",58.980309,9.246831
+504751,"Krokenveien 1912, Kroken",58.980204,9.194746
+504752,"Drangedalsveien 1637, Kroken",58.995736,9.199337
+504753,"Drangedalsveien 1116, Kroken",58.979399,9.247608
+504756,"Krokenveien 1910, Kroken",58.979846,9.194083
+504757,"Drangedalsveien 1496, Kroken",58.982218,9.195093
+504758,"Drangedalsveien 1593, Kroken",58.98915,9.199668
+504759,"Drangedalsveien 1171, Kroken",58.98099,9.239963
+504760,"Lundtveit 64, Kroken",58.976704,9.152111
+504761,"Søndre Havna 15A, Kroken",58.97138,9.164826
+504762,"Ytre Vefall 87, Kroken",59.000149,9.21249
+504763,"Krokenveien 1871, Kroken",58.976584,9.189159
+504764,"Løbbedalen 100, Kroken",58.979548,9.169292
+504765,"Nordre Kåsa 41, Kroken",58.988189,9.193503
+504766,"Vanntårnbakken 6, Kroken",58.976117,9.171709
+504767,"Løbbedalen 72, Kroken",58.975957,9.168249
+504768,"Lundtveit 29, Kroken",58.974058,9.157178
+504769,"Løbbedalen 68, Kroken",58.976522,9.168912
+504770,"Stengerveien 515, Kroken",58.96867,9.17776
+504772,"Nordre Kåsa 16, Kroken",58.986934,9.198368
+504773,"Drangedalsveien 1275, Kroken",58.980338,9.220665
+504774,"Krokenveien 1890, Kroken",58.977641,9.191218
+504776,"Nordre Kåsa 86, Kroken",58.989383,9.187959
+504778,"Ytre Vefall 78, Kroken",59.000677,9.211192
+504780,"Ytre Vefall 97, Kroken",59.001157,9.211139
+504781,"Merkebekk 3, Kroken",58.980994,9.24713
+504782,"Drangedalsveien 1142, Kroken",58.98093,9.243459
+504783,"Nordre Havna 8, Kroken",58.972704,9.162911
+504784,"Nordre Havna 16, Kroken",58.973294,9.164705
+504785,"Nordre Havna 4, Kroken",58.972066,9.16336
+504786,"Nordre Havna 5, Kroken",58.971876,9.164089
+504787,"Stengerveien 560, Kroken",58.972115,9.180056
+504788,"Nordre Havna 12, Kroken",58.973008,9.163695
+504789,"Nordre Havna 28, Kroken",58.972729,9.164424
+504790,"Nordre Havna 7, Kroken",58.972082,9.164456
+504791,"Søndre Havna 4, Kroken",58.971553,9.164331
+504792,"Søndre Havna 27, Kroken",58.970663,9.164901
+504793,"Nordre Havna 13, Kroken",58.972628,9.165745
+504794,"Lundtveit 42, Kroken",58.974018,9.153386
+504795,"Søndre Havna 21, Kroken",58.970984,9.166294
+504796,"Søndre Havna 25, Kroken",58.970743,9.165284
+504797,"Søndre Havna 19, Kroken",58.971317,9.165826
+504798,"Søndre Havna 16, Kroken",58.971136,9.167321
+504799,"Stasjonsveien 36, Kroken",58.969415,9.157469
+504800,"Stasjonsveien 34, Kroken",58.969127,9.157903
+504801,"Løbbedalen 70, Kroken",58.976406,9.168181
+504802,"Søndre Havna 1, Kroken",58.971807,9.161967
+504803,"Nordre Havna 2A, Kroken",58.971871,9.162855
+504804,"Stasjonsveien 27, Kroken",58.970195,9.158116
+504805,"Løbbedalen 74, Kroken",58.975644,9.16736
+504807,"Stengerveien 434, Kroken",58.962275,9.171538
+504808,"Nordre Havna 15, Kroken",58.972655,9.166337
+504809,"Søndre Havna 3, Kroken",58.971573,9.162349
+504810,"Løbbedalen 87, Kroken",58.978998,9.170873
+504811,"Skulebakken 9, Kroken",58.971664,9.161567
+504812,"Nordre Havna 18, Kroken",58.973213,9.165435
+504813,"Søndre Havna 17, Kroken",58.971542,9.165462
+504814,"Løbbedalen 19, Kroken",58.972137,9.171117
+504815,"Søndre Havna 7, Kroken",58.970844,9.163372
+504816,"Skulebakken 18, Kroken",58.971458,9.160818
+504817,"Skulebakken 7, Kroken",58.97143,9.161931
+504818,"Skulebakken 2A, Kroken",58.969992,9.162602
+504819,"Krokenveien 1768, Kroken",58.97269,9.173572
+504820,"Krokenveien 1762, Kroken",58.972574,9.172806
+504821,"Lundtveit 33, Kroken",58.974293,9.156065
+504822,"Stasjonsveien 7, Kroken",58.969697,9.161662
+504823,"Skulebakken 5, Kroken",58.970728,9.16271
+504824,"Lundtveit 48, Kroken",58.975456,9.153643
+504825,"Nybråteveien 11, Kroken",58.973449,9.163488
+504826,"Skulebakken 3, Kroken",58.970306,9.163004
+504827,"Stasjonsveien 37, Kroken",58.97007,9.157716
+504828,"Skulebakken 1, Kroken",58.970072,9.163472
+504829,"Krokenveien 1720, Kroken",58.970534,9.167179
+504830,"Stasjonsveien 57, Kroken",58.971095,9.157112
+504831,"Stengerveien 513, Kroken",58.968112,9.178644
+504832,"Stengerveien 517, Kroken",58.968507,9.178524
+504833,"Søndre Havna 29, Kroken",58.970547,9.164483
+504834,"Søndre Havna 31, Kroken",58.970547,9.163927
+504835,"Nordre Havna 24, Kroken",58.972658,9.163676
+504836,"Nordre Havna 6, Kroken",58.972515,9.163188
+504837,"Nordre Havna 11, Kroken",58.972512,9.165136
+504838,"Nordre Havna 3, Kroken",58.971697,9.163549
+504839,"Søndre Havna 23, Kroken",58.970877,9.165841
+504840,"Nordre Havna 9, Kroken",58.972405,9.164544
+504841,"Nordre Havna 34, Kroken",58.973041,9.166043
+504842,"Stengerveien 432, Kroken",58.962527,9.171191
+504843,"Nybråteveien 75, Kroken",58.977912,9.163127
+504844,"Skulebakken 20, Kroken",58.972015,9.160873
+504845,"Skulebakken 16, Kroken",58.971083,9.159007
+504846,"Krokenveien 1840, Kroken",58.976439,9.18401
+504847,"Lundtveit 44, Kroken",58.974745,9.153128
+504848,"Skulebakken 22, Kroken",58.97214,9.161534
+504849,"Krokenveien 1712, Kroken",58.970442,9.165825
+504850,"Skulebakken 14, Kroken",58.97086,9.158224
+504851,"Stasjonsveien 11, Kroken",58.969603,9.161166
+504852,"Stasjonsveien 30, Kroken",58.968902,9.158545
+504853,"Stasjonsveien 29, Kroken",58.969961,9.158481
+504854,"Stengerveien 433, Kroken",58.963328,9.169926
+504855,"Skulebakken 12, Kroken",58.970679,9.159023
+504856,"Eskilt 39, Kroken",58.967443,9.187109
+504857,"Stengerveien 428, Kroken",58.962726,9.17034
+504858,"Nybråteveien 15, Kroken",58.973881,9.162603
+504859,"Nybråteveien 13, Kroken",58.974165,9.16497
+505403,"Krokenveien 1906, Kroken",58.97966,9.19229
+505404,"Drangedalsveien 1345, Kroken",58.979279,9.213646
+505406,"Merkebekk 16, Kroken",58.981136,9.248323
+505407,"Drangedalsveien 1188, Kroken",58.981256,9.236729
+505409,"Måbekkveien 454, Drangedal",59.018734,9.127566
+505415,"Drangedalsveien 1128, Kroken",58.980458,9.2461
+505417,"Drangedalsveien 1624, Kroken",58.992313,9.198312
+505418,"Krokenveien 1811, Kroken",58.974614,9.178956
+505419,"Stengerveien 522, Kroken",58.968179,9.181862
+505420,"Søndre Havna 8, Kroken",58.971678,9.164749
+505421,"Lundtveit 47, Kroken",58.982558,9.15358
+505422,"Skulebakken 6, Kroken",58.970672,9.161171
+505423,"Krokenveien 1671, Kroken",58.968623,9.158787
+505424,"Heldalsgrenda 48, Kroken",58.962842,9.140661
+505425,"Stengerveien 167, Kroken",58.94388,9.180326
+505426,"Eskilt 12, Kroken",58.968195,9.183479
+505427,"Gareveien 177, Kroken",58.97706,9.139171
+505428,"Heldalsgrenda 46, Kroken",58.962466,9.139947
+505429,"Gareveien 22, Kroken",58.964757,9.147363
+505430,"Heldalsgrenda 14, Kroken",58.962649,9.14769
+505432,"Drangedalsveien 1149, Kroken",58.981475,9.244733
+505433,"Drangedalsveien 1260, Kroken",58.978577,9.237645
+505434,"Drangedalsveien 1533, Kroken",58.984409,9.199206
+505435,"Drangedalsveien 1200, Kroken",58.981251,9.234502
+505436,"Søndre Havna 9, Kroken",58.970906,9.164363
+505437,"Løbbedalen 93, Kroken",58.979502,9.170526
+505438,"Nordre Kåsa 62, Kroken",58.988267,9.189449
+505439,"Løbbedalen 17, Kroken",58.972425,9.170249
+505440,"Nybråteveien 21, Kroken",58.974348,9.16271
+505441,"Krokenveien 1363, Kroken",58.948087,9.132015
+505442,"Holmfetveien 44, Kroken",58.947073,9.099481
+505443,"Sandvannsveien 95, Kroken",58.936037,9.130302
+505444,"Lundemoveien 6, Kroken",58.950558,9.111794
+505445,"Harkjæråsen 6, Kroken",58.932255,9.146625
+505446,"Hauglandsgrenda 392, Kroken",58.955758,9.081626
+505447,"Stengerveien 36, Kroken",58.933516,9.145675
+505448,"Krokenveien 684, Kroken",58.905321,9.176949
+505449,"Hauglandsgrenda 372, Kroken",58.954752,9.083654
+505450,"Stengerveien 163, Kroken",58.946278,9.185987
+505451,"Gareveien 299, Kroken",58.991323,9.119861
+505452,"Stengerveien 294, Kroken",58.954421,9.16133
+505453,"Hauglandsveien 36, Kroken",58.955354,9.1213
+505454,"Gareveien 556, Kroken",59.005271,9.127621
+505455,"Vølaneveien 159, Kroken",58.990772,9.089998
+505456,"Krokenveien 1444, Kroken",58.954845,9.136231
+505457,"Vølaneveien 157, Kroken",58.966385,9.06839
+505458,"Øygardsveien 17, Kroken",58.9589,9.140054
+505459,"Øygardsveien 25, Kroken",58.959521,9.138926
+505460,"Øygardsveien 43, Kroken",58.961192,9.13794
+505461,"Øygardsveien 54, Kroken",58.960018,9.135844
+505467,"Vanntårnbakken 45, Kroken",58.976187,9.175946
+505468,"Hauglandsgrenda 343, Kroken",58.955597,9.087143
+505472,"Krokenveien 650, Kroken",58.902863,9.17993
+505473,"Rønninggrenda 7, Kroken",58.925048,9.143425
+505474,"Sandvannsveien 105, Kroken",58.934761,9.129284
+505475,"Sandvannsveien 86, Kroken",58.936733,9.125613
+505476,"Krokenveien 755, Kroken",58.908493,9.171365
+505477,"Krokenveien 984, Kroken",58.915931,9.145332
+505478,"Øygardsgrenda 123, Kroken",58.897575,9.117748
+505612,"Merkebekk 2, Kroken",58.98106,9.245565
+505613,"Lundtveit 56, Kroken",58.976084,9.152995
+505614,"Krokenveien 724, Kroken",58.908089,9.175505
+505615,"Vanntårnbakken 1A, Kroken",58.976987,9.17015
+505616,"Lundtveit 62, Kroken",58.976309,9.152561
+505638,"Vanntårnbakken 4, Kroken",58.976331,9.170616
+505648,"Nordre Havna 14, Kroken",58.973142,9.164182
+505650,"Harkjæråsen 35, Kroken",58.929297,9.142939
+505661,"Løbbedalen 76, Kroken",58.976206,9.167375
+505685,"Jordbudalen 17, Kroken",58.977718,9.187513
+505689,"Lundtveit 49, Kroken",58.981936,9.155804
+505861,"Krokenveien 1390, Kroken",58.950738,9.13067
+505863,"Krokenveien 1388, Kroken",58.950425,9.129504
+505869,"Fosstveit 15, Kroken",58.953636,9.132993
+505872,"Jordbudalen 16, Kroken",58.978588,9.188231
+505876,"Krokenveien 1649, Kroken",58.967264,9.158432
+505878,"Måbuholtveien 42, Kroken",58.912027,9.179553
+505879,"Drangedalsveien 1273, Kroken",58.981211,9.224433
+505881,"Krokenveien 649, Kroken",58.903429,9.180966
+505885,"Rød 5, Kroken",58.949022,9.131237
+505888,"Øygardsgrenda 97, Kroken",58.903521,9.143544
+505896,"Krokenveien 1299, Kroken",58.941878,9.13571
+505897,"Harkjæråsen 33, Kroken",58.929647,9.14301
+505905,"Harkjæråsen 37, Kroken",58.928904,9.143198
+505907,"Stasjonsveien 32, Kroken",58.968896,9.157655
+505909,"Juvassåsen 5, Kroken",58.930236,9.137784
+505910,"Juvassåsen 1, Kroken",58.930423,9.139452
+505914,"Juvassåsen 3, Kroken",58.930485,9.138671
+505916,"Juvassåsen 6, Kroken",58.92993,9.138425
+505917,"Merkebekk 20, Kroken",58.980744,9.250035
+505925,"Øygardsveien 23, Kroken",58.959027,9.139602
+505933,"Stasjonsveien 38, Kroken",58.969765,9.157819
+505934,"Lundtveit 54, Kroken",58.975796,9.153359
+505935,"Jordbudalen 37, Kroken",58.979373,9.18942
+505942,"Harkjæråsen 10, Kroken",58.93128,9.146395
+505945,"Stengerveien 46, Kroken",58.934333,9.144765
+505946,"Juvassåsen 2, Kroken",58.929769,9.137904
+505947,"Juvassåsen 7, Kroken",58.930156,9.137193
+505956,"Gareveien 179, Kroken",58.976299,9.137272
+505958,"Øygardsveien 61, Kroken",58.95976,9.133868
+505960,"Stengerveien 48, Kroken",58.935535,9.146127
+505962,"Krokenveien 959, Kroken",58.917997,9.159927
+505963,"Holmfetveien 46, Kroken",58.946772,9.098113
+505973,"Vanntårnbakken 2, Kroken",58.976494,9.170008
+505991,"Krokenveien 1332, Kroken",58.944423,9.13277
+505993,"Skulebakken 4, Kroken",58.969609,9.160357
+505994,"Krokenveien 1695, Kroken",58.968456,9.163221
+506000,"Øygardsveien 21, Kroken",58.959359,9.139308
+506002,"Gareveien 668, Kroken",59.016552,9.144189
+506047,"Ytre Vefall 92, Kroken",59.000707,9.211559
+506052,"Rød 35, Kroken",58.947979,9.124434
+506053,"Lundemoveien 31, Kroken",58.950912,9.107223
+506065,"Rønninggrenda 39, Kroken",58.922874,9.144406
+506072,"Øygardsgrenda 98, Kroken",58.902504,9.144562
+506224,"Holmfetveien 12, Kroken",58.948311,9.102679
+506228,"Stengerveien 29, Kroken",58.935311,9.153179
+506230,"Åkregrenda 43, Kroken",58.919621,9.161237
+506232,"Øygardsgrenda 107, Kroken",58.902409,9.142151
+506234,"Måbuholtveien 28, Kroken",58.912268,9.175953
+506235,"Øygardsgrenda 117, Kroken",58.902332,9.138784
+506261,"Rød 66, Kroken",58.945016,9.126394
+506263,"Solheimsveien 11, Kroken",58.939854,9.138552
+506271,"Merkebekk 4, Kroken",58.981214,9.24583
+506273,"Krokenveien 1530, Kroken",58.96023,9.142651
+506283,"Stengerveien 323, Kroken",58.956597,9.163706
+506284,"Gareveien 674, Drangedal",59.015318,9.147475
+506287,"Stasjonsveien 54, Kroken",58.971329,9.156522
+506296,"Sandvannsveien 84, Kroken",58.939692,9.123087
+506298,"Heldalsgrenda 42, Kroken",58.963082,9.143409
+506307,"Søndre Havna 13, Kroken",58.97121,9.165286
+506314,"Neslandstunet 2B, Kroken",58.968486,9.159642
+506318,"Neslandstunet 2A, Kroken",58.968407,9.159611
+506319,"Neslandstunet 20A, Kroken",58.967521,9.159321
+506321,"Neslandstunet 20B, Kroken",58.967457,9.159516
+506322,"Neslandstunet 14B, Kroken",58.968301,9.159424
+506335,"Søndre Havna 11, Kroken",58.971004,9.16492
+506338,"Øygardsgrenda 96, Kroken",58.902623,9.143697
+506342,"Neslandstunet 16A, Kroken",58.96803,9.159193
+506344,"Neslandstunet 14A, Kroken",58.968212,9.15941
+506345,"Neslandstunet 16B, Kroken",58.968026,9.159253
+506375,"Rød 52, Kroken",58.946047,9.127701
+506381,"Krokenveien 1727, Kroken",58.969997,9.166694
+506383,"Løbbedalen 66, Kroken",58.976719,9.169087
+506384,"Neslandstunet 18B, Kroken",58.967642,9.159239
+506385,"Neslandstunet 18A, Kroken",58.967725,9.159093
+506388,"Neslandstunet 4D, Kroken",58.96798,9.160216
+506389,"Neslandstunet 4C, Kroken",58.968054,9.160127
+506390,"Neslandstunet 15B, Kroken",58.967953,9.159685
+506391,"Neslandstunet 15A, Kroken",58.96788,9.15978
+506393,"Neslandstunet 4B, Kroken",58.968112,9.160081
+506394,"Neslandstunet 4A, Kroken",58.968189,9.159978
+506395,"Holmfetveien 69, Kroken",58.946287,9.095374
+506408,"Hauglandsgrenda 220, Kroken",58.948755,9.101031
+506435,"Drangedalsveien 1258, Kroken",58.980543,9.227899
+506443,"Neslandstunet 3A, Kroken",58.968403,9.160423
+506444,"Neslandstunet 5B, Kroken",58.968287,9.160563
+506446,"Neslandstunet 3B, Kroken",58.968475,9.160338
+506447,"Neslandstunet 7A, Kroken",58.968019,9.160882
+506448,"Neslandstunet 9B, Kroken",58.967928,9.160993
+506449,"Neslandstunet 5A, Kroken",58.968215,9.16065
+506450,"Neslandstunet 7B, Kroken",58.968099,9.160792
+506451,"Neslandstunet 7, Kroken",58.968063,9.160819
+506452,"Neslandstunet 5, Kroken",58.968252,9.160612
+506453,"Neslandstunet 9A, Kroken",58.967845,9.161078
+506454,"Neslandstunet 9, Kroken",58.967884,9.16104
+506455,"Neslandstunet 8, Kroken",58.967727,9.160032
+506456,"Neslandstunet 10, Kroken",58.967525,9.160626
+506457,"Neslandstunet 3, Kroken",58.968441,9.160369
+506526,"Neslandstunet 1B, Kroken",58.96868,9.160092
+506527,"Neslandstunet 1A, Kroken",58.968605,9.160177
+506538,"Øygardsgrenda 16, Kroken",58.903909,9.15957
+506545,"Brødsjøveien 17, Kroken",58.929857,9.139641
+506551,"Rønninggrenda 35, Kroken",58.923438,9.146284
+506556,"Rønninggrenda 43, Kroken",58.922809,9.146181
+506566,"Stengerveien 488, Kroken",58.95096,9.202142
+506578,"Stengerveien 562, Kroken",58.972272,9.180323
+506589,"Kjennbakkveien 11, Kroken",58.976632,9.204971
+506590,"Øygardsgrenda 126, Kroken",58.901127,9.140945
+506592,"Hauglandsgrenda 279, Kroken",58.95805,9.094795
+506596,"Vølaneveien 163, Kroken",58.967445,9.068705
+506601,"Gareveien 211, Kroken",58.978979,9.133977
+506602,"Stengerveien 313, Kroken",58.955862,9.163568
+506604,"Merkebekk 18, Kroken",58.980742,9.249837
+506613,"Sandvannsveien 48, Kroken",58.939816,9.131636
+506632,"Øygardsgrenda 104, Kroken",58.90151,9.143414
+506633,"Stengerveien 16, Kroken",58.931451,9.143469
+506642,"Fosstveit 33, Kroken",58.952544,9.129947
+506647,"Drangedalsveien 1213, Kroken",58.98173,9.232922
+506679,"Øygardsveien 66, Kroken",58.959266,9.134162
+506728,"Krokenveien 1904, Kroken",58.983575,9.187439
+506730,"Stengerveien 510, Kroken",58.967428,9.179962
+506734,"Nordre Kåsa 134, Kroken",58.98924,9.181085
+506736,"Hauglandsveien 23, Kroken",58.95476,9.118675
+506741,"Stengerveien 380, Kroken",58.962137,9.161261
+506745,"Solheimsveien 31, Kroken",58.941132,9.138208
+506813,"Stasjonsveien 69, Kroken",58.971928,9.158681
+506835,"Ytre Vefall 3, Kroken",58.99785,9.201442
+506838,"Gareveien 676, Kroken",59.011085,9.142286
+506844,"Stengerveien 589, Kroken",58.974487,9.185947
+506846,"Krokenveien 717, Kroken",58.90864,9.179917
+506847,"Krokenveien 682, Kroken",58.903974,9.176924
+506856,"Nordre Havna 20B, Kroken",58.973064,9.164693
+506873,"Nordre Havna 20A, Kroken",58.973092,9.164833
+506890,"Neslandstunet 21B, Kroken",58.96885,9.161308
+506891,"Neslandstunet 21A, Kroken",58.968876,9.161465
+506894,"Neslandstunet 17B, Kroken",58.968819,9.160399
+506895,"Neslandstunet 17A, Kroken",58.968844,9.160554
+506896,"Neslandstunet 19B, Kroken",58.968825,9.160844
+506897,"Neslandstunet 19A, Kroken",58.968866,9.161013
+506899,"Neslandstunet 17, Kroken",58.968809,9.16051
+506903,"Hauglandsveien 9, Kroken",58.952609,9.115357
+506928,"Drangedalsveien 1271, Kroken",58.980747,9.22484
+506931,"Vanntårnbakken 17, Kroken",58.976604,9.175035
+506957,"Øygardsgrenda 14, Kroken",58.904675,9.158959
+506961,"Lundtveit 31, Kroken",58.973852,9.156498
+506962,"Lundtveit 27, Kroken",58.973663,9.157019
+506963,"Juvassåsen 9, Kroken",58.930103,9.136654
+507004,"Kjennbakkveien 13, Kroken",58.976865,9.204955
+507009,"Vølaneveien 387, Kroken",58.97708,9.033235
+507010,"Sandvannsveien 296, Kroken",58.922812,9.105921
+507011,"Hauglandsgrenda 285, Kroken",58.955753,9.095035
+507029,"Hauglandsgrenda 355, Kroken",58.955302,9.085352
+507051,"Åkregrenda 47, Kroken",58.919523,9.160125
+507078,"Åkregrenda 88, Kroken",58.920372,9.164213
+507124,"Drangedalsveien 1134, Kroken",58.980729,9.245013
+507131,"Jordbudalen 43, Kroken",58.979727,9.189246
+507138,"Stengerveien 68, Kroken",58.935641,9.147656
+727066,"Heldalsgrenda 17, Kroken",58.96323,9.147106
+727067,"Heldalsgrenda 19, Kroken",58.963079,9.146476
+855092,"Søndre Havna 15B, Kroken",58.971334,9.164656
+1635646,"Krokenveien 604, Kroken",58.901815,9.187766
+1636508,"Krokenveien 722, Kroken",58.907997,9.177136
+1647217,"Jordbudalen 11, Kroken",58.977458,9.186903
+1675208,"Nordre Havna 10A, Kroken",58.972874,9.163329
+1712404,"Krokenveien 1710, Kroken",58.970363,9.165007
+1750407,"Krokenveien 667, Kroken",58.905111,9.17969
+1793066,"Merkebekk 40, Kroken",58.97991,9.250741
+1793068,"Harkjæråsen 60, Kroken",58.927688,9.143697
+1796158,"Nordre Havna 10B, Kroken",58.972955,9.16326
+1837218,"Lundemoveien 48, Kroken",58.953485,9.104452
+1882528,"Vanntårnbakken 1C, Kroken",58.977014,9.170167
+1882529,"Vanntårnbakken 1D, Kroken",58.976978,9.170323
+1882530,"Vanntårnbakken 1B, Kroken",58.976951,9.170289
+1885505,"Drangedalsveien 1341, Kroken",58.979701,9.214633
+1998204,"Vølaneveien 16, Kroken",58.956506,9.08346
+1998205,"Nordre Havna 30A, Kroken",58.972785,9.164864
+2000421,"Vanntårnbakken 7, Kroken",58.976382,9.172169
+2001481,"Rød 4, Kroken",58.94875,9.130968
+2002969,"Krokenveien 1669, Kroken",58.968532,9.158636
+2007418,"Øygardsgrenda 24, Kroken",58.905112,9.154577
+2007570,"Stengerveien 606, Kroken",58.973977,9.178144
+2007613,"Hauglandsgrenda 47, Kroken",58.957503,9.127191
+2007652,"Rød 14, Kroken",58.94872,9.129951
+2008139,"Krokenveien 1612, Kroken",58.964546,9.153265
+2008141,"Krokenveien 681, Kroken",58.905091,9.178012
+2009397,"Sandvannsveien 80, Kroken",58.940214,9.124663
+2009399,"Sandvannsveien 82, Kroken",58.941001,9.123203
+2010328,"Sandvannsveien 382, Kroken",58.922469,9.091048
+2016725,"Drangedalsveien 1364, Kroken",58.977259,9.209078
+2018009,"Nordre Havna 30B, Kroken",58.972821,9.164997
+2018010,"Nordre Havna 2D, Kroken",58.971991,9.162667
+2018011,"Nordre Havna 2C, Kroken",58.971965,9.1627
+2018012,"Nordre Havna 2B, Kroken",58.971902,9.162818
+2018349,"Holmfetveien 18, Kroken",58.947702,9.103082
+2019008,"Krokenveien 1649A, Kroken",58.967533,9.158271
+2019012,"Krokenveien 1673, Kroken",58.968335,9.158965
+2022172,"Krokenveien 945, Kroken",58.915475,9.157653
+2024720,"Kjennbakkveien 7, Kroken",58.976381,9.207441
+2024723,"Brødsjøveien 37, Kroken",58.929096,9.13668
+2025009,"Skulebakken 10, Kroken",58.970608,9.160068
+2027397,"Stasjonsveien 3A, Kroken",58.969898,9.1626
+2027402,"Skulebakken 2B, Kroken",58.970027,9.162596
+2027404,"Stasjonsveien 3B, Kroken",58.969928,9.162724
+2028337,"Hauglandsveien 5, Kroken",58.952772,9.118774
+2031718,"Rønninggrenda 28, Kroken",58.924023,9.14634
+2035141,"Måvannsveien 28, Kroken",58.91771,9.091286
+2035146,"Sandvannsveien 294, Kroken",58.923029,9.103844
+2036671,"Vanntårnbakken 8, Kroken",58.97632,9.173682
+2037517,"Drangedalsveien 1531, Kroken",58.98285,9.199414
+2041717,"Gareveien 666, Kroken",59.012056,9.139626
+2041718,"Gareveien 670, Kroken",59.011739,9.141273
+2041719,"Gareveien 593, Kroken",59.005752,9.137098
+2041720,"Jordbudalen 14, Kroken",58.978462,9.187754
+2042705,"Drangedalsveien 1343, Kroken",58.979238,9.214333
+2050447,"Vølaneveien 161, Kroken",58.978397,9.079494
+2067014,"Eskilt 46, Kroken",58.967278,9.188479
+2070084,"Stengerveien 32, Kroken",58.932761,9.144621
+2070697,"Ytre Vefall 73, Kroken",58.997365,9.214309
+2075271,"Drangedalsveien 1481, Kroken",58.980381,9.196342
+2075275,"Krokenveien 667A, Kroken",58.903959,9.178657
+2076791,"Gareveien 424, Kroken",58.995471,9.123129
+2076792,"Stengerveien 486, Kroken",58.951492,9.201828
+2080275,"Øygardsgrenda 12, Kroken",58.905582,9.161269
+2093840,"Drangedalsveien 1434, Kroken",58.978485,9.203211
+2095122,"Dammaneveien 142, Kroken",58.934251,9.169991
+2096547,"Rød 37, Kroken",58.949137,9.123027
+2166348,"Solheimsveien 60, Kroken",58.944057,9.138324
+2166349,"Solheimsveien 62, Kroken",58.944151,9.138326
+2181276,"Nordre Havna 32, Kroken",58.972961,9.165521
+2183614,"Gareveien 202, Kroken",58.977713,9.133398
+2183733,"Fosstveit 27, Kroken",58.952904,9.131022
+2242980,"Gareveien 664, Kroken",59.016139,9.142782
+2369741,"Hauglandsgrenda 356, Kroken",58.95496,9.086342
+2400614,"Vanntårnbakken 11, Kroken",58.976755,9.17361
+2400850,"Vanntårnbakken 13, Kroken",58.976749,9.174114
+2400851,"Vanntårnbakken 10, Kroken",58.976389,9.174217
+2408667,"Vanntårnbakken 9, Kroken",58.976521,9.173022
+2547600,"Øygardsgrenda 18, Kroken",58.905564,9.155773

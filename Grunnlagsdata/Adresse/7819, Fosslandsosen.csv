@@ -1,0 +1,688 @@
+,Navn,Long,Lat
+864,"46/3, Otterøy",64.579106,11.129446
+865,"38/1-2, Otterøy",64.527182,11.413004
+35024,"63/23, Otterøy",64.622125,11.14105
+43730,"51/42, Otterøy",64.541958,11.349977
+44252,"57/79, Otterøy",64.498729,11.287156
+170534,"Skomsvollvegen 548, Otterøy",64.488068,11.39346
+170535,"Lokkaren 48, Otterøy",64.484216,11.421433
+170536,"Skomsvollvegen 517, Otterøy",64.486838,11.398412
+170537,"Skomsvollvegen 723, Otterøy",64.484092,11.360014
+170538,"Lokkaren 64, Otterøy",64.472685,11.40408
+170539,"Skomsvollvegen 461, Otterøy",64.488172,11.410167
+170542,"Lokkaren 49, Otterøy",64.481746,11.419343
+170544,"Lokkaren 51, Otterøy",64.480764,11.417861
+170545,"Lokkaren 53, Otterøy",64.479002,11.417456
+170546,"Skomsvollvegen 528, Otterøy",64.487253,11.396637
+170547,"Skomsvollvegen 498, Otterøy",64.487706,11.402464
+170548,"Skomsvollvegen 459, Otterøy",64.488428,11.409919
+170549,"Skomsvollvegen 556, Otterøy",64.489004,11.393854
+170566,"Aglenvegen 171, Otterøy",64.59644,11.24933
+170567,"Aglenvegen 158, Otterøy",64.596464,11.25368
+170568,"Altevegen 132, Otterøy",64.590086,11.233259
+170569,"Aglenvegen 221, Otterøy",64.600091,11.246099
+170570,"Altevegen 198, Otterøy",64.587782,11.219927
+170571,"Altevegen 108, Otterøy",64.589718,11.237972
+170572,"Altevegen 210, Otterøy",64.589332,11.213597
+170579,"Aglenvegen 172, Otterøy",64.598088,11.251933
+170596,"Skorstadvegen 577, Otterøy",64.574964,11.192234
+170597,"Skorstadvatnet 3, Otterøy",64.557869,11.183284
+170598,"Skorstadvegen 311, Otterøy",64.567067,11.216633
+170599,"Skorstadvegen 579, Otterøy",64.574469,11.196497
+170600,"Skorstadvegen 637, Otterøy",64.5741,11.179614
+170601,"Altevegen 40, Otterøy",64.588579,11.251214
+170602,"Skorstadvegen 156, Otterøy",64.575207,11.238401
+170603,"Altevegen 38, Otterøy",64.588015,11.252415
+170604,"Altevegen 29, Otterøy",64.586748,11.251861
+170605,"Skorstadvegen 186, Otterøy",64.575402,11.233058
+170606,"Skorstadvegen 538, Otterøy",64.582803,11.189042
+170607,"Skorstadvegen 517, Otterøy",64.578779,11.194045
+170608,"Altevegen 130, Otterøy",64.591493,11.232852
+170609,"Skorstadvegen 165, Otterøy",64.573948,11.238327
+170610,"Altevegen 149, Otterøy",64.589224,11.230284
+170611,"Skorstadvegen 182, Otterøy",64.57675,11.234714
+170612,"Altevegen 110, Otterøy",64.590319,11.239618
+170613,"Altevegen 183, Otterøy",64.586818,11.225511
+170614,"Altevegen 48, Otterøy",64.587462,11.249005
+170615,"Altevegen 16, Otterøy",64.585928,11.254605
+170616,"Skorstadvegen 171, Otterøy",64.573111,11.237415
+170617,"Altevegen 145, Otterøy",64.589259,11.230961
+170618,"Aglenvegen 136, Otterøy",64.594928,11.256061
+170619,"Skorstadvegen 215, Otterøy",64.571227,11.231881
+170620,"Skorstadvegen 184, Otterøy",64.575789,11.234155
+170621,"Altevegen 109, Otterøy",64.589083,11.23723
+170622,"Årnesvegen 794, Otterøy",64.578913,11.283435
+170623,"Aglenvegen 51, Otterøy",64.588395,11.264693
+170624,"Årnesvegen 791, Otterøy",64.580549,11.264062
+170625,"Årnesvegen 792, Otterøy",64.580037,11.279811
+170626,"Aglenvegen 83, Otterøy",64.590523,11.261714
+170627,"Aglenvegen 20, Otterøy",64.58607,11.264667
+170628,"Årnesvegen 796, Otterøy",64.580002,11.283965
+170629,"Skorstadvegen 737, Otterøy",64.571497,11.166772
+170630,"Skorstadvegen 765, Otterøy",64.571406,11.162589
+170631,"Skorstadvegen 763, Otterøy",64.572471,11.164768
+170632,"Skorstadvegen 769, Otterøy",64.57103,11.1607
+170633,"Aglenvegen 50, Otterøy",64.589145,11.266678
+170634,"Skorstadvegen 754, Otterøy",64.576688,11.166078
+170635,"Aglenvegen 56, Otterøy",64.588966,11.276567
+170636,"Aglenvegen 54, Otterøy",64.589025,11.271578
+170637,"Skorstadvegen 558, Otterøy",64.580451,11.188456
+170638,"Skorstadvegen 603, Otterøy",64.576097,11.185392
+170639,"Skorstadvegen 764, Otterøy",64.573798,11.163679
+170640,"Skorstadvegen 519, Otterøy",64.578988,11.193268
+170641,"Skorstadvegen 784, Otterøy",64.573685,11.160243
+170642,"Skorstadvegen 735, Otterøy",64.571301,11.166824
+170643,"Skorstadvegen 733, Otterøy",64.570991,11.167004
+170644,"Skorstadvegen 624, Otterøy",64.575374,11.181533
+170645,"Skorstadvegen 594, Otterøy",64.577193,11.182952
+170646,"Skorstadvegen 528, Otterøy",64.580022,11.194981
+170647,"Skorstadvegen 455, Otterøy",64.577122,11.205211
+170648,"Skorstadvegen 573, Otterøy",64.578557,11.187197
+170649,"Skorstadvegen 456, Otterøy",64.580666,11.204746
+170650,"Skorstadvegen 575, Otterøy",64.578465,11.187984
+170651,"Skorstadvegen 644, Otterøy",64.576606,11.175902
+170652,"Moanvegen 478, Otterøy",64.540563,11.270986
+170653,"Årnesvegen 269, Otterøy",64.537737,11.272065
+170654,"Årnesvegen 523, Otterøy",64.558733,11.265235
+170655,"Årnesvegen 443, Otterøy",64.551795,11.261008
+170656,"Moanvegen 459, Otterøy",64.538637,11.275415
+170657,"Årnesvegen 409, Otterøy",64.549006,11.260255
+170658,"Årnesvegen 507, Otterøy",64.55749,11.263755
+170659,"Årnesvegen 500, Otterøy",64.555881,11.272658
+170660,"Årnesvegen 446, Otterøy",64.553,11.271375
+170661,"Årnesvegen 407, Otterøy",64.548474,11.259773
+170662,"Moanvegen 455, Otterøy",64.539004,11.276029
+170663,"Årnesvegen 522, Otterøy",64.558159,11.26692
+170664,"Årnesvegen 373, Otterøy",64.545461,11.260712
+170665,"Årnesvegen 442, Otterøy",64.550637,11.270343
+170666,"Moanvegen 445, Otterøy",64.539225,11.278009
+170667,"Årnesvegen 331, Otterøy",64.542101,11.264418
+170668,"Årnesvegen 346, Otterøy",64.543304,11.264372
+170669,"Årnesvegen 391, Otterøy",64.547192,11.260856
+170670,"Årnesvegen 400, Otterøy",64.547745,11.261674
+170671,"Moanvegen 457, Otterøy",64.539095,11.27539
+170672,"Årnesvegen 279, Otterøy",64.538331,11.270217
+170673,"Årnesvegen 440, Otterøy",64.550005,11.27004
+170674,"Årnesvegen 554, Otterøy",64.560569,11.274395
+170675,"Årnesvegen 620, Otterøy",64.566597,11.274031
+170676,"Årnesvegen 552, Otterøy",64.560156,11.273682
+170677,"Årnesvegen 551, Otterøy",64.560966,11.267174
+170678,"Årnesvegen 379, Otterøy",64.545857,11.260703
+170679,"Årnesvegen 534, Otterøy",64.559315,11.268248
+170680,"Årnesvegen 502, Otterøy",64.555839,11.274742
+170681,"Årnesvegen 377, Otterøy",64.544976,11.256687
+170682,"Storskaret 32, Otterøy",64.534977,11.325808
+170683,"Moanvegen 268, Otterøy",64.537394,11.314292
+170684,"Moanvegen 208, Otterøy",64.530718,11.314039
+170685,"Moanvegen 250, Otterøy",64.53347,11.314856
+170686,"Storskaret 4, Otterøy",64.535071,11.323272
+170687,"Husvikvegen 11, Otterøy",64.530672,11.316934
+170688,"Husvikvegen 50, Otterøy",64.53364,11.319959
+170689,"Moanvegen 368, Otterøy",64.538343,11.292618
+170690,"Moanvegen 329, Otterøy",64.536066,11.29933
+170691,"Moanvegen 379, Otterøy",64.535757,11.289148
+170692,"Moanvegen 351, Otterøy",64.537034,11.29595
+170693,"Moanvegen 350, Otterøy",64.537647,11.295814
+170694,"Moanvegen 352, Otterøy",64.538245,11.296031
+170695,"Husvikvegen 94, Otterøy",64.537711,11.320347
+170696,"Gårdsvika 13, Otterøy",64.537244,11.32379
+170697,"Moanvegen 453, Otterøy",64.539084,11.276641
+170698,"Moanvegen 435, Otterøy",64.538662,11.28134
+170699,"Moanvegen 414, Otterøy",64.543696,11.282617
+170700,"Moanvegen 411, Otterøy",64.539744,11.284476
+170701,"Moanvegen 354, Otterøy",64.539093,11.295768
+170702,"Moanvegen 416, Otterøy",64.544608,11.282901
+170703,"Moanvegen 366, Otterøy",64.538164,11.293125
+170704,"Moanvegen 375, Otterøy",64.536614,11.288907
+170705,"Moanvegen 433, Otterøy",64.539216,11.280928
+170706,"Moanvegen 443, Otterøy",64.538621,11.279314
+170707,"Årnesvegen 509, Otterøy",64.557916,11.264061
+170708,"Årnesvegen 444, Otterøy",64.551633,11.263999
+170709,"Moanvegen 480, Otterøy",64.540062,11.269735
+170710,"Årnesvegen 311, Otterøy",64.54017,11.265593
+170711,"Årnesvegen 309, Otterøy",64.54036,11.266089
+170712,"Fuglvatnet 1, Otterøy",64.527314,11.354303
+170713,"Moanvegen 146, Otterøy",64.525939,11.310236
+170714,"Årnesvegen 123, Otterøy",64.52667,11.276524
+170715,"Hamnesvegen 130, Otterøy",64.517605,11.264681
+170716,"Hamnesvegen 176, Otterøy",64.518079,11.255466
+170717,"Moanvegen 192, Otterøy",64.529771,11.316566
+170718,"Moanvegen 240, Otterøy",64.532696,11.312024
+170719,"Moanvegen 179, Otterøy",64.528394,11.312258
+170720,"Moanvegen 180, Otterøy",64.528463,11.31414
+170721,"Moanvegen 264, Otterøy",64.535195,11.311395
+170722,"Moanvegen 263, Otterøy",64.534888,11.310305
+170723,"Moanvegen 198, Otterøy",64.530942,11.324317
+170724,"Moanvegen 285, Otterøy",64.535757,11.308189
+170725,"Moanvegen 200, Otterøy",64.527756,11.328258
+170726,"Moanvegen 206, Otterøy",64.530417,11.314931
+170727,"Moanvegen 286, Otterøy",64.536384,11.307658
+170728,"Moanvegen 307, Otterøy",64.53383,11.306233
+170729,"Moanvegen 272, Otterøy",64.535723,11.310897
+170730,"Moanvegen 194, Otterøy",64.527701,11.323166
+170731,"Moanvegen 196, Otterøy",64.529526,11.324718
+170732,"Moanvegen 262, Otterøy",64.534913,11.311294
+170733,"Husvikvegen 9, Otterøy",64.530402,11.316452
+170734,"Husvikvegen 127, Otterøy",64.53953,11.31658
+170735,"Storskaret 34, Otterøy",64.535129,11.327552
+170736,"Husvikvegen 4, Otterøy",64.529998,11.316981
+170737,"Gårdsvika 2, Otterøy",64.536418,11.324387
+170738,"Husvikvegen 131, Otterøy",64.539241,11.31608
+170739,"Gårdsvika 23, Otterøy",64.538914,11.325987
+170740,"Husvikvegen 77, Otterøy",64.536147,11.319317
+170741,"Årnesvegen 127, Otterøy",64.527328,11.269969
+170742,"Moanvegen 327, Otterøy",64.535336,11.299478
+170743,"Hamnesvegen 118, Otterøy",64.517196,11.267377
+170744,"Årnesvegen 34, Otterøy",64.520048,11.284393
+170745,"Hamnesvegen 158, Otterøy",64.517865,11.25945
+170746,"Hamnesvegen 170, Otterøy",64.517963,11.257187
+170747,"Hamnesvegen 161, Otterøy",64.517089,11.258573
+170748,"Årnesvegen 147, Otterøy",64.529133,11.2775
+170749,"Hamnesvegen 124, Otterøy",64.517461,11.266503
+170750,"Moanvegen 311, Otterøy",64.535288,11.303144
+170751,"Årnesvegen 72, Otterøy",64.522872,11.281189
+170752,"Hamnesvegen 126, Otterøy",64.517699,11.265918
+170753,"Årnesvegen 192, Otterøy",64.532524,11.283434
+170754,"Årnesvegen 78, Otterøy",64.523164,11.279129
+170755,"Skomsvollvegen 1301, Otterøy",64.516934,11.288384
+170756,"Hamnesvegen 31, Otterøy",64.51475,11.284492
+170757,"Skomsvollvegen 1307, Otterøy",64.517481,11.287825
+170758,"Hamnesvegen 13, Otterøy",64.516031,11.288141
+170759,"Skomsvollsjøen 54, Otterøy",64.513722,11.273757
+170760,"Skomsvollsjøen 7, Otterøy",64.514304,11.282537
+170761,"Hamnesvegen 50, Otterøy",64.515423,11.281005
+170762,"Hamnesvegen 52, Otterøy",64.515739,11.280323
+170763,"Hamnesvegen 284, Otterøy",64.515566,11.234232
+170764,"Hamnesvegen 289, Otterøy",64.514925,11.233033
+170765,"Hamnesvegen 384, Otterøy",64.514599,11.215023
+170766,"Hamnesvegen 217, Otterøy",64.51651,11.247105
+170767,"Hamnesvegen 252, Otterøy",64.516747,11.239789
+170768,"Hamnesvegen 186, Otterøy",64.518339,11.253154
+170769,"Hamnesvegen 255, Otterøy",64.514715,11.241789
+170770,"Årnesvegen 89, Otterøy",64.524063,11.277307
+170771,"Hamnesvegen 140, Otterøy",64.517692,11.263146
+170772,"Hamnesvegen 387, Otterøy",64.51428,11.214726
+170773,"Hamnesvegen 123, Otterøy",64.516126,11.265121
+170774,"Hamnesvegen 362, Otterøy",64.515169,11.218299
+170775,"Hamnesvegen 296, Otterøy",64.516365,11.231838
+170776,"Hamnesvegen 394, Otterøy",64.514615,11.211565
+170777,"Hamnesvegen 304, Otterøy",64.516009,11.230475
+170778,"Årnesvegen 32, Otterøy",64.519871,11.285962
+170779,"Moanvegen 38, Otterøy",64.518488,11.296392
+170780,"Moanvegen 9, Otterøy",64.518167,11.290509
+170781,"Skomsvollvegen 1099, Otterøy",64.500101,11.297535
+170782,"Årnesvegen 16, Otterøy",64.51923,11.287951
+170783,"Skomsvollvegen 1228, Otterøy",64.514694,11.305368
+170784,"Skomsvollvegen 1041, Otterøy",64.495236,11.306102
+170785,"Skomsvollvegen 1288, Otterøy",64.516596,11.291044
+170786,"Hasselbergvegen 5, Otterøy",64.516988,11.292411
+170787,"Moanvegen 23, Otterøy",64.518751,11.292767
+170788,"Årnesvegen 18, Otterøy",64.519523,11.286996
+170789,"Skomsvollvegen 1269, Otterøy",64.514966,11.291366
+170790,"Moanvegen 27, Otterøy",64.518747,11.293579
+170791,"Skomsvollvegen 1290, Otterøy",64.516802,11.290478
+170792,"Skomsvollsjøen 42, Otterøy",64.513814,11.277078
+170793,"Hamnesvegen 110, Otterøy",64.517399,11.269311
+170794,"Skomsvollvegen 1103, Otterøy",64.501266,11.291363
+170795,"Skomsvollvegen 1193, Otterøy",64.509924,11.29634
+170796,"Skomsvollvegen 1296, Otterøy",64.517207,11.289866
+170797,"Skomsvollvegen 1095, Otterøy",64.500798,11.300414
+170798,"Skomsvollvegen 1270, Otterøy",64.515615,11.295234
+170799,"Skomsvollvegen 1226, Otterøy",64.513789,11.304666
+170800,"Skomsvollsjøen 44, Otterøy",64.513692,11.276255
+170801,"Årnesvegen 23, Otterøy",64.519134,11.285444
+170802,"Hamnesvegen 21, Otterøy",64.515413,11.285735
+170803,"Hamnesvegen 116, Otterøy",64.517044,11.267927
+170804,"Hamnesvegen 114, Otterøy",64.517282,11.268218
+170805,"Hamnesvegen 112, Otterøy",64.517522,11.268363
+170806,"Skomsvollsjøen 56, Otterøy",64.513578,11.270286
+170807,"Skomsvollsjøen 46, Otterøy",64.513916,11.275711
+170808,"Aglenvegen 1406, Otterøy",64.631412,11.075275
+170809,"Aglenvegen 1464, Otterøy",64.63315,11.062407
+170810,"Aglenvegen 1056, Otterøy",64.632976,11.126507
+170811,"Aglenvegen 1472, Otterøy",64.633829,11.061841
+170812,"Aglenvegen 936, Otterøy",64.627159,11.146327
+170813,"Aglenvegen 1306, Otterøy",64.634733,11.076832
+170814,"Lyktodden hytteområde 8, Otterøy",64.62434,11.150038
+170815,"Lyktodden hytteområde 7, Otterøy",64.624651,11.149665
+170816,"Aglenvegen 1403, Otterøy",64.630499,11.073056
+170817,"Aglenvegen 1459, Otterøy",64.632469,11.061549
+170818,"Aglenvegen 1408, Otterøy",64.631508,11.073781
+170819,"Aglenvegen 1412, Otterøy",64.631478,11.07267
+170820,"Aglenvegen 1405, Otterøy",64.630461,11.071002
+170821,"Aglenvegen 1470, Otterøy",64.633045,11.075531
+170828,"Aglenvegen 1428, Otterøy",64.631724,11.068587
+170830,"Skomsvollvegen 1066, Otterøy",64.498734,11.305147
+170831,"Skomsvollvegen 796, Otterøy",64.485371,11.34576
+170832,"Skomsvollvegen 876, Otterøy",64.486955,11.330219
+170833,"Skomsvollvegen 1045, Otterøy",64.494183,11.299349
+170834,"Skomsvollvegen 797, Otterøy",64.484503,11.347268
+170835,"Skomsvollvegen 892, Otterøy",64.487868,11.328153
+170838,"Aglenvegen 824, Otterøy",64.618409,11.151097
+170839,"Aglenvegen 828, Otterøy",64.619321,11.145793
+170846,"Aglenvegen 818, Otterøy",64.618914,11.147235
+170847,"Olavika hytteområde 10, Otterøy",64.620612,11.155162
+170848,"Aglenvegen 879, Otterøy",64.623518,11.139186
+170849,"Aglenvegen 822, Otterøy",64.618937,11.148691
+170850,"Aglenvegen 883, Otterøy",64.623984,11.140445
+170851,"Aglenvegen 888, Otterøy",64.623643,11.146113
+170852,"Aglenvegen 919, Otterøy",64.624815,11.145996
+170853,"Aglenvegen 886, Otterøy",64.623351,11.143682
+170854,"Aglenvegen 1304, Otterøy",64.635646,11.076965
+170855,"Aglenvegen 1207, Otterøy",64.632013,11.095877
+170856,"Aglenvegen 1241, Otterøy",64.632505,11.089051
+170857,"Aglenvegen 1209, Otterøy",64.631547,11.097076
+170858,"Aglenvegen 1264, Otterøy",64.634753,11.085913
+170859,"Aglenvegen 978, Otterøy",64.629991,11.139876
+170860,"Aglenvegen 842, Otterøy",64.620632,11.146856
+170861,"Aglenvegen 1266, Otterøy",64.635054,11.085503
+170862,"Lyktodden hytteområde 1, Otterøy",64.625902,11.147178
+170863,"Lyktodden hytteområde 6, Otterøy",64.624801,11.14861
+170864,"Lyktodden hytteområde 4, Otterøy",64.624971,11.148038
+170865,"Lyktodden hytteområde 3, Otterøy",64.625273,11.147601
+170866,"Lyktodden hytteområde 5, Otterøy",64.625176,11.148765
+170867,"Lyktodden hytteområde 2, Otterøy",64.62557,11.147328
+170868,"Aglenvegen 1229, Otterøy",64.63163,11.093127
+170869,"Aglenvegen 1055, Otterøy",64.632494,11.126888
+171268,"Hasselbergvegen 2, Otterøy",64.515816,11.291541
+171269,"Hasselbergvegen 1, Otterøy",64.516366,11.291379
+171270,"Hatlandvegen 1, Otterøy",64.518869,11.295549
+171271,"Hasselbergvegen 4, Otterøy",64.516115,11.291962
+171303,"Hatlandvegen 6, Otterøy",64.519516,11.296124
+171304,"Hatlandvegen 5, Otterøy",64.518663,11.294344
+171305,"Hatlandvegen 8, Otterøy",64.519815,11.29592
+171306,"Hatlandvegen 7, Otterøy",64.519105,11.294256
+171307,"Hatlandvegen 13, Otterøy",64.519822,11.294899
+171308,"Hatlandvegen 9, Otterøy",64.519293,11.294834
+173752,"Skorstadvegen 188, Otterøy",64.573805,11.230003
+173783,"Hamnesvegen 190, Otterøy",64.517945,11.252454
+173841,"Hasselbergvegen 3, Otterøy",64.516614,11.291608
+174001,"Sandvollan hytteområde 3, Otterøy",64.613196,11.207465
+174002,"Sandvollan hytteområde 6, Otterøy",64.613175,11.208936
+174043,"Lokkaren 67, Otterøy",64.475876,11.397826
+174047,"Sandvollan hytteområde 12, Otterøy",64.612751,11.214247
+174055,"Årnesvegen 316, Otterøy",64.542037,11.270323
+174168,"Aglenvegen 88, Otterøy",64.592625,11.268075
+174175,"Lokkaren 56, Otterøy",64.474872,11.415843
+174179,"Aglenvegen 547, Otterøy",64.612483,11.198406
+174200,"Oldervika hytteområde 22, Otterøy",64.481597,11.319335
+174205,"Oldervika hytteområde 20, Otterøy",64.481557,11.321268
+174211,"Aglenvegen 1074, Otterøy",64.633214,11.122041
+174224,"Oldervika hytteområde 13, Otterøy",64.482775,11.324889
+174227,"Oldervika hytteområde 1, Otterøy",64.484083,11.330362
+174233,"Moanvegen 378, Otterøy",64.539538,11.291989
+174236,"Skorstadvegen 572, Otterøy",64.579029,11.186274
+174237,"Hatlandvegen 3, Otterøy",64.518799,11.294876
+174242,"Oldervika hytteområde 27, Otterøy",64.48123,11.311249
+174244,"Aglenvegen 229, Otterøy",64.601172,11.247299
+174245,"Sandvollan hytteområde 9, Otterøy",64.612803,11.212139
+174246,"Lokkaren 57, Otterøy",64.474614,11.415112
+174252,"Oldervika hytteområde 21, Otterøy",64.481508,11.320431
+174255,"Hamnesvegen 178, Otterøy",64.518761,11.25546
+174282,"Lokkaren 66, Otterøy",64.472479,11.403261
+174283,"Altevegen 156, Otterøy",64.590404,11.228249
+174284,"Altevegen 81, Otterøy",64.588208,11.242215
+174518,"Skorstadvegen 447, Otterøy",64.575414,11.207203
+174519,"Skorstadvegen 297, Otterøy",64.566881,11.219457
+174520,"Skorstadvegen 750, Otterøy",64.573732,11.166198
+174521,"Skorstadvegen 752, Otterøy",64.576313,11.165317
+174522,"Årnesvegen 747, Otterøy",64.576957,11.268797
+174523,"Aglenvegen 58, Otterøy",64.588822,11.277767
+174524,"Årnesvegen 329, Otterøy",64.541854,11.264711
+174525,"Årnesvegen 558, Otterøy",64.561806,11.277306
+174526,"Skorstadvegen 42, Otterøy",64.583235,11.253421
+174527,"Altevegen 19, Otterøy",64.586129,11.253159
+174528,"Skorstadvegen 514, Otterøy",64.579624,11.195784
+174529,"Skorstadvegen 454, Otterøy",64.577987,11.2062
+174530,"Skorstadvegen 574, Otterøy",64.579766,11.185623
+174531,"Skorstadvegen 515, Otterøy",64.5762,11.195989
+174532,"Skorstadvegen 583, Otterøy",64.577223,11.186359
+174533,"Surviksundet 2, Otterøy",64.533892,11.43245
+174534,"Aglenvegen 248, Otterøy",64.604641,11.253186
+174535,"Surviksundet 3, Otterøy",64.542051,11.405244
+174536,"Skomsvollvegen 1234, Otterøy",64.536788,11.416857
+174539,"Skorstadvegen 258, Otterøy",64.569494,11.224236
+174540,"Altevegen 173, Otterøy",64.587976,11.224373
+174542,"Lokkaren 65, Otterøy",64.472977,11.404023
+174543,"Lokkaren 54, Otterøy",64.479099,11.416466
+174544,"Skomsvollvegen 529, Otterøy",64.485668,11.397497
+174545,"Skomsvollvegen 496, Otterøy",64.487785,11.403679
+174546,"Skomsvollvegen 599, Otterøy",64.486921,11.382222
+174547,"Skomsvollvegen 458, Otterøy",64.489946,11.412614
+174548,"Storskaret 101, Otterøy",64.539837,11.336944
+174549,"Storskaret 103, Otterøy",64.540131,11.337115
+174550,"Storskaret 93, Otterøy",64.539153,11.335946
+174551,"Storskaret 89, Otterøy",64.53872,11.335492
+174552,"Husvikvegen 130, Otterøy",64.540227,11.31739
+174553,"Husvikvegen 128, Otterøy",64.539901,11.317008
+174554,"Husvikvegen 105, Otterøy",64.538772,11.31687
+174555,"Gårdsvika 25, Otterøy",64.537854,11.327263
+174556,"Gårdsvika 27, Otterøy",64.538004,11.328006
+174557,"Gårdsvika 31, Otterøy",64.538328,11.329076
+174558,"Gårdsvika 29, Otterøy",64.538165,11.328603
+174559,"Storskaret 97, Otterøy",64.539335,11.337505
+174560,"Gårdsvika 33, Otterøy",64.53858,11.329598
+174561,"Storskaret 99, Otterøy",64.539601,11.336527
+174562,"Storskaret 91, Otterøy",64.538873,11.336631
+174563,"Moanvegen 418, Otterøy",64.544143,11.280443
+174564,"Årnesvegen 438, Otterøy",64.549381,11.269154
+174565,"Moanvegen 270, Otterøy",64.537696,11.316174
+174566,"Moanvegen 377, Otterøy",64.536167,11.289954
+174567,"Gårdsvika 35, Otterøy",64.538944,11.329859
+174568,"Storskaret 105, Otterøy",64.540058,11.338277
+174569,"Storskaret 102, Otterøy",64.539957,11.341134
+174570,"Storskaret 98, Otterøy",64.539441,11.339851
+174571,"Moanvegen 479, Otterøy",64.54,11.272024
+174572,"Årnesvegen 348, Otterøy",64.542976,11.269414
+174573,"Årnesvegen 313, Otterøy",64.540546,11.266876
+174574,"Årnesvegen 307, Otterøy",64.539874,11.266841
+174575,"Årnesvegen 347, Otterøy",64.542891,11.260312
+174576,"Årnesvegen 315, Otterøy",64.540757,11.266539
+174577,"Aglenvegen 1416, Otterøy",64.631528,11.071732
+174578,"Aglenvegen 1475, Otterøy",64.634325,11.060238
+174581,"Lostranda 1, Otterøy",64.647787,11.10591
+174584,"Lyktodden hytteområde 41, Otterøy",64.62383,11.151149
+174587,"Aglenvegen 1211, Otterøy",64.63079,11.100031
+174589,"Nedre Sandvika hytteomr 15, Otterøy",64.499834,11.284724
+174590,"Lostranda 3, Otterøy",64.650297,11.105476
+174592,"Skomsvollvegen 1250, Otterøy",64.514395,11.296882
+174594,"Oldervika hytteområde 11, Otterøy",64.482257,11.327551
+174596,"Skomsvollvegen 1219, Otterøy",64.510979,11.298345
+174599,"Skomsvollvegen 1078, Otterøy",64.500871,11.312576
+174601,"Oldervika hytteområde 10, Otterøy",64.482784,11.327158
+174603,"Vikalangvatnet 2, Otterøy",64.507134,11.352502
+174605,"Hamnesvegen 125, Otterøy",64.51588,11.267143
+174608,"Hamnesvegen 91, Otterøy",64.514686,11.267194
+174610,"Skomsvollsjøen 6, Otterøy",64.514577,11.282289
+174612,"Hamnesvegen 44, Otterøy",64.515344,11.28204
+174614,"Hamnesvegen 46, Otterøy",64.515369,11.281584
+174616,"Årnesvegen 30, Otterøy",64.519787,11.285017
+174618,"Årnesvegen 33, Otterøy",64.519571,11.283873
+174620,"Moanvegen 202, Otterøy",64.524417,11.327471
+174621,"Storskaret 92, Otterøy",64.539115,11.338863
+174622,"Hamnesvegen 353, Otterøy",64.512434,11.221057
+174624,"Hamnesvegen 391, Otterøy",64.511653,11.210346
+174626,"Hamnesvegen 214, Otterøy",64.518131,11.247384
+174628,"Hamnesvegen 312, Otterøy",64.516063,11.229271
+174630,"Hamnesvegen 230, Otterøy",64.517493,11.244456
+174632,"Hamnesvegen 192, Otterøy",64.518597,11.251528
+174642,"Sandvollan hytteområde 23, Otterøy",64.613734,11.217088
+174643,"Aglenvegen 324, Otterøy",64.607559,11.243786
+174644,"Aglenvegen 541, Otterøy",64.612281,11.199611
+174646,"Aglenvegen 844, Otterøy",64.620455,11.14766
+174647,"Aglenvegen 820, Otterøy",64.619283,11.149011
+174648,"Aglenvegen 830, Otterøy",64.619812,11.146942
+174649,"Aglenvegen 526, Otterøy",64.611732,11.202683
+174650,"Aglenvegen 524, Otterøy",64.612374,11.203613
+174651,"Aglenvegen 530, Otterøy",64.611931,11.201988
+174652,"Sandvollan hytteområde 13, Otterøy",64.613198,11.212171
+174653,"Aglenvegen 264, Otterøy",64.604752,11.250038
+174654,"Vestre Finnanger hytteområde 10, Otterøy",64.621982,11.1523
+174656,"Aglenvegen 1337, Otterøy",64.632856,11.081983
+174658,"Vestre Finnanger hytteområde 9, Otterøy",64.622038,11.151572
+174659,"Vestre Finnanger hytteområde 11, Otterøy",64.622016,11.153055
+174660,"Aglenvegen 708, Otterøy",64.616791,11.167179
+174661,"Tangen hytteområde 10, Otterøy",64.619087,11.153807
+174662,"Aglvatnet 2, Otterøy",64.624742,11.114266
+174663,"Aglenvegen 846, Otterøy",64.620231,11.147245
+174668,"Skomsvollvegen 465, Otterøy",64.48826,11.408676
+174725,"Lokkaren 62, Otterøy",64.47308,11.407382
+174726,"Lokkaren 58, Otterøy",64.474194,11.413369
+174739,"Husvikvegen 125, Otterøy",64.539239,11.317014
+174741,"Reindalen 1, Otterøy",64.590383,11.163907
+174763,"Aglvatnet 3, Otterøy",64.6252,11.112864
+174764,"Hamnesvegen 152, Otterøy",64.51796,11.260292
+174765,"Hamnesvegen 165, Otterøy",64.517242,11.256752
+174803,"Hamnesvegen 33, Otterøy",64.514649,11.284004
+174813,"Årnesvegen 293, Otterøy",64.539051,11.27011
+174814,"Årnesvegen 393, Otterøy",64.542196,11.235264
+174823,"Skomsvollvegen 1101, Otterøy",64.500244,11.293569
+174831,"Lyktodden hytteområde 38, Otterøy",64.630138,11.14334
+174832,"Lokkaren 55, Otterøy",64.476642,11.415728
+174834,"Lyktodden hytteområde 39, Otterøy",64.630281,11.142744
+174845,"Lokkaren 59, Otterøy",64.47316,11.412383
+174870,"Aglenvegen 536, Otterøy",64.613375,11.203924
+174872,"Skomsvollsjøen 30, Otterøy",64.513692,11.279193
+174876,"Aglenvegen 1362, Otterøy",64.631223,11.081921
+174880,"Oldervika hytteområde 14, Otterøy",64.482622,11.324314
+174901,"Aglenvegen 41, Otterøy",64.63058,11.140625
+174916,"Aglenvegen 86, Otterøy",64.592678,11.265216
+174922,"Oldervika hytteområde 6, Otterøy",64.485003,11.327076
+174926,"Aglenvegen 87, Otterøy",64.591233,11.261125
+174932,"Lyktodden hytteområde 37, Otterøy",64.629897,11.142003
+174934,"Sandvollan hytteområde 10, Otterøy",64.612848,11.21281
+174935,"Aglenvegen 130, Otterøy",64.594423,11.256813
+174936,"Aglenvegen 1, Otterøy",64.587192,11.255295
+174937,"Lokkaren 47, Otterøy",64.512069,11.444678
+174938,"Aglenvegen 126, Otterøy",64.594135,11.258043
+174964,"Hamnesvegen 8, Otterøy",64.516691,11.287217
+174965,"Moanvegen 376, Otterøy",64.538757,11.291381
+174967,"Aglenvegen 992, Otterøy",64.630684,11.138486
+174968,"Tangen hytteområde 5, Otterøy",64.618285,11.161058
+174969,"Olavika hytteområde 1, Otterøy",64.62104,11.154129
+174974,"Lyktodden hytteområde 34, Otterøy",64.629331,11.143904
+174975,"Tangen hytteområde 3, Otterøy",64.618281,11.15983
+174976,"Oldervika hytteområde 23, Otterøy",64.481434,11.31826
+174977,"Nedre Sandvika hytteomr 1, Otterøy",64.502857,11.286581
+174978,"Oldervika hytteområde 2, Otterøy",64.484482,11.329455
+174982,"Aglenvegen 1294, Otterøy",64.638156,11.073389
+174990,"Årnesvegen 375, Otterøy",64.545144,11.260352
+175000,"Moanvegen 380, Otterøy",64.540208,11.29217
+175039,"Olavika hytteområde 8, Otterøy",64.620148,11.150611
+175040,"Olavika hytteområde 9, Otterøy",64.620229,11.150006
+175043,"Sandvollan hytteområde 1, Otterøy",64.613474,11.205773
+175046,"Lyktodden hytteområde 36, Otterøy",64.629795,11.143459
+175075,"Skomsvollvegen 1074, Otterøy",64.49976,11.303859
+175076,"Reindalen 2, Otterøy",64.590805,11.16313
+175077,"Sandvollan hytteområde 7, Otterøy",64.61306,11.21057
+175084,"Moanvegen 495, Otterøy",64.538841,11.273242
+175086,"Altevegen 54, Otterøy",64.5879,11.246578
+175092,"Skomsvollvegen 472, Otterøy",64.488019,11.404699
+175093,"Sandvollan hytteområde 14, Otterøy",64.612373,11.216872
+175094,"Oldervika hytteområde 16, Otterøy",64.482395,11.323358
+175102,"Aglenvegen 140, Otterøy",64.59703,11.257134
+175103,"Altevegen 196, Otterøy",64.588613,11.220831
+175104,"Oldervika hytteområde 25, Otterøy",64.480877,11.316027
+175107,"Oldervika hytteområde 8, Otterøy",64.484518,11.325349
+175160,"Hamnesvegen 275, Otterøy",64.515233,11.236059
+175161,"Skomsvollvegen 1230, Otterøy",64.516215,11.348939
+175169,"Aglenvegen 1262, Otterøy",64.634623,11.088439
+175208,"Sandvollan hytteområde 4, Otterøy",64.613021,11.20835
+175220,"Moanvegen 7, Otterøy",64.51811,11.289524
+175229,"Oldervika hytteområde 17, Otterøy",64.482326,11.321479
+175231,"Moanvegen 325, Otterøy",64.535279,11.300123
+175237,"Sandvollan hytteområde 5, Otterøy",64.612894,11.20903
+175242,"Altevegen 190, Otterøy",64.588817,11.223919
+175244,"Skomsvollvegen 1305, Otterøy",64.517266,11.287807
+175245,"Skomsvollvegen 1097, Otterøy",64.500884,11.298559
+175247,"Hamnesvegen 360, Otterøy",64.514667,11.219426
+175250,"Årnesvegen 103, Otterøy",64.523907,11.275793
+175252,"Hamnesvegen 163, Otterøy",64.51717,11.25735
+175253,"Årnesvegen 448, Otterøy",64.551663,11.263219
+175254,"Årnesvegen 70, Otterøy",64.522841,11.280549
+175256,"Moanvegen 215, Otterøy",64.530704,11.312641
+175258,"Årnesvegen 358, Otterøy",64.544392,11.263106
+175260,"Årnesvegen 360, Otterøy",64.544122,11.263147
+175262,"Husvikvegen 85, Otterøy",64.536774,11.319433
+175263,"Moanvegen 451, Otterøy",64.538821,11.277754
+175265,"Årnesvegen 121, Otterøy",64.527009,11.276677
+175266,"Storskaret 30, Otterøy",64.53521,11.325828
+175267,"Hamnesvegen 128, Otterøy",64.517756,11.265423
+175268,"Hamnesvegen 281, Otterøy",64.514295,11.233336
+175269,"Årnesvegen 222, Otterøy",64.534889,11.2809
+175272,"Skomsvollvegen 721, Otterøy",64.48426,11.360153
+175274,"Altevegen 83A, Otterøy",64.587976,11.242175
+175277,"Skorstadvegen 785, Otterøy",64.572275,11.156602
+175279,"Årnesvegen 381, Otterøy",64.545769,11.259987
+175281,"Aglenvegen 52, Otterøy",64.589291,11.268884
+175296,"Skomsvollvegen 1277, Otterøy",64.51523,11.291117
+175298,"Skomsvollvegen 1275, Otterøy",64.515306,11.290867
+175301,"Aglenvegen 60, Otterøy",64.590351,11.265942
+175311,"Nedre Sandvika hytteomr 2, Otterøy",64.502323,11.287205
+175313,"Hamnesvegen 351, Otterøy",64.512727,11.222173
+175315,"Lyktodden hytteområde 23, Otterøy",64.626495,11.149414
+175319,"Lyktodden hytteområde 30, Otterøy",64.626223,11.150187
+175321,"Moanvegen 403, Otterøy",64.539435,11.286474
+175324,"Skomsvollvegen 1273, Otterøy",64.515237,11.290659
+175325,"Olavika hytteområde 2, Otterøy",64.621139,11.153467
+175326,"Skomsvollvegen 1271, Otterøy",64.51511,11.290753
+175327,"Skorstadvegen 599, Otterøy",64.57671,11.186397
+175340,"Skomsvollvegen 355, Otterøy",64.494942,11.424946
+175342,"Skavdalen 3, Otterøy",64.54016,11.209525
+175343,"Lokkaren 63, Otterøy",64.473355,11.40597
+175344,"Skavdalen 2, Otterøy",64.534855,11.222609
+175358,"Olavika hytteområde 5, Otterøy",64.62133,11.152102
+175370,"Skorstadvegen 766, Otterøy",64.574934,11.160175
+175371,"Årnesvegen 125, Otterøy",64.526988,11.273923
+175372,"Aglenvegen 1012, Otterøy",64.632585,11.133697
+175373,"Lyktodden hytteområde 35, Otterøy",64.629497,11.142567
+175374,"Aglenvegen 1099, Otterøy",64.628038,11.11524
+175376,"Skorstadvegen 534, Otterøy",64.580164,11.192128
+175377,"Altevegen 165, Otterøy",64.587427,11.226208
+175378,"Skorstadvegen 532, Otterøy",64.582871,11.192438
+175379,"Skorstadvegen 295, Otterøy",64.565976,11.218736
+175382,"Tangen hytteområde 8, Otterøy",64.619557,11.154848
+175383,"Tangen hytteområde 7, Otterøy",64.619664,11.154271
+175402,"Aglenvegen 881, Otterøy",64.623462,11.138148
+175403,"Setervatnet 1, Otterøy",64.596729,11.131911
+175404,"Skorstadvatnet 1, Otterøy",64.56273,11.157997
+175405,"Aglvatnet 1, Otterøy",64.624099,11.119495
+175407,"Skorstadvegen 767, Otterøy",64.570839,11.160919
+175414,"Tangen hytteområde 6, Otterøy",64.618029,11.161849
+175415,"Aglenvegen 816, Otterøy",64.618596,11.147614
+175422,"Skorstadvatnet 2, Otterøy",64.562327,11.160324
+175423,"Skomsvollvegen 825, Otterøy",64.482168,11.342218
+175428,"Altevegen 83B, Otterøy",64.587986,11.242071
+175434,"Skomsvollvegen 520, Otterøy",64.487409,11.398628
+175436,"Årnesvegen 419, Otterøy",64.549571,11.260302
+175458,"Aglenvegen 848, Otterøy",64.622305,11.149394
+175479,"Oldervika hytteområde 3, Otterøy",64.484763,11.328034
+175485,"Lyktodden hytteområde 32, Otterøy",64.626297,11.148791
+175495,"Nedre Sandvika hytteomr 3, Otterøy",64.501901,11.28748
+175497,"Lyktodden hytteområde 28, Otterøy",64.625776,11.15193
+175498,"Nedre Sandvika hytteomr 8, Otterøy",64.500578,11.287782
+175524,"Storskaret 94, Otterøy",64.538923,11.33966
+175534,"Storskaret 95, Otterøy",64.539162,11.337053
+175542,"Aglenvegen 18, Otterøy",64.628087,11.147321
+175543,"Lyktodden hytteområde 31, Otterøy",64.626062,11.149568
+175544,"Olavika hytteområde 6, Otterøy",64.620984,11.153016
+175545,"Aglenvegen 138, Otterøy",64.596065,11.256295
+175546,"Olavika hytteområde 7, Otterøy",64.620384,11.151085
+175547,"Olavika hytteområde 3, Otterøy",64.621113,11.152775
+175553,"Nedre Sandvika hytteomr 7, Otterøy",64.500886,11.288061
+175554,"Tangen hytteområde 4, Otterøy",64.618445,11.16051
+175555,"Lyktodden hytteområde 22, Otterøy",64.626563,11.148415
+175579,"Lokkaren 52, Otterøy",64.479467,11.418163
+175580,"Skomsvollvegen 485, Otterøy",64.486398,11.40337
+175583,"Altevegen 128, Otterøy",64.591434,11.233766
+175589,"Aglenvegen 1215, Otterøy",64.631059,11.101789
+175597,"Oldervika hytteområde 7, Otterøy",64.484924,11.325821
+175600,"Tangen hytteområde 9, Otterøy",64.61906,11.155039
+175616,"Vestre Finnanger hytteområde 8, Otterøy",64.624053,11.148823
+175620,"Aglenvegen 246, Otterøy",64.60355,11.255228
+175621,"Aglenvegen 302, Otterøy",64.607654,11.246326
+175628,"Skorstadvegen 578, Otterøy",64.579299,11.183831
+175629,"Skorstadvegen 576, Otterøy",64.579342,11.183939
+175637,"Skorstadvegen 530, Otterøy",64.580726,11.194724
+175639,"Hamnesvegen 132, Otterøy",64.517865,11.264723
+175641,"Vindsetvatnet 1, Otterøy",64.537418,11.353954
+175645,"Aglenvegen 1213, Otterøy",64.630852,11.100475
+175652,"Aglenvegen 12, Otterøy",64.628668,11.145651
+175656,"Skomsvollvegen 1043, Otterøy",64.493706,11.299997
+175657,"Skomsvollvegen 1076, Otterøy",64.500005,11.31169
+175667,"Hamnesvegen 188, Otterøy",64.518513,11.253481
+175669,"Hamnesvegen 219, Otterøy",64.51629,11.246837
+175671,"Skomsvollvegen 1195, Otterøy",64.509555,11.295246
+175672,"Storskaret 100, Otterøy",64.539589,11.340808
+175673,"Aglenvegen 17, Otterøy",64.628297,11.146675
+175675,"Hamnesvegen 127, Otterøy",64.51529,11.265758
+175691,"Lokkaren 61, Otterøy",64.472891,11.407969
+175693,"Hamnesvegen 349, Otterøy",64.514128,11.22307
+175699,"Skorstadvegen 285, Otterøy",64.567195,11.222447
+175700,"Altevegen 212, Otterøy",64.588909,11.214837
+175720,"Skorstadvegen 223, Otterøy",64.570886,11.230057
+175742,"Aglenvegen 1409, Otterøy",64.623631,11.047616
+175750,"Aglenvegen 134, Otterøy",64.594588,11.256576
+175758,"Surviksundet 1, Otterøy",64.52693,11.4468
+175761,"Hamnesvegen 93, Otterøy",64.515022,11.26628
+175766,"Aglenvegen 11, Otterøy",64.62841,11.145108
+175769,"Hamnesvegen 282, Otterøy",64.515562,11.234482
+175771,"Aglenvegen 16, Otterøy",64.62809,11.14615
+175773,"Moanvegen 213, Otterøy",64.530481,11.313123
+175791,"Aglenvegen 286, Otterøy",64.606048,11.247513
+175794,"Skorstadvegen 540, Otterøy",64.5829,11.188611
+175799,"Årnesvegen 415, Otterøy",64.549305,11.26005
+175803,"Aglenvegen 686, Otterøy",64.616659,11.172153
+175805,"Husvikvegen 129, Otterøy",64.539712,11.315323
+175837,"Aglenvegen 980, Otterøy",64.63019,11.139787
+175840,"Nedre Sandvika hytteomr 5, Otterøy",64.500659,11.288834
+175843,"Lyktodden hytteområde 24, Otterøy",64.626532,11.14994
+175845,"Nedre Sandvika hytteomr 6, Otterøy",64.501153,11.28825
+175846,"Moanvegen 266, Otterøy",64.53718,11.314733
+175847,"Nedre Sandvika hytteomr 4, Otterøy",64.50168,11.287836
+175848,"Moanvegen 135, Otterøy",64.526514,11.306157
+175860,"Aglenvegen 1365, Otterøy",64.63141,11.084551
+175864,"Årnesvegen 345, Otterøy",64.543329,11.261016
+175867,"Sandvollan hytteområde 18, Otterøy",64.612117,11.218267
+175873,"Sandvollan hytteområde 15, Otterøy",64.612729,11.217131
+175881,"Hamnesvegen 380, Otterøy",64.514898,11.215631
+175884,"Lyktodden hytteområde 26, Otterøy",64.626434,11.150899
+175888,"Skomsvollvegen 597, Otterøy",64.486882,11.382989
+175897,"Aglenvegen 262, Otterøy",64.604317,11.249103
+175898,"Aglenvegen 142, Otterøy",64.597995,11.255144
+175911,"Sandvollan hytteområde 20, Otterøy",64.612417,11.219536
+175913,"Moanvegen 305, Otterøy",64.534766,11.304956
+175914,"Sandvollan hytteområde 21, Otterøy",64.612378,11.220135
+175932,"Skorstadvegen 390, Otterøy",64.57513,11.214135
+175944,"Skomsvollvegen 601, Otterøy",64.487127,11.381719
+175952,"Årnesvegen 556, Otterøy",64.559483,11.275442
+288068,"Lyktodden hytteområde 21, Otterøy",64.626822,11.148494
+288069,"Lyktodden hytteområde 29, Otterøy",64.625931,11.150603
+651137,"Aglenvegen 15, Otterøy",64.628688,11.146178
+651141,"Aglenvegen 13, Otterøy",64.628035,11.145275
+855508,"Tangen hytteområde 13, Otterøy",64.61893,11.152311
+855909,"Nedre Sandvika hytteomr 10, Otterøy",64.500054,11.286639
+1695941,"Skomsvollvegen 795, Otterøy",64.484416,11.348339
+1713632,"Storskaret 12, Otterøy",64.535287,11.324385
+1769997,"Nedre Sandvika hytteomr 9, Otterøy",64.500314,11.28701
+1776642,"Sandvollan hytteområde 16, Otterøy",64.612296,11.217552
+1780478,"Lyktodden hytteområde 27, Otterøy",64.626049,11.151469
+1834690,"Hamnesvegen 151, Otterøy",64.516997,11.260566
+1850950,"Aglenvegen 1407, Otterøy",64.628756,11.065905
+1885007,"Moanvegen 429, Otterøy",64.539248,11.281609
+1962928,"Skorstadvegen 536, Otterøy",64.580754,11.19067
+1967531,"Aglenvegen 326, Otterøy",64.607881,11.244729
+1967567,"Skorstadvegen 342, Otterøy",64.569592,11.21457
+1967689,"Skorstadvegen 597, Otterøy",64.57654,11.185661
+1975122,"Hamnesvegen 148, Otterøy",64.517824,11.262178
+1977983,"Lyktodden hytteområde 40, Otterøy",64.630584,11.142113
+1990503,"Moanvegen 2, Otterøy",64.517532,11.288961
+1991412,"Vikalangvatnet 1, Otterøy",64.508889,11.356701
+1992187,"Nedre Sandvika hytteomr 18, Otterøy",64.499094,11.286831
+2001732,"Nedre Sandvika hytteomr 16, Otterøy",64.49924,11.28572
+2002676,"Nedre Sandvika hytteomr 11, Otterøy",64.500104,11.287861
+2004754,"Storskaret 6, Otterøy",64.534531,11.322844
+2004755,"Husvikvegen 63, Otterøy",64.534852,11.319493
+2020717,"Aglenvegen 1411, Otterøy",64.623771,11.050541
+2020997,"Aglenvegen 1468, Otterøy",64.633258,11.07781
+2030434,"Lyktodden hytteområde 33, Otterøy",64.629081,11.144259
+2030890,"Oldervika hytteområde 9, Otterøy",64.483793,11.32571
+2030891,"Oldervika hytteområde 12, Otterøy",64.482406,11.326733
+2031336,"Myanvikvatnet 1, Otterøy",64.592777,11.103319
+2031338,"Lostranda 2, Otterøy",64.64894,11.108252
+2031339,"Skavdalen 1, Otterøy",64.533364,11.221277
+2031340,"Skavdalen 4, Otterøy",64.542969,11.186611
+2031341,"Skavdalen 5, Otterøy",64.542951,11.184655
+2031342,"Skavdalen 6, Otterøy",64.538075,11.183612
+2059267,"Aglenvegen 1435, Otterøy",64.630301,11.06583
+2111073,"Sandvollan hytteområde 22, Otterøy",64.613024,11.218347
+2187839,"Nedre Sandvika hytteomr 14, Otterøy",64.499697,11.287146
+2187927,"Nedre Sandvika hytteomr 17, Otterøy",64.499546,11.286321
+2194674,"Årnesvegen 105, Otterøy",64.522173,11.265997
+2234715,"Skomsvollvegen 1232, Otterøy",64.514964,11.306886
+2453267,"Oldervika hytteområde 24, Otterøy",64.481045,11.317311
+2466897,"Aglenvegen 1467, Otterøy",64.63341,11.061642
+2467677,"Aglenvegen 1296, Otterøy",64.639041,11.071112
+2467774,"Aglenvegen 1298, Otterøy",64.639436,11.069216
+2504528,"Oldervika hytteområde 26, Otterøy",64.480892,11.315071
+2534440,"Oldervika hytteområde 15, Otterøy",64.482652,11.323567

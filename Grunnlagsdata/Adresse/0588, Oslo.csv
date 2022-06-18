@@ -1,0 +1,484 @@
+,Navn,Long,Lat
+1549606,"Christian Schous vei 9, Tonsen",59.946102,10.800629
+1549607,"Christian Schous vei 8, Tonsen",59.945457,10.799198
+1549608,"Christian Schous vei 4, Tonsen",59.944718,10.798692
+1549609,"Christian Schous vei 1, Tonsen",59.944682,10.799353
+1549612,"Christian Schous vei 18, Tonsen",59.946705,10.800555
+1549613,"Christian Schous vei 17, Tonsen",59.947087,10.801277
+1549614,"Christian Schous vei 16, Tonsen",59.946565,10.800261
+1549615,"Christian Schous vei 15, Tonsen",59.946813,10.801187
+1549616,"Christian Schous vei 13, Tonsen",59.946589,10.801121
+1549617,"Christian Schous vei 12, Tonsen",59.946069,10.79975
+1549618,"Christian Schous vei 11, Tonsen",59.946357,10.801019
+1549619,"Christian Schous vei 10A, Tonsen",59.945729,10.799506
+1549623,"Christian Schous vei 24, Tonsen",59.947412,10.800736
+1549624,"Christian Schous vei 22B, Tonsen",59.94723,10.800732
+1549625,"Christian Schous vei 21, Tonsen",59.94743,10.801364
+1549626,"Christian Schous vei 20, Tonsen",59.94699,10.800731
+1549627,"Christian Schous vei 19, Tonsen",59.947215,10.801316
+1551744,"Eikelundveien 5B, Tonsen",59.943315,10.797542
+1551745,"Eikelundveien 5, Tonsen",59.943327,10.797972
+1551746,"Eikelundveien 4, Tonsen",59.943694,10.798691
+1551747,"Eikelundveien 2B, Tonsen",59.943888,10.798416
+1551748,"Eikelundveien 1, Tonsen",59.943623,10.798006
+1551752,"Eikelundveien 15, Tonsen",59.943387,10.800196
+1551753,"Eikelundveien 14, Tonsen",59.94376,10.800484
+1551754,"Eikelundveien 13, Tonsen",59.943394,10.799659
+1551755,"Eikelundveien 12, Tonsen",59.943675,10.800122
+1551756,"Eikelundveien 10, Tonsen",59.943743,10.799714
+1551757,"Eikelundveien 8, Tonsen",59.943729,10.799426
+1551758,"Eikelundveien 7, Tonsen",59.943372,10.798458
+1551759,"Eikelundveien 6, Tonsen",59.943725,10.799068
+1551760,"Eikelundveien 20C, Tonsen",59.94442,10.802794
+1551761,"Eikelundveien 20B, Tonsen",59.944421,10.802704
+1551762,"Eikelundveien 20A, Tonsen",59.944422,10.802615
+1551763,"Lofthusveien 39B, Tonsen",59.94406,10.801557
+1551764,"Eikelundveien 18, Tonsen",59.943792,10.801435
+1551765,"Eikelundveien 17, Tonsen",59.943362,10.800678
+1551766,"Eikelundveien 16, Tonsen",59.943692,10.800857
+1551767,"Eikelundveien 24C, Tonsen",59.943918,10.80205
+1551768,"Eikelundveien 24B, Tonsen",59.943919,10.801979
+1551769,"Eikelundveien 24A, Tonsen",59.94392,10.801889
+1551770,"Eikelundveien 22D, Tonsen",59.944172,10.80253
+1551771,"Eikelundveien 22C, Tonsen",59.944173,10.802458
+1551772,"Eikelundveien 22B, Tonsen",59.944174,10.802369
+1551773,"Eikelundveien 22A, Tonsen",59.944175,10.802297
+1551774,"Eikelundveien 26F, Tonsen",59.943659,10.801965
+1551775,"Eikelundveien 26E, Tonsen",59.94366,10.801893
+1551776,"Eikelundveien 26D, Tonsen",59.943661,10.801804
+1551777,"Eikelundveien 26C, Tonsen",59.943662,10.801714
+1551778,"Eikelundveien 26B, Tonsen",59.943663,10.801625
+1551779,"Eikelundveien 26A, Tonsen",59.943655,10.801553
+1551780,"Eikelundveien 24E, Tonsen",59.943916,10.802229
+1551781,"Eikelundveien 24D, Tonsen",59.943917,10.802158
+1551788,"Eikelundveien 30, Tonsen",59.943607,10.80309
+1551789,"Eikelundveien 28, Tonsen",59.943446,10.803099
+1554996,"Frennings vei 10, Tonsen",59.948127,10.799665
+1554997,"Frennings vei 8, Tonsen",59.948102,10.800218
+1554998,"Frennings vei 7, Grefsen",59.948161,10.801099
+1554999,"Frennings vei 6, Tonsen",59.9479,10.80053
+1555000,"Frennings vei 5, Grefsen",59.948005,10.801341
+1555001,"Frennings vei 3, Grefsen",59.947828,10.801206
+1555002,"Frennings vei 2, Tonsen",59.947458,10.801956
+1555003,"Frennings vei 17B, Grefsen",59.948639,10.797687
+1555004,"Frennings vei 17A, Grefsen",59.948548,10.797772
+1555005,"Frennings vei 16, Grefsen",59.948138,10.797517
+1555006,"Frennings vei 15, Grefsen",59.948392,10.797996
+1555007,"Frennings vei 14, Grefsen",59.948011,10.797635
+1555008,"Frennings vei 13, Grefsen",59.948396,10.800324
+1555009,"Frennings vei 12, Tonsen",59.948052,10.799369
+1555010,"Frennings vei 11, Grefsen",59.94834,10.800536
+1555011,"Frennings vei 23B, Grefsen",59.949196,10.797664
+1555012,"Frennings vei 23A, Grefsen",59.949466,10.797642
+1555013,"Frennings vei 22, Grefsen",59.948944,10.797077
+1555014,"Frennings vei 21B, Grefsen",59.949176,10.798522
+1555015,"Frennings vei 21A, Grefsen",59.949118,10.798107
+1555016,"Frennings vei 20, Grefsen",59.948702,10.797046
+1555017,"Frennings vei 19, Grefsen",59.948927,10.797667
+1555018,"Frennings vei 18, Grefsen",59.948459,10.797087
+1555020,"Frennings vei 33, Grefsen",59.950416,10.797121
+1555021,"Frennings vei 31, Grefsen",59.950289,10.797186
+1555022,"Frennings vei 27, Grefsen",59.949908,10.797487
+1555023,"Frennings vei 25A, Grefsen",59.949621,10.797526
+1555024,"Frennings vei 24B, Grefsen",59.949237,10.797007
+1555025,"Frennings vei 24A, Grefsen",59.949219,10.796626
+1555026,"Frennings vei 23C, Grefsen",59.949477,10.79818
+1555070,"Friggs vei 4, Grefsen",59.949017,10.800949
+1555071,"Friggs vei 2, Grefsen",59.949173,10.801369
+1555072,"Friggs vei 1, Tonsen",59.949178,10.8023
+1555077,"Friggs vei 13, Grefsen",59.949667,10.800053
+1555078,"Friggs vei 12B, Grefsen",59.949399,10.799286
+1555079,"Friggs vei 12, Grefsen",59.949446,10.79979
+1555080,"Friggs vei 9A, Grefsen",59.949328,10.800212
+1555081,"Friggs vei 7, Grefsen",59.94919,10.800779
+1555082,"Friggs vei 6, Grefsen",59.948986,10.800553
+1555083,"Friggs vei 5, Grefsen",59.94944,10.800828
+1555090,"Friggs vei 16, Grefsen",59.949861,10.799651
+1555091,"Friggs vei 14, Grefsen",59.949619,10.79962
+1555103,"Friggs vei 8A, Grefsen",59.949103,10.800164
+1555228,"Frennings vei 1, Grefsen",59.947721,10.801773
+1572767,"Lofthus terrasse 9, Tonsen",59.9474,10.80027
+1572768,"Lofthus terrasse 8, Tonsen",59.946792,10.799467
+1572769,"Lofthus terrasse 7, Tonsen",59.947317,10.7998
+1572770,"Lofthus terrasse 6, Tonsen",59.946557,10.799508
+1572771,"Lofthus terrasse 5, Tonsen",59.947099,10.799949
+1572772,"Lofthus terrasse 4, Tonsen",59.946465,10.799659
+1572774,"Lofthus terrasse 17A, Tonsen",59.947592,10.799367
+1572775,"Lofthus terrasse 16, Tonsen",59.947775,10.7985
+1572776,"Lofthus terrasse 15, Tonsen",59.947767,10.799735
+1572777,"Lofthus terrasse 14, Tonsen",59.947656,10.798672
+1572778,"Lofthus terrasse 13, Tonsen",59.947782,10.79995
+1572779,"Lofthus terrasse 12B, Tonsen",59.947417,10.799018
+1572780,"Lofthus terrasse 11, Tonsen",59.947543,10.800314
+1572781,"Lofthus terrasse 10, Tonsen",59.947081,10.79934
+1572788,"Lofthus terrasse 19, Tonsen",59.947948,10.798957
+1572789,"Lofthus terrasse 17B, Tonsen",59.947675,10.799193
+1572804,"Lofthusveien 23B, Tonsen",59.943953,10.797487
+1572805,"Lofthusveien 23, Tonsen",59.943934,10.797012
+1572807,"Lofthusveien 21, Tonsen",59.943922,10.796519
+1572812,"Lofthusveien 30, Tonsen",59.944546,10.799506
+1572813,"Lofthusveien 29, Tonsen",59.944148,10.799002
+1572814,"Lofthusveien 28, Tonsen",59.94439,10.798406
+1572815,"Lofthusveien 27, Tonsen",59.944115,10.798785
+1572817,"Lofthusveien 25, Tonsen",59.94399,10.798116
+1572819,"Lofthusveien 23C, Tonsen",59.943807,10.797712
+1572820,"Lofthusveien 40, Tonsen",59.944726,10.80145
+1572821,"Lofthusveien 39, Tonsen",59.9443,10.801015
+1572822,"Lofthusveien 38, Tonsen",59.944668,10.801071
+1572823,"Lofthusveien 37, Tonsen",59.944268,10.800727
+1572824,"Lofthusveien 36, Tonsen",59.94452,10.800758
+1572825,"Lofthusveien 35, Tonsen",59.944231,10.800188
+1572826,"Lofthusveien 34, Tonsen",59.944624,10.800316
+1572827,"Lofthusveien 32, Tonsen",59.944512,10.800024
+1572828,"Lofthusveien 47B, Tonsen",59.944701,10.804581
+1572829,"Lofthusveien 47, Tonsen",59.944857,10.803659
+1572830,"Lofthusveien 46, Tonsen",59.944908,10.802534
+1572831,"Lofthusveien 45, Tonsen",59.944527,10.802155
+1572832,"Lofthusveien 44, Tonsen",59.944833,10.802136
+1572833,"Lofthusveien 43, Tonsen",59.944485,10.801938
+1572834,"Lofthusveien 42, Tonsen",59.94482,10.801777
+1572835,"Lofthusveien 41, Tonsen",59.944401,10.801575
+1572836,"Lofthusveien 53, Tonsen",59.945308,10.806172
+1572837,"Lofthusveien 52C, Tonsen",59.945295,10.804488
+1572838,"Lofthusveien 52B, Tonsen",59.945314,10.804418
+1572839,"Lofthusveien 52, Tonsen",59.945333,10.804329
+1572840,"Lofthusveien 49B, Tonsen",59.94503,10.804796
+1572841,"Lofthusveien 49A, Tonsen",59.944946,10.804362
+1572842,"Lofthusveien 48, Tonsen",59.944992,10.803004
+1572843,"Lofthusveien 47C, Tonsen",59.944597,10.804289
+1572844,"Lofthusveien 60, Tonsen",59.945685,10.806192
+1572845,"Lofthusveien 59, Tonsen",59.945344,10.807463
+1572846,"Lofthusveien 58B, Tonsen",59.945608,10.805884
+1572847,"Lofthusveien 57, Tonsen",59.945448,10.807057
+1572848,"Lofthusveien 56, Tonsen",59.94554,10.805612
+1572849,"Lofthusveien 54B, Tonsen",59.945502,10.805126
+1572850,"Lofthusveien 54, Tonsen",59.945522,10.804984
+1572851,"Lofthusveien 53B, Tonsen",59.945333,10.806281
+1572856,"Lofthusveien 66, Tonsen",59.945777,10.808006
+1572857,"Lofthusveien 64, Tonsen",59.945879,10.807707
+1572858,"Lofthusveien 62, Tonsen",59.945709,10.807071
+1572859,"Lofthusveien 60B, Tonsen",59.945699,10.806462
+1582674,"Otto Blehrs vei 2, Tonsen",59.945456,10.798607
+1582675,"Otto Blehrs vei 3, Tonsen",59.946066,10.79932
+1582676,"Otto Blehrs vei 3B, Tonsen",59.946518,10.79913
+1582677,"Otto Blehrs vei 4, Tonsen",59.94569,10.798548
+1582678,"Otto Blehrs vei 5, Tonsen",59.946736,10.798909
+1582679,"Otto Blehrs vei 6, Tonsen",59.94586,10.798629
+1582680,"Otto Blehrs vei 7, Tonsen",59.946909,10.798775
+1582681,"Otto Blehrs vei 8, Tonsen",59.946119,10.798697
+1582683,"Otto Blehrs vei 1B, Tonsen",59.945791,10.799191
+1582684,"Otto Blehrs vei 20, Tonsen",59.947299,10.797847
+1582685,"Otto Blehrs vei 22, Tonsen",59.947473,10.79757
+1582692,"Otto Blehrs vei 9, Tonsen",59.947299,10.79851
+1582693,"Otto Blehrs vei 10A, Tonsen",59.946281,10.79867
+1582694,"Otto Blehrs vei 10B, Tonsen",59.946207,10.7982
+1582695,"Otto Blehrs vei 11, Tonsen",59.947483,10.798126
+1582696,"Otto Blehrs vei 12, Tonsen",59.946476,10.798664
+1582697,"Otto Blehrs vei 13, Tonsen",59.94772,10.79787
+1582698,"Otto Blehrs vei 16, Tonsen",59.946889,10.798219
+1582699,"Otto Blehrs vei 18, Tonsen",59.947089,10.798051
+1591560,"Sophus Aars' vei 3, Tonsen",59.945072,10.799786
+1591561,"Sophus Aars' vei 4, Tonsen",59.945335,10.800212
+1591562,"Sophus Aars' vei 5, Tonsen",59.945037,10.800357
+1591563,"Sophus Aars' vei 6, Tonsen",59.945393,10.800609
+1591564,"Sophus Aars' vei 7, Tonsen",59.945015,10.80066
+1591565,"Sophus Aars' vei 8, Tonsen",59.945369,10.801087
+1591566,"Sophus Aars' vei 9, Tonsen",59.945027,10.801072
+1591567,"Sophus Aars' vei 10, Tonsen",59.945317,10.801553
+1591575,"Sophus Aars' vei 1, Tonsen",59.945087,10.799357
+1591576,"Sophus Aars' vei 19B, Tonsen",59.94565,10.802843
+1591577,"Sophus Aars' vei 20, Tonsen",59.946285,10.802376
+1591578,"Sophus Aars' vei 21, Tonsen",59.945989,10.802913
+1591579,"Sophus Aars' vei 22, Tonsen",59.946484,10.802226
+1591580,"Sophus Aars' vei 25, Tonsen",59.946649,10.8027
+1591581,"Sophus Aars' vei 26, Tonsen",59.946485,10.801545
+1591582,"Sophus Aars' vei 27, Tonsen",59.94679,10.802206
+1591583,"Sophus Aars' vei 11, Tonsen",59.945066,10.801522
+1591584,"Sophus Aars' vei 12, Tonsen",59.94542,10.801899
+1591585,"Sophus Aars' vei 13, Tonsen",59.945094,10.802078
+1591586,"Sophus Aars' vei 14, Tonsen",59.945604,10.802231
+1591587,"Sophus Aars' vei 15, Tonsen",59.94517,10.802476
+1591588,"Sophus Aars' vei 16, Tonsen",59.945873,10.802232
+1591589,"Sophus Aars' vei 17A, Tonsen",59.945459,10.802856
+1591590,"Sophus Aars' vei 18, Tonsen",59.945989,10.80236
+1591599,"Sophus Aars' vei 28, Tonsen",59.94679,10.801723
+1591600,"Sophus Aars' vei 29, Tonsen",59.946986,10.80236
+1591601,"Sophus Aars' vei 30, Tonsen",59.946958,10.801732
+1591602,"Sophus Aars' vei 32, Tonsen",59.947174,10.801708
+1596980,"Traverveien 42, Tonsen",59.942174,10.801508
+1596981,"Traverveien 44, Tonsen",59.941933,10.801388
+1596986,"Traverveien 34, Tonsen",59.942424,10.802918
+1596987,"Traverveien 35, Tonsen",59.942715,10.802039
+1596988,"Traverveien 36, Tonsen",59.942166,10.802743
+1596989,"Traverveien 38, Tonsen",59.942299,10.802213
+1596990,"Traverveien 40, Tonsen",59.94205,10.802074
+1597173,"Traverveien 6, Tonsen",59.943077,10.807698
+1597174,"Traverveien 7, Tonsen",59.943387,10.806085
+1597175,"Traverveien 8, Tonsen",59.943351,10.807426
+1597176,"Traverveien 8B, Tonsen",59.943259,10.807546
+1597177,"Traverveien 9, Tonsen",59.943456,10.805642
+1597178,"Traverveien 10, Tonsen",59.942998,10.806315
+1597179,"Traverveien 10B, Tonsen",59.942808,10.805714
+1597180,"Traverveien 11, Tonsen",59.943707,10.805673
+1597185,"Traverveien 1, Tonsen",59.943796,10.807701
+1597186,"Traverveien 2, Tonsen",59.943445,10.807718
+1597187,"Traverveien 4, Tonsen",59.943162,10.808042
+1597188,"Traverveien 5, Tonsen",59.94338,10.80655
+1597189,"Traverveien 20, Tonsen",59.943167,10.804426
+1597190,"Traverveien 21, Tonsen",59.943681,10.803631
+1597191,"Traverveien 22, Tonsen",59.943373,10.803829
+1597192,"Traverveien 23, Tonsen",59.943915,10.803572
+1597193,"Traverveien 24, Tonsen",59.943122,10.803815
+1597194,"Traverveien 25, Tonsen",59.942719,10.803042
+1597195,"Traverveien 26, Tonsen",59.942969,10.803807
+1597196,"Traverveien 27, Tonsen",59.94297,10.803055
+1597197,"Traverveien 12, Tonsen",59.943185,10.805734
+1597198,"Traverveien 13, Tonsen",59.943564,10.804985
+1597199,"Traverveien 14, Tonsen",59.942943,10.805721
+1597200,"Traverveien 15, Tonsen",59.943815,10.804999
+1597201,"Traverveien 16, Tonsen",59.942997,10.805008
+1597202,"Traverveien 17, Tonsen",59.94377,10.804334
+1597203,"Traverveien 18, Tonsen",59.943428,10.804423
+1597204,"Traverveien 19, Tonsen",59.943887,10.804322
+1597205,"Traverveien 28, Tonsen",59.942708,10.803811
+1597206,"Traverveien 29, Tonsen",59.943106,10.803009
+1597207,"Traverveien 30, Tonsen",59.942532,10.803568
+1597208,"Traverveien 31, Tonsen",59.943103,10.802525
+1597209,"Traverveien 32, Tonsen",59.942363,10.80347
+1597210,"Traverveien 33, Tonsen",59.942717,10.80254
+1597822,"Trondheimsveien 258, Tonsen",59.942871,10.808349
+1597922,"Tryms vei 10, Grefsen",59.948986,10.799264
+1597923,"Tryms vei 12, Grefsen",59.948819,10.799649
+1597924,"Tryms vei 13, Grefsen",59.948668,10.800437
+1597929,"Tryms vei 1, Grefsen",59.948417,10.799501
+1597930,"Tryms vei 2, Grefsen",59.948135,10.79843
+1597931,"Tryms vei 3, Grefsen",59.948438,10.798607
+1597932,"Tryms vei 5, Grefsen",59.948443,10.799018
+1597933,"Tryms vei 7, Grefsen",59.948729,10.798981
+1597934,"Tryms vei 8, Grefsen",59.949097,10.799019
+1597935,"Tryms vei 9, Grefsen",59.948697,10.799373
+1602090,"Ymers vei 1, Tonsen",59.947566,10.802981
+1602091,"Ymers vei 2, Grefsen",59.947814,10.802208
+1602092,"Ymers vei 3, Tonsen",59.947687,10.802971
+1602093,"Ymers vei 4, Grefsen",59.947994,10.802146
+1602094,"Ymers vei 5, Tonsen",59.947924,10.802662
+1602095,"Ymers vei 6, Grefsen",59.94814,10.801993
+1602105,"Ymers vei 15, Tonsen",59.947998,10.803167
+1602106,"Ymers vei 15B, Tonsen",59.948022,10.803437
+1602107,"Ymers vei 16, Tonsen",59.948896,10.802553
+1602108,"Ymers vei 17D, Tonsen",59.948114,10.80389
+1602109,"Ymers vei 18, Tonsen",59.94866,10.802845
+1602110,"Ymers vei 19, Tonsen",59.949143,10.803552
+1602111,"Ymers vei 19B, Tonsen",59.949207,10.803483
+1602112,"Ymers vei 7, Tonsen",59.948196,10.80248
+1602113,"Ymers vei 8, Grefsen",59.948323,10.801752
+1602114,"Ymers vei 9, Tonsen",59.948305,10.802414
+1602115,"Ymers vei 10, Grefsen",59.948536,10.801281
+1602116,"Ymers vei 11, Tonsen",59.948521,10.802372
+1602117,"Ymers vei 12, Grefsen",59.948621,10.801017
+1602586,"Ymers vei 19C, Tonsen",59.949262,10.803397
+1602610,"Ymers vei 20, Tonsen",59.948501,10.803083
+1602612,"Ymers vei 21, Tonsen",59.949211,10.803161
+1602614,"Ymers vei 22, Tonsen",59.948604,10.803558
+1602616,"Ymers vei 23, Tonsen",59.949135,10.802799
+1602618,"Ymers vei 24, Tonsen",59.948884,10.80343
+1602620,"Ymers vei 26, Tonsen",59.948966,10.803363
+1603014,"Østvangveien 3A, Tonsen",59.946283,10.808445
+1603015,"Østvangveien 3B, Tonsen",59.946506,10.808511
+1603016,"Østvangveien 4, Tonsen",59.946163,10.806684
+1603017,"Østvangveien 5, Tonsen",59.946139,10.808401
+1603018,"Østvangveien 6, Tonsen",59.946115,10.80627
+1603019,"Østvangveien 7, Tonsen",59.946774,10.80792
+1603020,"Østvangveien 7B, Tonsen",59.946532,10.807957
+1603021,"Østvangveien 8, Tonsen",59.946109,10.806054
+1603028,"Østvangveien 1B, Tonsen",59.946214,10.808774
+1603029,"Østvangveien 3, Tonsen",59.946693,10.80857
+1603030,"Østvangveien 17, Tonsen",59.94685,10.807008
+1603031,"Østvangveien 17B, Tonsen",59.946891,10.806634
+1603032,"Østvangveien 18, Tonsen",59.945921,10.805328
+1603033,"Østvangveien 19, Tonsen",59.94679,10.806181
+1603034,"Østvangveien 20, Tonsen",59.946012,10.805244
+1603035,"Østvangveien 21A, Tonsen",59.946487,10.805968
+1603036,"Østvangveien 21B, Tonsen",59.946611,10.806118
+1603037,"Østvangveien 22, Tonsen",59.946191,10.805289
+1603038,"Østvangveien 9, Tonsen",59.946335,10.807857
+1603039,"Østvangveien 10, Tonsen",59.946122,10.805733
+1603040,"Østvangveien 11B, Tonsen",59.946772,10.807469
+1603041,"Østvangveien 12, Tonsen",59.945798,10.805805
+1603042,"Østvangveien 14, Tonsen",59.945803,10.806056
+1603043,"Østvangveien 15, Tonsen",59.946597,10.806475
+1603045,"Østvangveien 16, Tonsen",59.945821,10.805448
+1603054,"Østvangveien 23, Tonsen",59.946681,10.805566
+1603055,"Østvangveien 24, Tonsen",59.946291,10.805187
+1603056,"Østvangveien 25, Tonsen",59.946729,10.805372
+1603057,"Østvangveien 26, Tonsen",59.946382,10.805085
+1603058,"Østvangveien 27, Tonsen",59.946697,10.805066
+1603059,"Østvangveien 29, Tonsen",59.946701,10.80478
+1603737,"Årrundveien 9, Tonsen",59.94507,10.805837
+1603738,"Årrundveien 10, Tonsen",59.944872,10.805217
+1603739,"Årrundveien 13, Tonsen",59.946272,10.804613
+1603740,"Årrundveien 13B, Tonsen",59.946363,10.804529
+1603741,"Årrundveien 14, Tonsen",59.945755,10.804299
+1603742,"Årrundveien 15, Tonsen",59.946641,10.804379
+1603743,"Årrundveien 16, Tonsen",59.945974,10.804182
+1603744,"Årrundveien 5, Tonsen",59.94489,10.806489
+1603745,"Årrundveien 6, Tonsen",59.944604,10.805776
+1603746,"Årrundveien 6B, Tonsen",59.944328,10.805564
+1603747,"Årrundveien 6C, Tonsen",59.944204,10.805414
+1603748,"Årrundveien 7, Tonsen",59.944961,10.805938
+1603749,"Årrundveien 8B, Tonsen",59.944468,10.805213
+1603750,"Årrundveien 8C, Tonsen",59.944317,10.805062
+1603759,"Årrundveien 20, Tonsen",59.946382,10.803831
+1603760,"Årrundveien 22, Tonsen",59.946635,10.803702
+1603762,"Årrundveien 24, Tonsen",59.946888,10.803554
+1603763,"Årrundveien 27, Tonsen",59.947119,10.8038
+1603971,"Årrundveien 1, Tonsen",59.944581,10.807439
+1603972,"Årrundveien 2, Tonsen",59.944312,10.807407
+1603973,"Årrundveien 2B, Tonsen",59.944406,10.807054
+1603974,"Årrundveien 2C, Tonsen",59.944196,10.806649
+1603975,"Årrundveien 3, Tonsen",59.944713,10.806999
+1603976,"Årrundveien 3B, Tonsen",59.945046,10.806892
+1603977,"Årrundveien 4, Tonsen",59.944451,10.806448
+1607079,"Christian Schous vei 3A, Tonsen",59.945694,10.800231
+1607081,"Christian Schous vei 3B, Tonsen",59.945647,10.800426
+1607083,"Christian Schous vei 5A, Tonsen",59.945806,10.801276
+1607085,"Christian Schous vei 7A, Tonsen",59.94601,10.80143
+1607087,"Christian Schous vei 7B, Tonsen",59.946095,10.801112
+1607105,"Christian Schous vei 3C, Tonsen",59.945616,10.800675
+1607106,"Christian Schous vei 3D, Tonsen",59.945578,10.800887
+1607107,"Christian Schous vei 3E, Tonsen",59.945906,10.800493
+1607108,"Christian Schous vei 3F, Tonsen",59.945859,10.80067
+1607109,"Christian Schous vei 5B, Tonsen",59.945536,10.801333
+1607110,"Christian Schous vei 5C, Tonsen",59.945656,10.801715
+1607939,"Christian Schous vei 14, Tonsen",59.946366,10.800393
+1609201,"Årrundveien 18B, Tonsen",59.946219,10.803894
+1609540,"Årrundveien 18A, Tonsen",59.9462,10.804
+1609979,"Traverveien 3A, Tonsen",59.943658,10.807282
+1609983,"Traverveien 3B, Tonsen",59.943614,10.807208
+1610295,"Lofthus terrasse 1, Tonsen",59.946297,10.800139
+1610998,"Ymers vei 13A, Tonsen",59.948316,10.802952
+1610999,"Ymers vei 13B, Tonsen",59.948266,10.803289
+1611124,"Frennings vei 37, Grefsen",59.950266,10.798513
+1611125,"Frennings vei 35, Grefsen",59.950313,10.798346
+1611126,"Frennings vei 41, Grefsen",59.949849,10.798834
+1611127,"Frennings vei 39, Grefsen",59.949933,10.798819
+1612261,"Årrundveien 4C, Tonsen",59.94412,10.806304
+1612266,"Årrundveien 4D, Tonsen",59.944142,10.806001
+1613076,"Eikelundveien 11A, Tonsen",59.94304,10.799264
+1613096,"Eikelundveien 11B, Tonsen",59.943386,10.799148
+1613372,"Lofthusveien 31A, Tonsen",59.944186,10.799505
+1613374,"Eikelundveien 9A, Tonsen",59.943271,10.798823
+1613380,"Lofthusveien 31B, Tonsen",59.944014,10.799653
+1613383,"Lofthusveien 31C, Tonsen",59.943933,10.79967
+1613388,"Eikelundveien 9C, Tonsen",59.943018,10.798887
+1613523,"Frennings vei 9A, Grefsen",59.94813,10.800793
+1613526,"Frennings vei 9B, Grefsen",59.948175,10.800742
+1613531,"Lofthusveien 51B, Tonsen",59.945254,10.805525
+1613533,"Lofthusveien 51A, Tonsen",59.945229,10.805398
+1613534,"Lofthusveien 51C, Tonsen",59.94527,10.805651
+1614029,"Årrundveien 3C, Tonsen",59.944963,10.807102
+1617423,"Lofthus terrasse 1C, Tonsen",59.946587,10.799939
+1617849,"Tryms vei 4A, Grefsen",59.948837,10.798307
+1617850,"Tryms vei 4B, Grefsen",59.948996,10.798494
+1618280,"Sophus Aars' vei 24B, Tonsen",59.946237,10.801961
+1618289,"Sophus Aars' vei 24A, Tonsen",59.946276,10.801695
+1618575,"Eikelundveien 3B, Tonsen",59.943656,10.79722
+1618580,"Eikelundveien 3A, Tonsen",59.94361,10.797429
+1622019,"Otto Blehrs vei 14B, Tonsen",59.946706,10.79846
+1622048,"Otto Blehrs vei 14A, Tonsen",59.94667,10.798476
+1622059,"Årrundkroken 4, Tonsen",59.947278,10.805277
+1622060,"Årrundkroken 6, Tonsen",59.947281,10.805706
+1622061,"Årrundkroken 5C, Tonsen",59.947014,10.805513
+1622062,"Årrundkroken 2, Tonsen",59.947226,10.804486
+1622063,"Årrundkroken 5B, Tonsen",59.947055,10.805819
+1622064,"Årrundkroken 5A, Tonsen",59.947066,10.805677
+1622068,"Årrundveien 11B, Tonsen",59.945817,10.805054
+1622071,"Årrundveien 11C, Tonsen",59.946074,10.80462
+1622074,"Årrundveien 11A, Tonsen",59.945845,10.804966
+1622077,"Årrundkroken 3, Tonsen",59.947017,10.804899
+1622355,"Christian Schous vei 6B, Tonsen",59.945212,10.798683
+1622356,"Christian Schous vei 6A, Tonsen",59.945148,10.798787
+1622564,"Østvangveien 2B, Tonsen",59.946015,10.807661
+1622849,"Østvangveien 2C, Tonsen",59.946058,10.807162
+1622852,"Østvangveien 2D, Tonsen",59.946095,10.807074
+1622865,"Østvangveien 2A, Tonsen",59.945875,10.808047
+1623720,"Lofthus terrasse 1B, Tonsen",59.946395,10.800233
+1623895,"Årrundkroken 8B, Tonsen",59.947281,10.806333
+1623896,"Årrundkroken 8A, Tonsen",59.9472,10.806347
+1624295,"Friggs vei 10B, Grefsen",59.949291,10.799961
+1624296,"Friggs vei 10A, Grefsen",59.949263,10.799977
+1624298,"Friggs vei 10C, Grefsen",59.949275,10.799763
+1625008,"Sophus Aars' vei 2B, Tonsen",59.945441,10.799734
+1625009,"Sophus Aars' vei 2A, Tonsen",59.945289,10.799636
+1625020,"Østvangveien 11D, Tonsen",59.946667,10.807284
+1625021,"Østvangveien 11C, Tonsen",59.94663,10.807336
+1625662,"Lofthus terrasse 2B, Tonsen",59.946196,10.79965
+1625665,"Lofthus terrasse 2A, Tonsen",59.946228,10.799293
+1625696,"Frennings vei 45, Grefsen",59.94953,10.798846
+1625697,"Frennings vei 43, Grefsen",59.949557,10.798865
+1625698,"Frennings vei 49, Grefsen",59.949423,10.798804
+1625699,"Frennings vei 47, Grefsen",59.94945,10.798823
+1625837,"Frennings vei 29A, Grefsen",59.950168,10.797525
+1625839,"Frennings vei 29C, Grefsen",59.950154,10.79766
+1625843,"Frennings vei 29B, Grefsen",59.95017,10.797596
+1625982,"Lofthusveien 33B, Tonsen",59.94399,10.800085
+1625984,"Lofthusveien 33A, Tonsen",59.944216,10.799936
+1628654,"Lofthusveien 61, Tonsen",59.945513,10.807562
+1628753,"Årrundveien 12B, Tonsen",59.945593,10.804326
+1628756,"Årrundveien 12A, Tonsen",59.945565,10.804431
+1629267,"Lofthus terrasse 3A, Tonsen",59.946919,10.800011
+1629273,"Lofthus terrasse 3B, Tonsen",59.946794,10.799933
+1629417,"Lofthusveien 55B, Tonsen",59.945344,10.806818
+1629418,"Lofthusveien 55A, Tonsen",59.945408,10.806697
+1629551,"Friggs vei 11B, Grefsen",59.949511,10.800259
+1629554,"Friggs vei 11A, Grefsen",59.949493,10.800258
+1630252,"Christian Schous vei 5D, Tonsen",59.945726,10.8012
+1693878,"Frennings vei 29D, Grefsen",59.95015,10.797286
+1702885,"Østvangveien 1A, Tonsen",59.946061,10.808784
+1717666,"Sophus Aars' vei 19A, Tonsen",59.945604,10.802985
+1785510,"Ymers vei 17B, Tonsen",59.94834,10.803904
+1785512,"Ymers vei 17A, Tonsen",59.948397,10.803873
+1785685,"Ymers vei 17C, Tonsen",59.948275,10.803927
+1785686,"Ymers vei 17E, Tonsen",59.94794,10.804125
+1809355,"Østvangveien 13C, Tonsen",59.946323,10.80718
+1809356,"Østvangveien 13D, Tonsen",59.946484,10.807391
+1809436,"Østvangveien 13A, Tonsen",59.946434,10.807028
+1809448,"Østvangveien 13B, Tonsen",59.94635,10.806975
+1873583,"Friggs vei 9B, Grefsen",59.949302,10.800395
+1874666,"Eikelundveien 2A, Tonsen",59.943882,10.798488
+1885547,"Friggs vei 11C, Grefsen",59.949616,10.80046
+1915280,"Tryms vei 14, Grefsen",59.94873,10.800245
+1926268,"Otto Blehrs vei 1A, Tonsen",59.945689,10.799037
+1944532,"Eikelundveien 11C, Tonsen",59.943387,10.799186
+1997647,"Christian Schous vei 22A, Tonsen",59.947095,10.800807
+2014323,"Lofthus terrasse 12A, Tonsen",59.947315,10.799209
+2014774,"Lofthus terrasse 12C, Tonsen",59.947378,10.798786
+2017252,"Christian Schous vei 22C, Tonsen",59.947234,10.800435
+2062300,"Frennings vei 25C, Grefsen",59.949684,10.797755
+2062301,"Frennings vei 25B, Grefsen",59.949641,10.79777
+2066813,"Christian Schous vei 7C, Tonsen",59.946019,10.801056
+2068238,"Sophus Aars' vei 17C, Tonsen",59.94535,10.80307
+2071403,"Sophus Aars' vei 17B, Tonsen",59.945456,10.802943
+2074840,"Christian Schous vei 10B, Tonsen",59.945752,10.799396
+2094429,"Eikelundveien 9B, Tonsen",59.943378,10.798795
+2101101,"Frennings vei 4A, Tonsen",59.947657,10.800891
+2101122,"Frennings vei 4B, Tonsen",59.947764,10.800741
+2185365,"Sophus Aars' vei 23B, Tonsen",59.946243,10.802961
+2185397,"Sophus Aars' vei 23C, Tonsen",59.946348,10.802906
+2185417,"Sophus Aars' vei 23A, Tonsen",59.946165,10.802987
+2199247,"Sophus Aars' vei 23, Tonsen",59.946349,10.802834
+2233916,"Tryms vei 11A, Grefsen",59.948449,10.79982
+2233917,"Tryms vei 11B, Grefsen",59.948672,10.799856
+2236323,"Christian Schous vei 2A, Tonsen",59.944435,10.799089
+2236348,"Christian Schous vei 2B, Tonsen",59.94451,10.798941
+2359259,"Eikelundveien 23, Tonsen",59.94335,10.801015
+2368193,"Årrundkroken 1A, Tonsen",59.946895,10.804214
+2368200,"Årrundkroken 1B, Tonsen",59.946925,10.804539
+2370410,"Eikelundveien 27, Tonsen",59.943384,10.801535
+2370411,"Eikelundveien 21, Tonsen",59.9433,10.801399
+2370412,"Eikelundveien 25, Tonsen",59.943395,10.801172
+2370413,"Eikelundveien 29, Tonsen",59.943336,10.801612
+2370414,"Eikelundveien 31, Tonsen",59.943277,10.801609
+2370415,"Eikelundveien 33, Tonsen",59.943251,10.801606
+2383491,"Årrundveien 8, Tonsen",59.944697,10.805494
+2385814,"Friggs vei 8B, Grefsen",59.949131,10.800104

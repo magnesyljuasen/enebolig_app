@@ -1,0 +1,720 @@
+,Navn,Long,Lat
+77091,"Carl Jenssens vei 3, Moss",59.424931,10.661591
+77094,"Carl Jenssens vei 6, Moss",59.424058,10.665302
+77095,"Carl Jenssens vei 4, Moss",59.423972,10.665703
+77096,"Bjørn Kristensens vei 2B, Moss",59.428299,10.664435
+77097,"Bjørn Kristensens vei 2A, Moss",59.428747,10.663823
+77098,"Bjørn Kristensens vei 2, Moss",59.428169,10.664076
+77099,"Bjørn Kristensens vei 1, Moss",59.428891,10.663107
+77100,"Bjørn Kristensens vei 6, Moss",59.427733,10.66446
+77101,"Bjørn Kristensens vei 5, Moss",59.428545,10.663442
+77102,"Bjørn Kristensens vei 4, Moss",59.428036,10.663946
+77103,"Bjørn Kristensens vei 3, Moss",59.428747,10.663398
+77104,"Bjørn Kristensens vei 10, Moss",59.427696,10.663841
+77105,"Bjørn Kristensens vei 9, Moss",59.428122,10.663545
+77106,"Bjørn Kristensens vei 8, Moss",59.427877,10.663762
+77107,"Bjørn Kristensens vei 7, Moss",59.428347,10.663486
+77132,"Byfogd Sandbergs gate 28A, Moss",59.433107,10.668497
+77158,"Byfogd Grundts vei 9, Moss",59.427793,10.666825
+77159,"Byfogd Grundts vei 8, Moss",59.42794,10.667256
+77160,"Byfogd Grundts vei 7, Moss",59.428169,10.665504
+77161,"Byfogd Grundts vei 6, Moss",59.428408,10.665745
+77162,"Byfogd Sandbergs gate 6, Moss",59.43259,10.664593
+77163,"Byfogd Sandbergs gate 5, Moss",59.43226,10.663713
+77164,"Byfogd Grundts vei 11, Moss",59.427699,10.667138
+77165,"Byfogd Grundts vei 10, Moss",59.427872,10.667623
+77166,"Byfogd Sandbergs gate 7C, Moss",59.432314,10.664485
+77167,"Byfogd Sandbergs gate 7B, Moss",59.432308,10.664352
+77168,"Byfogd Sandbergs gate 7A, Moss",59.432302,10.66422
+77169,"Byfogd Sandbergs gate 7, Moss",59.432206,10.664439
+77170,"Byfogd Sandbergs gate 7G, Moss",59.432335,10.664215
+77171,"Byfogd Sandbergs gate 7F, Moss",59.43233,10.66482
+77172,"Byfogd Sandbergs gate 7E, Moss",59.432327,10.664721
+77173,"Byfogd Sandbergs gate 7D, Moss",59.432321,10.6646
+77174,"Byfogd Grundts vei 1, Moss",59.428302,10.664929
+77175,"Byfogd Grundts vei 5, Moss",59.427798,10.664992
+77176,"Byfogd Grundts vei 4, Moss",59.428675,10.665917
+77177,"Byfogd Grundts vei 3, Moss",59.42791,10.664628
+77178,"Byfogd Grundts vei 2, Moss",59.428594,10.665225
+77179,"Byfogd Sandbergs gate 28, Moss",59.432881,10.668557
+77180,"Byfogd Sandbergs gate 26, Moss",59.432842,10.668079
+77181,"Byfogd Sandbergs gate 22, Moss",59.432813,10.667566
+77182,"Byfogd Sandbergs gate 11M, Moss",59.431933,10.664211
+77183,"Byfogd Sandbergs gate 11L, Moss",59.431938,10.66432
+77184,"Byfogd Sandbergs gate 11K, Moss",59.431991,10.664442
+77185,"Byfogd Sandbergs gate 11J, Moss",59.431996,10.664563
+77186,"Byfogd Sandbergs gate 13D, Moss",59.431989,10.664171
+77188,"Byfogd Sandbergs gate 13C, Moss",59.432099,10.66405
+77189,"Byfogd Sandbergs gate 13B, Moss",59.432049,10.664065
+77190,"Byfogd Sandbergs gate 13A, Moss",59.431984,10.664078
+77191,"Byfogd Sandbergs gate 13H, Moss",59.432053,10.664208
+77192,"Byfogd Sandbergs gate 13G, Moss",59.431993,10.664238
+77193,"Byfogd Sandbergs gate 13F, Moss",59.432106,10.664136
+77194,"Byfogd Sandbergs gate 13E, Moss",59.432052,10.664152
+77195,"Byfogd Sandbergs gate 20, Moss",59.432798,10.667371
+77196,"Byfogd Sandbergs gate 16, Moss",59.432736,10.666575
+77197,"Byfogd Sandbergs gate 14, Moss",59.432723,10.666186
+77198,"Byfogd Sandbergs gate 13J, Moss",59.43211,10.664204
+77199,"Byfogd Sandbergs gate 9J, Moss",59.432286,10.664837
+77200,"Byfogd Sandbergs gate 9H, Moss",59.432105,10.664832
+77201,"Byfogd Sandbergs gate 9G, Moss",59.432165,10.664817
+77202,"Byfogd Sandbergs gate 9F, Moss",59.432223,10.664803
+77203,"Byfogd Sandbergs gate 10, Moss",59.432713,10.665516
+77204,"Byfogd Sandbergs gate 9M, Moss",59.432108,10.664895
+77205,"Byfogd Sandbergs gate 9L, Moss",59.432164,10.66488
+77206,"Byfogd Sandbergs gate 9K, Moss",59.432226,10.664862
+77207,"Byfogd Sandbergs gate 11D, Moss",59.431883,10.66423
+77208,"Byfogd Sandbergs gate 11C, Moss",59.431886,10.664331
+77209,"Byfogd Sandbergs gate 11B, Moss",59.431933,10.664462
+77210,"Byfogd Sandbergs gate 11A, Moss",59.431937,10.664582
+77211,"Byfogd Sandbergs gate 11H, Moss",59.431908,10.664218
+77212,"Byfogd Sandbergs gate 11G, Moss",59.431917,10.664327
+77213,"Byfogd Sandbergs gate 11F, Moss",59.431964,10.664451
+77214,"Byfogd Sandbergs gate 11E, Moss",59.431968,10.664573
+77215,"Byfogd Sandbergs gate 7L, Moss",59.432364,10.664707
+77216,"Byfogd Sandbergs gate 7K, Moss",59.432356,10.664595
+77217,"Byfogd Sandbergs gate 7J, Moss",59.432348,10.66447
+77218,"Byfogd Sandbergs gate 7H, Moss",59.432343,10.664344
+77219,"Byfogd Sandbergs gate 7R, Moss",59.432385,10.664456
+77220,"Byfogd Sandbergs gate 7P, Moss",59.432378,10.664333
+77221,"Byfogd Sandbergs gate 7N, Moss",59.432369,10.664204
+77222,"Byfogd Sandbergs gate 7M, Moss",59.432373,10.664804
+77223,"Byfogd Sandbergs gate 9A, Moss",59.432276,10.664714
+77224,"Byfogd Sandbergs gate 7U, Moss",59.432409,10.66479
+77225,"Byfogd Sandbergs gate 7T, Moss",59.432399,10.664694
+77226,"Byfogd Sandbergs gate 7S, Moss",59.432392,10.664578
+77227,"Byfogd Sandbergs gate 9E, Moss",59.432282,10.664782
+77228,"Byfogd Sandbergs gate 9D, Moss",59.432102,10.664773
+77229,"Byfogd Sandbergs gate 9C, Moss",59.432159,10.664752
+77230,"Byfogd Sandbergs gate 9B, Moss",59.432217,10.664735
+77264,"Dr. Galtungs vei 15, Moss",59.429157,10.661992
+77265,"Dr. Galtungs vei 13, Moss",59.429383,10.661879
+77277,"Dr. Galtungs vei 1B, Moss",59.431349,10.661253
+77278,"Dr. Galtungs vei 1, Moss",59.430756,10.661224
+77279,"Dr. Galtungs vei 4, Moss",59.428763,10.662589
+77280,"Dr. Galtungs vei 3, Moss",59.430513,10.661282
+77281,"Dr. Galtungs vei 2, Moss",59.429005,10.662601
+77282,"Dr. Galtungs vei 1C, Moss",59.431152,10.661155
+77283,"Dr. Galtungs vei 11, Moss",59.429573,10.661765
+77284,"Dr. Galtungs vei 9, Moss",59.429763,10.661633
+77285,"Dr. Galtungs vei 7, Moss",59.429944,10.661537
+77286,"Dr. Galtungs vei 5, Moss",59.43017,10.661424
+77394,"Fjordveien 4, Moss",59.433192,10.661916
+77395,"Fjordveien 2, Moss",59.433289,10.662097
+77396,"Fjordveien 8, Moss",59.432864,10.662173
+77397,"Fjordveien 6, Moss",59.432936,10.661556
+77398,"Fjordveien 10, Moss",59.432438,10.661729
+77399,"Fjordveien 9, Moss",59.432551,10.660607
+77400,"Fjordveien 8X, Moss",59.432736,10.661269
+77401,"Fjordveien 16, Moss",59.432171,10.660888
+77402,"Fjordveien 14, Moss",59.432384,10.661039
+77403,"Fjellveien 24, Moss",59.431041,10.663583
+77404,"Fjellveien 22, Moss",59.431098,10.664044
+77405,"Fjellveien 20, Moss",59.431111,10.664379
+77406,"Fjellveien 18, Moss",59.431125,10.664733
+77407,"Fjellveien 26, Moss",59.431027,10.663247
+77408,"Fjellveien 2, Moss",59.431324,10.66952
+77409,"Fjellveien 1, Moss",59.432528,10.668683
+77410,"Fjellveien 4, Moss",59.431364,10.669222
+77411,"Fjellveien 3B, Moss",59.431717,10.665847
+77412,"Fjellveien 3A, Moss",59.43177,10.666281
+77413,"Fjellveien 3, Moss",59.431534,10.66641
+77414,"Fjellveien 10, Moss",59.431279,10.667385
+77415,"Fjellveien 8, Moss",59.431301,10.667844
+77416,"Fjellveien 6, Moss",59.431297,10.668418
+77417,"Fjellveien 5, Moss",59.431471,10.665772
+77422,"Fjordveien 56, Moss",59.427829,10.663231
+77423,"Fjordveien 54, Moss",59.427984,10.663098
+77424,"Fjordveien 40, Moss",59.429534,10.661252
+77425,"Fjordveien 39, Moss",59.428862,10.661166
+77426,"Fjordveien 38, Moss",59.429733,10.661174
+77427,"Fjordveien 37, Moss",59.429044,10.660964
+77428,"Fjordveien 44, Moss",59.429135,10.661603
+77429,"Fjordveien 43, Moss",59.428496,10.661712
+77430,"Fjordveien 42, Moss",59.429344,10.661384
+77431,"Fjordveien 41, Moss",59.428728,10.661452
+77432,"Fjordveien 48, Moss",59.428547,10.662579
+77433,"Fjordveien 47, Moss",59.428113,10.662117
+77434,"Fjordveien 46, Moss",59.428869,10.661995
+77435,"Fjordveien 45, Moss",59.428322,10.661915
+77436,"Fjordveien 52, Moss",59.428175,10.662878
+77437,"Fjordveien 50, Moss",59.428357,10.662728
+77438,"Fjordveien 49, Moss",59.427831,10.662403
+77439,"Fjordveien 36, Moss",59.429923,10.661077
+77440,"Fjordveien 34, Moss",59.430158,10.660965
+77441,"Fjordveien 31, Moss",59.429563,10.660407
+77501,"Fredrik J. Holsts vei 5, Moss",59.428091,10.66823
+77502,"Fredrik J. Holsts vei 3A, Moss",59.428259,10.668311
+77503,"Fredrik J. Holsts vei 3, Moss",59.42834,10.668536
+77504,"Fredrik J. Holsts vei 1, Moss",59.428497,10.668605
+77505,"Fredrik J. Holsts vei 11, Moss",59.427418,10.666648
+77506,"Fredrik J. Holsts vei 9A, Moss",59.427268,10.667117
+77507,"Fredrik J. Holsts vei 9, Moss",59.427498,10.667428
+77508,"Fredrik J. Holsts vei 7, Moss",59.427833,10.66792
+77525,"Fridtjof Nansens gate 24, Moss",59.429855,10.667773
+77526,"Fridtjof Nansens gate 23A, Moss",59.430241,10.667104
+77527,"Fridtjof Nansens gate 23, Moss",59.43033,10.667162
+77528,"Fridtjof Nansens gate 22, Moss",59.430117,10.667663
+77529,"Fridtjof Nansens gate 28, Moss",59.429378,10.667891
+77530,"Fridtjof Nansens gate 27, Moss",59.429817,10.667278
+77531,"Fridtjof Nansens gate 26, Moss",59.429639,10.667815
+77532,"Fridtjof Nansens gate 25, Moss",59.43006,10.667219
+77533,"Fridtjof Nansens gate 31, Moss",59.429358,10.667361
+77534,"Fridtjof Nansens gate 30, Moss",59.429133,10.668037
+77535,"Fridtjof Nansens gate 29, Moss",59.429573,10.667354
+77536,"Svaebakken 3A, Moss",59.435292,10.666137
+77537,"Svaebakken 2, Moss",59.435533,10.666272
+77538,"Svaebakken 1, Moss",59.435437,10.665781
+77539,"Fridtjof Nansens gate 11, Moss",59.432493,10.666616
+77540,"Svaebakken 8, Moss",59.434791,10.666746
+77541,"Svaebakken 4, Moss",59.435351,10.666492
+77542,"Svaebakken 5, Moss",59.434975,10.66626
+77543,"Fridtjof Nansens gate 17, Moss",59.431609,10.666872
+77544,"Fridtjof Nansens gate 16, Moss",59.430937,10.667474
+77545,"Fridtjof Nansens gate 15, Moss",59.431908,10.66669
+77546,"Fridtjof Nansens gate 13, Moss",59.432177,10.666724
+77547,"Fridtjof Nansens gate 21, Moss",59.43052,10.667101
+77548,"Fridtjof Nansens gate 20, Moss",59.430351,10.667639
+77549,"Fridtjof Nansens gate 19, Moss",59.430961,10.666329
+77550,"Fridtjof Nansens gate 18, Moss",59.430541,10.66756
+77611,"Herfordts gate 15, Moss",59.429429,10.66881
+77612,"Herfordts gate 14, Moss",59.429927,10.669169
+77613,"Herfordts gate 13, Moss",59.429708,10.668771
+77614,"Herfordts gate 12, Moss",59.430198,10.669112
+77615,"Herfordts gate 19, Moss",59.428955,10.66886
+77616,"Herfordts gate 18, Moss",59.429459,10.669305
+77617,"Herfordts gate 17, Moss",59.429212,10.668774
+77618,"Herfordts gate 16, Moss",59.429774,10.66925
+77619,"Herfordts gate 24, Moss",59.428718,10.669621
+77620,"Herfordts gate 22, Moss",59.428999,10.669406
+77621,"Herfordts gate 20, Moss",59.429206,10.669363
+77622,"Herføllbakken 2, Moss",59.434491,10.664863
+77634,"Herfordts gate 3, Moss",59.430862,10.668457
+77635,"Herfordts gate 2, Moss",59.431378,10.6688
+77636,"Herfordts gate 1, Moss",59.431123,10.668417
+77638,"Herfordts gate 7, Moss",59.430393,10.668558
+77639,"Herfordts gate 6, Moss",59.430873,10.668934
+77640,"Herfordts gate 5, Moss",59.430582,10.668549
+77641,"Herfordts gate 4, Moss",59.431153,10.668859
+77642,"Herfordts gate 11, Moss",59.429888,10.668709
+77643,"Herfordts gate 10, Moss",59.430423,10.669053
+77644,"Herfordts gate 9, Moss",59.43015,10.668634
+77645,"Herfordts gate 8, Moss",59.43063,10.66901
+77657,"Hans Bloms gate 4, Moss",59.432408,10.666224
+77664,"Hans Bloms gate 3, Moss",59.432094,10.666226
+77665,"Hans Bloms gate 2, Moss",59.432446,10.665735
+77666,"Hans Bloms gate 1, Moss",59.432081,10.665785
+77796,"Høienhaldgata 6J, Moss",59.431575,10.663268
+77797,"Høienhaldgata 6I, Moss",59.431552,10.663278
+77798,"Høienhaldgata 6H, Moss",59.431531,10.663299
+77799,"Høienhaldgata 6G, Moss",59.431604,10.663162
+77800,"Høienhaldgata 6N, Moss",59.431666,10.663243
+77801,"Høienhaldgata 6M, Moss",59.431644,10.663258
+77802,"Høienhaldgata 6L, Moss",59.431616,10.663263
+77803,"Høienhaldgata 6K, Moss",59.431593,10.663264
+77804,"Høienhaldgata 6P, Moss",59.431687,10.663292
+77805,"Høienhaldgata 6O, Moss",59.431709,10.66328
+77806,"Høienhaldgata 2, Moss",59.432713,10.663453
+77807,"Høienhaldgata 6A, Moss",59.431715,10.663159
+77808,"Høienhaldgata 6, Moss",59.431756,10.6634
+77809,"Høienhaldgata 5, Moss",59.432682,10.662887
+77810,"Høienhaldgata 4, Moss",59.432525,10.663426
+77811,"Høienhaldgata 6F, Moss",59.431622,10.663163
+77812,"Høienhaldgata 6E, Moss",59.431639,10.663164
+77813,"Høienhaldgata 6D, Moss",59.431657,10.663163
+77814,"Høienhaldgata 6C, Moss",59.431675,10.663159
+77916,"Høienhaldgata 10L, Moss",59.431718,10.663968
+77917,"Høienhaldgata 10K, Moss",59.431718,10.663968
+77918,"Høienhaldgata 10J, Moss",59.431718,10.663968
+77919,"Høienhaldgata 10I, Moss",59.431718,10.663968
+77920,"Høienhaldgata 10P, Moss",59.431718,10.663968
+77921,"Høienhaldgata 10O, Moss",59.431718,10.663968
+77922,"Høienhaldgata 10N, Moss",59.431718,10.663968
+77923,"Høienhaldgata 10M, Moss",59.431718,10.663968
+77924,"Høienhaldgata 12, Moss",59.430067,10.664575
+77925,"Høienhaldgata 11, Moss",59.430817,10.662391
+77926,"Høienhaldgata 10R, Moss",59.431718,10.663968
+77927,"Høienhaldgata 10Q, Moss",59.431718,10.663968
+77928,"Høienhaldgata 16, Moss",59.429562,10.666137
+77929,"Høienhaldgata 14, Moss",59.429962,10.665028
+77930,"Høienhaldgata 8I, Moss",59.432102,10.663261
+77931,"Høienhaldgata 8H, Moss",59.432076,10.663653
+77932,"Høienhaldgata 8G, Moss",59.432069,10.663527
+77933,"Høienhaldgata 8F, Moss",59.432057,10.663407
+77934,"Høienhaldgata 9, Moss",59.431883,10.662524
+77935,"Høienhaldgata 8L, Moss",59.43213,10.663642
+77936,"Høienhaldgata 8K, Moss",59.432124,10.66352
+77937,"Høienhaldgata 8J, Moss",59.432108,10.663389
+77938,"Høienhaldgata 10D, Moss",59.431718,10.663968
+77939,"Høienhaldgata 10C, Moss",59.431651,10.663908
+77940,"Høienhaldgata 10B, Moss",59.431671,10.6639
+77941,"Høienhaldgata 10A, Moss",59.431696,10.663892
+77942,"Høienhaldgata 10H, Moss",59.431718,10.663968
+77943,"Høienhaldgata 10G, Moss",59.431718,10.663968
+77944,"Høienhaldgata 10F, Moss",59.431718,10.663968
+77945,"Høienhaldgata 10E, Moss",59.431718,10.663968
+77946,"Høienhaldgata 6T, Moss",59.431617,10.663325
+77947,"Høienhaldgata 6S, Moss",59.431637,10.663316
+77948,"Høienhaldgata 6R, Moss",59.431655,10.663304
+77949,"Høienhaldgata 6Q, Moss",59.43167,10.6633
+77950,"Høienhaldgata 8A, Moss",59.432013,10.663295
+77951,"Høienhaldgata 8, Moss",59.431524,10.663712
+77952,"Høienhaldgata 7, Moss",59.432284,10.662651
+77953,"Høienhaldgata 6U, Moss",59.431595,10.663333
+77954,"Høienhaldgata 8E, Moss",59.43205,10.663279
+77955,"Høienhaldgata 8D, Moss",59.43204,10.663671
+77956,"Høienhaldgata 8C, Moss",59.432029,10.663548
+77957,"Høienhaldgata 8B, Moss",59.43202,10.663427
+77964,"Høienhaldgata 18, Moss",59.429405,10.666446
+77965,"Høienhaldgata 17A, Moss",59.429353,10.665615
+77966,"Høienhaldgata 17, Moss",59.429428,10.665337
+77967,"Høienhaldgata 25, Moss",59.429077,10.666424
+77968,"Høienhaldgata 23, Moss",59.429268,10.665928
+77969,"Høienhaldgata 22, Moss",59.428485,10.670262
+77970,"Høienhaldgata 31, Moss",59.428702,10.668086
+77971,"Høienhaldgata 29, Moss",59.428854,10.667442
+77973,"Høienhaldgata 27, Moss",59.428977,10.666901
+77974,"Høienhaldgata 25B, Moss",59.428887,10.666209
+77976,"Høienhaldgata 33, Moss",59.428565,10.668926
+77977,"Høienhaldgata 31B, Moss",59.428525,10.667866
+77978,"Høienhaldgata 31A, Moss",59.428639,10.668066
+77984,"Steinullbakken 3, Moss",59.427954,10.66188
+77985,"Klostergata 10, Moss",59.432113,10.67037
+77986,"Fjellveien 1A, Moss",59.431736,10.669325
+77987,"Klostergata 8A, Moss",59.432248,10.670289
+77988,"Klostergata 8, Moss",59.432393,10.670208
+77989,"Klostergata 16, Moss",59.431484,10.670357
+77990,"Klostergata 14, Moss",59.43161,10.670363
+77991,"Klostergata 13, Moss",59.431059,10.669895
+77992,"Klostergata 12, Moss",59.431961,10.670257
+77993,"Klostergata 20, Moss",59.431287,10.670312
+77994,"Klostergata 19, Moss",59.430275,10.670103
+77995,"Klostergata 18, Moss",59.431401,10.670494
+77996,"Klostergata 17, Moss",59.430473,10.670025
+77997,"Klostergata 25, Moss",59.429634,10.670354
+77998,"Klostergata 22, Moss",59.431125,10.670339
+77999,"Klostergata 21, Moss",59.430013,10.670178
+78000,"Klostergata 6, Moss",59.432673,10.670472
+78001,"Klostergata 3, Moss",59.4324,10.669679
+78002,"Klostergata 2, Moss",59.433256,10.670162
+78004,"Klostergata 1A, Moss",59.432971,10.669704
+78005,"Klostergata 27, Moss",59.429206,10.670468
+78007,"Løkkegata 21, Moss",59.433117,10.667583
+78008,"Løkkegata 20, Moss",59.433839,10.66811
+78009,"Løkkegata 17B, Moss",59.43278,10.666976
+78010,"Løkkegata 27, Moss",59.433451,10.668285
+78011,"Løkkegata 25, Moss",59.433259,10.668392
+78012,"Løkkegata 23A, Moss",59.433113,10.667986
+78013,"Løkkegata 2, Moss",59.433088,10.663612
+78014,"Løkkegata 1, Moss",59.432753,10.663808
+78015,"Løkkegata 6, Moss",59.433016,10.664332
+78016,"Løkkegata 5, Moss",59.432843,10.664517
+78017,"Løkkegata 4, Moss",59.432992,10.664084
+78018,"Løkkegata 3, Moss",59.432812,10.664128
+78019,"Løkkegata 12, Moss",59.433231,10.667199
+78020,"Løkkegata 11, Moss",59.432952,10.665827
+78021,"Løkkegata 9, Moss",59.432947,10.665545
+78022,"Løkkegata 7, Moss",59.43289,10.665031
+78023,"Løkkegata 16, Moss",59.433302,10.667943
+78024,"Løkkegata 15, Moss",59.432979,10.666552
+78025,"Løkkegata 14, Moss",59.43328,10.667571
+78026,"Løkkegata 13, Moss",59.432966,10.666128
+78040,"Markveien 3, Moss",59.430931,10.667949
+78041,"Markveien 2, Moss",59.43066,10.669435
+78042,"Markveien 1, Moss",59.430931,10.669325
+78043,"Markveien 10, Moss",59.430377,10.664907
+78044,"Markveien 8, Moss",59.430476,10.666287
+78045,"Markveien 6, Moss",59.430499,10.666606
+78046,"Markveien 4, Moss",59.430571,10.668037
+78047,"Markveien 15, Moss",59.430727,10.664184
+78048,"Markveien 13, Moss",59.430615,10.664531
+78049,"Markveien 12, Moss",59.430364,10.664537
+78050,"Markveien 11, Moss",59.430629,10.664867
+78053,"Markveien 19, Moss",59.430701,10.663442
+78054,"Markveien 17, Moss",59.430705,10.663795
+78097,"Klostergata 33, Moss",59.428551,10.670776
+78098,"Klostergata 32, Moss",59.429773,10.670696
+78099,"Klostergata 31, Moss",59.428867,10.670634
+78101,"Klostergata 29, Moss",59.428953,10.670679
+78103,"Klostergata 37, Moss",59.428161,10.671039
+78104,"Klostergata 36, Moss",59.429512,10.670771
+78105,"Klostergata 35, Moss",59.428353,10.670749
+78106,"Klostergata 34, Moss",59.429629,10.670741
+78107,"Klostergata 46, Moss",59.428183,10.671393
+78108,"Klostergata 42, Moss",59.428717,10.671102
+78109,"Klostergata 40, Moss",59.428979,10.670991
+78110,"Klostergata 38, Moss",59.429258,10.67097
+78111,"Klostergata 48, Moss",59.427957,10.67154
+78128,"Kong Haakons plass 2, Moss",59.434376,10.665421
+78308,"Nyquists gate 6, Moss",59.432178,10.661681
+78309,"Nyquists gate 5A, Moss",59.431722,10.661518
+78310,"Nyquists gate 5, Moss",59.431937,10.661581
+78311,"Nyquists gate 4, Moss",59.432191,10.6614
+78315,"Nyquists gate 10, Moss",59.432366,10.66204
+78320,"Nyquists gate 2, Moss",59.432193,10.659866
+78632,"Repslagergata 4, Moss",59.428709,10.670326
+78633,"Repslagergata 2, Moss",59.428686,10.670007
+78641,"Richard Olsens vei 1, Moss",59.428798,10.66684
+78642,"Richard Olsens vei 5, Moss",59.428525,10.666474
+78643,"Richard Olsens vei 4, Moss",59.428412,10.666856
+78644,"Richard Olsens vei 3, Moss",59.428692,10.666711
+78645,"Richard Olsens vei 2, Moss",59.428686,10.66724
+78665,"Scharres gate 10, Moss",59.429743,10.666005
+78666,"Scharres gate 8, Moss",59.429773,10.666464
+78667,"Scharres gate 7, Moss",59.429998,10.66644
+78676,"Scharres gate 2, Moss",59.429967,10.669612
+78677,"Scharres gate 1, Moss",59.430227,10.66959
+78680,"Scharres gate 6, Moss",59.429786,10.666835
+78681,"Scharres gate 5, Moss",59.430039,10.666742
+78682,"Scharres gate 4, Moss",59.429869,10.668126
+78683,"Scharres gate 3, Moss",59.430201,10.668143
+78715,"Skolegata 12, Moss",59.431681,10.665465
+78716,"Skolegata 11, Moss",59.43093,10.665217
+78717,"Skolegata 10, Moss",59.431889,10.66537
+78718,"Skolegata 9, Moss",59.431155,10.66514
+78719,"Skolegata 19, Moss",59.429939,10.665468
+78720,"Skolegata 17, Moss",59.430209,10.665393
+78722,"Skolegata 15, Moss",59.430416,10.66535
+78723,"Skolegata 13, Moss",59.43066,10.665221
+78724,"Skolegata 26, Moss",59.429977,10.665963
+78725,"Skolegata 24, Moss",59.430305,10.665944
+78726,"Skolegata 22, Moss",59.430438,10.665774
+78730,"Skolegata 4, Moss",59.432469,10.665645
+78731,"Skolegata 3, Moss",59.433295,10.664257
+78732,"Skolegata 2, Moss",59.433322,10.664946
+78733,"Skolegata 1, Moss",59.433431,10.664211
+78734,"Skolegata 8, Moss",59.432127,10.665497
+78735,"Skolegata 7A, Moss",59.43183,10.665005
+78736,"Skolegata 6, Moss",59.432344,10.665604
+78737,"Skolegata 5, Moss",59.433169,10.664322
+78753,"Richard Olsens vei 15, Moss",59.42756,10.665368
+78754,"Richard Olsens vei 14, Moss",59.427426,10.666014
+78755,"Richard Olsens vei 13, Moss",59.427701,10.665569
+78756,"Richard Olsens vei 12, Moss",59.427611,10.66623
+78757,"Richard Olsens vei 17, Moss",59.427329,10.665128
+78759,"Richard Olsens vei 6A, Moss",59.428186,10.666986
+78760,"Richard Olsens vei 6, Moss",59.428269,10.667483
+78761,"Richard Olsens vei 10, Moss",59.427897,10.666355
+78762,"Richard Olsens vei 9, Moss",59.428029,10.665938
+78763,"Richard Olsens vei 8, Moss",59.428118,10.66663
+78764,"Richard Olsens vei 7, Moss",59.428401,10.666291
+79070,"Vogts gate 22, Moss",59.434415,10.66798
+79072,"Vogts gate 12, Moss",59.434139,10.664709
+79073,"Vogts gate 10, Moss",59.434302,10.664183
+79074,"Vogts gate 7, Moss",59.433618,10.664326
+79075,"Vogts gate 17, Moss",59.433934,10.667727
+79076,"Vogts gate 16, Moss",59.434384,10.666938
+79077,"Svaebakken 14, Moss",59.434415,10.66664
+79079,"Vogts gate 20, Moss",59.434392,10.667697
+79082,"Vogts gate 18, Moss",59.434379,10.66729
+79206,"Øvre gate 3, Moss",59.429408,10.668368
+79207,"Øvre gate 2, Moss",59.42926,10.670088
+79208,"Øvre gate 1, Moss",59.42948,10.669711
+79210,"Øvre gate 6, Moss",59.429146,10.668461
+79211,"Øvre gate 5, Moss",59.429291,10.666917
+79212,"Øvre gate 4, Moss",59.429237,10.669805
+79403,"Byfogd Sandbergs gate 32, Moss",59.432959,10.669343
+79409,"Repslagergata 10, Moss",59.428908,10.670253
+79410,"Repslagergata 8, Moss",59.428918,10.670323
+79411,"Repslagergata 6, Moss",59.428875,10.670306
+79414,"Repslagergata 14, Moss",59.428887,10.669955
+79415,"Repslagergata 12, Moss",59.428897,10.670105
+79440,"Høienhaldgata 3, Moss",59.432964,10.662743
+79483,"Skolegata 7, Moss",59.431663,10.664777
+79504,"Dyreveien 9, Moss",59.427463,10.668695
+79552,"Repslagergata 16, Moss",59.428976,10.669792
+79557,"Fjellveien 15A, Moss",59.431489,10.665061
+79558,"Fjellveien 13K, Moss",59.431369,10.664068
+79559,"Fjellveien 13H, Moss",59.431387,10.664569
+79560,"Fjellveien 13G, Moss",59.431387,10.664569
+79562,"Fjellveien 15E, Moss",59.431387,10.664569
+79563,"Fjellveien 15D, Moss",59.431387,10.664569
+79564,"Fjellveien 15C, Moss",59.431387,10.664569
+79565,"Fjellveien 15B, Moss",59.431387,10.664569
+79566,"Fjellveien 21A, Moss",59.431307,10.663902
+79567,"Fjellveien 15H, Moss",59.431419,10.664061
+79568,"Fjellveien 15G, Moss",59.431387,10.664569
+79569,"Fjellveien 15F, Moss",59.431387,10.664569
+79570,"Fjellveien 21E, Moss",59.431275,10.66341
+79571,"Fjellveien 21D, Moss",59.431276,10.663533
+79572,"Fjellveien 21C, Moss",59.431287,10.663649
+79573,"Fjellveien 21B, Moss",59.431296,10.663786
+79574,"Fjellveien 11C, Moss",59.431357,10.664866
+79575,"Fjellveien 11B, Moss",59.431372,10.664974
+79576,"Fjellveien 11A, Moss",59.431377,10.665105
+79577,"Fjellveien 11G, Moss",59.431328,10.664345
+79578,"Fjellveien 11F, Moss",59.431335,10.664471
+79579,"Fjellveien 11E, Moss",59.431341,10.664586
+79580,"Fjellveien 11D, Moss",59.431351,10.664735
+79581,"Fjellveien 13B, Moss",59.431387,10.664569
+79582,"Fjellveien 13A, Moss",59.431438,10.665079
+79583,"Fjellveien 11K, Moss",59.431321,10.664088
+79584,"Fjellveien 11H, Moss",59.431325,10.664221
+79585,"Fjellveien 13F, Moss",59.431387,10.664569
+79586,"Fjellveien 13E, Moss",59.431387,10.664569
+79587,"Fjellveien 13D, Moss",59.431387,10.664569
+79588,"Fjellveien 13C, Moss",59.431387,10.664569
+79589,"Fjellveien 23B, Moss",59.431319,10.663543
+79590,"Fjellveien 23A, Moss",59.431357,10.663893
+79591,"Fjellveien 21G, Moss",59.43126,10.663116
+79592,"Fjellveien 21F, Moss",59.431263,10.66331
+79593,"Fjellveien 23F, Moss",59.431319,10.663543
+79594,"Fjellveien 23E, Moss",59.431319,10.663543
+79595,"Fjellveien 23D, Moss",59.431319,10.663543
+79596,"Fjellveien 23C, Moss",59.431319,10.663543
+79597,"Fjellveien 25C, Moss",59.431319,10.663543
+79598,"Fjellveien 25B, Moss",59.431319,10.663543
+79599,"Fjellveien 25A, Moss",59.431409,10.663873
+79600,"Fjellveien 23G, Moss",59.431312,10.663116
+79601,"Fjellveien 25F, Moss",59.431359,10.663138
+79602,"Fjellveien 25E, Moss",59.431319,10.663543
+79603,"Fjellveien 25D, Moss",59.431319,10.663543
+79675,"Klostergata 5B, Moss",59.432166,10.669749
+79676,"Klostergata 5A, Moss",59.432063,10.669761
+79677,"Klommestensgata 11B, Moss",59.430531,10.670416
+79678,"Klostergata 26, Moss",59.43065,10.670437
+79679,"Klostergata 11B, Moss",59.431293,10.669854
+79680,"Klostergata 11A, Moss",59.431455,10.669775
+79686,"Høienhaldgata 6B, Moss",59.431695,10.66316
+79705,"Løkkegata 19E, Moss",59.432993,10.667469
+79757,"Skolegata 7M, Moss",59.431705,10.664802
+79759,"Skolegata 7L, Moss",59.431735,10.664795
+79761,"Skolegata 7K, Moss",59.43177,10.664786
+79772,"Løkkegata 19C, Moss",59.433048,10.667316
+79773,"Løkkegata 19D, Moss",59.433047,10.667287
+79774,"Løkkegata 19A, Moss",59.433035,10.667322
+79775,"Løkkegata 19B, Moss",59.433033,10.667294
+79785,"Skolegata 7D, Moss",59.431778,10.664926
+79787,"Skolegata 7C, Moss",59.431813,10.664923
+79789,"Skolegata 7B, Moss",59.431655,10.665048
+79792,"Skolegata 7H, Moss",59.431807,10.664775
+79794,"Skolegata 7G, Moss",59.431683,10.664943
+79796,"Skolegata 7F, Moss",59.431718,10.664939
+79798,"Skolegata 7E, Moss",59.431747,10.66493
+79810,"Kong Haakons plass 30, Moss",59.434404,10.665677
+79811,"Kong Haakons plass 26, Moss",59.434722,10.666262
+79812,"Kong Haakons plass 25, Moss",59.434663,10.666262
+79813,"Kong Haakons plass 24, Moss",59.434609,10.666252
+79814,"Kong Haakons plass 34, Moss",59.434603,10.666209
+79815,"Kong Haakons plass 33, Moss",59.43453,10.666149
+79816,"Kong Haakons plass 32, Moss",59.434487,10.66602
+79817,"Kong Haakons plass 31, Moss",59.434443,10.665851
+79818,"Kong Haakons plass 41, Moss",59.434597,10.666162
+79819,"Kong Haakons plass 40, Moss",59.434544,10.666107
+79820,"Kong Haakons plass 36, Moss",59.434738,10.666221
+79821,"Kong Haakons plass 35, Moss",59.434674,10.666219
+79822,"Kong Haakons plass 11, Moss",59.434371,10.665759
+79823,"Kong Haakons plass 10, Moss",59.434357,10.665673
+79824,"Kong Haakons plass 15, Moss",59.434444,10.666065
+79825,"Kong Haakons plass 14, Moss",59.434429,10.665988
+79826,"Kong Haakons plass 13, Moss",59.434403,10.665912
+79827,"Kong Haakons plass 12, Moss",59.434389,10.665835
+79828,"Kong Haakons plass 19, Moss",59.434728,10.666311
+79829,"Kong Haakons plass 18, Moss",59.434667,10.666308
+79830,"Kong Haakons plass 17, Moss",59.434608,10.666305
+79831,"Kong Haakons plass 16, Moss",59.434508,10.666213
+79832,"Kong Haakons plass 23, Moss",59.43452,10.666179
+79833,"Kong Haakons plass 22, Moss",59.434464,10.666045
+79834,"Kong Haakons plass 21, Moss",59.434421,10.665882
+79835,"Kong Haakons plass 20, Moss",59.434385,10.665736
+79912,"Klostergata 23B, Moss",59.429885,10.670183
+79913,"Klostergata 23A, Moss",59.429793,10.670287
+79963,"Markveien 14, Moss",59.430297,10.664163
+79964,"Markveien 14B, Moss",59.430297,10.664163
+79965,"Markveien 14A, Moss",59.430297,10.664163
+79980,"Klostergata 4, Moss",59.432788,10.670227
+80016,"Klostergata 44B, Moss",59.428382,10.671279
+80017,"Klostergata 44A, Moss",59.428515,10.671254
+80082,"Løkkegata 17A, Moss",59.433045,10.667013
+80595,"Løkkegata 23B, Moss",59.43312,10.668145
+80861,"Klostergata 46B, Moss",59.428227,10.671437
+80916,"Klostergata 46A, Moss",59.428194,10.671315
+80917,"Klostergata 46C, Moss",59.428111,10.671486
+80939,"Klostergata 15C, Moss",59.430554,10.670011
+80940,"Klostergata 15B, Moss",59.430548,10.669817
+80941,"Klostergata 15A, Moss",59.430689,10.67
+80964,"Herføllbakken 4C, Moss",59.434358,10.664662
+80965,"Herføllbakken 4B, Moss",59.434351,10.664534
+80966,"Herføllbakken 4A, Moss",59.434431,10.664562
+80967,"Klostergata 5C, Moss",59.432166,10.669613
+80968,"Klostergata 7C, Moss",59.431845,10.66964
+80969,"Klostergata 7B, Moss",59.431853,10.669549
+80970,"Klostergata 7A, Moss",59.431931,10.669732
+80971,"Klostergata 5D, Moss",59.432143,10.669412
+81136,"Høienhaldgata 10, Moss",59.4317,10.66395
+118480,"Furuholtet 3B, Moss",59.426006,10.669829
+118554,"Svaebakken 3C, Moss",59.435172,10.666113
+118556,"Svaebakken 3B, Moss",59.435242,10.666266
+118559,"Svaebakken 3D, Moss",59.435185,10.666112
+210889,"Carl Jenssens vei 8B, Moss",59.423817,10.664653
+455833,"Furuholtet 1A, Moss",59.426099,10.669206
+1655158,"Vogts gate 11, Moss",59.433836,10.665146
+1768217,"Løkkegata 29B, Moss",59.433614,10.668264
+1768218,"Løkkegata 29A, Moss",59.433598,10.668199
+1916182,"Fredrik J. Holsts vei 15X, Moss",59.426373,10.666033
+1932399,"Klostergata 1C, Moss",59.43306,10.669719
+1932400,"Klostergata 1D, Moss",59.433113,10.669702
+1932401,"Klostergata 1E, Moss",59.433133,10.669696
+1932403,"Klostergata 1F, Moss",59.433189,10.669681
+1932408,"Klostergata 1G, Moss",59.433097,10.669544
+1932410,"Klostergata 1H, Moss",59.433036,10.669575
+1966901,"Klostergata 1B, Moss",59.43298,10.669703
+2004952,"Vogts gate 13A, Moss",59.433974,10.665313
+2004957,"Vogts gate 13B, Moss",59.433982,10.665458
+2004984,"Fridtjof Nansens gate 1A, Moss",59.433963,10.666315
+2005083,"Løkkegata 8B, Moss",59.43316,10.665952
+2005155,"Fridtjof Nansens gate 5, Moss",59.433411,10.665631
+2005159,"Løkkegata 8A, Moss",59.433132,10.665626
+2023821,"Fridtjof Nansens gate 1C, Moss",59.433976,10.665739
+2023822,"Fridtjof Nansens gate 1B, Moss",59.433958,10.666057
+2035982,"Fridtjof Nansens gate 3, Moss",59.433614,10.665601
+2047348,"Vogts gate 13C, Moss",59.433987,10.665537
+2077611,"Melløsbakken 11C, Moss",59.427141,10.664396
+2077612,"Melløsbakken 11A, Moss",59.427163,10.664171
+2166656,"Løkkegata 25A, Moss",59.433349,10.668641
+2467526,"Byfogd Sandbergs gate 30B, Moss",59.43291,10.669082
+2467527,"Byfogd Sandbergs gate 30A, Moss",59.432899,10.668919
+2468914,"Fridtjof Nansens gate 7, Moss",59.433702,10.666344
+2468915,"Fridtjof Nansens gate 9, Moss",59.433489,10.666395
+2477770,"Løkkegata 10, Moss",59.433184,10.666345
+2496373,"Klostergata 24, Moss",59.430949,10.67035
+2497111,"Birkebeinerveien 15A, Moss",59.42483,10.66527
+2497112,"Birkebeinerveien 15, Moss",59.424895,10.665149
+2497113,"Birkebeinerveien 14, Moss",59.424675,10.664768
+2497115,"Birkebeinerveien 19, Moss",59.424369,10.665529
+2497116,"Birkebeinerveien 17, Moss",59.424586,10.665416
+2497117,"Birkebeinerveien 16, Moss",59.424431,10.664933
+2497411,"Birkebeinerveien 3, Moss",59.426439,10.663652
+2497412,"Birkebeinerveien 2, Moss",59.426068,10.663303
+2497413,"Birkebeinerveien 1, Moss",59.426579,10.66332
+2497414,"Birkebeinerveien 7, Moss",59.425895,10.664229
+2497415,"Birkebeinerveien 6, Moss",59.425675,10.663848
+2497416,"Birkebeinerveien 5, Moss",59.426141,10.663924
+2497417,"Birkebeinerveien 4, Moss",59.425858,10.66361
+2497418,"Birkebeinerveien 11, Moss",59.425384,10.664838
+2497419,"Birkebeinerveien 10, Moss",59.42521,10.664389
+2497420,"Birkebeinerveien 9, Moss",59.425648,10.664552
+2497421,"Birkebeinerveien 8, Moss",59.425429,10.664153
+2497422,"Birkebeinerveien 13, Moss",59.4251,10.665196
+2497423,"Birkebeinerveien 12, Moss",59.424938,10.664605
+2497575,"Carl Jenssens vei 14, Moss",59.42407,10.663628
+2497576,"Carl Jenssens vei 12, Moss",59.424083,10.664017
+2497577,"Carl Jenssens vei 10, Moss",59.423988,10.664435
+2497578,"Carl Jenssens vei 8, Moss",59.424072,10.664845
+2497579,"Carl Jenssens vei 24, Moss",59.423754,10.661656
+2497580,"Carl Jenssens vei 22, Moss",59.424046,10.661248
+2497581,"Carl Jenssens vei 18, Moss",59.424118,10.661974
+2497582,"Carl Jenssens vei 16, Moss",59.424077,10.663082
+2497583,"Carl Jenssens vei 28, Moss",59.423785,10.660653
+2497584,"Carl Jenssens vei 26, Moss",59.423778,10.661181
+2497593,"Carl Jenssens vei 1, Moss",59.42444,10.662042
+2497595,"Carl Jenssens vei 2, Moss",59.423867,10.666156
+2497714,"Dyreveien 31, Moss",59.424984,10.667339
+2497716,"Dyreveien 29, Moss",59.425144,10.667436
+2497718,"Dyreveien 33, Moss",59.424815,10.667225
+2497719,"Dyreveien 16B, Moss",59.425021,10.669351
+2497720,"Furuholtet 1B, Moss",59.425949,10.668992
+2497721,"Dyreveien 15, Moss",59.426403,10.668062
+2497722,"Dyreveien 8, Moss",59.427239,10.670059
+2497724,"Dyreveien 19, Moss",59.426055,10.66785
+2497725,"Dyreveien 18, Moss",59.425088,10.668349
+2497726,"Dyreveien 17, Moss",59.426198,10.667946
+2497728,"Dyreveien 23, Moss",59.425688,10.667727
+2497730,"Dyreveien 21, Moss",59.425857,10.667858
+2497732,"Dyreveien 27, Moss",59.425323,10.667515
+2497734,"Dyreveien 25, Moss",59.425483,10.667628
+2497735,"Dyreveien 6, Moss",59.427407,10.670297
+2497736,"Dyreveien 4, Moss",59.427557,10.670516
+2497737,"Dyreveien 2, Moss",59.427734,10.670718
+2498038,"Dyreveien 37, Moss",59.424315,10.666919
+2498052,"Dyreveien 35, Moss",59.424583,10.667091
+2498226,"Fjordveien 72, Moss",59.424876,10.666647
+2498227,"Fjordveien 71, Moss",59.425498,10.665547
+2498228,"Fjordveien 70, Moss",59.425103,10.666632
+2498229,"Fjordveien 69, Moss",59.425674,10.665364
+2498230,"Fjordveien 77, Moss",59.424929,10.66598
+2498231,"Fjordveien 75, Moss",59.42511,10.665883
+2498232,"Fjordveien 74, Moss",59.424641,10.666723
+2498233,"Fjordveien 73, Moss",59.425297,10.665871
+2498234,"Fjordveien 85, Moss",59.424152,10.666382
+2498235,"Fjordveien 83, Moss",59.424377,10.666287
+2498236,"Fjordveien 81, Moss",59.42455,10.666172
+2498237,"Fjordveien 79, Moss",59.42473,10.666093
+2498238,"Fjordveien 57, Moss",59.426633,10.664113
+2498241,"Fjordveien 55, Moss",59.426781,10.663726
+2498244,"Fjordveien 61, Moss",59.426322,10.66455
+2498246,"Fjordveien 60, Moss",59.426819,10.664257
+2498248,"Fjordveien 59, Moss",59.426463,10.664352
+2498250,"Fjordveien 58, Moss",59.427248,10.663714
+2498252,"Fjordveien 66, Moss",59.426238,10.66548
+2498254,"Fjordveien 65, Moss",59.425975,10.664973
+2498256,"Fjordveien 64, Moss",59.426467,10.665156
+2498258,"Fjordveien 63, Moss",59.426148,10.66477
+2498260,"Fjordveien 68, Moss",59.426074,10.665666
+2498261,"Fjordveien 67, Moss",59.425848,10.665231
+2498262,"Fjordveien 66B, Moss",59.426235,10.665726
+2498263,"Fjordveien 66A, Moss",59.426252,10.665763
+2498276,"Fjordveien 53, Moss",59.42692,10.663433
+2498365,"Fredrik J. Holsts vei 20, Moss",59.425825,10.667108
+2498366,"Fredrik J. Holsts vei 19, Moss",59.425781,10.666074
+2498367,"Fredrik J. Holsts vei 18, Moss",59.425994,10.666984
+2498368,"Fredrik J. Holsts vei 17, Moss",59.426058,10.666211
+2498370,"Fredrik J. Holsts vei 26, Moss",59.425252,10.666718
+2498371,"Fredrik J. Holsts vei 24, Moss",59.425439,10.666833
+2498372,"Fredrik J. Holsts vei 22, Moss",59.4256,10.666929
+2498381,"Fredrik J. Holsts vei 16, Moss",59.426172,10.667134
+2498382,"Fredrik J. Holsts vei 15A, Moss",59.42635,10.66582
+2498383,"Fredrik J. Holsts vei 15, Moss",59.426237,10.666291
+2498384,"Fredrik J. Holsts vei 14, Moss",59.426296,10.667281
+2498976,"Furuholtet 6D, Moss",59.426669,10.670714
+2498977,"Furuholtet 6C, Moss",59.42654,10.670607
+2498990,"Melløsbakken 19, Moss",59.426641,10.66624
+2498991,"Melløsbakken 17, Moss",59.426764,10.665788
+2498992,"Melløsbakken 16, Moss",59.426993,10.666821
+2498993,"Melløsbakken 15, Moss",59.426887,10.6653
+2498994,"Furuholtet 2C, Moss",59.426788,10.669478
+2498995,"Furuholtet 2B, Moss",59.426663,10.669369
+2498996,"Furuholtet 2A, Moss",59.426533,10.669264
+2498997,"Melløsbakken 21, Moss",59.426538,10.667345
+2498998,"Furuholtet 4B, Moss",59.426524,10.669997
+2498999,"Furuholtet 4A, Moss",59.426392,10.669888
+2499000,"Furuholtet 3A, Moss",59.425974,10.669944
+2499001,"Furuholtet 2D, Moss",59.426919,10.669581
+2499003,"Furuholtet 6B, Moss",59.426411,10.6705
+2499004,"Furuholtet 6A, Moss",59.426283,10.67039
+2499005,"Furuholtet 4D, Moss",59.426779,10.670206
+2499006,"Furuholtet 4C, Moss",59.426653,10.670102
+2499011,"Melløsbakken 4, Moss",59.427556,10.664275
+2499012,"Melløsbakken 2A, Moss",59.427555,10.663623
+2499015,"Melløsbakken 10, Moss",59.427241,10.665741
+2499018,"Melløsbakken 8, Moss",59.427422,10.664903
+2499019,"Melløsbakken 6, Moss",59.427489,10.664589
+2499021,"Melløsbakken 14, Moss",59.427122,10.666563
+2499023,"Melløsbakken 13, Moss",59.426949,10.664633
+2499025,"Melløsbakken 12, Moss",59.42721,10.666039
+2499026,"Melløsbakken 11B, Moss",59.427179,10.664345
+2499913,"Sigvat Skalds vei 1, Moss",59.425691,10.663302
+2499917,"Sigvat Skalds vei 5, Moss",59.425244,10.663862
+2499918,"Sigvat Skalds vei 4, Moss",59.42497,10.663496
+2499919,"Sigvat Skalds vei 3, Moss",59.425499,10.663557
+2499920,"Sigvat Skalds vei 2, Moss",59.425198,10.663243
+2499960,"Sigvat Skalds vei 8, Moss",59.424454,10.663806
+2499961,"Sigvat Skalds vei 7A, Moss",59.424953,10.66413
+2499962,"Sigvat Skalds vei 7, Moss",59.424998,10.664097
+2499963,"Sigvat Skalds vei 6, Moss",59.424698,10.663677
+2499965,"Sigvat Skalds vei 11, Moss",59.424446,10.664457
+2499967,"Sigvat Skalds vei 9A, Moss",59.42469,10.664328
+2499968,"Sigvat Skalds vei 9, Moss",59.424735,10.664295
+2500337,"Snorres vei 18, Moss",59.42447,10.662537
+2500351,"Snorres vei 4, Moss",59.42604,10.662685
+2500352,"Snorres vei 3, Moss",59.424497,10.663279
+2500353,"Snorres vei 1, Moss",59.424723,10.663167
+2500356,"Snorres vei 8, Moss",59.425564,10.662697
+2500358,"Snorres vei 6, Moss",59.425797,10.662691
+2500360,"Snorres vei 12, Moss",59.425143,10.662606
+2500361,"Snorres vei 10, Moss",59.425367,10.662652
+2500362,"Snorres vei 16, Moss",59.424685,10.662566
+2500365,"Snorres vei 14, Moss",59.424918,10.662595
+2502123,"Carl Jenssens vei 10B, Moss",59.423773,10.664389
+2504045,"Fredrik J. Holsts vei 13A, Moss",59.426494,10.666497
+2504049,"Fredrik J. Holsts vei 13B, Moss",59.426396,10.666457

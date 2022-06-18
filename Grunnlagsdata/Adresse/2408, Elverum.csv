@@ -1,0 +1,629 @@
+,Navn,Long,Lat
+1267966,"Korsbakkvegen 1B, Elverum",60.88738,11.566814
+1267967,"Korsbakkvegen 1A, Elverum",60.887166,11.566723
+1273584,"Andreas Grøttings veg 16, Elverum",60.892065,11.564702
+1273588,"Andreas Grøttings veg 18, Elverum",60.892167,11.565945
+1273590,"Andreas Grøttings veg 20, Elverum",60.892378,11.568046
+1273592,"Andreas Grøttings veg 32, Elverum",60.892975,11.569237
+1273595,"Andreas Grøttings veg 8, Elverum",60.892458,11.561046
+1273596,"Andreas Grøttings veg 6, Elverum",60.892424,11.560435
+1273597,"Andreas Grøttings veg 4, Elverum",60.892164,11.560451
+1273599,"Andreas Grøttings veg 12, Elverum",60.89191,11.561021
+1273601,"Andreas Grøttings veg 10, Elverum",60.89218,11.561024
+1273604,"Andreas Grøttings veg 14, Elverum",60.891941,11.563198
+1273651,"Fredriksbergvegen 26, Elverum",60.893385,11.561397
+1273652,"Fredriksbergvegen 24, Elverum",60.893142,11.561433
+1273653,"Fredriksbergvegen 22, Elverum",60.892449,11.561506
+1273654,"Fredriksbergvegen 20, Elverum",60.892163,11.56141
+1273667,"Fredriksbergvegen 11, Elverum",60.892161,11.562497
+1273670,"Fredriksbergvegen 9, Elverum",60.8919,11.562495
+1273671,"Fredriksbergvegen 18, Elverum",60.891902,11.561444
+1273672,"Fredriksbergvegen 13, Elverum",60.892462,11.562227
+1273934,"Fagervikvegen 19, Elverum",60.892694,11.559019
+1273935,"Fagervikvegen 28, Elverum",60.893037,11.558438
+1273936,"Fagervikvegen 26, Elverum",60.892868,11.557871
+1273937,"Fagervikvegen 22, Elverum",60.892517,11.557474
+1273938,"Fagervikvegen 21, Elverum",60.892998,11.559062
+1273942,"Fagervikvegen 34, Elverum",60.893466,11.559025
+1273943,"Finnlandsvegen 6, Elverum",60.892691,11.566707
+1273944,"Finnlandsvegen 4, Elverum",60.892447,11.566779
+1273949,"Elvarheimgata 18, Elverum",60.883175,11.560284
+1273968,"Elvarheimgata 12, Elverum",60.882268,11.560266
+1273969,"Finnlandsvegen 2A, Elverum",60.892213,11.566834
+1273970,"Elvarheimgata 10C, Elverum",60.882268,11.560266
+1274084,"Helge Væringsaasens veg 33, Elverum",60.892495,11.564257
+1274085,"Helge Væringsaasens veg 31A, Elverum",60.891986,11.564106
+1274256,"Helge Væringsaasens veg 39, Elverum",60.89346,11.564058
+1274257,"Helge Væringsaasens veg 38, Elverum",60.891947,11.563328
+1274258,"Helge Væringsaasens veg 37, Elverum",60.89321,11.564001
+1274259,"Helge Væringsaasens veg 35, Elverum",60.892757,11.564204
+1274260,"Helge Væringsaasens veg 43, Elverum",60.893964,11.564006
+1274261,"Helge Væringsaasens veg 42B, Elverum",60.8925,11.563059
+1274262,"Helge Væringsaasens veg 42A, Elverum",60.892483,11.563482
+1274263,"Helge Væringsaasens veg 40A, Elverum",60.892222,11.563516
+1274267,"Helge Væringsaasens veg 44, Elverum",60.892771,11.56345
+1274752,"Libergvegen 5, Elverum",60.892553,11.57442
+1275396,"Storgata 5, Elverum",60.883506,11.560826
+1275605,"Sandmovegen 2, Elverum",60.892091,11.56522
+1275606,"Sandmovegen 1, Elverum",60.892418,11.565929
+1275607,"Sandmovegen 5, Elverum",60.893372,11.56584
+1275608,"Sandmovegen 4B, Elverum",60.892466,11.564826
+1275609,"Sandmovegen 4A, Elverum",60.892496,11.565142
+1275610,"Sandmovegen 3, Elverum",60.89265,11.566021
+1275613,"Sandmovegen 8, Elverum",60.893251,11.565148
+1275614,"Sandmovegen 6, Elverum",60.892936,11.565178
+1275625,"Sagtjernvegen 2, Elverum",60.893125,11.560436
+1275626,"Sagtjernvegen 1, Elverum",60.89274,11.560829
+1275629,"Sagtjernvegen 7, Elverum",60.892856,11.564673
+1275630,"Sagtjernvegen 4, Elverum",60.893141,11.56099
+1275631,"Sagtjernvegen 3, Elverum",60.892754,11.561513
+1275632,"Sagtjernvegen 14, Elverum",60.893382,11.567241
+1275633,"Sagtjernvegen 12, Elverum",60.893361,11.566447
+1275634,"Sagtjernvegen 11, Elverum",60.892908,11.566632
+1275635,"Sagtjernvegen 9, Elverum",60.892894,11.565967
+1275815,"Storgata 6B, Elverum",60.883376,11.561498
+1275816,"Storgata 6A, Elverum",60.883412,11.561501
+1275817,"Storgata 11, Elverum",60.882694,11.561019
+1275818,"Storgata 9, Elverum",60.883002,11.560859
+1275819,"Storgata 8, Elverum",60.883461,11.562223
+1275820,"Storgata 7, Elverum",60.883128,11.560851
+1275822,"Storgata 16, Elverum",60.882259,11.562164
+1275823,"Storgata 13, Elverum",60.882375,11.56127
+1275824,"Storgata 12, Elverum",60.882763,11.561651
+1275909,"Strandbygdvegen 99, Elverum",60.893395,11.560421
+1275910,"Strandbygdvegen 98, Elverum",60.893313,11.559548
+1275911,"Strandbygdvegen 92C, Elverum",60.892874,11.559457
+1275912,"Strandbygdvegen 92B, Elverum",60.892802,11.55947
+1275915,"Strandbygdvegen 103, Elverum",60.89367,11.560129
+1275916,"Strandbygdvegen 101, Elverum",60.893437,11.561014
+1275925,"Strandbygdvegen 84B, Elverum",60.891975,11.559514
+1275926,"Strandbygdvegen 84A, Elverum",60.891912,11.559528
+1275927,"Strandbygdvegen 88B, Elverum",60.892415,11.559494
+1275928,"Strandbygdvegen 88A, Elverum",60.892353,11.559489
+1275929,"Strandbygdvegen 84D, Elverum",60.892127,11.559526
+1275930,"Strandbygdvegen 84C, Elverum",60.892056,11.559502
+1275931,"Strandbygdvegen 92A, Elverum",60.89273,11.559483
+1275932,"Strandbygdvegen 91, Elverum",60.892748,11.560443
+1275933,"Strandbygdvegen 88D, Elverum",60.892568,11.55947
+1275934,"Strandbygdvegen 88C, Elverum",60.892487,11.559482
+1276222,"Tangenvegen 17, Elverum",60.893354,11.574319
+1276223,"Tangenvegen 16A, Elverum",60.893577,11.573471
+1276224,"Tangenvegen 15, Elverum",60.893321,11.57369
+1276225,"Tangenvegen 33, Elverum",60.894315,11.576204
+1276226,"Tangenvegen 32, Elverum",60.894437,11.575457
+1276227,"Tangenvegen 30, Elverum",60.894148,11.575102
+1276228,"Tangenvegen 28, Elverum",60.894137,11.575654
+1276240,"Elvarheimgata 10A, Elverum",60.881984,11.560538
+1276249,"Elvarheimgata 10D, Elverum",60.882357,11.560789
+1276251,"Elvarheimgata 10B, Elverum",60.882394,11.560737
+1276258,"Storgata 17, Elverum",60.88208,11.56167
+1276299,"Storgata 10, Elverum",60.883169,11.561536
+1276354,"Nordlivegen 19, Elverum",60.890919,11.572943
+1276355,"Nordlivegen 15, Elverum",60.890689,11.572777
+1276356,"Nordlivegen 11, Elverum",60.890441,11.572554
+1276363,"Fredensvoldvegen 2, Elverum",60.888606,11.556682
+1276430,"Elvarheimgata 37A, Elverum",60.884961,11.566952
+1276431,"Elvarheimgata 35, Elverum",60.884828,11.566406
+1276705,"Lundgaardvegen 20, Elverum",60.881951,11.554288
+1276730,"Kanalvegen 20A, Elverum",60.890601,11.568437
+1277083,"Fredensvoldvegen 14A, Elverum",60.890508,11.555415
+1277084,"Fredensvoldvegen 14B, Elverum",60.890445,11.55541
+1277230,"Storgata 15, Elverum",60.882374,11.561307
+1277235,"Storgata 14, Elverum",60.882406,11.56201
+1277341,"Sandmovegen 10B, Elverum",60.893531,11.564599
+1277342,"Sandmovegen 10A, Elverum",60.89352,11.565188
+1277435,"Andreas Grøttings veg 2A, Elverum",60.891904,11.560393
+1277439,"Andreas Grøttings veg 2D, Elverum",60.891904,11.560393
+1277440,"Andreas Grøttings veg 2C, Elverum",60.891904,11.560393
+1277441,"Andreas Grøttings veg 2B, Elverum",60.891904,11.560393
+1277638,"Sven Morens veg 19B, Elverum",60.887983,11.569112
+1277653,"Fagervikvegen 24, Elverum",60.892752,11.558323
+1277838,"Sven Morens veg 27D, Elverum",60.888543,11.569415
+1277877,"Sagtjernvegen 10B, Elverum",60.893099,11.564638
+1277878,"Sagtjernvegen 10A, Elverum",60.893098,11.564656
+1277995,"Grønlandsgutua 6C, Elverum",60.888337,11.567039
+1647780,"Korsbakkvegen 21, Elverum",60.888783,11.561102
+1648312,"Støavegen 2B, Elverum",60.888656,11.555008
+1648313,"Støavegen 2A, Elverum",60.888493,11.555069
+1652410,"Korsbakkvegen 23, Elverum",60.88916,11.561077
+1750926,"Sven Morens veg 19C, Elverum",60.887812,11.569153
+1795590,"Tangenvegen 4, Elverum",60.89313,11.570079
+1815657,"Andreas Grøttings veg 2E, Elverum",60.89193,11.560469
+1923763,"Korsbakkvegen 7E, Elverum",60.887681,11.564719
+1947400,"Fagervikvegen 11, Elverum",60.891723,11.558572
+1950885,"Fagervikvegen 13, Elverum",60.891768,11.558594
+1960315,"Sven Morens veg 2, Elverum",60.885909,11.565156
+1978664,"Korsbakkvegen 25, Elverum",60.889219,11.560823
+1978665,"Korsbakkvegen 27, Elverum",60.889295,11.560627
+1989876,"Fredensvoldvegen 29C, Elverum",60.890923,11.556259
+1999006,"Fagervikvegen 15A, Elverum",60.891941,11.558709
+1999007,"Fagervikvegen 15B, Elverum",60.892066,11.55871
+1999009,"Fagervikvegen 17A, Elverum",60.892252,11.55885
+1999011,"Fagervikvegen 17B, Elverum",60.892435,11.558848
+2003592,"Helge Væringsaasens veg 40B, Elverum",60.892131,11.563103
+2010329,"Helge Væringsaasens veg 40C, Elverum",60.892212,11.563091
+2021358,"Fredensvoldvegen 16B, Elverum",60.891064,11.555422
+2022388,"Fagervikvegen 8, Elverum",60.890745,11.55759
+2026193,"Eivind Torps veg 4B, Elverum",60.884375,11.558573
+2034473,"Eivind Torps veg 2, Elverum",60.884383,11.559127
+2034474,"Eivind Torps veg 4A, Elverum",60.884241,11.558102
+2034793,"Fredensvoldvegen 17B, Elverum",60.890122,11.557762
+2035651,"Tangenvegen 16B, Elverum",60.893608,11.573731
+2039263,"Strandbygdvegen 46, Elverum",60.888614,11.559595
+2053769,"Elvarheimgata 14, Elverum",60.88268,11.560318
+2055448,"Sven Morens veg 39A, Elverum",60.889225,11.569912
+2058064,"Sagtjernvegen 6, Elverum",60.893151,11.560936
+2070138,"Andreas Grøttings veg 9B, Elverum",60.891589,11.563263
+2077539,"Helge Væringsaasens veg 31B, Elverum",60.89216,11.564239
+2082080,"Elvarheimgata 37C, Elverum",60.884949,11.567098
+2082091,"Elvarheimgata 37B, Elverum",60.884945,11.566877
+2082092,"Elvarheimgata 37D, Elverum",60.885004,11.567066
+2087578,"Tangenvegen 35, Elverum",60.894296,11.576276
+2104509,"Helge Væringsaasens veg 17A, Elverum",60.889079,11.564425
+2109328,"Korsbakkvegen 26, Elverum",60.887368,11.56177
+2109329,"Korsbakkvegen 24, Elverum",60.887418,11.561676
+2168749,"Helge Væringsaasens veg 21A, Elverum",60.889907,11.564787
+2168750,"Helge Væringsaasens veg 21C, Elverum",60.890269,11.565111
+2190877,"Sagtjernvegen 5C, Elverum",60.892742,11.563079
+2190878,"Sagtjernvegen 5B, Elverum",60.892746,11.562858
+2192898,"Sagtjernvegen 5A, Elverum",60.892763,11.562472
+2233885,"Korsbakkvegen 29, Elverum",60.889137,11.561351
+2369546,"Sven Morens veg 19D, Elverum",60.887733,11.569055
+2387815,"Sven Morens veg 39B, Elverum",60.889323,11.569957
+2387817,"Fredensvoldvegen 16A, Elverum",60.890877,11.555339
+2387906,"Helge Væringsaasens veg 18, Elverum",60.889184,11.563586
+2387907,"Helge Væringsaasens veg 17B, Elverum",60.889202,11.564564
+2387908,"Helge Væringsaasens veg 16, Elverum",60.888898,11.563526
+2387909,"Helge Væringsaasens veg 15C, Elverum",60.890113,11.566241
+2387910,"Helge Væringsaasens veg 23, Elverum",60.890367,11.564695
+2387911,"Helge Væringsaasens veg 22, Elverum",60.889764,11.563835
+2387912,"Helge Væringsaasens veg 20, Elverum",60.88945,11.563773
+2387913,"Helge Væringsaasens veg 19, Elverum",60.889521,11.564793
+2387914,"Helge Væringsaasens veg 28, Elverum",60.890774,11.563603
+2387915,"Olav Schulstads veg 6, Elverum",60.887381,11.55874
+2387916,"Helge Væringsaasens veg 26, Elverum",60.890376,11.563755
+2387917,"Olav Schulstads veg 3, Elverum",60.888239,11.559012
+2387918,"Helge Væringsaasens veg 25, Elverum",60.890666,11.564534
+2387919,"Olav Schulstads veg 1, Elverum",60.88819,11.559653
+2387920,"Helge Væringsaasens veg 24, Elverum",60.890079,11.563787
+2387921,"Libergvegen 1, Elverum",60.892093,11.574033
+2387922,"Olav Schulstads veg 19, Elverum",60.888578,11.554375
+2387923,"Helge Væringsaasens veg 32, Elverum",60.891279,11.563477
+2387924,"Olav Schulstads veg 10, Elverum",60.888195,11.556557
+2387925,"Olav Schulstads veg 8, Elverum",60.888078,11.557082
+2387926,"Helge Væringsaasens veg 30, Elverum",60.891055,11.563496
+2387927,"Olav Schulstads veg 7, Elverum",60.888343,11.557748
+2387928,"Fredriksbergvegen 4, Elverum",60.890169,11.561434
+2387929,"Helge Væringsaasens veg 11D, Elverum",60.888616,11.566084
+2387930,"Storgata 1, Elverum",60.884029,11.560721
+2387931,"Fredriksbergvegen 3, Elverum",60.890928,11.562103
+2387932,"Helge Væringsaasens veg 11C, Elverum",60.888616,11.566084
+2387933,"Fredriksbergvegen 2, Elverum",60.889907,11.561505
+2387934,"Helge Væringsaasens veg 11B, Elverum",60.888616,11.566084
+2387935,"Fredriksbergvegen 1, Elverum",60.890116,11.562315
+2387936,"Helge Væringsaasens veg 11A, Elverum",60.888616,11.566084
+2387937,"Fredriksbergvegen 8, Elverum",60.890531,11.561279
+2387938,"Helge Væringsaasens veg 11H, Elverum",60.888616,11.566084
+2387939,"Fredriksbergvegen 6, Elverum",60.890342,11.561301
+2387940,"Helge Væringsaasens veg 11G, Elverum",60.888346,11.56562
+2387941,"Fredriksbergvegen 5B, Elverum",60.890929,11.562564
+2387942,"Helge Væringsaasens veg 11F, Elverum",60.888337,11.565619
+2387943,"Fredriksbergvegen 5A, Elverum",60.890921,11.562969
+2387944,"Helge Væringsaasens veg 11E, Elverum",60.888616,11.566084
+2387945,"Storgata 2, Elverum",60.884122,11.561945
+2387946,"Fredriksbergvegen 12, Elverum",60.89103,11.561485
+2387947,"Helge Væringsaasens veg 13B, Elverum",60.889479,11.565582
+2387948,"Helge Væringsaasens veg 13A, Elverum",60.889479,11.565582
+2387949,"Fredriksbergvegen 10, Elverum",60.890692,11.561292
+2387950,"Helge Væringsaasens veg 11J, Elverum",60.888382,11.565623
+2387951,"Helge Væringsaasens veg 11I, Elverum",60.888364,11.565621
+2387952,"Helge Væringsaasens veg 15B, Elverum",60.890113,11.566241
+2387953,"Fredriksbergvegen 16, Elverum",60.891533,11.56147
+2387954,"Helge Væringsaasens veg 15A, Elverum",60.890113,11.566241
+2387955,"Fredriksbergvegen 14, Elverum",60.891265,11.56143
+2387956,"Helge Væringsaasens veg 14, Elverum",60.888573,11.563131
+2387958,"Helge Væringsaasens veg 13C, Elverum",60.889479,11.565582
+2387959,"Fredensvoldvegen 12, Elverum",60.890329,11.555861
+2387960,"Fredensvoldvegen 11, Elverum",60.889577,11.557589
+2387961,"Fredensvoldvegen 10, Elverum",60.889953,11.556218
+2387962,"Fredensvoldvegen 9, Elverum",60.889793,11.55757
+2387963,"Fredensvoldvegen 17A, Elverum",60.890207,11.557774
+2387964,"Fredensvoldvegen 16C, Elverum",60.89094,11.555357
+2387965,"Fredensvoldvegen 15, Elverum",60.890231,11.557217
+2387966,"Fredensvoldvegen 13, Elverum",60.889801,11.557128
+2387967,"Fredensvoldvegen 25, Elverum",60.890421,11.557122
+2387968,"Fredensvoldvegen 22, Elverum",60.891764,11.555478
+2387969,"Fredensvoldvegen 19, Elverum",60.890069,11.55678
+2387970,"Fredensvoldvegen 18, Elverum",60.891362,11.555372
+2387971,"Fredensvoldvegen 41, Elverum",60.891402,11.557514
+2387972,"Helge Væringsaasens veg 7, Elverum",60.888163,11.563928
+2387973,"Fredensvoldvegen 37, Elverum",60.89126,11.556931
+2387974,"Helge Væringsaasens veg 6, Elverum",60.887287,11.562291
+2387975,"Fredensvoldvegen 35, Elverum",60.891467,11.556948
+2387976,"Helge Væringsaasens veg 5, Elverum",60.888089,11.564512
+2387977,"Fredensvoldvegen 31, Elverum",60.891171,11.555947
+2387978,"Helge Væringsaasens veg 1, Elverum",60.886942,11.562945
+2387979,"Korsvegen 9, Elverum",60.889523,11.559023
+2387980,"Korsvegen 8, Elverum",60.888547,11.558391
+2387981,"Korsvegen 7, Elverum",60.889152,11.559177
+2387982,"Korsvegen 6, Elverum",60.888484,11.558405
+2387983,"Korsvegen 16, Elverum",60.890066,11.559269
+2387984,"Korsvegen 14, Elverum",60.890176,11.558669
+2387985,"Korsvegen 12, Elverum",60.889923,11.558741
+2387986,"Korsvegen 10, Elverum",60.889013,11.55841
+2387987,"Fredensvoldvegen 5, Elverum",60.889013,11.557888
+2387988,"Kortgardvegen 4, Elverum",60.885029,11.55964
+2387989,"Fredensvoldvegen 4, Elverum",60.888925,11.556929
+2387990,"Kortgardvegen 3, Elverum",60.885218,11.559618
+2387991,"Fredensvoldvegen 3, Elverum",60.888702,11.557777
+2387992,"Kortgardvegen 2, Elverum",60.885049,11.559973
+2387993,"Fredensvoldvegen 1, Elverum",60.888364,11.557603
+2387994,"Kortgardvegen 1, Elverum",60.885221,11.559895
+2387995,"Fredensvoldvegen 8, Elverum",60.889614,11.556578
+2387996,"Fredensvoldvegen 7, Elverum",60.889311,11.558342
+2387997,"Fredensvoldvegen 6B, Elverum",60.889245,11.556604
+2387998,"Fredensvoldvegen 6A, Elverum",60.88919,11.557134
+2387999,"Korsbakkvegen 10, Elverum",60.886947,11.564568
+2388001,"Korsbakkvegen 9, Elverum",60.887836,11.564104
+2388003,"Sorgenfrivegen 12, Elverum",60.889539,11.560517
+2388004,"Korsbakkvegen 8, Elverum",60.887348,11.564729
+2388006,"Sorgenfrivegen 10, Elverum",60.889511,11.56105
+2388007,"Korsbakkvegen 7A, Elverum",60.887662,11.564754
+2388009,"Sorgenfrivegen 9, Elverum",60.889919,11.5604
+2388010,"Korsbakkvegen 14A, Elverum",60.88745,11.56411
+2388012,"Korsbakkvegen 13, Elverum",60.888386,11.561199
+2388014,"Korsbakkvegen 12, Elverum",60.887032,11.563855
+2388016,"Korsbakkvegen 11, Elverum",60.887882,11.563592
+2388018,"Korsbakkvegen 20, Elverum",60.887537,11.562348
+2388020,"Korsbakkvegen 18, Elverum",60.887541,11.563067
+2388022,"Korsbakkvegen 16, Elverum",60.887549,11.563639
+2388024,"Korsbakkvegen 14B, Elverum",60.887471,11.563928
+2388026,"Korsvegen 5, Elverum",60.888901,11.55912
+2388028,"Korsvegen 4, Elverum",60.888421,11.5584
+2388030,"Korsvegen 2, Elverum",60.888349,11.558412
+2388032,"Korsbakkvegen 22, Elverum",60.887613,11.561653
+2388034,"Sorgenfrivegen 4, Elverum",60.889524,11.562747
+2388035,"Sorgenfrivegen 3, Elverum",60.889847,11.562754
+2388036,"Sorgenfrivegen 2, Elverum",60.889459,11.563313
+2388037,"Sorgenfrivegen 1, Elverum",60.889873,11.563291
+2388038,"Korsbakkvegen 6, Elverum",60.887222,11.565216
+2388040,"Sorgenfrivegen 8, Elverum",60.889547,11.56155
+2388041,"Korsbakkvegen 5, Elverum",60.8877,11.566066
+2388043,"Sorgenfrivegen 7, Elverum",60.889927,11.560935
+2388044,"Korsbakkvegen 3, Elverum",60.887469,11.565937
+2388046,"Sorgenfrivegen 6, Elverum",60.88951,11.562063
+2388047,"Korsbakkvegen 2, Elverum",60.886966,11.565933
+2388049,"Sorgenfrivegen 5, Elverum",60.889855,11.562331
+2388050,"Nordlivegen 8, Elverum",60.890677,11.571485
+2388051,"Nordlivegen 6, Elverum",60.890313,11.571272
+2388052,"Nordlivegen 5B, Elverum",60.889607,11.571565
+2388053,"Nordlivegen 5A, Elverum",60.889542,11.571689
+2388054,"Nordlivegen 13, Elverum",60.890513,11.572099
+2388055,"Nordlivegen 12, Elverum",60.891111,11.571354
+2388056,"Nordlivegen 10, Elverum",60.890961,11.571674
+2388057,"Nordlivegen 9, Elverum",60.890049,11.572394
+2388058,"Nordlivegen 27, Elverum",60.891466,11.572065
+2388059,"Nordlivegen 25, Elverum",60.891261,11.572417
+2388060,"Nordlivegen 23, Elverum",60.891412,11.573001
+2388061,"Nordlivegen 17, Elverum",60.891085,11.572274
+2388062,"Nordlivegen 31, Elverum",60.891568,11.57093
+2388063,"Nordlivegen 29, Elverum",60.891598,11.571707
+2388076,"Nordlivegen 1, Elverum",60.889515,11.570747
+2388083,"Nordlivegen 4, Elverum",60.889888,11.570961
+2388084,"Nordlivegen 3B, Elverum",60.889462,11.571148
+2388085,"Nordlivegen 3A, Elverum",60.889413,11.571365
+2388086,"Nordlivegen 2, Elverum",60.89004,11.570531
+2388102,"Strandbygdvegen 80B, Elverum",60.891644,11.559451
+2388104,"Strandbygdvegen 80A, Elverum",60.891659,11.559581
+2388106,"Strandbygdvegen 74, Elverum",60.891177,11.559432
+2388108,"Strandbygdvegen 72, Elverum",60.890968,11.559695
+2388110,"Strandbygdvegen 82B, Elverum",60.891634,11.558989
+2388111,"Strandbygdvegen 82A, Elverum",60.891632,11.559118
+2388115,"Libergvegen 4, Elverum",60.892409,11.573469
+2388116,"Libergvegen 3, Elverum",60.892323,11.574199
+2388117,"Olav Schulstads veg 25, Elverum",60.886788,11.553569
+2388118,"Libergvegen 2, Elverum",60.892177,11.573376
+2388119,"Olav Schulstads veg 21, Elverum",60.88827,11.553558
+2388120,"Libergvegen 10, Elverum",60.892737,11.572297
+2388121,"Strandbygdvegen 44, Elverum",60.888604,11.55965
+2388123,"Libergvegen 9, Elverum",60.893086,11.574242
+2388125,"Libergvegen 8, Elverum",60.892682,11.572827
+2388126,"Libergvegen 6, Elverum",60.892668,11.573545
+2388127,"Libergvegen 15, Elverum",60.893256,11.572412
+2388128,"Strandbygdvegen 62, Elverum",60.889988,11.559595
+2388130,"Libergvegen 13, Elverum",60.89307,11.573208
+2388131,"Strandbygdvegen 54, Elverum",60.889575,11.55958
+2388133,"Libergvegen 12, Elverum",60.892742,11.571578
+2388134,"Strandbygdvegen 52, Elverum",60.889262,11.559518
+2388136,"Libergvegen 11, Elverum",60.893093,11.573856
+2388137,"Strandbygdvegen 48, Elverum",60.888927,11.559657
+2388139,"Strandbygdvegen 71, Elverum",60.891061,11.560344
+2388141,"Strandbygdvegen 70, Elverum",60.890707,11.55956
+2388143,"Strandbygdvegen 67, Elverum",60.890517,11.560614
+2388145,"Strandbygdvegen 63, Elverum",60.890167,11.560586
+2388168,"Sandlivegen 6, Elverum",60.890403,11.562319
+2388169,"Sandlivegen 4, Elverum",60.890384,11.562853
+2388173,"Strandbygdvegen 76, Elverum",60.891292,11.559072
+2388180,"Sandlivegen 3, Elverum",60.890709,11.562289
+2388181,"Sandlivegen 2, Elverum",60.890393,11.563351
+2388182,"Sandlivegen 1, Elverum",60.890698,11.562896
+2388184,"Sven Morens veg 36D, Elverum",60.889988,11.569494
+2388186,"Sven Morens veg 36C, Elverum",60.889925,11.569471
+2388188,"Sven Morens veg 36B, Elverum",60.889863,11.569447
+2388190,"Sven Morens veg 36A, Elverum",60.889792,11.569405
+2388197,"Olav Schulstads veg 2, Elverum",60.887367,11.559974
+2388207,"Sven Morens veg 26, Elverum",60.888789,11.56831
+2388209,"Sven Morens veg 24, Elverum",60.888752,11.568805
+2388211,"Sven Morens veg 22, Elverum",60.888499,11.568416
+2388213,"Sven Morens veg 20, Elverum",60.888136,11.568165
+2388215,"Sven Morens veg 32B, Elverum",60.889205,11.569099
+2388217,"Sven Morens veg 32A, Elverum",60.889133,11.569082
+2388219,"Sven Morens veg 30, Elverum",60.889011,11.5689
+2388221,"Sven Morens veg 28, Elverum",60.889108,11.568078
+2388223,"Sven Morens veg 34B, Elverum",60.889524,11.568849
+2388225,"Sven Morens veg 34A, Elverum",60.889435,11.568805
+2388227,"Sven Morens veg 32D, Elverum",60.889339,11.569147
+2388229,"Sven Morens veg 32C, Elverum",60.889276,11.569124
+2388231,"Sven Morens veg 34F, Elverum",60.889809,11.569001
+2388233,"Sven Morens veg 34E, Elverum",60.88972,11.568938
+2388235,"Sven Morens veg 34D, Elverum",60.889658,11.568915
+2388237,"Sven Morens veg 34C, Elverum",60.889595,11.568891
+2388238,"Støavegen 18, Elverum",60.890465,11.554821
+2388242,"Støavegen 7, Elverum",60.889346,11.55558
+2388243,"Støavegen 6, Elverum",60.889002,11.55428
+2388244,"Støavegen 5, Elverum",60.889036,11.556255
+2388245,"Støavegen 4, Elverum",60.88897,11.555033
+2388246,"Støavegen 11, Elverum",60.889986,11.555465
+2388247,"Støavegen 10, Elverum",60.889386,11.554882
+2388248,"Støavegen 9, Elverum",60.889698,11.555497
+2388249,"Støavegen 8, Elverum",60.889312,11.554065
+2388250,"Grønlandsgutua 14, Elverum",60.889539,11.567154
+2388251,"Støavegen 16, Elverum",60.889924,11.554483
+2388252,"Støavegen 15, Elverum",60.890391,11.555405
+2388253,"Støavegen 14, Elverum",60.88971,11.554871
+2388254,"Støavegen 13, Elverum",60.890319,11.555399
+2388280,"Fagervikvegen 12, Elverum",60.891205,11.557498
+2388281,"Fagervikvegen 10, Elverum",60.890998,11.557482
+2388282,"Fagervikvegen 9, Elverum",60.891415,11.558713
+2388289,"Fagervikvegen 2B, Elverum",60.890482,11.559118
+2388290,"Fagervikvegen 2A, Elverum",60.890297,11.559417
+2388291,"Fagervikvegen 7, Elverum",60.891154,11.558729
+2388292,"Fagervikvegen 6, Elverum",60.890448,11.557604
+2388293,"Fagervikvegen 5, Elverum",60.890953,11.558898
+2388294,"Fagervikvegen 3, Elverum",60.890728,11.558935
+2388302,"Andreas Grøttings veg 42, Elverum",60.892375,11.572894
+2388304,"Andreas Grøttings veg 40, Elverum",60.892412,11.572363
+2388305,"Grønlandsgutua 19, Elverum",60.890061,11.568468
+2388307,"Andreas Grøttings veg 38, Elverum",60.892493,11.571908
+2388308,"Grønlandsgutua 15, Elverum",60.889708,11.568181
+2388310,"Andreas Grøttings veg 33, Elverum",60.891685,11.573779
+2388311,"Grønlandsgutua 13, Elverum",60.889404,11.568102
+2388314,"Andreas Grøttings veg 17B, Elverum",60.891143,11.565918
+2388316,"Andreas Grøttings veg 17A, Elverum",60.891143,11.565918
+2388319,"Andreas Grøttings veg 15B, Elverum",60.891637,11.565419
+2388321,"Andreas Grøttings veg 19B, Elverum",60.890766,11.566368
+2388323,"Andreas Grøttings veg 19A, Elverum",60.890766,11.566368
+2388326,"Andreas Grøttings veg 17C, Elverum",60.891143,11.565918
+2388329,"Andreas Grøttings veg 25, Elverum",60.891993,11.571739
+2388331,"Andreas Grøttings veg 23, Elverum",60.892067,11.571173
+2388333,"Andreas Grøttings veg 21, Elverum",60.891351,11.568682
+2388335,"Grønlandsgutua 10, Elverum",60.888817,11.566856
+2388337,"Andreas Grøttings veg 31, Elverum",60.891765,11.573325
+2388338,"Grønlandsgutua 5, Elverum",60.888541,11.567663
+2388340,"Andreas Grøttings veg 29, Elverum",60.891865,11.572816
+2388341,"Grønlandsgutua 1, Elverum",60.887957,11.567635
+2388342,"Andreas Grøttings veg 27, Elverum",60.891956,11.572289
+2388344,"Andreas Grøttings veg 3, Elverum",60.891301,11.560917
+2388347,"Andreas Grøttings veg 1B, Elverum",60.891511,11.560749
+2388349,"Andreas Grøttings veg 1A, Elverum",60.891491,11.560416
+2388354,"Eivind Torps veg 6, Elverum",60.884889,11.558467
+2388355,"Andreas Grøttings veg 5, Elverum",60.891546,11.562227
+2388359,"Andreas Grøttings veg 11B, Elverum",60.891482,11.564176
+2388361,"Andreas Grøttings veg 11A, Elverum",60.891482,11.564176
+2388363,"Andreas Grøttings veg 15A, Elverum",60.89146,11.565421
+2388366,"Andreas Grøttings veg 13B, Elverum",60.891078,11.564623
+2388368,"Andreas Grøttings veg 13A, Elverum",60.891078,11.564623
+2388369,"Grønlandsgutua 12C, Elverum",60.88925,11.567112
+2388370,"Grønlandsgutua 12B, Elverum",60.889134,11.567041
+2388371,"Grønlandsgutua 12A, Elverum",60.889072,11.567006
+2388375,"Grønlandsgutua 12D, Elverum",60.889311,11.567152
+2388386,"Lærerskolealleen 1, Elverum",60.885694,11.558181
+2388387,"Tangenvegen 24, Elverum",60.893793,11.575332
+2388391,"Tangenvegen 14, Elverum",60.893623,11.572958
+2388392,"Tangenvegen 13, Elverum",60.893206,11.573146
+2388393,"Tangenvegen 12, Elverum",60.893604,11.572532
+2388394,"Tangenvegen 26, Elverum",60.89401,11.574796
+2388395,"Tangenvegen 18, Elverum",60.893636,11.574157
+2388396,"Torggata 13, Elverum",60.885788,11.562686
+2388397,"Torggata 11, Elverum",60.885788,11.562686
+2388398,"Torggata 9, Elverum",60.885788,11.562686
+2388399,"Torggata 7, Elverum",60.885788,11.562686
+2388400,"Grønlandsgutua 8, Elverum",60.888543,11.567074
+2388404,"Tangenvegen 34, Elverum",60.894315,11.575761
+2388407,"Tangenvegen 8, Elverum",60.893485,11.571232
+2388408,"Storgata 4, Elverum",60.88386,11.561555
+2388411,"Tangenvegen 23, Elverum",60.893095,11.574704
+2388412,"Tangenvegen 22, Elverum",60.893652,11.57473
+2388413,"Tangenvegen 25, Elverum",60.892873,11.574557
+2388418,"Støavegen 12, Elverum",60.88959,11.554051
+2388423,"Torggata 5, Elverum",60.885253,11.562459
+2388424,"Grønlandsgutua 4B, Elverum",60.88815,11.566932
+2388425,"Torggata 1, Elverum",60.885573,11.562669
+2388426,"Grønlandsgutua 4A, Elverum",60.887952,11.566989
+2388427,"Torggata 3, Elverum",60.884901,11.56256
+2388428,"Grønlandsgutua 2B, Elverum",60.887695,11.566803
+2388430,"Grønlandsgutua 2A, Elverum",60.88758,11.567181
+2388431,"Frustuvegen 14, Elverum",60.885754,11.563052
+2388433,"Frustuvegen 12, Elverum",60.885637,11.56308
+2388443,"Fredensvoldvegen 27, Elverum",60.890736,11.556189
+2388445,"Fredensvoldvegen 21, Elverum",60.890268,11.556704
+2388446,"Frustuvegen 8, Elverum",60.885263,11.562902
+2388447,"Frustuvegen 6, Elverum",60.885263,11.562902
+2388448,"Torggata 18, Elverum",60.88598,11.559661
+2388449,"Eivind Torps veg 8, Elverum",60.885366,11.558929
+2388450,"Torggata 15, Elverum",60.885776,11.561414
+2388451,"Torggata 12, Elverum",60.885551,11.560068
+2388452,"Frustuvegen 4, Elverum",60.885042,11.56318
+2388454,"Korsbakkvegen 17, Elverum",60.888707,11.562736
+2388455,"Korsbakkvegen 15, Elverum",60.888546,11.56171
+2388467,"Lundgaardvegen 23, Elverum",60.884042,11.557662
+2388468,"Lundgaardvegen 19, Elverum",60.883775,11.558009
+2388469,"Andreas Grøttings veg 7B, Elverum",60.891468,11.562995
+2388470,"Andreas Grøttings veg 7A, Elverum",60.891588,11.56282
+2388475,"Strandbygdvegen 73, Elverum",60.89097,11.560872
+2388481,"Nordlivegen 5F, Elverum",60.8897,11.571849
+2388483,"Nordlivegen 5E, Elverum",60.88972,11.571777
+2388485,"Sven Morens veg 52B, Elverum",60.891137,11.569992
+2388486,"Nordlivegen 5D, Elverum",60.889739,11.571705
+2388488,"Sven Morens veg 52A, Elverum",60.890867,11.570026
+2388489,"Nordlivegen 5C, Elverum",60.889767,11.571633
+2388492,"Sven Morens veg 31C, Elverum",60.888595,11.57035
+2388494,"Sven Morens veg 31B, Elverum",60.888627,11.570217
+2388496,"Sven Morens veg 31A, Elverum",60.888668,11.570033
+2388511,"Tangenvegen 10, Elverum",60.893553,11.571883
+2388512,"Nordlivegen 21, Elverum",60.891142,11.573477
+2388525,"Fredensvoldvegen 33B, Elverum",60.891508,11.556177
+2388527,"Fredensvoldvegen 33A, Elverum",60.891398,11.556297
+2388532,"Helge Væringsaasens veg 3A, Elverum",60.887272,11.563045
+2388534,"Helge Væringsaasens veg 3B, Elverum",60.887168,11.563332
+2388545,"Kanalvegen 20B, Elverum",60.890601,11.568437
+2388546,"Kanalvegen 9B, Elverum",60.89094,11.568557
+2388547,"Kanalvegen 9A, Elverum",60.89094,11.568557
+2388548,"Sven Morens veg 33, Elverum",60.888968,11.569744
+2388550,"Lundgaardvegen 21, Elverum",60.883895,11.557853
+2388557,"Kanalvegen 7B, Elverum",60.89094,11.568557
+2388558,"Kanalvegen 7A, Elverum",60.89094,11.568557
+2388559,"Kanalvegen 5B, Elverum",60.89094,11.568557
+2388560,"Kanalvegen 5A, Elverum",60.89094,11.568557
+2388561,"Sven Morens veg 10, Elverum",60.88651,11.563781
+2388562,"Sven Morens veg 7, Elverum",60.885914,11.566936
+2388563,"Sven Morens veg 8, Elverum",60.886222,11.564428
+2388564,"Sven Morens veg 6, Elverum",60.886311,11.565438
+2388565,"Sven Morens veg 11D, Elverum",60.887123,11.568047
+2388566,"Sven Morens veg 11C, Elverum",60.887123,11.568047
+2388567,"Sven Morens veg 11B, Elverum",60.887123,11.568047
+2388568,"Sven Morens veg 11A, Elverum",60.887123,11.568047
+2388569,"Sven Morens veg 23, Elverum",60.888239,11.569814
+2388570,"Sven Morens veg 29, Elverum",60.888423,11.570087
+2388571,"Sven Morens veg 37, Elverum",60.888808,11.570616
+2388572,"Torggata 10, Elverum",60.88548,11.560487
+2388573,"Torggata 8, Elverum",60.885028,11.560598
+2388574,"Torggata 6, Elverum",60.88483,11.560656
+2388575,"Torggata 4, Elverum",60.884675,11.560754
+2388576,"Sven Morens veg 13, Elverum",60.887203,11.567611
+2388577,"Sven Morens veg 53, Elverum",60.891164,11.570916
+2388578,"Lundgaardvegen 8, Elverum",60.884763,11.56371
+2388579,"Lundgaardvegen 11, Elverum",60.88485,11.562869
+2388580,"Sven Morens veg 39C, Elverum",60.889217,11.570354
+2388581,"Sven Morens veg 21, Elverum",60.888059,11.568897
+2388582,"Sven Morens veg 17B, Elverum",60.887634,11.568568
+2388583,"Sven Morens veg 17A, Elverum",60.887634,11.568568
+2388584,"Sven Morens veg 51, Elverum",60.890795,11.570979
+2388585,"Sven Morens veg 49, Elverum",60.890564,11.570831
+2388586,"Sven Morens veg 47, Elverum",60.89037,11.570668
+2388587,"Sven Morens veg 43, Elverum",60.889597,11.5702
+2388588,"Sven Morens veg 4, Elverum",60.886088,11.565807
+2388589,"Sven Morens veg 5, Elverum",60.885796,11.566521
+2388590,"Sven Morens veg 3, Elverum",60.885633,11.566103
+2388591,"Sven Morens veg 1, Elverum",60.8854,11.565605
+2388594,"Lundgaardvegen 4, Elverum",60.884952,11.56461
+2388595,"Lundgaardvegen 17, Elverum",60.883978,11.558689
+2388596,"Lundgaardvegen 15, Elverum",60.88435,11.559917
+2388597,"Frustuvegen 1, Elverum",60.885419,11.56415
+2388598,"Lundgaardvegen 12, Elverum",60.884336,11.562515
+2388599,"Lundgaardvegen 14, Elverum",60.884319,11.561979
+2388600,"Lundgaardvegen 16, Elverum",60.884244,11.561715
+2388601,"Lundgaardvegen 2, Elverum",60.885137,11.564791
+2388624,"Nordlivegen 33, Elverum",60.891737,11.571018
+2388628,"Fredensvoldvegen 39, Elverum",60.891038,11.556803
+2388630,"Helge Væringsaasens veg 21D, Elverum",60.890445,11.565291
+2388632,"Helge Væringsaasens veg 21B, Elverum",60.890032,11.565295
+2388647,"Kanalvegen 21, Elverum",60.890539,11.567898
+2388657,"Kanalvegen 6, Elverum",60.890163,11.56973
+2388658,"Kanalvegen 4D, Elverum",60.890389,11.569674
+2388659,"Kanalvegen 4C, Elverum",60.890389,11.569674
+2388660,"Kanalvegen 4B, Elverum",60.890389,11.569674
+2388661,"Kanalvegen 14, Elverum",60.89042,11.568976
+2388662,"Kanalvegen 12, Elverum",60.890299,11.569187
+2388663,"Kanalvegen 10, Elverum",60.890243,11.56933
+2388664,"Kanalvegen 8, Elverum",60.890185,11.569547
+2388665,"Kanalvegen 11, Elverum",60.891042,11.567901
+2388666,"Kanalvegen 18B, Elverum",60.890601,11.568437
+2388667,"Kanalvegen 18A, Elverum",60.890601,11.568437
+2388668,"Kanalvegen 16, Elverum",60.890493,11.568908
+2388669,"Kanalvegen 19, Elverum",60.89062,11.567904
+2388670,"Kanalvegen 17, Elverum",60.890764,11.567898
+2388671,"Kanalvegen 15, Elverum",60.890827,11.567903
+2388672,"Kanalvegen 13, Elverum",60.89097,11.567914
+2388673,"Kanalvegen 2A, Elverum",60.890619,11.569379
+2388674,"Kanalvegen 4A, Elverum",60.890389,11.569674
+2388675,"Kanalvegen 2D, Elverum",60.890619,11.569379
+2388676,"Kanalvegen 2C, Elverum",60.890619,11.569379
+2388677,"Kanalvegen 2B, Elverum",60.890619,11.569379
+2388678,"Fredensvoldvegen 29B, Elverum",60.890945,11.556039
+2388679,"Fredensvoldvegen 29A, Elverum",60.890841,11.556787
+2388680,"Helge Væringsaasens veg 9L, Elverum",60.888642,11.564722
+2388681,"Helge Væringsaasens veg 9K, Elverum",60.888824,11.565068
+2388682,"Fredensvoldvegen 24, Elverum",60.891785,11.556273
+2388683,"Helge Væringsaasens veg 9J, Elverum",60.888824,11.565068
+2388684,"Fredensvoldvegen 26, Elverum",60.891827,11.556442
+2388685,"Helge Væringsaasens veg 9I, Elverum",60.888824,11.565068
+2388686,"Helge Væringsaasens veg 9P, Elverum",60.888402,11.564592
+2388687,"Helge Væringsaasens veg 9O, Elverum",60.888402,11.564592
+2388688,"Helge Væringsaasens veg 9N, Elverum",60.888642,11.564722
+2388689,"Korsvegen 3B, Elverum",60.8886,11.559011
+2388690,"Helge Væringsaasens veg 9M, Elverum",60.888642,11.564722
+2388692,"Korsvegen 3A, Elverum",60.888577,11.559168
+2388693,"Helge Væringsaasens veg 9T, Elverum",60.888243,11.564893
+2388694,"Helge Væringsaasens veg 9S, Elverum",60.888243,11.564893
+2388695,"Helge Væringsaasens veg 9R, Elverum",60.888243,11.564893
+2388696,"Helge Væringsaasens veg 9Q, Elverum",60.888243,11.564893
+2388701,"Tangenvegen 31, Elverum",60.893984,11.576122
+2388709,"Helge Væringsaasens veg 9D, Elverum",60.888522,11.56392
+2388712,"Helge Væringsaasens veg 9C, Elverum",60.888727,11.564028
+2388714,"Helge Væringsaasens veg 9B, Elverum",60.888727,11.564028
+2388716,"Helge Væringsaasens veg 9A, Elverum",60.888823,11.564184
+2388717,"Helge Væringsaasens veg 9H, Elverum",60.888357,11.564128
+2388718,"Helge Væringsaasens veg 9G, Elverum",60.888357,11.564128
+2388720,"Helge Væringsaasens veg 9F, Elverum",60.888357,11.564128
+2388722,"Helge Væringsaasens veg 9E, Elverum",60.888522,11.56392
+2388737,"Grønlandsgutua 7, Elverum",60.888789,11.56831
+2388757,"Olav Schulstads veg 17, Elverum",60.888623,11.55436
+2388772,"Fredensvoldvegen 23, Elverum",60.890489,11.556409
+2388785,"Sven Morens veg 18, Elverum",60.888302,11.568382
+2388807,"Sven Morens veg 41A, Elverum",60.889111,11.570714
+2388823,"Frustuvegen 2A, Elverum",60.885189,11.563486
+2388824,"Andreas Grøttings veg 9A, Elverum",60.891588,11.563318
+2388825,"Lundgaardvegen 3, Elverum",60.884975,11.562916
+2388826,"Lundgaardvegen 1, Elverum",60.885079,11.563588
+2388827,"Frustuvegen 2B, Elverum",60.885307,11.563422
+2388829,"Lundgaardvegen 7, Elverum",60.884892,11.56302
+2388830,"Lundgaardvegen 5, Elverum",60.885011,11.563398
+2388836,"Sven Morens veg 19A, Elverum",60.887801,11.569226
+2388844,"Nordlivegen 7B, Elverum",60.890107,11.571698
+2388845,"Nordlivegen 7A, Elverum",60.890047,11.572025
+2388849,"Helge Væringsaasens veg 10, Elverum",60.888021,11.562903
+2388871,"Lundgaardvegen 13, Elverum",60.884264,11.560374
+2388872,"Fagervikvegen 4B, Elverum",60.890438,11.558137
+2388873,"Fagervikvegen 4A, Elverum",60.890419,11.55867
+2388883,"Sven Morens veg 41C, Elverum",60.889112,11.570659
+2388884,"Sven Morens veg 41D, Elverum",60.889183,11.570702
+2388885,"Sven Morens veg 41B, Elverum",60.889174,11.570738
+2388886,"Korsbakkvegen 19, Elverum",60.888164,11.562435
+2388898,"Fredriksbergvegen 7B, Elverum",60.891222,11.562717
+2388901,"Sven Morens veg 27C, Elverum",60.888543,11.569415
+2388902,"Sven Morens veg 27B, Elverum",60.888543,11.569415
+2388903,"Sven Morens veg 27A, Elverum",60.888543,11.569415
+2388904,"Fredriksbergvegen 7A, Elverum",60.891278,11.562132
+2388912,"Korsbakkvegen 7C, Elverum",60.887715,11.564814
+2388930,"Helge Væringsaasens veg 4, Elverum",60.887177,11.561932
+2388931,"Helge Væringsaasens veg 2, Elverum",60.887129,11.562094
+2388944,"Korsbakkvegen 7B, Elverum",60.887787,11.564782
+2388946,"Korsbakkvegen 7D, Elverum",60.887634,11.564789
+2389014,"Grønlandsgutua 6B, Elverum",60.888337,11.567039
+2389015,"Grønlandsgutua 6A, Elverum",60.888337,11.567039
+2389016,"Grønlandsgutua 6D, Elverum",60.888337,11.567039
+2389020,"Sven Morens veg 25, Elverum",60.888274,11.569241
+2490238,"Finnlandsvegen 2B, Elverum",60.892183,11.566961
+2494344,"Tangenvegen 19B, Elverum",60.893327,11.574933
+2494368,"Tangenvegen 19A, Elverum",60.893317,11.574652

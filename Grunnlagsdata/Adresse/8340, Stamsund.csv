@@ -1,0 +1,993 @@
+,Navn,Long,Lat
+1975,"Storfjord, 43/70, Stamsund",68.159629,13.75902
+1979,"Finstad, 57/45, Stamsund",68.139448,13.754197
+21063,"52/634, Stamsund",68.126227,13.856499
+31933,"57/44, Stamsund",68.140262,13.753106
+34371,"52/633, Stamsund",68.126269,13.857315
+34692,"52/675, Stamsund",68.126072,13.856478
+34693,"52/676, Stamsund",68.126031,13.856293
+34694,"52/664, Stamsund",68.126679,13.856922
+34695,"52/663, Stamsund",68.126625,13.857052
+35430,"52/636, Stamsund",68.126398,13.856861
+41775,"53/9, Stamsund",68.125858,13.855837
+43703,"48/26, Stamsund",68.163336,13.805802
+45127,"52/614, Stamsund",68.126293,13.858514
+46434,"Storfjord, 43/12, Stamsund",68.159949,13.753327
+49811,"Finstad, 57/5, Stamsund",68.141053,13.749296
+308016,"Åsen 17, Stamsund",68.13429,13.838027
+308017,"Åsen 15, Stamsund",68.133955,13.837659
+308018,"Nygata 2, Stamsund",68.1351,13.83967
+308019,"Åsen 20, Stamsund",68.134618,13.838732
+308020,"Åsen 7, Stamsund",68.133831,13.837882
+308022,"Åsen 6, Stamsund",68.133221,13.837792
+308023,"Åsen 14, Stamsund",68.134111,13.836905
+308024,"Åsen 10, Stamsund",68.133838,13.836341
+308025,"Ringveien 58, Stamsund",68.129434,13.847895
+308026,"Ringveien 56, Stamsund",68.129358,13.847346
+308027,"Åsen 5, Stamsund",68.133671,13.83801
+308028,"Ringveien 53, Stamsund",68.128943,13.846934
+308029,"Ringveien 51, Stamsund",68.128885,13.846335
+308030,"Ringveien 55, Stamsund",68.129018,13.847411
+308031,"Ringveien 54, Stamsund",68.129264,13.846677
+308058,"Halsbakkan 6, Stamsund",68.129101,13.850414
+308059,"Halsbakkan 4, Stamsund",68.129248,13.850816
+308060,"Halsbakkan 7, Stamsund",68.129164,13.849136
+308061,"Skolegata 11, Stamsund",68.137294,13.831497
+308062,"Halsbakkan 3, Stamsund",68.129419,13.850904
+308063,"Halsbakkan 2, Stamsund",68.129349,13.851196
+308064,"Skolegata 4, Stamsund",68.13718,13.835763
+308065,"Skolegata 9, Stamsund",68.137314,13.831833
+308066,"Skolegata 8, Stamsund",68.137061,13.832809
+308087,"Ringveien 45, Stamsund",68.128683,13.844445
+308088,"Ringveien 44, Stamsund",68.128846,13.843306
+308089,"Ringveien 49, Stamsund",68.128837,13.84588
+308090,"Ringveien 47, Stamsund",68.12875,13.845091
+308091,"Ringveien 39, Stamsund",68.128361,13.842031
+308092,"Ringveien 35, Stamsund",68.128683,13.840571
+308093,"Ringveien 43, Stamsund",68.1284,13.843665
+308094,"Ringveien 42, Stamsund",68.128761,13.842733
+308095,"Ringveien 25, Stamsund",68.129566,13.837231
+308096,"Ringveien 23, Stamsund",68.129804,13.836738
+308097,"Ringveien 33, Stamsund",68.128797,13.840181
+308098,"Ringveien 12, Stamsund",68.130836,13.839284
+308099,"Ringveien 8, Stamsund",68.13106,13.840916
+308100,"Ringveien 17, Stamsund",68.130804,13.83724
+308101,"Ringveien 15, Stamsund",68.131084,13.837587
+308103,"Halsbakkan 40, Stamsund",68.128837,13.836931
+308104,"Halsbakkan 39, Stamsund",68.129117,13.837229
+308105,"Ringveien 6, Stamsund",68.131261,13.84145
+308106,"Ringveien 5, Stamsund",68.131683,13.841142
+308107,"Halsbakkan 32, Stamsund",68.12861,13.839107
+308108,"Halsbakkan 30, Stamsund",68.128378,13.839288
+308109,"Halsbakkan 38, Stamsund",68.128943,13.837936
+308110,"Halsbakkan 37, Stamsund",68.129089,13.838362
+308111,"Halsbakkan 21, Stamsund",68.128397,13.844627
+308112,"Halsbakkan 15, Stamsund",68.128458,13.846838
+308113,"Halsbakkan 29, Stamsund",68.128338,13.840035
+308114,"Halsbakkan 27, Stamsund",68.128356,13.841237
+308115,"Halsbakkan 10, Stamsund",68.128725,13.84974
+308116,"Halsbakkan 9, Stamsund",68.128985,13.849073
+308117,"Halsbakkan 13, Stamsund",68.128598,13.847721
+308118,"Halsbakkan 11, Stamsund",68.1289,13.848476
+308244,"Steineveien 170, Stamsund",68.138039,13.77567
+308257,"J.M.Johansens vei 24, Stamsund",68.122387,13.844664
+308259,"J.M.Johansens vei 26, Stamsund",68.122469,13.844829
+308267,"J.M.Johansens vei 94, Stamsund",68.126608,13.850058
+308268,"J.M.Johansens vei 92, Stamsund",68.126583,13.849457
+308269,"J.M.Johansens vei 107, Stamsund",68.126383,13.85253
+308270,"J.M.Johansens vei 80, Stamsund",68.124959,13.849442
+308271,"J.M.Johansens vei 78, Stamsund",68.124705,13.84895
+308272,"J.M.Johansens vei 90, Stamsund",68.126529,13.849436
+308273,"J.M.Johansens vei 82, Stamsund",68.125155,13.849264
+308274,"J.M.Johansens vei 62, Stamsund",68.124335,13.848656
+308275,"J.M.Johansens vei 58, Stamsund",68.124583,13.848283
+308276,"J.M.Johansens vei 76, Stamsund",68.124705,13.84895
+308277,"J.M.Johansens vei 74, Stamsund",68.124526,13.848983
+308278,"J.M.Johansens vei 48, Stamsund",68.123676,13.846813
+308279,"J.M.Johansens vei 46, Stamsund",68.123793,13.846783
+308280,"J.M.Johansens vei 56, Stamsund",68.124445,13.84776
+308281,"Fabrikkveien 22, Stamsund",68.146376,13.848804
+308282,"J.M.Johansens vei 52, Stamsund",68.124276,13.84659
+308283,"J.M.Johansens vei 39, Stamsund",68.123184,13.846958
+308284,"J.M.Johansens vei 38, Stamsund",68.123467,13.84639
+308285,"J.M.Johansens vei 42, Stamsund",68.123885,13.845936
+308286,"J.M.Johansens vei 40, Stamsund",68.123467,13.84639
+308287,"J.M.Johansens vei 34, Stamsund",68.122807,13.844307
+308288,"J.M.Johansens vei 33, Stamsund",68.12306,13.846326
+308289,"J.M.Johansens vei 36, Stamsund",68.123383,13.845985
+308290,"J.M.Johansens vei 35, Stamsund",68.123119,13.846446
+308291,"J.M.Johansens vei 30, Stamsund",68.122999,13.844946
+308292,"J.M.Johansens vei 28, Stamsund",68.122811,13.844908
+308293,"J.M.Johansens vei 20, Stamsund",68.122311,13.844019
+308294,"J.M.Johansens vei 22, Stamsund",68.122367,13.844353
+308295,"J.M.Johansens vei 173, Stamsund",68.131143,13.846005
+308296,"J.M.Johansens vei 171, Stamsund",68.131213,13.846988
+308297,"J.M.Johansens vei 190, Stamsund",68.132379,13.841853
+308298,"J.M.Johansens vei 189, Stamsund",68.132318,13.844647
+308299,"J.M.Johansens vei 165A, Stamsund",68.130607,13.847974
+308300,"J.M.Johansens vei 169, Stamsund",68.130872,13.846957
+308301,"J.M.Johansens vei 19, Stamsund",68.122022,13.845108
+308302,"J.M.Johansens vei 21, Stamsund",68.122135,13.845459
+308303,"J.M.Johansens vei 167, Stamsund",68.130833,13.847922
+308304,"J.M.Johansens vei 158, Stamsund",68.130232,13.848322
+308305,"J.M.Johansens vei 157, Stamsund",68.130421,13.84929
+308306,"J.M.Johansens vei 162, Stamsund",68.130299,13.847883
+308307,"J.M.Johansens vei 160, Stamsund",68.130284,13.848139
+308308,"J.M.Johansens vei 154, Stamsund",68.130041,13.848851
+308309,"J.M.Johansens vei 150, Stamsund",68.129869,13.849919
+308310,"J.M.Johansens vei 156, Stamsund",68.13019,13.848264
+308311,"J.M.Johansens vei 155, Stamsund",68.13034,13.849149
+308312,"J.M.Johansens vei 144, Stamsund",68.129472,13.852152
+308313,"J.M.Johansens vei 149, Stamsund",68.130243,13.850153
+308314,"J.M.Johansens vei 148, Stamsund",68.129722,13.850576
+308315,"J.M.Johansens vei 134, Stamsund",68.128573,13.855709
+308316,"J.M.Johansens vei 136, Stamsund",68.128563,13.855565
+308317,"J.M.Johansens vei 126, Stamsund",68.127882,13.85442
+308318,"J.M.Johansens vei 124, Stamsund",68.127963,13.854416
+308319,"J.M.Johansens vei 120, Stamsund",68.127916,13.854058
+308320,"J.M.Johansens vei 118, Stamsund",68.127863,13.854157
+308321,"J.M.Johansens vei 122, Stamsund",68.127953,13.8542
+308322,"Fabrikkveien 4, Stamsund",68.147684,13.843321
+308323,"Vikanveien 4, Stamsund",68.148615,13.844782
+308324,"Vikanveien 3, Stamsund",68.148335,13.844155
+308325,"Tabakkveien 40, Stamsund",68.143881,13.823074
+308326,"Tabakkveien 13, Stamsund",68.143908,13.83186
+308327,"Tabakkveien 9, Stamsund",68.143412,13.832872
+308328,"Tabakkveien 21, Stamsund",68.143411,13.830127
+308329,"Tabakkveien 19, Stamsund",68.14338,13.830899
+308330,"Myrlandsveien 31, Stamsund",68.138652,13.827
+308331,"Myrlandsveien 29, Stamsund",68.138605,13.827893
+308332,"Tabakkveien 6, Stamsund",68.142964,13.832943
+308333,"Tabakkveien 3, Stamsund",68.143762,13.83413
+308334,"Myrlandsveien 20, Stamsund",68.138529,13.829894
+308335,"Myrlandsveien 18, Stamsund",68.138641,13.830442
+308336,"Myrlandsveien 26, Stamsund",68.138097,13.828328
+308337,"Myrlandsveien 22, Stamsund",68.13839,13.829227
+308338,"J.M.Johansens vei 142, Stamsund",68.129259,13.853799
+308339,"Aagård 22, Stamsund",68.139557,13.838266
+308340,"Aagård 18, Stamsund",68.13963,13.837204
+308341,"Myrlandsveien 14, Stamsund",68.138778,13.832096
+308342,"Myrlandsveien 8, Stamsund",68.139144,13.834212
+308343,"Aagård 14, Stamsund",68.139783,13.838031
+308344,"Aagård 8, Stamsund",68.140092,13.83783
+308345,"Aagård 17, Stamsund",68.139419,13.836492
+308346,"Aagård 16, Stamsund",68.139714,13.837681
+308347,"Nybyen 33, Stamsund",68.131187,13.835633
+308348,"Nybyen 31, Stamsund",68.131417,13.835236
+308349,"Aagård 5, Stamsund",68.139669,13.836287
+308350,"Nybyen 34, Stamsund",68.13081,13.83558
+308351,"J.M.Johansens vei 11, Stamsund",68.121335,13.842962
+308352,"J.M.Johansens vei 10, Stamsund",68.12128,13.841497
+308353,"J.M.Johansens vei 16, Stamsund",68.12234,13.842983
+308354,"J.M.Johansens vei 1, Stamsund",68.120533,13.841222
+308355,"Halsan 13, Stamsund",68.127738,13.850386
+308356,"J.M.Johansens vei 7, Stamsund",68.120774,13.842316
+308357,"J.M.Johansens vei 2, Stamsund",68.120655,13.840687
+308358,"Halsan 6, Stamsund",68.127057,13.849265
+308359,"Halsan 1, Stamsund",68.126135,13.84948
+308360,"Halsan 12, Stamsund",68.127729,13.849087
+308361,"Halsan 7, Stamsund",68.127034,13.849844
+308362,"Øyanveien 29, Stamsund",68.151187,13.855667
+308363,"Øyanveien 25, Stamsund",68.151499,13.854111
+308364,"Øyanveien 40, Stamsund",68.150131,13.861234
+308365,"Øyanveien 32, Stamsund",68.151338,13.857972
+308366,"Øyanveien 6, Stamsund",68.150523,13.843997
+308367,"Øyanveien 19, Stamsund",68.150634,13.849578
+308368,"Øyanveien 17, Stamsund",68.150637,13.848735
+308369,"Sjøtangen 13, Stamsund",68.149614,13.847366
+308370,"Sjøtangen 9, Stamsund",68.149768,13.846347
+308371,"Øyanveien 4, Stamsund",68.150513,13.842601
+308372,"Sjøtangen 15, Stamsund",68.14986,13.847932
+308373,"Vikanveien 23, Stamsund",68.147627,13.847995
+308374,"Vikanveien 17, Stamsund",68.148658,13.847944
+308375,"Sjøtangen 7, Stamsund",68.149524,13.846046
+308376,"Vikanveien 8, Stamsund",68.148525,13.845567
+308377,"J.M.Johansens vei 15, Stamsund",68.121807,13.844359
+308378,"Øyanveien 10, Stamsund",68.150614,13.845587
+308379,"Vikanveien 5, Stamsund",68.148142,13.844695
+308380,"Vikanveien 9, Stamsund",68.148302,13.845746
+308384,"Myrlandsveien 2, Stamsund",68.139491,13.834541
+308385,"Myrlandsveien 1, Stamsund",68.139735,13.834165
+308386,"Myrlandsveien 6, Stamsund",68.139127,13.834774
+308387,"Myrlandsveien 4, Stamsund",68.139312,13.834721
+308388,"Myrlandsveien 7, Stamsund",68.140413,13.833674
+308390,"Myrlandsveien 3, Stamsund",68.139995,13.834176
+308391,"Myrlandsveien 5, Stamsund",68.140218,13.833973
+308393,"Øyanveien 2, Stamsund",68.15033,13.843167
+308410,"J.M.Johansens vei 346, Stamsund",68.148611,13.842432
+308411,"J.M.Johansens vei 295, Stamsund",68.143947,13.839073
+308412,"J.M.Johansens vei 352, Stamsund",68.149719,13.843123
+308413,"J.M.Johansens vei 350, Stamsund",68.149316,13.843287
+308414,"J.M.Johansens vei 282, Stamsund",68.142704,13.83286
+308415,"J.M.Johansens vei 280, Stamsund",68.142429,13.833331
+308416,"J.M.Johansens vei 289, Stamsund",68.142786,13.836948
+308417,"J.M.Johansens vei 287, Stamsund",68.142818,13.836416
+308418,"Buøyveien 7, Stamsund",68.125801,13.852883
+308420,"J.M.Johansens vei 272, Stamsund",68.142116,13.833515
+308421,"J.M.Johansens vei 271, Stamsund",68.142103,13.83419
+308422,"J.M.Johansens vei 276, Stamsund",68.142349,13.832131
+308423,"J.M.Johansens vei 274, Stamsund",68.142146,13.832599
+308424,"J.M.Johansens vei 266, Stamsund",68.141945,13.832176
+308425,"J.M.Johansens vei 258, Stamsund",68.141723,13.832452
+308426,"J.M.Johansens vei 269, Stamsund",68.141853,13.834347
+308428,"Hellesjyveien 2, Stamsund",68.141472,13.835088
+308429,"J.M.Johansens vei 236, Stamsund",68.136169,13.838654
+308430,"J.M.Johansens vei 224, Stamsund",68.134246,13.839545
+308431,"J.M.Johansens vei 257, Stamsund",68.140175,13.835635
+308432,"J.M.Johansens vei 240, Stamsund",68.136365,13.838452
+308433,"J.M.Johansens vei 212, Stamsund",68.13354,13.839869
+308434,"J.M.Johansens vei 210, Stamsund",68.133292,13.839064
+308435,"J.M.Johansens vei 222, Stamsund",68.133896,13.839466
+308436,"J.M.Johansens vei 214, Stamsund",68.13354,13.839869
+308437,"J.M.Johansens vei 205, Stamsund",68.133306,13.841084
+308438,"J.M.Johansens vei 203, Stamsund",68.133306,13.841084
+308439,"J.M.Johansens vei 208, Stamsund",68.132876,13.839831
+308440,"J.M.Johansens vei 206, Stamsund",68.133211,13.840247
+308441,"J.M.Johansens vei 198, Stamsund",68.132629,13.840445
+308442,"J.M.Johansens vei 197, Stamsund",68.133124,13.843163
+308443,"J.M.Johansens vei 201, Stamsund",68.133087,13.841769
+308444,"J.M.Johansens vei 200, Stamsund",68.132868,13.841227
+308445,"Vestfjordgata 47, Stamsund",68.133917,13.841126
+308446,"Vestfjordgata 45, Stamsund",68.133997,13.841122
+308447,"Vestfjordgata 51, Stamsund",68.133747,13.841207
+308448,"Vestfjordgata 49, Stamsund",68.133855,13.841225
+308452,"Buøyveien 27, Stamsund",68.124786,13.857475
+308453,"Buøyveien 23, Stamsund",68.125677,13.858523
+308456,"Hellemyrveien 3, Stamsund",68.141377,13.832655
+308457,"Naustveien 24, Stamsund",68.137714,13.845411
+308458,"Hellemyrveien 5, Stamsund",68.141425,13.831877
+308459,"Naustveien 18, Stamsund",68.137863,13.843916
+308460,"Naustveien 17, Stamsund",68.137498,13.84393
+308461,"Buøyveien 17, Stamsund",68.125916,13.857111
+308462,"Naustveien 22, Stamsund",68.137714,13.845411
+308463,"Naustveien 21, Stamsund",68.137321,13.845599
+308464,"Naustveien 14, Stamsund",68.137973,13.842582
+308465,"Naustveien 13, Stamsund",68.137408,13.842731
+308466,"Naustveien 16, Stamsund",68.13795,13.843233
+308467,"Naustveien 15, Stamsund",68.137592,13.843299
+308468,"Naustveien 5, Stamsund",68.137462,13.840177
+308469,"Hellesjyveien 12, Stamsund",68.14186,13.837861
+308470,"Naustveien 12, Stamsund",68.137941,13.841886
+308471,"Naustveien 7, Stamsund",68.137502,13.840656
+308472,"J.M.Johansens vei 361, Stamsund",68.149864,13.844657
+308473,"J.M.Johansens vei 356, Stamsund",68.150042,13.841951
+308474,"Hellesjyveien 6, Stamsund",68.141353,13.835937
+308475,"Nybyen 27, Stamsund",68.131343,13.836082
+308476,"Nybyen 26, Stamsund",68.131333,13.837214
+308477,"Nybyen 30, Stamsund",68.131086,13.836649
+308478,"Nybyen 29, Stamsund",68.13153,13.835929
+308479,"Nybyen 19, Stamsund",68.131998,13.838768
+308480,"Nybyen 17, Stamsund",68.132236,13.838179
+308481,"Nybyen 25, Stamsund",68.131851,13.836971
+308482,"Nybyen 24, Stamsund",68.131606,13.837777
+308483,"Nybyen 12, Stamsund",68.131558,13.839945
+308484,"Nybyen 9, Stamsund",68.131968,13.839612
+308485,"Nybyen 15, Stamsund",68.132496,13.839369
+308486,"Nybyen 14, Stamsund",68.131725,13.839383
+308487,"Hartvågen 7, Stamsund",68.13018,13.853368
+308488,"Hartvågen 4, Stamsund",68.130136,13.852119
+308489,"Hartvågen 11, Stamsund",68.130466,13.854484
+308490,"Hartvågen 8, Stamsund",68.130313,13.853096
+308491,"Hartvåghaugen 8, Stamsund",68.130684,13.850889
+308492,"Hartvåghaugen 7, Stamsund",68.130375,13.851626
+308493,"Hartvåghaugen 12, Stamsund",68.130921,13.85155
+308494,"Hartvåghaugen 11, Stamsund",68.130703,13.852403
+308495,"Yttervikveien 27, Stamsund",68.131564,13.848559
+308496,"Yttervikveien 25, Stamsund",68.131794,13.848066
+308497,"Hartvåghaugen 4, Stamsund",68.130573,13.850413
+308498,"Yttervikveien 29, Stamsund",68.131738,13.849079
+308499,"Yttervikveien 24, Stamsund",68.132029,13.848343
+308500,"Åsryggen 11, Stamsund",68.136425,13.843531
+308501,"Åsryggen 10, Stamsund",68.136453,13.844632
+308502,"Åsryggen 13, Stamsund",68.13614,13.843541
+308503,"Åsryggen 12, Stamsund",68.136201,13.844548
+308504,"Åsryggen 7, Stamsund",68.136831,13.843506
+308505,"Åsryggen 6, Stamsund",68.136893,13.844682
+308506,"Åsryggen 9, Stamsund",68.136642,13.843515
+308507,"Åsryggen 8, Stamsund",68.136686,13.844644
+308508,"Åsryggen 3, Stamsund",68.137245,13.843774
+308509,"Åsryggen 2, Stamsund",68.137378,13.844754
+308510,"Åsryggen 5, Stamsund",68.137028,13.843544
+308511,"Åsryggen 4, Stamsund",68.137091,13.844768
+308512,"Nygata 5, Stamsund",68.135391,13.837755
+308513,"Nygata 3, Stamsund",68.135451,13.838666
+308514,"Nygata 12, Stamsund",68.134898,13.835301
+308515,"Nygata 11, Stamsund",68.135255,13.834922
+308517,"Vestfjordgata 29, Stamsund",68.13576,13.840407
+308518,"Vestfjordgata 27, Stamsund",68.13585,13.840571
+308519,"Vestfjordgata 31, Stamsund",68.135552,13.840273
+308520,"Vestfjordgata 30, Stamsund",68.135707,13.841806
+308521,"Vestfjordgata 21, Stamsund",68.136346,13.839535
+308522,"Vestfjordgata 20, Stamsund",68.136285,13.841127
+308523,"Vestfjordgata 25, Stamsund",68.136105,13.839812
+308524,"Vestfjordgata 23, Stamsund",68.136159,13.839737
+308525,"Vestfjordgata 17, Stamsund",68.136569,13.839452
+308526,"Vestfjordgata 15, Stamsund",68.136632,13.839521
+308527,"Vestfjordgata 19, Stamsund",68.136408,13.83946
+308528,"Vestfjordgata 18, Stamsund",68.13655,13.840536
+308529,"Vestfjordgata 11, Stamsund",68.136848,13.83951
+308530,"Vestfjordgata 9, Stamsund",68.136901,13.839459
+308531,"Vestfjordgata 13, Stamsund",68.136669,13.839664
+308532,"Vestfjordgata 12, Stamsund",68.136755,13.840333
+308533,"Vestfjordgata 5, Stamsund",68.137132,13.839135
+308534,"Vestfjordgata 4, Stamsund",68.137164,13.839903
+308535,"Vestfjordgata 7, Stamsund",68.136954,13.839384
+308536,"Vestfjordgata 6, Stamsund",68.136951,13.840107
+308537,"Vestfjordgata 1, Stamsund",68.137148,13.838797
+308538,"Åsryggen 25, Stamsund",68.13428,13.843057
+308539,"Vestfjordgata 3, Stamsund",68.13714,13.838966
+308540,"Vestfjordgata 2, Stamsund",68.13736,13.839677
+308541,"Åsryggen 20, Stamsund",68.134917,13.844324
+308542,"Åsryggen 19, Stamsund",68.135179,13.843396
+308543,"Åsryggen 24, Stamsund",68.134368,13.844087
+308544,"Åsryggen 22, Stamsund",68.134649,13.844482
+308545,"Åsryggen 14, Stamsund",68.135995,13.844535
+308546,"Åsryggen 17, Stamsund",68.135656,13.843493
+308547,"Åsryggen 16, Stamsund",68.135761,13.844498
+308553,"Steineveien 295, Stamsund",68.149503,13.766439
+308556,"Halsan 9, Stamsund",68.127036,13.850036
+308597,"Nilsvika 7, Stamsund",68.132185,13.852618
+308601,"Steineveien 83, Stamsund",68.120224,13.783183
+308602,"Nilsvika 5, Stamsund",68.13218,13.851945
+308603,"Nilsvika 11, Stamsund",68.132073,13.853322
+308606,"Myrlandsveien 28, Stamsund",68.138356,13.828218
+308608,"Sjybakken 11, Stamsund",68.135462,13.845307
+308609,"Sjybakken 9, Stamsund",68.135375,13.844446
+308610,"Yttervikveien 7, Stamsund",68.132465,13.845193
+308611,"Sjybakken 12, Stamsund",68.135849,13.845553
+308612,"Sjybakken 1, Stamsund",68.135134,13.840728
+308613,"Edvard Oddens vei 33, Stamsund",68.132746,13.848259
+308614,"Sjybakken 6, Stamsund",68.135678,13.842914
+308615,"Sjybakken 4, Stamsund",68.135519,13.841911
+308616,"Edvard Oddens vei 23, Stamsund",68.131917,13.851573
+308617,"Edvard Oddens vei 21, Stamsund",68.131771,13.849872
+308618,"Edvard Oddens vei 31, Stamsund",68.132651,13.848793
+308619,"Edvard Oddens vei 29, Stamsund",68.132485,13.849331
+308620,"Edvard Oddens vei 14, Stamsund",68.131509,13.849572
+308621,"Edvard Oddens vei 12, Stamsund",68.131328,13.849389
+308622,"Edvard Oddens vei 19, Stamsund",68.131596,13.850482
+308623,"Edvard Oddens vei 17, Stamsund",68.131484,13.851113
+308624,"Edvard Oddens vei 8, Stamsund",68.130984,13.848973
+308625,"Edvard Oddens vei 7, Stamsund",68.130823,13.850328
+308626,"Edvard Oddens vei 10, Stamsund",68.131262,13.848935
+308627,"Edvard Oddens vei 9, Stamsund",68.130989,13.849598
+308628,"Edvard Oddens vei 4, Stamsund",68.130626,13.849087
+308629,"Edvard Oddens vei 3, Stamsund",68.130514,13.84967
+308630,"Edvard Oddens vei 6, Stamsund",68.130832,13.849004
+308631,"Edvard Oddens vei 5, Stamsund",68.130729,13.849731
+308632,"Strandveien 15, Stamsund",68.138975,13.83714
+308633,"Strandveien 14, Stamsund",68.138684,13.838303
+308634,"Strandveien 19, Stamsund",68.138485,13.837574
+308635,"Strandveien 17, Stamsund",68.138707,13.837346
+308636,"Strandveien 11, Stamsund",68.139058,13.838773
+308637,"Strandveien 10, Stamsund",68.13879,13.839807
+308638,"Strandveien 13, Stamsund",68.139043,13.837931
+308640,"Strandveien 12, Stamsund",68.13877,13.83903
+308641,"Yttervikveien 23, Stamsund",68.13197,13.847504
+308642,"Yttervikveien 20, Stamsund",68.132418,13.847409
+308643,"Yttervikveien 19, Stamsund",68.132269,13.846695
+308644,"Yttervikveien 22, Stamsund",68.13225,13.847875
+308645,"Yttervikveien 21, Stamsund",68.13212,13.847159
+308646,"Yttervikveien 16, Stamsund",68.13278,13.846573
+308647,"Yttervikveien 14, Stamsund",68.133013,13.847837
+308648,"Yttervikveien 18, Stamsund",68.132585,13.846992
+308649,"Yttervikveien 17, Stamsund",68.132419,13.846302
+308650,"Yttervikveien 9, Stamsund",68.13255,13.84579
+308651,"Yttervikveien 8, Stamsund",68.132898,13.845532
+308652,"Yttervikveien 12, Stamsund",68.133288,13.847486
+308653,"Yttervikveien 10, Stamsund",68.13319,13.846682
+308654,"Vinkelen 1, Stamsund",68.13157,13.845479
+308655,"Aspeveien 16, Stamsund",68.135395,13.83696
+308656,"Vinkelen 4, Stamsund",68.131879,13.846137
+308657,"Vinkelen 2, Stamsund",68.13212,13.845884
+308658,"Aspeveien 6, Stamsund",68.136614,13.835575
+308659,"Aspeveien 5, Stamsund",68.136644,13.834707
+308660,"Aspeveien 15, Stamsund",68.135334,13.836073
+308661,"Aspeveien 8, Stamsund",68.136391,13.835851
+308662,"Aspeveien 1, Stamsund",68.137115,13.83413
+308663,"Svarholtveien 14, Stamsund",68.135513,13.834716
+308664,"Aspeveien 4, Stamsund",68.136899,13.83532
+308665,"Svarholtveien 10, Stamsund",68.135976,13.834163
+308666,"Svarholtveien 9, Stamsund",68.13577,13.832995
+308667,"Svarholtveien 12, Stamsund",68.135753,13.834367
+308668,"Svarholtveien 11, Stamsund",68.135594,13.833437
+308669,"Svarholtveien 6, Stamsund",68.136608,13.83353
+308670,"Svarholtveien 5, Stamsund",68.136361,13.832695
+308671,"Svarholtveien 8, Stamsund",68.13627,13.833908
+308672,"Svarholtveien 7, Stamsund",68.136111,13.832905
+308673,"Vestfjordgata 44, Stamsund",68.134147,13.841981
+308674,"Vestfjordgata 43, Stamsund",68.134185,13.84104
+308675,"Svarholtveien 3, Stamsund",68.136582,13.832352
+308676,"Svarholtveien 1, Stamsund",68.136956,13.831972
+308677,"Vestfjordgata 39, Stamsund",68.134607,13.841139
+308678,"Vestfjordgata 38, Stamsund",68.134747,13.841902
+308679,"Vestfjordgata 41, Stamsund",68.13441,13.841101
+308680,"Vestfjordgata 40, Stamsund",68.134524,13.841986
+308681,"Vestfjordgata 35, Stamsund",68.135582,13.840633
+308682,"Vestfjordgata 33, Stamsund",68.135572,13.840465
+308683,"Vestfjordgata 37, Stamsund",68.134885,13.841053
+308684,"Vestfjordgata 36, Stamsund",68.134972,13.841891
+308685,"Strandveien 2, Stamsund",68.138024,13.840943
+308686,"Myra 6, Stamsund",68.131061,13.841919
+308687,"Strandveien 9, Stamsund",68.139085,13.839816
+308688,"Strandveien 8, Stamsund",68.138748,13.840529
+308689,"Huldreveien 16, Stamsund",68.129899,13.839957
+308690,"Huldreveien 15, Stamsund",68.130548,13.840477
+308691,"Huldreveien 21, Stamsund",68.130689,13.838786
+308692,"Huldreveien 17, Stamsund",68.130246,13.839602
+308693,"Huldreveien 10, Stamsund",68.130038,13.841947
+308694,"Huldreveien 9, Stamsund",68.130648,13.84194
+308695,"Huldreveien 13, Stamsund",68.13022,13.841047
+308696,"Huldreveien 12, Stamsund",68.130016,13.84137
+308697,"Huldreveien 4, Stamsund",68.130413,13.845154
+308698,"Huldreveien 3, Stamsund",68.130766,13.844629
+308699,"Huldreveien 7, Stamsund",68.130574,13.842906
+308700,"Huldreveien 5, Stamsund",68.130768,13.843714
+308701,"Rishaugveien 5, Stamsund",68.136433,13.836715
+308702,"Rishaugveien 4, Stamsund",68.136871,13.83768
+308703,"Rishaugveien 7, Stamsund",68.136195,13.837305
+308704,"Rishaugveien 6, Stamsund",68.136648,13.837932
+308705,"Rishaugveien 1, Stamsund",68.136995,13.83623
+308706,"Justadbakken 16, Stamsund",68.136056,13.841788
+308707,"Rishaugveien 3, Stamsund",68.136755,13.836579
+308708,"Rishaugveien 2, Stamsund",68.136974,13.837001
+308709,"Justadbakken 6, Stamsund",68.137005,13.84206
+308710,"Justadbakken 5, Stamsund",68.136913,13.841167
+308711,"Justadbakken 10, Stamsund",68.136454,13.842225
+308712,"Justadbakken 8, Stamsund",68.136732,13.842187
+308713,"Vinkelen 8, Stamsund",68.131579,13.84685
+308714,"Vinkelen 6, Stamsund",68.131739,13.846505
+308715,"Justadbakken 4, Stamsund",68.137208,13.841993
+308716,"Justadbakken 2, Stamsund",68.137502,13.842052
+308892,"Hartvågveien 21, Stamsund",68.129579,13.842932
+308893,"Hartvågveien 17, Stamsund",68.129721,13.844008
+308894,"Hartvågveien 25, Stamsund",68.129679,13.841893
+308895,"Hartvågveien 23, Stamsund",68.129728,13.842419
+308896,"Hartvågveien 11, Stamsund",68.12963,13.846418
+308897,"Hartvågveien 7, Stamsund",68.129747,13.847832
+308898,"Hartvågveien 15, Stamsund",68.129752,13.844632
+308899,"Hartvågveien 13, Stamsund",68.129821,13.84559
+308900,"Hartvågveien 14, Stamsund",68.129531,13.845052
+308901,"Buøyveien 10, Stamsund",68.127431,13.857452
+308904,"Hartvågveien 32, Stamsund",68.128967,13.841447
+308905,"Hartvågveien 18, Stamsund",68.129458,13.843708
+308951,"Hartvågveien 29, Stamsund",68.129577,13.841416
+308952,"Hartvågveien 27, Stamsund",68.129492,13.842094
+308954,"Hartvågveien 31, Stamsund",68.129313,13.8409
+308973,"Hagskarveien 380, Stamsund",68.156899,13.767776
+308974,"Hagskarveien 409, Stamsund",68.155285,13.775137
+308976,"Hagskarveien 351, Stamsund",68.156092,13.758137
+308977,"Hagskarveien 342, Stamsund",68.158348,13.753992
+308978,"Hagskarveien 381, Stamsund",68.156603,13.768973
+308979,"Hagskarveien 368, Stamsund",68.157293,13.767659
+309011,"Hagskarveien 303, Stamsund",68.154708,13.736438
+309012,"Hagskarveien 339, Stamsund",68.156957,13.752422
+309057,"Strandveien 7, Stamsund",68.139077,13.841419
+309075,"Steineveien 139, Stamsund",68.128538,13.77798
+309131,"Nygata 10, Stamsund",68.134939,13.836021
+309132,"J.M.Johansens vei 69, Stamsund",68.124719,13.849767
+309133,"Nygata 8, Stamsund",68.134961,13.836549
+309148,"J.M.Johansens vei 234, Stamsund",68.135952,13.838496
+309149,"J.M.Johansens vei 232, Stamsund",68.135839,13.839007
+309194,"Blåbergan 12, Stamsund",68.152956,13.767073
+309252,"Skifjordveien 76, Stamsund",68.155791,13.797679
+309253,"Skifjordveien 64, Stamsund",68.155879,13.796133
+309254,"Skifjordveien 27, Stamsund",68.155239,13.785906
+309255,"Skifjordveien 237, Stamsund",68.152603,13.833585
+309256,"Skifjordveien 35, Stamsund",68.15494,13.790426
+309257,"Skifjordveien 33, Stamsund",68.155204,13.787406
+309258,"Skifjordveien 56, Stamsund",68.155857,13.793123
+309259,"Skifjordveien 48, Stamsund",68.155699,13.789092
+309260,"Skifjordveien 19, Stamsund",68.155388,13.784164
+309261,"Torbergjorda 90, Stamsund",68.161044,13.747533
+309262,"Skifjordveien 31, Stamsund",68.155229,13.786966
+309263,"Skifjordveien 30, Stamsund",68.155699,13.787544
+309264,"Torbergjorda 74, Stamsund",68.161581,13.740228
+309265,"Torbergjorda 70, Stamsund",68.161166,13.738685
+309266,"Torbergjorda 81, Stamsund",68.160405,13.742437
+309267,"Torbergjorda 75, Stamsund",68.160269,13.741143
+309268,"Torbergjorda 64, Stamsund",68.160353,13.737983
+309269,"Torbergjorda 62, Stamsund",68.160221,13.737147
+309270,"Torbergjorda 69, Stamsund",68.160315,13.740057
+309271,"Torbergjorda 68, Stamsund",68.161398,13.737419
+309272,"Torbergjorda 53, Stamsund",68.159856,13.736299
+309276,"Torbergjorda 32, Stamsund",68.158991,13.732317
+309277,"Torbergjorda 60, Stamsund",68.159914,13.738007
+309278,"Torbergjorda 56, Stamsund",68.159589,13.737832
+309279,"Torbergjorda 88, Stamsund",68.161081,13.746447
+309280,"Torbergjorda 78, Stamsund",68.161457,13.741632
+309281,"Torbergjorda 18, Stamsund",68.157669,13.734179
+309282,"Torbergjorda 16, Stamsund",68.157823,13.732027
+309283,"Torbergjorda 66, Stamsund",68.160503,13.738769
+309284,"Torbergjorda 14, Stamsund",68.158823,13.729081
+309285,"Torbergjorda 76, Stamsund",68.161707,13.741426
+309286,"Torbergjorda 72, Stamsund",68.161312,13.740291
+309305,"Skifjordveien 202, Stamsund",68.155227,13.827888
+309306,"Skifjordveien 50, Stamsund",68.155654,13.789931
+309307,"Skifjordveien 206, Stamsund",68.154904,13.83041
+309313,"Skifjordveien 204, Stamsund",68.155227,13.827888
+309314,"Akebakken 7, Stamsund",68.119276,13.786023
+309315,"Akebakken 4, Stamsund",68.119344,13.784263
+309316,"Akebakken 8, Stamsund",68.119529,13.784927
+309317,"Bakeriveien 7, Stamsund",68.117614,13.786856
+309318,"Steineveien 54, Stamsund",68.118153,13.786972
+309319,"Akebakken 3, Stamsund",68.118732,13.785089
+309320,"Bakeriveien 5, Stamsund",68.11792,13.786936
+309321,"Bakeriveien 34, Stamsund",68.115883,13.791006
+309322,"Akebakken 6, Stamsund",68.119232,13.784847
+309323,"Akebakken 1, Stamsund",68.118683,13.785789
+309326,"Bakeriveien 22, Stamsund",68.116599,13.790148
+309339,"Hagskarveien 336, Stamsund",68.158925,13.753142
+309340,"Hagskarveien 332, Stamsund",68.158108,13.750192
+309341,"Hagskarveien 347, Stamsund",68.155862,13.753813
+309342,"Hagskarveien 330, Stamsund",68.157933,13.749009
+309347,"Torbergjorda 31, Stamsund",68.158598,13.736684
+309374,"Hagskarveien 421, Stamsund",68.155913,13.778789
+309377,"Hagskarveien 423, Stamsund",68.155913,13.778789
+309379,"Hagskarveien 425, Stamsund",68.15551,13.778858
+309382,"Hagskarveien 405, Stamsund",68.156245,13.773954
+309383,"Hagskarveien 398, Stamsund",68.157509,13.773862
+309384,"Hagskarveien 419, Stamsund",68.155921,13.778779
+309385,"Hagskarveien 415, Stamsund",68.156016,13.776929
+309386,"Hagskarveien 392, Stamsund",68.157191,13.772
+309387,"Hagskarveien 390, Stamsund",68.157553,13.772511
+309388,"Hagskarveien 396, Stamsund",68.157253,13.773153
+309389,"Hagskarveien 394, Stamsund",68.156742,13.772024
+309390,"Hagskarveien 376, Stamsund",68.15784,13.768882
+309391,"Hagskarveien 374, Stamsund",68.157852,13.770496
+309392,"Hagskarveien 388, Stamsund",68.157175,13.771062
+309393,"Hagskarveien 384, Stamsund",68.157148,13.769811
+309784,"Valbergsveien 128, Stamsund",68.166776,13.794574
+309785,"Valbergsveien 44, Stamsund",68.159294,13.781139
+309787,"Valbergsveien 152, Stamsund",68.16553,13.797242
+309864,"Valbergsveien 341, Stamsund",68.167907,13.841363
+309867,"Valbergsveien 150, Stamsund",68.16512,13.797552
+309868,"Valbergsveien 108A, Stamsund",68.164139,13.78611
+309870,"Valbergsveien 337, Stamsund",68.16719,13.84017
+309871,"Valbergsveien 333, Stamsund",68.167153,13.838726
+309872,"Valbergsveien 48, Stamsund",68.160062,13.780146
+309873,"Valbergsveien 30, Stamsund",68.158525,13.782649
+309874,"Valbergsveien 74, Stamsund",68.162263,13.782306
+309875,"Valbergsveien 18, Stamsund",68.157721,13.780644
+309876,"Valbergsveien 26, Stamsund",68.158385,13.78309
+309877,"Valbergsveien 20, Stamsund",68.157648,13.779275
+309880,"Valbergsveien 3, Stamsund",68.156351,13.780933
+309909,"Valbergsveien 94, Stamsund",68.163337,13.786492
+310628,"Georg Hansens vei 1, Stamsund",68.131414,13.842234
+310629,"J.H.Trys vei 1, Stamsund",68.130625,13.846296
+310630,"J.H.Trys vei 15, Stamsund",68.129482,13.848398
+310633,"Ringveien 1, Stamsund",68.132113,13.842299
+310634,"J.M.Johansens vei 192, Stamsund",68.132284,13.841064
+310635,"Torbergjorda 96, Stamsund",68.160661,13.75018
+310636,"Ringveien 2, Stamsund",68.131731,13.842896
+310645,"J.M.Johansens vei 109, Stamsund",68.126335,13.8538
+310646,"Buøyveien 6, Stamsund",68.127268,13.856108
+310659,"Hagskarveien 338, Stamsund",68.15889,13.755721
+310663,"Aspeveien 7, Stamsund",68.13643,13.834935
+310672,"Steineveien 152, Stamsund",68.132031,13.778492
+311054,"Yttervikveien 6A, Stamsund",68.132975,13.843772
+311063,"Georg Hansens vei 15, Stamsund",68.130952,13.844403
+311065,"Georg Hansens vei 14, Stamsund",68.131172,13.844993
+311066,"Georg Hansens vei 11, Stamsund",68.131185,13.844247
+311067,"Georg Hansens vei 8, Stamsund",68.131506,13.844038
+311068,"Georg Hansens vei 10, Stamsund",68.13134,13.844624
+311069,"Georg Hansens vei 5, Stamsund",68.13123,13.843066
+311180,"Finstadveien 282, Stamsund",68.132756,13.741132
+311181,"Finstadveien 328, Stamsund",68.128979,13.743408
+311183,"Sjybakken 3, Stamsund",68.135153,13.840895
+311184,"Sjybakken 5, Stamsund",68.135163,13.841063
+311186,"Sjybakken 7, Stamsund",68.135216,13.842143
+311187,"Steineveien 315, Stamsund",68.152569,13.763264
+311188,"Steineveien 264, Stamsund",68.148555,13.766603
+311189,"Steineveien 41, Stamsund",68.118738,13.792111
+311190,"Steineveien 250, Stamsund",68.145772,13.769721
+311191,"Steineveien 15, Stamsund",68.1236,13.844697
+311192,"Steineveien 128, Stamsund",68.125688,13.777217
+311193,"Steineveien 5, Stamsund",68.123612,13.845301
+311194,"Steineveien 9, Stamsund",68.123799,13.845099
+311197,"Finstadveien 50, Stamsund",68.151751,13.752278
+311209,"Steineveien 303, Stamsund",68.150625,13.764838
+311210,"Steineveien 305, Stamsund",68.151032,13.764093
+311211,"Steineveien 289, Stamsund",68.148863,13.767675
+311212,"Steineveien 291, Stamsund",68.149148,13.767337
+311216,"Steineveien 81, Stamsund",68.119889,13.782849
+311217,"Steineveien 217, Stamsund",68.142127,13.77656
+311218,"Steineveien 249, Stamsund",68.146291,13.771956
+311219,"Steineveien 109, Stamsund",68.124176,13.783816
+311220,"Steineveien 115, Stamsund",68.125602,13.782466
+311221,"Steineveien 85, Stamsund",68.120247,13.782532
+311222,"Steineveien 87, Stamsund",68.121203,13.782655
+311223,"Steineveien 77, Stamsund",68.119571,13.783314
+311224,"Steineveien 57, Stamsund",68.118479,13.786209
+311225,"Steineveien 75, Stamsund",68.119079,13.783628
+311226,"Steineveien 330, Stamsund",68.156017,13.760188
+311227,"Steineveien 45, Stamsund",68.118692,13.790695
+311228,"Steineveien 310, Stamsund",68.151907,13.762264
+311229,"Steineveien 328, Stamsund",68.155791,13.759935
+311230,"Steineveien 280, Stamsund",68.148898,13.760596
+311231,"Steineveien 294, Stamsund",68.148992,13.762366
+311232,"Steineveien 268, Stamsund",68.146185,13.763728
+311233,"Steineveien 274, Stamsund",68.147563,13.762016
+311234,"Steineveien 244, Stamsund",68.142927,13.761086
+311235,"Steineveien 256, Stamsund",68.147018,13.765946
+311236,"Steineveien 240, Stamsund",68.144992,13.766103
+311237,"Steineveien 226, Stamsund",68.142926,13.769368
+311238,"Steineveien 234, Stamsund",68.144289,13.770474
+311239,"Steineveien 210, Stamsund",68.138251,13.764347
+311240,"Steineveien 176, Stamsund",68.137244,13.770081
+311241,"Steineveien 180, Stamsund",68.138192,13.76731
+311244,"J.M.Johansens vei 336, Stamsund",68.147125,13.839088
+311245,"J.M.Johansens vei 345, Stamsund",68.148776,13.844326
+311246,"J.M.Johansens vei 330, Stamsund",68.146344,13.837731
+311247,"J.M.Johansens vei 332, Stamsund",68.146731,13.837928
+311248,"J.M.Johansens vei 308, Stamsund",68.145731,13.836076
+311249,"J.M.Johansens vei 320, Stamsund",68.146461,13.832527
+311250,"J.M.Johansens vei 196, Stamsund",68.132581,13.841313
+311251,"J.M.Johansens vei 152, Stamsund",68.129992,13.849407
+311252,"J.M.Johansens vei 194, Stamsund",68.132581,13.841313
+311253,"J.M.Johansens vei 105, Stamsund",68.126471,13.851412
+311254,"J.M.Johansens vei 113, Stamsund",68.126957,13.85425
+311255,"Steineveien 79, Stamsund",68.119702,13.782742
+311256,"Steineveien 236, Stamsund",68.145186,13.770097
+311257,"J.M.Johansens vei 99, Stamsund",68.125959,13.851365
+311258,"J.M.Johansens vei 103, Stamsund",68.126445,13.851533
+311259,"J.M.Johansens vei 17, Stamsund",68.121922,13.844856
+311260,"J.M.Johansens vei 95, Stamsund",68.126231,13.851464
+311261,"J.M.Johansens vei 81, Stamsund",68.124934,13.849732
+311262,"J.M.Johansens vei 83, Stamsund",68.125042,13.849775
+311263,"J.M.Johansens vei 54, Stamsund",68.124389,13.847402
+311264,"J.M.Johansens vei 79, Stamsund",68.124972,13.849995
+311265,"J.M.Johansens vei 67, Stamsund",68.124819,13.849834
+311266,"J.M.Johansens vei 71, Stamsund",68.124745,13.849645
+311267,"J.M.Johansens vei 347, Stamsund",68.148915,13.844993
+311268,"J.M.Johansens vei 349, Stamsund",68.149095,13.844984
+311270,"Steineveien 86, Stamsund",68.120063,13.782013
+311295,"Blåbergan 6, Stamsund",68.15257,13.764514
+311296,"Blåbergan 20, Stamsund",68.152758,13.769198
+311297,"Blåbergan 3, Stamsund",68.151403,13.764432
+311304,"Steineveien 126, Stamsund",68.125675,13.777843
+311305,"Steineveien 148, Stamsund",68.130957,13.776336
+311306,"Steineveien 74, Stamsund",68.118841,13.782847
+311307,"Steineveien 62, Stamsund",68.118181,13.784686
+311308,"Steineveien 68, Stamsund",68.117909,13.783017
+311309,"Steineveien 11, Stamsund",68.123917,13.845357
+311310,"Steineveien 30, Stamsund",68.116055,13.803072
+311311,"Steineveien 17, Stamsund",68.123685,13.844068
+311312,"Steineveien 16, Stamsund",68.123254,13.844188
+311313,"Steineveien 3, Stamsund",68.123549,13.845304
+311314,"Steineveien 7, Stamsund",68.123718,13.845151
+311328,"Valbergsveien 132, Stamsund",68.166154,13.795402
+311329,"Justadvika 24, Stamsund",68.163969,13.803371
+311336,"Steineveien 80, Stamsund",68.119683,13.782298
+311400,"Finstadveien 249, Stamsund",68.136819,13.739803
+311401,"Finstadveien 226, Stamsund",68.13826,13.742949
+311402,"Finstadveien 247, Stamsund",68.136424,13.739777
+311403,"Finstadveien 199, Stamsund",68.140572,13.743834
+311404,"Finstadveien 206, Stamsund",68.13972,13.744988
+311405,"Finstadveien 194, Stamsund",68.140399,13.747793
+311406,"Finstadveien 190, Stamsund",68.138876,13.749607
+311407,"Finstadveien 175, Stamsund",68.142539,13.745267
+311408,"Finstadveien 198, Stamsund",68.141006,13.745423
+311409,"Finstadveien 169, Stamsund",68.143209,13.74617
+311410,"Finstadveien 170, Stamsund",68.143184,13.750682
+311411,"Finstadveien 156, Stamsund",68.144057,13.747953
+311412,"Finstadveien 158, Stamsund",68.144565,13.748648
+311413,"Finstadveien 91, Stamsund",68.14928,13.741167
+311414,"Finstadveien 99, Stamsund",68.149194,13.747457
+311417,"Finstadveien 90, Stamsund",68.149675,13.748225
+311418,"Finstadveien 82, Stamsund",68.150611,13.746223
+311419,"Finstadveien 88, Stamsund",68.15006,13.746928
+311424,"Naustveien 4, Stamsund",68.138271,13.839101
+311425,"Hartvågen 1, Stamsund",68.129886,13.851025
+311426,"Hellesjyveien 3, Stamsund",68.140675,13.835177
+311427,"Naustveien 2, Stamsund",68.138022,13.838079
+311428,"Aspeveien 14, Stamsund",68.13593,13.837872
+311429,"Hellesjyveien 1, Stamsund",68.140577,13.835399
+311430,"Huldreveien 1, Stamsund",68.130978,13.84546
+311431,"Åsen 26, Stamsund",68.134599,13.839984
+311432,"Nygata 4, Stamsund",68.134859,13.839875
+311433,"Vestfjordgata 50, Stamsund",68.133752,13.843228
+311434,"Nygata 1, Stamsund",68.135599,13.83926
+311435,"Nygata 6, Stamsund",68.135064,13.838397
+311436,"Justadvika 30, Stamsund",68.163202,13.801484
+311437,"Justadvika 36, Stamsund",68.163013,13.802771
+311438,"Justadvika 8, Stamsund",68.164729,13.800561
+311439,"Justadvika 17, Stamsund",68.164156,13.801916
+311441,"Justadvika 2, Stamsund",68.16498,13.799271
+311452,"Finstadveien 68, Stamsund",68.151251,13.744334
+311453,"Finstadveien 69, Stamsund",68.151001,13.743312
+311454,"Finstadveien 48, Stamsund",68.152306,13.750972
+311455,"Finstadveien 57, Stamsund",68.152204,13.743391
+311456,"Finstadveien 52, Stamsund",68.152141,13.74732
+311457,"Finstadveien 65, Stamsund",68.151427,13.742971
+311458,"Finstadveien 39, Stamsund",68.153616,13.743844
+311459,"Finstadveien 46, Stamsund",68.152894,13.744558
+311460,"Finstadveien 36, Stamsund",68.15395,13.745393
+311461,"Finstadveien 38, Stamsund",68.153716,13.745187
+311462,"Finstadveien 25, Stamsund",68.154831,13.743223
+311463,"Finstadveien 31, Stamsund",68.154248,13.743547
+311464,"Finstadveien 23, Stamsund",68.154952,13.742687
+311465,"Finstadveien 21, Stamsund",68.154903,13.742063
+311467,"Justadbakken 3, Stamsund",68.137118,13.840892
+311468,"Valbergsveien 35, Stamsund",68.158346,13.786296
+311474,"Valbergsveien 124, Stamsund",68.165634,13.791116
+311475,"Valbergsveien 65, Stamsund",68.161757,13.795319
+311488,"Finstadveien 22, Stamsund",68.155458,13.746313
+311522,"Valbergsveien 24, Stamsund",68.158229,13.782616
+311523,"Valbergsveien 22, Stamsund",68.157955,13.78198
+311551,"Nilsvika 2, Stamsund",68.132436,13.850055
+311552,"Nilsvika 3, Stamsund",68.132112,13.85113
+311553,"Tabakkveien 18, Stamsund",68.142934,13.831187
+311554,"Nilsvika 1, Stamsund",68.132106,13.850384
+311555,"Nybyen 7, Stamsund",68.131962,13.839973
+311556,"Nybyen 11, Stamsund",68.132295,13.840199
+311575,"Buøyveien 21, Stamsund",68.125997,13.856104
+311578,"Buøyveien 11, Stamsund",68.126683,13.856044
+311586,"Ringveien 57, Stamsund",68.129057,13.847914
+311614,"Buøyveien 20, Stamsund",68.126782,13.858709
+311625,"Steineveien 216, Stamsund",68.139927,13.771381
+311627,"Naustveien 20, Stamsund",68.137736,13.844688
+311628,"J.M.Johansens vei 60, Stamsund",68.124095,13.847754
+311629,"Halsbakkan 17, Stamsund",68.128449,13.845611
+311630,"Skolegata 2, Stamsund",68.137271,13.837202
+311631,"Ringveien 50, Stamsund",68.129149,13.845624
+311632,"Halsbakkan 19, Stamsund",68.128383,13.845085
+311633,"Justadbakken 14, Stamsund",68.135873,13.842543
+311634,"Aspeveien 11, Stamsund",68.135887,13.835564
+311635,"Aagård 4, Stamsund",68.139939,13.836514
+311636,"Myrlandsveien 10, Stamsund",68.139372,13.833411
+311637,"J.M.Johansens vei 262, Stamsund",68.141785,13.829753
+311639,"Vikanveien 37, Stamsund",68.147786,13.851599
+311640,"Aagård 12, Stamsund",68.13993,13.83897
+311642,"Hagskarveien 326, Stamsund",68.158279,13.747251
+311649,"Skjæret 2, Stamsund",68.122345,13.847553
+311652,"Øyanveien 23, Stamsund",68.151165,13.85379
+311665,"J.M.Johansens vei 32B, Stamsund",68.122962,13.844732
+311668,"J.M.Johansens vei 32A, Stamsund",68.123034,13.844776
+311675,"Torbergjorda 86, Stamsund",68.161073,13.745388
+311681,"Akebakken 2, Stamsund",68.119012,13.784257
+311687,"Skolegata 6A, Stamsund",68.137113,13.835068
+311688,"Skolegata 6B, Stamsund",68.137228,13.834942
+311713,"J.M.Johansens vei 47, Stamsund",68.123652,13.848473
+311714,"J.M.Johansens vei 49, Stamsund",68.123636,13.847536
+311715,"Burekka 34, Stamsund",68.123458,13.847617
+311716,"J.M.Johansens vei 45, Stamsund",68.123462,13.847016
+311718,"Burekka 32, Stamsund",68.123519,13.847398
+311719,"Buøyveien 15, Stamsund",68.126722,13.856499
+311765,"J.M.Johansens vei 55, Stamsund",68.123856,13.848175
+311767,"J.M.Johansens vei 51, Stamsund",68.123719,13.847797
+311768,"J.M.Johansens vei 53, Stamsund",68.123755,13.847891
+311796,"J.M.Johansens vei 18, Stamsund",68.122308,13.843586
+311806,"Hagskarveien 325, Stamsund",68.156492,13.746938
+311829,"Skjæret 3, Stamsund",68.121756,13.846692
+311831,"Skjæret 7, Stamsund",68.121938,13.84714
+311832,"Skjæret 9, Stamsund",68.122083,13.847349
+311834,"Skjæret 5, Stamsund",68.121874,13.846975
+311841,"Hagskarveien 372, Stamsund",68.158567,13.768843
+311846,"Hagskarveien 340, Stamsund",68.158884,13.75601
+311872,"Nybyen 13, Stamsund",68.132396,13.840529
+311889,"Fabrikkveien 50, Stamsund",68.145881,13.852359
+311896,"Yttervikveien 2G, Stamsund",68.132695,13.843473
+311898,"Yttervikveien 2E, Stamsund",68.132494,13.843765
+311899,"Yttervikveien 2F, Stamsund",68.132575,13.843814
+311900,"Yttervikveien 2C, Stamsund",68.132526,13.843116
+311901,"Yttervikveien 2D, Stamsund",68.132606,13.843175
+311902,"Yttervikveien 2A, Stamsund",68.132446,13.843495
+311903,"Yttervikveien 2B, Stamsund",68.132487,13.843344
+311967,"Fabrikkveien 6, Stamsund",68.147401,13.843986
+311979,"Finstadveien 192, Stamsund",68.140179,13.748727
+312001,"Hartvågen 17, Stamsund",68.130652,13.855461
+312005,"Buøyveien 25, Stamsund",68.125334,13.858155
+312021,"Tabakkveien 29, Stamsund",68.144452,13.827643
+312056,"Steineveien 319, Stamsund",68.153384,13.763172
+312077,"Rishaugveien 8, Stamsund",68.136432,13.837846
+312078,"Ringveien 40, Stamsund",68.128765,13.842035
+312079,"J.M.Johansens vei 97, Stamsund",68.126161,13.850681
+312102,"Skjæret 1B, Stamsund",68.122059,13.846437
+312106,"Skjæret 1A, Stamsund",68.122097,13.846555
+312111,"Aspeveien 9, Stamsund",68.136162,13.835093
+312121,"Naustveien 1, Stamsund",68.137354,13.838811
+312137,"Edvard Oddens vei 15, Stamsund",68.131216,13.851319
+312139,"J.M.Johansens vei 111, Stamsund",68.126536,13.854247
+312151,"Finstadveien 182, Stamsund",68.140702,13.749074
+312171,"Myrlandsveien 16, Stamsund",68.138736,13.831208
+312175,"Steineveien 214, Stamsund",68.139649,13.767564
+312237,"J.M.Johansens vei 63, Stamsund",68.124503,13.849561
+312238,"J.M.Johansens vei 65, Stamsund",68.124622,13.849916
+312239,"J.M.Johansens vei 59, Stamsund",68.12433,13.849257
+312240,"J.M.Johansens vei 61, Stamsund",68.124376,13.849375
+312241,"J.M.Johansens vei 57, Stamsund",68.124256,13.848972
+312250,"Finstadveien 184, Stamsund",68.139452,13.755242
+312252,"Finstadveien 180, Stamsund",68.14134,13.74579
+312253,"Finstadveien 186, Stamsund",68.139386,13.751671
+312283,"Skifjordveien 247, Stamsund",68.151552,13.835974
+312285,"Hagskarveien 327, Stamsund",68.156865,13.750808
+312311,"Skifjordveien 239, Stamsund",68.152107,13.834405
+312329,"Myrlandsveien 12, Stamsund",68.139071,13.832899
+312334,"Steineveien 286, Stamsund",68.148548,13.764251
+312336,"Steineveien 237, Stamsund",68.145515,13.771278
+312354,"Hellesjyveien 13, Stamsund",68.141424,13.839104
+312379,"Burekka 35, Stamsund",68.123425,13.848076
+312382,"Burekka 33, Stamsund",68.123298,13.847866
+312387,"Burekka 21, Stamsund",68.123126,13.84761
+312388,"Burekka 23, Stamsund",68.123235,13.847845
+312389,"Burekka 28, Stamsund",68.123339,13.847383
+312390,"Burekka 30, Stamsund",68.123287,13.847602
+312392,"Burekka 26, Stamsund",68.123419,13.847258
+312438,"Nilsvika 45, Stamsund",68.130641,13.856473
+312442,"Steineveien 84, Stamsund",68.12,13.781896
+312443,"Vestfjordgata 59, Stamsund",68.133569,13.841408
+312444,"Vestfjordgata 61, Stamsund",68.133552,13.841601
+312445,"Vestfjordgata 55, Stamsund",68.133601,13.840925
+312446,"Vestfjordgata 57, Stamsund",68.133594,13.841094
+312448,"Vestfjordgata 53, Stamsund",68.133609,13.840708
+312470,"Steineveien 325, Stamsund",68.155394,13.763493
+312482,"Burekka 9, Stamsund",68.12266,13.846503
+312483,"Burekka 11, Stamsund",68.122716,13.846716
+312484,"Burekka 5, Stamsund",68.122567,13.846002
+312485,"Burekka 7, Stamsund",68.122605,13.846241
+312493,"Finstadveien 84, Stamsund",68.150688,13.748146
+312495,"Steineveien 49, Stamsund",68.118488,13.788541
+312496,"Steineveien 90, Stamsund",68.12097,13.781556
+312498,"J.M.Johansens vei 316, Stamsund",68.145831,13.828632
+312562,"Burekka 36, Stamsund",68.123423,13.847763
+312564,"Burekka 18, Stamsund",68.123033,13.847182
+312565,"Burekka 20, Stamsund",68.123106,13.847346
+312566,"Burekka 14, Stamsund",68.12286,13.846805
+312567,"Burekka 16, Stamsund",68.122924,13.846946
+312568,"Burekka 10, Stamsund",68.122731,13.846355
+312569,"Burekka 12, Stamsund",68.122778,13.846593
+312570,"Burekka 6, Stamsund",68.122736,13.845801
+312571,"Burekka 8, Stamsund",68.122711,13.846043
+312572,"Burekka 17, Stamsund",68.122998,13.847352
+312573,"Burekka 19, Stamsund",68.123062,13.847493
+312574,"Burekka 13, Stamsund",68.122807,13.846976
+312575,"Burekka 15, Stamsund",68.122871,13.847117
+312600,"Burekka 24, Stamsund",68.12324,13.847291
+312603,"Burekka 22, Stamsund",68.123302,13.847144
+312604,"Steineveien 154, Stamsund",68.13235,13.779149
+1372495,"Buøyveien 13, Stamsund",68.12676,13.85624
+1449544,"J.M.Johansens vei 256, Stamsund",68.14168,13.8332
+1682055,"Steineveien 301, Stamsund",68.150514,13.76567
+1695500,"Yttervikveien 4A, Stamsund",68.132739,13.842901
+1695800,"Yttervikveien 4E, Stamsund",68.132896,13.843081
+1695801,"Yttervikveien 4F, Stamsund",68.132921,13.842865
+1695806,"Yttervikveien 4B, Stamsund",68.132784,13.842692
+1695808,"Yttervikveien 4C, Stamsund",68.132834,13.842475
+1695811,"Yttervikveien 4D, Stamsund",68.132878,13.842285
+1740743,"Blåbergan 2, Stamsund",68.152127,13.763512
+1749310,"Åsen 16, Stamsund",68.134404,13.836986
+1772598,"Edvard Oddens vei 11B, Stamsund",68.131253,13.850244
+1772599,"Edvard Oddens vei 11A, Stamsund",68.131259,13.850039
+1772600,"Edvard Oddens vei 13B, Stamsund",68.131271,13.850681
+1772601,"Edvard Oddens vei 13A, Stamsund",68.131264,13.850477
+1782669,"Yttervikveien 6G, Stamsund",68.132722,13.84479
+1782670,"Yttervikveien 6F, Stamsund",68.132724,13.844595
+1782671,"Yttervikveien 6E, Stamsund",68.132717,13.84443
+1782672,"Yttervikveien 6D, Stamsund",68.13293,13.844871
+1782674,"Yttervikveien 6C, Stamsund",68.132929,13.844684
+1782676,"Yttervikveien 6B, Stamsund",68.13293,13.844511
+1823968,"Hellesjyveien 15, Stamsund",68.141459,13.839711
+1824041,"Hellesjyveien 14, Stamsund",68.141665,13.838964
+1824072,"Hellesjyveien 16, Stamsund",68.141679,13.839497
+1837647,"Øyanveien 27, Stamsund",68.151047,13.85493
+1837665,"Bakeriveien 9, Stamsund",68.117453,13.786852
+1920293,"Vikanveien 14, Stamsund",68.149023,13.846842
+1928281,"Hagskarveien 343, Stamsund",68.155179,13.751225
+1928282,"Hagskarveien 345, Stamsund",68.155282,13.752592
+1949371,"J.H.Trys vei 10, Stamsund",68.130021,13.848099
+1949372,"J.H.Trys vei 12, Stamsund",68.129991,13.848228
+1949373,"J.H.Trys vei 14, Stamsund",68.12995,13.848399
+1949374,"J.H.Trys vei 16, Stamsund",68.129879,13.848667
+1949427,"J.H.Trys vei 20, Stamsund",68.129791,13.848987
+1949429,"J.H.Trys vei 18, Stamsund",68.129835,13.848826
+1957494,"Skifjordveien 78, Stamsund",68.155679,13.798863
+1959081,"Nilsvika 25, Stamsund",68.132237,13.855621
+1963891,"Hellesjyveien 29, Stamsund",68.141911,13.836104
+1963958,"Hellesjyveien 27, Stamsund",68.141837,13.836719
+1964029,"Hellesjyveien 33, Stamsund",68.142093,13.835305
+1964602,"Hellesjyveien 31, Stamsund",68.141959,13.835564
+1982899,"Buøyveien 85, Stamsund",68.123383,13.853911
+1990029,"J.M.Johansens vei 135, Stamsund",68.128617,13.857042
+1994125,"J.M.Johansens vei 351, Stamsund",68.149288,13.84549
+1995788,"Tabakkveien 20, Stamsund",68.143025,13.82993
+2000175,"Hellesjyveien 8, Stamsund",68.141411,13.836769
+2000189,"Hellesjyveien 35, Stamsund",68.142328,13.834783
+2000941,"Halsbakkan 5E, Stamsund",68.129368,13.850372
+2000942,"Halsbakkan 5A, Stamsund",68.129325,13.849912
+2000943,"Halsbakkan 5B, Stamsund",68.129389,13.849899
+2000944,"Halsbakkan 5C, Stamsund",68.129505,13.850175
+2000945,"Halsbakkan 5D, Stamsund",68.129452,13.850312
+2009924,"Buøyveien 19, Stamsund",68.126491,13.857338
+2017917,"Hellesjyveien 2B, Stamsund",68.141635,13.83444
+2017919,"Hellesjyveien 2A, Stamsund",68.141549,13.834468
+2025619,"Buøyveien 4H, Stamsund",68.127882,13.856934
+2031442,"Hellesjyveien 26, Stamsund",68.141563,13.836297
+2032403,"Hagskarveien 349, Stamsund",68.1551,13.752169
+2045053,"Svarholtveien 13, Stamsund",68.135377,13.833674
+2045054,"Svarholtveien 15, Stamsund",68.13516,13.833902
+2045861,"Åsryggen 21, Stamsund",68.134715,13.843319
+2048938,"Hellvikveien 10, Stamsund",68.14042,13.837568
+2049075,"Hellvikveien 6, Stamsund",68.140796,13.837886
+2049212,"Nilsvika 27, Stamsund",68.13209,13.856112
+2051045,"Hellvikveien 8, Stamsund",68.140508,13.838076
+2053860,"Hellvikveien 7, Stamsund",68.140748,13.836475
+2053901,"Hellesjyveien 30, Stamsund",68.141707,13.834985
+2070629,"Buøyveien 4A, Stamsund",68.127505,13.855933
+2070632,"Buøyveien 4G, Stamsund",68.127838,13.856787
+2070634,"Buøyveien 4F, Stamsund",68.127793,13.856621
+2070641,"Buøyveien 4E, Stamsund",68.127746,13.85646
+2070644,"Buøyveien 4B, Stamsund",68.127583,13.855939
+2074805,"J.M.Johansens vei 165B, Stamsund",68.130637,13.848021
+2074806,"J.M.Johansens vei 165G, Stamsund",68.130523,13.848385
+2074807,"J.M.Johansens vei 165H, Stamsund",68.130463,13.848621
+2074811,"J.M.Johansens vei 165C, Stamsund",68.1306,13.84835
+2074813,"J.M.Johansens vei 165D, Stamsund",68.130566,13.848479
+2074814,"J.M.Johansens vei 165E, Stamsund",68.130499,13.848629
+2074815,"J.M.Johansens vei 165F, Stamsund",68.130487,13.848678
+2075654,"Steineveien 145, Stamsund",68.129771,13.778622
+2089188,"Hellvikveien 2, Stamsund",68.141171,13.839583
+2093808,"Steineveien 120, Stamsund",68.124058,13.774942
+2103425,"Valbergsveien 108, Stamsund",68.164183,13.786583
+2104290,"Vikanveien 16, Stamsund",68.148792,13.84727
+2107170,"Ringveien 28A, Stamsund",68.129515,13.839213
+2114659,"Valbergsveien 12, Stamsund",68.157249,13.780748
+2115609,"Vikanveien 13, Stamsund",68.14836,13.847195
+2119431,"Nilsvika 9, Stamsund",68.13224,13.853662
+2167150,"Ringveien 26, Stamsund",68.129635,13.838628
+2167168,"Ringveien 28B, Stamsund",68.129463,13.839421
+2182816,"Hellvikveien 5, Stamsund",68.140801,13.836966
+2190639,"J.M.Johansens vei 121, Stamsund",68.127437,13.854924
+2195777,"J.M.Johansens vei 23, Stamsund",68.122551,13.845298
+2195859,"J.M.Johansens vei 25, Stamsund",68.122686,13.845491
+2196484,"Skifjordveien 54, Stamsund",68.15584,13.791686
+2241589,"Nilsvika 23, Stamsund",68.132413,13.855213
+2242305,"Steineveien 260, Stamsund",68.14719,13.764338
+2256785,"Vikanveien 29, Stamsund",68.148389,13.849253
+2330815,"Finstadveien 168, Stamsund",68.143634,13.750788
+2353922,"Åsen 1, Stamsund",68.133821,13.838852
+2355121,"Nilsvika 21, Stamsund",68.132433,13.854379
+2361343,"Hellesjyveien 11, Stamsund",68.141311,13.837578
+2370020,"Åsryggen 15, Stamsund",68.135937,13.843486
+2377184,"Strandveien 5, Stamsund",68.138664,13.841544
+2377224,"Strandveien 3, Stamsund",68.138322,13.841486
+2380600,"Finstadveien 20, Stamsund",68.155529,13.745575
+2380601,"Finstadveien 18, Stamsund",68.155387,13.7448
+2380629,"Finstadveien 24, Stamsund",68.15509,13.746817
+2380991,"Vikanveien 21, Stamsund",68.147924,13.846459
+2382687,"J.M.Johansens vei 260B, Stamsund",68.141649,13.831628
+2382697,"J.M.Johansens vei 260A, Stamsund",68.141715,13.831648
+2382703,"J.M.Johansens vei 260C, Stamsund",68.141736,13.831375
+2382704,"J.M.Johansens vei 260D, Stamsund",68.141667,13.831331
+2384199,"Steineveien 323, Stamsund",68.155271,13.764321
+2384256,"Steineveien 188, Stamsund",68.138181,13.772553
+2387538,"Blåbergan 8, Stamsund",68.152924,13.765362
+2392743,"J.M.Johansens vei 140, Stamsund",68.129182,13.854235
+2392748,"Tabakkveien 27, Stamsund",68.144223,13.828281
+2392749,"Tabakkveien 23, Stamsund",68.143786,13.828688
+2392750,"Tabakkveien 31, Stamsund",68.14436,13.827287
+2397275,"Hellvikveien 4, Stamsund",68.140974,13.837822
+2397666,"Hellvikveien 9, Stamsund",68.140441,13.836412
+2397667,"Hellvikveien 11, Stamsund",68.140441,13.837042
+2397668,"Hellvikveien 3, Stamsund",68.141001,13.836913
+2453512,"Åsen 4, Stamsund",68.133481,13.838855
+2468521,"Vei 4059 22, Stamsund",68.131638,13.854212
+2468587,"Vei 4059 20, Stamsund",68.132035,13.85445
+2468923,"Hagskarveien 362, Stamsund",68.157255,13.76426
+2475073,"Finstadveien 89, Stamsund",68.148595,13.735596
+2479044,"Ringveien 30, Stamsund",68.129348,13.839811
+2479053,"Ringveien 32, Stamsund",68.129289,13.840014
+2486092,"Buøyveien 2A, Stamsund",68.127383,13.855752
+2486093,"Buøyveien 2B, Stamsund",68.127451,13.855789
+2487480,"Vei 4059 12, Stamsund",68.131754,13.853099
+2534189,"Aspeveien 3, Stamsund",68.136893,13.834449
+2534213,"Halsbakkan 8, Stamsund",68.129057,13.849928
+2535008,"J.M.Johansens vei 250, Stamsund",68.13777,13.834749
+2546777,"Buøyveien 4C, Stamsund",68.127718,13.856209
+2546778,"Buøyveien 4D, Stamsund",68.127745,13.856236
+2546968,"J.H.Trys vei 3, Stamsund",68.130144,13.846741
+2546969,"J.H.Trys vei 5, Stamsund",68.130069,13.84643
+2546970,"J.H.Trys vei 7, Stamsund",68.129631,13.847063
+2546971,"J.H.Trys vei 9, Stamsund",68.129637,13.847349
+2546972,"J.H.Trys vei 11, Stamsund",68.129871,13.84738
+2546973,"J.H.Trys vei 13, Stamsund",68.129943,13.847078

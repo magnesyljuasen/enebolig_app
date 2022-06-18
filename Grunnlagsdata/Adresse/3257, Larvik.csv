@@ -1,0 +1,773 @@
+,Navn,Long,Lat
+33723,"3020/1960, Larvik",59.050463,10.033189
+1143071,"Haralds gate 21, Larvik",59.056394,10.033442
+1143082,"Haralds gate 18, Larvik",59.056366,10.034444
+1143083,"Haralds gate 16, Larvik",59.055852,10.033661
+1143084,"Haralds gate 14, Larvik",59.0557,10.033409
+1143259,"Sachnowitz vei 18, Nanset",59.057777,10.040749
+1143260,"Sachnowitz vei 16, Nanset",59.057743,10.040398
+1143261,"Sachnowitz vei 15, Nanset",59.057966,10.040098
+1143262,"Sachnowitz vei 14A, Nanset",59.057572,10.039993
+1143263,"Sachnowitz vei 13, Nanset",59.058106,10.039457
+1143264,"Sachnowitz vei 12, Nanset",59.057627,10.039188
+1143265,"Sachnowitz vei 7, Nanset",59.057924,10.038649
+1143266,"Sachnowitz vei 3, Nanset",59.058008,10.038198
+1143978,"Skogveien 21, Nanset",59.058673,10.041292
+1143979,"Heibergs gate 52, Nanset",59.0581,10.041322
+1143980,"Heibergs gate 59, Nanset",59.058106,10.040607
+1143981,"Heibergs gate 48, Nanset",59.057594,10.041656
+1143982,"Heibergs gate 55, Nanset",59.05753,10.040907
+1143983,"Heibergs gate 46, Nanset",59.057253,10.041593
+1144274,"Heibergs gate 49, Nanset",59.057014,10.040013
+1144275,"Sophus Bugges vei 4B, Nanset",59.057186,10.037734
+1144276,"Greveveien 33, Nanset",59.057089,10.035172
+1144277,"Greveveien 35, Nanset",59.057094,10.03468
+1144278,"Greveveien 51, Nanset",59.057421,10.035234
+1144279,"Greveveien 45, Nanset",59.057491,10.034329
+1144293,"Heibergs gate 53, Nanset",59.057476,10.040313
+1144294,"Heibergs gate 47, Nanset",59.057127,10.040508
+1144295,"Heibergs gate 51, Nanset",59.05731,10.039923
+1144849,"Skogveien 19, Nanset",59.058644,10.040711
+1144850,"Skogveien 17, Nanset",59.058655,10.040432
+1144852,"Skogveien 15, Nanset",59.058677,10.039858
+1144853,"Skogveien 13, Nanset",59.058725,10.039421
+1144855,"Skogveien 11, Nanset",59.058705,10.038708
+1144859,"Skogveien 38, Nanset",59.058294,10.041712
+1144860,"Skogveien 36, Nanset",59.058262,10.041257
+1144861,"Skogveien 34, Nanset",59.058337,10.040566
+1144862,"Skogveien 32, Nanset",59.058359,10.04031
+1144863,"Skogveien 26B, Nanset",59.058436,10.038797
+1144864,"Skogveien 26A, Nanset",59.05819,10.038711
+1144865,"Skogveien 23, Nanset",59.058609,10.041651
+1144866,"Skogveien 22A, Nanset",59.058481,10.037499
+1144867,"Sophus Bugges vei 10, Nanset",59.058733,10.037418
+1144875,"Skogveien 9A, Nanset",59.058779,10.035629
+1144876,"Sophus Bugges vei 11B, Nanset",59.059147,10.036501
+1144877,"Sophus Bugges vei 4, Nanset",59.057265,10.037241
+1144878,"Sophus Bugges vei 3, Nanset",59.057695,10.036864
+1144888,"Sophus Bugges vei 18, Nanset",59.059702,10.037534
+1144889,"Sophus Bugges vei 16, Nanset",59.059559,10.037478
+1144890,"Sophus Bugges vei 14C, Nanset",59.059328,10.038238
+1144891,"Sophus Bugges vei 14B, Nanset",59.05934,10.03782
+1144892,"Sophus Bugges vei 14A, Nanset",59.059379,10.037455
+1144893,"Sophus Bugges vei 13C, Nanset",59.05958,10.037025
+1144894,"Sophus Bugges vei 13B, Nanset",59.059463,10.037056
+1144895,"Sophus Bugges vei 13A, Nanset",59.059347,10.037018
+1144896,"Sophus Bugges vei 12B, Nanset",59.059068,10.038195
+1144897,"Sophus Bugges vei 12A, Nanset",59.05909,10.037673
+1144908,"Sophus Bugges vei 1, Nanset",59.05729,10.036635
+1144911,"Sophus Bugges vei 11C, Nanset",59.059152,10.036282
+1145143,"Bergstien 3, Larvik",59.050554,10.033685
+1145144,"Bergstien 2, Larvik",59.050911,10.034281
+1145145,"Bergstien 1C, Larvik",59.050713,10.034391
+1145201,"Byfogd Bryns vei 2, Larvik",59.054343,10.041627
+1145202,"Byfogd Bryns vei 1, Larvik",59.054363,10.041331
+1145217,"Byskogveien 10, Larvik",59.05328,10.037402
+1145218,"Byskogveien 5, Larvik",59.053554,10.036842
+1145219,"Byskogveien 3, Larvik",59.052566,10.036641
+1145220,"Byskogstredet 2, Larvik",59.052984,10.03798
+1145221,"Byfogd Bryns vei 5, Larvik",59.054756,10.041657
+1145222,"Byfogd Bryns vei 4, Larvik",59.054708,10.042004
+1145223,"Byfogd Bryns vei 3, Larvik",59.054471,10.041988
+1145229,"Byskogveien 25, Larvik",59.056102,10.038027
+1145232,"Byskogveien 1, Larvik",59.052369,10.036497
+1145233,"Byskogveien 8, Larvik",59.053029,10.037406
+1145234,"Byskogveien 6, Larvik",59.052868,10.037369
+1145235,"Byskogveien 4, Larvik",59.052707,10.037289
+1145236,"Byskogveien 16, Larvik",59.054676,10.037807
+1145418,"Eriks gate 8, Larvik",59.055614,10.034273
+1145432,"Eriks gate 7, Larvik",59.056167,10.034176
+1145455,"Eriks gate 24, Larvik",59.054991,10.036716
+1145456,"Eriks gate 28, Larvik",59.054909,10.037383
+1145457,"Eriks gate 22, Larvik",59.055025,10.036436
+1145458,"Eriks gate 20, Larvik",59.055057,10.036317
+1145459,"Eriks gate 18, Larvik",59.055054,10.035888
+1145460,"Eriks gate 16, Larvik",59.055128,10.035752
+1145461,"Eriks gate 14, Larvik",59.055169,10.035377
+1145462,"Eriks gate 13, Larvik",59.055412,10.035447
+1145463,"Eriks gate 15, Larvik",59.055364,10.035709
+1145464,"Eriks gate 21, Larvik",59.055257,10.036571
+1145465,"Eriks gate 17, Larvik",59.055341,10.035994
+1145466,"Eriks gate 23, Larvik",59.055194,10.036813
+1145467,"Eriks gate 25, Larvik",59.055155,10.03711
+1145468,"Eriks gate 27, Larvik",59.055118,10.037438
+1145469,"Eriks gate 11, Larvik",59.055818,10.034624
+1145470,"Eriks gate 9, Larvik",59.05595,10.034443
+1145482,"Fogs gate 3, Larvik",59.052031,10.040982
+1145500,"Fogs gate 17, Larvik",59.053459,10.04099
+1145501,"Fogs gate 16, Larvik",59.053384,10.041458
+1145502,"Fogs gate 15, Larvik",59.053291,10.040748
+1145503,"Fogs gate 14, Larvik",59.053204,10.041436
+1145504,"Fogs gate 13, Larvik",59.053109,10.041014
+1145505,"Fogs gate 12, Larvik",59.053042,10.041466
+1145506,"Fogs gate 11, Larvik",59.052929,10.040991
+1145507,"Fogs gate 9, Larvik",59.052714,10.040915
+1145508,"Fogs gate 8, Larvik",59.052528,10.041368
+1145509,"Fogs gate 7, Larvik",59.052553,10.040968
+1145510,"Fogs gate 6, Larvik",59.052286,10.041451
+1145511,"Fogs gate 10, Larvik",59.052759,10.041466
+1145512,"Fogs gate 5, Larvik",59.052228,10.041022
+1145513,"Fogs gate 4, Larvik",59.052053,10.041592
+1145697,"Furuveien 13, Larvik",59.052282,10.044354
+1145698,"Furuveien 12, Larvik",59.052251,10.043813
+1145699,"Furuveien 11, Larvik",59.052031,10.044381
+1145700,"Furuveien 10, Larvik",59.052062,10.043824
+1145701,"Furuveien 8, Larvik",59.051873,10.043853
+1145702,"Furuveien 7, Larvik",59.051618,10.044386
+1145703,"Furuveien 6, Larvik",59.051718,10.043836
+1145707,"Furuveien 9, Larvik",59.051863,10.044345
+1145712,"Castbergs gate 8, Larvik",59.05254,10.043452
+1145713,"Castbergs gate 7, Larvik",59.052693,10.041858
+1145714,"Castbergs gate 6, Larvik",59.052546,10.042129
+1145715,"Castbergs gate 5, Larvik",59.052744,10.04067
+1145716,"Castbergs gate 4, Larvik",59.052545,10.04185
+1145717,"Castbergs gate 3A, Larvik",59.052837,10.040152
+1145718,"Castbergs gate 3, Larvik",59.052747,10.040276
+1145719,"Castbergs gate 2, Larvik",59.052541,10.040626
+1145720,"Castbergs gate 1, Larvik",59.05272,10.040096
+1145742,"Castbergs gate 11, Larvik",59.052799,10.043432
+1145743,"Castbergs gate 9, Larvik",59.052722,10.042195
+1145744,"Damveien 7, Larvik",59.050929,10.037305
+1145745,"Damveien 5, Larvik",59.050958,10.036992
+1145746,"Damveien 1A, Larvik",59.050987,10.03572
+1145747,"Damveien 1, Larvik",59.051037,10.03621
+1145758,"Diriks vei 19, Nanset",59.056958,10.039804
+1145759,"Diriks vei 17, Nanset",59.056842,10.039636
+1145760,"Diriks vei 15, Larvik",59.056727,10.040043
+1145766,"Damveien 9, Larvik",59.051142,10.037642
+1145767,"Damveien 8, Larvik",59.0508,10.037843
+1145768,"Diriks vei 11, Larvik",59.056419,10.039284
+1145769,"Dr Holms vei 15, Nanset",59.056792,10.037799
+1145770,"Dr Holms vei 11, Nanset",59.056722,10.03598
+1145771,"Dr Holms vei 8A, Nanset",59.056498,10.03534
+1145772,"Dr Holms vei 7, Nanset",59.056834,10.034501
+1145773,"Dr Holms vei 5, Nanset",59.056893,10.034153
+1145774,"Dr Holms vei 3, Nanset",59.056985,10.033692
+1145775,"Dr Holms vei 6, Nanset",59.056555,10.034809
+1145776,"Diriks vei 13, Larvik",59.056545,10.039704
+1145777,"Øvre Dr. Holms vei 24, Larvik",59.055658,10.043354
+1145779,"Øvre Dr. Holms vei 22, Larvik",59.055661,10.043093
+1145780,"Øvre Dr. Holms vei 20, Larvik",59.055658,10.042934
+1145781,"Frankendalsveien 34, Larvik",59.056051,10.044203
+1145782,"Øvre Dr. Holms vei 19, Larvik",59.056043,10.043417
+1145783,"Øvre Dr. Holms vei 18B, Larvik",59.055661,10.042621
+1145784,"Øvre Dr. Holms vei 17, Larvik",59.056037,10.042632
+1145785,"Øvre Dr. Holms vei 16, Larvik",59.055658,10.042141
+1145786,"Øvre Dr. Holms vei 15, Larvik",59.055932,10.042062
+1145787,"Øvre Dr. Holms vei 14, Larvik",59.055643,10.041645
+1145788,"Øvre Dr. Holms vei 12, Larvik",59.055618,10.041456
+1145789,"Øvre Dr. Holms vei 3, Larvik",59.056038,10.040461
+1145790,"Øvre Dr. Holms vei 4, Larvik",59.055702,10.040462
+1145791,"Diriks vei 14, Larvik",59.05626,10.040069
+1145792,"Øvre Dr. Holms vei 2, Larvik",59.055712,10.040162
+1145806,"Øvre Dr. Holms vei 26, Larvik",59.05567,10.043827
+1145819,"Dr Holms vei 1, Nanset",59.05727,10.032809
+1145861,"Heibergs gate 3, Larvik",59.052139,10.035819
+1145862,"Heibergs gate 2A, Larvik",59.051848,10.035685
+1145863,"Heibergs gate 2, Larvik",59.051885,10.03597
+1145864,"Heibergs gate 1, Larvik",59.052223,10.035503
+1145876,"Heibergs gate 19, Larvik",59.053293,10.039357
+1145877,"Heibergs gate 18, Larvik",59.052916,10.03968
+1145878,"Heibergs gate 11, Larvik",59.052654,10.037838
+1145879,"Heibergs gate 6A, Larvik",59.052074,10.037083
+1145880,"Heibergs gate 5, Larvik",59.052162,10.036134
+1145881,"Heibergs gate 4, Larvik",59.051894,10.036304
+1145882,"Øvre Dr. Holms vei 10, Larvik",59.055686,10.040857
+1145883,"Heibergs gate 33, Larvik",59.05544,10.040774
+1145884,"Heibergs gate 32, Larvik",59.054832,10.041206
+1145885,"Heibergs gate 31, Larvik",59.05523,10.040747
+1145886,"Heibergs gate 30, Larvik",59.054626,10.041112
+1145887,"Heibergs gate 29B, Larvik",59.05506,10.040655
+1145888,"Heibergs gate 29A, Larvik",59.054862,10.040461
+1145889,"Heibergs gate 28, Larvik",59.05434,10.040912
+1145890,"Heibergs gate 27, Larvik",59.054639,10.040375
+1145891,"Heibergs gate 26, Larvik",59.053474,10.04031
+1145892,"Heibergs gate 7, Larvik",59.052466,10.037187
+1145893,"Heibergs gate 9, Larvik",59.052586,10.037623
+1145894,"Heibergs gate 16, Larvik",59.052798,10.039216
+1145895,"Heibergs gate 14, Larvik",59.052608,10.039005
+1145896,"Heibergs gate 12, Larvik",59.052497,10.038565
+1145897,"Heibergs gate 8, Larvik",59.052362,10.037946
+1145898,"Heibergs gate 17, Larvik",59.053062,10.038893
+1145899,"Heibergs gate 15, Larvik",59.052875,10.038655
+1145900,"Heibergs gate 25, Larvik",59.054373,10.040198
+1145901,"Heibergs gate 22, Larvik",59.053187,10.040145
+1145902,"Heibergs gate 20, Larvik",59.053082,10.039828
+1145909,"Heibergs gate 45, Nanset",59.057101,10.040982
+1145910,"Heibergs gate 44, Larvik",59.056974,10.041792
+1145911,"Heibergs gate 42, Larvik",59.056363,10.041514
+1145912,"Horgsvingen 2, Larvik",59.056523,10.04163
+1145913,"Heibergs gate 40, Larvik",59.056207,10.041535
+1145914,"Diriks vei 16, Larvik",59.056463,10.040371
+1145915,"Diriks vei 18, Larvik",59.056843,10.040637
+1145916,"Heibergs gate 43, Larvik",59.056641,10.040924
+1145917,"Heibergs gate 41, Larvik",59.056312,10.040933
+1145918,"Heibergs gate 38, Larvik",59.055982,10.041598
+1145919,"Heibergs gate 36, Larvik",59.05535,10.0415
+1145920,"Herregårdsbakken 1D, Larvik",59.050407,10.035249
+1145921,"Herregårdsbakken 1C, Larvik",59.050112,10.035031
+1145922,"Herregårdsbakken 1B, Larvik",59.050125,10.035625
+1145923,"Herregårdsbakken 1A, Larvik",59.049853,10.036017
+1145924,"Herregårdsbakken 1, Larvik",59.04958,10.036358
+1145940,"Heibergs gate 23, Larvik",59.053671,10.039717
+1145943,"Herregårdssletta 6, Larvik",59.049528,10.037245
+1145944,"Herregårdssletta 2, Larvik",59.048754,10.037448
+1145945,"Herregårdsbakken 7, Larvik",59.05117,10.035203
+1145946,"Herregårdsbakken 5A, Larvik",59.050647,10.035553
+1145947,"Herregårdsbakken 5, Larvik",59.050788,10.034973
+1145948,"Herregårdsbakken 3, Larvik",59.050365,10.035893
+1145950,"Herregårdsbakken 2D, Larvik",59.05062,10.037154
+1145951,"Herregårdsbakken 2C, Larvik",59.050748,10.036658
+1145952,"Herregårdsbakken 2B, Larvik",59.050823,10.036038
+1146013,"Horg 4, Larvik",59.057241,10.042325
+1146014,"Horg 3, Nanset",59.057516,10.042438
+1146015,"Horg 2, Nanset",59.057455,10.042192
+1146016,"Horg 1, Nanset",59.057385,10.041963
+1146029,"Horg 9, Larvik",59.05713,10.042355
+1146030,"Horg 8, Larvik",59.057064,10.042417
+1146031,"Horg 7, Larvik",59.057253,10.042653
+1146032,"Horg 6, Larvik",59.057126,10.042728
+1146033,"Horg 5, Larvik",59.057317,10.04262
+1146083,"Håkons gate 11, Larvik",59.054399,10.035849
+1146086,"Håkons gate 10, Larvik",59.055381,10.033408
+1146087,"Håkons gate 12, Larvik",59.055252,10.033873
+1146088,"Håkons gate 14, Larvik",59.055063,10.034375
+1146089,"Håkons gate 9, Larvik",59.054475,10.035314
+1146090,"Håkons gate 7A, Larvik",59.054752,10.034284
+1146091,"Håkons gate 7, Larvik",59.054761,10.033942
+1146092,"Høyers gate 12, Larvik",59.055182,10.034417
+1146094,"Håkons gate 22A, Larvik",59.05469,10.035748
+1146095,"Håkons gate 16, Larvik",59.054889,10.034758
+1146096,"Håkons gate 46, Larvik",59.054098,10.040887
+1146097,"Håkons gate 45, Larvik",59.05379,10.043354
+1146098,"Håkons gate 44, Larvik",59.05413,10.040156
+1146099,"Håkons gate 43, Larvik",59.053663,10.042495
+1146100,"Håkons gate 42, Larvik",59.05444,10.03959
+1146101,"Håkons gate 41, Larvik",59.053666,10.042112
+1146102,"Håkons gate 39, Larvik",59.053653,10.041484
+1146103,"Håkons gate 38, Larvik",59.054599,10.038828
+1146104,"Håkons gate 37, Larvik",59.053699,10.040833
+1146105,"Håkons gate 35, Larvik",59.053704,10.040483
+1146106,"Håkons gate 34, Larvik",59.05441,10.037776
+1146107,"Håkons gate 23, Larvik",59.054072,10.038175
+1146108,"Håkons gate 5, Larvik",59.05513,10.033383
+1146109,"Håkons gate 3A, Larvik",59.055245,10.033071
+1146110,"Høyers gate 9, Larvik",59.054964,10.033681
+1146111,"Høyers gate 10, Larvik",59.054297,10.033124
+1146112,"Håkons gate 19, Larvik",59.05425,10.037185
+1146113,"Håkons gate 18, Larvik",59.054761,10.035135
+1146114,"Håkons gate 15, Larvik",59.054332,10.036299
+1146115,"Håkons gate 17, Larvik",59.054288,10.036634
+1146116,"Håkons gate 20, Larvik",59.054714,10.035426
+1146117,"Håkons gate 24, Larvik",59.054646,10.035968
+1146118,"Håkons gate 26, Larvik",59.054609,10.036249
+1146119,"Håkons gate 28, Larvik",59.054567,10.036616
+1146120,"Håkons gate 30, Larvik",59.054541,10.036835
+1146121,"Håkons gate 8, Larvik",59.055501,10.033227
+1146122,"Håkons gate 21, Larvik",59.054105,10.037638
+1146123,"Håkons gate 33, Larvik",59.053859,10.039874
+1146124,"Håkons gate 36A, Larvik",59.054374,10.038357
+1146126,"Håkons gate 58, Larvik",59.054272,10.043752
+1146128,"Håkons gate 56, Larvik",59.054165,10.043084
+1146131,"Håkons gate 54, Larvik",59.053986,10.042505
+1146133,"Håkons gate 52, Larvik",59.05408,10.041968
+1146136,"Håkons gate 50, Larvik",59.054083,10.041636
+1146138,"Håkons gate 49, Larvik",59.05433,10.044777
+1146139,"Håkons gate 47, Larvik",59.053913,10.043723
+1146153,"Håkons gate 62, Larvik",59.054634,10.044565
+1146155,"Håkons gate 60, Larvik",59.054502,10.044195
+1146162,"Håkons gate 31, Larvik",59.053939,10.039381
+1146163,"Håkons gate 32, Larvik",59.0545,10.037259
+1146164,"Håkons gate 48, Larvik",59.054046,10.041119
+1146175,"Furuveien 21, Larvik",59.053378,10.044317
+1146176,"Furuveien 20, Larvik",59.053221,10.043807
+1146177,"Furuveien 19, Larvik",59.053046,10.044342
+1146178,"Furuveien 18, Larvik",59.053032,10.043819
+1146179,"Furuveien 17A, Larvik",59.052797,10.044307
+1146180,"Furuveien 16, Larvik",59.052745,10.04381
+1146181,"Furuveien 15, Larvik",59.052495,10.044299
+1146182,"Furuveien 14, Larvik",59.052485,10.043802
+1146191,"Furuveien 28, Larvik",59.054715,10.043382
+1146192,"Furuveien 27, Larvik",59.054097,10.044304
+1146193,"Furuveien 26B, Larvik",59.054431,10.042955
+1146194,"Furuveien 26, Larvik",59.054526,10.043463
+1146195,"Furuveien 25, Larvik",59.053792,10.044278
+1146196,"Furuveien 24, Larvik",59.053572,10.043765
+1146197,"Furuveien 23, Larvik",59.053585,10.044306
+1146198,"Furuveien 22, Larvik",59.053383,10.043795
+1146216,"Greveveien 8, Larvik",59.052275,10.035266
+1146217,"Greveveien 4, Larvik",59.051842,10.035432
+1146218,"Greveveien 2, Larvik",59.051624,10.035499
+1146228,"Greveveien 27, Larvik",59.056145,10.035283
+1146229,"Greveveien 16, Larvik",59.053198,10.035525
+1146230,"Greveveien 15, Larvik",59.0546,10.03465
+1146231,"Greveveien 11, Larvik",59.054038,10.034358
+1146232,"Greveveien 10A, Larvik",59.052453,10.035567
+1146233,"Greveveien 10, Larvik",59.052401,10.035228
+1146234,"Greveveien 9C, Larvik",59.053548,10.034385
+1146235,"Greveveien 24, Larvik",59.053904,10.034666
+1146236,"Greveveien 28B, Larvik",59.055542,10.035383
+1146237,"Greveveien 28A, Larvik",59.054373,10.034867
+1146238,"Greveveien 17, Larvik",59.055128,10.034811
+1146239,"Greveveien 7, Larvik",59.052958,10.034406
+1146240,"Greveveien 6, Larvik",59.052075,10.0353
+1146241,"Greveveien 1, Larvik",59.051862,10.034953
+1146242,"Greveveien 30, Larvik",59.056272,10.035752
+1146243,"Greveveien 2A, Larvik",59.051698,10.035778
+1146244,"Greveveien 9B, Larvik",59.053332,10.034431
+1146245,"Greveveien 8B, Larvik",59.052319,10.03557
+1146251,"Greveveien 46A, Nanset",59.058211,10.03607
+1146252,"Greveveien 57, Nanset",59.058531,10.035644
+1146253,"Greveveien 40, Nanset",59.057117,10.036201
+1146281,"Greveveien 48, Nanset",59.058892,10.03626
+1146306,"Josefinegata 20, Larvik",59.051783,10.031612
+1146307,"Josefinegata 16, Larvik",59.051946,10.031356
+1146308,"Josefinegata 12G, Larvik",59.052033,10.031259
+1146309,"Josefinegata 12F, Larvik",59.052051,10.031117
+1146310,"Josefinegata 12E, Larvik",59.052068,10.031077
+1146311,"Josefinegata 12D, Larvik",59.052085,10.031046
+1146312,"Josefinegata 12C, Larvik",59.052075,10.03117
+1146313,"Josefinegata 12B, Larvik",59.052094,10.031139
+1146314,"Josefinegata 12A, Larvik",59.052156,10.031015
+1146315,"Josefinegata 10, Larvik",59.052157,10.030874
+1146318,"Karlsrostredet 1, Larvik",59.051504,10.033923
+1146319,"Karlsrogata 8, Larvik",59.052585,10.031677
+1146320,"Karlsrogata 6, Larvik",59.052523,10.031497
+1146321,"Josefinegata 17, Larvik",59.052113,10.031741
+1146322,"Karlsrogata 3A, Larvik",59.05252,10.030894
+1146343,"Karlsrostredet 8, Larvik",59.051103,10.034625
+1146344,"Karlsrostredet 7A, Larvik",59.051199,10.03496
+1146345,"Karlsrostredet 6, Larvik",59.051213,10.034402
+1146346,"Karlsrostredet 4, Larvik",59.051269,10.034107
+1146347,"Karlsrostredet 3, Larvik",59.051329,10.034458
+1146348,"Karlsrostredet 2, Larvik",59.051333,10.033918
+1146426,"Kristian Fredriks vei 1, Larvik",59.049082,10.039114
+1146447,"Kristian Fredriks vei 21, Larvik",59.051431,10.037022
+1146448,"Kristian Fredriks vei 19, Larvik",59.051393,10.037443
+1146449,"Kristian Fredriks vei 17, Larvik",59.051293,10.037874
+1146450,"Kristian Fredriks vei 15, Larvik",59.051172,10.038262
+1146451,"Kristian Fredriks vei 13, Larvik",59.050996,10.038545
+1146452,"Kristian Fredriks vei 11, Larvik",59.050808,10.038774
+1146453,"Kristian Fredriks vei 10C, Larvik",59.050602,10.04015
+1146454,"Kristian Fredriks vei 10B, Larvik",59.051029,10.041018
+1146455,"Kristian Fredriks vei 10, Larvik",59.050755,10.040899
+1146456,"Kristian Fredriks vei 9, Larvik",59.050626,10.039029
+1146571,"Mesterfjellveien 38, Larvik",59.051633,10.04542
+1146572,"Mesterfjellveien 37, Larvik",59.051749,10.044843
+1146573,"Mesterfjellveien 36, Larvik",59.051475,10.045095
+1146587,"Mesterfjellveien 57, Larvik",59.054056,10.045182
+1146588,"Mesterfjellveien 55, Larvik",59.054005,10.044929
+1146589,"Mesterfjellveien 58, Larvik",59.053337,10.045517
+1146590,"Mesterfjellveien 53, Larvik",59.053778,10.044847
+1146591,"Mesterfjellveien 56, Larvik",59.053131,10.045515
+1146592,"Mesterfjellveien 51B, Larvik",59.053545,10.044863
+1146593,"Mesterfjellveien 50, Larvik",59.052676,10.045506
+1146594,"Mesterfjellveien 46, Larvik",59.052581,10.045995
+1146595,"Mesterfjellveien 48, Larvik",59.052511,10.045541
+1146596,"Castbergs gate 17, Larvik",59.052657,10.044747
+1146597,"Mesterfjellveien 44, Larvik",59.052323,10.045504
+1146598,"Castbergs gate 14, Larvik",59.052342,10.044722
+1146599,"Mesterfjellveien 42, Larvik",59.052033,10.045525
+1146600,"Mesterfjellveien 41, Larvik",59.052153,10.044838
+1146601,"Mesterfjellveien 40, Larvik",59.051854,10.045535
+1146602,"Mesterfjellveien 39, Larvik",59.051937,10.044814
+1146614,"Mesterfjellveien 64, Larvik",59.053788,10.045725
+1146615,"Mesterfjellveien 62, Larvik",59.053769,10.045654
+1146616,"Mesterfjellveien 59, Larvik",59.054034,10.045427
+1146617,"Mesterfjellveien 60, Larvik",59.053568,10.045479
+1146676,"Inges gate 2, Larvik",59.055355,10.042059
+1146692,"Jegersborggata 12B, Larvik",59.052852,10.031505
+1146693,"Jegersborggata 11, Larvik",59.053475,10.031175
+1146694,"Jegersborggata 10, Larvik",59.052875,10.030948
+1146695,"Jegersborggata 9, Larvik",59.053468,10.030652
+1146697,"Jegersborggata 8C, Larvik",59.053108,10.030955
+1146698,"Jegersborggata 8B, Larvik",59.053181,10.0308
+1146699,"Jegersborggata 8A, Larvik",59.053263,10.030628
+1146700,"Jegersborggata 6B, Larvik",59.053373,10.030353
+1146705,"Inges gate 10, Larvik",59.055365,10.044151
+1146706,"Inges gate 8, Larvik",59.05536,10.043645
+1146707,"Inges gate 6, Larvik",59.055305,10.04304
+1146708,"Inges gate 4, Larvik",59.055359,10.042564
+1146709,"Jegersborggata 32, Larvik",59.051544,10.034534
+1146710,"Jegersborggata 31, Larvik",59.052163,10.033883
+1146711,"Jegersborggata 30, Larvik",59.051644,10.034328
+1146712,"Jegersborggata 27A, Larvik",59.052261,10.033538
+1146713,"Jegersborggata 27, Larvik",59.052326,10.033348
+1146714,"Jegersborggata 25, Larvik",59.052382,10.033245
+1146715,"Jegersborggata 20, Larvik",59.052487,10.032313
+1146723,"Jegersborggata 14, Larvik",59.05273,10.031892
+1146724,"Jegersborggata 18, Larvik",59.052516,10.03218
+1146725,"Jegersborggata 16A, Larvik",59.052429,10.031993
+1146726,"Jegersborggata 22, Larvik",59.052251,10.032788
+1146727,"Jegersborggata 24, Larvik",59.052199,10.03292
+1146728,"Jegersborggata 26, Larvik",59.052143,10.033044
+1146730,"Jegersborggata 38, Larvik",59.051324,10.035085
+1146731,"Jegersborggata 36, Larvik",59.051379,10.03493
+1146732,"Jegersborggata 34, Larvik",59.05148,10.034724
+1146760,"Jegersborggata 33, Larvik",59.051946,10.034316
+1146761,"Jegersborggata 37, Larvik",59.051779,10.034646
+1146762,"Jegersborggata 41, Larvik",59.051613,10.035002
+1146797,"Residensveien 2, Larvik",59.050589,10.038001
+1146798,"Residensveien 1, Larvik",59.050987,10.037929
+1146822,"Residensveien 9, Larvik",59.050428,10.038452
+1146823,"Residensveien 7, Larvik",59.050569,10.038436
+1146824,"Residensveien 5, Larvik",59.050707,10.038285
+1146825,"Residensveien 4, Larvik",59.050408,10.038175
+1146826,"Residensveien 3, Larvik",59.050786,10.038123
+1146866,"Sartz gate 11, Larvik",59.052492,10.036074
+1146867,"Sartz gate 9, Larvik",59.052282,10.036076
+1146873,"Schultzes gate 10, Larvik",59.052044,10.032579
+1146874,"Schultzes gate 8, Larvik",59.052011,10.032317
+1146887,"Schultzes gate 13, Larvik",59.052414,10.032414
+1146888,"Schultzes gate 11, Larvik",59.052245,10.032148
+1146889,"Schultzes gate 9, Larvik",59.051993,10.031891
+1147035,"Steingata 15, Larvik",59.051858,10.033771
+1147036,"Steingata 14, Larvik",59.051791,10.033984
+1147037,"Steingata 12, Larvik",59.051621,10.033857
+1147038,"Steingata 10, Larvik",59.051343,10.033656
+1147039,"Steingata 8, Larvik",59.051207,10.033569
+1147040,"Steingata 7, Larvik",59.051382,10.033447
+1147041,"Steingata 6, Larvik",59.05108,10.033349
+1147042,"Steingata 5, Larvik",59.051169,10.03294
+1147043,"Steingata 4, Larvik",59.050885,10.033149
+1147044,"Steingata 3, Larvik",59.051029,10.032801
+1147045,"Steingata 2B, Larvik",59.050624,10.032728
+1147046,"Steingata 2A, Larvik",59.050572,10.032518
+1147047,"Steingata 1, Larvik",59.050933,10.03279
+1147123,"Sveins gate 22, Larvik",59.055686,10.03674
+1147124,"Sveins gate 16, Larvik",59.055775,10.036053
+1147125,"Sveins gate 20, Larvik",59.055718,10.03644
+1147126,"Sveins gate 14, Larvik",59.055827,10.035679
+1147127,"Sveins gate 21, Larvik",59.055884,10.037353
+1147128,"Sveins gate 19B, Larvik",59.055915,10.037061
+1147129,"Sveins gate 17, Larvik",59.055977,10.036683
+1147141,"Sverres gate 23, Larvik",59.054242,10.034008
+1147142,"Sverres gate 21, Larvik",59.054322,10.033812
+1147143,"Sverres gate 17, Larvik",59.054451,10.033234
+1147159,"Sverres gate 15, Larvik",59.0546,10.033045
+1147161,"Sverres gate 20, Larvik",59.05398,10.033758
+1147162,"Sverres gate 18, Larvik",59.054089,10.033467
+1147163,"Sveins gate 24, Larvik",59.055657,10.03709
+1147164,"Sveins gate 26, Larvik",59.055619,10.037333
+1147165,"Sveins gate 32, Larvik",59.055257,10.038837
+1147166,"Sveins gate 30A, Larvik",59.055444,10.038578
+1147167,"Sveins gate 25, Larvik",59.05567,10.03885
+1147177,"Olavs gate 23, Larvik",59.053663,10.03337
+1147178,"Olavs gate 21, Larvik",59.053757,10.033174
+1147179,"Olavs gate 19, Larvik",59.053848,10.032944
+1147180,"Olavs gate 17, Larvik",59.0539,10.032656
+1147186,"Parkalleen 16, Larvik",59.052759,10.042634
+1147187,"Parkalleen 15, Larvik",59.052519,10.043013
+1147188,"Parkalleen 14, Larvik",59.052513,10.042478
+1147189,"Parkalleen 13, Larvik",59.052248,10.043098
+1147190,"Parkalleen 12, Larvik",59.052253,10.042488
+1147191,"Parkalleen 11, Larvik",59.052068,10.043144
+1147192,"Parkalleen 10, Larvik",59.052073,10.042482
+1147193,"Parkalleen 9, Larvik",59.051888,10.043122
+1147194,"Parkalleen 8, Larvik",59.051902,10.042494
+1147195,"Parkalleen 7, Larvik",59.051682,10.043115
+1147196,"Parkalleen 6, Larvik",59.051723,10.042506
+1147211,"Parkalleen 25, Larvik",59.053568,10.043068
+1147212,"Parkalleen 23, Larvik",59.053397,10.04308
+1147213,"Parkalleen 21, Larvik",59.0532,10.043109
+1147214,"Parkalleen 20, Larvik",59.053186,10.042516
+1147215,"Parkalleen 18, Larvik",59.053025,10.042511
+1147216,"Parkalleen 17, Larvik",59.0529,10.043034
+1147431,"Trygves gate 3C, Larvik",59.052756,10.032287
+1147432,"Trygves gate 3B, Larvik",59.052793,10.032166
+1147433,"Trygves gate 3A, Larvik",59.052747,10.032269
+1147434,"Trygves gate 1C, Larvik",59.052746,10.032426
+1147435,"Trygves gate 1B, Larvik",59.052737,10.032408
+1147436,"Trygves gate 1A, Larvik",59.05272,10.03239
+1147446,"Trygves gate 17, Larvik",59.053778,10.033874
+1147447,"Trygves gate 7B, Larvik",59.052899,10.032683
+1147448,"Trygves gate 7A, Larvik",59.053149,10.032642
+1147449,"Trygves gate 7, Larvik",59.053087,10.032839
+1147450,"Trygves gate 5F, Larvik",59.052993,10.031928
+1147451,"Trygves gate 5E, Larvik",59.052902,10.032012
+1147452,"Trygves gate 5D, Larvik",59.052975,10.031892
+1147453,"Trygves gate 5C, Larvik",59.052893,10.031994
+1147454,"Trygves gate 5B, Larvik",59.052957,10.031857
+1147455,"Trygves gate 5A, Larvik",59.052885,10.031977
+1147456,"Trygves gate 3F, Larvik",59.052811,10.032201
+1147457,"Trygves gate 3E, Larvik",59.052765,10.032304
+1147458,"Trygves gate 3D, Larvik",59.052802,10.032183
+1147485,"Trygves gate 11, Larvik",59.053264,10.033132
+1147486,"Trygves gate 13, Larvik",59.053416,10.033363
+1147490,"Mesterfjellveien 28, Larvik",59.051121,10.043604
+1147491,"Mesterfjellveien 26, Larvik",59.051115,10.043168
+1147492,"Parkalleen 5, Larvik",59.051482,10.043319
+1147493,"Parkalleen 4, Larvik",59.051498,10.042534
+1147494,"Mesterfjellveien 21, Larvik",59.051573,10.042136
+1147495,"Fogs gate 2, Larvik",59.051765,10.041688
+1147496,"Fogs gate 1, Larvik",59.051842,10.040993
+1147497,"Mesterfjellveien 15, Larvik",59.051802,10.040453
+1147498,"Sverres gate 40, Larvik",59.052039,10.039795
+1147500,"Furuveien 5, Larvik",59.051438,10.044381
+1147501,"Mesterfjellveien 30, Larvik",59.051128,10.043848
+1147502,"Furuveien 4, Larvik",59.051478,10.043876
+1147503,"Mesterfjellveien 6, Larvik",59.051404,10.039655
+1147504,"Mesterfjellveien 8, Larvik",59.051322,10.039775
+1147505,"Mesterfjellveien 10, Larvik",59.051223,10.039894
+1147514,"Mesterfjellveien 2, Larvik",59.051604,10.039417
+1147515,"Mesterfjellveien 12, Larvik",59.051148,10.040223
+1147516,"Mesterfjellveien 14, Larvik",59.051219,10.040399
+1147517,"Mesterfjellveien 16, Larvik",59.051334,10.040542
+1147518,"Mesterfjellveien 18, Larvik",59.051434,10.040423
+1147520,"Mesterfjellveien 1, Larvik",59.05192,10.037377
+1147521,"Mesterfjellveien 5, Larvik",59.051995,10.03782
+1147522,"Mesterfjellveien 7, Larvik",59.051988,10.038245
+1147523,"Mesterfjellveien 9, Larvik",59.052014,10.038807
+1147524,"Mesterfjellveien 11, Larvik",59.052,10.039264
+1147525,"Mesterfjellveien 20, Larvik",59.051481,10.040198
+1147526,"Mesterfjellveien 22, Larvik",59.051473,10.039971
+1147527,"Mesterfjellveien 4, Larvik",59.051504,10.039554
+1147605,"Øvre Steinstredet 1, Larvik",59.05185,10.032207
+1147608,"Øvre Jegersborggate 6, Larvik",59.052473,10.033743
+1147609,"Øvre Jegersborggate 4, Larvik",59.05261,10.033405
+1147610,"Øvre Jegersborggate 2, Larvik",59.052724,10.033096
+1147613,"Øvre Steinstredet 9, Larvik",59.051261,10.032852
+1147614,"Øvre Steinstredet 7, Larvik",59.051477,10.032824
+1147615,"Øvre Steinstredet 6, Larvik",59.051391,10.03235
+1147616,"Øvre Steinstredet 5, Larvik",59.051551,10.032495
+1147617,"Øvre Steinstredet 4A, Larvik",59.05159,10.032077
+1147618,"Øvre Steinstredet 4, Larvik",59.051508,10.032232
+1147619,"Øvre Steinstredet 2, Larvik",59.051682,10.031871
+1147623,"Horgsvingen 13, Larvik",59.057577,10.04373
+1147624,"Horgsvingen 11, Larvik",59.057122,10.043531
+1147625,"Horgsvingen 9, Larvik",59.05701,10.043106
+1147626,"Horgsvingen 5, Larvik",59.057456,10.042956
+1147627,"Horgsvingen 3, Larvik",59.056869,10.042436
+1147635,"Øvre Steinstredet 8, Larvik",59.05119,10.032489
+1147636,"Øvre Jegersborggate 1, Larvik",59.052871,10.033732
+1147637,"Øvre Jegersborggate 5, Larvik",59.052575,10.034058
+1147638,"Øvre Jegersborggate 9, Larvik",59.052454,10.034284
+1147639,"Øvre Jegersborggate 13, Larvik",59.052335,10.034544
+1147640,"Øvre Jegersborggate 11, Larvik",59.052425,10.034343
+1147641,"Øvre Jegersborggate 15, Larvik",59.052217,10.034643
+1147642,"Øvre Jegersborggate 10, Larvik",59.052314,10.034134
+1147643,"Øvre Jegersborggate 16, Larvik",59.052049,10.034778
+1147644,"Øvre Jegersborggate 14, Larvik",59.052086,10.034526
+1147653,"Sverres gate 30, Larvik",59.053465,10.038026
+1147654,"Sverres gate 28, Larvik",59.053568,10.037506
+1147655,"Sverres gate 25, Larvik",59.054187,10.035328
+1147657,"Sverres gate 51, Larvik",59.052063,10.040325
+1147658,"Sverres gate 49, Larvik",59.052231,10.040311
+1147659,"Sverres gate 47, Larvik",59.052504,10.03996
+1147660,"Sverres gate 45, Larvik",59.053396,10.038863
+1147661,"Sverres gate 41, Larvik",59.053687,10.038471
+1147662,"Sverres gate 39, Larvik",59.053789,10.038153
+1147672,"Sverres gate 25A, Larvik",59.054029,10.035059
+1147673,"Sverres gate 27, Larvik",59.054072,10.035597
+1147674,"Sverres gate 29, Larvik",59.054096,10.035965
+1147675,"Sverres gate 31, Larvik",59.054035,10.036291
+1147676,"Sverres gate 33, Larvik",59.053966,10.036553
+1147677,"Sverres gate 32, Larvik",59.053436,10.038439
+1147678,"Sverres gate 38, Larvik",59.052319,10.03965
+1147679,"Sverres gate 36, Larvik",59.052548,10.039552
+1147680,"Sverres gate 37, Larvik",59.053823,10.037591
+1147681,"Sverres gate 34, Larvik",59.053305,10.038633
+1150240,"Horgsvingen 7, Larvik",59.057332,10.04337
+1150690,"Haralds gate 18A, Larvik",59.056165,10.034683
+1150691,"Byskogveien 27, Larvik",59.056297,10.038103
+1150737,"Sverres gate 43B, Larvik",59.053665,10.03885
+1150753,"Sverres gate 43A, Larvik",59.053561,10.038782
+1150895,"Nansetgata 68, Nanset",59.060108,10.036701
+1150985,"Kristian Fredriks vei 3, Larvik",59.049615,10.038782
+1151411,"Sophus Bugges vei 1A, Nanset",59.056949,10.036887
+1151470,"Sachnowitz vei 10, Nanset",59.057192,10.038819
+1153061,"Heibergs gate 39, Larvik",59.056022,10.041024
+1153062,"Heibergs gate 37, Larvik",59.055923,10.04108
+1153063,"Josefinegata 15A, Larvik",59.052116,10.031432
+1153064,"Josefinegata 15B, Larvik",59.052168,10.031453
+1153065,"Josefinegata 15C, Larvik",59.052186,10.031422
+1153066,"Josefinegata 15D, Larvik",59.052251,10.031511
+1153067,"Josefinegata 15E, Larvik",59.052301,10.031553
+1153068,"Josefinegata 15F, Larvik",59.052215,10.031695
+1153558,"Greveveien 9A, Larvik",59.053152,10.034513
+1153576,"Trygves gate 15, Larvik",59.053537,10.033539
+1153602,"Greveveien 23, Larvik",59.055232,10.034889
+1153603,"Greveveien 21, Larvik",59.055214,10.034906
+1153604,"Høyers gate 32, Larvik",59.055386,10.034824
+1153605,"Høyers gate 30, Larvik",59.05533,10.034979
+1153606,"Høyers gate 26, Larvik",59.055304,10.034944
+1153607,"Høyers gate 22, Larvik",59.055277,10.03489
+1153608,"Høyers gate 20, Larvik",59.055208,10.03454
+1153609,"Høyers gate 24, Larvik",59.055334,10.034885
+1153610,"Høyers gate 28, Larvik",59.055313,10.034876
+1153612,"Greveveien 19, Larvik",59.055194,10.034911
+1153613,"Høyers gate 18, Larvik",59.055244,10.034593
+1153614,"Høyers gate 16, Larvik",59.055164,10.034486
+1153615,"Høyers gate 14, Larvik",59.055253,10.034558
+1154064,"Horgsvingen 15, Nanset",59.057633,10.043557
+1154191,"Jegersborggata 12A, Larvik",59.052971,10.031265
+1154192,"Jegersborggata 6A, Larvik",59.053438,10.03018
+1154262,"Sachnowitz vei 9, Nanset",59.057892,10.039171
+1154264,"Sachnowitz vei 11, Nanset",59.057935,10.039486
+1154505,"Karlsrostredet 10, Larvik",59.05097,10.035123
+1154542,"Dr Holms vei 4B, Nanset",59.0566,10.034393
+1154544,"Dr Holms vei 4A, Nanset",59.056628,10.034183
+1154634,"Olavs gate 32, Larvik",59.053353,10.03266
+1154635,"Olavs gate 30, Larvik",59.053717,10.032469
+1154640,"Olavs gate 36, Larvik",59.05348,10.032985
+1154641,"Olavs gate 34, Larvik",59.053404,10.032852
+1154712,"Sophus Bugges vei 2B, Nanset",59.056947,10.037563
+1154766,"Mesterfjellveien 54, Larvik",59.052949,10.045619
+1154767,"Mesterfjellveien 52, Larvik",59.05293,10.045526
+1154801,"Høyers gate 7, Larvik",59.05478,10.033254
+1154961,"Herregårdsbakken 6, Larvik",59.05142,10.036518
+1154962,"Herregårdsbakken 4, Larvik",59.051309,10.035782
+1154965,"Kristian Fredriks vei 23B, Larvik",59.051451,10.036013
+1154966,"Kristian Fredriks vei 23A, Larvik",59.051476,10.036345
+1155068,"Sophus Bugges vei 2A, Nanset",59.05687,10.037313
+1155113,"Greveveien 5B, Larvik",59.052503,10.03449
+1155114,"Greveveien 5D, Larvik",59.052835,10.03451
+1155168,"Øvre Steinstredet 3, Larvik",59.05165,10.032445
+1155243,"Skogveien 9C, Nanset",59.05869,10.038254
+1155330,"Parkalleen 22B, Larvik",59.053424,10.04207
+1155331,"Parkalleen 22A, Larvik",59.053375,10.042487
+1155682,"Steingata 2D, Larvik",59.050783,10.032941
+1155684,"Steingata 2C, Larvik",59.050657,10.033113
+1155690,"Kristian Fredriks vei 22I, Larvik",59.051664,10.036386
+1155692,"Kristian Fredriks vei 22H, Larvik",59.051629,10.036369
+1155694,"Kristian Fredriks vei 22G, Larvik",59.051691,10.036353
+1155696,"Kristian Fredriks vei 22F, Larvik",59.051626,10.036264
+1155698,"Kristian Fredriks vei 22E, Larvik",59.051685,10.036254
+1155700,"Kristian Fredriks vei 22D, Larvik",59.051622,10.036166
+1155701,"Kristian Fredriks vei 22C, Larvik",59.051678,10.036154
+1155702,"Kristian Fredriks vei 22B, Larvik",59.051615,10.036058
+1155703,"Kristian Fredriks vei 22A, Larvik",59.051672,10.036028
+1155962,"Inges gate 13, Larvik",59.055043,10.044251
+1155963,"Inges gate 11B, Larvik",59.055062,10.043812
+1155964,"Inges gate 11A, Larvik",59.055057,10.043723
+1155965,"Inges gate 9, Larvik",59.054996,10.043076
+1155966,"Inges gate 7, Larvik",59.055001,10.042519
+1155967,"Inges gate 5, Larvik",59.055005,10.041978
+1155968,"Inges gate 1, Larvik",59.055001,10.041333
+1155969,"Inges gate 3, Larvik",59.054971,10.041681
+1156337,"Høyers gate 6A, Larvik",59.054108,10.032868
+1156338,"Høyers gate 6B, Larvik",59.054144,10.032782
+1156348,"Greveveien 25, Larvik",59.055968,10.034944
+1157003,"Håkons gate 13B, Larvik",59.054351,10.036135
+1157313,"Steingata 9C, Larvik",59.051802,10.032607
+1157314,"Steingata 9D, Larvik",59.05165,10.033631
+1157315,"Steingata 9E, Larvik",59.051713,10.033545
+1157316,"Steingata 9F, Larvik",59.051759,10.033425
+1157317,"Steingata 9G, Larvik",59.051787,10.033286
+1157318,"Steingata 9H, Larvik",59.051797,10.033164
+1157319,"Steingata 9I, Larvik",59.051825,10.033113
+1157320,"Steingata 9J, Larvik",59.051826,10.032956
+1157338,"Steingata 9A, Larvik",59.051745,10.033023
+1157339,"Steingata 9B, Larvik",59.051764,10.032815
+1157353,"Steingata 9K, Larvik",59.051844,10.032904
+1157354,"Steingata 9L, Larvik",59.051854,10.032765
+1157355,"Steingata 9M, Larvik",59.051873,10.032713
+1157401,"Mesterfjellveien 45, Larvik",59.052896,10.044697
+1157402,"Mesterfjellveien 43, Larvik",59.052929,10.044834
+1157522,"Mesterfjellveien 47, Larvik",59.053213,10.044748
+1157523,"Mesterfjellveien 49, Larvik",59.053196,10.044695
+1158038,"Sverres gate 16B, Larvik",59.054052,10.033145
+1670249,"Sverres gate 19, Larvik",59.054435,10.033512
+1689060,"Sveins gate 19A, Larvik",59.056034,10.037157
+1902743,"Øvre Jegersborggate 7, Larvik",59.052484,10.034074
+1933939,"Furuveien 17B, Larvik",59.05281,10.044408
+1968481,"Greveveien 46B, Nanset",59.058305,10.036171
+1987032,"Bergstien 1A, Larvik",59.050409,10.034688
+1987033,"Bergstien 1B, Larvik",59.050439,10.03464
+2053599,"Castbergs gate 19, Larvik",59.052576,10.044881
+2053621,"Mesterfjellveien 51C, Larvik",59.053545,10.044713
+2053624,"Mesterfjellveien 51A, Larvik",59.053479,10.044915
+2054188,"Sachnowitz vei 5, Nanset",59.058038,10.038126
+2054191,"Sachnowitz vei 1, Nanset",59.058039,10.038311
+2054199,"Sachnowitz vei 14B, Nanset",59.057615,10.039827
+2059445,"Karlsrogata 3C, Larvik",59.052689,10.030557
+2059456,"Karlsrogata 3B, Larvik",59.052602,10.030722
+2066225,"Øvre Dr. Holms vei 18A, Larvik",59.055662,10.042507
+2077386,"Dr Holms vei 8B, Nanset",59.056485,10.035532
+2078340,"Håkons gate 22B, Larvik",59.054754,10.035767
+2199863,"Håkons gate 13A, Larvik",59.054371,10.035968
+2241875,"Dr Holms vei 13, Nanset",59.056735,10.036885
+2360547,"Heibergs gate 24, Larvik",59.053363,10.040133
+2361660,"Skogveien 25, Nanset",59.058548,10.042079
+2366906,"Byskogveien 12, Larvik",59.053431,10.037516
+2368033,"Håkons gate 25, Larvik",59.054047,10.038515
+2368034,"Håkons gate 29, Larvik",59.053996,10.039132
+2368035,"Håkons gate 27, Larvik",59.054019,10.038815
+2368036,"Håkons gate 38A, Larvik",59.054304,10.038902
+2381341,"Sveins gate 30, Larvik",59.055481,10.038335
+2452268,"Høyers gate 8, Larvik",59.054214,10.032965
+2452640,"Trygves gate 19, Larvik",59.053881,10.034039
+2452888,"Sverres gate 16A, Larvik",59.054153,10.033342
+2453151,"Greveveien 13, Larvik",59.054391,10.034581
+2454067,"Sverres gate 35A, Larvik",59.054105,10.03697
+2454101,"Sverres gate 35, Larvik",59.053949,10.036941
+2454180,"Greveveien 26, Larvik",59.054274,10.03481
+2454647,"Eriks gate 26, Larvik",59.054945,10.037034
+2455059,"Eriks gate 19, Larvik",59.055306,10.036305
+2455308,"Sveins gate 28, Larvik",59.055581,10.037684
+2455772,"Sveins gate 18, Larvik",59.055755,10.036153
+2457375,"Trygves gate 9, Larvik",59.053136,10.032901
+2457462,"Trygves gate 2, Larvik",59.053212,10.033828
+2458040,"Greveveien 5A, Larvik",59.052468,10.034769
+2458060,"Jegersborggata 21C, Larvik",59.052622,10.032745
+2458170,"Jegersborggata 16, Larvik",59.052568,10.032014
+2458186,"Jegersborggata 21A, Larvik",59.052621,10.032654
+2458187,"Jegersborggata 21B, Larvik",59.052608,10.032777
+2458190,"Jegersborggata 23, Larvik",59.052471,10.033073
+2458366,"Karlsrogata 4, Larvik",59.052375,10.03133
+2458702,"Jegersborggata 28, Larvik",59.052044,10.033257
+2459001,"Parkalleen 19, Larvik",59.053045,10.043141
+2466828,"Heibergs gate 13, Larvik",59.052786,10.038213
+2466988,"Damveien 3, Larvik",59.051013,10.036685
+2467675,"Sophus Bugges vei 8, Nanset",59.058103,10.037429
+2468522,"Øvre Jegersborggate 18, Larvik",59.051905,10.034843
+2468633,"Jegersborggata 39, Larvik",59.051668,10.034766
+2468770,"Jegersborggata 35, Larvik",59.051866,10.034465
+2468988,"Mesterfjellveien 3, Larvik",59.051995,10.037743
+2475196,"Heibergs gate 6, Larvik",59.052186,10.03744
+2475198,"Heibergs gate 21, Larvik",59.053459,10.039532
+2475299,"Sveins gate 15, Larvik",59.055988,10.036221
+2475303,"Sveins gate 13, Larvik",59.056034,10.036104
+2475309,"Sveins gate 23, Larvik",59.055929,10.037958
+2475317,"Greveveien 31, Nanset",59.056998,10.035483
+2475319,"Greveveien 37, Nanset",59.057172,10.034693
+2475320,"Greveveien 39, Nanset",59.057235,10.034487
+2475321,"Greveveien 41, Nanset",59.057388,10.034147
+2475326,"Byskogveien 14, Larvik",59.053988,10.037695
+2475327,"Byskogstredet 3, Larvik",59.053018,10.038349
+2475329,"Byskogstredet 1, Larvik",59.053209,10.037832
+2475333,"Byskogveien 28, Larvik",59.056136,10.038517
+2475334,"Byskogveien 26, Larvik",59.056018,10.03855
+2475335,"Byskogveien 24, Larvik",59.055815,10.038449
+2475336,"Byskogveien 22, Larvik",59.055028,10.038609
+2475346,"Diriks vei 10, Larvik",59.055937,10.039871
+2475347,"Diriks vei 9, Larvik",59.056126,10.039229
+2475348,"Diriks vei 8, Larvik",59.055791,10.039723
+2475349,"Diriks vei 7, Larvik",59.055922,10.039173
+2475350,"Diriks vei 6, Larvik",59.055609,10.039332
+2475359,"Dr Holms vei 17, Nanset",59.056926,10.038518
+2475360,"Dr Holms vei 16, Nanset",59.056459,10.037665
+2475361,"Dr Holms vei 14, Nanset",59.05649,10.037218
+2475362,"Dr Holms vei 12, Nanset",59.056501,10.036842
+2475363,"Dr Holms vei 10, Nanset",59.056502,10.036008
+2475364,"Dr Holms vei 9, Nanset",59.056752,10.035202
+2477686,"Håkons gate 36C, Larvik",59.054582,10.038463
+2477745,"Håkons gate 36B, Larvik",59.054605,10.038279
+2511589,"Sophus Bugges vei 15, Nanset",59.059716,10.03649
+2511720,"Skogveien 9B, Nanset",59.058662,10.036664
+2511769,"Sophus Bugges vei 11A, Nanset",59.059142,10.036728
+2511770,"Sophus Bugges vei 9, Nanset",59.058894,10.037085
+2546596,"Greveveien 47, Nanset",59.057551,10.034657
+2546600,"Greveveien 49, Nanset",59.057427,10.034856
+2546865,"Greveveien 53, Nanset",59.057381,10.035533
+2546871,"Fresjeveien 4, Nanset",59.057845,10.035343
+2547024,"Greveveien 42, Nanset",59.057546,10.036036
+2547025,"Greveveien 44, Nanset",59.057938,10.03594
+2547088,"Skogveien 18, Nanset",59.058473,10.036394
+2547103,"Skogveien 20, Nanset",59.05844,10.03685
+2547116,"Sophus Bugges vei 7, Nanset",59.058219,10.036784
+2547133,"Sophus Bugges vei 5, Nanset",59.058,10.036857
+2547453,"Skogveien 22B, Nanset",59.05844,10.03785
+2547482,"Skogveien 24, Nanset",59.058434,10.038091
+2547504,"Skogveien 28, Nanset",59.058385,10.039465
+2547532,"Skogveien 30, Nanset",59.058396,10.03972

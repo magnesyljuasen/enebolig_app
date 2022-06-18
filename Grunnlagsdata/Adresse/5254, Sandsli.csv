@@ -1,0 +1,687 @@
+,Navn,Long,Lat
+1400224,"Nordre Gommershaugen 12, Fana",60.291717,5.274767
+1400225,"Nordre Gommershaugen 11C, Fana",60.291914,5.276356
+1400226,"Nordre Gommershaugen 11B, Fana",60.291756,5.276809
+1400227,"Nordre Gommershaugen 10, Fana",60.291324,5.275174
+1400228,"Nordre Gommershaugen 9, Fana",60.291443,5.276537
+1400229,"Nordre Gommershaugen 8, Fana",60.29117,5.275789
+1400230,"Nordre Gommershaugen 7, Fana",60.291125,5.276718
+1400231,"Nordre Gommershaugen 6, Fana",60.290584,5.276019
+1400232,"Nordre Gommershaugen 5, Fana",60.290494,5.276681
+1400233,"Nordre Gommershaugen 3, Fana",60.290305,5.276666
+1400234,"Nordre Gommershaugen 2B, Fana",60.290095,5.275586
+1400235,"Nordre Gommershaugen 2A, Fana",60.29016,5.275958
+1400236,"Nordre Gommershaugen 2, Fana",60.290156,5.276158
+1400237,"Nordre Gommershaugen 1B, Fana",60.290278,5.277303
+1400238,"Nordre Gommershaugen 1, Fana",60.290569,5.277089
+1400240,"Nordre Gommershaugen 48, Fana",60.293196,5.27525
+1400241,"Nordre Gommershaugen 46B, Fana",60.292853,5.274891
+1400242,"Nordre Gommershaugen 46, Fana",60.292926,5.275245
+1400243,"Nordre Gommershaugen 36B, Fana",60.29246,5.275021
+1400244,"Nordre Gommershaugen 42, Fana",60.292302,5.275769
+1400245,"Nordre Gommershaugen 40, Fana",60.291853,5.275458
+1400246,"Nordre Gommershaugen 38, Fana",60.291507,5.275606
+1400247,"Nordre Gommershaugen 36, Fana",60.292153,5.275261
+1400248,"Nordre Gommershaugen 24, Fana",60.292767,5.273742
+1400249,"Nordre Gommershaugen 22, Fana",60.292614,5.274375
+1400250,"Nordre Gommershaugen 21, Fana",60.293481,5.275797
+1400251,"Nordre Gommershaugen 17, Fana",60.292693,5.276249
+1400252,"Nordre Gommershaugen 16, Fana",60.292167,5.27448
+1400253,"Nordre Gommershaugen 15, Fana",60.292515,5.276288
+1400254,"Nordre Gommershaugen 14, Fana",60.29192,5.274617
+1400255,"Nordre Gommershaugen 13, Fana",60.292249,5.276427
+1400267,"Nordre Gommershaugen 56, Fana",60.293391,5.274504
+1400268,"Nordre Gommershaugen 54B, Fana",60.293406,5.27376
+1400269,"Nordre Gommershaugen 54A, Fana",60.293308,5.273789
+1400270,"Nordre Gommershaugen 52, Fana",60.293177,5.273949
+1400271,"Nordre Gommershaugen 50, Fana",60.293081,5.274702
+1408156,"Sandslivegen 133, Søreide",60.299668,5.289727
+1408157,"Sandslivegen 135, Søreide",60.299664,5.289582
+1408158,"Sandslivegen 137, Søreide",60.299661,5.289456
+1408159,"Sandslivegen 201, Søreide",60.30263,5.286674
+1408160,"Sandslivegen 203, Søreide",60.302541,5.286684
+1408161,"Sandslivegen 205, Søreide",60.30245,5.286676
+1408162,"Sandslivegen 207, Søreide",60.302361,5.286686
+1408163,"Sandslivegen 209, Søreide",60.302195,5.286868
+1408164,"Sandslivegen 211, Søreide",60.302155,5.287035
+1408165,"Sandslivegen 213, Søreide",60.302124,5.287202
+1408166,"Sandslivegen 215, Søreide",60.302092,5.287351
+1408167,"Sandslivegen 217, Søreide",60.302051,5.287482
+1408168,"Sandslivegen 219, Søreide",60.30197,5.287817
+1408169,"Sandslivegen 221, Søreide",60.301938,5.287966
+1408170,"Sandslivegen 223, Søreide",60.301897,5.288097
+1408171,"Sandslivegen 225, Søreide",60.301856,5.288247
+1408172,"Sandslivegen 101, Søreide",60.299447,5.289535
+1408173,"Sandslivegen 103, Søreide",60.299452,5.289715
+1408174,"Sandslivegen 105, Søreide",60.299453,5.290041
+1408175,"Sandslivegen 107, Søreide",60.299457,5.290204
+1408176,"Sandslivegen 109, Søreide",60.299486,5.290581
+1408177,"Sandslivegen 111, Søreide",60.299535,5.290738
+1408178,"Sandslivegen 113, Søreide",60.299601,5.290857
+1408179,"Sandslivegen 115, Søreide",60.299741,5.291041
+1408180,"Sandslivegen 117, Søreide",60.299798,5.291161
+1408181,"Sandslivegen 119, Søreide",60.299893,5.290697
+1408182,"Sandslivegen 121, Søreide",60.299872,5.290591
+1408183,"Sandslivegen 123, Søreide",60.299825,5.290506
+1408184,"Sandslivegen 125, Søreide",60.299786,5.290402
+1408185,"Sandslivegen 127, Søreide",60.299756,5.290296
+1408186,"Sandslivegen 129, Søreide",60.299717,5.290192
+1408187,"Sandslivegen 131, Søreide",60.299663,5.289854
+1408188,"Sandslivegen 261, Søreide",60.303582,5.286656
+1408189,"Sandslivegen 263, Søreide",60.303288,5.286092
+1408190,"Sandslivegen 265, Søreide",60.303292,5.286218
+1408191,"Sandslivegen 267, Søreide",60.303295,5.286344
+1408192,"Sandslivegen 269, Søreide",60.303308,5.286488
+1408193,"Sandslivegen 271, Søreide",60.303311,5.286596
+1408194,"Sandslivegen 273, Søreide",60.303315,5.286723
+1408195,"Sandslivegen 275, Søreide",60.30331,5.286868
+1408196,"Sandslivegen 277, Søreide",60.303058,5.286534
+1408197,"Sandslivegen 279, Søreide",60.303055,5.286426
+1408198,"Sandslivegen 281, Søreide",60.303051,5.2863
+1408199,"Sandslivegen 283, Søreide",60.303048,5.286173
+1408200,"Sandslivegen 285, Søreide",60.303044,5.286029
+1408201,"Sandslimarka 2, Fana",60.291538,5.285362
+1408202,"Sandslimarka 4, Fana",60.291488,5.284861
+1408203,"Sandslimarka 6, Fana",60.291338,5.284316
+1408204,"Sandslivegen 227, Søreide",60.30221,5.287736
+1408205,"Sandslivegen 229, Søreide",60.302235,5.287642
+1408206,"Sandslivegen 231, Søreide",60.302259,5.287531
+1408207,"Sandslivegen 233, Søreide",60.302292,5.287437
+1408208,"Sandslivegen 235, Søreide",60.302343,5.287322
+1408209,"Sandslivegen 237, Søreide",60.302359,5.287248
+1408210,"Sandslivegen 239, Søreide",60.302408,5.287097
+1408211,"Sandslivegen 243, Søreide",60.303215,5.28735
+1408212,"Sandslivegen 245, Søreide",60.303279,5.287361
+1408213,"Sandslivegen 247, Søreide",60.30335,5.287353
+1408214,"Sandslivegen 249, Søreide",60.303568,5.287418
+1408215,"Sandslivegen 251, Søreide",60.303564,5.287292
+1408216,"Sandslivegen 253, Søreide",60.303561,5.287166
+1408217,"Sandslivegen 255, Søreide",60.303566,5.287038
+1408218,"Sandslivegen 257, Søreide",60.303581,5.28691
+1408219,"Sandslivegen 259, Søreide",60.303577,5.286783
+1408267,"Sandslivegen 11, Fana",60.292216,5.28648
+1408268,"Sandslivegen 90, Fana",60.297014,5.285772
+1408308,"Sandslimarka 237, Fana",60.295239,5.278223
+1408309,"Sandslimarka 239, Fana",60.295061,5.278316
+1408310,"Sandslimarka 241, Fana",60.294999,5.278323
+1408311,"Sandslimarka 243, Fana",60.294936,5.27833
+1408312,"Sandslimarka 245, Fana",60.294819,5.278325
+1408313,"Sandslimarka 247, Fana",60.294756,5.278332
+1408314,"Sandslimarka 251, Fana",60.297363,5.27704
+1408315,"Sandslimarka 260, Fana",60.298275,5.278819
+1408316,"Sandslihaugen 1, Fana",60.292295,5.285113
+1408317,"Sandslihaugen 10, Fana",60.292648,5.283298
+1408318,"Sandslihaugen 30, Fana",60.293855,5.282727
+1408324,"Sandslimarka 205, Fana",60.29406,5.277868
+1408325,"Sandslimarka 207, Fana",60.294063,5.277977
+1408326,"Sandslimarka 209, Fana",60.294058,5.278104
+1408327,"Sandslimarka 211, Fana",60.294225,5.278302
+1408328,"Sandslimarka 213, Fana",60.294342,5.278307
+1408329,"Sandslimarka 215, Fana",60.294405,5.2783
+1408330,"Sandslimarka 217, Fana",60.294746,5.278931
+1408331,"Sandslimarka 219, Fana",60.294818,5.278923
+1408332,"Sandslimarka 221, Fana",60.294927,5.278983
+1408333,"Sandslimarka 223, Fana",60.29499,5.278976
+1408334,"Sandslimarka 225, Fana",60.295062,5.278968
+1408335,"Sandslimarka 227, Fana",60.295125,5.278979
+1408336,"Sandslimarka 229, Fana",60.295291,5.278815
+1408337,"Sandslimarka 231, Fana",60.295297,5.278687
+1408338,"Sandslimarka 233, Fana",60.295263,5.278456
+1408339,"Sandslimarka 235, Fana",60.295251,5.27833
+1408371,"Sandslimarka 127, Fana",60.293517,5.280145
+1408372,"Sandslimarka 129, Fana",60.293549,5.280123
+1408373,"Sandslimarka 163, Fana",60.294267,5.279304
+1408374,"Sandslimarka 165, Fana",60.294295,5.279205
+1408375,"Sandslimarka 167, Fana",60.294319,5.279134
+1408376,"Sandslimarka 169, Fana",60.294355,5.279037
+1408377,"Sandslimarka 171, Fana",60.294371,5.278966
+1408378,"Sandslimarka 173, Fana",60.29439,5.278892
+1408379,"Sandslimarka 183, Fana",60.293805,5.27806
+1408380,"Sandslimarka 185, Fana",60.293714,5.277383
+1408381,"Sandslimarka 189, Fana",60.294305,5.277315
+1408382,"Sandslimarka 191, Fana",60.294242,5.277304
+1408383,"Sandslimarka 193, Fana",60.294146,5.277388
+1408384,"Sandslimarka 195, Fana",60.294118,5.277355
+1408385,"Sandslimarka 197, Fana",60.294411,5.277557
+1408386,"Sandslimarka 199, Fana",60.294406,5.277684
+1408387,"Sandslimarka 201, Fana",60.29441,5.277829
+1408388,"Sandslimarka 203, Fana",60.294056,5.277724
+1408389,"Sandslimarka 131, Fana",60.293584,5.280095
+1408390,"Sandslimarka 133, Fana",60.293622,5.280068
+1408391,"Sandslimarka 135, Fana",60.293665,5.280043
+1408393,"Sandslimarka 137, Fana",60.293706,5.280018
+1408394,"Sandslimarka 139, Fana",60.293741,5.279991
+1408395,"Sandslimarka 141, Fana",60.293787,5.27996
+1408396,"Sandslimarka 143, Fana",60.293823,5.279936
+1408397,"Sandslimarka 145, Fana",60.293866,5.279906
+1408398,"Sandslimarka 147, Fana",60.293903,5.279884
+1408399,"Sandslimarka 149, Fana",60.29394,5.279856
+1408400,"Sandslimarka 151, Fana",60.294047,5.279786
+1408401,"Sandslimarka 153, Fana",60.294058,5.279705
+1408402,"Sandslimarka 155, Fana",60.294138,5.279544
+1408403,"Sandslimarka 157, Fana",60.29419,5.279554
+1408404,"Sandslimarka 159, Fana",60.294217,5.279469
+1408405,"Sandslimarka 161, Fana",60.294246,5.279379
+1408534,"Sandslimarka 42, Fana",60.290463,5.280052
+1408535,"Sandslimarka 44, Fana",60.290476,5.280178
+1408536,"Sandslimarka 46, Fana",60.290671,5.280083
+1408537,"Sandslimarka 51, Fana",60.291546,5.278933
+1408538,"Sandslimarka 55, Fana",60.292623,5.279499
+1408539,"Sandslimarka 63, Fana",60.293016,5.277498
+1408541,"Sandslimarka 101, Fana",60.292934,5.279889
+1408542,"Sandslimarka 103, Fana",60.292965,5.279903
+1408543,"Sandslimarka 105, Fana",60.292995,5.279931
+1408544,"Sandslimarka 107, Fana",60.293024,5.279955
+1408545,"Sandslimarka 109, Fana",60.293056,5.279976
+1408546,"Sandslimarka 111, Fana",60.293113,5.280008
+1408547,"Sandslimarka 113, Fana",60.293168,5.280047
+1408548,"Sandslimarka 115, Fana",60.293216,5.280085
+1408549,"Sandslimarka 117, Fana",60.293263,5.280128
+1408550,"Sandslimarka 8, Fana",60.291123,5.284359
+1408551,"Sandslimarka 10, Fana",60.291167,5.284952
+1408552,"Sandslimarka 12, Fana",60.290884,5.285147
+1408553,"Sandslimarka 14, Fana",60.290834,5.284645
+1408554,"Sandslimarka 16, Fana",60.290857,5.283828
+1408555,"Sandslimarka 22, Fana",60.291091,5.282896
+1408556,"Sandslimarka 24, Fana",60.291256,5.28333
+1408557,"Sandslimarka 26, Fana",60.290861,5.282397
+1408558,"Sandslimarka 28, Fana",60.290693,5.282796
+1408559,"Sandslimarka 30, Fana",60.29057,5.281633
+1408560,"Sandslimarka 31, Fana",60.291715,5.282716
+1408561,"Sandslimarka 32, Fana",60.290883,5.28158
+1408563,"Sandslimarka 34, Fana",60.290729,5.280873
+1408564,"Sandslimarka 36, Fana",60.290541,5.280912
+1408565,"Sandslimarka 38, Fana",60.290516,5.279376
+1408566,"Sandslimarka 40, Fana",60.290513,5.279594
+1408567,"Sandslimarka 119, Fana",60.293297,5.280148
+1408568,"Sandslimarka 121, Fana",60.293326,5.28017
+1408569,"Sandslimarka 123, Fana",60.293465,5.280181
+1408570,"Sandslimarka 125, Fana",60.293487,5.280161
+1409614,"Sandslikroken 94, Søreide",60.297284,5.294145
+1409615,"Sandslikroken 96, Søreide",60.297199,5.294317
+1409616,"Sandslikroken 62, Søreide",60.298573,5.294596
+1409617,"Sandslikroken 64, Søreide",60.298701,5.294654
+1409618,"Sandslikroken 66, Søreide",60.298856,5.294745
+1409619,"Sandslikroken 68, Søreide",60.299076,5.295209
+1409620,"Sandslikroken 70, Søreide",60.298897,5.295248
+1409621,"Sandslikroken 72, Søreide",60.298768,5.295154
+1409622,"Sandslikroken 74, Søreide",60.298623,5.295098
+1409623,"Sandslikroken 76, Søreide",60.298477,5.295005
+1409624,"Sandslikroken 78, Søreide",60.298368,5.294964
+1409625,"Sandslikroken 80, Søreide",60.298089,5.294633
+1409626,"Sandslikroken 82, Søreide",60.297984,5.294427
+1409627,"Sandslikroken 84, Søreide",60.297906,5.294201
+1409628,"Sandslikroken 86, Søreide",60.297758,5.294037
+1409629,"Sandslikroken 88, Søreide",60.297648,5.293977
+1409630,"Sandslikroken 90, Søreide",60.297539,5.293953
+1409631,"Sandslikroken 92, Søreide",60.29738,5.294043
+1409654,"Sandslihovden 57, Fana",60.298222,5.27274
+1409655,"Sandslihovden 58, Fana",60.2981,5.273189
+1409656,"Sandslihovden 59, Fana",60.298127,5.27257
+1409657,"Sandslihovden 60, Fana",60.298005,5.273036
+1409658,"Sandslihovden 61, Fana",60.297958,5.272317
+1409659,"Sandslihovden 63, Fana",60.29786,5.272329
+1409660,"Sandslihovden 64, Fana",60.297747,5.273428
+1409661,"Sandslihovden 65, Fana",60.297743,5.272324
+1409662,"Sandslihovden 66, Fana",60.29769,5.273326
+1409663,"Sandslihovden 67, Fana",60.297568,5.272489
+1409664,"Sandslihovden 68, Fana",60.297616,5.273244
+1409665,"Sandslihovden 69, Fana",60.297451,5.272484
+1409666,"Sandslihovden 33, Fana",60.299374,5.274728
+1409667,"Sandslihovden 35, Fana",60.299111,5.275265
+1409668,"Sandslihovden 37, Fana",60.299105,5.2757
+1409669,"Sandslihovden 39, Fana",60.299153,5.274861
+1409670,"Sandslihovden 40, Fana",60.298198,5.274137
+1409671,"Sandslihovden 42, Fana",60.298132,5.274036
+1409672,"Sandslihovden 44, Fana",60.298066,5.273917
+1409673,"Sandslihovden 46, Fana",60.298009,5.273797
+1409674,"Sandslihovden 48, Fana",60.297943,5.273713
+1409675,"Sandslihovden 50, Fana",60.297886,5.273593
+1409676,"Sandslihovden 51, Fana",60.298476,5.273164
+1409677,"Sandslihovden 52, Fana",60.298355,5.27363
+1409678,"Sandslihovden 53, Fana",60.298382,5.273011
+1409679,"Sandslihovden 54, Fana",60.29826,5.273478
+1409680,"Sandslihovden 55, Fana",60.298315,5.272874
+1409681,"Sandslihovden 56, Fana",60.298184,5.273306
+1409682,"Vestre Sandslimarka 19, Fana",60.295493,5.274482
+1409683,"Vestre Sandslimarka 20, Fana",60.293983,5.274491
+1409684,"Vestre Sandslimarka 21, Fana",60.295459,5.274232
+1409685,"Vestre Sandslimarka 22, Fana",60.294116,5.274403
+1409686,"Vestre Sandslimarka 23, Fana",60.295479,5.273976
+1409687,"Vestre Sandslimarka 24, Fana",60.294299,5.274219
+1409688,"Vestre Sandslimarka 25, Fana",60.29549,5.273721
+1409689,"Vestre Sandslimarka 26, Fana",60.29435,5.274757
+1409690,"Vestre Sandslimarka 27, Fana",60.295661,5.273738
+1409691,"Vestre Sandslimarka 28, Fana",60.294733,5.274623
+1409692,"Vestre Sandslimarka 29, Fana",60.295804,5.273722
+1409693,"Vestre Sandslimarka 30, Fana",60.294909,5.274494
+1409694,"Vestre Sandslimarka 31, Fana",60.29594,5.273761
+1409695,"Vestre Sandslimarka 32, Fana",60.294525,5.27394
+1409696,"Vestre Sandslimarka 34, Fana",60.294702,5.273847
+1409697,"Vestre Sandslimarka 35, Fana",60.296218,5.274055
+1409702,"Vestre Sandslimarka 1, Fana",60.295113,5.275014
+1409703,"Vestre Sandslimarka 4, Fana",60.294483,5.275303
+1409704,"Vestre Sandslimarka 6, Fana",60.294308,5.275486
+1409705,"Vestre Sandslimarka 8, Fana",60.294131,5.275579
+1409706,"Vestre Sandslimarka 10, Fana",60.293966,5.275471
+1409707,"Vestre Sandslimarka 11, Fana",60.29606,5.27449
+1409708,"Vestre Sandslimarka 12, Fana",60.293788,5.275527
+1409709,"Vestre Sandslimarka 13, Fana",60.295936,5.274558
+1409710,"Vestre Sandslimarka 15, Fana",60.295784,5.274611
+1409711,"Vestre Sandslimarka 16, Fana",60.293722,5.274774
+1409712,"Vestre Sandslimarka 17, Fana",60.295677,5.274642
+1409713,"Vestre Sandslimarka 18, Fana",60.293849,5.274506
+1409714,"Sandslihovden 10, Fana",60.296889,5.274558
+1409715,"Sandslihovden 12, Fana",60.296747,5.274629
+1409716,"Sandslihovden 14, Fana",60.296624,5.274751
+1409717,"Sandslihovden 16, Fana",60.296401,5.274813
+1409718,"Sandslihovden 18, Fana",60.296222,5.274815
+1409719,"Sandslihovden 20, Fana",60.29637,5.274346
+1409720,"Sandslihovden 21, Fana",60.299269,5.276116
+1409721,"Sandslihovden 22, Fana",60.296504,5.274294
+1409722,"Sandslihovden 23, Fana",60.299421,5.276081
+1409723,"Sandslihovden 24, Fana",60.296645,5.274206
+1409724,"Sandslihovden 25, Fana",60.299601,5.276096
+1409725,"Sandslihovden 26, Fana",60.296758,5.274066
+1409726,"Sandslihovden 27, Fana",60.299642,5.275639
+1409727,"Sandslihovden 28, Fana",60.296871,5.273944
+1409728,"Sandslihovden 29, Fana",60.29964,5.275241
+1409729,"Sandslihovden 31, Fana",60.299365,5.275363
+1409730,"Vestre Sandslimarka 36, Fana",60.294837,5.27385
+1409731,"Vestre Sandslimarka 37, Fana",60.296394,5.273908
+1409732,"Vestre Sandslimarka 38, Fana",60.295104,5.274381
+1409733,"Vestre Sandslimarka 39, Fana",60.296544,5.273801
+1409734,"Vestre Sandslimarka 40, Fana",60.295192,5.274009
+1409735,"Vestre Sandslimarka 42, Fana",60.295233,5.273552
+1409736,"Vestre Sandslimarka 44, Fana",60.295522,5.273283
+1409737,"Vestre Sandslimarka 46, Fana",60.295639,5.273288
+1409738,"Vestre Sandslimarka 48, Fana",60.295774,5.273273
+1409739,"Vestre Sandslimarka 50, Fana",60.295973,5.273322
+1409740,"Vestre Sandslimarka 52, Fana",60.296083,5.2734
+1409741,"Vestre Sandslimarka 54, Fana",60.296185,5.273497
+1409742,"Vestre Sandslimarka 56, Fana",60.29633,5.273535
+1409743,"Vestre Sandslimarka 58, Fana",60.296444,5.273468
+1409744,"Sandslihovden 6, Fana",60.297219,5.274484
+1409745,"Sandslihovden 8, Fana",60.297037,5.274414
+1409768,"Sandslikroken 28, Søreide",60.297835,5.291981
+1409769,"Sandslikroken 30, Søreide",60.297939,5.291843
+1409770,"Sandslikroken 32, Søreide",60.297727,5.292627
+1409771,"Sandslikroken 34, Søreide",60.297619,5.292929
+1409772,"Sandslikroken 36, Søreide",60.297801,5.293017
+1409773,"Sandslikroken 38, Søreide",60.297928,5.293075
+1409774,"Sandslikroken 40, Søreide",60.298163,5.293429
+1409775,"Sandslikroken 42, Søreide",60.298274,5.293525
+1409776,"Sandslikroken 44, Søreide",60.298394,5.293657
+1409777,"Sandslikroken 46, Søreide",60.298496,5.293754
+1409778,"Sandslikroken 48, Søreide",60.298616,5.293867
+1409779,"Sandslikroken 50, Søreide",60.298571,5.294198
+1409780,"Sandslikroken 52, Søreide",60.298289,5.294085
+1409781,"Sandslikroken 54, Søreide",60.298159,5.293937
+1409782,"Sandslikroken 56, Søreide",60.298064,5.293748
+1409783,"Sandslikroken 60, Søreide",60.298419,5.294541
+1409784,"Sandsliåsen 40, Fana",60.294703,5.292481
+1409785,"Sandsliåsen 50, Fana",60.292403,5.292851
+1409786,"Sandsliåsen 56, Fana",60.291998,5.292191
+1409787,"Sandsliåsen 58A, Fana",60.291926,5.291547
+1409788,"Sandsliåsen 58B, Fana",60.292019,5.291319
+1409789,"Sandslikroken 6, Søreide",60.297795,5.293453
+1409790,"Sandslikroken 8, Søreide",60.297659,5.293414
+1409791,"Sandslikroken 10, Søreide",60.297532,5.293374
+1409792,"Sandslikroken 12, Søreide",60.297414,5.293315
+1409793,"Sandslikroken 14, Søreide",60.297277,5.293258
+1409794,"Sandslikroken 16, Søreide",60.2972,5.293049
+1409795,"Sandslikroken 18, Søreide",60.297202,5.292814
+1409796,"Sandslikroken 20, Søreide",60.297453,5.292477
+1409797,"Sandslikroken 22, Søreide",60.297558,5.292375
+1409798,"Sandslikroken 24, Søreide",60.297654,5.292273
+1409799,"Sandslikroken 26, Søreide",60.297758,5.292135
+1410011,"Sandslihovden 70, Fana",60.297541,5.273144
+1410012,"Sandslihovden 71, Fana",60.297343,5.272478
+1410013,"Sandslihovden 72, Fana",60.297467,5.273062
+1410014,"Sandslihovden 73, Fana",60.297226,5.272491
+1410015,"Sandslihovden 74, Fana",60.2974,5.272942
+1410016,"Sandslihovden 75, Fana",60.297118,5.272486
+1410017,"Sandsliheiane 12, Fana",60.298459,5.277023
+1410018,"Sandsliheiane 18, Fana",60.29875,5.278421
+1410019,"Sandsliheiane 20, Fana",60.298976,5.278812
+1410020,"Sandsliheiane 22, Fana",60.299087,5.279234
+1410037,"Sandsliheiane 25, Fana",60.299308,5.279734
+1410038,"Sandsliheiane 26, Fana",60.299491,5.278898
+1410039,"Sandsliheiane 27, Fana",60.299536,5.280161
+1410040,"Sandsliheiane 28, Fana",60.29939,5.278511
+1410041,"Sandsliheiane 29, Fana",60.299673,5.279946
+1410042,"Sandsliheiane 31, Fana",60.299805,5.279514
+1410043,"Sandsliheiane 33, Fana",60.299941,5.279245
+1410044,"Sandsliheiane 35, Fana",60.299755,5.278995
+1410045,"Sandsliheiane 37, Fana",60.299708,5.278602
+1410046,"Sandsliheiane 39, Fana",60.299546,5.278294
+1410097,"Sandslikroken 98, Søreide",60.296835,5.293507
+1410098,"Sandslikroken 100, Søreide",60.297103,5.293767
+1410099,"Sandslikroken 102, Søreide",60.297014,5.294139
+1410100,"Sandslikroken 104, Søreide",60.296751,5.29406
+1410101,"Sandslikroken 106, Søreide",60.296714,5.294336
+1410102,"Sandslikroken 108, Søreide",60.296925,5.294493
+1410103,"Sandslikroken 110, Søreide",60.296839,5.294956
+1410104,"Sandslikroken 112, Søreide",60.296615,5.294963
+1410105,"Sandslikroken 114, Søreide",60.296397,5.294879
+1410106,"Sandslikroken 116, Søreide",60.296124,5.294783
+1410107,"Sandslikroken 118, Søreide",60.295897,5.2947
+1410108,"Sandslikroken 120, Søreide",60.29567,5.294617
+1410109,"Sandslikroken 122, Søreide",60.295945,5.294133
+1410110,"Sandslikroken 124, Søreide",60.296121,5.293697
+1410127,"Sandslikroken 126, Søreide",60.296251,5.294153
+1410128,"Sandslikroken 130, Søreide",60.296477,5.293874
+1410129,"Sandslikroken 132, Søreide",60.296293,5.293424
+1410130,"Sandslikroken 134, Søreide",60.296561,5.293339
+1411174,"Petedalsheia 89, Søreide",60.300588,5.2908
+1411175,"Petedalsheia 90, Søreide",60.301651,5.2899
+1411176,"Petedalsheia 91, Søreide",60.300339,5.2909
+1411177,"Petedalsheia 92, Søreide",60.301597,5.290214
+1411178,"Petedalsheia 93, Søreide",60.300276,5.290889
+1411179,"Petedalsheia 94, Søreide",60.301566,5.290399
+1411180,"Petedalsheia 95, Søreide",60.300214,5.290896
+1411181,"Petedalsheia 96, Søreide",60.301526,5.290585
+1411182,"Petedalsheia 73, Søreide",60.300987,5.290265
+1411183,"Petedalsheia 74, Søreide",60.301745,5.289075
+1411184,"Petedalsheia 75, Søreide",60.300991,5.29041
+1411185,"Petedalsheia 76, Søreide",60.301739,5.289184
+1411186,"Petedalsheia 77, Søreide",60.300948,5.290795
+1411187,"Petedalsheia 78, Søreide",60.301732,5.289257
+1411188,"Petedalsheia 79, Søreide",60.300885,5.290784
+1411189,"Petedalsheia 80, Søreide",60.301693,5.289479
+1411190,"Petedalsheia 81, Søreide",60.300831,5.29079
+1411191,"Petedalsheia 82, Søreide",60.301686,5.289552
+1411192,"Petedalsheia 83, Søreide",60.300777,5.290796
+1411193,"Petedalsheia 84, Søreide",60.30168,5.289643
+1411194,"Petedalsheia 85, Søreide",60.300732,5.290801
+1411195,"Petedalsheia 86, Søreide",60.301664,5.289718
+1411196,"Petedalsheia 87, Søreide",60.300651,5.290793
+1411197,"Petedalsheia 88, Søreide",60.301657,5.289809
+1411214,"Petedalsheia 25, Søreide",60.300079,5.290278
+1411215,"Petedalsheia 26, Søreide",60.30153,5.288791
+1411216,"Petedalsheia 27, Søreide",60.300073,5.289101
+1411217,"Petedalsheia 28, Søreide",60.301495,5.288831
+1411218,"Petedalsheia 29, Søreide",60.300136,5.289094
+1411219,"Petedalsheia 30, Søreide",60.301419,5.289021
+1411220,"Petedalsheia 31, Søreide",60.300199,5.289087
+1411221,"Petedalsheia 32, Søreide",60.301422,5.289129
+1411222,"Petedalsheia 33, Søreide",60.300262,5.28908
+1411223,"Petedalsheia 34, Søreide",60.301426,5.289238
+1411224,"Petedalsheia 35, Søreide",60.300388,5.289084
+1411225,"Petedalsheia 36, Søreide",60.301419,5.289311
+1411226,"Petedalsheia 37, Søreide",60.30045,5.289077
+1411227,"Petedalsheia 38, Søreide",60.301422,5.289419
+1411228,"Petedalsheia 39, Søreide",60.30058,5.289207
+1411229,"Petedalsheia 40, Søreide",60.301424,5.289509
+1411230,"Petedalsheia 21, Søreide",60.299984,5.290089
+1411231,"Petedalsheia 22, Søreide",60.301606,5.288637
+1411232,"Petedalsheia 23, Søreide",60.300041,5.290174
+1411233,"Petedalsheia 24, Søreide",60.301573,5.288714
+1411234,"Petedalsheia 57, Søreide",60.300432,5.290346
+1411235,"Petedalsheia 58, Søreide",60.301289,5.290774
+1411236,"Petedalsheia 59, Søreide",60.300378,5.290353
+1411237,"Petedalsheia 60, Søreide",60.301282,5.290848
+1411238,"Petedalsheia 61, Søreide",60.300315,5.29036
+1411239,"Petedalsheia 62, Søreide",60.301217,5.291091
+1411240,"Petedalsheia 63, Søreide",60.300243,5.29035
+1411241,"Petedalsheia 64, Søreide",60.301787,5.288671
+1411242,"Petedalsheia 65, Søreide",60.300988,5.289649
+1411243,"Petedalsheia 66, Søreide",60.30178,5.288744
+1411244,"Petedalsheia 67, Søreide",60.300982,5.289777
+1411245,"Petedalsheia 68, Søreide",60.301774,5.288836
+1411246,"Petedalsheia 69, Søreide",60.300989,5.290012
+1411247,"Petedalsheia 70, Søreide",60.301758,5.28891
+1411248,"Petedalsheia 71, Søreide",60.300992,5.290138
+1411249,"Petedalsheia 72, Søreide",60.301751,5.289001
+1411250,"Petedalsheia 41, Søreide",60.300626,5.289256
+1411251,"Petedalsheia 42, Søreide",60.301415,5.289818
+1411252,"Petedalsheia 43, Søreide",60.300691,5.289339
+1411253,"Petedalsheia 44, Søreide",60.301417,5.289909
+1411254,"Petedalsheia 45, Søreide",60.300738,5.289714
+1411255,"Petedalsheia 46, Søreide",60.30142,5.290017
+1411256,"Petedalsheia 47, Søreide",60.300714,5.289843
+1411257,"Petedalsheia 48, Søreide",60.301423,5.290107
+1411258,"Petedalsheia 49, Søreide",60.300681,5.289938
+1411259,"Petedalsheia 50, Søreide",60.301417,5.290217
+1411260,"Petedalsheia 51, Søreide",60.300658,5.290067
+1411261,"Petedalsheia 52, Søreide",60.301419,5.290289
+1411262,"Petedalsheia 53, Søreide",60.300634,5.290197
+1411263,"Petedalsheia 54, Søreide",60.301338,5.290606
+1411264,"Petedalsheia 55, Søreide",60.300504,5.290356
+1411265,"Petedalsheia 56, Søreide",60.301314,5.290699
+1411394,"Petedalsheia 19, Søreide",60.299906,5.289863
+1411395,"Petedalsheia 20, Søreide",60.301243,5.290762
+1411399,"Petedalsheia 2, Søreide",60.301561,5.288606
+1411400,"Petedalsheia 4, Søreide",60.301484,5.288742
+1411401,"Petedalsheia 6, Søreide",60.301349,5.289083
+1411402,"Petedalsheia 8, Søreide",60.301354,5.289264
+1411403,"Petedalsheia 10, Søreide",60.301351,5.289463
+1411404,"Petedalsheia 11, Søreide",60.299909,5.289337
+1411405,"Petedalsheia 12, Søreide",60.301353,5.289862
+1411406,"Petedalsheia 13, Søreide",60.299904,5.289465
+1411407,"Petedalsheia 14, Søreide",60.301359,5.29006
+1411408,"Petedalsheia 15, Søreide",60.299907,5.289591
+1411409,"Petedalsheia 16, Søreide",60.301355,5.290242
+1411410,"Petedalsheia 17, Søreide",60.299911,5.289735
+1411411,"Petedalsheia 18, Søreide",60.301284,5.290594
+1411594,"Petedalsheia 144, Søreide",60.301564,5.290653
+1411595,"Petedalsheia 146, Søreide",60.301549,5.290763
+1411596,"Petedalsheia 148, Søreide",60.301534,5.290855
+1411597,"Petedalsheia 150, Søreide",60.301494,5.291059
+1411598,"Petedalsheia 152, Søreide",60.301479,5.291151
+1411599,"Petedalsheia 154, Søreide",60.301464,5.291244
+1411600,"Petedalsheia 156, Søreide",60.301439,5.291337
+1411601,"Petedalsheia 158, Søreide",60.301424,5.291429
+1411602,"Petedalsheia 160, Søreide",60.301408,5.291522
+1411603,"Petedalsheia 166, Søreide",60.301223,5.291959
+1411654,"Petedalsheia 97, Søreide",60.30016,5.290903
+1411655,"Petedalsheia 98, Søreide",60.301495,5.290769
+1411656,"Petedalsheia 99, Søreide",60.300097,5.290892
+1411657,"Petedalsheia 100, Søreide",60.301441,5.291083
+1411658,"Petedalsheia 101, Søreide",60.300043,5.290898
+1411659,"Petedalsheia 102, Søreide",60.30141,5.291268
+1411660,"Petedalsheia 103, Søreide",60.299984,5.291375
+1411661,"Petedalsheia 104, Søreide",60.301371,5.291453
+1411663,"Petedalsheia 121, Søreide",60.300515,5.29136
+1411664,"Petedalsheia 122, Søreide",60.301739,5.28951
+1411665,"Petedalsheia 123, Søreide",60.300577,5.291344
+1411666,"Petedalsheia 124, Søreide",60.301732,5.289583
+1411667,"Petedalsheia 125, Søreide",60.30063,5.291338
+1411668,"Petedalsheia 126, Søreide",60.301725,5.289674
+1411669,"Petedalsheia 127, Søreide",60.300813,5.29177
+1411670,"Petedalsheia 128, Søreide",60.30171,5.289767
+1411671,"Petedalsheia 129, Søreide",60.300808,5.291898
+1411672,"Petedalsheia 130, Søreide",60.301703,5.28984
+1411673,"Petedalsheia 132, Søreide",60.301697,5.289931
+1411674,"Petedalsheia 134, Søreide",60.30165,5.29019
+1411675,"Petedalsheia 136, Søreide",60.301635,5.2903
+1411676,"Petedalsheia 138, Søreide",60.301619,5.290375
+1411677,"Petedalsheia 140, Søreide",60.301604,5.290467
+1411678,"Petedalsheia 142, Søreide",60.301579,5.29056
+1411679,"Petedalsheia 105, Søreide",60.300049,5.291458
+1411680,"Petedalsheia 106, Søreide",60.301841,5.288683
+1411681,"Petedalsheia 107, Søreide",60.300133,5.291558
+1411682,"Petedalsheia 108, Søreide",60.301835,5.288774
+1411683,"Petedalsheia 109, Søreide",60.300272,5.291687
+1411684,"Petedalsheia 110, Søreide",60.301828,5.288848
+1411685,"Petedalsheia 111, Søreide",60.300355,5.291786
+1411686,"Petedalsheia 112, Søreide",60.301813,5.28894
+1411687,"Petedalsheia 113, Søreide",60.300503,5.291914
+1411688,"Petedalsheia 114, Søreide",60.301806,5.289013
+1411689,"Petedalsheia 115, Søreide",60.300577,5.292014
+1411690,"Petedalsheia 116, Søreide",60.301799,5.289105
+1411691,"Petedalsheia 117, Søreide",60.300397,5.291347
+1411692,"Petedalsheia 118, Søreide",60.301793,5.289196
+1411693,"Petedalsheia 119, Søreide",60.30046,5.291339
+1411694,"Petedalsheia 120, Søreide",60.301786,5.289269
+1411890,"Petedalsflaten 8, Søreide",60.302083,5.285432
+1411891,"Petedalsflaten 9, Søreide",60.302284,5.285554
+1411892,"Petedalsflaten 10, Søreide",60.302139,5.285172
+1411909,"Petedalsflaten 30, Søreide",60.302791,5.284391
+1411910,"Petedalsflaten 32, Søreide",60.302814,5.284244
+1411911,"Petedalsflaten 34, Søreide",60.302829,5.284151
+1411912,"Petedalsflaten 36, Søreide",60.302845,5.284059
+1411913,"Petedalsflaten 38, Søreide",60.302875,5.283874
+1411914,"Petedalsflaten 42, Søreide",60.303099,5.284139
+1411915,"Petedalsflaten 44, Søreide",60.303102,5.284265
+1411916,"Petedalsflaten 46, Søreide",60.303101,5.284537
+1411917,"Petedalsflaten 48, Søreide",60.303104,5.284645
+1411918,"Petedalsflaten 50, Søreide",60.303066,5.284903
+1411919,"Petedalsflaten 52, Søreide",60.303273,5.284898
+1411920,"Petedalsflaten 54, Søreide",60.30327,5.2845
+1411921,"Petedalsflaten 56, Søreide",60.303453,5.284606
+1411922,"Petedalsflaten 58, Søreide",60.303454,5.28495
+1411925,"Petedalsflaten 11, Søreide",60.302327,5.285458
+1411926,"Petedalsflaten 12, Søreide",60.302182,5.285094
+1411927,"Petedalsflaten 13, Søreide",60.302368,5.285345
+1411928,"Petedalsflaten 14, Søreide",60.302248,5.284888
+1411929,"Petedalsflaten 15, Søreide",60.302502,5.285293
+1411930,"Petedalsflaten 16, Søreide",60.302265,5.28456
+1411931,"Petedalsflaten 17, Søreide",60.302563,5.28525
+1411932,"Petedalsflaten 18, Søreide",60.302298,5.284429
+1411933,"Petedalsflaten 19, Søreide",60.302626,5.285225
+1411934,"Petedalsflaten 20, Søreide",60.302331,5.284317
+1411935,"Petedalsflaten 21, Søreide",60.302724,5.285214
+1411936,"Petedalsflaten 22, Søreide",60.302363,5.284186
+1411937,"Petedalsflaten 23, Søreide",60.302795,5.28517
+1411938,"Petedalsflaten 24, Søreide",60.302396,5.284092
+1411939,"Petedalsflaten 25, Søreide",60.30285,5.2852
+1411940,"Petedalsflaten 26, Søreide",60.302448,5.284014
+1430154,"Sandsliåsen 52, Fana",60.292551,5.291711
+1430454,"Sandsliåsen 62, Fana",60.292255,5.291075
+1430712,"Sandslimarka 35, Fana",60.291378,5.281252
+1431191,"Sandslivegen 21, Fana",60.294423,5.28536
+1431516,"Nordre Gommershaugen 26, Fana",60.292907,5.274251
+1431517,"Nordre Gommershaugen 28, Fana",60.293011,5.274113
+1431708,"Sandslivegen 15B, Fana",60.293888,5.28553
+1431709,"Sandslivegen 15C, Fana",60.293812,5.285701
+1431710,"Sandslivegen 15D, Fana",60.293887,5.285801
+1431711,"Sandslivegen 15E, Fana",60.293852,5.286168
+1431712,"Sandslivegen 15F, Fana",60.293877,5.2864
+1431713,"Sandslivegen 15G, Fana",60.293969,5.28648
+1431714,"Sandslivegen 15H, Fana",60.294011,5.286367
+1431739,"Sandslivegen 15A, Fana",60.293969,5.28552
+1432260,"Sandslivegen 100, Søreide",60.300641,5.285306
+1432378,"Sandslivegen 15I, Fana",60.293595,5.285961
+1432843,"Sandsliåsen 46, Fana",60.293327,5.291804
+1433003,"Nordre Gommershaugen 19A, Fana",60.292861,5.27614
+1433004,"Nordre Gommershaugen 19B, Fana",60.29303,5.276066
+1433005,"Nordre Gommershaugen 19C, Fana",60.293181,5.276013
+1433308,"Sandsliåsen 64, Fana",60.291991,5.290634
+1433309,"Sandsliåsen 68, Fana",60.291477,5.290276
+1433310,"Sandsliåsen 73, Fana",60.29123,5.289471
+1433311,"Sandsliåsen 71, Fana",60.291399,5.28909
+1433312,"Sandsliåsen 69, Fana",60.291521,5.289601
+1433313,"Sandsliåsen 67, Fana",60.291808,5.289894
+1433314,"Sandsliåsen 65, Fana",60.292177,5.290215
+1433315,"Sandsliåsen 63, Fana",60.292375,5.290228
+1433316,"Håvardstunvegen 72, Fana",60.289531,5.289773
+1433470,"Sandslivegen 98, Søreide",60.300494,5.283566
+1433596,"Håvardstunvegen 30, Fana",60.291005,5.291072
+1433597,"Håvardstunvegen 36, Fana",60.29148,5.291978
+1433598,"Håvardstunvegen 40, Fana",60.291635,5.292684
+1433599,"Håvardstunvegen 44, Fana",60.291029,5.292554
+1433600,"Håvardstunvegen 60, Fana",60.290245,5.291212
+1433601,"Håvardstunvegen 61, Fana",60.29036,5.289534
+1433602,"Håvardstunvegen 62, Fana",60.289926,5.291683
+1433603,"Håvardstunvegen 63, Fana",60.290483,5.289121
+1433604,"Håvardstunvegen 64, Fana",60.289826,5.291332
+1433605,"Håvardstunvegen 65, Fana",60.290404,5.288551
+1433606,"Håvardstunvegen 66, Fana",60.289687,5.291819
+1433622,"Håvardstunvegen 68, Fana",60.289452,5.290795
+1433623,"Håvardstunvegen 70, Fana",60.289744,5.290328
+1434119,"Nordre Gommershaugen 4, Fana",60.290363,5.275827
+1434313,"Sandsliåsen 59, Fana",60.292968,5.290234
+1438639,"Sandslimarka 50, Fana",60.290769,5.278134
+1439586,"Nordre Gommershaugen 42B, Fana",60.292604,5.275626
+1439732,"Sandslikroken 140, Fana",60.294499,5.293863
+1441952,"Sandslimarka 251B, Fana",60.297331,5.276536
+1442077,"Sandslimarka 33B, Fana",60.2926,5.282065
+1442079,"Sandslimarka 33A, Fana",60.292303,5.281956
+1442082,"Sandslimarka 33C, Fana",60.292812,5.28152
+1442158,"Sandsliåsen 55, Fana",60.295323,5.290635
+1790725,"Sandslimarka 262, Fana",60.297727,5.280633
+1940283,"Håvardstunvegen 34E, Fana",60.29105,5.291768
+1940285,"Håvardstunvegen 42B, Fana",60.291536,5.293306
+1940286,"Håvardstunvegen 42C, Fana",60.291477,5.293242
+1940288,"Håvardstunvegen 34F, Fana",60.291074,5.291645
+1940289,"Håvardstunvegen 42A, Fana",60.291594,5.293373
+1940290,"Håvardstunvegen 42D, Fana",60.291363,5.293253
+1940334,"Håvardstunvegen 32K, Fana",60.291775,5.291055
+1940340,"Håvardstunvegen 32L, Fana",60.291757,5.291168
+1940343,"Håvardstunvegen 32J, Fana",60.291667,5.291046
+1940346,"Håvardstunvegen 32P, Fana",60.291702,5.291549
+1940348,"Håvardstunvegen 34A, Fana",60.291197,5.292084
+1940349,"Håvardstunvegen 32M, Fana",60.291738,5.291297
+1940351,"Håvardstunvegen 32N, Fana",60.291717,5.291424
+1940352,"Håvardstunvegen 34D, Fana",60.29102,5.291907
+1940353,"Håvardstunvegen 34B, Fana",60.291134,5.292031
+1940354,"Håvardstunvegen 34C, Fana",60.291069,5.291986
+1940453,"Håvardstunvegen 32C, Fana",60.291392,5.29091
+1940458,"Håvardstunvegen 32B, Fana",60.291359,5.291026
+1940460,"Håvardstunvegen 32E, Fana",60.291445,5.290691
+1940462,"Håvardstunvegen 32D, Fana",60.291419,5.290779
+1940465,"Håvardstunvegen 32H, Fana",60.291612,5.290983
+1940466,"Håvardstunvegen 32F, Fana",60.291482,5.290862
+1940467,"Håvardstunvegen 32G, Fana",60.291547,5.29092
+1940610,"Håvardstunvegen 32A, Fana",60.291333,5.291151
+1940648,"Håvardstunvegen 42E, Fana",60.291389,5.29314
+1940651,"Håvardstunvegen 42F, Fana",60.291415,5.29303
+1962840,"Sandsliåsen 43, Fana",60.296132,5.290086
+1962842,"Sandsliåsen 45, Fana",60.295915,5.289879
+1962873,"Sandsliåsen 47, Fana",60.295501,5.289865
+1962881,"Sandsliåsen 49, Fana",60.295367,5.29001
+1962882,"Sandsliåsen 51, Fana",60.295481,5.290369
+2013295,"Sandslimarka 249, Fana",60.294629,5.276248
+2014927,"Nordre Gommershaugen 21A, Fana",60.293328,5.275847
+2017061,"Nordre Gommershaugen 23, Fana",60.293494,5.275437
+2054808,"Sandslimarka 261, Fana",60.29642,5.280709
+2054821,"Sandslimarka 263, Fana",60.296177,5.281162
+2054906,"Sandslimarka 267, Fana",60.295918,5.281632
+2054924,"Sandslimarka 265, Fana",60.295889,5.280757
+2073276,"Sandsliåsen 33, Fana",60.297129,5.291511
+2073277,"Sandsliåsen 35, Fana",60.296954,5.291223
+2073557,"Sandslimarka 268, Fana",60.296985,5.281514
+2073558,"Sandslimarka 264, Fana",60.297268,5.281152
+2081135,"Sandslimarka 249I, Fana",60.296285,5.277903
+2081377,"Sandslimarka 249G, Fana",60.295962,5.278373
+2081378,"Sandslimarka 249H, Fana",60.29611,5.278312
+2092276,"Sandslimarka 249E, Fana",60.295935,5.277642
+2092277,"Sandslimarka 249F, Fana",60.295931,5.277739
+2096915,"Sandslimarka 249B, Fana",60.295884,5.275902
+2096920,"Sandslimarka 249A, Fana",60.295982,5.275906
+2101717,"Sandslimarka 273, Fana",60.295233,5.281797
+2101718,"Sandslimarka 271, Fana",60.295576,5.281915
+2101719,"Sandslimarka 269, Fana",60.295673,5.281287
+2101750,"Sandslimarka 277, Fana",60.29512,5.282541
+2101875,"Sandslimarka 275, Fana",60.295403,5.282538
+2104872,"Sandslimarka 249C, Fana",60.295982,5.276347
+2105064,"Nordre Gommershaugen 20A, Fana",60.292415,5.274161
+2105066,"Nordre Gommershaugen 20B, Fana",60.292568,5.274165
+2111611,"Sandsliåsen 27, Fana",60.296599,5.291919
+2184287,"Sandsliåsen 17, Fana",60.296217,5.291737
+2184289,"Sandsliåsen 13, Fana",60.295817,5.291033
+2184317,"Sandsliåsen 11, Fana",60.295613,5.291092
+2184363,"Sandsliåsen 15, Fana",60.295998,5.291757
+2188617,"Sandsliåsen 31, Fana",60.296951,5.291631
+2195043,"Nordre Gommershaugen 18, Fana",60.292227,5.274169
+2241327,"Sandslihaugen 36, Fana",60.294801,5.280911
+2367512,"Sandslimarka 249M, Fana",60.296342,5.276154
+2367530,"Sandslimarka 249K, Fana",60.296336,5.276278
+2367531,"Sandslimarka 249L, Fana",60.296401,5.276153
+2367563,"Sandslimarka 249N, Fana",60.296332,5.275583
+2438364,"Sandsliåsen 37, Fana",60.29692,5.290334
+2438365,"Sandsliåsen 39, Fana",60.296797,5.290143
+2438366,"Sandsliåsen 41, Fana",60.296758,5.29043
+2439259,"Sandsliåsen 29, Fana",60.296667,5.291663
+2439389,"Sandsliåsen 19, Fana",60.296358,5.291021
+2439391,"Sandsliåsen 21, Fana",60.296484,5.290907
+2440212,"Sandslimarka 266, Fana",60.29718,5.281892
+2453466,"Sandsliåsen 57E, Fana",60.294216,5.290673
+2453468,"Sandsliåsen 57F, Fana",60.294167,5.291017
+2453471,"Sandsliåsen 57G, Fana",60.294137,5.291209
+2453472,"Sandsliåsen 57H, Fana",60.293977,5.2912
+2453478,"Sandsliåsen 57J, Fana",60.293788,5.290637
+2453479,"Sandsliåsen 57L, Fana",60.293714,5.291181
+2453480,"Sandsliåsen 57K, Fana",60.293736,5.290981
+2453578,"Sandsliåsen 57M, Fana",60.29354,5.291166

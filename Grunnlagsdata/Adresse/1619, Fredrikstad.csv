@@ -1,0 +1,772 @@
+,Navn,Long,Lat
+43538,"203/651, Glemmen",59.224149,10.963519
+75895,"Anders Forsbergs vei 11D, Gamle Glemmen",59.225663,10.968385
+76021,"Marmorveien 9, Gamle Glemmen",59.227679,10.965576
+76039,"Tapperiveien 9, Glemmen",59.22314,10.959742
+76731,"Torpedalsveien 8, Gamle Glemmen",59.228032,10.9705
+651726,"Lisleby allé 38B, Gamle Glemmen",59.225907,10.966267
+1646056,"Lislebyveien 119G, Gamle Glemmen",59.223942,10.97135
+1646057,"Lislebyveien 119H, Gamle Glemmen",59.223904,10.971445
+1794960,"Lisleby allé 45, Gamle Glemmen",59.230063,10.970855
+1884123,"Marmorveien 2C, Gamle Glemmen",59.22826,10.965501
+1884124,"Marmorveien 2B, Gamle Glemmen",59.228335,10.965669
+2039143,"Lisleby allé 8, Glemmen",59.222802,10.958801
+2065321,"Lislebyveien 124A, Gamle Glemmen",59.224967,10.972819
+2065362,"Lislebyveien 124B, Gamle Glemmen",59.225011,10.972953
+2078108,"Skjellveien 10A, Gamle Glemmen",59.229892,10.967782
+2079404,"Lisleby allé 72C, Gamle Glemmen",59.228586,10.968573
+2079405,"Lisleby allé 72B, Gamle Glemmen",59.22857,10.968617
+2080228,"Skjellveien 10B, Gamle Glemmen",59.229873,10.967645
+2081912,"Vingerbakken 1B, Gamle Glemmen",59.227382,10.975601
+2082342,"Lauritz Johnsens vei 32D, Gamle Glemmen",59.227036,10.972189
+2082343,"Lauritz Johnsens vei 32C, Gamle Glemmen",59.227078,10.972236
+2082344,"Lauritz Johnsens vei 32B, Gamle Glemmen",59.227097,10.972254
+2094123,"Lislebyveien 167C, Gamle Glemmen",59.229214,10.977544
+2094124,"Lislebyveien 167B, Gamle Glemmen",59.229257,10.977491
+2264527,"Marmorveien 17, Gamle Glemmen",59.226889,10.964814
+2299032,"Anders Forsbergs vei 9A, Gamle Glemmen",59.225923,10.968967
+2299033,"Anders Forsbergs vei 9B, Gamle Glemmen",59.225889,10.96891
+2299034,"Anders Forsbergs vei 9C, Gamle Glemmen",59.225853,10.968866
+2299035,"Anders Forsbergs vei 9D, Gamle Glemmen",59.225815,10.968805
+2299036,"Anders Forsbergs vei 10A, Gamle Glemmen",59.226495,10.968924
+2299037,"Anders Forsbergs vei 10B, Gamle Glemmen",59.226528,10.968987
+2299038,"Anders Forsbergs vei 10C, Gamle Glemmen",59.226556,10.969048
+2299039,"Anders Forsbergs vei 10D, Gamle Glemmen",59.226593,10.969109
+2299040,"Anders Forsbergs vei 11A, Gamle Glemmen",59.225773,10.968537
+2299041,"Anders Forsbergs vei 11B, Gamle Glemmen",59.225736,10.968486
+2299042,"Anders Forsbergs vei 11C, Gamle Glemmen",59.225698,10.968434
+2299043,"Anders Forsbergs vei 12A, Gamle Glemmen",59.226337,10.968521
+2299044,"Anders Forsbergs vei 12B, Gamle Glemmen",59.226369,10.968587
+2299045,"Anders Forsbergs vei 12C, Gamle Glemmen",59.226402,10.968648
+2299051,"Anders Forsbergs vei 12D, Gamle Glemmen",59.22644,10.968709
+2299052,"Anders Forsbergs vei 3A, Gamle Glemmen",59.226571,10.969721
+2299053,"Anders Forsbergs vei 3B, Gamle Glemmen",59.226526,10.969699
+2299054,"Anders Forsbergs vei 3C, Gamle Glemmen",59.226482,10.969674
+2299055,"Anders Forsbergs vei 3D, Gamle Glemmen",59.226441,10.969654
+2299056,"Anders Forsbergs vei 4, Gamle Glemmen",59.227092,10.969345
+2299057,"Anders Forsbergs vei 5A, Gamle Glemmen",59.226321,10.969541
+2299058,"Anders Forsbergs vei 5B, Gamle Glemmen",59.226281,10.969517
+2299059,"Anders Forsbergs vei 5C, Gamle Glemmen",59.226233,10.969497
+2299060,"Anders Forsbergs vei 5D, Gamle Glemmen",59.226192,10.96948
+2299061,"Anders Forsbergs vei 6, Gamle Glemmen",59.226999,10.968919
+2299062,"Anders Forsbergs vei 7A, Gamle Glemmen",59.226078,10.969397
+2299063,"Anders Forsbergs vei 7B, Gamle Glemmen",59.226039,10.969353
+2299064,"Anders Forsbergs vei 7C, Gamle Glemmen",59.226003,10.969297
+2299065,"Anders Forsbergs vei 7D, Gamle Glemmen",59.225967,10.969243
+2299066,"Anders Forsbergs vei 8, Gamle Glemmen",59.226805,10.969276
+2299067,"Anders Forsbergs vei 8A, Gamle Glemmen",59.226924,10.969704
+2299083,"Anders Forsbergs vei 14A, Gamle Glemmen",59.226184,10.968122
+2299084,"Anders Forsbergs vei 14B, Gamle Glemmen",59.226218,10.968193
+2299085,"Anders Forsbergs vei 14C, Gamle Glemmen",59.226252,10.968257
+2299086,"Anders Forsbergs vei 14D, Gamle Glemmen",59.226283,10.968318
+2299087,"Anders Forsbergs vei 16A, Gamle Glemmen",59.22598,10.96783
+2299088,"Anders Forsbergs vei 16B, Gamle Glemmen",59.226013,10.967891
+2299089,"Anders Forsbergs vei 16C, Gamle Glemmen",59.226048,10.967964
+2299090,"Anders Forsbergs vei 16D, Gamle Glemmen",59.22608,10.968023
+2299091,"Anders Forsbergs vei 18A, Gamle Glemmen",59.225759,10.96797
+2299092,"Anders Forsbergs vei 18B, Gamle Glemmen",59.225789,10.967905
+2299093,"Anders Forsbergs vei 18C, Gamle Glemmen",59.225818,10.96783
+2299094,"Anders Forsbergs vei 18D, Gamle Glemmen",59.225852,10.967771
+2299384,"Anders Forsbergs vei 1, Gamle Glemmen",59.22657,10.97056
+2299385,"Anders Forsbergs vei 1A, Gamle Glemmen",59.226248,10.970471
+2299386,"Anders Forsbergs vei 1B, Gamle Glemmen",59.226369,10.970215
+2299387,"Anders Forsbergs vei 2, Gamle Glemmen",59.227136,10.969944
+2299393,"Amalie Skrams vei 2, Glemmen",59.225752,10.959875
+2299394,"Amalie Skrams vei 3, Glemmen",59.226057,10.959366
+2299395,"Amalie Skrams vei 4, Glemmen",59.225539,10.959757
+2299396,"Amalie Skrams vei 5, Glemmen",59.225801,10.959266
+2299397,"Amalie Skrams vei 6, Glemmen",59.225333,10.959675
+2299398,"Amalie Skrams vei 7, Glemmen",59.225552,10.959155
+2299399,"Amalie Skrams vei 8, Glemmen",59.225092,10.959609
+2299400,"Amalie Skrams vei 9, Glemmen",59.225276,10.958992
+2299401,"Amalie Skrams vei 10, Glemmen",59.224844,10.959384
+2299402,"Amalie Skrams vei 11, Glemmen",59.225011,10.9589
+2299403,"Amalie Skrams vei 12, Glemmen",59.224805,10.958966
+2299917,"Drøbaks vei 1A, Gamle Glemmen",59.227012,10.971413
+2299918,"Drøbaks vei 1B, Gamle Glemmen",59.226883,10.971227
+2299919,"Drøbaks vei 2, Gamle Glemmen",59.227294,10.971408
+2299920,"Drøbaks vei 2A, Gamle Glemmen",59.227285,10.972003
+2299921,"Drøbaks vei 3, Gamle Glemmen",59.226995,10.970952
+2299922,"Drøbaks vei 3A, Gamle Glemmen",59.227218,10.971088
+2299923,"Drøbaks vei 5, Gamle Glemmen",59.227155,10.970523
+2299924,"Drøbaks vei 5A, Gamle Glemmen",59.227312,10.970217
+2299925,"Drøbaks vei 5B, Gamle Glemmen",59.227303,10.97083
+2300187,"Emil Holters vei 7, Gamle Glemmen",59.232552,10.97534
+2300188,"Emil Holters vei 8, Gamle Glemmen",59.232707,10.975787
+2300189,"Emil Holters vei 9, Gamle Glemmen",59.23263,10.974958
+2300190,"Emil Holters vei 10, Gamle Glemmen",59.232862,10.975042
+2300191,"Emil Holters vei 11, Gamle Glemmen",59.232688,10.974646
+2300217,"Emil Holters vei 3, Gamle Glemmen",59.232338,10.976119
+2300218,"Emil Holters vei 5, Gamle Glemmen",59.232521,10.975646
+2300392,"Falchåsveien 11B, Gamle Glemmen",59.226928,10.961289
+2300393,"Falchåsveien 12, Gamle Glemmen",59.227171,10.962304
+2300394,"Falchåsveien 12B, Gamle Glemmen",59.227125,10.963003
+2300395,"Falchåsveien 13, Gamle Glemmen",59.22676,10.961473
+2300396,"Falchåsveien 13B, Gamle Glemmen",59.226571,10.961604
+2300397,"Falchåsveien 14, Gamle Glemmen",59.22692,10.96229
+2300398,"Falchåsveien 14B, Gamle Glemmen",59.226794,10.962938
+2300399,"Falchåsveien 16, Gamle Glemmen",59.226697,10.962172
+2300400,"Syenittveien 24, Gamle Glemmen",59.226663,10.963008
+2300401,"Falchåsveien 18, Gamle Glemmen",59.226428,10.962139
+2300413,"Falchåsveien 3, Gamle Glemmen",59.227867,10.961994
+2300414,"Falchåsveien 4, Gamle Glemmen",59.228321,10.962879
+2300415,"Falchåsveien 5, Gamle Glemmen",59.227564,10.961889
+2300416,"Falchåsveien 6, Gamle Glemmen",59.228025,10.962879
+2300417,"Falchåsveien 8, Gamle Glemmen",59.227708,10.962458
+2300418,"Falchåsveien 8B, Gamle Glemmen",59.227687,10.963228
+2300419,"Falchåsveien 9, Gamle Glemmen",59.227111,10.961567
+2300420,"Falchåsveien 9B, Gamle Glemmen",59.227195,10.961289
+2300421,"Falchåsveien 10, Gamle Glemmen",59.227412,10.962423
+2300422,"Falchåsveien 10B, Gamle Glemmen",59.227348,10.963086
+2300423,"Falchåsveien 11, Gamle Glemmen",59.226912,10.96171
+2301045,"Haugerudveien 3, Glemmen",59.223688,10.962139
+2301046,"Haugerudveien 5, Glemmen",59.223853,10.962499
+2301047,"Haugerudveien 7, Glemmen",59.224054,10.962932
+2301048,"Haugerudveien 9, Glemmen",59.224363,10.963282
+2301063,"Haugerudveien 1, Glemmen",59.223514,10.961796
+2301064,"Haugerudveien 2, Glemmen",59.224092,10.962145
+2301460,"Haugerudveien 11, Gamle Glemmen",59.224591,10.963646
+2301461,"Haugerudveien 13, Gamle Glemmen",59.224944,10.963421
+2301462,"Haugerudveien 15, Gamle Glemmen",59.224767,10.963866
+2301463,"Haugerudveien 17, Gamle Glemmen",59.224941,10.964244
+2301464,"Haugerudveien 19, Gamle Glemmen",59.225259,10.964035
+2301465,"Haugerudveien 21, Gamle Glemmen",59.225302,10.963511
+2301611,"Sæthersvei 1, Gamle Glemmen",59.228287,10.976888
+2301612,"Sæthersvei 1A, Gamle Glemmen",59.228226,10.977083
+2301613,"Sæthersvei 2, Gamle Glemmen",59.228051,10.976927
+2301614,"Sæthersvei 2A, Gamle Glemmen",59.227912,10.976885
+2301615,"Sæthersvei 3, Gamle Glemmen",59.22839,10.976711
+2301616,"Sæthersvei 4, Gamle Glemmen",59.228106,10.976467
+2301617,"Sæthersvei 5, Gamle Glemmen",59.228386,10.976413
+2301670,"Johs.Olsens vei 1, Gamle Glemmen",59.228101,10.976221
+2301671,"Johs.Olsens vei 2, Gamle Glemmen",59.227934,10.976562
+2301672,"Johs.Olsens vei 3, Gamle Glemmen",59.227914,10.976123
+2301673,"Johs.Olsens vei 4, Gamle Glemmen",59.227765,10.976482
+2301674,"Johs.Olsens vei 5, Gamle Glemmen",59.227653,10.976125
+2301675,"Johs.Olsens vei 6, Gamle Glemmen",59.227655,10.976469
+2301676,"Johs.Olsens vei 7, Gamle Glemmen",59.227556,10.97605
+2301694,"Henrik Jamissens vei 6C, Gamle Glemmen",59.230527,10.978309
+2301695,"Henrik Jamissens vei 6D, Gamle Glemmen",59.230579,10.978332
+2301696,"Henrik Jamissens vei 6E, Gamle Glemmen",59.230611,10.978342
+2301697,"Henrik Jamissens vei 6F, Gamle Glemmen",59.230664,10.978365
+2301698,"Henrik Jamissens vei 8A, Gamle Glemmen",59.230805,10.978239
+2301699,"Henrik Jamissens vei 8B, Gamle Glemmen",59.230865,10.978267
+2301700,"Henrik Jamissens vei 8C, Gamle Glemmen",59.230895,10.97828
+2301701,"Henrik Jamissens vei 8D, Gamle Glemmen",59.230954,10.978302
+2301702,"Henrik Jamissens vei 8E, Gamle Glemmen",59.230982,10.978315
+2301703,"Henrik Jamissens vei 8F, Gamle Glemmen",59.231041,10.97834
+2301704,"Henrik Jamissens vei 10A, Gamle Glemmen",59.231261,10.978315
+2301705,"Henrik Jamissens vei 10B, Gamle Glemmen",59.23127,10.978198
+2301706,"Henrik Jamissens vei 10C, Gamle Glemmen",59.231278,10.978136
+2301707,"Henrik Jamissens vei 10D, Gamle Glemmen",59.231289,10.978022
+2301710,"Henrik Jamissens vei 2A, Gamle Glemmen",59.230135,10.977231
+2301711,"Henrik Jamissens vei 2B, Gamle Glemmen",59.23014,10.977351
+2301712,"Henrik Jamissens vei 2C, Gamle Glemmen",59.23014,10.977413
+2301713,"Henrik Jamissens vei 2D, Gamle Glemmen",59.230145,10.977525
+2301714,"Henrik Jamissens vei 2E, Gamle Glemmen",59.23015,10.977585
+2301715,"Henrik Jamissens vei 2F, Gamle Glemmen",59.230151,10.977705
+2301716,"Henrik Jamissens vei 4A, Gamle Glemmen",59.230075,10.978291
+2301717,"Henrik Jamissens vei 4B, Gamle Glemmen",59.230133,10.978311
+2301719,"Henrik Jamissens vei 4C, Gamle Glemmen",59.230167,10.978324
+2301720,"Henrik Jamissens vei 4D, Gamle Glemmen",59.230223,10.978346
+2301721,"Henrik Jamissens vei 4E, Gamle Glemmen",59.230254,10.978362
+2301722,"Henrik Jamissens vei 4F, Gamle Glemmen",59.230312,10.978384
+2301723,"Henrik Jamissens vei 6A, Gamle Glemmen",59.230436,10.978279
+2301724,"Henrik Jamissens vei 6B, Gamle Glemmen",59.230488,10.978296
+2301725,"Henrik Jamissens vei 16A, Gamle Glemmen",59.230949,10.97728
+2301726,"Henrik Jamissens vei 16B, Gamle Glemmen",59.230889,10.977239
+2301727,"Henrik Jamissens vei 16C, Gamle Glemmen",59.23086,10.977218
+2301728,"Henrik Jamissens vei 16D, Gamle Glemmen",59.230805,10.977179
+2301729,"Henrik Jamissens vei 16E, Gamle Glemmen",59.230782,10.977151
+2301730,"Henrik Jamissens vei 16F, Gamle Glemmen",59.230722,10.977112
+2301731,"Henrik Jamissens vei 18A, Gamle Glemmen",59.230479,10.977223
+2301732,"Henrik Jamissens vei 18B, Gamle Glemmen",59.230496,10.977122
+2301733,"Henrik Jamissens vei 18C, Gamle Glemmen",59.23051,10.977055
+2301734,"Henrik Jamissens vei 18D, Gamle Glemmen",59.230525,10.976957
+2301735,"Henrik Jamissens vei 18E, Gamle Glemmen",59.230539,10.976898
+2301736,"Henrik Jamissens vei 18F, Gamle Glemmen",59.230561,10.976784
+2301741,"Henrik Jamissens vei 12A, Gamle Glemmen",59.231454,10.977941
+2301742,"Henrik Jamissens vei 12B, Gamle Glemmen",59.231517,10.977982
+2301743,"Henrik Jamissens vei 12C, Gamle Glemmen",59.231537,10.977992
+2301744,"Henrik Jamissens vei 12D, Gamle Glemmen",59.231606,10.978035
+2301745,"Henrik Jamissens vei 12E, Gamle Glemmen",59.231625,10.97805
+2301746,"Henrik Jamissens vei 12F, Gamle Glemmen",59.231689,10.978086
+2301747,"Henrik Jamissens vei 12G, Gamle Glemmen",59.231714,10.9781
+2301748,"Henrik Jamissens vei 12H, Gamle Glemmen",59.231774,10.978129
+2301749,"Henrik Jamissens vei 12I, Gamle Glemmen",59.231812,10.978064
+2301750,"Henrik Jamissens vei 12J, Gamle Glemmen",59.231839,10.978079
+2301751,"Henrik Jamissens vei 14A, Gamle Glemmen",59.231367,10.977593
+2301752,"Henrik Jamissens vei 14B, Gamle Glemmen",59.231308,10.977552
+2301753,"Henrik Jamissens vei 14C, Gamle Glemmen",59.231282,10.977528
+2301754,"Henrik Jamissens vei 14D, Gamle Glemmen",59.231228,10.97749
+2301755,"Henrik Jamissens vei 14E, Gamle Glemmen",59.231197,10.977466
+2301756,"Henrik Jamissens vei 14F, Gamle Glemmen",59.23114,10.977425
+2301880,"Sæthersvei 6, Gamle Glemmen",59.22816,10.973124
+2301881,"Sæthersvei 7, Gamle Glemmen",59.228427,10.976065
+2301882,"Sæthersvei 8, Gamle Glemmen",59.228156,10.975576
+2301883,"Sæthersvei 9, Gamle Glemmen",59.228379,10.975659
+2301884,"Sæthersvei 11, Gamle Glemmen",59.228501,10.973528
+2301885,"Idrettsveien 1, Gamle Glemmen",59.231285,10.974197
+2301886,"Idrettsveien 2, Gamle Glemmen",59.230685,10.975249
+2301887,"Idrettsveien 3, Gamle Glemmen",59.231389,10.973853
+2301888,"Idrettsveien 5, Gamle Glemmen",59.231448,10.973505
+2302006,"Maltveien 8, Glemmen",59.224561,10.961454
+2302007,"Maltveien 10, Glemmen",59.224717,10.961795
+2302008,"Maltveien 12, Glemmen",59.224728,10.962287
+2302009,"Maltveien 14, Glemmen",59.224658,10.962756
+2302014,"Marmorveien 1, Gamle Glemmen",59.228403,10.966852
+2302172,"Josefsbakken 1, Gamle Glemmen",59.225718,10.974051
+2302173,"Josefsbakken 2, Gamle Glemmen",59.226015,10.973998
+2302174,"Josefsbakken 2A, Gamle Glemmen",59.226142,10.9739
+2302175,"Josefsbakken 2B, Gamle Glemmen",59.22633,10.973946
+2302176,"Josefsbakken 2C, Gamle Glemmen",59.225751,10.973054
+2302177,"Josefsbakken 3, Gamle Glemmen",59.225802,10.97381
+2302178,"Josefsbakken 4, Gamle Glemmen",59.225592,10.972655
+2302179,"Josefsbakken 5, Gamle Glemmen",59.225434,10.973228
+2302180,"Josefsbakken 6, Gamle Glemmen",59.225432,10.972456
+2302181,"Josefsbakken 7, Gamle Glemmen",59.225208,10.972729
+2302182,"Josefsbakken 8, Gamle Glemmen",59.225166,10.972141
+2302183,"Josefsbakken 9, Gamle Glemmen",59.225146,10.972594
+2302476,"Konditorveien 1, Gamle Glemmen",59.232218,10.975425
+2302477,"Konditorveien 2, Gamle Glemmen",59.232161,10.975982
+2302478,"Konditorveien 3, Gamle Glemmen",59.232058,10.975364
+2302479,"Konditorveien 4, Gamle Glemmen",59.231988,10.97578
+2302480,"Konditorveien 5, Gamle Glemmen",59.23188,10.975248
+2302481,"Konditorveien 6, Gamle Glemmen",59.231802,10.975647
+2302482,"Konditorveien 7, Gamle Glemmen",59.231751,10.975072
+2302531,"Lauritz Johnsens vei 1, Gamle Glemmen",59.229843,10.975674
+2302532,"Lauritz Johnsens vei 1A, Gamle Glemmen",59.229593,10.975589
+2302533,"Lauritz Johnsens vei 2, Gamle Glemmen",59.230373,10.975652
+2302534,"Lauritz Johnsens vei 3, Gamle Glemmen",59.228788,10.974736
+2302535,"Lauritz Johnsens vei 4, Gamle Glemmen",59.230151,10.975499
+2302536,"Lauritz Johnsens vei 5, Gamle Glemmen",59.228638,10.974587
+2302537,"Lauritz Johnsens vei 6, Gamle Glemmen",59.229894,10.975309
+2302538,"Lauritz Johnsens vei 7, Gamle Glemmen",59.228488,10.974439
+2302539,"Lauritz Johnsens vei 8, Gamle Glemmen",59.229716,10.975158
+2302540,"Lauritz Johnsens vei 8A, Gamle Glemmen",59.229751,10.974669
+2302541,"Lauritz Johnsens vei 9, Gamle Glemmen",59.228347,10.974255
+2302542,"Lauritz Johnsens vei 10, Gamle Glemmen",59.229477,10.974969
+2302543,"Lauritz Johnsens vei 11, Gamle Glemmen",59.228011,10.973903
+2302544,"Lauritz Johnsens vei 12, Gamle Glemmen",59.229326,10.97482
+2302545,"Lauritz Johnsens vei 12A, Gamle Glemmen",59.229442,10.974301
+2302546,"Lauritz Johnsens vei 13, Gamle Glemmen",59.227843,10.9737
+2302562,"Lauritz Johnsens vei 30, Gamle Glemmen",59.22733,10.972549
+2302563,"Lauritz Johnsens vei 31A, Gamle Glemmen",59.2261,10.97143
+2302564,"Lauritz Johnsens vei 31B, Gamle Glemmen",59.226066,10.971371
+2302565,"Lauritz Johnsens vei 31C, Gamle Glemmen",59.226033,10.97132
+2302566,"Lauritz Johnsens vei 31D, Gamle Glemmen",59.226001,10.971263
+2302567,"Lauritz Johnsens vei 32, Gamle Glemmen",59.227115,10.972381
+2302568,"Lauritz Johnsens vei 33A, Gamle Glemmen",59.225895,10.971143
+2302569,"Lauritz Johnsens vei 33B, Gamle Glemmen",59.225856,10.971095
+2302570,"Lauritz Johnsens vei 33C, Gamle Glemmen",59.225824,10.971041
+2302571,"Lauritz Johnsens vei 33D, Gamle Glemmen",59.225789,10.970983
+2302572,"Lauritz Johnsens vei 34, Gamle Glemmen",59.226911,10.971771
+2302573,"Lauritz Johnsens vei 35A, Gamle Glemmen",59.225678,10.970906
+2302574,"Lauritz Johnsens vei 35B, Gamle Glemmen",59.225639,10.970849
+2302575,"Lauritz Johnsens vei 35C, Gamle Glemmen",59.225605,10.970798
+2302577,"Lauritz Johnsens vei 35D, Gamle Glemmen",59.225569,10.970735
+2302578,"Lauritz Johnsens vei 36, Gamle Glemmen",59.22677,10.971623
+2302579,"Lauritz Johnsens vei 14, Gamle Glemmen",59.228972,10.974484
+2302580,"Lauritz Johnsens vei 15, Gamle Glemmen",59.227613,10.973442
+2302581,"Lauritz Johnsens vei 16, Gamle Glemmen",59.228664,10.974081
+2302582,"Lauritz Johnsens vei 17, Gamle Glemmen",59.227313,10.973091
+2302583,"Lauritz Johnsens vei 18, Gamle Glemmen",59.228461,10.973806
+2302584,"Lauritz Johnsens vei 19, Gamle Glemmen",59.227146,10.972871
+2302585,"Lauritz Johnsens vei 20, Gamle Glemmen",59.228312,10.973587
+2302586,"Lauritz Johnsens vei 21, Gamle Glemmen",59.226978,10.972669
+2302587,"Lauritz Johnsens vei 22, Gamle Glemmen",59.2281,10.973365
+2302588,"Lauritz Johnsens vei 23, Gamle Glemmen",59.226732,10.97221
+2302589,"Lauritz Johnsens vei 24, Gamle Glemmen",59.227869,10.973176
+2302590,"Lauritz Johnsens vei 25, Gamle Glemmen",59.226546,10.97203
+2302591,"Lauritz Johnsens vei 26, Gamle Glemmen",59.227693,10.972938
+2302592,"Lauritz Johnsens vei 27, Gamle Glemmen",59.226362,10.971862
+2302593,"Lauritz Johnsens vei 28, Gamle Glemmen",59.227498,10.972734
+2302594,"Lauritz Johnsens vei 29, Gamle Glemmen",59.226203,10.971678
+2302611,"Lauritz Johnsens vei 37A, Gamle Glemmen",59.225676,10.970354
+2302612,"Lauritz Johnsens vei 37B, Gamle Glemmen",59.225643,10.970296
+2302613,"Lauritz Johnsens vei 37C, Gamle Glemmen",59.225607,10.970244
+2302614,"Lauritz Johnsens vei 37D, Gamle Glemmen",59.225572,10.970181
+2302615,"Lauritz Johnsens vei 38, Gamle Glemmen",59.226619,10.971491
+2302616,"Lauritz Johnsens vei 40, Gamle Glemmen",59.226428,10.97106
+2302617,"Lauritz Johnsens vei 42, Gamle Glemmen",59.226172,10.970765
+2302618,"Lauritz Johnsens vei 44, Gamle Glemmen",59.225937,10.970153
+2302619,"Lauritz Johnsens vei 46, Gamle Glemmen",59.225445,10.967761
+2302620,"Lauritz Johnsens vei 48, Gamle Glemmen",59.225252,10.967417
+2302839,"Konditorveien 8, Gamle Glemmen",59.231612,10.9756
+2302840,"Konditorveien 9, Gamle Glemmen",59.231498,10.974981
+2302841,"Konditorveien 40, Gamle Glemmen",59.228714,10.97312
+2302842,"Konditorveien 42, Gamle Glemmen",59.228537,10.972934
+2302843,"Konditorveien 44, Gamle Glemmen",59.228289,10.972709
+2302857,"Konditorveien 10, Gamle Glemmen",59.23141,10.975414
+2302858,"Konditorveien 11, Gamle Glemmen",59.231328,10.974901
+2302859,"Konditorveien 12, Gamle Glemmen",59.231223,10.975315
+2302860,"Konditorveien 13, Gamle Glemmen",59.231133,10.974749
+2302861,"Konditorveien 14, Gamle Glemmen",59.231045,10.9752
+2302862,"Konditorveien 16, Gamle Glemmen",59.230734,10.974954
+2302863,"Konditorveien 18, Gamle Glemmen",59.230514,10.97481
+2302864,"Konditorveien 20, Gamle Glemmen",59.23036,10.974668
+2302865,"Konditorveien 22, Gamle Glemmen",59.230203,10.974534
+2302866,"Konditorveien 24, Gamle Glemmen",59.230053,10.974389
+2302867,"Konditorveien 26, Gamle Glemmen",59.22987,10.974277
+2302868,"Konditorveien 28, Gamle Glemmen",59.229707,10.974145
+2302869,"Konditorveien 30, Gamle Glemmen",59.229539,10.973966
+2302870,"Konditorveien 34, Gamle Glemmen",59.229263,10.973625
+2302871,"Konditorveien 36, Gamle Glemmen",59.229078,10.973439
+2302872,"Konditorveien 38, Gamle Glemmen",59.2289,10.973288
+2303012,"Marmorveien 20, Gamle Glemmen",59.226578,10.964257
+2303013,"Marmorveien 21, Gamle Glemmen",59.2264,10.964842
+2303014,"Marmorveien 2, Gamle Glemmen",59.228557,10.966155
+2303015,"Marmorveien 3, Gamle Glemmen",59.228204,10.966483
+2303016,"Marmorveien 4, Gamle Glemmen",59.228114,10.965286
+2303017,"Marmorveien 5, Gamle Glemmen",59.22804,10.966052
+2303018,"Marmorveien 6, Gamle Glemmen",59.227927,10.964836
+2303019,"Marmorveien 7, Gamle Glemmen",59.227854,10.965849
+2303020,"Marmorveien 8, Gamle Glemmen",59.227603,10.964497
+2303031,"Maltveien 1, Glemmen",59.224099,10.961707
+2303032,"Maltveien 2, Glemmen",59.2238,10.96127
+2303033,"Maltveien 3, Glemmen",59.224347,10.961967
+2303034,"Maltveien 4, Glemmen",59.22409,10.961094
+2303035,"Maltveien 5, Glemmen",59.224366,10.962494
+2303036,"Maltveien 6, Glemmen",59.224341,10.961143
+2303037,"Marmorveien 9B, Gamle Glemmen",59.227523,10.965181
+2303038,"Marmorveien 10, Gamle Glemmen",59.227342,10.96444
+2303039,"Marmorveien 11, Gamle Glemmen",59.227315,10.964925
+2303040,"Marmorveien 12, Gamle Glemmen",59.227195,10.964401
+2303041,"Marmorveien 13, Gamle Glemmen",59.227177,10.964899
+2303042,"Marmorveien 14, Gamle Glemmen",59.227036,10.964361
+2303043,"Marmorveien 15, Gamle Glemmen",59.227069,10.964965
+2303044,"Marmorveien 16, Gamle Glemmen",59.226886,10.964325
+2303045,"Marmorveien 18, Gamle Glemmen",59.226735,10.964288
+2303046,"Marmorveien 19, Gamle Glemmen",59.226707,10.964736
+2303047,"Lisleby allé 96, Gamle Glemmen",59.23119,10.970998
+2303048,"Lisleby allé 98, Gamle Glemmen",59.231374,10.971257
+2303049,"Lisleby allé 100, Gamle Glemmen",59.231561,10.971408
+2303050,"Lisleby allé 102, Gamle Glemmen",59.231747,10.971594
+2303051,"Lisleby allé 104, Gamle Glemmen",59.231943,10.971867
+2303052,"Lisleby allé 106, Gamle Glemmen",59.232042,10.972062
+2303053,"Lisleby allé 108, Gamle Glemmen",59.232422,10.972232
+2303062,"Lisleby allé 38A, Gamle Glemmen",59.225859,10.966235
+2303063,"Lisleby allé 39, Gamle Glemmen",59.226726,10.967975
+2303064,"Lisleby allé 66, Gamle Glemmen",59.227814,10.96783
+2303065,"Lisleby allé 68, Gamle Glemmen",59.228084,10.968309
+2303066,"Lisleby allé 74, Gamle Glemmen",59.228992,10.969017
+2303067,"Lisleby allé 76, Gamle Glemmen",59.229233,10.969118
+2303068,"Lisleby allé 76B, Gamle Glemmen",59.229193,10.968818
+2303069,"Lisleby allé 78, Gamle Glemmen",59.22942,10.969199
+2303070,"Lisleby allé 80, Gamle Glemmen",59.22956,10.96947
+2303071,"Lisleby allé 82, Gamle Glemmen",59.229787,10.969308
+2303072,"Lisleby allé 92, Gamle Glemmen",59.230782,10.970677
+2303073,"Lisleby allé 94, Gamle Glemmen",59.230987,10.97097
+2303141,"Lislebyveien 103, Gamle Glemmen",59.222205,10.969522
+2303142,"Lislebyveien 105, Gamle Glemmen",59.222597,10.970155
+2303143,"Lislebyveien 107, Gamle Glemmen",59.222813,10.970098
+2303237,"Lisleby allé 24, Gamle Glemmen",59.224625,10.964331
+2303238,"Lisleby allé 25, Gamle Glemmen",59.224774,10.965794
+2303239,"Lisleby allé 26, Gamle Glemmen",59.224766,10.964657
+2303240,"Lisleby allé 27, Gamle Glemmen",59.224586,10.966344
+2303241,"Lisleby allé 27A, Gamle Glemmen",59.224696,10.966175
+2303242,"Lisleby allé 29, Gamle Glemmen",59.225059,10.966512
+2303243,"Lisleby allé 30, Gamle Glemmen",59.225214,10.96529
+2303244,"Lisleby allé 31, Gamle Glemmen",59.225523,10.966731
+2303245,"Lisleby allé 32, Gamle Glemmen",59.225389,10.965532
+2303246,"Lisleby allé 33, Gamle Glemmen",59.225745,10.966884
+2303247,"Lisleby allé 33A, Gamle Glemmen",59.225913,10.967069
+2303248,"Lisleby allé 34, Gamle Glemmen",59.225619,10.965865
+2303249,"Lisleby allé 35, Gamle Glemmen",59.226128,10.967152
+2303250,"Lisleby allé 35A, Gamle Glemmen",59.226278,10.967318
+2303251,"Lisleby allé 36, Gamle Glemmen",59.225749,10.966078
+2303252,"Lisleby allé 37, Gamle Glemmen",59.226476,10.967553
+2303263,"Lisleby allé 1, Glemmen",59.222088,10.958017
+2303264,"Lisleby allé 2, Glemmen",59.222606,10.958275
+2303265,"Lisleby allé 2A, Glemmen",59.222879,10.958561
+2303266,"Lisleby allé 6, Glemmen",59.222787,10.958907
+2303267,"Lisleby allé 22, Gamle Glemmen",59.224296,10.963813
+2303268,"Lisleby allé 23, Gamle Glemmen",59.224675,10.96521
+2303269,"Lislebyveien 109, Gamle Glemmen",59.222977,10.970225
+2303270,"Lislebyveien 111, Gamle Glemmen",59.222978,10.970493
+2303271,"Lislebyveien 113, Gamle Glemmen",59.223132,10.970396
+2303272,"Lislebyveien 114, Gamle Glemmen",59.222863,10.969785
+2303273,"Lislebyveien 115, Gamle Glemmen",59.223232,10.97087
+2303274,"Lislebyveien 115A, Gamle Glemmen",59.222504,10.97213
+2303275,"Lislebyveien 117, Gamle Glemmen",59.22345,10.970783
+2303276,"Lislebyveien 131E, Gamle Glemmen",59.224133,10.972522
+2303277,"Lislebyveien 132, Gamle Glemmen",59.225441,10.973965
+2303278,"Lislebyveien 133, Gamle Glemmen",59.224684,10.974079
+2303279,"Lislebyveien 135, Gamle Glemmen",59.225619,10.974658
+2303280,"Lislebyveien 136, Gamle Glemmen",59.225839,10.974338
+2303281,"Lislebyveien 137, Gamle Glemmen",59.225831,10.974863
+2303282,"Lislebyveien 138, Gamle Glemmen",59.226071,10.974474
+2303283,"Lislebyveien 139, Gamle Glemmen",59.225972,10.975064
+2303284,"Lislebyveien 140, Gamle Glemmen",59.226136,10.974881
+2303285,"Lislebyveien 141, Gamle Glemmen",59.226139,10.975302
+2303286,"Lislebyveien 142, Gamle Glemmen",59.226382,10.975246
+2303287,"Lislebyveien 143, Gamle Glemmen",59.226323,10.975575
+2303289,"Lislebyveien 144, Gamle Glemmen",59.22657,10.975274
+2303290,"Lislebyveien 145, Gamle Glemmen",59.22649,10.975813
+2303291,"Lislebyveien 146, Gamle Glemmen",59.226721,10.975388
+2303292,"Lislebyveien 147, Gamle Glemmen",59.226622,10.975996
+2303293,"Lislebyveien 119, Gamle Glemmen",59.223556,10.970912
+2303294,"Josefsbakken 11, Gamle Glemmen",59.224861,10.971898
+2303295,"Lislebyveien 121, Gamle Glemmen",59.224164,10.971683
+2303296,"Lislebyveien 123, Gamle Glemmen",59.224146,10.972074
+2303297,"Lislebyveien 125, Gamle Glemmen",59.224326,10.972177
+2303298,"Lislebyveien 126, Gamle Glemmen",59.225011,10.973239
+2303299,"Lislebyveien 128, Gamle Glemmen",59.225113,10.973665
+2303300,"Lislebyveien 130, Gamle Glemmen",59.2252,10.973828
+2303301,"Lislebyveien 130A, Gamle Glemmen",59.2252,10.973828
+2303302,"Lislebyveien 130B, Gamle Glemmen",59.225344,10.973674
+2303303,"Lislebyveien 131, Gamle Glemmen",59.224787,10.973091
+2303304,"Lislebyveien 131A, Gamle Glemmen",59.224792,10.973471
+2303305,"Lislebyveien 131B, Gamle Glemmen",59.22469,10.973115
+2303306,"Lislebyveien 131C, Gamle Glemmen",59.224559,10.97285
+2303307,"Lislebyveien 131D, Gamle Glemmen",59.224419,10.972418
+2303308,"Lislebyveien 166, Gamle Glemmen",59.229378,10.976716
+2303309,"Lislebyveien 167, Gamle Glemmen",59.228967,10.977761
+2303310,"Lislebyveien 167A, Gamle Glemmen",59.229415,10.977359
+2303311,"Lislebyveien 168, Gamle Glemmen",59.230052,10.976106
+2303312,"Lislebyveien 168A, Gamle Glemmen",59.229862,10.976236
+2303313,"Lislebyveien 169, Gamle Glemmen",59.229567,10.977288
+2303314,"Lislebyveien 170, Gamle Glemmen",59.230181,10.975886
+2303315,"Lislebyveien 171, Gamle Glemmen",59.229998,10.976699
+2303316,"Lislebyveien 172, Gamle Glemmen",59.230578,10.975804
+2303317,"Lislebyveien 174, Gamle Glemmen",59.230862,10.976031
+2303318,"Lislebyveien 175, Gamle Glemmen",59.230289,10.976453
+2303319,"Lislebyveien 176, Gamle Glemmen",59.231119,10.976221
+2303320,"Lislebyveien 177, Gamle Glemmen",59.230579,10.976295
+2303321,"Lislebyveien 178, Gamle Glemmen",59.231243,10.976368
+2303322,"Lislebyveien 179, Gamle Glemmen",59.230817,10.976408
+2303323,"Lislebyveien 180, Gamle Glemmen",59.231581,10.976563
+2303324,"Lislebyveien 148, Gamle Glemmen",59.226859,10.975817
+2303325,"Lislebyveien 148B, Gamle Glemmen",59.227106,10.975498
+2303326,"Lislebyveien 149, Gamle Glemmen",59.226903,10.976433
+2303327,"Lislebyveien 150, Gamle Glemmen",59.227075,10.976197
+2303328,"Lislebyveien 152, Gamle Glemmen",59.227397,10.976461
+2303329,"Lislebyveien 153, Gamle Glemmen",59.227317,10.976965
+2303330,"Lislebyveien 154, Gamle Glemmen",59.227696,10.976847
+2303331,"Lislebyveien 155, Gamle Glemmen",59.227672,10.977248
+2303332,"Lislebyveien 156, Gamle Glemmen",59.228405,10.977376
+2303333,"Lislebyveien 157, Gamle Glemmen",59.227769,10.977377
+2303334,"Lislebyveien 158, Gamle Glemmen",59.228652,10.977217
+2303335,"Lislebyveien 159, Gamle Glemmen",59.227946,10.97758
+2303336,"Lislebyveien 160, Gamle Glemmen",59.228775,10.977365
+2303337,"Lislebyveien 161, Gamle Glemmen",59.228222,10.977701
+2303338,"Lislebyveien 163, Gamle Glemmen",59.228374,10.97778
+2303339,"Lislebyveien 165, Gamle Glemmen",59.228751,10.977801
+2303356,"Lislebyveien 181, Gamle Glemmen",59.230988,10.976599
+2303357,"Lislebyveien 183, Gamle Glemmen",59.231219,10.97677
+2303358,"Lislebyveien 184, Gamle Glemmen",59.2324,10.977148
+2303359,"Lislebyveien 184A, Gamle Glemmen",59.232676,10.97706
+2303360,"Lislebyveien 185, Gamle Glemmen",59.231494,10.976961
+2303361,"Lislebyveien 186, Gamle Glemmen",59.232905,10.976938
+2303362,"Lislebyveien 187, Gamle Glemmen",59.231938,10.977302
+2303364,"Lislebyveien 189, Gamle Glemmen",59.232094,10.977481
+2303365,"Lislebyveien 189A, Gamle Glemmen",59.232274,10.977655
+2303518,"Marmorveien 22, Gamle Glemmen",59.226131,10.963962
+2303519,"Marmorveien 24, Gamle Glemmen",59.226251,10.96432
+2303720,"Nilsebakken 1, Gamle Glemmen",59.226468,10.974935
+2303721,"Nilsebakken 2, Gamle Glemmen",59.226948,10.975261
+2303722,"Nilsebakken 4, Gamle Glemmen",59.226746,10.974986
+2303723,"Nilsebakken 4A, Gamle Glemmen",59.226875,10.974748
+2303724,"Nilsebakken 6, Gamle Glemmen",59.226628,10.974454
+2303725,"Nilsebakken 8, Gamle Glemmen",59.226457,10.974479
+2304330,"Ole Hansens vei 5, Gamle Glemmen",59.232326,10.973644
+2304331,"Ole Hansens vei 7, Gamle Glemmen",59.232149,10.973493
+2304332,"Ole Hansens vei 8, Gamle Glemmen",59.232281,10.974237
+2304333,"Ole Hansens vei 10, Gamle Glemmen",59.232113,10.974052
+2304334,"Ole Hansens vei 12, Gamle Glemmen",59.231945,10.97392
+2304335,"Ole Hansens vei 14, Gamle Glemmen",59.231681,10.974193
+2304336,"Ole Hansens vei 16, Gamle Glemmen",59.23175,10.973751
+2304456,"Ole Hansens vei 1, Gamle Glemmen",59.232645,10.97396
+2304457,"Ole Hansens vei 2, Gamle Glemmen",59.232477,10.974371
+2304458,"Ole Hansens vei 3, Gamle Glemmen",59.232477,10.973775
+2304459,"Ole Hansens vei 4, Gamle Glemmen",59.232332,10.974903
+2305210,"Sanengveien 2, Gamle Glemmen",59.229507,10.975935
+2305211,"Sanengveien 4, Gamle Glemmen",59.229408,10.975351
+2305212,"Sanengveien 7, Gamle Glemmen",59.22881,10.973896
+2305228,"Sigrid Undsets vei 1, Glemmen",59.225166,10.960069
+2305229,"Sigrid Undsets vei 24, Glemmen",59.225092,10.960783
+2305230,"Sigrid Undsets vei 26, Glemmen",59.224879,10.960631
+2305231,"Sigrid Undsets vei 28, Glemmen",59.224651,10.960573
+2305232,"Sigrid Undsets vei 30, Glemmen",59.22436,10.960461
+2305233,"Sigrid Undsets vei 32, Glemmen",59.224394,10.960024
+2305234,"Sigrid Undsets vei 34, Glemmen",59.22402,10.959775
+2305235,"Sigrid Undsets vei 36, Glemmen",59.223933,10.960223
+2305236,"Sigrid Undsets vei 38, Glemmen",59.223704,10.959915
+2305237,"Sigrid Undsets vei 40, Glemmen",59.223517,10.959781
+2305238,"Sigrid Undsets vei 42, Glemmen",59.223297,10.959471
+2305245,"Sigrid Undsets vei 3, Glemmen",59.224934,10.959968
+2305246,"Sigrid Undsets vei 5, Glemmen",59.224714,10.959831
+2305247,"Sigrid Undsets vei 7, Glemmen",59.224439,10.959379
+2305248,"Sigrid Undsets vei 8, Gamle Glemmen",59.226487,10.961179
+2305249,"Sigrid Undsets vei 9, Glemmen",59.224171,10.959293
+2305250,"Sigrid Undsets vei 10, Gamle Glemmen",59.226312,10.961466
+2305251,"Sigrid Undsets vei 11, Glemmen",59.224004,10.959056
+2305252,"Sigrid Undsets vei 12, Gamle Glemmen",59.225991,10.961343
+2305253,"Sigrid Undsets vei 13, Glemmen",59.223789,10.959043
+2305254,"Sigrid Undsets vei 14, Gamle Glemmen",59.225836,10.960896
+2305255,"Sigrid Undsets vei 15, Glemmen",59.223638,10.958895
+2305256,"Sigrid Undsets vei 16, Gamle Glemmen",59.226206,10.960759
+2305257,"Sigrid Undsets vei 17, Glemmen",59.223399,10.958688
+2305258,"Sigrid Undsets vei 19, Glemmen",59.223146,10.958779
+2305259,"Sigrid Undsets vei 20, Glemmen",59.225428,10.960522
+2305260,"Sigrid Undsets vei 22, Glemmen",59.225359,10.960921
+2305291,"Skiferveien 15A, Gamle Glemmen",59.227277,10.967165
+2305292,"Skiferveien 17, Gamle Glemmen",59.2271,10.966419
+2305293,"Skiferveien 19, Gamle Glemmen",59.226977,10.966798
+2305294,"Skiferveien 21, Gamle Glemmen",59.226888,10.966102
+2305295,"Skiferveien 25, Gamle Glemmen",59.226646,10.96587
+2305296,"Skiferveien 27, Gamle Glemmen",59.226418,10.965766
+2305297,"Skiferveien 29, Gamle Glemmen",59.226177,10.965665
+2305298,"Skiferveien 31, Gamle Glemmen",59.225967,10.965285
+2305299,"Skiferveien 33, Gamle Glemmen",59.22575,10.964971
+2305300,"Skiferveien 35, Gamle Glemmen",59.225525,10.964856
+2305301,"Skiferveien 37, Gamle Glemmen",59.225304,10.964581
+2305310,"Skiferveien 3, Gamle Glemmen",59.228709,10.967149
+2305311,"Skiferveien 5, Gamle Glemmen",59.228577,10.96745
+2305312,"Skiferveien 5A, Gamle Glemmen",59.228482,10.967719
+2305313,"Skiferveien 6, Gamle Glemmen",59.227141,10.965712
+2305314,"Skiferveien 7, Gamle Glemmen",59.228286,10.967591
+2305315,"Skiferveien 8, Gamle Glemmen",59.22693,10.96552
+2305316,"Skiferveien 9, Gamle Glemmen",59.228127,10.967425
+2305317,"Skiferveien 10, Gamle Glemmen",59.226499,10.96514
+2305318,"Skiferveien 11, Gamle Glemmen",59.227868,10.967304
+2305319,"Skiferveien 12, Gamle Glemmen",59.226083,10.964748
+2305320,"Skiferveien 13, Gamle Glemmen",59.227648,10.967029
+2305321,"Skiferveien 13A, Gamle Glemmen",59.227507,10.967441
+2305322,"Skiferveien 15, Gamle Glemmen",59.227348,10.966626
+2305323,"Skjellveien 4, Gamle Glemmen",59.229266,10.966719
+2305324,"Skjellveien 5, Gamle Glemmen",59.22926,10.967332
+2305325,"Skjellveien 5A, Gamle Glemmen",59.229209,10.96775
+2305326,"Skjellveien 5B, Gamle Glemmen",59.22908,10.96797
+2305327,"Skjellveien 5C, Gamle Glemmen",59.228913,10.968276
+2305328,"Skjellveien 6, Gamle Glemmen",59.229508,10.966996
+2305329,"Skjellveien 7A, Gamle Glemmen",59.229355,10.968161
+2305330,"Skjellveien 8, Gamle Glemmen",59.229744,10.96743
+2305343,"Skjellveien 1, Gamle Glemmen",59.228887,10.966573
+2305344,"Skjellveien 2, Gamle Glemmen",59.228945,10.96603
+2305345,"Skjellveien 3, Gamle Glemmen",59.229005,10.966818
+2305346,"Skjellveien 3A, Gamle Glemmen",59.22865,10.968011
+2305668,"Stasjonsveien 1, Gamle Glemmen",59.232713,10.977995
+2305694,"Skjellveien 11, Gamle Glemmen",59.229486,10.968658
+2305695,"Skjellveien 11A, Gamle Glemmen",59.229751,10.96871
+2305696,"Skjellveien 12, Gamle Glemmen",59.230139,10.968031
+2305697,"Skjellveien 15, Gamle Glemmen",59.229996,10.968549
+2306035,"Syenittveien 8, Gamle Glemmen",59.228518,10.964117
+2306036,"Syenittveien 9, Gamle Glemmen",59.228181,10.964431
+2306037,"Syenittveien 10, Gamle Glemmen",59.22836,10.963845
+2306038,"Syenittveien 11, Gamle Glemmen",59.227934,10.964153
+2306039,"Syenittveien 12, Gamle Glemmen",59.228194,10.963573
+2306040,"Syenittveien 13, Gamle Glemmen",59.227711,10.963963
+2306041,"Syenittveien 14, Gamle Glemmen",59.228016,10.963457
+2306042,"Syenittveien 15, Gamle Glemmen",59.227403,10.963841
+2306043,"Syenittveien 17, Gamle Glemmen",59.227254,10.963797
+2306044,"Syenittveien 19, Gamle Glemmen",59.227098,10.963768
+2306045,"Syenittveien 21, Gamle Glemmen",59.226952,10.963724
+2306046,"Syenittveien 23, Gamle Glemmen",59.226803,10.963686
+2306047,"Syenittveien 25, Gamle Glemmen",59.226655,10.96365
+2306048,"Syenittveien 26, Gamle Glemmen",59.226335,10.96294
+2306049,"Syenittveien 27, Gamle Glemmen",59.226499,10.963605
+2306050,"Syenittveien 29, Gamle Glemmen",59.226345,10.96357
+2306061,"Syenittveien 2, Gamle Glemmen",59.228963,10.96552
+2306062,"Syenittveien 3, Gamle Glemmen",59.228595,10.965576
+2306063,"Syenittveien 4, Gamle Glemmen",59.228811,10.964975
+2306064,"Syenittveien 5, Gamle Glemmen",59.228475,10.965201
+2306065,"Syenittveien 6, Gamle Glemmen",59.228683,10.964594
+2306066,"Syenittveien 7, Gamle Glemmen",59.228339,10.964703
+2306067,"Syenittveien 31, Gamle Glemmen",59.226038,10.963554
+2306220,"Tapperiveien 1, Glemmen",59.223738,10.960653
+2306221,"Tapperiveien 2, Glemmen",59.223492,10.961003
+2306254,"Tapperiveien 3, Glemmen",59.223563,10.96031
+2306255,"Tapperiveien 4, Glemmen",59.223354,10.960757
+2306256,"Tapperiveien 5, Glemmen",59.223337,10.960258
+2306257,"Tapperiveien 6, Glemmen",59.223189,10.960689
+2306258,"Tapperiveien 7, Glemmen",59.223263,10.959942
+2306259,"Tapperiveien 8, Glemmen",59.223068,10.960386
+2306260,"Tapperiveien 10, Glemmen",59.22292,10.960098
+2306261,"Tapperiveien 12, Glemmen",59.222816,10.959794
+2306365,"Torpedalsveien 2A, Gamle Glemmen",59.228144,10.971019
+2306366,"Torpedalsveien 4, Gamle Glemmen",59.227967,10.971354
+2306367,"Torpedalsveien 4A, Gamle Glemmen",59.227832,10.971028
+2306368,"Torpedalsveien 5A, Gamle Glemmen",59.228002,10.97271
+2306369,"Torpedalsveien 7, Gamle Glemmen",59.227808,10.972436
+2306370,"Torpedalsveien 9, Gamle Glemmen",59.227669,10.972113
+2306371,"Torpedalsveien 9A, Gamle Glemmen",59.227829,10.971666
+2306372,"Drøbaks vei 12, Gamle Glemmen",59.227687,10.970975
+2306373,"Torpedalsveien 13, Gamle Glemmen",59.227597,10.970374
+2306374,"Torpedalsveien 15, Gamle Glemmen",59.227434,10.969838
+2306375,"Torpedalsveien 17, Gamle Glemmen",59.227546,10.969582
+2306376,"Torpedalsveien 17B, Gamle Glemmen",59.227381,10.969222
+2306377,"Torpedalsveien 19A, Gamle Glemmen",59.227257,10.968812
+2306378,"Torpedalsveien 25, Gamle Glemmen",59.226972,10.968322
+2306641,"Vingerbakken 1, Gamle Glemmen",59.227223,10.975804
+2306642,"Vingerbakken 1A, Gamle Glemmen",59.227368,10.975812
+2306643,"Vingerbakken 2, Gamle Glemmen",59.227653,10.975547
+2306644,"Vingerbakken 3, Gamle Glemmen",59.227272,10.97521
+2306645,"Vingerbakken 4, Gamle Glemmen",59.227925,10.975388
+2306646,"Vingerbakken 5, Gamle Glemmen",59.227575,10.975193
+2306647,"Vingerbakken 5A, Gamle Glemmen",59.227465,10.975225
+2307102,"Vingerbakken 6, Gamle Glemmen",59.228089,10.975274
+2307103,"Vingerbakken 7, Gamle Glemmen",59.227703,10.975252
+2307245,"Wittenberg 1, Gamle Glemmen",59.227851,10.974963
+2307246,"Wittenberg 2, Gamle Glemmen",59.227554,10.974998
+2307247,"Wittenberg 3, Gamle Glemmen",59.227497,10.974627
+2307248,"Wittenberg 4, Gamle Glemmen",59.227162,10.974902
+2307249,"Wittenberg 5, Gamle Glemmen",59.227319,10.974459
+2307250,"Wittenberg 5A, Gamle Glemmen",59.227099,10.974183
+2307251,"Zoarbakken 1, Gamle Glemmen",59.228747,10.97689
+2307252,"Zoarbakken 2, Gamle Glemmen",59.228643,10.976638
+2307280,"Østensens vei 1, Gamle Glemmen",59.228924,10.976444
+2307281,"Østensens vei 2, Gamle Glemmen",59.228901,10.975584
+2307282,"Østensens vei 2A, Gamle Glemmen",59.2291,10.976104
+2307283,"Østensens vei 4, Gamle Glemmen",59.228872,10.975144
+2307284,"Østensens vei 4A, Gamle Glemmen",59.228619,10.975252
+2307285,"Østensens vei 5, Gamle Glemmen",59.2281,10.974888
+2307286,"Østensens vei 6, Gamle Glemmen",59.22844,10.975172
+2307287,"Østensens vei 7, Gamle Glemmen",59.22774,10.974433
+2307288,"Østensens vei 8, Gamle Glemmen",59.228145,10.974599
+2307299,"Østensens vei 16B, Gamle Glemmen",59.226667,10.972659
+2307300,"Østensens vei 17, Gamle Glemmen",59.225951,10.972907
+2307301,"Østensens vei 18, Gamle Glemmen",59.226281,10.972418
+2307302,"Østensens vei 18B, Gamle Glemmen",59.226096,10.97218
+2307303,"Østensens vei 19, Gamle Glemmen",59.225538,10.972029
+2307304,"Østensens vei 19B, Gamle Glemmen",59.225718,10.972263
+2307306,"Østensens vei 20, Gamle Glemmen",59.225866,10.971974
+2307307,"Østensens vei 21, Gamle Glemmen",59.225356,10.971857
+2307308,"Østensens vei 22, Gamle Glemmen",59.225655,10.971664
+2307309,"Østensens vei 22A, Gamle Glemmen",59.225469,10.971495
+2307310,"Østensens vei 24, Gamle Glemmen",59.225213,10.9712
+2307311,"Østensens vei 26, Gamle Glemmen",59.225045,10.970997
+2307315,"Østensens vei 9, Gamle Glemmen",59.227266,10.973825
+2307316,"Østensens vei 9B, Gamle Glemmen",59.226972,10.97365
+2307317,"Østensens vei 9C, Gamle Glemmen",59.226912,10.974067
+2307318,"Østensens vei 10, Gamle Glemmen",59.227997,10.974345
+2307319,"Østensens vei 11, Gamle Glemmen",59.226774,10.973444
+2307320,"Østensens vei 11A, Gamle Glemmen",59.226637,10.973876
+2307321,"Østensens vei 11B, Gamle Glemmen",59.226468,10.973726
+2307322,"Østensens vei 11C, Gamle Glemmen",59.226159,10.97341
+2307323,"Østensens vei 11D, Gamle Glemmen",59.225961,10.973399
+2307324,"Østensens vei 12, Gamle Glemmen",59.227678,10.973901
+2307325,"Østensens vei 12A, Gamle Glemmen",59.227245,10.97342
+2307326,"Østensens vei 13, Gamle Glemmen",59.226656,10.973211
+2307327,"Østensens vei 14A, Gamle Glemmen",59.226821,10.972958
+2307328,"Østensens vei 15A, Gamle Glemmen",59.226239,10.972819
+2307329,"Østensens vei 16, Gamle Glemmen",59.226635,10.972737
+2318811,"Amalie Skrams vei 1, Glemmen",59.226145,10.960055
+2319058,"Humleveien 16, Gamle Glemmen",59.226098,10.962558
+2319059,"Humleveien 14, Gamle Glemmen",59.226131,10.962175
+2319060,"Humleveien 20, Gamle Glemmen",59.225601,10.963502
+2319061,"Humleveien 18, Gamle Glemmen",59.225975,10.962954
+2319078,"Humleveien 2, Gamle Glemmen",59.225043,10.962866
+2319079,"Humleveien 1, Gamle Glemmen",59.225394,10.962798
+2319080,"Humleveien 4, Gamle Glemmen",59.225103,10.962449
+2319081,"Humleveien 3, Gamle Glemmen",59.225445,10.962381
+2319082,"Humleveien 6, Gamle Glemmen",59.225108,10.962133
+2319083,"Humleveien 5, Gamle Glemmen",59.225695,10.9625
+2319084,"Humleveien 8, Gamle Glemmen",59.225401,10.961712
+2319085,"Humleveien 7, Gamle Glemmen",59.22567,10.962954
+2319086,"Humleveien 12, Gamle Glemmen",59.225846,10.961983
+2319087,"Humleveien 10, Gamle Glemmen",59.22567,10.961798
+2319250,"Konditorveien 31, Gamle Glemmen",59.229586,10.973065
+2319300,"Falchåsveien 1B, Gamle Glemmen",59.228214,10.962123
+2319301,"Falchåsveien 1A, Gamle Glemmen",59.228169,10.961948
+2319303,"Falchåsveien 1C, Gamle Glemmen",59.228294,10.962281
+2321154,"Ole Hansens vei 9, Gamle Glemmen",59.231796,10.973052
+2321258,"Sigrid Undsets vei 6, Gamle Glemmen",59.226651,10.960955
+2321259,"Sigrid Undsets vei 4, Gamle Glemmen",59.226836,10.960662
+2321260,"Sigrid Undsets vei 18, Gamle Glemmen",59.226343,10.960592
+2321997,"Nilsebakken 1A, Gamle Glemmen",59.226381,10.974755
+2323323,"Skiferveien 4, Gamle Glemmen",59.227379,10.965787
+2323758,"Nilsebakken 3A, Gamle Glemmen",59.226321,10.974541
+2323761,"Nilsebakken 3B, Gamle Glemmen",59.226261,10.97438
+2323894,"Torpedalsveien 14, Gamle Glemmen",59.227763,10.969472
+2323895,"Torpedalsveien 12, Gamle Glemmen",59.227903,10.970319
+2324056,"Lisleby allé 86D, Gamle Glemmen",59.229968,10.969792
+2324059,"Lisleby allé 70B, Gamle Glemmen",59.228329,10.968439
+2324060,"Lisleby allé 70A, Gamle Glemmen",59.228292,10.968427
+2324077,"Lisleby allé 86A, Gamle Glemmen",59.229968,10.969792
+2324079,"Lisleby allé 86C, Gamle Glemmen",59.229968,10.969792
+2324080,"Lisleby allé 86B, Gamle Glemmen",59.229968,10.969792
+2324172,"Lisleby allé 28B, Gamle Glemmen",59.225036,10.964992
+2324173,"Lisleby allé 28A, Gamle Glemmen",59.224978,10.96507
+2324175,"Lisleby allé 28C, Gamle Glemmen",59.225059,10.964906
+2324416,"Østensens vei 23B, Gamle Glemmen",59.225158,10.971739
+2324417,"Østensens vei 23A, Gamle Glemmen",59.22508,10.971665
+2324423,"Lisleby allé 88F, Gamle Glemmen",59.230197,10.970085
+2324424,"Lisleby allé 88E, Gamle Glemmen",59.230197,10.970085
+2324425,"Lisleby allé 90A, Gamle Glemmen",59.230473,10.970294
+2324426,"Lisleby allé 88G, Gamle Glemmen",59.230197,10.970085
+2324427,"Lisleby allé 90C, Gamle Glemmen",59.230473,10.970294
+2324428,"Lisleby allé 90B, Gamle Glemmen",59.230473,10.970294
+2324429,"Lisleby allé 90E, Gamle Glemmen",59.230473,10.970294
+2324430,"Lisleby allé 90D, Gamle Glemmen",59.230473,10.970294
+2324431,"Lisleby allé 90G, Gamle Glemmen",59.230473,10.970294
+2324432,"Lisleby allé 90F, Gamle Glemmen",59.230473,10.970294
+2324445,"Lisleby allé 88B, Gamle Glemmen",59.230197,10.970085
+2324446,"Lisleby allé 88A, Gamle Glemmen",59.230197,10.970085
+2324447,"Lisleby allé 88D, Gamle Glemmen",59.230197,10.970085
+2324448,"Lisleby allé 88C, Gamle Glemmen",59.230197,10.970085
+2324449,"Østensens vei 3A, Gamle Glemmen",59.228756,10.976289
+2324452,"Østensens vei 3B, Gamle Glemmen",59.228688,10.975951
+2324464,"Lislebyveien 122B, Gamle Glemmen",59.224878,10.97276
+2324465,"Lislebyveien 122A, Gamle Glemmen",59.224853,10.972543
+2324515,"Sigrid Undsets vei 2B, Gamle Glemmen",59.226567,10.960061
+2324516,"Sigrid Undsets vei 2A, Glemmen",59.226443,10.959353
+2324724,"Skjellveien 7, Gamle Glemmen",59.229471,10.967642
+2324809,"Falchåsveien 7C, Gamle Glemmen",59.227455,10.961339
+2324822,"Lisleby allé 40A, Gamle Glemmen",59.226111,10.966467
+2324826,"Lisleby allé 40C, Gamle Glemmen",59.226111,10.966467
+2324828,"Lisleby allé 40B, Gamle Glemmen",59.226111,10.966467
+2324862,"Tapperiveien 14A, Glemmen",59.222787,10.959476
+2324866,"Tapperiveien 14C, Glemmen",59.222762,10.959489
+2324868,"Tapperiveien 14B, Glemmen",59.222693,10.959422
+2324872,"Tapperiveien 14D, Glemmen",59.222672,10.959431
+2324902,"Lislebyveien 134B, Gamle Glemmen",59.225565,10.974059
+2324903,"Sanengveien 5, Gamle Glemmen",59.22907,10.975121
+2324905,"Sanengveien 1, Gamle Glemmen",59.229351,10.976171
+2324906,"Sanengveien 3, Gamle Glemmen",59.22924,10.975762
+2325406,"Lislebyveien 119B, Gamle Glemmen",59.223967,10.971456
+2325407,"Lislebyveien 119A, Gamle Glemmen",59.223993,10.971412
+2325408,"Lislebyveien 119D, Gamle Glemmen",59.223887,10.971658
+2325409,"Lislebyveien 119C, Gamle Glemmen",59.223939,10.971513
+2325410,"Lislebyveien 119F, Gamle Glemmen",59.223904,10.971615
+2325411,"Lislebyveien 119E, Gamle Glemmen",59.22387,10.971704
+2325566,"Lislebyveien 134A, Gamle Glemmen",59.225615,10.974325
+2325579,"Østensens vei 25A, Gamle Glemmen",59.224905,10.971356
+2325582,"Østensens vei 25B, Gamle Glemmen",59.224933,10.971388
+2325802,"Falchåsveien 7B, Gamle Glemmen",59.227365,10.961743
+2325803,"Falchåsveien 7A, Gamle Glemmen",59.227285,10.961694
+2325966,"Østensens vei 14B, Gamle Glemmen",59.227015,10.973232
+2326053,"Josefsbakken 3B, Gamle Glemmen",59.225369,10.973402
+2326069,"Skiferveien 23B, Gamle Glemmen",59.22681,10.966555
+2326070,"Skiferveien 23A, Gamle Glemmen",59.226754,10.966509
+2326094,"Lisleby allé 68A, Gamle Glemmen",59.227868,10.968161
+2326174,"Torpedalsveien 19B, Gamle Glemmen",59.22713,10.968594
+2326187,"Østensens vei 14C, Gamle Glemmen",59.227107,10.973151
+2326313,"Lislebyveien 182B, Gamle Glemmen",59.231884,10.976556
+2326314,"Lislebyveien 182A, Gamle Glemmen",59.231826,10.976511
+2326315,"Lislebyveien 182D, Gamle Glemmen",59.231995,10.976658
+2326316,"Lislebyveien 182C, Gamle Glemmen",59.231943,10.976607
+2326348,"Lislebyveien 182F, Gamle Glemmen",59.231898,10.976496
+2326349,"Lislebyveien 182E, Gamle Glemmen",59.231837,10.976444
+2326350,"Lislebyveien 182H, Gamle Glemmen",59.23201,10.976591
+2326351,"Lislebyveien 182G, Gamle Glemmen",59.231956,10.976544
+2326352,"Lislebyveien 180B, Gamle Glemmen",59.231579,10.976125
+2326353,"Lislebyveien 180A, Gamle Glemmen",59.231581,10.976563
+2326354,"Emil Holters vei 1B, Gamle Glemmen",59.232263,10.976638
+2326355,"Emil Holters vei 1A, Gamle Glemmen",59.232184,10.977089
+2327569,"Torpedalsveien 20, Gamle Glemmen",59.227502,10.96864
+2327570,"Torpedalsveien 18, Gamle Glemmen",59.227579,10.968669
+2327571,"Torpedalsveien 16, Gamle Glemmen",59.227656,10.968719
+2327572,"Torpedalsveien 10, Gamle Glemmen",59.227971,10.970425
+2327658,"Lisleby allé 80B, Gamle Glemmen",59.22971,10.969617
+2328467,"Skjellveien 13, Gamle Glemmen",59.229691,10.967916
+2328468,"Skjellveien 9, Gamle Glemmen",59.229605,10.968263
+2328570,"Lisleby allé 10, Glemmen",59.222936,10.959006
+2328571,"Lisleby allé 12, Glemmen",59.222951,10.958904
+2328806,"Drøbaks vei 10, Gamle Glemmen",59.227735,10.971377
+2328807,"Drøbaks vei 8, Gamle Glemmen",59.227694,10.971345
+2328808,"Drøbaks vei 6, Gamle Glemmen",59.227643,10.971293
+2328927,"Lauritz Johnsens vei 32A, Gamle Glemmen",59.227136,10.972302
+2328933,"Lisleby allé 72A, Gamle Glemmen",59.228488,10.968523
+2330210,"Lisleby allé 84B, Gamle Glemmen",59.230136,10.969398
+2535439,"Østensens vei 15, Gamle Glemmen",59.226382,10.973026

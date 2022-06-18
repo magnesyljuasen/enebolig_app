@@ -1,0 +1,684 @@
+,Navn,Long,Lat
+798605,"Finn Blackstads vei 14, Bragernes",59.754005,10.179388
+798606,"Sparavollen 2, Bragernes",59.754275,10.179344
+798607,"Finn Blackstads vei 17, Bragernes",59.753335,10.179988
+799099,"Underlia 60, Bragernes",59.752994,10.18398
+799100,"Underlia 62, Bragernes",59.753028,10.184141
+799101,"Underlia 64, Bragernes",59.753036,10.184249
+799102,"Underlia 69, Bragernes",59.753411,10.181468
+799103,"Underlia 71, Bragernes",59.753451,10.181077
+799104,"Underlia 72, Bragernes",59.754139,10.183398
+799105,"Underlia 73, Bragernes",59.753615,10.180763
+799106,"Underlia 74, Bragernes",59.753767,10.181836
+799107,"Underlia 76, Bragernes",59.754055,10.181757
+799108,"Underlia 77, Bragernes",59.753737,10.181248
+799109,"Underlia 78, Bragernes",59.754249,10.181177
+799110,"Underlia 81, Bragernes",59.753858,10.180754
+799111,"Underlia 82, Bragernes",59.754235,10.180714
+799112,"Underlia 56, Bragernes",59.752889,10.183585
+799113,"Underlia 57, Bragernes",59.752354,10.18321
+799114,"Underlia 58, Bragernes",59.752888,10.183727
+799571,"Underlia 222, Bragernes",59.761444,10.179953
+799574,"Sparavollen 134, Bragernes",59.759473,10.176448
+1781141,"Hans Hansens vei 37C, Bragernes",59.750445,10.185963
+1781142,"Hans Hansens vei 37A, Bragernes",59.75045,10.186245
+1864427,"Landfalltjernveien 35, Bragernes",59.762341,10.175783
+1870207,"Tverkenveien 171, Åssiden",59.773497,10.146418
+1870208,"Tverkenveien 160, Åssiden",59.773664,10.147795
+1870249,"Landfallåsen 1, Åssiden",59.763498,10.15706
+1870273,"Landfallåsen 6, Åssiden",59.764579,10.163756
+1870274,"Landfallåsen 7, Åssiden",59.763348,10.163837
+1870275,"Landfallåsen 2, Åssiden",59.763853,10.1596
+1870276,"Landfallåsen 5, Åssiden",59.764241,10.161376
+1870277,"Landfallåsen 3, Åssiden",59.765203,10.15934
+1870278,"Landfallåsen 4, Åssiden",59.76484,10.16072
+1870313,"Tverkenveien 100, Åssiden",59.770957,10.157442
+1870417,"Tverkenveien 301, Åssiden",59.783067,10.135504
+1870449,"Tverkenveien 331, Åssiden",59.785532,10.134984
+1870479,"Tverkenveien 213, Åssiden",59.775252,10.137644
+1870558,"Tverkenveien 177, Åssiden",59.772705,10.145002
+1870593,"Tverkenveien 165, Åssiden",59.770587,10.14541
+1879699,"Kjøsterudåsen 1, Åssiden",59.78102,10.110036
+1893123,"Landfallbrenna 27, Åssiden",59.776605,10.161645
+1893124,"Landfallbrenna 28, Åssiden",59.776867,10.163524
+1893188,"Landfallbrenna 46, Åssiden",59.773123,10.166404
+1898973,"Sauesetra 36, Åssiden",59.783749,10.158494
+1903752,"Sauesetra 49, Åssiden",59.785894,10.160276
+1903858,"Sauesetra 11, Åssiden",59.781887,10.167547
+1904150,"Sauesetra 52, Åssiden",59.787976,10.167613
+1909890,"Løken 2, Åssiden",59.814178,10.100627
+1909891,"Løken 1, Åssiden",59.815105,10.102954
+1918073,"Skimtheia 7, Åssiden",59.790859,10.153196
+1918100,"Skimtheia 1, Åssiden",59.788618,10.15784
+1932133,"Halvorstua 1, Bragernes",59.753236,10.175373
+1937381,"Tverråsen 8, Åssiden",59.793804,10.13401
+1940418,"Sanatorieveien 69, Bragernes",59.751831,10.18115
+1948861,"Tverkenveien 158, Åssiden",59.773517,10.148377
+1955155,"Landfallbrenna 41, Åssiden",59.772891,10.164946
+2046188,"Sparavollen 95, Bragernes",59.758979,10.174216
+2079378,"Underlia 152, Bragernes",59.75834,10.178713
+2210716,"Briskebakken 18, Bragernes",59.755806,10.175785
+2210728,"Briskebakken 22, Bragernes",59.755998,10.175418
+2210729,"Briskebakken 23, Bragernes",59.755649,10.175264
+2210730,"Briskebakken 25, Bragernes",59.755583,10.174656
+2210731,"Briskebakken 26, Bragernes",59.756192,10.174855
+2210732,"Briskebakken 29, Bragernes",59.755924,10.174704
+2210738,"Briskebakken 19, Bragernes",59.755477,10.175453
+2210739,"Briskebakken 21, Bragernes",59.755558,10.175367
+2210740,"Briskebakken 14, Bragernes",59.755623,10.176135
+2210741,"Briskebakken 15, Bragernes",59.755287,10.175553
+2210742,"Briskebakken 17, Bragernes",59.755395,10.175522
+2210752,"Briskebakken 1, Bragernes",59.754864,10.175734
+2210753,"Briskebakken 2, Bragernes",59.754857,10.176482
+2210754,"Briskebakken 5, Bragernes",59.755065,10.175261
+2210755,"Briskebakken 6, Bragernes",59.755145,10.176456
+2210756,"Briskebakken 10, Bragernes",59.755388,10.176358
+2211261,"Finn Blackstads vei 10, Bragernes",59.753974,10.179797
+2211262,"Finn Blackstads vei 13, Bragernes",59.75318,10.180231
+2211573,"Finn Blackstads vei 95, Bragernes",59.754366,10.175094
+2211574,"Finn Blackstads vei 97, Bragernes",59.754348,10.175164
+2211575,"Finn Blackstads vei 99, Bragernes",59.754329,10.175306
+2211576,"Finn Blackstads vei 101, Bragernes",59.754272,10.175607
+2211577,"Finn Blackstads vei 103, Bragernes",59.754235,10.175748
+2211578,"Finn Blackstads vei 105, Bragernes",59.754207,10.175836
+2211579,"Finn Blackstads vei 107, Bragernes",59.754189,10.175906
+2211580,"Finn Blackstads vei 108, Bragernes",59.754168,10.174144
+2211581,"Finn Blackstads vei 109, Bragernes",59.754152,10.176012
+2211582,"Finn Blackstads vei 112, Bragernes",59.753697,10.174608
+2211583,"Finn Blackstads vei 114, Bragernes",59.753854,10.174168
+2211584,"Finn Blackstads vei 115, Bragernes",59.753593,10.175209
+2211585,"Finn Blackstads vei 116, Bragernes",59.753427,10.174687
+2211586,"Finn Blackstads vei 117, Bragernes",59.753405,10.175114
+2211589,"Finn Blackstads vei 31, Bragernes",59.754009,10.177947
+2211590,"Finn Blackstads vei 33, Bragernes",59.754274,10.177404
+2211591,"Finn Blackstads vei 36, Bragernes",59.755303,10.174771
+2211592,"Finn Blackstads vei 38, Bragernes",59.755092,10.174354
+2211593,"Finn Blackstads vei 66, Bragernes",59.754136,10.174765
+2211594,"Finn Blackstads vei 68, Bragernes",59.754099,10.174906
+2211595,"Finn Blackstads vei 70, Bragernes",59.754062,10.17503
+2211596,"Finn Blackstads vei 72, Bragernes",59.754025,10.175171
+2211597,"Finn Blackstads vei 74, Bragernes",59.753996,10.175312
+2211598,"Finn Blackstads vei 76, Bragernes",59.753959,10.175436
+2211599,"Finn Blackstads vei 83, Bragernes",59.754506,10.174511
+2211600,"Finn Blackstads vei 85, Bragernes",59.754487,10.174671
+2211601,"Finn Blackstads vei 87, Bragernes",59.75445,10.174759
+2211602,"Finn Blackstads vei 89, Bragernes",59.754441,10.17483
+2211603,"Finn Blackstads vei 91, Bragernes",59.754404,10.174917
+2211604,"Finn Blackstads vei 93, Bragernes",59.754394,10.175006
+2211605,"Sparavollen 7, Bragernes",59.754364,10.178422
+2211606,"Finn Blackstads vei 21, Bragernes",59.753386,10.179313
+2211607,"Sparavollen 9, Bragernes",59.754592,10.178021
+2211608,"Finn Blackstads vei 23, Bragernes",59.753562,10.17964
+2211609,"Finn Blackstads vei 24, Bragernes",59.754678,10.177436
+2211610,"Finn Blackstads vei 26, Bragernes",59.754853,10.176909
+2211611,"Finn Blackstads vei 27, Bragernes",59.753648,10.179109
+2211612,"Finn Blackstads vei 29, Bragernes",59.753869,10.178476
+2212033,"Granbakken 6, Bragernes",59.752731,10.179254
+2212034,"Granbakken 7, Bragernes",59.75314,10.177667
+2212035,"Granbakken 8, Bragernes",59.752939,10.179013
+2212036,"Granbakken 9, Bragernes",59.753287,10.177334
+2212037,"Granbakken 10, Bragernes",59.753077,10.178697
+2212038,"Granbakken 12, Bragernes",59.753152,10.178362
+2212039,"Granbakken 14, Bragernes",59.753368,10.178262
+2212040,"Granbakken 18, Bragernes",59.753572,10.177593
+2212041,"Granbakken 20, Bragernes",59.753755,10.177226
+2212055,"Granbakken 2, Bragernes",59.752391,10.180115
+2212056,"Granbakken 3, Bragernes",59.752819,10.178439
+2212057,"Granbakken 4, Bragernes",59.752574,10.179712
+2212058,"Granbakken 5, Bragernes",59.753038,10.178002
+2212351,"Hans Hansens vei 97, Bragernes",59.753041,10.173624
+2212352,"Hans Hansens vei 99, Bragernes",59.753155,10.172969
+2212353,"Hans Hansens vei 100, Bragernes",59.753244,10.174093
+2212354,"Hans Hansens vei 101, Bragernes",59.753212,10.172686
+2212355,"Hans Hansens vei 102, Bragernes",59.753478,10.174066
+2212356,"Hans Hansens vei 103, Bragernes",59.75325,10.172385
+2212360,"Hans Hansens vei 110, Bragernes",59.75333,10.173491
+2212361,"Hans Hansens vei 110A, Bragernes",59.753607,10.173608
+2212363,"Hans Hansens vei 112, Bragernes",59.753621,10.173092
+2212364,"Hans Hansens vei 112A, Bragernes",59.753821,10.172832
+2212366,"Hans Hansens vei 114, Bragernes",59.753554,10.172556
+2212367,"Hans Hansens vei 72, Bragernes",59.751866,10.180505
+2212368,"Hans Hansens vei 74, Bragernes",59.752324,10.179543
+2212369,"Hans Hansens vei 76, Bragernes",59.75239,10.179189
+2212370,"Hans Hansens vei 78, Bragernes",59.75254,10.178482
+2212371,"Hans Hansens vei 80, Bragernes",59.75267,10.178042
+2212372,"Hans Hansens vei 82, Bragernes",59.75279,10.177637
+2212373,"Hans Hansens vei 84, Bragernes",59.752812,10.177139
+2212374,"Hans Hansens vei 86, Bragernes",59.753019,10.177093
+2212375,"Hans Hansens vei 87, Bragernes",59.75272,10.175481
+2212376,"Hans Hansens vei 89, Bragernes",59.752805,10.175003
+2212377,"Hans Hansens vei 90, Bragernes",59.752965,10.17613
+2212378,"Hans Hansens vei 90A, Bragernes",59.752898,10.175594
+2212379,"Hans Hansens vei 90B, Bragernes",59.753015,10.17558
+2212380,"Hans Hansens vei 91, Bragernes",59.752871,10.174561
+2212381,"Hans Hansens vei 93, Bragernes",59.752928,10.174278
+2212382,"Hans Hansens vei 95, Bragernes",59.753012,10.173961
+2212383,"Hans Hansens vei 49, Bragernes",59.750521,10.183288
+2212384,"Hans Hansens vei 49A, Bragernes",59.750706,10.182742
+2212385,"Hans Hansens vei 50, Bragernes",59.750732,10.18479
+2212386,"Hans Hansens vei 51, Bragernes",59.751027,10.181917
+2212387,"Hans Hansens vei 51A, Bragernes",59.750843,10.182462
+2212388,"Hans Hansens vei 52, Bragernes",59.750754,10.184381
+2212389,"Hans Hansens vei 54, Bragernes",59.750749,10.183901
+2212390,"Hans Hansens vei 56, Bragernes",59.750897,10.183461
+2212391,"Hans Hansens vei 58, Bragernes",59.751017,10.183092
+2212392,"Hans Hansens vei 60, Bragernes",59.75111,10.182757
+2212393,"Hans Hansens vei 61, Bragernes",59.751277,10.181143
+2212394,"Hans Hansens vei 64, Bragernes",59.751177,10.182207
+2212395,"Hans Hansens vei 65, Bragernes",59.751409,10.180418
+2212396,"Hans Hansens vei 67, Bragernes",59.751584,10.179908
+2212397,"Hans Hansens vei 69, Bragernes",59.75191,10.179635
+2212398,"Hans Hansens vei 71, Bragernes",59.752084,10.179285
+2212399,"Hans Hansens vei 32, Bragernes",59.750659,10.188898
+2212400,"Hans Hansens vei 33, Bragernes",59.750378,10.187251
+2212401,"Hans Hansens vei 34, Bragernes",59.750609,10.188505
+2212402,"Hans Hansens vei 35, Bragernes",59.750437,10.186612
+2212403,"Hans Hansens vei 37B, Bragernes",59.750442,10.186114
+2212404,"Hans Hansens vei 38, Bragernes",59.750551,10.187987
+2212405,"Hans Hansens vei 40, Bragernes",59.750674,10.187226
+2212406,"Hans Hansens vei 41, Bragernes",59.75041,10.185686
+2212407,"Rebbansbakken 36, Bragernes",59.750758,10.186891
+2212408,"Rebbansbakken 34, Bragernes",59.750628,10.186388
+2212409,"Hans Hansens vei 46, Bragernes",59.750561,10.185869
+2212410,"Hans Hansens vei 47, Bragernes",59.750317,10.184028
+2212411,"Hans Hansens vei 47A, Bragernes",59.750279,10.183279
+2212412,"Hans Hansens vei 47B, Bragernes",59.750335,10.183014
+2212413,"Hans Hansens vei 47C, Bragernes",59.750467,10.183339
+2212414,"Hans Hansens vei 47D, Bragernes",59.750185,10.183703
+2212415,"Hans Hansens vei 14, Bragernes",59.750347,10.194564
+2212416,"Hans Hansens vei 15, Bragernes",59.750273,10.192835
+2212417,"Hans Hansens vei 16, Bragernes",59.750441,10.194176
+2212418,"Hans Hansens vei 17, Bragernes",59.750314,10.192267
+2212419,"Hans Hansens vei 18, Bragernes",59.750526,10.193663
+2212420,"Hans Hansens vei 19, Bragernes",59.750327,10.191876
+2212421,"Hans Hansens vei 20, Bragernes",59.750574,10.193291
+2212422,"Hans Hansens vei 21, Bragernes",59.750332,10.191325
+2212423,"Hans Hansens vei 22, Bragernes",59.750623,10.192848
+2212424,"Hans Hansens vei 23, Bragernes",59.750336,10.19088
+2212425,"Hans Hansens vei 25, Bragernes",59.750303,10.188583
+2212426,"Hans Hansens vei 26, Bragernes",59.750665,10.19018
+2212427,"Hans Hansens vei 28, Bragernes",59.750633,10.189752
+2212428,"Hans Hansens vei 29, Bragernes",59.750319,10.187818
+2212429,"Hans Hansens vei 30, Bragernes",59.750655,10.189307
+2212438,"Hans Hansens vei 4, Bragernes",59.750078,10.196548
+2212439,"Hans Hansens vei 6, Bragernes",59.750136,10.196123
+2212440,"Hans Hansens vei 8, Bragernes",59.750184,10.195715
+2212441,"Hans Hansens vei 10, Bragernes",59.750214,10.195343
+2212442,"Hans Hansens vei 11, Bragernes",59.750212,10.19367
+2212443,"Hans Hansens vei 12, Bragernes",59.750317,10.194955
+2212444,"Hans Hansens vei 13, Bragernes",59.750233,10.193314
+2212815,"Hans Hansens vei 73, Bragernes",59.752179,10.178683
+2213951,"Konglefaret 6, Bragernes",59.756405,10.176109
+2213952,"Konglefaret 9, Bragernes",59.756175,10.175691
+2213953,"Konglefaret 10, Bragernes",59.756633,10.175725
+2213954,"Konglefaret 13, Bragernes",59.756383,10.175503
+2213955,"Konglefaret 14, Bragernes",59.756922,10.175575
+2213956,"Konglefaret 17, Bragernes",59.756524,10.174796
+2213957,"Konglefaret 18, Bragernes",59.757193,10.175407
+2213958,"Konglefaret 21, Bragernes",59.756766,10.174929
+2213959,"Konglefaret 22, Bragernes",59.757395,10.17488
+2213972,"Konglefaret 1, Bragernes",59.755899,10.1765
+2213973,"Konglefaret 2, Bragernes",59.75623,10.176619
+2213974,"Konglefaret 4, Bragernes",59.756267,10.176424
+2213975,"Konglefaret 5, Bragernes",59.756046,10.176078
+2215839,"Sanatorieveien 43, Bragernes",59.751116,10.186993
+2215842,"Hans Hansens vei 45, Bragernes",59.750402,10.184511
+2216249,"Sanatorieveien 90, Bragernes",59.752145,10.18048
+2216250,"Sanatorieveien 92, Bragernes",59.752157,10.180177
+2216265,"Sanatorieveien 24, Bragernes",59.751241,10.1881
+2216266,"Sanatorieveien 26, Bragernes",59.751318,10.187498
+2216267,"Sanatorieveien 51, Bragernes",59.751184,10.184503
+2216268,"Sanatorieveien 57, Bragernes",59.751227,10.183704
+2216269,"Sanatorieveien 59, Bragernes",59.751276,10.18319
+2216270,"Sanatorieveien 61, Bragernes",59.751379,10.182802
+2216271,"Sanatorieveien 63, Bragernes",59.751462,10.182467
+2216272,"Sanatorieveien 65, Bragernes",59.751518,10.182308
+2216273,"Sanatorieveien 71, Bragernes",59.751691,10.181015
+2216274,"Sanatorieveien 74, Bragernes",59.751416,10.18364
+2216275,"Sanatorieveien 76, Bragernes",59.751573,10.183104
+2216276,"Sanatorieveien 78, Bragernes",59.751657,10.182758
+2216277,"Sanatorieveien 84, Bragernes",59.752044,10.18174
+2216278,"Sanatorieveien 86, Bragernes",59.752074,10.181331
+2216279,"Sanatorieveien 88, Bragernes",59.752114,10.180906
+2216280,"Sanatorieveien 2, Bragernes",59.750699,10.192441
+2216281,"Sanatorieveien 3, Bragernes",59.750621,10.191104
+2216282,"Sanatorieveien 4, Bragernes",59.750774,10.192035
+2216283,"Sanatorieveien 5, Bragernes",59.750821,10.189865
+2216284,"Sanatorieveien 6, Bragernes",59.750877,10.191558
+2216285,"Sanatorieveien 7, Bragernes",59.750879,10.189422
+2216286,"Sanatorieveien 8, Bragernes",59.75098,10.19117
+2216287,"Sanatorieveien 10, Bragernes",59.751059,10.19039
+2216288,"Sanatorieveien 11, Bragernes",59.75091,10.188943
+2216289,"Sanatorieveien 12, Bragernes",59.751187,10.190092
+2216290,"Sanatorieveien 13, Bragernes",59.750914,10.188498
+2216291,"Sanatorieveien 14, Bragernes",59.751263,10.189632
+2216292,"Sanatorieveien 15, Bragernes",59.750919,10.187964
+2216293,"Sanatorieveien 16, Bragernes",59.751294,10.189188
+2216294,"Rebbansbakken 40, Bragernes",59.750905,10.187519
+2216295,"Sanatorieveien 18, Bragernes",59.751335,10.188602
+2216310,"Sanatorieveien 1, Bragernes",59.750572,10.1916
+2216958,"Sparavollen 137, Bragernes",59.760117,10.174708
+2216959,"Sparavollen 138, Bragernes",59.759691,10.176207
+2216960,"Sparavollen 141, Bragernes",59.76036,10.174753
+2216961,"Sparavollen 146, Bragernes",59.759947,10.175664
+2216962,"Sparavollen 150, Bragernes",59.76012,10.175438
+2216963,"Sparavollen 162, Bragernes",59.760479,10.175451
+2216964,"Sparavollen 166, Bragernes",59.760793,10.175515
+2216965,"Sparavollen 170, Bragernes",59.761038,10.17515
+2216966,"Sparavollen 103, Bragernes",59.759499,10.174598
+2216967,"Sparavollen 104, Bragernes",59.758816,10.175588
+2216968,"Sparavollen 105, Bragernes",59.759654,10.174354
+2216969,"Sparavollen 107, Bragernes",59.759369,10.175074
+2216970,"Sparavollen 108, Bragernes",59.758766,10.175159
+2216971,"Sparavollen 111, Bragernes",59.759266,10.17548
+2216972,"Sparavollen 112, Bragernes",59.758922,10.174844
+2216973,"Sparavollen 115, Bragernes",59.759181,10.175993
+2216974,"Sparavollen 119, Bragernes",59.759406,10.175983
+2216975,"Sparavollen 123, Bragernes",59.759535,10.175525
+2216976,"Sparavollen 124, Bragernes",59.758786,10.176015
+2216977,"Sparavollen 127, Bragernes",59.759664,10.175155
+2216978,"Sparavollen 128, Bragernes",59.759015,10.176485
+2216979,"Sparavollen 130, Bragernes",59.759156,10.176775
+2216980,"Sparavollen 131, Bragernes",59.759829,10.174859
+2216981,"Sparavollen 133, Bragernes",59.75991,10.174826
+2216982,"Sparavollen 62, Bragernes",59.757406,10.176642
+2216983,"Sparavollen 63, Bragernes",59.757674,10.174765
+2216984,"Sparavollen 66, Bragernes",59.757667,10.176545
+2216985,"Sparavollen 67, Bragernes",59.75806,10.174779
+2216986,"Sparavollen 70, Bragernes",59.757929,10.176412
+2216987,"Sparavollen 71, Bragernes",59.758038,10.175276
+2216988,"Sparavollen 72, Bragernes",59.757855,10.176605
+2216989,"Sparavollen 75, Bragernes",59.758317,10.175197
+2216990,"Sparavollen 76, Bragernes",59.758068,10.175971
+2216991,"Sparavollen 79, Bragernes",59.758419,10.174809
+2216992,"Sparavollen 80, Bragernes",59.758301,10.176015
+2216993,"Sparavollen 88, Bragernes",59.758178,10.176687
+2216994,"Sparavollen 92, Bragernes",59.758403,10.176624
+2216995,"Sparavollen 96, Bragernes",59.758699,10.176652
+2216996,"Sparavollen 99, Bragernes",59.759221,10.174552
+2216997,"Sparavollen 100, Bragernes",59.758553,10.175882
+2216998,"Sparavollen 27, Bragernes",59.755749,10.1771
+2216999,"Sparavollen 28, Bragernes",59.755653,10.177791
+2217000,"Sparavollen 32, Bragernes",59.755861,10.177656
+2217001,"Sparavollen 36, Bragernes",59.756105,10.17754
+2217002,"Sparavollen 38, Bragernes",59.756144,10.177221
+2217003,"Sparavollen 39, Bragernes",59.756654,10.176402
+2217004,"Sparavollen 40, Bragernes",59.756332,10.177281
+2217005,"Sparavollen 41, Bragernes",59.756736,10.176245
+2217006,"Sparavollen 46, Bragernes",59.756547,10.177271
+2217007,"Sparavollen 47, Bragernes",59.757036,10.175882
+2217008,"Sparavollen 50, Bragernes",59.756772,10.177243
+2217009,"Sparavollen 51, Bragernes",59.757314,10.175909
+2217010,"Sparavollen 54, Bragernes",59.756955,10.17684
+2217011,"Sparavollen 55, Bragernes",59.75754,10.175757
+2217012,"Sparavollen 58, Bragernes",59.757164,10.176545
+2217013,"Sparavollen 59, Bragernes",59.757688,10.175264
+2217020,"Sparavollen 4, Bragernes",59.75451,10.179121
+2217021,"Sparavollen 6, Bragernes",59.754709,10.178933
+2217022,"Sparavollen 10, Bragernes",59.754882,10.178654
+2217023,"Sparavollen 11, Bragernes",59.754792,10.177725
+2217024,"Sparavollen 14, Bragernes",59.755011,10.178302
+2217025,"Sparavollen 15, Bragernes",59.75501,10.177448
+2217026,"Sparavollen 18, Bragernes",59.755229,10.178097
+2217027,"Sparavollen 19, Bragernes",59.755263,10.177279
+2217028,"Sparavollen 23, Bragernes",59.755533,10.177217
+2217029,"Sparavollen 24, Bragernes",59.755427,10.177961
+2217408,"Underlia 6, Bragernes",59.7519,10.185792
+2217409,"Underlia 17, Bragernes",59.752082,10.184446
+2217410,"Underlia 19, Bragernes",59.752006,10.183963
+2217692,"Underlia 84, Bragernes",59.754542,10.180582
+2217693,"Underlia 85, Bragernes",59.75404,10.180457
+2217694,"Underlia 89, Bragernes",59.754267,10.180216
+2217695,"Underlia 21, Bragernes",59.75201,10.183483
+2217696,"Underlia 42, Bragernes",59.753171,10.183168
+2217697,"Underlia 44, Bragernes",59.753091,10.183094
+2217698,"Underlia 45, Bragernes",59.752419,10.184921
+2217699,"Underlia 46, Bragernes",59.753038,10.183056
+2217700,"Underlia 48, Bragernes",59.752966,10.183018
+2217701,"Underlia 50, Bragernes",59.752895,10.182962
+2217702,"Underlia 51, Bragernes",59.7524,10.184084
+2217703,"Underlia 52, Bragernes",59.752874,10.183317
+2217704,"Underlia 54, Bragernes",59.752891,10.183443
+2218250,"Underlia 254, Bragernes",59.761702,10.178253
+2218251,"Underlia 252, Bragernes",59.76186,10.178633
+2218252,"Underlia 250, Bragernes",59.762009,10.179083
+2218265,"Underlia 214, Bragernes",59.760688,10.179215
+2218266,"Underlia 217, Bragernes",59.760325,10.1776
+2218267,"Underlia 218, Bragernes",59.760746,10.179679
+2218268,"Underlia 221, Bragernes",59.76032,10.178116
+2218269,"Underlia 223, Bragernes",59.760337,10.178294
+2218270,"Underlia 227, Bragernes",59.760588,10.178285
+2218271,"Underlia 231, Bragernes",59.760639,10.177682
+2218272,"Underlia 257, Bragernes",59.760907,10.177745
+2218273,"Underlia 239, Bragernes",59.760892,10.17851
+2218274,"Underlia 243, Bragernes",59.761124,10.178678
+2218275,"Underlia 245, Bragernes",59.761308,10.179147
+2218276,"Underlia 247, Bragernes",59.761512,10.179386
+2218277,"Underlia 251, Bragernes",59.761651,10.178964
+2218278,"Underlia 253, Bragernes",59.761448,10.178511
+2218279,"Underlia 255, Bragernes",59.761218,10.178201
+2218280,"Underlia 256, Bragernes",59.761544,10.17791
+2218281,"Underlia 175, Bragernes",59.758504,10.17734
+2218282,"Underlia 178, Bragernes",59.759615,10.179693
+2218283,"Underlia 179, Bragernes",59.758675,10.177346
+2218284,"Underlia 182, Bragernes",59.75966,10.178662
+2218285,"Underlia 183, Bragernes",59.759023,10.177607
+2218286,"Underlia 186, Bragernes",59.759827,10.178116
+2218287,"Underlia 187, Bragernes",59.759081,10.178108
+2218288,"Underlia 190, Bragernes",59.759651,10.177683
+2218289,"Underlia 191, Bragernes",59.759293,10.178471
+2218290,"Underlia 195, Bragernes",59.759265,10.177616
+2218291,"Underlia 198, Bragernes",59.759967,10.178513
+2218292,"Underlia 202, Bragernes",59.76009,10.17882
+2218293,"Underlia 206, Bragernes",59.760321,10.179059
+2218294,"Underlia 208, Bragernes",59.760373,10.179257
+2218295,"Underlia 210, Bragernes",59.76045,10.179705
+2218296,"Underlia 213, Bragernes",59.760136,10.177682
+2218297,"Underlia 146, Bragernes",59.758346,10.177975
+2218298,"Underlia 147, Bragernes",59.757487,10.177571
+2218299,"Underlia 149, Bragernes",59.757499,10.17734
+2218300,"Underlia 150, Bragernes",59.75856,10.178196
+2218301,"Underlia 153, Bragernes",59.757455,10.178193
+2218302,"Underlia 154, Bragernes",59.758273,10.179129
+2218303,"Underlia 155, Bragernes",59.757546,10.178036
+2218304,"Underlia 158, Bragernes",59.758532,10.179299
+2218305,"Underlia 159, Bragernes",59.75775,10.177384
+2218307,"Underlia 162, Bragernes",59.758771,10.178666
+2218308,"Underlia 163, Bragernes",59.757789,10.178027
+2218309,"Underlia 166, Bragernes",59.758755,10.179413
+2218310,"Underlia 167, Bragernes",59.758001,10.177375
+2218311,"Underlia 170, Bragernes",59.759043,10.179406
+2218312,"Underlia 171, Bragernes",59.75827,10.177385
+2218313,"Underlia 174, Bragernes",59.759338,10.179559
+2218314,"Underlia 116, Bragernes",59.75648,10.17871
+2218315,"Underlia 117, Bragernes",59.755883,10.178209
+2218316,"Underlia 118, Bragernes",59.756758,10.178791
+2218317,"Underlia 121, Bragernes",59.756118,10.178039
+2218318,"Underlia 122, Bragernes",59.757,10.178853
+2218319,"Underlia 125, Bragernes",59.756353,10.17794
+2218320,"Underlia 126, Bragernes",59.757224,10.178861
+2218321,"Underlia 129, Bragernes",59.756596,10.177842
+2218322,"Underlia 130, Bragernes",59.757439,10.178922
+2218323,"Underlia 133, Bragernes",59.756828,10.177993
+2218324,"Underlia 134, Bragernes",59.757683,10.178788
+2218325,"Underlia 137, Bragernes",59.757087,10.178144
+2218326,"Underlia 138, Bragernes",59.757917,10.178761
+2218327,"Underlia 139, Bragernes",59.757169,10.178022
+2218329,"Underlia 142, Bragernes",59.758108,10.178501
+2218330,"Underlia 143, Bragernes",59.757255,10.177492
+2218331,"Underlia 90, Bragernes",59.754915,10.180026
+2218332,"Underlia 93, Bragernes",59.754721,10.179645
+2218333,"Underlia 94, Bragernes",59.75536,10.179472
+2218334,"Underlia 97, Bragernes",59.75503,10.179264
+2218335,"Underlia 98, Bragernes",59.755723,10.179057
+2218336,"Underlia 99, Bragernes",59.755084,10.179213
+2218337,"Underlia 101, Bragernes",59.755148,10.179126
+2218338,"Underlia 103, Bragernes",59.755202,10.179039
+2218339,"Underlia 105, Bragernes",59.755266,10.178952
+2218340,"Underlia 106, Bragernes",59.75594,10.178851
+2218341,"Underlia 108, Bragernes",59.756048,10.178837
+2218342,"Underlia 110, Bragernes",59.756156,10.178806
+2218343,"Underlia 112, Bragernes",59.756274,10.178739
+2218344,"Underlia 113, Bragernes",59.755675,10.178344
+2218345,"Underlia 114, Bragernes",59.756373,10.178724
+2218370,"Underlia 109, Bragernes",59.755493,10.178499
+2219060,"Halvorstua 3, Bragernes",59.753438,10.175471
+2219061,"Halvorstua 4, Bragernes",59.753173,10.175977
+2219062,"Halvorstua 8, Bragernes",59.753619,10.176331
+2219469,"Sanatorieveien 49, Bragernes",59.751269,10.184969
+2219508,"Granbakken 11, Bragernes",59.75355,10.17697
+2219545,"Landfalltjernveien 3, Bragernes",59.759951,10.176287
+2219546,"Landfalltjernveien 1, Bragernes",59.759671,10.176455
+2219547,"Landfalltjernveien 5, Bragernes",59.760203,10.176225
+2219548,"Landfalltjernveien 7, Bragernes",59.760492,10.17595
+2219549,"Landfalltjernveien 9, Bragernes",59.760815,10.17605
+2219581,"Underlia 92, Bragernes",59.755106,10.179765
+2219613,"Sparavollen 142, Bragernes",59.759925,10.176126
+2219625,"Hans Hansens vei 66, Bragernes",59.751552,10.181455
+2219721,"Sanatorieveien 80B, Bragernes",59.751823,10.182373
+2219722,"Sanatorieveien 82A, Bragernes",59.751834,10.182124
+2219723,"Sanatorieveien 82B, Bragernes",59.751923,10.182145
+2219737,"Sanatorieveien 67, Bragernes",59.751739,10.181658
+2219739,"Sanatorieveien 80A, Bragernes",59.751742,10.18237
+2220120,"Sanatorieveien 47C, Bragernes",59.751266,10.185325
+2220171,"Landfalltjernveien 200, Åssiden",59.771779,10.166072
+2220253,"Sanatorieveien 47B, Bragernes",59.751228,10.185519
+2220366,"Sanatorieveien 3B, Bragernes",59.750662,10.190607
+2220543,"Underlia 91, Bragernes",59.754431,10.17992
+2220800,"Sanatorieveien 34, Bragernes",59.751429,10.186203
+2220983,"Underlia 4, Bragernes",59.751866,10.185542
+2220984,"Underlia 2, Bragernes",59.75186,10.185168
+2224443,"Tverkenveien 179, Åssiden",59.77339,10.14482
+2224444,"Tverkenveien 181, Åssiden",59.773307,10.143491
+2224445,"Tverkenveien 159, Åssiden",59.772728,10.148047
+2224446,"Landfalltjernveien 38, Bragernes",59.762672,10.176375
+2224487,"Tverkenveien 54, Åssiden",59.768212,10.161117
+2224489,"Tverkenveien 50, Åssiden",59.768025,10.162006
+2224491,"Tverkenveien 38, Åssiden",59.76826,10.163884
+2224494,"Tverkenveien 37, Åssiden",59.766821,10.165187
+2224497,"Tverkenveien 39, Åssiden",59.765952,10.164978
+2224513,"Tverkenveien 122, Åssiden",59.77194,10.155001
+2224515,"Tverkenveien 124, Åssiden",59.77208,10.156413
+2224516,"Tverkenveien 120, Åssiden",59.771485,10.152599
+2224521,"Tverkenveien 35, Åssiden",59.767377,10.165224
+2224523,"Tverkenveien 36, Åssiden",59.768176,10.16527
+2224549,"Tverkenveien 102, Åssiden",59.770667,10.158786
+2224551,"Tverkenveien 104, Åssiden",59.771053,10.158781
+2224552,"Tverkenveien 106, Åssiden",59.771199,10.157575
+2224553,"Landfallbrenna 63, Åssiden",59.777185,10.152938
+2224554,"Tverkenveien 108, Åssiden",59.771241,10.156864
+2224602,"Tverkenveien 96, Åssiden",59.770007,10.156234
+2224604,"Tverkenveien 85, Åssiden",59.767919,10.153723
+2224605,"Tverkenveien 92, Åssiden",59.768927,10.156318
+2224606,"Tverkenveien 83, Åssiden",59.768454,10.155183
+2224608,"Tverkenveien 94, Åssiden",59.769639,10.156204
+2224610,"Tverkenveien 53, Åssiden",59.767406,10.161949
+2224615,"Tverkenveien 81, Åssiden",59.768149,10.156117
+2224616,"Tverkenveien 73, Åssiden",59.768205,10.157988
+2224618,"Tverkenveien 75, Åssiden",59.767741,10.157545
+2224619,"Tverkenveien 71, Åssiden",59.767776,10.158757
+2224641,"Tverkenveien 61, Åssiden",59.767429,10.160383
+2224642,"Tverkenveien 65, Åssiden",59.766817,10.159489
+2224643,"Tverkenveien 67, Åssiden",59.76584,10.15933
+2224644,"Landfalltjernveien 152, Åssiden",59.771049,10.169216
+2224646,"Landfalltjernveien 154, Åssiden",59.771539,10.168841
+2224647,"Landfalltjernveien 156, Åssiden",59.771888,10.168943
+2224649,"Landfalltjernveien 61, Bragernes",59.763811,10.17249
+2224650,"Landfalltjernveien 150, Åssiden",59.770687,10.169545
+2224652,"Tverkenveien 45, Åssiden",59.767382,10.163639
+2224655,"Tverkenveien 41, Åssiden",59.767171,10.164168
+2224657,"Tverkenveien 43, Åssiden",59.76659,10.163843
+2224659,"Tverkenveien 51, Åssiden",59.765575,10.162414
+2224661,"Tverkenveien 63, Åssiden",59.766069,10.160834
+2224663,"Tverkenveien 49, Åssiden",59.76656,10.162204
+2224665,"Tverkenveien 47, Åssiden",59.767308,10.162706
+2224670,"Landfalltjernveien 160, Åssiden",59.771753,10.167994
+2224678,"Sauesetra 40, Åssiden",59.783975,10.159924
+2224732,"Finn Blackstads vei 44, Bragernes",59.754752,10.174093
+2224734,"Tverkenveien 113, Åssiden",59.768884,10.152153
+2224738,"Tverkenveien 161, Åssiden",59.771356,10.146789
+2224739,"Tverkenveien 169, Åssiden",59.771833,10.145666
+2224740,"Tverkenveien 111, Åssiden",59.769339,10.152507
+2224741,"Tverkenveien 115, Åssiden",59.769782,10.151134
+2224742,"Tverkenveien 117, Åssiden",59.769186,10.14846
+2224743,"Tverkenveien 163, Åssiden",59.770427,10.147238
+2224791,"Landfallbrenna 29, Åssiden",59.776243,10.164999
+2224793,"Landfallbrenna 33, Åssiden",59.77421,10.163446
+2224794,"Sauesetra 33, Åssiden",59.78402,10.16201
+2224795,"Landfallbrenna 32, Åssiden",59.774401,10.164097
+2224796,"Sauesetra 34, Åssiden",59.783684,10.161339
+2224797,"Landfallbrenna 34, Åssiden",59.773352,10.163064
+2224798,"Sauesetra 32, Åssiden",59.784826,10.163249
+2224799,"Landfallbrenna 30, Åssiden",59.77545,10.165309
+2224800,"Sauesetra 44, Åssiden",59.784738,10.15792
+2224801,"Sauesetra 35, Åssiden",59.783321,10.160828
+2224802,"Landfallbrenna 31, Åssiden",59.774944,10.163635
+2224804,"Sauesetra 45, Åssiden",59.784955,10.155754
+2224805,"Sauesetra 43, Åssiden",59.784768,10.159613
+2224806,"Sauesetra 46, Åssiden",59.785224,10.158845
+2224807,"Sauesetra 41, Åssiden",59.784403,10.16131
+2224808,"Sauesetra 37, Åssiden",59.783821,10.153969
+2224809,"Sauesetra 42, Åssiden",59.784816,10.160292
+2224810,"Sauesetra 51, Åssiden",59.786934,10.167598
+2224811,"Sauesetra 48, Åssiden",59.786151,10.157541
+2224812,"Sauesetra 47, Åssiden",59.785672,10.156919
+2224813,"Tverkenveien 162, Åssiden",59.774026,10.148484
+2224814,"Tverkenveien 170, Åssiden",59.774007,10.146578
+2224815,"Tverkenveien 172, Åssiden",59.774531,10.147219
+2224816,"Tverkenveien 174, Åssiden",59.775204,10.1484
+2224818,"Tverkenveien 180, Åssiden",59.774027,10.145332
+2224823,"Landfallbrenna 38, Åssiden",59.772322,10.164613
+2224824,"Landfallbrenna 39, Åssiden",59.772308,10.1652
+2224826,"Landfallbrenna 40, Åssiden",59.772852,10.164596
+2224828,"Landfallbrenna 42, Åssiden",59.773167,10.165515
+2224829,"Landfallbrenna 35, Åssiden",59.772981,10.163193
+2224831,"Landfallbrenna 36, Åssiden",59.772478,10.163193
+2224832,"Landfallbrenna 37, Åssiden",59.772644,10.163796
+2224833,"Landfallbrenna 43, Åssiden",59.773399,10.164739
+2224834,"Landfallbrenna 45, Åssiden",59.773528,10.166347
+2224838,"Sauesetra 15, Åssiden",59.781148,10.163816
+2224839,"Landfallbrenna 1, Åssiden",59.771822,10.165308
+2224840,"Landfallbrenna 6, Åssiden",59.771753,10.161886
+2224842,"Landfallbrenna 2, Åssiden",59.771839,10.164382
+2224843,"Skimtheia 8, Åssiden",59.791712,10.154295
+2224845,"Landfallbrenna 3, Åssiden",59.772014,10.163925
+2224846,"Skimtheia 9, Åssiden",59.792417,10.1548
+2224848,"Landfallbrenna 4, Åssiden",59.771875,10.163315
+2224849,"Skimtheia 10, Åssiden",59.792928,10.152822
+2224851,"Landfallbrenna 5, Åssiden",59.771747,10.162477
+2224853,"Klemmehøgda 3, Åssiden",59.777529,10.12871
+2224854,"Kjøsterudåsen 2, Åssiden",59.781734,10.126447
+2224856,"Klemmehøgda 2, Åssiden",59.776497,10.124507
+2224857,"Kjøsterudåsen 6, Åssiden",59.779454,10.116903
+2224858,"Kjøsterudåsen 3, Åssiden",59.785063,10.1246
+2224859,"Vakkertjernheia 4, Åssiden",59.808636,10.118216
+2224860,"Kjøsterudåsen 4, Åssiden",59.786921,10.119424
+2224861,"Vakkertjernheia 3, Åssiden",59.804414,10.117843
+2224862,"Vakkertjernheia 5, Åssiden",59.809221,10.115109
+2224872,"Tverråsen 3, Åssiden",59.786316,10.149993
+2224873,"Tverråsen 7, Åssiden",59.790867,10.134737
+2224874,"Tverråsen 6, Åssiden",59.79128,10.140988
+2224875,"Tverråsen 9, Åssiden",59.794485,10.134896
+2224876,"Tverråsen 1, Åssiden",59.784941,10.14918
+2224877,"Tverråsen 5, Åssiden",59.789854,10.142863
+2224878,"Tverråsen 4, Åssiden",59.789213,10.1422
+2224879,"Tverråsen 10, Åssiden",59.794112,10.131266
+2224881,"Skimtheia 2, Åssiden",59.788894,10.160148
+2224883,"Skimtheia 3, Åssiden",59.789273,10.154923
+2224884,"Sauesetra 24, Åssiden",59.783588,10.165527
+2224885,"Sauesetra 25, Åssiden",59.783605,10.164186
+2224886,"Sauesetra 23, Åssiden",59.783604,10.166342
+2224887,"Sauesetra 28, Åssiden",59.784962,10.168058
+2224888,"Tverråsen 11, Åssiden",59.793645,10.130305
+2224889,"Sauesetra 29, Åssiden",59.784836,10.166738
+2224890,"Sauesetra 26, Åssiden",59.784145,10.165078
+2224891,"Tverråsen 13, Åssiden",59.794397,10.127034
+2224892,"Sauesetra 27, Åssiden",59.784165,10.16686
+2224893,"Tverråsen 12, Åssiden",59.793321,10.12821
+2224894,"Sauesetra 31, Åssiden",59.78543,10.164036
+2224895,"Sauesetra 50, Åssiden",59.786075,10.165217
+2224897,"Tverråsen 18, Åssiden",59.801489,10.118237
+2224898,"Tverråsen 16, Åssiden",59.80067,10.113255
+2224901,"Tverråsen 19, Åssiden",59.80375,10.115675
+2224903,"Tverråsen 15, Åssiden",59.796662,10.110252
+2224905,"Tverråsen 14, Åssiden",59.796522,10.120088
+2224906,"Måneskinnsheia 1, Åssiden",59.808913,10.107896
+2224908,"Tverråsen 17, Åssiden",59.801588,10.112947
+2224911,"Landfallbrenna 47, Åssiden",59.772661,10.166886
+2224912,"Landfallbrenna 48, Åssiden",59.772524,10.16811
+2224913,"Landfallbrenna 53, Åssiden",59.773281,10.168885
+2224914,"Landfallbrenna 54, Åssiden",59.773407,10.169797
+2224915,"Landfallbrenna 56, Åssiden",59.774026,10.168944
+2224916,"Landfallbrenna 49, Åssiden",59.773066,10.167826
+2224917,"Landfallbrenna 50, Åssiden",59.773212,10.167493
+2224918,"Landfallbrenna 51, Åssiden",59.773661,10.16758
+2224919,"Landfallbrenna 52, Åssiden",59.773413,10.168212
+2224928,"Hvalsdammen 1, Bragernes",59.769174,10.181307
+2224929,"Sauesetra 12, Åssiden",59.781881,10.168384
+2224930,"Sauesetra 20, Åssiden",59.783158,10.167983
+2224931,"Sauesetra 13, Åssiden",59.7825,10.166286
+2224932,"Sauesetra 17, Åssiden",59.782418,10.162328
+2224933,"Sauesetra 16, Åssiden",59.781797,10.16049
+2224934,"Sauesetra 21, Åssiden",59.783489,10.167157
+2224935,"Sauesetra 19, Åssiden",59.783191,10.163246
+2224937,"Sauesetra 22, Åssiden",59.78376,10.167042
+2224938,"Landfallbrenna 10, Åssiden",59.772441,10.160307
+2224940,"Landfallbrenna 11, Åssiden",59.772465,10.158581
+2224941,"Landfallbrenna 12, Åssiden",59.773229,10.156488
+2224942,"Landfallbrenna 13, Åssiden",59.773207,10.157948
+2224943,"Landfallbrenna 7, Åssiden",59.77177,10.161032
+2224945,"Landfallbrenna 8, Åssiden",59.771695,10.159355
+2224947,"Landfallbrenna 9, Åssiden",59.772076,10.158959
+2224952,"Landfallbrenna 14, Åssiden",59.774293,10.159089
+2224953,"Landfallbrenna 16, Åssiden",59.774654,10.157873
+2224971,"Landfallbrenna 15, Åssiden",59.774768,10.15917
+2224984,"Tverkenveien 364, Åssiden",59.788381,10.134653
+2224985,"Tverkenveien 362, Åssiden",59.7878,10.134259
+2224986,"Tverkenveien 360, Åssiden",59.787651,10.134913
+2224987,"Tverkenveien 358, Åssiden",59.78776,10.137856
+2224988,"Tverkenveien 320, Åssiden",59.784471,10.138172
+2224990,"Tverkenveien 333, Åssiden",59.786072,10.131599
+2224991,"Tverkenveien 361, Åssiden",59.787651,10.132829
+2224992,"Landfallbrenna 62, Åssiden",59.775673,10.168541
+2224993,"Myrsetra 5, Åssiden",59.78399,10.142823
+2224994,"Landfallbrenna 61, Åssiden",59.77523,10.167553
+2224995,"Myrsetra 6, Åssiden",59.786594,10.143548
+2224996,"Landfallbrenna 65, Åssiden",59.777302,10.148922
+2224997,"Myrsetra 3, Åssiden",59.781067,10.142051
+2224998,"Landfallbrenna 64, Åssiden",59.776452,10.148336
+2224999,"Myrsetra 4, Åssiden",59.782773,10.142372
+2225000,"Landfallbrenna 58, Åssiden",59.774792,10.169596
+2225001,"Landfallbrenna 57, Åssiden",59.774333,10.169758
+2225002,"Myrsetra 2, Åssiden",59.781415,10.144623
+2225003,"Landfallbrenna 60, Åssiden",59.774778,10.168224
+2225004,"Landfallbrenna 59, Åssiden",59.774661,10.169164
+2225010,"Landfallbrenna 17, Åssiden",59.774855,10.158432
+2225011,"Landfallbrenna 18, Åssiden",59.774774,10.161528
+2225012,"Landfallbrenna 19, Åssiden",59.77554,10.159168
+2225013,"Landfallbrenna 24, Åssiden",59.777194,10.157997
+2225015,"Landfallbrenna 26, Åssiden",59.777697,10.159029
+2225017,"Landfallbrenna 25, Åssiden",59.777951,10.157702
+2225019,"Landfallbrenna 20, Åssiden",59.775826,10.159303
+2225021,"Landfallbrenna 21, Åssiden",59.776036,10.157939
+2225022,"Landfallbrenna 44, Åssiden",59.773912,10.165612
+2225023,"Landfallbrenna 22, Åssiden",59.776535,10.159345
+2225025,"Landfallbrenna 23, Åssiden",59.776736,10.157963
+2225028,"Landfallbrenna 55, Åssiden",59.774134,10.167864
+2225030,"Myrsetra 7, Åssiden",59.787164,10.145533
+2225032,"Tverkenveien 260, Åssiden",59.779138,10.141018
+2225033,"Tverkenveien 185, Åssiden",59.772499,10.140892
+2225034,"Tverkenveien 197, Åssiden",59.774611,10.14111
+2225035,"Tverkenveien 183, Åssiden",59.773603,10.14245
+2225036,"Tverkenveien 199, Åssiden",59.774115,10.140348
+2225037,"Tverkenveien 211, Åssiden",59.774325,10.137916
+2225038,"Tverkenveien 192, Åssiden",59.774566,10.143302
+2225039,"Tverkenveien 194, Åssiden",59.77484,10.142742
+2225040,"Tverkenveien 200, Åssiden",59.775259,10.141064
+2225044,"Hamborgstrømskogen 1, Bragernes",59.754238,10.191275
+2225046,"Hamborgstrømskogen 2, Bragernes",59.759178,10.184288
+2225053,"Myrsetra 1, Åssiden",59.78099,10.150077
+2225058,"Sauesetra 1, Åssiden",59.779071,10.167092
+2225060,"Sauesetra 3, Åssiden",59.780121,10.163796
+2225061,"Sauesetra 2, Åssiden",59.780068,10.168071
+2225062,"Sauesetra 5, Åssiden",59.780967,10.165983
+2225063,"Sauesetra 4, Åssiden",59.780605,10.165293
+2225064,"Sauesetra 7, Åssiden",59.780993,10.168103
+2225065,"Sauesetra 6, Åssiden",59.780649,10.167621
+2225066,"Sauesetra 9, Åssiden",59.781349,10.166459
+2225067,"Sauesetra 8, Åssiden",59.781174,10.16697
+2225068,"Sauesetra 10, Åssiden",59.781568,10.167762
+2225099,"Tverråsen 20, Åssiden",59.802986,10.113243
+2225100,"Vakkertjernheia 2, Åssiden",59.801282,10.127694
+2225101,"Vakkertjernheia 1, Åssiden",59.801244,10.131151
+2225102,"Skimtheia 4, Åssiden",59.790165,10.158696
+2225103,"Skimtheia 5, Åssiden",59.790307,10.160821
+2225104,"Skimtheia 6, Åssiden",59.790784,10.15877
+2225128,"Sauesetra 53, Åssiden",59.787378,10.163587
+2225129,"Sauesetra 54, Åssiden",59.787999,10.165816
+2225453,"Kjøsterudåsen 7, Åssiden",59.789144,10.113785
+2257089,"Sanatorieveien 45A, Bragernes",59.751203,10.186284
+2360133,"Landfalltjernveien 158A, Åssiden",59.771396,10.167768
+2360209,"Landfalltjernveien 158, Åssiden",59.771422,10.167728
+2376988,"Tverkenveien 98, Åssiden",59.770518,10.156307
+2381797,"Granbakken 16, Bragernes",59.753442,10.177896
+2494187,"Sanatorieveien 45B, Bragernes",59.751193,10.185897

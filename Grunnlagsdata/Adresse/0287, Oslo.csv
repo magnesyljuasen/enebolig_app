@@ -1,0 +1,659 @@
+,Navn,Long,Lat
+1533033,"Dronninghavnveien 10, Bygdøy",59.907407,10.688162
+1533034,"Dronninghavnveien 9, Bygdøy",59.90858,10.689152
+1533035,"Dronninghavnveien 8F, Bygdøy",59.907383,10.688608
+1533036,"Dronninghavnveien 8E, Bygdøy",59.907501,10.688525
+1533037,"Dronninghavnveien 8D, Bygdøy",59.907628,10.688424
+1533044,"Dronninghavnveien 13, Bygdøy",59.908042,10.689053
+1533045,"Dronninghavnveien 11, Bygdøy",59.908282,10.688565
+1548514,"Bygdøy Kapellvei 2, Bygdøy",59.903997,10.683734
+1548517,"Bygdøy Kapellvei 14, Bygdøy",59.904864,10.679111
+1548518,"Bygdøy Kapellvei 12, Bygdøy",59.90486,10.679432
+1548519,"Bygdøy Kapellvei 10B, Bygdøy",59.904612,10.681297
+1548520,"Bygdøy Kapellvei 10, Bygdøy",59.904815,10.681522
+1548521,"Bygdøy Kapellvei 6B, Bygdøy",59.904376,10.682839
+1548522,"Bygdøy Kapellvei 6, Bygdøy",59.904206,10.683086
+1548523,"Bygdøy Kapellvei 4B, Bygdøy",59.903776,10.683472
+1548524,"Bygdøy Kapellvei 4A, Bygdøy",59.90385,10.683297
+1548525,"Bygdøy terrasse 1, Bygdøy",59.904905,10.68015
+1548526,"Bygdøy Kapellvei 22, Bygdøy",59.904261,10.676398
+1548527,"Bygdøy Kapellvei 20B, Bygdøy",59.904096,10.677391
+1548528,"Bygdøy Kapellvei 20F, Bygdøy",59.904298,10.677044
+1548529,"Bygdøy Kapellvei 18B, Bygdøy",59.904099,10.677856
+1548530,"Bygdøy Kapellvei 18A, Bygdøy",59.904353,10.677637
+1548531,"Bygdøy Kapellvei 14C, Bygdøy",59.904756,10.678408
+1548532,"Bygdøy Kapellvei 14B, Bygdøy",59.904885,10.678879
+1548619,"Bygdøyveien 21D, Bygdøy",59.917201,10.681505
+1548620,"Bygdøyveien 21C, Bygdøy",59.9172,10.681609
+1548621,"Bygdøyveien 21B, Bygdøy",59.917202,10.681704
+1548622,"Bygdøyveien 21A, Bygdøy",59.917199,10.681818
+1548623,"Bygdøyveien 20, Bygdøy",59.917948,10.683931
+1548624,"Bygdøyveien 13, Bygdøy",59.919688,10.680164
+1548627,"Bygdøyveien 23G, Bygdøy",59.916894,10.680881
+1548628,"Bygdøyveien 23F, Bygdøy",59.916939,10.680919
+1548629,"Bygdøyveien 23E, Bygdøy",59.917001,10.68094
+1548630,"Bygdøyveien 23D, Bygdøy",59.917055,10.680979
+1548631,"Bygdøyveien 23C, Bygdøy",59.917108,10.681017
+1548632,"Bygdøyveien 23B, Bygdøy",59.917162,10.681056
+1548633,"Bygdøyveien 23A, Bygdøy",59.917215,10.681094
+1548634,"Bygdøyveien 21E, Bygdøy",59.917202,10.681398
+1548635,"Bygdøyveien 27B, Bygdøy",59.91683,10.681701
+1548636,"Bygdøyveien 27A, Bygdøy",59.916742,10.681571
+1548637,"Bygdøyveien 25F, Bygdøy",59.91673,10.681411
+1548638,"Bygdøyveien 25E, Bygdøy",59.916704,10.681281
+1548639,"Bygdøyveien 25D, Bygdøy",59.916682,10.68115
+1548640,"Bygdøyveien 25C, Bygdøy",59.91674,10.681406
+1548641,"Bygdøyveien 25B, Bygdøy",59.916715,10.681275
+1548642,"Bygdøyveien 25A, Bygdøy",59.916692,10.681145
+1548645,"Bygdøyveien 29D, Bygdøy",59.917055,10.681718
+1548646,"Bygdøyveien 29C, Bygdøy",59.917003,10.681713
+1548647,"Bygdøyveien 29B, Bygdøy",59.91695,10.68171
+1548648,"Bygdøyveien 29A, Bygdøy",59.916896,10.681704
+1548649,"Bygdøyveien 27D, Bygdøy",59.916784,10.68177
+1548650,"Bygdøyveien 27C, Bygdøy",59.916714,10.681659
+1548786,"Bygdøy terrasse 7A, Bygdøy",59.903943,10.680173
+1548787,"Bygdøy terrasse 6, Bygdøy",59.904204,10.680848
+1548788,"Bygdøy terrasse 4, Bygdøy",59.904475,10.680772
+1548789,"Bygdøy terrasse 3B, Bygdøy",59.904399,10.679624
+1548790,"Bygdøy terrasse 3, Bygdøy",59.904473,10.680164
+1548791,"Bygdøy terrasse 2B, Bygdøy",59.904863,10.680863
+1548792,"Bygdøy terrasse 2, Bygdøy",59.904923,10.680795
+1548793,"Bygdøy terrasse 1B, Bygdøy",59.904789,10.680073
+1548794,"Bygdøy terrasse 12B, Bygdøy",59.903346,10.681269
+1548795,"Bygdøy terrasse 12, Bygdøy",59.903342,10.680876
+1548796,"Bygdøy terrasse 11B, Bygdøy",59.903375,10.679697
+1548797,"Bygdøy terrasse 11, Bygdøy",59.903323,10.680267
+1548798,"Bygdøy terrasse 10, Bygdøy",59.903592,10.68096
+1548799,"Bygdøy terrasse 9A, Bygdøy",59.903628,10.680264
+1548800,"Bygdøy terrasse 8, Bygdøy",59.903916,10.68094
+1548801,"Bygdøy terrasse 7B, Bygdøy",59.903923,10.679653
+1548802,"Bygdøy terrasse 20, Bygdøy",59.902399,10.68081
+1548803,"Bygdøy terrasse 19A, Bygdøy",59.902712,10.680272
+1548804,"Bygdøy terrasse 18, Bygdøy",59.902517,10.680745
+1548805,"Bygdøy terrasse 17, Bygdøy",59.902955,10.680248
+1548806,"Bygdøy terrasse 16, Bygdøy",59.902904,10.680657
+1548807,"Bygdøy terrasse 15, Bygdøy",59.903053,10.680271
+1548808,"Bygdøy terrasse 13, Bygdøy",59.903152,10.680258
+1548812,"Bygdøy terrasse 29, Bygdøy",59.90157,10.680672
+1548813,"Bygdøy terrasse 27, Bygdøy",59.901666,10.680664
+1548814,"Bygdøy terrasse 25, Bygdøy",59.901765,10.680662
+1548815,"Bygdøy terrasse 22, Bygdøy",59.902309,10.680859
+1549540,"Christian Frederiks vei 2, Bygdøy",59.898626,10.673129
+1549541,"Christian Frederiks vei 1, Bygdøy",59.898974,10.673361
+1549547,"Christian Frederiks vei 8, Bygdøy",59.898128,10.670637
+1549807,"Christian Frederiks vei 22, Bygdøy",59.903016,10.664821
+1549808,"Christian Frederiks vei 19, Bygdøy",59.902329,10.667731
+1550795,"Dronninghavnveien 8C, Bygdøy",59.907422,10.689093
+1550797,"Dronninghavnveien 8B, Bygdøy",59.907522,10.688991
+1550799,"Dorthes vei 1, Bygdøy",59.902586,10.673494
+1550807,"Dorthes vei 6B, Bygdøy",59.902063,10.672694
+1550808,"Dorthes vei 5, Bygdøy",59.903064,10.673066
+1550809,"Dorthes vei 4B, Bygdøy",59.902168,10.673575
+1550810,"Dorthes vei 3, Bygdøy",59.902853,10.673431
+1550811,"Dorthes vei 2, Bygdøy",59.902246,10.674039
+1550816,"Dorthes vei 18, Bygdøy",59.903202,10.671918
+1550817,"Dorthes vei 14, Bygdøy",59.90296,10.672757
+1550818,"Dorthes vei 12, Bygdøy",59.902753,10.672764
+1551198,"Dronning Blancas vei 1, Bygdøy",59.916864,10.687444
+1551205,"Dronningen 1, Bygdøy",59.908258,10.698131
+1551222,"Dronninghavnveien 2C, Bygdøy",59.908381,10.692075
+1551223,"Dronninghavnveien 2B, Bygdøy",59.908649,10.692839
+1551224,"Dronninghavnveien 2, Bygdøy",59.908216,10.692281
+1551225,"Dronninghavnveien 1D, Bygdøy",59.909086,10.690966
+1551226,"Dronninghavnveien 1C, Bygdøy",59.909148,10.691738
+1551227,"Dronninghavnveien 1B, Bygdøy",59.908881,10.692243
+1551228,"Dronninghavnveien 1A, Bygdøy",59.909033,10.69234
+1551231,"Dronninghavnveien 4C, Bygdøy",59.908181,10.690848
+1551232,"Dronninghavnveien 4B, Bygdøy",59.908292,10.691301
+1551233,"Dronninghavnveien 4, Bygdøy",59.907983,10.691554
+1551234,"Dronninghavnveien 3, Bygdøy",59.908746,10.690859
+1551235,"Dronninghavnveien 2G, Bygdøy",59.908271,10.692945
+1551236,"Dronninghavnveien 2F, Bygdøy",59.90836,10.692968
+1551237,"Dronninghavnveien 2E, Bygdøy",59.908441,10.692972
+1551238,"Dronninghavnveien 2D, Bygdøy",59.90845,10.692239
+1551240,"Dronninghavnveien 8A, Bygdøy",59.907658,10.688908
+1551242,"Dronninghavnveien 7, Bygdøy",59.908248,10.689135
+1551244,"Dronninghavnveien 6, Bygdøy",59.907857,10.690206
+1551246,"Dronninghavnveien 5C, Bygdøy",59.908812,10.689951
+1551248,"Dronninghavnveien 5B, Bygdøy",59.908533,10.689972
+1551250,"Dronninghavnveien 5, Bygdøy",59.908334,10.690141
+1554885,"Conrad Hemsens vei 13H, Bygdøy",59.903626,10.679013
+1554886,"Conrad Hemsens vei 13G, Bygdøy",59.903563,10.679045
+1554887,"Conrad Hemsens vei 13F, Bygdøy",59.903491,10.679042
+1554888,"Conrad Hemsens vei 15D, Bygdøy",59.903983,10.679174
+1554889,"Conrad Hemsens vei 15C, Bygdøy",59.904068,10.678874
+1554890,"Conrad Hemsens vei 15B, Bygdøy",59.904066,10.679035
+1554891,"Conrad Hemsens vei 15A, Bygdøy",59.904064,10.679178
+1554892,"Conrad Hemsens vei 14B, Bygdøy",59.90375,10.678411
+1554893,"Conrad Hemsens vei 14A, Bygdøy",59.903569,10.678545
+1554894,"Conrad Hemsens vei 13K, Bygdøy",59.903752,10.679019
+1554895,"Conrad Hemsens vei 13J, Bygdøy",59.903698,10.679016
+1554896,"Conrad Hemsens vei 19A, Bygdøy",59.904053,10.678605
+1554897,"Conrad Hemsens vei 17E, Bygdøy",59.904331,10.679107
+1554898,"Conrad Hemsens vei 17D, Bygdøy",59.904189,10.679114
+1554899,"Conrad Hemsens vei 17C, Bygdøy",59.904332,10.679245
+1554900,"Conrad Hemsens vei 17B, Bygdøy",59.904251,10.679259
+1554901,"Conrad Hemsens vei 17A, Bygdøy",59.904189,10.679256
+1554902,"Conrad Hemsens vei 15F, Bygdøy",59.903996,10.67887
+1554903,"Conrad Hemsens vei 15E, Bygdøy",59.903994,10.679013
+1554904,"Conrad Hemsens vei 23C, Bygdøy",59.904551,10.679006
+1554905,"Conrad Hemsens vei 23B, Bygdøy",59.904562,10.678863
+1554906,"Conrad Hemsens vei 23A, Bygdøy",59.904563,10.678738
+1554907,"Conrad Hemsens vei 21C, Bygdøy",59.90437,10.678389
+1554908,"Conrad Hemsens vei 21B, Bygdøy",59.904299,10.678385
+1554909,"Conrad Hemsens vei 21A, Bygdøy",59.904226,10.678399
+1554910,"Conrad Hemsens vei 19C, Bygdøy",59.904066,10.67832
+1554911,"Conrad Hemsens vei 19B, Bygdøy",59.904055,10.678462
+1555084,"Conrad Hemsens vei 3, Bygdøy",59.901696,10.678915
+1555092,"Conrad Hemsens vei 8E, Bygdøy",59.902476,10.678293
+1555093,"Conrad Hemsens vei 8D, Bygdøy",59.902414,10.67829
+1555094,"Conrad Hemsens vei 8C, Bygdøy",59.902351,10.678305
+1555095,"Conrad Hemsens vei 8B, Bygdøy",59.90227,10.6783
+1555096,"Conrad Hemsens vei 8A, Bygdøy",59.902198,10.678315
+1555097,"Conrad Hemsens vei 6B, Bygdøy",59.902064,10.678254
+1555098,"Conrad Hemsens vei 6A, Bygdøy",59.90192,10.678265
+1555099,"Conrad Hemsens vei 4, Bygdøy",59.901659,10.678288
+1555100,"Conrad Hemsens vei 9A, Bygdøy",59.902345,10.679413
+1555101,"Conrad Hemsens vei 8M, Bygdøy",59.902532,10.678189
+1555102,"Conrad Hemsens vei 8L, Bygdøy",59.902478,10.678204
+1555104,"Conrad Hemsens vei 8K, Bygdøy",59.902406,10.6782
+1555105,"Conrad Hemsens vei 8J, Bygdøy",59.902343,10.678215
+1555106,"Conrad Hemsens vei 8H, Bygdøy",59.902271,10.678211
+1555107,"Conrad Hemsens vei 8G, Bygdøy",59.902199,10.678243
+1555108,"Conrad Hemsens vei 8F, Bygdøy",59.90254,10.678278
+1555109,"Conrad Hemsens vei 11A, Bygdøy",59.903257,10.679048
+1555110,"Conrad Hemsens vei 10F, Bygdøy",59.902692,10.678304
+1555111,"Conrad Hemsens vei 10E, Bygdøy",59.902708,10.678466
+1555112,"Conrad Hemsens vei 10D, Bygdøy",59.902715,10.678627
+1555113,"Conrad Hemsens vei 10C, Bygdøy",59.902696,10.67868
+1555114,"Conrad Hemsens vei 10B, Bygdøy",59.902654,10.678463
+1555115,"Conrad Hemsens vei 10A, Bygdøy",59.902656,10.67832
+1555116,"Conrad Hemsens vei 9B, Bygdøy",59.902616,10.679355
+1555117,"Conrad Hemsens vei 13A, Bygdøy",59.903489,10.679167
+1555118,"Conrad Hemsens vei 12B, Bygdøy",59.903257,10.678368
+1555119,"Conrad Hemsens vei 12A, Bygdøy",59.903058,10.678501
+1555120,"Conrad Hemsens vei 11F, Bygdøy",59.903189,10.679346
+1555121,"Conrad Hemsens vei 11E, Bygdøy",59.903183,10.679223
+1555122,"Conrad Hemsens vei 11D, Bygdøy",59.903183,10.679046
+1555123,"Conrad Hemsens vei 11C, Bygdøy",59.903263,10.679316
+1555124,"Conrad Hemsens vei 11B, Bygdøy",59.903264,10.679191
+1555125,"Conrad Hemsens vei 13E, Bygdøy",59.90375,10.679144
+1555126,"Conrad Hemsens vei 13D, Bygdøy",59.903696,10.679141
+1555127,"Conrad Hemsens vei 13C, Bygdøy",59.903633,10.679138
+1555128,"Conrad Hemsens vei 13B, Bygdøy",59.903561,10.67917
+1561645,"Hengsengveien 2B, Bygdøy",59.916739,10.680788
+1561646,"Hengsengveien 2, Bygdøy",59.917475,10.681161
+1561647,"Hengsengveien 1, Bygdøy",59.918728,10.680795
+1561994,"Hjalmar Jordans vei 7, Bygdøy",59.903999,10.68216
+1561995,"Hjalmar Jordans vei 5, Bygdøy",59.903979,10.681641
+1561996,"Hjalmar Jordans vei 3, Bygdøy",59.904177,10.681615
+1561997,"Hjalmar Jordans vei 1, Bygdøy",59.904243,10.682066
+1562915,"Huk aveny 3, Bygdøy",59.907281,10.694486
+1562916,"Huk aveny 2B, Bygdøy",59.90712,10.695104
+1562917,"Huk aveny 2, Bygdøy",59.907232,10.695503
+1562918,"Huk aveny 1, Bygdøy",59.907599,10.694914
+1562923,"Huk aveny 9B, Bygdøy",59.907082,10.692491
+1562924,"Huk aveny 9A, Bygdøy",59.90683,10.693247
+1562925,"Huk aveny 8, Bygdøy",59.906333,10.692775
+1562926,"Huk aveny 7B, Bygdøy",59.907412,10.693402
+1562927,"Huk aveny 7, Bygdøy",59.907157,10.693622
+1562928,"Huk aveny 6, Bygdøy",59.906427,10.693102
+1562929,"Huk aveny 5B, Bygdøy",59.907559,10.693839
+1562930,"Huk aveny 4, Bygdøy",59.906682,10.694241
+1562931,"Huk aveny 19, Bygdøy",59.905991,10.690683
+1562932,"Huk aveny 16, Bygdøy",59.905659,10.69072
+1562933,"Huk aveny 14B, Bygdøy",59.905814,10.691193
+1562934,"Huk aveny 14A, Bygdøy",59.905866,10.691357
+1562935,"Huk aveny 11, Bygdøy",59.906748,10.692635
+1562936,"Huk aveny 10, Bygdøy",59.906167,10.692264
+1562937,"Huk aveny 9C, Bygdøy",59.907203,10.692891
+1563183,"Huk aveny 24, Bygdøy",59.90476,10.687957
+1563184,"Huk aveny 22, Bygdøy",59.904924,10.688519
+1563185,"Huk aveny 21, Bygdøy",59.905917,10.690197
+1563186,"Huk aveny 20B, Bygdøy",59.905105,10.689065
+1563187,"Huk aveny 20, Bygdøy",59.905236,10.689393
+1563188,"Huk aveny 32, Bygdøy",59.904445,10.687122
+1563189,"Huk aveny 31, Bygdøy",59.905214,10.68755
+1563190,"Huk aveny 30, Bygdøy",59.904578,10.687447
+1563191,"Huk aveny 29, Bygdøy",59.90512,10.687921
+1563192,"Huk aveny 28, Bygdøy",59.904375,10.687848
+1563193,"Huk aveny 27, Bygdøy",59.905206,10.688176
+1563194,"Huk aveny 26, Bygdøy",59.904531,10.688285
+1563195,"Huk aveny 25, Bygdøy",59.905439,10.688921
+1563196,"Huk aveny 38A, Bygdøy",59.903678,10.685524
+1563197,"Huk aveny 37B, Bygdøy",59.90351,10.684603
+1563198,"Huk aveny 37, Bygdøy",59.903781,10.684474
+1563199,"Huk aveny 36, Bygdøy",59.903934,10.685805
+1563200,"Huk aveny 35, Bygdøy",59.904592,10.684908
+1563201,"Huk aveny 34, Bygdøy",59.90409,10.686278
+1563202,"Huk aveny 33B, Bygdøy",59.904806,10.68719
+1563203,"Huk aveny 33A, Bygdøy",59.904947,10.687394
+1563204,"Huk aveny 44, Bygdøy",59.902911,10.68434
+1563205,"Huk aveny 42, Bygdøy",59.903058,10.684831
+1563206,"Huk aveny 40B, Bygdøy",59.90305,10.685438
+1563207,"Huk aveny 40A, Bygdøy",59.903334,10.684988
+1563208,"Huk aveny 39B, Bygdøy",59.903302,10.684003
+1563209,"Huk aveny 39A, Bygdøy",59.903389,10.684204
+1563210,"Huk aveny 38B, Bygdøy",59.903532,10.685176
+1563211,"Huk aveny 53B, Bygdøy",59.900656,10.681598
+1563212,"Huk aveny 53A, Bygdøy",59.900837,10.681518
+1563213,"Huk aveny 52C, Bygdøy",59.901142,10.682964
+1563214,"Huk aveny 52, Bygdøy",59.901902,10.683163
+1563215,"Huk aveny 48, Bygdøy",59.902544,10.683535
+1563216,"Huk aveny 46A, Bygdøy",59.9027,10.684008
+1563217,"Huk aveny 46C, Bygdøy",59.902776,10.683647
+1563218,"Huk aveny 45, Bygdøy",59.902617,10.681889
+1563219,"Huk aveny 59B, Bygdøy",59.900134,10.679569
+1563220,"Huk aveny 59A, Bygdøy",59.900151,10.679642
+1563221,"Huk aveny 59, Bygdøy",59.900117,10.679497
+1563222,"Huk aveny 57, Bygdøy",59.900429,10.68009
+1563223,"Huk aveny 56, Bygdøy",59.89911,10.678159
+1563224,"Huk aveny 55, Bygdøy",59.900549,10.68079
+1563225,"Huk aveny 54B, Bygdøy",59.90037,10.681512
+1563226,"Huk aveny 54A, Bygdøy",59.900255,10.681363
+1563227,"Huk aveny 61B, Bygdøy",59.899953,10.678952
+1563228,"Huk aveny 61A, Bygdøy",59.899987,10.679097
+1563229,"Huk aveny 59H, Bygdøy",59.900129,10.679265
+1563230,"Huk aveny 59G, Bygdøy",59.900146,10.679373
+1563231,"Huk aveny 59F, Bygdøy",59.900189,10.679501
+1563232,"Huk aveny 59E, Bygdøy",59.900214,10.679609
+1563233,"Huk aveny 59D, Bygdøy",59.900075,10.679298
+1563234,"Huk aveny 59C, Bygdøy",59.900091,10.679424
+1563235,"Huk aveny 63D, Bygdøy",59.899783,10.678246
+1563236,"Huk aveny 63C, Bygdøy",59.899799,10.67839
+1563237,"Huk aveny 63B, Bygdøy",59.899843,10.678482
+1563238,"Huk aveny 63A, Bygdøy",59.899868,10.67859
+1563239,"Huk aveny 61F, Bygdøy",59.899964,10.67881
+1563240,"Huk aveny 61E, Bygdøy",59.899999,10.678919
+1563241,"Huk aveny 61D, Bygdøy",59.900033,10.679046
+1563242,"Huk aveny 61C, Bygdøy",59.89991,10.678843
+1563243,"Huk aveny 63J, Bygdøy",59.899794,10.678033
+1563244,"Huk aveny 63I, Bygdøy",59.899819,10.678213
+1563245,"Huk aveny 63H, Bygdøy",59.899862,10.678358
+1563246,"Huk aveny 63G, Bygdøy",59.899888,10.678448
+1563247,"Huk aveny 63F, Bygdøy",59.899913,10.678557
+1563248,"Huk aveny 63E, Bygdøy",59.899739,10.678119
+1563734,"Huk aveny 67B, Bygdøy",59.900056,10.678618
+1563735,"Huk aveny 67A, Bygdøy",59.900082,10.678726
+1563736,"Huk aveny 69B, Bygdøy",59.899984,10.677988
+1563737,"Huk aveny 69A, Bygdøy",59.900009,10.678115
+1563738,"Huk aveny 67H, Bygdøy",59.900051,10.678332
+1563739,"Huk aveny 67G, Bygdøy",59.900076,10.678476
+1563740,"Huk aveny 67F, Bygdøy",59.90011,10.678603
+1563741,"Huk aveny 67E, Bygdøy",59.900127,10.678675
+1563742,"Huk aveny 67D, Bygdøy",59.899997,10.678311
+1563743,"Huk aveny 67C, Bygdøy",59.900031,10.678456
+1563744,"Huk terrasse 5, Bygdøy",59.906793,10.691207
+1563745,"Huk terrasse 3, Bygdøy",59.906636,10.690824
+1563746,"Huk terrasse 2, Bygdøy",59.90646,10.690582
+1563747,"Huk terrasse 1, Bygdøy",59.906214,10.690158
+1563748,"Huk aveny 69F, Bygdøy",59.899995,10.677828
+1563749,"Huk aveny 69E, Bygdøy",59.90002,10.677937
+1563750,"Huk aveny 69D, Bygdøy",59.900054,10.678064
+1563751,"Huk aveny 69C, Bygdøy",59.89994,10.677861
+1565232,"Jacob Fayes vei 8, Bygdøy",59.902578,10.674933
+1565233,"Jacob Fayes vei 7, Bygdøy",59.902581,10.674302
+1565234,"Jacob Fayes vei 6, Bygdøy",59.902918,10.674686
+1565235,"Jacob Fayes vei 5, Bygdøy",59.902878,10.674047
+1565236,"Jacob Fayes vei 4, Bygdøy",59.903197,10.67461
+1565237,"Jacob Fayes vei 3, Bygdøy",59.903132,10.674035
+1565238,"Jacob Fayes vei 2, Bygdøy",59.903511,10.674533
+1567464,"Killingen 833, Bygdøy",59.90937,10.658791
+1567465,"Killingen 820, Bygdøy",59.909422,10.6589
+1567466,"Killingen 818, Bygdøy",59.909433,10.658758
+1572890,"Lovisenlund 1, Bygdøy",59.904064,10.674261
+1572898,"Lovisenlund 9, Bygdøy",59.903852,10.6718
+1572899,"Lovisenlund 8, Bygdøy",59.903665,10.673132
+1572900,"Lovisenlund 6, Bygdøy",59.903702,10.673724
+1572901,"Lovisenlund 4, Bygdøy",59.903765,10.674407
+1572902,"Lovisenlund 3, Bygdøy",59.904016,10.67374
+1572903,"Lovisenlund 2A, Bygdøy",59.90382,10.675017
+1572904,"Lovisenlund 1B, Bygdøy",59.904122,10.674621
+1575394,"Mellbyedalen 1, Bygdøy",59.906638,10.690019
+1575401,"Mellbyedalen 8B, Bygdøy",59.907782,10.691812
+1575402,"Mellbyedalen 8, Bygdøy",59.907651,10.691573
+1575403,"Mellbyedalen 6, Bygdøy",59.907621,10.69107
+1575404,"Mellbyedalen 5, Bygdøy",59.907021,10.690932
+1575405,"Mellbyedalen 4, Bygdøy",59.907346,10.690708
+1575406,"Mellbyedalen 3, Bygdøy",59.906837,10.690601
+1575407,"Mellbyedalen 2, Bygdøy",59.907242,10.689817
+1575409,"Mellbyedalen 18, Bygdøy",59.908143,10.693082
+1575410,"Mellbyedalen 16, Bygdøy",59.907846,10.693156
+1575411,"Mellbyedalen 14, Bygdøy",59.908,10.693057
+1575412,"Mellbyedalen 12, Bygdøy",59.907893,10.692247
+1575413,"Mellbyedalen 10, Bygdøy",59.907666,10.692503
+1575414,"Mellbyedalen 9B, Bygdøy",59.907124,10.692011
+1575415,"Mellbyedalen 9, Bygdøy",59.90714,10.692172
+1577071,"Museumsveien 1A, Bygdøy",59.906175,10.689691
+1577072,"Museumsveien 2, Bygdøy",59.906029,10.68913
+1577073,"Museumsveien 2A, Bygdøy",59.905894,10.689112
+1577074,"Museumsveien 3, Bygdøy",59.906401,10.689596
+1577075,"Museumsveien 4A, Bygdøy",59.90631,10.688929
+1577076,"Museumsveien 4B, Bygdøy",59.906393,10.688826
+1577093,"Museumsveien 5, Bygdøy",59.906667,10.689144
+1577094,"Museumsveien 5B, Bygdøy",59.906763,10.689382
+1577095,"Museumsveien 6, Bygdøy",59.906659,10.688339
+1577096,"Museumsveien 7, Bygdøy",59.90687,10.688707
+1577097,"Museumsveien 7B, Bygdøy",59.907012,10.688858
+1577098,"Museumsveien 8, Bygdøy",59.906996,10.687319
+1577099,"Museumsveien 10, Bygdøy",59.907483,10.686716
+1586840,"S. H. Lundhs vei 1C, Bygdøy",59.901588,10.676916
+1586841,"S. H. Lundhs vei 1B, Bygdøy",59.901575,10.677121
+1586842,"S. H. Lundhs vei 2A, Bygdøy",59.901328,10.676125
+1586851,"S. H. Lundhs vei 10, Bygdøy",59.902795,10.676593
+1586852,"S. H. Lundhs vei 11, Bygdøy",59.902442,10.677469
+1586853,"S. H. Lundhs vei 12, Bygdøy",59.903036,10.676658
+1586854,"S. H. Lundhs vei 13C, Bygdøy",59.902762,10.677717
+1586855,"S. H. Lundhs vei 15, Bygdøy",59.902717,10.677071
+1586856,"S. H. Lundhs vei 15B, Bygdøy",59.902815,10.677076
+1586857,"S. H. Lundhs vei 17, Bygdøy",59.90313,10.677772
+1586858,"S. H. Lundhs vei 19B, Bygdøy",59.903373,10.67773
+1586859,"S. H. Lundhs vei 4, Bygdøy",59.901719,10.676413
+1586860,"S. H. Lundhs vei 5A, Bygdøy",59.902046,10.677519
+1586861,"S. H. Lundhs vei 5B, Bygdøy",59.902007,10.677787
+1586862,"S. H. Lundhs vei 6, Bygdøy",59.902061,10.676323
+1586863,"S. H. Lundhs vei 7E, Bygdøy",59.901955,10.676944
+1586864,"S. H. Lundhs vei 8, Bygdøy",59.902385,10.676322
+1586865,"S. H. Lundhs vei 9, Bygdøy",59.902395,10.67693
+1586875,"S. H. Lundhs vei 21, Bygdøy",59.903462,10.677788
+1593601,"Strømsborgveien 8, Bygdøy",59.906256,10.679127
+1593602,"Strømsborgveien 12, Bygdøy",59.905007,10.676364
+1593892,"Strømsborgveien 42B, Bygdøy",59.899787,10.675118
+1593893,"Strømsborgveien 43A, Bygdøy",59.899396,10.673364
+1593894,"Strømsborgveien 43B, Bygdøy",59.899021,10.673864
+1593895,"Strømsborgveien 43C, Bygdøy",59.899291,10.673895
+1593896,"Strømsborgveien 43D, Bygdøy",59.899485,10.674102
+1593897,"Strømsborgveien 45, Bygdøy",59.89744,10.672479
+1593898,"Strømsborgveien 45B, Bygdøy",59.897552,10.672145
+1593899,"Strømsborgveien 46, Bygdøy",59.898952,10.675058
+1593900,"Strømsborgveien 39H, Bygdøy",59.900252,10.673157
+1593901,"Strømsborgveien 40A, Bygdøy",59.900201,10.674978
+1593902,"Strømsborgveien 40B, Bygdøy",59.899934,10.674889
+1593903,"Strømsborgveien 41B, Bygdøy",59.899648,10.674003
+1593904,"Strømsborgveien 41C, Bygdøy",59.899575,10.673409
+1593905,"Strømsborgveien 41D, Bygdøy",59.899772,10.673401
+1593906,"Strømsborgveien 42, Bygdøy",59.899748,10.67458
+1593914,"Strømsborgveien 47, Bygdøy",59.897107,10.671855
+1593915,"Strømsborgveien 47B, Bygdøy",59.897285,10.671256
+1593916,"Strømsborgveien 48, Bygdøy",59.898174,10.676235
+1593917,"Strømsborgveien 49, Bygdøy",59.896914,10.672185
+1593918,"Strømsborgveien 49B, Bygdøy",59.896737,10.672694
+1593919,"Strømsborgveien 51, Bygdøy",59.89681,10.673288
+1594048,"Strømsborgveien 13, Bygdøy",59.905968,10.674249
+1594050,"Strømsborgveien 15B, Bygdøy",59.905454,10.675082
+1594060,"Strømsborgveien 24, Bygdøy",59.903494,10.675821
+1594062,"Strømsborgveien 25, Bygdøy",59.902273,10.674398
+1594064,"Strømsborgveien 25A, Bygdøy",59.902339,10.675014
+1594066,"Strømsborgveien 25B, Bygdøy",59.902303,10.675012
+1594068,"Strømsborgveien 25C, Bygdøy",59.902015,10.674998
+1594070,"Strømsborgveien 25D, Bygdøy",59.901976,10.674531
+1594072,"Strømsborgveien 26, Bygdøy",59.903141,10.675759
+1594074,"Strømsborgveien 27, Bygdøy",59.901763,10.67511
+1594076,"Strømsborgveien 17A, Bygdøy",59.9042,10.675519
+1594078,"Strømsborgveien 17B, Bygdøy",59.903585,10.675184
+1594080,"Strømsborgveien 18, Bygdøy",59.903636,10.676832
+1594082,"Strømsborgveien 18B, Bygdøy",59.903796,10.67768
+1594084,"Strømsborgveien 19, Bygdøy",59.903252,10.675239
+1594086,"Strømsborgveien 19B, Bygdøy",59.902955,10.675278
+1594088,"Strømsborgveien 20, Bygdøy",59.904062,10.675834
+1594090,"Strømsborgveien 22, Bygdøy",59.903718,10.676013
+1594092,"Strømsborgveien 31C, Bygdøy",59.900856,10.674367
+1594094,"Strømsborgveien 32A, Bygdøy",59.902208,10.675419
+1594096,"Strømsborgveien 32B, Bygdøy",59.902046,10.675446
+1594098,"Strømsborgveien 32C, Bygdøy",59.901961,10.675782
+1594100,"Strømsborgveien 33, Bygdøy",59.901493,10.67372
+1594102,"Strømsborgveien 33B, Bygdøy",59.901249,10.673136
+1594104,"Strømsborgveien 33C, Bygdøy",59.901327,10.674016
+1594106,"Strømsborgveien 33D, Bygdøy",59.901743,10.67384
+1594108,"Strømsborgveien 27B, Bygdøy",59.901474,10.675185
+1594110,"Strømsborgveien 28, Bygdøy",59.90277,10.675715
+1594112,"Strømsborgveien 29, Bygdøy",59.901389,10.674823
+1594114,"Strømsborgveien 29B, Bygdøy",59.90103,10.674769
+1594116,"Strømsborgveien 29C, Bygdøy",59.901652,10.674604
+1594118,"Strømsborgveien 30, Bygdøy",59.902537,10.67565
+1594120,"Strømsborgveien 31, Bygdøy",59.900822,10.67492
+1594122,"Strømsborgveien 31B, Bygdøy",59.900777,10.674918
+1594124,"Strømsborgveien 38C, Bygdøy",59.900319,10.675177
+1594125,"Strømsborgveien 39, Bygdøy",59.900473,10.673436
+1594126,"Strømsborgveien 39B, Bygdøy",59.900484,10.67467
+1594127,"Strømsborgveien 39C, Bygdøy",59.900445,10.674044
+1594128,"Strømsborgveien 39D, Bygdøy",59.900272,10.674392
+1594129,"Strømsborgveien 39E, Bygdøy",59.900076,10.674221
+1594130,"Strømsborgveien 39F, Bygdøy",59.899984,10.67368
+1594131,"Strømsborgveien 39G, Bygdøy",59.899991,10.673126
+1594132,"Strømsborgveien 33E, Bygdøy",59.901477,10.672886
+1594134,"Strømsborgveien 34, Bygdøy",59.901692,10.675697
+1594136,"Strømsborgveien 36, Bygdøy",59.901324,10.67566
+1594138,"Strømsborgveien 37, Bygdøy",59.900853,10.673884
+1594140,"Strømsborgveien 37B, Bygdøy",59.900721,10.673645
+1594142,"Strømsborgveien 37C, Bygdøy",59.900756,10.673075
+1594144,"Strømsborgveien 38A, Bygdøy",59.900691,10.67536
+1594146,"Strømsborgveien 38B, Bygdøy",59.90053,10.675263
+1601903,"Wedels vei 2, Bygdøy",59.913995,10.690572
+1605681,"Hukgrenda 12, Bygdøy",59.899397,10.676082
+1605742,"Hukgrenda 13, Bygdøy",59.89935,10.676258
+1605771,"Hukgrenda 1, Bygdøy",59.899206,10.674856
+1605780,"Hukgrenda 10, Bygdøy",59.899482,10.675764
+1605781,"Hukgrenda 11, Bygdøy",59.899435,10.675923
+1605782,"Hukgrenda 14, Bygdøy",59.8992,10.676018
+1605783,"Hukgrenda 15, Bygdøy",59.89912,10.675943
+1605784,"Hukgrenda 16, Bygdøy",59.899213,10.675697
+1605785,"Hukgrenda 17, Bygdøy",59.899242,10.675538
+1605786,"Hukgrenda 2, Bygdøy",59.899182,10.674641
+1605787,"Hukgrenda 3, Bygdøy",59.899085,10.674475
+1605788,"Hukgrenda 4, Bygdøy",59.89939,10.674544
+1605789,"Hukgrenda 5, Bygdøy",59.899378,10.674722
+1605790,"Hukgrenda 6, Bygdøy",59.899368,10.674864
+1605791,"Hukgrenda 7, Bygdøy",59.899375,10.675026
+1605792,"Hukgrenda 8, Bygdøy",59.899549,10.675464
+1605793,"Hukgrenda 9, Bygdøy",59.899501,10.67564
+1605801,"Hukgrenda 18, Bygdøy",59.899298,10.675397
+1607772,"Mellbyedalen 11B, Bygdøy",59.9075,10.692817
+1607962,"Mellbyedalen 11A, Bygdøy",59.907329,10.692862
+1608397,"Huk aveny 43B, Bygdøy",59.903147,10.683473
+1608418,"Huk aveny 43A, Bygdøy",59.903179,10.683764
+1608856,"Dorthes vei 4D, Bygdøy",59.902104,10.673152
+1608857,"Dorthes vei 4C, Bygdøy",59.90198,10.673566
+1608858,"Dorthes vei 4E, Bygdøy",59.9021,10.673046
+1609456,"Bygdøy terrasse 14A, Bygdøy",59.903054,10.680879
+1609458,"Bygdøy terrasse 14C, Bygdøy",59.903028,10.681123
+1609459,"Bygdøy terrasse 14B, Bygdøy",59.903041,10.681003
+1609460,"Bygdøy terrasse 14E, Bygdøy",59.90301,10.68129
+1609461,"Bygdøy terrasse 14D, Bygdøy",59.90301,10.681218
+1609868,"Christian Frederiks vei 6A, Bygdøy",59.898181,10.672123
+1611110,"Huk aveny 18B, Bygdøy",59.905435,10.689958
+1611216,"Huk aveny 18A, Bygdøy",59.905348,10.6904
+1611439,"Huk aveny 50A, Bygdøy",59.902336,10.68297
+1611457,"Huk aveny 50B, Bygdøy",59.902361,10.683115
+1612118,"Strømsborgveien 35B, Bygdøy",59.901122,10.673236
+1612120,"Strømsborgveien 35C, Bygdøy",59.901045,10.672947
+1613233,"Christian Frederiks vei 6B, Bygdøy",59.897905,10.671966
+1613243,"Christian Frederiks vei 6D, Bygdøy",59.897977,10.671183
+1613245,"Christian Frederiks vei 6E, Bygdøy",59.897929,10.670788
+1613249,"Christian Frederiks vei 6C, Bygdøy",59.897741,10.671404
+1613580,"Strømsborgveien 55B, Bygdøy",59.897533,10.673664
+1613581,"Strømsborgveien 57, Bygdøy",59.898005,10.673938
+1613583,"Strømsborgveien 53, Bygdøy",59.897421,10.673301
+1613594,"Strømsborgveien 59, Bygdøy",59.898021,10.674099
+1616389,"Bygdøy Kapellvei 8C, Bygdøy",59.904622,10.68187
+1616390,"Bygdøy Kapellvei 6C, Bygdøy",59.904393,10.682808
+1616391,"Bygdøy Kapellvei 20D, Bygdøy",59.904099,10.677123
+1616392,"Bygdøy Kapellvei 8A, Bygdøy",59.904425,10.68186
+1616398,"Bygdøyveien 19C, Bygdøy",59.91744,10.68175
+1616399,"Bygdøyveien 19D, Bygdøy",59.917395,10.681747
+1616401,"Bygdøyveien 19A, Bygdøy",59.917557,10.681755
+1616402,"Bygdøyveien 19F, Bygdøy",59.917406,10.681605
+1616412,"Bygdøyveien 19B, Bygdøy",59.917503,10.681753
+1616439,"Dronninghavnveien 1E, Bygdøy",59.908738,10.691646
+1616451,"Mellbyedalen 8C, Bygdøy",59.90762,10.691893
+1616455,"Hengsengveien 20, Bygdøy",59.914577,10.672574
+1616456,"Hengsengveien 16, Bygdøy",59.914016,10.673481
+1616490,"S. H. Lundhs vei 3A, Bygdøy",59.901605,10.677588
+1616491,"S. H. Lundhs vei 3B, Bygdøy",59.901593,10.677837
+1619429,"Bygdøy Kapellvei 20C, Bygdøy",59.904097,10.677248
+1619433,"Hengsengveien 3, Bygdøy",59.917388,10.678831
+1619944,"Bygdøyveien 19E, Bygdøy",59.917611,10.681492
+1619946,"Bygdøy Kapellvei 8B, Bygdøy",59.904513,10.681954
+1619969,"Strømsborgveien 15A, Bygdøy",59.905749,10.675204
+1620094,"Strømsborgveien 35A, Bygdøy",59.90112,10.674041
+1620105,"Hengsengveien 18B, Bygdøy",59.914317,10.673078
+1620106,"Hengsengveien 14A, Bygdøy",59.914339,10.673345
+1620107,"Hengsengveien 3B, Bygdøy",59.918672,10.679504
+1620108,"Hengsengveien 18A, Bygdøy",59.91428,10.673126
+1620110,"Hengsengveien 2C, Bygdøy",59.917101,10.680402
+1620117,"Hengsengveien 14B, Bygdøy",59.914209,10.673339
+1621035,"Huk aveny 23B, Bygdøy",59.905657,10.689468
+1621037,"Huk aveny 23A, Bygdøy",59.905515,10.689318
+1621038,"Huk aveny 23C, Bygdøy",59.905757,10.689348
+1621521,"Lovisenlund 12, Bygdøy",59.903537,10.671856
+1621693,"S. H. Lundhs vei 2D, Bygdøy",59.901449,10.676435
+1621697,"S. H. Lundhs vei 2C, Bygdøy",59.90148,10.676133
+1621699,"S. H. Lundhs vei 2B, Bygdøy",59.901399,10.676129
+1621968,"Huk terrasse 10, Bygdøy",59.906858,10.691783
+1621971,"Huk aveny 13, Bygdøy",59.906494,10.692104
+1623665,"Bygdøyveien 62, Bygdøy",59.910406,10.681179
+1623666,"Bygdøyveien 60, Bygdøy",59.910395,10.681357
+1623667,"Oscarshallveien 15, Bygdøy",59.910264,10.692314
+1623668,"Bygdøyveien 30, Bygdøy",59.91684,10.685833
+1623669,"Oscarshallveien 13, Bygdøy",59.909616,10.692388
+1623670,"Oscarshallveien 11, Bygdøy",59.909737,10.692054
+1623671,"Wedels vei 6, Bygdøy",59.911049,10.69407
+1623672,"Oscarshallveien 6, Bygdøy",59.910358,10.687025
+1623673,"Bygdøyveien 52, Bygdøy",59.911415,10.68297
+1623675,"Bygdøyveien 41, Bygdøy",59.911059,10.677868
+1623676,"Bygdøyveien 50, Bygdøy",59.911095,10.682126
+1623677,"Bygdøyveien 54, Bygdøy",59.910958,10.682978
+1623678,"Bygdøyveien 43, Bygdøy",59.910827,10.678428
+1623679,"Bygdøyveien 58, Bygdøy",59.91064,10.681853
+1623680,"Bygdøyveien 56, Bygdøy",59.910847,10.682525
+1623688,"Christian Frederiks vei 24, Bygdøy",59.90311,10.664432
+1623690,"Museumsveien 15, Bygdøy",59.909791,10.685047
+1623718,"Hengsengveien 9, Bygdøy",59.917014,10.675707
+1623764,"Bygdøy terrasse 5C, Bygdøy",59.904156,10.679737
+1623765,"Bygdøy terrasse 5B, Bygdøy",59.904119,10.679753
+1623781,"Bygdøy terrasse 5A, Bygdøy",59.904213,10.680169
+1623782,"Bygdøy terrasse 5D, Bygdøy",59.90421,10.679721
+1624454,"Hengsengveien 15, Bygdøy",59.915219,10.670655
+1625999,"Huk aveny 58B, Bygdøy",59.899847,10.679537
+1626000,"Huk aveny 58A, Bygdøy",59.899817,10.679768
+1626001,"Huk aveny 58D, Bygdøy",59.899795,10.679356
+1626002,"Huk aveny 58C, Bygdøy",59.89983,10.679447
+1626003,"Huk aveny 58F, Bygdøy",59.89956,10.678825
+1626004,"Huk aveny 58E, Bygdøy",59.899735,10.679138
+1626021,"Huk aveny 58H, Bygdøy",59.89967,10.679349
+1626022,"Huk aveny 58G, Bygdøy",59.899574,10.679112
+1626024,"Huk aveny 58J, Bygdøy",59.899737,10.679692
+1626185,"Hjalmar Jordans vei 7B, Bygdøy",59.903958,10.682552
+1626338,"Huk aveny 50C, Bygdøy",59.902343,10.683114
+1626344,"Huk aveny 50D, Bygdøy",59.90212,10.682977
+1626719,"Dorthes vei 6E, Bygdøy",59.901665,10.67287
+1626735,"Dorthes vei 6C, Bygdøy",59.901918,10.672758
+1626738,"Dorthes vei 6D, Bygdøy",59.901792,10.672823
+1626953,"Dorthes vei 6A, Bygdøy",59.902323,10.672743
+1627244,"Strømsborgveien 45C, Bygdøy",59.897512,10.671786
+1627813,"Huk aveny 17, Bygdøy",59.906235,10.691286
+1627814,"Huk terrasse 4, Bygdøy",59.906427,10.691027
+1628434,"Huk terrasse 6, Bygdøy",59.906556,10.691499
+1628436,"Huk aveny 15, Bygdøy",59.906508,10.691765
+1628695,"Lovisenlund 5A, Bygdøy",59.903863,10.673088
+1629785,"Huk aveny 12B, Bygdøy",59.905864,10.692197
+1629786,"Huk aveny 12A, Bygdøy",59.905975,10.691952
+1629817,"Mellbyedalen 7, Bygdøy",59.907175,10.691618
+1630068,"Lovisenlund 7B, Bygdøy",59.904035,10.672257
+1630069,"Lovisenlund 7A, Bygdøy",59.903808,10.672495
+1630356,"Huk aveny 5A, Bygdøy",59.90716,10.694069
+1659994,"Bygdøy terrasse 9B, Bygdøy",59.903615,10.679879
+1660187,"Bygdøy terrasse 9C, Bygdøy",59.903655,10.67969
+1758865,"Dorthes vei 4G, Bygdøy",59.901925,10.673066
+1758866,"Dorthes vei 4F, Bygdøy",59.90194,10.673186
+1787400,"Christian Frederiks vei 4A, Bygdøy",59.898355,10.672675
+1787401,"Christian Frederiks vei 4B, Bygdøy",59.898297,10.672697
+1799595,"Bygdøy terrasse 19B, Bygdøy",59.902703,10.679889
+1907007,"Strømsborgveien 6, Bygdøy",59.907506,10.682322
+1936470,"Frølichs vei 15, Bygdøy",59.902692,10.666389
+1940424,"Hengsengveien 31, Bygdøy",59.911621,10.664962
+1961238,"Lovisenlund 10E, Bygdøy",59.903253,10.672661
+1961239,"Lovisenlund 10F, Bygdøy",59.903201,10.672712
+1961242,"Lovisenlund 10D, Bygdøy",59.903368,10.672629
+1961556,"Lovisenlund 10A, Bygdøy",59.903595,10.672522
+1961557,"Lovisenlund 10B, Bygdøy",59.903545,10.672557
+1961558,"Lovisenlund 10C, Bygdøy",59.903413,10.672604
+1969621,"S. H. Lundhs vei 19A, Bygdøy",59.903296,10.6778
+1987037,"S. H. Lundhs vei 1A, Bygdøy",59.901336,10.676934
+1994182,"Lovisenlund 2B, Bygdøy",59.903715,10.675121
+2012640,"S. H. Lundhs vei 7B, Bygdøy",59.901806,10.677047
+2012642,"S. H. Lundhs vei 7C, Bygdøy",59.901811,10.677183
+2012903,"S. H. Lundhs vei 13B, Bygdøy",59.90268,10.677626
+2012905,"S. H. Lundhs vei 13A, Bygdøy",59.902588,10.67761
+2013027,"Strømsborgveien 41E, Bygdøy",59.899754,10.673189
+2018391,"Huk aveny 46B, Bygdøy",59.902818,10.683871
+2029105,"Strømsborgveien 55A, Bygdøy",59.897376,10.673522
+2049435,"Bygdøyveien 46, Bygdøy",59.911102,10.680073
+2049436,"Bygdøyveien 44, Bygdøy",59.911457,10.679768
+2049442,"Bygdøyveien 42, Bygdøy",59.911641,10.680714
+2049444,"Wedels vei 1, Bygdøy",59.911755,10.684044
+2049445,"Bygdøyveien 48, Bygdøy",59.91074,10.680268
+2071599,"Killingen 46, Bygdøy",59.909864,10.659688
+2071600,"Killingen 36, Bygdøy",59.907627,10.658841
+2071602,"Killingen 34, Bygdøy",59.907612,10.658063
+2071603,"Killingen 40, Bygdøy",59.909048,10.660468
+2071604,"Killingen 38, Bygdøy",59.907649,10.65967
+2071605,"Killingen 44, Bygdøy",59.909174,10.659389
+2071606,"Killingen 42, Bygdøy",59.90927,10.659923
+2071678,"Killingen 17, Bygdøy",59.90941,10.66027
+2071682,"Killingen 21, Bygdøy",59.909001,10.660986
+2071684,"Killingen 19, Bygdøy",59.909266,10.660819
+2071694,"Killingen 4, Bygdøy",59.912574,10.659115
+2071695,"Killingen 8, Bygdøy",59.910987,10.658828
+2071697,"Killingen 6, Bygdøy",59.911462,10.659626
+2071699,"Killingen 12, Bygdøy",59.910845,10.658397
+2071700,"Killingen 10, Bygdøy",59.910961,10.658637
+2071701,"Killingen 14, Bygdøy",59.910718,10.658577
+2071881,"Killingen 30, Bygdøy",59.909204,10.658221
+2071882,"Killingen 28, Bygdøy",59.909234,10.658854
+2071884,"Killingen 32, Bygdøy",59.908445,10.657915
+2071886,"Killingen 16, Bygdøy",59.910541,10.658708
+2071889,"Killingen 20, Bygdøy",59.90992,10.659145
+2071890,"Killingen 18, Bygdøy",59.910304,10.658313
+2071891,"Killingen 22, Bygdøy",59.909622,10.658859
+2071893,"Killingen 26, Bygdøy",59.909621,10.65815
+2071895,"Killingen 24, Bygdøy",59.909849,10.658049
+2071904,"Killingen 9, Bygdøy",59.910793,10.65962
+2071906,"Killingen 7, Bygdøy",59.911387,10.659952
+2071907,"Killingen 13, Bygdøy",59.910273,10.659791
+2071908,"Killingen 11, Bygdøy",59.910559,10.659533
+2071909,"Killingen 15, Bygdøy",59.910015,10.659899
+2071913,"Killingen 1, Bygdøy",59.912959,10.659165
+2071914,"Killingen 2, Bygdøy",59.912892,10.66007
+2071915,"Killingen 3, Bygdøy",59.912198,10.660779
+2071940,"Killingen 5, Bygdøy",59.912078,10.660684
+2080715,"Huk aveny 41D, Bygdøy",59.903519,10.683175
+2080716,"Huk aveny 41C, Bygdøy",59.903573,10.683188
+2080717,"Huk aveny 41A, Bygdøy",59.903589,10.683649
+2080718,"Huk aveny 41B, Bygdøy",59.90361,10.683489
+2080719,"Huk aveny 41E, Bygdøy",59.903467,10.683224
+2090498,"Huk aveny 43C, Bygdøy",59.903186,10.683471
+2093394,"Bygdøy terrasse 21A, Bygdøy",59.902465,10.680248
+2093396,"Bygdøy terrasse 21B, Bygdøy",59.902372,10.68026
+2093397,"Bygdøy terrasse 21C, Bygdøy",59.902285,10.680418
+2102107,"Bygdøy Kapellvei 20E, Bygdøy",59.9043,10.677246
+2104311,"Strømsborgveien 40C, Bygdøy",59.899933,10.674925
+2120125,"Strømsborgveien 33F, Bygdøy",59.901533,10.673175
+2182519,"Huk aveny 65D, Bygdøy",59.900312,10.679094
+2182520,"Huk aveny 65B, Bygdøy",59.900371,10.679293
+2182521,"Huk aveny 65A, Bygdøy",59.900422,10.679428
+2182522,"Huk aveny 65C, Bygdøy",59.900341,10.679197
+2182523,"Huk aveny 65H, Bygdøy",59.900303,10.679104
+2182524,"Huk aveny 65G, Bygdøy",59.900332,10.679207
+2182525,"Huk aveny 65F, Bygdøy",59.900362,10.679304
+2182526,"Huk aveny 65E, Bygdøy",59.900414,10.679439
+2193569,"S. H. Lundhs vei 7D, Bygdøy",59.901923,10.677051
+2193570,"S. H. Lundhs vei 7A, Bygdøy",59.901725,10.677113
+2362123,"Jacob Fayes vei 1B, Bygdøy",59.903424,10.673876
+2376449,"Lovisenlund 5B, Bygdøy",59.904074,10.672791
+2452068,"Bygdøyveien 22, Bygdøy",59.917979,10.683349
+2452216,"Bygdøy terrasse 23B, Bygdøy",59.902077,10.680506
+2452265,"Bygdøy terrasse 23A, Bygdøy",59.902153,10.680422
+2453901,"Jacob Fayes vei 1A, Bygdøy",59.903447,10.673845
+2455993,"Strømsborgveien 33G, Bygdøy",59.901325,10.673139
+2456027,"Strømsborgveien 33H, Bygdøy",59.901273,10.673137

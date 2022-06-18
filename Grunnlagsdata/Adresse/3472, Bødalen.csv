@@ -1,0 +1,826 @@
+,Navn,Long,Lat
+830465,"Aukeveien 139, Slemmestad og Nærsnes",59.750788,10.463546
+837455,"Slemmestadveien 681, Slemmestad og Nærsnes",59.761924,10.465191
+837457,"Slemmestadveien 683, Slemmestad og Nærsnes",59.761709,10.464398
+837492,"Bøbekkveien 8, Slemmestad og Nærsnes",59.761069,10.463729
+837494,"Bøbekkveien 7, Slemmestad og Nærsnes",59.761036,10.464297
+837495,"Slemmestadveien 687, Slemmestad og Nærsnes",59.761453,10.464779
+837498,"Slemmestadveien 706, Slemmestad og Nærsnes",59.757236,10.456548
+837501,"Slemmestadveien 711, Slemmestad og Nærsnes",59.758208,10.450484
+837503,"Slemmestadveien 695, Slemmestad og Nærsnes",59.760145,10.460449
+837504,"Slemmestadveien 697, Slemmestad og Nærsnes",59.760403,10.460691
+837603,"Aukeveien 120A, Slemmestad og Nærsnes",59.752757,10.46495
+837604,"Aukeveien 121, Slemmestad og Nærsnes",59.752658,10.46418
+837605,"Aukeveien 122, Slemmestad og Nærsnes",59.752478,10.464991
+837606,"Aukeveien 130, Slemmestad og Nærsnes",59.751695,10.465206
+837607,"Aukeveien 135, Slemmestad og Nærsnes",59.75133,10.464104
+837608,"Aukeveien 137, Slemmestad og Nærsnes",59.751023,10.464215
+837609,"Aukeveien 142, Slemmestad og Nærsnes",59.750507,10.464584
+837610,"Aukeveien 152, Slemmestad og Nærsnes",59.750662,10.461939
+837611,"Bakkeveien 15, Slemmestad og Nærsnes",59.760166,10.459328
+837612,"Bakkeveien 16, Slemmestad og Nærsnes",59.760364,10.458518
+837619,"Bakkeveien 1, Slemmestad og Nærsnes",59.759223,10.460177
+837620,"Bakkeveien 2, Slemmestad og Nærsnes",59.759038,10.459047
+837621,"Bakkeveien 6, Slemmestad og Nærsnes",59.759777,10.458795
+837622,"Bakkeveien 8, Slemmestad og Nærsnes",59.759782,10.458314
+837623,"Bakkeveien 9A, Slemmestad og Nærsnes",59.75994,10.459433
+837624,"Bakkeveien 10, Slemmestad og Nærsnes",59.760055,10.458842
+837625,"Bakkeveien 12, Slemmestad og Nærsnes",59.760087,10.458381
+837626,"Bakkeveien 13, Slemmestad og Nærsnes",59.760214,10.459864
+837627,"Aukeveien 52, Slemmestad og Nærsnes",59.757628,10.462297
+837628,"Aukeveien 54, Slemmestad og Nærsnes",59.757772,10.461413
+837629,"Aukeveien 56, Slemmestad og Nærsnes",59.757642,10.461034
+837630,"Aukeveien 58, Slemmestad og Nærsnes",59.757368,10.461413
+837631,"Aukeveien 61, Slemmestad og Nærsnes",59.757563,10.460051
+837632,"Aukeveien 65, Slemmestad og Nærsnes",59.757094,10.461063
+837633,"Aukeveien 67, Slemmestad og Nærsnes",59.756856,10.460608
+837634,"Aukeveien 69, Slemmestad og Nærsnes",59.756533,10.460629
+837635,"Aukeveien 40A, Slemmestad og Nærsnes",59.757953,10.463464
+837636,"Aukeveien 42, Slemmestad og Nærsnes",59.757886,10.464053
+837637,"Aukeveien 44, Slemmestad og Nærsnes",59.757661,10.464096
+837638,"Aukeveien 46, Slemmestad og Nærsnes",59.757838,10.462751
+837639,"Aukeveien 49, Slemmestad og Nærsnes",59.758312,10.461348
+837640,"Aukeveien 50, Slemmestad og Nærsnes",59.757758,10.461875
+837641,"Aukeveien 51, Slemmestad og Nærsnes",59.758012,10.460854
+837642,"Aukeveien 81, Slemmestad og Nærsnes",59.755615,10.459913
+837643,"Aukeveien 82, Slemmestad og Nærsnes",59.756104,10.462052
+837644,"Aukeveien 83, Slemmestad og Nærsnes",59.755413,10.461114
+837645,"Aukeveien 110, Slemmestad og Nærsnes",59.753702,10.463994
+837646,"Aukeveien 111, Slemmestad og Nærsnes",59.753766,10.463125
+837647,"Aukeveien 113, Slemmestad og Nærsnes",59.75317,10.463348
+837648,"Aukeveien 116, Slemmestad og Nærsnes",59.75329,10.46467
+837649,"Aukeveien 117, Slemmestad og Nærsnes",59.752748,10.463401
+837650,"Aukeveien 71, Slemmestad og Nærsnes",59.756839,10.461301
+837651,"Aukeveien 72, Slemmestad og Nærsnes",59.756629,10.462467
+837652,"Aukeveien 73, Slemmestad og Nærsnes",59.756612,10.461523
+837653,"Aukeveien 74, Slemmestad og Nærsnes",59.756218,10.463107
+837654,"Aukeveien 76, Slemmestad og Nærsnes",59.756205,10.462644
+837655,"Aukeveien 78, Slemmestad og Nærsnes",59.755818,10.46188
+837656,"Aukeveien 79, Slemmestad og Nærsnes",59.755978,10.461228
+837657,"Aukeveien 80, Slemmestad og Nærsnes",59.755922,10.46224
+837665,"Aukehagen 16, Slemmestad og Nærsnes",59.754047,10.462016
+837666,"Auke terrasse 1, Slemmestad og Nærsnes",59.755115,10.46046
+837667,"Auke terrasse 2, Slemmestad og Nærsnes",59.754844,10.461445
+837668,"Auke terrasse 3, Slemmestad og Nærsnes",59.75504,10.459959
+837669,"Auke terrasse 5, Slemmestad og Nærsnes",59.754974,10.459475
+837670,"Auke terrasse 6, Slemmestad og Nærsnes",59.754624,10.460225
+837671,"Auke terrasse 8, Slemmestad og Nærsnes",59.754586,10.459619
+837672,"Auke terrasse 10, Slemmestad og Nærsnes",59.754377,10.459823
+837674,"Aukehagen 1, Slemmestad og Nærsnes",59.755141,10.461369
+837675,"Aukehagen 4, Slemmestad og Nærsnes",59.754949,10.462482
+837676,"Aukehagen 5, Slemmestad og Nærsnes",59.754707,10.460852
+837677,"Aukehagen 8, Slemmestad og Nærsnes",59.754476,10.462213
+837678,"Aukehagen 10, Slemmestad og Nærsnes",59.754363,10.462706
+837679,"Aukehagen 11, Slemmestad og Nærsnes",59.754297,10.460567
+837680,"Aukehagen 12, Slemmestad og Nærsnes",59.75463,10.462949
+837721,"Bergliveien 50, Slemmestad og Nærsnes",59.761659,10.459197
+837722,"Bergliveien 52, Slemmestad og Nærsnes",59.761595,10.458482
+837732,"Bergliveien 4, Slemmestad og Nærsnes",59.766136,10.470094
+837734,"Bergliveien 6, Slemmestad og Nærsnes",59.765868,10.469886
+837736,"Bergliveien 10, Slemmestad og Nærsnes",59.765481,10.469193
+837738,"Bergliveien 23, Slemmestad og Nærsnes",59.764286,10.466042
+837739,"Bergliveien 30A, Slemmestad og Nærsnes",59.763159,10.464835
+837746,"Bergliveien 1, Slemmestad og Nærsnes",59.766865,10.469894
+837748,"Bergliveien 40, Slemmestad og Nærsnes",59.762441,10.462383
+837749,"Bergliveien 41, Slemmestad og Nærsnes",59.761996,10.460351
+837750,"Bergliveien 42, Slemmestad og Nærsnes",59.762239,10.461893
+837751,"Bergliveien 44, Slemmestad og Nærsnes",59.761903,10.461487
+837752,"Bergliveien 45, Slemmestad og Nærsnes",59.761878,10.459705
+837753,"Bergliveien 46, Slemmestad og Nærsnes",59.76175,10.460679
+837754,"Bergliveien 48, Slemmestad og Nærsnes",59.761647,10.460265
+837755,"Bergliveien 49, Slemmestad og Nærsnes",59.761922,10.458977
+837756,"Bergliveien 31, Slemmestad og Nærsnes",59.763038,10.46353
+837757,"Bergliveien 32, Slemmestad og Nærsnes",59.762805,10.464304
+837758,"Bergliveien 35, Slemmestad og Nærsnes",59.762791,10.462398
+837759,"Bergliveien 36, Slemmestad og Nærsnes",59.762623,10.463762
+837760,"Bergliveien 37A, Slemmestad og Nærsnes",59.762687,10.462055
+837761,"Bergliveien 37B, Slemmestad og Nærsnes",59.762422,10.461581
+837762,"Bergliveien 38, Slemmestad og Nærsnes",59.762352,10.463109
+837763,"Bergliveien 39, Slemmestad og Nærsnes",59.762203,10.461126
+837782,"Bøbekkveien 1, Slemmestad og Nærsnes",59.760606,10.463406
+837783,"Bøbekkveien 2, Slemmestad og Nærsnes",59.760549,10.46287
+837784,"Bøbekkveien 3, Slemmestad og Nærsnes",59.760818,10.462899
+837785,"Bøbekkveien 4, Slemmestad og Nærsnes",59.760732,10.462611
+838607,"Bøveien 52B, Slemmestad og Nærsnes",59.761303,10.458096
+838608,"Bøveien 52A, Slemmestad og Nærsnes",59.762136,10.459877
+838609,"Bøveien 54, Slemmestad og Nærsnes",59.761278,10.458718
+838610,"Bøveien 60, Slemmestad og Nærsnes",59.760639,10.462037
+838665,"Bøveien 31, Slemmestad og Nærsnes",59.760431,10.461369
+838676,"Bøveien 21, Slemmestad og Nærsnes",59.761353,10.456816
+838680,"Bøveien 23, Slemmestad og Nærsnes",59.761151,10.456362
+838684,"Bøveien 25, Slemmestad og Nærsnes",59.76103,10.456749
+838686,"Bøveien 27, Slemmestad og Nærsnes",59.760684,10.458781
+838690,"Bøveien 29, Slemmestad og Nærsnes",59.760509,10.459183
+838802,"Dalbøveien 18, Slemmestad og Nærsnes",59.759953,10.464019
+838822,"Dalbøveien 1, Slemmestad og Nærsnes",59.758448,10.463668
+838823,"Dalbøveien 8, Slemmestad og Nærsnes",59.759364,10.463655
+838824,"Dalbøveien 12, Slemmestad og Nærsnes",59.759604,10.463024
+838825,"Dalbøveien 13, Slemmestad og Nærsnes",59.759481,10.464407
+838826,"Dalbøveien 15, Slemmestad og Nærsnes",59.759644,10.464343
+839119,"Frøyas vei 17, Slemmestad og Nærsnes",59.762126,10.452648
+839120,"Frøyas vei 19, Slemmestad og Nærsnes",59.762208,10.452581
+839121,"Frøyas vei 21, Slemmestad og Nærsnes",59.762376,10.452855
+839122,"Frøyas vei 23, Slemmestad og Nærsnes",59.762395,10.452713
+839123,"Frøyas vei 25, Slemmestad og Nærsnes",59.762396,10.452589
+839124,"Frøyas vei 27, Slemmestad og Nærsnes",59.76238,10.452428
+839125,"Frøyas vei 29, Slemmestad og Nærsnes",59.762206,10.451922
+839126,"Frøyas vei 30, Slemmestad og Nærsnes",59.762184,10.451458
+839127,"Frøyas vei 1, Slemmestad og Nærsnes",59.762009,10.452732
+839128,"Frøyas vei 3, Slemmestad og Nærsnes",59.761936,10.4528
+839129,"Frøyas vei 5, Slemmestad og Nærsnes",59.761881,10.452869
+839130,"Frøyas vei 7, Slemmestad og Nærsnes",59.761887,10.453136
+839131,"Frøyas vei 9, Slemmestad og Nærsnes",59.762004,10.453195
+839132,"Frøyas vei 11, Slemmestad og Nærsnes",59.762076,10.453127
+839133,"Frøyas vei 13, Slemmestad og Nærsnes",59.762131,10.453076
+839134,"Frøyas vei 15, Slemmestad og Nærsnes",59.762212,10.45299
+839135,"Frøyas vei 39, Slemmestad og Nærsnes",59.762666,10.451746
+839136,"Frøyas vei 41, Slemmestad og Nærsnes",59.762668,10.451621
+839137,"Frøyas vei 43, Slemmestad og Nærsnes",59.76266,10.451461
+839138,"Frøyas vei 45, Slemmestad og Nærsnes",59.762662,10.451354
+839139,"Frøyas vei 47, Slemmestad og Nærsnes",59.762645,10.451193
+839140,"Frøyas vei 49, Slemmestad og Nærsnes",59.762572,10.450478
+839141,"Frøyas vei 51, Slemmestad og Nærsnes",59.762501,10.450421
+839142,"Frøyas vei 53, Slemmestad og Nærsnes",59.76243,10.4504
+839143,"Frøyas vei 31, Slemmestad og Nærsnes",59.762279,10.451871
+839144,"Frøyas vei 32, Slemmestad og Nærsnes",59.762248,10.451389
+839145,"Frøyas vei 33, Slemmestad og Nærsnes",59.76235,10.451875
+839146,"Frøyas vei 34, Slemmestad og Nærsnes",59.762311,10.451392
+839147,"Frøyas vei 35, Slemmestad og Nærsnes",59.762413,10.451877
+839148,"Frøyas vei 36, Slemmestad og Nærsnes",59.762382,10.451413
+839149,"Frøyas vei 37, Slemmestad og Nærsnes",59.762485,10.451845
+839150,"Frøyas vei 38, Slemmestad og Nærsnes",59.762455,10.451345
+839228,"Gamle skolevei 3, Slemmestad og Nærsnes",59.762692,10.46802
+839229,"Gamle skolevei 4, Slemmestad og Nærsnes",59.762848,10.467742
+839239,"Frøyas vei 65, Slemmestad og Nærsnes",59.761978,10.450594
+839240,"Frøyas vei 66, Slemmestad og Nærsnes",59.762235,10.450944
+839241,"Frøyas vei 67, Slemmestad og Nærsnes",59.761977,10.450737
+839242,"Frøyas vei 68, Slemmestad og Nærsnes",59.762172,10.450977
+839243,"Frøyas vei 69, Slemmestad og Nærsnes",59.762002,10.45088
+839244,"Frøyas vei 71, Slemmestad og Nærsnes",59.76201,10.451005
+839247,"Frøyas vei 55, Slemmestad og Nærsnes",59.762367,10.45038
+839248,"Frøyas vei 57, Slemmestad og Nærsnes",59.762277,10.450394
+839249,"Frøyas vei 59, Slemmestad og Nærsnes",59.762205,10.450444
+839250,"Frøyas vei 60, Slemmestad og Nærsnes",59.762451,10.450882
+839251,"Frøyas vei 61, Slemmestad og Nærsnes",59.762141,10.450477
+839252,"Frøyas vei 62, Slemmestad og Nærsnes",59.762379,10.450932
+839253,"Frøyas vei 63, Slemmestad og Nærsnes",59.761998,10.450453
+839254,"Frøyas vei 64, Slemmestad og Nærsnes",59.762307,10.450929
+839548,"Moveien 4, Slemmestad og Nærsnes",59.752323,10.465215
+839549,"Moveien 6, Slemmestad og Nærsnes",59.752721,10.465767
+839550,"Moveien 8, Slemmestad og Nærsnes",59.752993,10.46633
+839725,"Aukelia 1, Slemmestad og Nærsnes",59.752276,10.46393
+839726,"Aukelia 4, Slemmestad og Nærsnes",59.751681,10.464013
+839727,"Aukelia 6, Slemmestad og Nærsnes",59.75177,10.463251
+839728,"Aukelia 8, Slemmestad og Nærsnes",59.751519,10.462404
+840045,"Skauveien 1, Slemmestad og Nærsnes",59.755392,10.463071
+840046,"Skauveien 2A, Slemmestad og Nærsnes",59.755498,10.462435
+840047,"Skauveien 3, Slemmestad og Nærsnes",59.755701,10.463548
+840048,"Skauveien 5, Slemmestad og Nærsnes",59.755903,10.463895
+840049,"Skauveien 7, Slemmestad og Nærsnes",59.756066,10.463831
+840275,"Odins vei 79, Slemmestad og Nærsnes",59.759663,10.451224
+840276,"Odins vei 81, Slemmestad og Nærsnes",59.759611,10.451097
+840277,"Odins vei 83, Slemmestad og Nærsnes",59.759849,10.450662
+840278,"Odins vei 85, Slemmestad og Nærsnes",59.759632,10.450795
+840279,"Odins vei 87, Slemmestad og Nærsnes",59.759851,10.45052
+840280,"Odins vei 89, Slemmestad og Nærsnes",59.759616,10.45067
+840281,"Odins vei 91, Slemmestad og Nærsnes",59.759844,10.450324
+840282,"Odins vei 93, Slemmestad og Nærsnes",59.759635,10.450493
+840283,"Odins vei 61, Slemmestad og Nærsnes",59.760041,10.454445
+840284,"Odins vei 63, Slemmestad og Nærsnes",59.760205,10.454256
+840285,"Odins vei 65, Slemmestad og Nærsnes",59.759997,10.454354
+840286,"Odins vei 67, Slemmestad og Nærsnes",59.760152,10.454165
+840287,"Odins vei 71, Slemmestad og Nærsnes",59.759941,10.451289
+840288,"Odins vei 73, Slemmestad og Nærsnes",59.759723,10.451493
+840289,"Odins vei 75, Slemmestad og Nærsnes",59.759888,10.45118
+840290,"Odins vei 77, Slemmestad og Nærsnes",59.759698,10.45135
+840291,"Odins vei 111, Slemmestad og Nærsnes",59.759745,10.449536
+840292,"Odins vei 113, Slemmestad og Nærsnes",59.759808,10.449539
+840293,"Odins vei 115, Slemmestad og Nærsnes",59.759907,10.449472
+840299,"Odins vei 95, Slemmestad og Nærsnes",59.759863,10.450182
+840300,"Odins vei 97, Slemmestad og Nærsnes",59.759628,10.45035
+840301,"Odins vei 99, Slemmestad og Nærsnes",59.759856,10.450004
+840302,"Odins vei 101, Slemmestad og Nærsnes",59.759621,10.450154
+840303,"Odins vei 103, Slemmestad og Nærsnes",59.759876,10.449862
+840304,"Odins vei 105, Slemmestad og Nærsnes",59.759587,10.450028
+840305,"Odins vei 107, Slemmestad og Nærsnes",59.759564,10.4496
+840306,"Odins vei 109, Slemmestad og Nærsnes",59.759638,10.449623
+840307,"Odins vei 31, Slemmestad og Nærsnes",59.760241,10.454987
+840308,"Odins vei 32, Slemmestad og Nærsnes",59.758764,10.455439
+840309,"Odins vei 33, Slemmestad og Nærsnes",59.760338,10.455187
+840310,"Odins vei 34, Slemmestad og Nærsnes",59.758863,10.455337
+840311,"Odins vei 35, Slemmestad og Nærsnes",59.760373,10.455278
+840312,"Odins vei 36, Slemmestad og Nærsnes",59.758936,10.455269
+840313,"Odins vei 37, Slemmestad og Nærsnes",59.760496,10.455497
+840314,"Odins vei 38, Slemmestad og Nærsnes",59.759257,10.453859
+840315,"Odins vei 23, Slemmestad og Nærsnes",59.760171,10.455679
+840316,"Odins vei 24, Slemmestad og Nærsnes",59.75887,10.454768
+840317,"Odins vei 25, Slemmestad og Nærsnes",59.760075,10.45539
+840318,"Odins vei 26, Slemmestad og Nærsnes",59.758806,10.454889
+840319,"Odins vei 27, Slemmestad og Nærsnes",59.760068,10.455247
+840320,"Odins vei 28, Slemmestad og Nærsnes",59.75876,10.454976
+840321,"Odins vei 29, Slemmestad og Nærsnes",59.760186,10.455092
+840322,"Odins vei 30, Slemmestad og Nærsnes",59.758738,10.455314
+840323,"Odins vei 47, Slemmestad og Nærsnes",59.760538,10.454983
+840324,"Odins vei 48, Slemmestad og Nærsnes",59.75904,10.453173
+840325,"Odins vei 49, Slemmestad og Nærsnes",59.760467,10.454855
+840326,"Odins vei 51, Slemmestad og Nærsnes",59.760415,10.454728
+840327,"Odins vei 53, Slemmestad og Nærsnes",59.760128,10.454698
+840328,"Odins vei 55, Slemmestad og Nærsnes",59.76031,10.45451
+840329,"Odins vei 57, Slemmestad og Nærsnes",59.760084,10.454607
+840330,"Odins vei 59, Slemmestad og Nærsnes",59.760257,10.454418
+840331,"Odins vei 39, Slemmestad og Nærsnes",59.76056,10.455446
+840332,"Odins vei 40, Slemmestad og Nærsnes",59.759222,10.453733
+840333,"Odins vei 41, Slemmestad og Nærsnes",59.760732,10.455276
+840334,"Odins vei 42, Slemmestad og Nærsnes",59.759161,10.453605
+840335,"Odins vei 43, Slemmestad og Nærsnes",59.760679,10.455185
+840336,"Odins vei 44, Slemmestad og Nærsnes",59.759127,10.453461
+840337,"Odins vei 45, Slemmestad og Nærsnes",59.760591,10.455074
+840338,"Odins vei 46, Slemmestad og Nærsnes",59.759066,10.453299
+840341,"Odins vei 1, Slemmestad og Nærsnes",59.759974,10.454833
+840342,"Odins vei 2, Slemmestad og Nærsnes",59.759207,10.455922
+840343,"Odins vei 3, Slemmestad og Nærsnes",59.759928,10.454938
+840344,"Odins vei 4, Slemmestad og Nærsnes",59.759182,10.455796
+840345,"Odins vei 5, Slemmestad og Nærsnes",59.759854,10.45506
+840346,"Odins vei 6, Slemmestad og Nærsnes",59.759156,10.45567
+840354,"Odins vei 15, Slemmestad og Nærsnes",59.759972,10.45583
+840355,"Odins vei 16, Slemmestad og Nærsnes",59.759029,10.45497
+840356,"Odins vei 17, Slemmestad og Nærsnes",59.760085,10.45612
+840357,"Odins vei 18, Slemmestad og Nærsnes",59.75907,10.454509
+840358,"Odins vei 19, Slemmestad og Nærsnes",59.760131,10.456015
+840359,"Odins vei 20, Slemmestad og Nærsnes",59.759015,10.454596
+840360,"Odins vei 21, Slemmestad og Nærsnes",59.760215,10.455787
+840361,"Odins vei 22, Slemmestad og Nærsnes",59.758916,10.454681
+840362,"Odins vei 7, Slemmestad og Nærsnes",59.759809,10.455111
+840363,"Odins vei 8, Slemmestad og Nærsnes",59.75914,10.455527
+840364,"Odins vei 9, Slemmestad og Nærsnes",59.759859,10.455434
+840365,"Odins vei 10, Slemmestad og Nærsnes",59.759115,10.45533
+840366,"Odins vei 11, Slemmestad og Nærsnes",59.759894,10.455542
+840367,"Odins vei 12, Slemmestad og Nærsnes",59.75908,10.455204
+840368,"Odins vei 13, Slemmestad og Nærsnes",59.759946,10.455705
+840369,"Odins vei 14, Slemmestad og Nærsnes",59.759064,10.455079
+840564,"Lagmannsåsen 15, Slemmestad og Nærsnes",59.756338,10.457915
+840565,"Lagmannsåsen 15B, Slemmestad og Nærsnes",59.756696,10.458055
+840566,"Lagmannsåsen 17, Slemmestad og Nærsnes",59.756091,10.458331
+840572,"Lønneveien 11, Slemmestad og Nærsnes",59.755801,10.459369
+840573,"Lønneveien 13, Slemmestad og Nærsnes",59.755612,10.45945
+840574,"Lønneveien 15, Slemmestad og Nærsnes",59.75584,10.459905
+840575,"Lønneveien 16, Slemmestad og Nærsnes",59.756275,10.460351
+840576,"Lønneveien 18, Slemmestad og Nærsnes",59.75635,10.460888
+840577,"Lønneveien 19, Slemmestad og Nærsnes",59.755922,10.460585
+840581,"Hasselveien 4, Slemmestad og Nærsnes",59.763469,10.468392
+840583,"Lønneveien 1, Slemmestad og Nærsnes",59.757227,10.460321
+840584,"Lønneveien 3, Slemmestad og Nærsnes",59.757042,10.460082
+840585,"Lønneveien 5, Slemmestad og Nærsnes",59.756774,10.459892
+840586,"Lønneveien 7, Slemmestad og Nærsnes",59.756382,10.459608
+840587,"Lønneveien 9, Slemmestad og Nærsnes",59.756249,10.459478
+840604,"Lagmannsåsen 2, Slemmestad og Nærsnes",59.757833,10.459974
+840605,"Lagmannsåsen 3, Slemmestad og Nærsnes",59.758003,10.459234
+840606,"Lagmannsåsen 4, Slemmestad og Nærsnes",59.757573,10.45909
+840607,"Lagmannsåsen 5, Slemmestad og Nærsnes",59.757703,10.457957
+840608,"Lagmannsåsen 8, Slemmestad og Nærsnes",59.757307,10.459648
+840609,"Lagmannsåsen 10, Slemmestad og Nærsnes",59.756878,10.459434
+840610,"Lagmannsåsen 11, Slemmestad og Nærsnes",59.757026,10.457464
+840611,"Lagmannsåsen 12, Slemmestad og Nærsnes",59.756727,10.459267
+840618,"Lagmannsåsen 1, Slemmestad og Nærsnes",59.758159,10.459739
+840718,"Jonslia 7, Slemmestad og Nærsnes",59.763122,10.462519
+840719,"Jonslia 11, Slemmestad og Nærsnes",59.763174,10.463939
+840730,"Jonslia 1, Slemmestad og Nærsnes",59.762449,10.460781
+840731,"Jonslia 3, Slemmestad og Nærsnes",59.762702,10.461468
+840732,"Jonslia 5, Slemmestad og Nærsnes",59.762924,10.461692
+840733,"Steinveien 3, Slemmestad og Nærsnes",59.7569,10.463938
+840734,"Steinveien 4, Slemmestad og Nærsnes",59.757076,10.463412
+840735,"Steinveien 5, Slemmestad og Nærsnes",59.757122,10.464179
+840736,"Steinveien 6, Slemmestad og Nærsnes",59.757327,10.463494
+840737,"Steinveien 7, Slemmestad og Nærsnes",59.757437,10.464122
+840738,"Steinveien 8, Slemmestad og Nærsnes",59.757514,10.463663
+840748,"Steinveien 2, Slemmestad og Nærsnes",59.756769,10.462811
+840751,"Skredeveien 2, Slemmestad og Nærsnes",59.755106,10.4637
+840752,"Skredeveien 3, Slemmestad og Nærsnes",59.755613,10.465822
+840753,"Skredeveien 5, Slemmestad og Nærsnes",59.7548,10.465413
+840754,"Skredeveien 7, Slemmestad og Nærsnes",59.754674,10.466262
+840790,"Tors vei 189, Slemmestad og Nærsnes",59.760823,10.449512
+840791,"Tors vei 190, Slemmestad og Nærsnes",59.76118,10.450471
+840792,"Tors vei 191, Slemmestad og Nærsnes",59.760605,10.449716
+840793,"Tors vei 192, Slemmestad og Nærsnes",59.760957,10.450336
+840794,"Tors vei 193, Slemmestad og Nærsnes",59.760583,10.450053
+840795,"Tors vei 194, Slemmestad og Nærsnes",59.761256,10.450919
+840796,"Tors vei 195, Slemmestad og Nærsnes",59.760571,10.450391
+840797,"Tors vei 196, Slemmestad og Nærsnes",59.76145,10.45123
+840798,"Tors vei 176, Slemmestad og Nærsnes",59.76133,10.453967
+840799,"Tors vei 178, Slemmestad og Nærsnes",59.761268,10.453946
+840800,"Tors vei 180, Slemmestad og Nærsnes",59.761426,10.453455
+840801,"Tors vei 183, Slemmestad og Nærsnes",59.761367,10.449874
+840802,"Tors vei 185, Slemmestad og Nærsnes",59.761152,10.449775
+840803,"Tors vei 186, Slemmestad og Nærsnes",59.761562,10.450915
+840804,"Tors vei 187, Slemmestad og Nærsnes",59.760874,10.449799
+840805,"Tors vei 188, Slemmestad og Nærsnes",59.761431,10.450535
+840806,"Tors vei 206, Slemmestad og Nærsnes",59.761357,10.452366
+840807,"Tors vei 208, Slemmestad og Nærsnes",59.761171,10.452126
+840808,"Tors vei 210, Slemmestad og Nærsnes",59.761179,10.452251
+840809,"Tors vei 212, Slemmestad og Nærsnes",59.761186,10.452376
+840810,"Tors vei 214, Slemmestad og Nærsnes",59.760992,10.452118
+840811,"Tors vei 216, Slemmestad og Nærsnes",59.760999,10.452243
+840812,"Tors vei 218, Slemmestad og Nærsnes",59.76098,10.452349
+840813,"Tors vei 220, Slemmestad og Nærsnes",59.761084,10.452728
+840814,"Tors vei 197, Slemmestad og Nærsnes",59.76063,10.450696
+840815,"Tors vei 199, Slemmestad og Nærsnes",59.760671,10.451018
+840816,"Tors vei 200, Slemmestad og Nærsnes",59.76147,10.452744
+840817,"Tors vei 201, Slemmestad og Nærsnes",59.760686,10.451339
+840818,"Tors vei 202, Slemmestad og Nærsnes",59.761272,10.452754
+840819,"Tors vei 203, Slemmestad og Nærsnes",59.760856,10.451365
+840820,"Tors vei 204, Slemmestad og Nærsnes",59.761466,10.452281
+840821,"Tors vei 205, Slemmestad og Nærsnes",59.761036,10.451337
+840822,"Tors vei 128, Slemmestad og Nærsnes",59.762061,10.456081
+840823,"Tors vei 130, Slemmestad og Nærsnes",59.762054,10.455956
+840824,"Tors vei 132, Slemmestad og Nærsnes",59.762449,10.455974
+840825,"Tors vei 134, Slemmestad og Nærsnes",59.762432,10.455848
+840826,"Tors vei 136, Slemmestad og Nærsnes",59.762345,10.455613
+840827,"Tors vei 138, Slemmestad og Nærsnes",59.762281,10.455735
+840828,"Tors vei 140, Slemmestad og Nærsnes",59.762191,10.455767
+840829,"Tors vei 142, Slemmestad og Nærsnes",59.762086,10.455459
+840830,"Tors vei 112, Slemmestad og Nærsnes",59.762354,10.456397
+840831,"Tors vei 114, Slemmestad og Nærsnes",59.762302,10.456252
+840832,"Tors vei 116, Slemmestad og Nærsnes",59.762383,10.457057
+840833,"Tors vei 118, Slemmestad og Nærsnes",59.762312,10.456947
+840834,"Tors vei 120, Slemmestad og Nærsnes",59.762215,10.456782
+840835,"Tors vei 122, Slemmestad og Nærsnes",59.762199,10.456622
+840836,"Tors vei 124, Slemmestad og Nærsnes",59.76213,10.456405
+840837,"Tors vei 126, Slemmestad og Nærsnes",59.762086,10.456278
+840838,"Tors vei 160, Slemmestad og Nærsnes",59.761773,10.454591
+840839,"Tors vei 162, Slemmestad og Nærsnes",59.761747,10.454465
+840840,"Tors vei 164, Slemmestad og Nærsnes",59.761677,10.454302
+840841,"Tors vei 166, Slemmestad og Nærsnes",59.761625,10.454122
+840842,"Tors vei 168, Slemmestad og Nærsnes",59.761617,10.453997
+840843,"Tors vei 170, Slemmestad og Nærsnes",59.761601,10.453854
+840844,"Tors vei 172, Slemmestad og Nærsnes",59.761466,10.453919
+840845,"Tors vei 174, Slemmestad og Nærsnes",59.761394,10.453934
+840846,"Tors vei 144, Slemmestad og Nærsnes",59.762004,10.455545
+840847,"Tors vei 146, Slemmestad og Nærsnes",59.761959,10.455632
+840848,"Tors vei 148, Slemmestad og Nærsnes",59.762241,10.455306
+840849,"Tors vei 150, Slemmestad og Nærsnes",59.762197,10.455197
+840850,"Tors vei 152, Slemmestad og Nærsnes",59.762154,10.455035
+840851,"Tors vei 154, Slemmestad og Nærsnes",59.762093,10.454872
+840852,"Tors vei 156, Slemmestad og Nærsnes",59.761788,10.454859
+840853,"Tors vei 158, Slemmestad og Nærsnes",59.761798,10.454717
+840854,"Tors vei 64, Slemmestad og Nærsnes",59.763132,10.459974
+840855,"Tors vei 66, Slemmestad og Nærsnes",59.763053,10.45981
+840856,"Tors vei 68, Slemmestad og Nærsnes",59.763018,10.459684
+840857,"Tors vei 70, Slemmestad og Nærsnes",59.763288,10.458841
+840858,"Tors vei 72, Slemmestad og Nærsnes",59.763263,10.458698
+840859,"Tors vei 74, Slemmestad og Nærsnes",59.763211,10.458553
+840860,"Tors vei 76, Slemmestad og Nærsnes",59.763167,10.458409
+840861,"Tors vei 78, Slemmestad og Nærsnes",59.763106,10.458246
+840862,"Tors vei 48, Slemmestad og Nærsnes",59.763442,10.459507
+840863,"Tors vei 50, Slemmestad og Nærsnes",59.7634,10.459327
+840864,"Tors vei 52, Slemmestad og Nærsnes",59.763356,10.459218
+840865,"Tors vei 54, Slemmestad og Nærsnes",59.763261,10.459712
+840866,"Tors vei 56, Slemmestad og Nærsnes",59.763235,10.459569
+840867,"Tors vei 58, Slemmestad og Nærsnes",59.763183,10.459424
+840868,"Tors vei 60, Slemmestad og Nærsnes",59.763158,10.459245
+840869,"Tors vei 62, Slemmestad og Nærsnes",59.763148,10.460135
+840870,"Tors vei 96, Slemmestad og Nærsnes",59.762804,10.458784
+840871,"Tors vei 98, Slemmestad og Nærsnes",59.762965,10.45799
+840872,"Tors vei 100, Slemmestad og Nærsnes",59.762913,10.457881
+840873,"Tors vei 102, Slemmestad og Nærsnes",59.76287,10.457719
+840874,"Tors vei 104, Slemmestad og Nærsnes",59.762563,10.456976
+840875,"Tors vei 106, Slemmestad og Nærsnes",59.762511,10.456849
+840876,"Tors vei 108, Slemmestad og Nærsnes",59.762486,10.456687
+840877,"Tors vei 110, Slemmestad og Nærsnes",59.762407,10.456542
+840878,"Tors vei 80, Slemmestad og Nærsnes",59.76308,10.45901
+840879,"Tors vei 82, Slemmestad og Nærsnes",59.763036,10.458919
+840880,"Tors vei 84, Slemmestad og Nærsnes",59.762976,10.458649
+840881,"Tors vei 86, Slemmestad og Nærsnes",59.76295,10.458524
+840882,"Tors vei 88, Slemmestad og Nærsnes",59.762949,10.459432
+840883,"Tors vei 90, Slemmestad og Nærsnes",59.762906,10.459305
+840884,"Tors vei 92, Slemmestad og Nærsnes",59.76289,10.459144
+840885,"Tors vei 94, Slemmestad og Nærsnes",59.76282,10.458927
+840887,"Tors vei 2, Slemmestad og Nærsnes",59.765069,10.461839
+840888,"Tors vei 4, Slemmestad og Nærsnes",59.765011,10.462228
+840889,"Tors vei 6, Slemmestad og Nærsnes",59.7649,10.461653
+840890,"Tors vei 8, Slemmestad og Nærsnes",59.764869,10.462062
+840891,"Tors vei 10, Slemmestad og Nærsnes",59.764701,10.461841
+840892,"Tors vei 12, Slemmestad og Nærsnes",59.76455,10.461709
+840893,"Tors vei 14, Slemmestad og Nærsnes",59.764555,10.461211
+840901,"Tors vei 32, Slemmestad og Nærsnes",59.763758,10.460232
+840902,"Tors vei 34, Slemmestad og Nærsnes",59.763566,10.460527
+840903,"Tors vei 36, Slemmestad og Nærsnes",59.763608,10.459959
+840904,"Tors vei 38, Slemmestad og Nærsnes",59.763517,10.460026
+840905,"Tors vei 40, Slemmestad og Nærsnes",59.763428,10.460022
+840906,"Tors vei 42, Slemmestad og Nærsnes",59.763345,10.460232
+840907,"Tors vei 44, Slemmestad og Nærsnes",59.763281,10.460301
+840908,"Tors vei 46, Slemmestad og Nærsnes",59.763468,10.45965
+840909,"Tors vei 16, Slemmestad og Nærsnes",59.764362,10.46163
+840910,"Tors vei 18, Slemmestad og Nærsnes",59.764404,10.461044
+840911,"Tors vei 20, Slemmestad og Nærsnes",59.764212,10.461374
+840912,"Tors vei 22, Slemmestad og Nærsnes",59.764227,10.460858
+840913,"Tors vei 24, Slemmestad og Nærsnes",59.76406,10.461296
+840914,"Tors vei 26, Slemmestad og Nærsnes",59.763929,10.46097
+840915,"Tors vei 28, Slemmestad og Nærsnes",59.763872,10.460433
+840916,"Tors vei 30, Slemmestad og Nærsnes",59.763723,10.460943
+840977,"Tors vei 238, Slemmestad og Nærsnes",59.76086,10.451845
+840985,"Tors vei 222, Slemmestad og Nærsnes",59.761021,10.452743
+840986,"Tors vei 224, Slemmestad og Nærsnes",59.760922,10.452756
+840987,"Tors vei 226, Slemmestad og Nærsnes",59.760859,10.452753
+840988,"Tors vei 228, Slemmestad og Nærsnes",59.761229,10.45179
+840989,"Tors vei 230, Slemmestad og Nærsnes",59.761165,10.451841
+840990,"Tors vei 232, Slemmestad og Nærsnes",59.761094,10.45182
+840991,"Tors vei 234, Slemmestad og Nærsnes",59.76103,10.451853
+840992,"Tors vei 236, Slemmestad og Nærsnes",59.760923,10.451848
+841032,"Børønningen 24, Slemmestad og Nærsnes",59.756947,10.465311
+841033,"Børønningen 25, Slemmestad og Nærsnes",59.756742,10.466815
+841034,"Børønningen 26, Slemmestad og Nærsnes",59.756773,10.465659
+841035,"Børønningen 27, Slemmestad og Nærsnes",59.756982,10.467021
+841036,"Børønningen 28, Slemmestad og Nærsnes",59.756722,10.466209
+841037,"Børønningen 29, Slemmestad og Nærsnes",59.757199,10.466924
+841057,"Børønningen 1, Slemmestad og Nærsnes",59.758167,10.465745
+841058,"Børønningen 2, Slemmestad og Nærsnes",59.757854,10.46617
+841059,"Børønningen 3, Slemmestad og Nærsnes",59.757961,10.465444
+841060,"Børønningen 4, Slemmestad og Nærsnes",59.757809,10.46615
+841061,"Børønningen 5, Slemmestad og Nærsnes",59.757803,10.465135
+841062,"Børønningen 6, Slemmestad og Nærsnes",59.757746,10.466165
+841063,"Børønningen 7, Slemmestad og Nærsnes",59.757571,10.464947
+841072,"Børønningen 16B, Slemmestad og Nærsnes",59.757217,10.466088
+841073,"Børønningen 17, Slemmestad og Nærsnes",59.756487,10.46554
+841074,"Børønningen 18, Slemmestad og Nærsnes",59.757664,10.465485
+841075,"Børønningen 19, Slemmestad og Nærsnes",59.756409,10.466035
+841076,"Børønningen 20, Slemmestad og Nærsnes",59.757386,10.465401
+841077,"Børønningen 21, Slemmestad og Nærsnes",59.756296,10.466546
+841078,"Børønningen 22, Slemmestad og Nærsnes",59.757127,10.465301
+841079,"Børønningen 23, Slemmestad og Nærsnes",59.756493,10.466626
+841080,"Børønningen 8, Slemmestad og Nærsnes",59.757693,10.466145
+841081,"Børønningen 9, Slemmestad og Nærsnes",59.757302,10.464953
+841082,"Børønningen 10, Slemmestad og Nærsnes",59.757558,10.466139
+841083,"Børønningen 11, Slemmestad og Nærsnes",59.757033,10.46487
+841084,"Børønningen 12, Slemmestad og Nærsnes",59.757495,10.466118
+841085,"Børønningen 13, Slemmestad og Nærsnes",59.756765,10.464787
+841086,"Børønningen 14, Slemmestad og Nærsnes",59.757432,10.466133
+841087,"Børønningen 15, Slemmestad og Nærsnes",59.756603,10.464762
+841461,"Kvernveien 1, Slemmestad og Nærsnes",59.760946,10.460191
+841462,"Kvernveien 2, Slemmestad og Nærsnes",59.761381,10.45915
+841463,"Kvernveien 3, Slemmestad og Nærsnes",59.761153,10.460061
+841478,"Kvernveien 5, Slemmestad og Nærsnes",59.761195,10.46053
+841479,"Kvernveien 9, Slemmestad og Nærsnes",59.761338,10.461355
+841480,"Kvernveien 11, Slemmestad og Nærsnes",59.76115,10.461347
+841481,"Kvernveien 13, Slemmestad og Nærsnes",59.761284,10.461837
+841482,"Kvernveien 15, Slemmestad og Nærsnes",59.761332,10.462219
+841483,"Kvernveien 17, Slemmestad og Nærsnes",59.761429,10.462526
+841838,"Bjørneroa 7, Slemmestad og Nærsnes",59.767007,10.461229
+841839,"Bjørneroa 8, Slemmestad og Nærsnes",59.766367,10.460614
+841840,"Bjørneroa 9, Slemmestad og Nærsnes",59.766958,10.460764
+841841,"Bjørneroa 10, Slemmestad og Nærsnes",59.766136,10.460354
+841842,"Bjørneroa 11, Slemmestad og Nærsnes",59.76681,10.460348
+841843,"Bjørneroa 13, Slemmestad og Nærsnes",59.766681,10.459844
+841856,"Tors vei 182, Slemmestad og Nærsnes",59.761156,10.453461
+841857,"Bøveien 33, Slemmestad og Nærsnes",59.760164,10.46198
+841858,"Bøveien 35, Slemmestad og Nærsnes",59.760082,10.462048
+841859,"Bøveien 39, Slemmestad og Nærsnes",59.76001,10.462045
+841883,"Bjørneroa 6, Slemmestad og Nærsnes",59.766559,10.461103
+842208,"Fossveien 2, Slemmestad og Nærsnes",59.760251,10.464619
+842209,"Odins vei 69, Slemmestad og Nærsnes",59.759848,10.452353
+842210,"Dalbøveien 17, Slemmestad og Nærsnes",59.759676,10.464683
+842211,"Eikeleina 70, Slemmestad og Nærsnes",59.758789,10.470857
+842212,"Eikeleina 72, Slemmestad og Nærsnes",59.758666,10.470638
+842213,"Skjellsandveien 1, Slemmestad og Nærsnes",59.760922,10.469669
+842214,"Skjellsandveien 3, Slemmestad og Nærsnes",59.761019,10.469869
+842215,"Skjellsandveien 5, Slemmestad og Nærsnes",59.761107,10.470051
+842216,"Skjellsandveien 7, Slemmestad og Nærsnes",59.761177,10.470196
+842234,"Moveien 2, Slemmestad og Nærsnes",59.75212,10.464904
+842236,"Eikeleina 20, Slemmestad og Nærsnes",59.761052,10.470137
+842237,"Eikeleina 22, Slemmestad og Nærsnes",59.761122,10.470301
+842238,"Skjellsandveien 12, Slemmestad og Nærsnes",59.760312,10.468022
+842239,"Skjellsandveien 10, Slemmestad og Nærsnes",59.760327,10.468325
+842241,"Skjellsandveien 8, Slemmestad og Nærsnes",59.760377,10.468612
+842242,"Skjellsandveien 6, Slemmestad og Nærsnes",59.760482,10.468866
+842243,"Skjellsandveien 4, Slemmestad og Nærsnes",59.760659,10.469159
+842244,"Skjellsandveien 2, Slemmestad og Nærsnes",59.760764,10.469359
+842245,"Eikeleina 4, Slemmestad og Nærsnes",59.760276,10.468038
+842246,"Eikeleina 6, Slemmestad og Nærsnes",59.760272,10.468376
+842247,"Eikeleina 8, Slemmestad og Nærsnes",59.760323,10.468663
+842248,"Eikeleina 10, Slemmestad og Nærsnes",59.760437,10.468935
+842249,"Eikeleina 12, Slemmestad og Nærsnes",59.760631,10.469193
+842250,"Eikeleina 14, Slemmestad og Nærsnes",59.760728,10.469411
+842251,"Eikeleina 16, Slemmestad og Nærsnes",59.760886,10.469721
+842252,"Eikeleina 18, Slemmestad og Nærsnes",59.760973,10.46992
+842311,"Kvernveien 7, Slemmestad og Nærsnes",59.761288,10.461015
+842408,"Slemmestadveien 708, Slemmestad og Nærsnes",59.75687,10.456122
+842409,"Slemmestadveien 704, Slemmestad og Nærsnes",59.756725,10.457024
+842586,"Eikeleina 64, Slemmestad og Nærsnes",59.759292,10.471698
+842587,"Eikeleina 62, Slemmestad og Nærsnes",59.759343,10.471932
+842588,"Eikeleina 60, Slemmestad og Nærsnes",59.759564,10.472226
+842589,"Eikeleina 58, Slemmestad og Nærsnes",59.759697,10.472446
+842590,"Eikeleina 68, Slemmestad og Nærsnes",59.75893,10.471166
+842591,"Eikeleina 74, Slemmestad og Nærsnes",59.758482,10.470274
+842592,"Eikeleina 76, Slemmestad og Nærsnes",59.758367,10.470108
+842593,"Eikeleina 82, Slemmestad og Nærsnes",59.758612,10.469834
+842594,"Skjellsandveien 34, Slemmestad og Nærsnes",59.761736,10.469153
+842595,"Skjellsandveien 36, Slemmestad og Nærsnes",59.761818,10.469121
+842596,"Eikeleina 46, Slemmestad og Nærsnes",59.759379,10.471168
+842597,"Eikeleina 48, Slemmestad og Nærsnes",59.75952,10.471423
+842598,"Eikeleina 50, Slemmestad og Nærsnes",59.759723,10.471735
+842599,"Eikeleina 52, Slemmestad og Nærsnes",59.759829,10.4719
+842600,"Eikeleina 54, Slemmestad og Nærsnes",59.759979,10.472102
+842601,"Eikeleina 66, Slemmestad og Nærsnes",59.75916,10.471478
+842610,"Eikeleina 88, Slemmestad og Nærsnes",59.75907,10.470638
+842611,"Eikeleina 86, Slemmestad og Nærsnes",59.75893,10.470365
+842612,"Eikeleina 84, Slemmestad og Nærsnes",59.758753,10.470108
+842613,"Eikeleina 56, Slemmestad og Nærsnes",59.759857,10.472613
+842614,"Eikeleina 78, Slemmestad og Nærsnes",59.75819,10.469834
+842615,"Eikeleina 80, Slemmestad og Nærsnes",59.758508,10.469492
+842616,"Eikeleina 43, Slemmestad og Nærsnes",59.760452,10.469933
+842617,"Eikeleina 45, Slemmestad og Nærsnes",59.760445,10.469773
+842634,"Skjellsandveien 15, Slemmestad og Nærsnes",59.761449,10.469105
+842635,"Skjellsandveien 13, Slemmestad og Nærsnes",59.761404,10.469174
+842636,"Skjellsandveien 24, Slemmestad og Nærsnes",59.761599,10.468541
+842637,"Skjellsandveien 22, Slemmestad og Nærsnes",59.761527,10.468609
+842638,"Skjellsandveien 26, Slemmestad og Nærsnes",59.761705,10.46876
+842639,"Skjellsandveien 28, Slemmestad og Nærsnes",59.761632,10.46881
+842640,"Skjellsandveien 32, Slemmestad og Nærsnes",59.761757,10.468904
+842641,"Skjellsandveien 30, Slemmestad og Nærsnes",59.761703,10.468955
+842646,"Skjellsandveien 9, Slemmestad og Nærsnes",59.761597,10.469592
+842647,"Skjellsandveien 19, Slemmestad og Nærsnes",59.761651,10.469541
+842648,"Skjellsandveien 17, Slemmestad og Nærsnes",59.761563,10.469359
+842649,"Skjellsandveien 11, Slemmestad og Nærsnes",59.761518,10.46941
+842681,"Skauveien 6, Slemmestad og Nærsnes",59.756,10.463276
+842687,"Skjellsandveien 40, Slemmestad og Nærsnes",59.761897,10.469284
+842688,"Skjellsandveien 38, Slemmestad og Nærsnes",59.761842,10.469353
+842797,"Aukeveien 136, Slemmestad og Nærsnes",59.751065,10.465303
+842834,"Aukeveien 132, Slemmestad og Nærsnes",59.751487,10.465268
+842924,"Skauveien 4, Slemmestad og Nærsnes",59.755841,10.463055
+842935,"Eikeleina 137, Slemmestad og Nærsnes",59.759025,10.469853
+842936,"Eikeleina 141, Slemmestad og Nærsnes",59.759184,10.470109
+842937,"Eikeleina 139, Slemmestad og Nærsnes",59.759113,10.470034
+842938,"Eikeleina 143, Slemmestad og Nærsnes",59.759272,10.470308
+842939,"Eikeleina 145, Slemmestad og Nærsnes",59.759342,10.470401
+842940,"Bøveien 41, Slemmestad og Nærsnes",59.75992,10.462059
+842948,"Eikeleina 131, Slemmestad og Nærsnes",59.758796,10.469469
+842949,"Eikeleina 133, Slemmestad og Nærsnes",59.758867,10.469561
+842950,"Eikeleina 135, Slemmestad og Nærsnes",59.758982,10.46969
+842963,"Eikestubben 1, Slemmestad og Nærsnes",59.759963,10.4679
+842964,"Eikestubben 3, Slemmestad og Nærsnes",59.75992,10.467773
+842965,"Eikestubben 5, Slemmestad og Nærsnes",59.759795,10.467679
+842966,"Eikestubben 7, Slemmestad og Nærsnes",59.759751,10.467606
+843029,"Kvernveien 4, Slemmestad og Nærsnes",59.761376,10.459577
+843032,"Skjellsandveien 20, Slemmestad og Nærsnes",59.760936,10.468441
+843039,"Skauveien 9, Slemmestad og Nærsnes",59.756289,10.463912
+843085,"Aukeveien 79B, Slemmestad og Nærsnes",59.755747,10.46104
+843086,"Aukeveien 79C, Slemmestad og Nærsnes",59.755709,10.460415
+843094,"Bøveien 48, Slemmestad og Nærsnes",59.765836,10.460679
+843106,"Skauveien 8, Slemmestad og Nærsnes",59.756376,10.463364
+843126,"Bergliveien 22C, Slemmestad og Nærsnes",59.763227,10.465733
+843138,"Bjørneroa 3, Slemmestad og Nærsnes",59.766812,10.461755
+843139,"Bjørneroa 5, Slemmestad og Nærsnes",59.76704,10.462245
+843145,"Eikeleina 23, Slemmestad og Nærsnes",59.760532,10.470809
+843146,"Eikeleina 33, Slemmestad og Nærsnes",59.760552,10.470685
+843147,"Eikeleina 25, Slemmestad og Nærsnes",59.760382,10.470571
+843148,"Eikeleina 31, Slemmestad og Nærsnes",59.760428,10.470484
+843157,"Eikeleina 41, Slemmestad og Nærsnes",59.760523,10.470043
+843158,"Eikeleina 47, Slemmestad og Nærsnes",59.760092,10.469223
+843159,"Eikeleina 49, Slemmestad og Nærsnes",59.760085,10.469062
+843160,"Eikeleina 51, Slemmestad og Nærsnes",59.760014,10.468952
+843161,"Eikeleina 53, Slemmestad og Nærsnes",59.759933,10.468967
+843162,"Eikeleina 55, Slemmestad og Nærsnes",59.759909,10.468716
+843163,"Eikeleina 57, Slemmestad og Nærsnes",59.759828,10.468713
+843164,"Eikeleina 59, Slemmestad og Nærsnes",59.759803,10.468534
+843165,"Eikeleina 27, Slemmestad og Nærsnes",59.760242,10.470298
+843166,"Eikeleina 29, Slemmestad og Nærsnes",59.76027,10.470192
+843167,"Aukeveien 116B, Slemmestad og Nærsnes",59.75339,10.465169
+843168,"Eikeleina 85, Slemmestad og Nærsnes",59.760067,10.469845
+843169,"Eikeleina 87, Slemmestad og Nærsnes",59.760022,10.469879
+843170,"Eikeleina 35, Slemmestad og Nærsnes",59.760743,10.470462
+843171,"Eikeleina 37, Slemmestad og Nærsnes",59.760673,10.470317
+843172,"Eikeleina 39, Slemmestad og Nærsnes",59.760593,10.470171
+843187,"Bakkeveien 11A, Slemmestad og Nærsnes",59.759971,10.45996
+843188,"Bakkeveien 11B, Slemmestad og Nærsnes",59.760032,10.460088
+843194,"Bjørneroa 4, Slemmestad og Nærsnes",59.766093,10.461029
+843195,"Bergliveien 20B, Slemmestad og Nærsnes",59.763591,10.466297
+843196,"Bergliveien 22A, Slemmestad og Nærsnes",59.763385,10.465913
+843197,"Bergliveien 22B, Slemmestad og Nærsnes",59.763231,10.46562
+843198,"Bergliveien 24A, Slemmestad og Nærsnes",59.763405,10.465256
+843199,"Bergliveien 24B, Slemmestad og Nærsnes",59.763546,10.465511
+843200,"Bergliveien 26A, Slemmestad og Nærsnes",59.763749,10.465841
+843201,"Bergliveien 26B, Slemmestad og Nærsnes",59.763944,10.466098
+843202,"Bergliveien 28, Slemmestad og Nærsnes",59.764058,10.466353
+843211,"Bjørneroa 17, Slemmestad og Nærsnes",59.766313,10.459774
+843219,"Eikeleina 38, Slemmestad og Nærsnes",59.759941,10.471477
+843220,"Eikeleina 40, Slemmestad og Nærsnes",59.759765,10.471167
+843221,"Eikeleina 42, Slemmestad og Nærsnes",59.759694,10.471075
+843222,"Eikeleina 24, Slemmestad og Nærsnes",59.759756,10.470348
+843223,"Eikeleina 26, Slemmestad og Nærsnes",59.759809,10.470439
+843224,"Eikeleina 28, Slemmestad og Nærsnes",59.759959,10.470712
+843225,"Eikeleina 30, Slemmestad og Nærsnes",59.760029,10.470822
+843226,"Eikeleina 32, Slemmestad og Nærsnes",59.760144,10.471005
+843234,"Eikeleina 36, Slemmestad og Nærsnes",59.760003,10.471569
+843237,"Børønningen 16A, Slemmestad og Nærsnes",59.757369,10.466131
+843238,"Bjørneroa 15, Slemmestad og Nærsnes",59.766541,10.459482
+843242,"Bergliveien 20A, Slemmestad og Nærsnes",59.763794,10.466661
+843243,"Eikeleina 34, Slemmestad og Nærsnes",59.760205,10.471151
+843303,"Eikeleina 97, Slemmestad og Nærsnes",59.759546,10.469021
+843305,"Eikeleina 105, Slemmestad og Nærsnes",59.759563,10.469965
+843307,"Eikeleina 107, Slemmestad og Nærsnes",59.759465,10.469854
+843309,"Eikeleina 103, Slemmestad og Nærsnes",59.759414,10.469585
+843311,"Eikeleina 109, Slemmestad og Nærsnes",59.759386,10.46969
+843313,"Eikeleina 101, Slemmestad og Nærsnes",59.759265,10.469276
+843315,"Eikeleina 111, Slemmestad og Nærsnes",59.759228,10.469363
+843317,"Eikeleina 113, Slemmestad og Nærsnes",59.759052,10.469088
+843319,"Eikeleina 61, Slemmestad og Nærsnes",59.759741,10.468513
+843320,"Eikeleina 63, Slemmestad og Nærsnes",59.759644,10.468313
+843321,"Eikeleina 65, Slemmestad og Nærsnes",59.759581,10.46831
+843322,"Eikeleina 83, Slemmestad og Nærsnes",59.759953,10.469591
+843324,"Eikeleina 89, Slemmestad og Nærsnes",59.759917,10.469642
+843326,"Eikeleina 91, Slemmestad og Nærsnes",59.759784,10.469459
+843328,"Eikeleina 93, Slemmestad og Nærsnes",59.759713,10.469367
+843330,"Eikeleina 95, Slemmestad og Nærsnes",59.759635,10.469132
+843347,"Eikeleina 115, Slemmestad og Nærsnes",59.758999,10.468997
+843429,"Skredeveien 4, Slemmestad og Nærsnes",59.756033,10.466375
+843440,"Slemmestadveien 713, Slemmestad og Nærsnes",59.757012,10.451358
+843458,"Skredeveien 1A, Slemmestad og Nærsnes",59.754704,10.463557
+843459,"Skredeveien 1B, Slemmestad og Nærsnes",59.754745,10.463862
+843558,"Eikeleinstien 14, Slemmestad og Nærsnes",59.759837,10.46631
+843560,"Eikeleinstien 16, Slemmestad og Nærsnes",59.759647,10.466091
+843562,"Eikeleinstien 20, Slemmestad og Nærsnes",59.760266,10.465934
+843564,"Eikeleinstien 22, Slemmestad og Nærsnes",59.760321,10.465864
+843566,"Eikeleinstien 24, Slemmestad og Nærsnes",59.760428,10.465695
+843568,"Eikeleinstien 26, Slemmestad og Nærsnes",59.76049,10.465716
+843570,"Eikeleinstien 28, Slemmestad og Nærsnes",59.760614,10.465935
+843572,"Eikeleinstien 30, Slemmestad og Nærsnes",59.760533,10.465949
+843574,"Hagenåsen 6, Slemmestad og Nærsnes",59.7604,10.466563
+843576,"Hagenåsen 8, Slemmestad og Nærsnes",59.760589,10.466645
+843578,"Eikeleinstien 2, Slemmestad og Nærsnes",59.760703,10.466775
+843580,"Eikeleinstien 4, Slemmestad og Nærsnes",59.760713,10.466654
+843582,"Eikeleinstien 6, Slemmestad og Nærsnes",59.760589,10.466521
+843584,"Eikeleinstien 8, Slemmestad og Nærsnes",59.760374,10.466476
+843586,"Eikeleinstien 10, Slemmestad og Nærsnes",59.760177,10.466449
+843588,"Eikeleinstien 12, Slemmestad og Nærsnes",59.759998,10.466406
+843637,"Bakkeveien 5A, Slemmestad og Nærsnes",59.759832,10.46031
+843638,"Kvernveien 6, Slemmestad og Nærsnes",59.761467,10.460239
+843639,"Bakkeveien 5B, Slemmestad og Nærsnes",59.759764,10.459951
+843641,"Bakkeveien 7A, Slemmestad og Nærsnes",59.759714,10.459593
+843643,"Bakkeveien 7B, Slemmestad og Nærsnes",59.759655,10.459252
+843645,"Slemmestadveien 699, Slemmestad og Nærsnes",59.759943,10.460814
+843647,"Eikeleina 2B, Slemmestad og Nærsnes",59.759796,10.466372
+843649,"Hagenåsen 2, Slemmestad og Nærsnes",59.759963,10.466493
+843651,"Hagenåsen 4, Slemmestad og Nærsnes",59.760145,10.466526
+843667,"Aukeveien 69B, Slemmestad og Nærsnes",59.756672,10.461045
+843789,"Aukeveien 81B, Slemmestad og Nærsnes",59.755367,10.460436
+843823,"Dalbøveien 16A, Slemmestad og Nærsnes",59.759885,10.463606
+843824,"Dalbøveien 16B, Slemmestad og Nærsnes",59.759824,10.463497
+843832,"Aukeveien 131, Slemmestad og Nærsnes",59.750916,10.463356
+843845,"Slemmestadveien 701, Slemmestad og Nærsnes",59.759754,10.460912
+843846,"Eikeleinstien 90, Slemmestad og Nærsnes",59.762078,10.468331
+843847,"Aukeveien 140, Slemmestad og Nærsnes",59.750717,10.465092
+843862,"Aukeveien 85, Slemmestad og Nærsnes",59.755464,10.461455
+843870,"Eikeleinstien 42, Slemmestad og Nærsnes",59.761794,10.467215
+843871,"Eikeleinstien 44, Slemmestad og Nærsnes",59.761644,10.466977
+843872,"Eikeleinstien 46, Slemmestad og Nærsnes",59.761679,10.467067
+843873,"Eikeleinstien 48, Slemmestad og Nærsnes",59.761731,10.467194
+843874,"Eikeleinstien 50, Slemmestad og Nærsnes",59.761775,10.467285
+843875,"Eikeleinstien 52, Slemmestad og Nærsnes",59.761927,10.467381
+843876,"Eikeleinstien 54, Slemmestad og Nærsnes",59.76197,10.467489
+843877,"Eikeleinstien 56, Slemmestad og Nærsnes",59.762023,10.467634
+843882,"Eikeleinstien 38, Slemmestad og Nærsnes",59.761689,10.466925
+843883,"Eikeleinstien 40, Slemmestad og Nærsnes",59.761742,10.46707
+843884,"Eikeleinstien 74, Slemmestad og Nærsnes",59.762098,10.4681
+843885,"Eikeleinstien 76, Slemmestad og Nærsnes",59.762142,10.468245
+843886,"Eikeleinstien 78, Slemmestad og Nærsnes",59.762028,10.468008
+843887,"Eikeleinstien 80, Slemmestad og Nærsnes",59.762062,10.468152
+843889,"Eikeleinstien 82, Slemmestad og Nærsnes",59.762105,10.468279
+843890,"Eikeleinstien 84, Slemmestad og Nærsnes",59.761991,10.468042
+843891,"Eikeleinstien 86, Slemmestad og Nærsnes",59.762017,10.468132
+843892,"Eikeleinstien 88, Slemmestad og Nærsnes",59.762052,10.468223
+843893,"Eikeleinstien 58, Slemmestad og Nærsnes",59.76189,10.46745
+843894,"Eikeleinstien 60, Slemmestad og Nærsnes",59.761934,10.467559
+843895,"Eikeleinstien 62, Slemmestad og Nærsnes",59.761986,10.467686
+843896,"Eikeleinstien 64, Slemmestad og Nærsnes",59.761845,10.467466
+843897,"Eikeleinstien 66, Slemmestad og Nærsnes",59.761889,10.467557
+843898,"Eikeleinstien 68, Slemmestad og Nærsnes",59.761933,10.467666
+843899,"Eikeleinstien 70, Slemmestad og Nærsnes",59.761967,10.467756
+843900,"Eikeleinstien 72, Slemmestad og Nærsnes",59.762064,10.467956
+843901,"Eikestubben 10, Slemmestad og Nærsnes",59.758589,10.467875
+843902,"Eikeleina 119, Slemmestad og Nærsnes",59.758699,10.468485
+843903,"Eikeleina 121, Slemmestad og Nærsnes",59.758458,10.468386
+843904,"Eikestubben 16, Slemmestad og Nærsnes",59.758269,10.469214
+843914,"Eikestubben 2, Slemmestad og Nærsnes",59.759549,10.467953
+843915,"Eikestubben 4, Slemmestad og Nærsnes",59.759297,10.468049
+843916,"Eikestubben 6, Slemmestad og Nærsnes",59.75899,10.468142
+843971,"Eikeleina 129, Slemmestad og Nærsnes",59.758717,10.469287
+843978,"Eikeleina 67, Slemmestad og Nærsnes",59.759458,10.468109
+843988,"Eikeleina 127, Slemmestad og Nærsnes",59.758646,10.469195
+843989,"Eikeleina 125, Slemmestad og Nærsnes",59.75854,10.46903
+843994,"Eikeleina 117A, Slemmestad og Nærsnes",59.758886,10.468672
+843995,"Eikeleina 117B, Slemmestad og Nærsnes",59.758931,10.468673
+844004,"Eikestubben 12B, Slemmestad og Nærsnes",59.758283,10.467915
+844005,"Eikestubben 12A, Slemmestad og Nærsnes",59.758383,10.467866
+844036,"Lagmannsåsen 9, Slemmestad og Nærsnes",59.757522,10.457237
+844057,"Aukeveien 77, Slemmestad og Nærsnes",59.75622,10.46131
+844060,"Slemmestadveien 693, Slemmestad og Nærsnes",59.75991,10.4614
+844132,"Aukeveien 125, Slemmestad og Nærsnes",59.751418,10.463414
+844133,"Aukeveien 127, Slemmestad og Nærsnes",59.751146,10.462832
+844134,"Aukeveien 129, Slemmestad og Nærsnes",59.750849,10.462908
+844144,"Eikeleina 2C, Slemmestad og Nærsnes",59.760266,10.467343
+844146,"Eikeleina 2D, Slemmestad og Nærsnes",59.76028,10.467682
+844169,"Bergliveien 20C, Slemmestad og Nærsnes",59.763547,10.466223
+844208,"Eikeleinstien 32, Slemmestad og Nærsnes",59.761717,10.466873
+844210,"Eikeleinstien 36, Slemmestad og Nærsnes",59.76183,10.467163
+844212,"Eikeleinstien 34, Slemmestad og Nærsnes",59.761778,10.467018
+844215,"Eikestubben 8A, Slemmestad og Nærsnes",59.758794,10.468027
+844217,"Eikestubben 8B, Slemmestad og Nærsnes",59.758749,10.468007
+844240,"Aukehagen 6, Slemmestad og Nærsnes",59.754836,10.462157
+844246,"Lagmannsåsen 13A, Slemmestad og Nærsnes",59.757324,10.458065
+844248,"Lagmannsåsen 13B, Slemmestad og Nærsnes",59.757035,10.45823
+844276,"Aukeveien 144, Slemmestad og Nærsnes",59.750526,10.463677
+844280,"Aukeveien 84, Slemmestad og Nærsnes",59.755618,10.462067
+844295,"Eikestubben 14, Slemmestad og Nærsnes",59.758085,10.468031
+844305,"Eikeleina 2A, Slemmestad og Nærsnes",59.759628,10.466185
+844328,"Eikestubben 19, Slemmestad og Nærsnes",59.757895,10.467346
+844330,"Eikestubben 21, Slemmestad og Nærsnes",59.757841,10.467362
+844332,"Eikestubben 23, Slemmestad og Nærsnes",59.757694,10.467622
+844334,"Eikestubben 25, Slemmestad og Nærsnes",59.757658,10.467656
+844340,"Aukestubben 5, Slemmestad og Nærsnes",59.757214,10.463115
+844342,"Aukestubben 3, Slemmestad og Nærsnes",59.757086,10.462576
+844344,"Aukestubben 1, Slemmestad og Nærsnes",59.756985,10.461895
+844367,"Aukestubben 2, Slemmestad og Nærsnes",59.757394,10.462287
+844369,"Aukestubben 4, Slemmestad og Nærsnes",59.757511,10.463093
+844407,"Eikestubben 15, Slemmestad og Nærsnes",59.758112,10.467231
+844408,"Eikestubben 17, Slemmestad og Nærsnes",59.75804,10.467228
+844418,"Eikestubben 11, Slemmestad og Nærsnes",59.758794,10.467243
+844501,"Skjellsandveien 14, Slemmestad og Nærsnes",59.760334,10.467703
+844502,"Skjellsandveien 16, Slemmestad og Nærsnes",59.760311,10.467292
+844601,"Aukeveien 47, Slemmestad og Nærsnes",59.759014,10.461183
+844602,"Aukeveien 45, Slemmestad og Nærsnes",59.759182,10.46224
+844610,"Aukeveien 100, Slemmestad og Nærsnes",59.754352,10.463684
+844627,"Eikeleina 123A, Slemmestad og Nærsnes",59.758288,10.468307
+844628,"Eikeleina 123B, Slemmestad og Nærsnes",59.758252,10.468305
+844654,"Smiebakken 2, Slemmestad og Nærsnes",59.758423,10.460249
+844655,"Smiebakken 4, Slemmestad og Nærsnes",59.758541,10.460129
+844656,"Smiebakken 6, Slemmestad og Nærsnes",59.758525,10.459933
+844657,"Smiebakken 8, Slemmestad og Nærsnes",59.758428,10.459751
+844658,"Smiebakken 5, Slemmestad og Nærsnes",59.758757,10.460886
+844659,"Smiebakken 3, Slemmestad og Nærsnes",59.758547,10.46118
+844775,"Eikestubben 13, Slemmestad og Nærsnes",59.75849,10.467123
+845031,"Moveien 10, Slemmestad og Nærsnes",59.753272,10.467945
+845202,"Aukeveien 118B, Slemmestad og Nærsnes",59.752979,10.465173
+845203,"Aukeveien 118A, Slemmestad og Nærsnes",59.753019,10.465655
+1643159,"Aukeveien 40B, Slemmestad og Nærsnes",59.757917,10.463474
+1643160,"Aukeveien 40C, Slemmestad og Nærsnes",59.75787,10.463477
+1653914,"Aukeveien 118C, Slemmestad og Nærsnes",59.753182,10.465729
+1668851,"Bergliveien 30B, Slemmestad og Nærsnes",59.762994,10.464615
+1696417,"Eikestubben 37B, Slemmestad og Nærsnes",59.75798,10.469743
+1696428,"Eikestubben 37A, Slemmestad og Nærsnes",59.758011,10.469742
+1702475,"Bakkeveien 4A, Slemmestad og Nærsnes",59.759545,10.458816
+1706261,"Eikestubben 33, Slemmestad og Nærsnes",59.757704,10.469269
+1709294,"Aukeveien 118D, Slemmestad og Nærsnes",59.753541,10.465876
+1709295,"Aukeveien 118E, Slemmestad og Nærsnes",59.753514,10.465745
+1710070,"Steinveien 1, Slemmestad og Nærsnes",59.756511,10.463119
+1713900,"Fossveien 72, Slemmestad og Nærsnes",59.762224,10.466852
+1713901,"Fossveien 70, Slemmestad og Nærsnes",59.762182,10.466775
+1713902,"Fossveien 76, Slemmestad og Nærsnes",59.762291,10.466813
+1713903,"Fossveien 74, Slemmestad og Nærsnes",59.762238,10.466923
+1713904,"Fossveien 68, Slemmestad og Nærsnes",59.762148,10.466751
+1713983,"Fossveien 40, Slemmestad og Nærsnes",59.761288,10.465894
+1713985,"Fossveien 32, Slemmestad og Nærsnes",59.76114,10.465961
+1713987,"Fossveien 34, Slemmestad og Nærsnes",59.761176,10.465988
+1713989,"Fossveien 36, Slemmestad og Nærsnes",59.761216,10.466015
+1713991,"Fossveien 38, Slemmestad og Nærsnes",59.761265,10.466051
+1713993,"Fossveien 24, Slemmestad og Nærsnes",59.760965,10.465789
+1713995,"Fossveien 26, Slemmestad og Nærsnes",59.761005,10.465837
+1713996,"Fossveien 28, Slemmestad og Nærsnes",59.761043,10.465691
+1713998,"Fossveien 30, Slemmestad og Nærsnes",59.761165,10.465801
+1713999,"Fossveien 22, Slemmestad og Nærsnes",59.760928,10.465745
+1714241,"Fossveien 64, Slemmestad og Nærsnes",59.761937,10.466354
+1714242,"Fossveien 62, Slemmestad og Nærsnes",59.762051,10.466442
+1714243,"Fossveien 66, Slemmestad og Nærsnes",59.762212,10.466634
+1714245,"Fossveien 56, Slemmestad og Nærsnes",59.761944,10.466506
+1714246,"Fossveien 54, Slemmestad og Nærsnes",59.761904,10.466508
+1714247,"Fossveien 60, Slemmestad og Nærsnes",59.762026,10.466598
+1714248,"Fossveien 58, Slemmestad og Nærsnes",59.761992,10.46654
+1714249,"Fossveien 48, Slemmestad og Nærsnes",59.761482,10.466177
+1714251,"Fossveien 52, Slemmestad og Nærsnes",59.761543,10.466061
+1714252,"Fossveien 50, Slemmestad og Nærsnes",59.761524,10.466203
+1714253,"Fossveien 42, Slemmestad og Nærsnes",59.761417,10.465971
+1714254,"Fossveien 44, Slemmestad og Nærsnes",59.761398,10.466126
+1714255,"Fossveien 46, Slemmestad og Nærsnes",59.761441,10.46615
+1714320,"Fossveien 16, Slemmestad og Nærsnes",59.760818,10.465366
+1714322,"Fossveien 18, Slemmestad og Nærsnes",59.760931,10.465564
+1714324,"Fossveien 20, Slemmestad og Nærsnes",59.760898,10.46571
+1714328,"Fossveien 8, Slemmestad og Nærsnes",59.760718,10.465211
+1714330,"Fossveien 10, Slemmestad og Nærsnes",59.760682,10.465351
+1714332,"Fossveien 12, Slemmestad og Nærsnes",59.760733,10.465424
+1714334,"Fossveien 14, Slemmestad og Nærsnes",59.760789,10.465494
+1733907,"Bakkeveien 9B, Slemmestad og Nærsnes",59.75986,10.459459
+1751547,"Moveien 1, Slemmestad og Nærsnes",59.752177,10.465682
+1754026,"Eikestubben 31, Slemmestad og Nærsnes",59.757567,10.468805
+1760721,"Eikestubben 29, Slemmestad og Nærsnes",59.757641,10.468385
+1782925,"Eikestubben 27, Slemmestad og Nærsnes",59.757648,10.468027
+1815320,"Aukeveien 75, Slemmestad og Nærsnes",59.756385,10.461468
+1815577,"Eikestubben 35, Slemmestad og Nærsnes",59.757911,10.469441
+1959155,"Bergliveien 22D, Slemmestad og Nærsnes",59.763006,10.46519
+1983462,"Skauveien 2B, Slemmestad og Nærsnes",59.755521,10.462504
+2011128,"Aukeveien 120B, Slemmestad og Nærsnes",59.752897,10.464755
+2044593,"Slemmestadveien 685, Slemmestad og Nærsnes",59.761503,10.463927
+2051680,"Aukeveien 124, Slemmestad og Nærsnes",59.752307,10.464779
+2107554,"Gamle skolevei 1C, Slemmestad og Nærsnes",59.762358,10.467653
+2107555,"Gamle skolevei 1B, Slemmestad og Nærsnes",59.762323,10.467557
+2114401,"Gamle skolevei 1A, Slemmestad og Nærsnes",59.762539,10.467273
+2452232,"Aukeveien 114A, Slemmestad og Nærsnes",59.753485,10.46438
+2452263,"Aukeveien 114B, Slemmestad og Nærsnes",59.753455,10.464136
+2489561,"Kvernveien 14, Slemmestad og Nærsnes",59.761623,10.461686

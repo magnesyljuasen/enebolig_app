@@ -1,0 +1,972 @@
+,Navn,Long,Lat
+46501,"Gard, 26/124, Skåre",59.434855,5.302976
+46502,"Gard, 26/119, Skåre",59.437448,5.315858
+383319,"Jåblomvegen 56, Skåre",59.435633,5.284485
+383322,"Jåblomvegen 35, Skåre",59.435908,5.284367
+383323,"Jåblomvegen 33, Skåre",59.436061,5.284068
+383324,"Jåblomvegen 42, Skåre",59.435532,5.282838
+383325,"Jåblomvegen 36, Skåre",59.435743,5.28172
+383334,"Jåblomvegen 22, Skåre",59.436432,5.281009
+383335,"Jåblomvegen 21, Skåre",59.435804,5.283866
+383336,"Jåblomvegen 24, Skåre",59.436477,5.281322
+383337,"Jåblomvegen 23, Skåre",59.435922,5.283606
+383338,"Jåblomvegen 18, Skåre",59.436859,5.281456
+383339,"Jåblomvegen 17, Skåre",59.43577,5.283005
+383340,"Jåblomvegen 20, Skåre",59.43669,5.28091
+383341,"Jåblomvegen 19, Skåre",59.435756,5.283448
+383342,"Jåblomvegen 30, Skåre",59.436185,5.281795
+383343,"Jåblomvegen 29, Skåre",59.436239,5.28336
+383344,"Jåblomvegen 32, Skåre",59.436302,5.281482
+383345,"Jåblomvegen 31, Skåre",59.436132,5.283724
+383346,"Jåblomvegen 26, Skåre",59.436569,5.2817
+383347,"Jåblomvegen 25, Skåre",59.435981,5.283141
+383348,"Jåblomvegen 28, Skåre",59.436388,5.281967
+383349,"Jåblomvegen 27, Skåre",59.436041,5.282729
+383350,"Jåblomvegen 5, Skåre",59.436449,5.283478
+383351,"Jåblomvegen 3, Skåre",59.436351,5.283842
+383352,"Jåblomvegen 8, Skåre",59.436574,5.282511
+383353,"Jåblomvegen 7, Skåre",59.436489,5.282997
+383359,"Jåblomvegen 14, Skåre",59.436975,5.282379
+383360,"Jåblomvegen 13, Skåre",59.435901,5.282215
+383361,"Jåblomvegen 16, Skåre",59.436901,5.281981
+383362,"Jåblomvegen 15, Skåre",59.435848,5.282591
+383363,"Jåblomvegen 10, Skåre",59.436691,5.282198
+383364,"Jåblomvegen 9, Skåre",59.43632,5.282733
+383365,"Jåblomvegen 12, Skåre",59.436829,5.282624
+383366,"Jåblomvegen 11, Skåre",59.436122,5.28242
+383571,"Tord Folesons veg 8, Skåre",59.42454,5.266244
+383572,"Tord Folesons veg 10, Skåre",59.424512,5.265894
+383574,"Tord Folesons veg 6, Skåre",59.424559,5.266595
+383575,"Tord Folesons veg 12, Skåre",59.424465,5.265494
+383588,"Karmsundgata 311, Skåre",59.424033,5.265789
+383589,"Karmsundgata 313, Skåre",59.424228,5.265696
+383590,"Karmsundgata 297, Skåre",59.422571,5.267149
+383978,"Kattanakkvegen 148, Skåre",59.438082,5.312824
+383979,"Kattanakkvegen 134, Skåre",59.436111,5.312438
+383991,"Kattanakkvegen 50, Skåre",59.434024,5.29082
+383992,"Kattanakkvegen 48, Skåre",59.433979,5.290172
+383993,"Kattanakkvegen 53, Skåre",59.433665,5.29273
+383994,"Kattanakkvegen 52, Skåre",59.433811,5.290914
+383995,"Kattanakkvegen 44, Skåre",59.433713,5.290007
+383996,"Kattanakkvegen 43, Skåre",59.43342,5.289492
+383997,"Kattanakkvegen 46, Skåre",59.433751,5.290374
+383998,"Kattanakkvegen 45, Skåre",59.43328,5.289931
+383999,"Kattanakkvegen 124, Skåre",59.436565,5.310042
+384000,"Kattanakkvegen 120B, Skåre",59.436983,5.310226
+384001,"Kattanakkvegen 132, Skåre",59.436216,5.312004
+384002,"Kattanakkvegen 128, Skåre",59.436518,5.310929
+384003,"Kattanakkvegen 101, Skåre",59.435562,5.30574
+384004,"Kattanakkvegen 93, Skåre",59.435376,5.302036
+384005,"Kattanakkvegen 118B, Skåre",59.437132,5.309433
+384006,"Kattanakkvegen 118, Skåre",59.436958,5.308376
+384007,"Kattanakkvegen 25B, Skåre",59.433143,5.285747
+384008,"Kattanakkvegen 25, Skåre",59.433348,5.285689
+384009,"Kattanakkvegen 26, Skåre",59.434019,5.285262
+384010,"Kattanakkvegen 25C, Skåre",59.432942,5.285963
+384011,"Kattanakkvegen 23B, Skåre",59.432644,5.285607
+384012,"Kattanakkvegen 23, Skåre",59.432963,5.285431
+384013,"Kattanakkvegen 24, Skåre",59.433453,5.284954
+384014,"Kattanakkvegen 23C, Skåre",59.432722,5.286128
+384015,"Kattanakkvegen 37, Skåre",59.433677,5.288106
+384016,"Kattanakkvegen 35, Skåre",59.433791,5.28767
+384017,"Kattanakkvegen 41, Skåre",59.433446,5.289137
+384018,"Kattanakkvegen 39, Skåre",59.433635,5.288516
+384019,"Kattanakkvegen 26B, Skåre",59.433603,5.284567
+384020,"Kattanakkvegen 26A, Skåre",59.433729,5.285506
+384021,"Kattanakkvegen 31, Skåre",59.433658,5.286784
+384022,"Kattanakkvegen 29, Skåre",59.433592,5.286386
+384023,"Kattanakkvegen 15B, Skåre",59.432107,5.284113
+384024,"Kattanakkvegen 15, Skåre",59.432389,5.283906
+384025,"Kattanakkvegen 18, Skåre",59.432836,5.283822
+384026,"Kattanakkvegen 16, Skåre",59.432633,5.283632
+384027,"Kattanakkvegen 12, Skåre",59.431984,5.282945
+384028,"Kattanakkvegen 11, Skåre",59.431771,5.283656
+384029,"Kattanakkvegen 14, Skåre",59.432427,5.283337
+384030,"Kattanakkvegen 13, Skåre",59.431972,5.283775
+384031,"Kattanakkvegen 20B, Skåre",59.433323,5.284174
+384032,"Kattanakkvegen 20, Skåre",59.433031,5.284347
+384033,"Kattanakkvegen 22, Skåre",59.433274,5.284674
+384034,"Kattanakkvegen 20C, Skåre",59.433597,5.284038
+384036,"Kattanakkvegen 18C, Skåre",59.433344,5.28366
+384037,"Kattanakkvegen 18B, Skåre",59.433064,5.28362
+384038,"Kattanakkvegen 19, Skåre",59.432625,5.284604
+384039,"Kattanakkvegen 18D, Skåre",59.433579,5.283405
+384040,"Kattanakkstølen 16, Skåre",59.43767,5.310345
+384041,"Kattanakkstølen 9, Skåre",59.437281,5.311517
+384042,"Kattanakkstølen 24, Skåre",59.438229,5.308166
+384043,"Kattanakkstølen 20, Skåre",59.438191,5.310023
+384046,"Kattanakkstølen 6, Skåre",59.43683,5.31146
+384047,"Kattanakkvegen 5, Skåre",59.431008,5.28307
+384048,"Kattanakkvegen 3, Skåre",59.430773,5.282707
+384049,"Kattanakkvegen 9, Skåre",59.431532,5.283471
+384050,"Kattanakkvegen 7, Skåre",59.431275,5.283287
+384051,"Kattanakkstølen 28, Skåre",59.438563,5.309506
+384052,"Kattanakkstølen 26, Skåre",59.438559,5.30873
+384053,"Kattanakkvegen 1, Skåre",59.430577,5.282464
+384848,"Nauthaug 38, Skåre",59.433889,5.289564
+384849,"Nauthaug 36, Skåre",59.434145,5.289713
+384852,"Nauthaug 28, Skåre",59.434651,5.288828
+384853,"Nauthaug 26, Skåre",59.434707,5.288275
+384854,"Nauthaug 32, Skåre",59.434445,5.289186
+384855,"Nauthaug 30, Skåre",59.434437,5.288905
+384863,"Nauthaug 11, Skåre",59.435113,5.289289
+384864,"Nauthaug 10, Skåre",59.435016,5.288735
+384865,"Nauthaug 13, Skåre",59.435249,5.28901
+384866,"Nauthaug 12, Skåre",59.435234,5.288499
+384867,"Nauthaug 7, Skåre",59.434802,5.290029
+384868,"Nauthaug 6, Skåre",59.43459,5.289558
+384869,"Nauthaug 9, Skåre",59.434973,5.289728
+384870,"Nauthaug 8, Skåre",59.43482,5.28911
+384871,"Nauthaug 20, Skåre",59.434613,5.287809
+384872,"Nauthaug 18, Skåre",59.434862,5.287729
+384873,"Nauthaug 24, Skåre",59.434428,5.28827
+384874,"Nauthaug 22, Skåre",59.43439,5.287886
+384875,"Nauthaug 15, Skåre",59.43547,5.288862
+384876,"Nauthaug 14, Skåre",59.435424,5.288196
+384877,"Nauthaug 17, Skåre",59.435615,5.288599
+384878,"Nauthaug 16, Skåre",59.435058,5.287989
+384887,"Nauthaug 3, Skåre",59.434437,5.290475
+384888,"Nauthaug 1, Skåre",59.434214,5.290552
+384889,"Nauthaug 5, Skåre",59.434638,5.290294
+384890,"Nauthaug 4, Skåre",59.434402,5.289879
+384899,"Myrullvegen 35, Skåre",59.435158,5.285808
+384900,"Myrullvegen 33, Skåre",59.435329,5.285489
+384902,"Myrullvegen 37, Skåre",59.435066,5.286047
+384911,"Myrullvegen 22, Skåre",59.436363,5.284882
+384912,"Myrullvegen 21, Skåre",59.436195,5.284353
+384913,"Myrullvegen 24, Skåre",59.436197,5.285041
+384914,"Myrullvegen 23, Skåre",59.436014,5.284637
+384915,"Myrullvegen 16, Skåre",59.436935,5.285401
+384916,"Myrullvegen 14, Skåre",59.437033,5.28569
+384917,"Myrullvegen 20, Skåre",59.436571,5.284612
+384918,"Myrullvegen 18, Skåre",59.436717,5.284984
+384919,"Myrullvegen 30, Skåre",59.435537,5.285872
+384920,"Myrullvegen 29, Skåre",59.435433,5.284719
+384921,"Myrullvegen 32, Skåre",59.435332,5.286248
+384922,"Myrullvegen 31, Skåre",59.435204,5.285203
+384923,"Myrullvegen 26, Skåre",59.436,5.285398
+384924,"Myrullvegen 25, Skåre",59.435726,5.284916
+384925,"Myrullvegen 28, Skåre",59.435775,5.285705
+384926,"Myrullvegen 27, Skåre",59.435601,5.285265
+384935,"Myrullvegen 6, Skåre",59.437113,5.286599
+384936,"Myrullvegen 5, Skåre",59.437218,5.284911
+384937,"Myrullvegen 12, Skåre",59.436889,5.285989
+384938,"Myrullvegen 10, Skåre",59.436707,5.286238
+384941,"Myrullvegen 4, Skåre",59.437201,5.286201
+384942,"Myrullvegen 3, Skåre",59.437549,5.284222
+384944,"Hanne Kroghs veg 4, Skåre",59.425728,5.273188
+384947,"Mjåsundvegen 23, Skåre",59.42513,5.271154
+384948,"Mjåsundvegen 22, Skåre",59.42572,5.271671
+384949,"Hanne Kroghs veg 2, Skåre",59.425694,5.272627
+384950,"Mjåsundvegen 24, Skåre",59.425744,5.27218
+384959,"Mjåsundvegen 11B, Skåre",59.425181,5.26822
+384960,"Mjåsundvegen 11, Skåre",59.425427,5.268316
+384961,"Mjåsundvegen 13, Skåre",59.425392,5.268691
+384962,"Mjåsundvegen 12, Skåre",59.425651,5.268927
+384963,"Mjåsundvegen 8, Skåre",59.425746,5.26784
+384964,"Mjåsundvegen 7, Skåre",59.425464,5.26743
+384965,"Mjåsundvegen 10, Skåre",59.425745,5.268458
+384966,"Mjåsundvegen 9, Skåre",59.425448,5.267802
+384967,"Mjåsundvegen 18, Skåre",59.425675,5.270406
+384968,"Mjåsundvegen 16, Skåre",59.425664,5.270002
+384969,"Mjåsundvegen 20, Skåre",59.425674,5.271006
+384970,"Mjåsundvegen 18B, Skåre",59.426009,5.270122
+384971,"Mjåsundvegen 14, Skåre",59.425702,5.26945
+384972,"Mjåsundvegen 13B, Skåre",59.425149,5.268665
+384973,"Mjåsundvegen 15, Skåre",59.425286,5.269038
+384974,"Mjåsundvegen 14B, Skåre",59.426015,5.269398
+384983,"Mjåsundvegen 4, Skåre",59.425771,5.266849
+384984,"Mjåsundvegen 3, Skåre",59.425495,5.266615
+384985,"Mjåsundvegen 6, Skåre",59.425779,5.267448
+384986,"Mjåsundvegen 5, Skåre",59.425426,5.267029
+385260,"Nordre Stemhaug 6, Skåre",59.431079,5.282427
+385261,"Nordre Stemhaug 5, Skåre",59.432203,5.282109
+385262,"Nordre Stemhaug 12, Skåre",59.43168,5.282061
+385263,"Nordre Stemhaug 11, Skåre",59.432417,5.28078
+385264,"Nordre Stemhaug 2, Skåre",59.431603,5.28251
+385266,"Nordre Stemhaug 4, Skåre",59.431334,5.282522
+385267,"Nordre Stemhaug 3, Skåre",59.431949,5.282331
+385269,"Nordre Stemhaug 20, Skåre",59.431965,5.280388
+385272,"Nordre Stemhaug 15, Skåre",59.432196,5.279975
+385273,"Nordre Stemhaug 14, Skåre",59.431971,5.281552
+385274,"Nordre Stemhaug 18, Skåre",59.432014,5.280842
+385275,"Nordre Stemhaug 16, Skåre",59.432088,5.281222
+385417,"Ramsvollsvegen 34, Skåre",59.42868,5.289094
+385418,"Ramsvollsvegen 13, Skåre",59.429489,5.284665
+385421,"Ramsvollsvegen 7, Skåre",59.42976,5.283771
+385422,"Ramsvollsvegen 6, Skåre",59.429746,5.285149
+385423,"Ramsvollsvegen 12, Skåre",59.429607,5.285341
+385424,"Ramsvollsvegen 11, Skåre",59.429617,5.284422
+385441,"Ramsvollsvegen 2, Skåre",59.430301,5.285723
+385442,"Ramsvollsvegen 1, Skåre",59.430129,5.285036
+385443,"Ramsvollsvegen 5, Skåre",59.429961,5.28449
+385444,"Ramsvollsvegen 4, Skåre",59.429887,5.28568
+385591,"Rogalandgata 215, Skåre",59.424562,5.267635
+385592,"Rogalandgata 213, Skåre",59.424395,5.268077
+385593,"Tord Folesons veg 4, Skåre",59.424667,5.266901
+385594,"Rogalandgata 216, Skåre",59.424386,5.267143
+385595,"Rogalandgata 206, Skåre",59.423498,5.268776
+385596,"Rogalandgata 205, Skåre",59.423641,5.269378
+385597,"Rogalandgata 208, Skåre",59.423668,5.26844
+385598,"Rogalandgata 207, Skåre",59.424008,5.268684
+385618,"Rogalandgata 204, Skåre",59.423408,5.269068
+385623,"Rogalandgata 197, Skåre",59.422973,5.271162
+386132,"Sivblomvegen 9, Skåre",59.435921,5.286077
+386133,"Sivblomvegen 8, Skåre",59.436303,5.286247
+386134,"Sivblomvegen 14, Skåre",59.436491,5.286844
+386135,"Sivblomvegen 11, Skåre",59.435756,5.286307
+386136,"Sivblomvegen 5, Skåre",59.436318,5.285504
+386137,"Sivblomvegen 4, Skåre",59.43671,5.285691
+386138,"Sivblomvegen 7, Skåre",59.436155,5.285769
+386139,"Sivblomvegen 6, Skåre",59.4365,5.285908
+386140,"Sivblomvegen 23, Skåre",59.436467,5.287588
+386141,"Sivblomvegen 21, Skåre",59.436269,5.287257
+386144,"Sivblomvegen 15, Skåre",59.43579,5.28685
+386145,"Sivblomvegen 13, Skåre",59.435556,5.286523
+386146,"Sivblomvegen 19, Skåre",59.436151,5.286917
+386147,"Sivblomvegen 17, Skåre",59.435999,5.286616
+386152,"Sigvat Skalds veg 10, Skåre",59.42631,5.274041
+386153,"Sigvat Skalds veg 8C, Skåre",59.426703,5.273662
+386155,"Sigvat Skalds veg 10B, Skåre",59.426583,5.27417
+386158,"Sivblomvegen 3, Skåre",59.436553,5.285231
+386172,"Sigvat Skalds veg 6, Skåre",59.426298,5.272701
+386173,"Sigvat Skalds veg 5, Skåre",59.426028,5.272696
+386174,"Sigvat Skalds veg 8, Skåre",59.426319,5.27344
+386175,"Sigvat Skalds veg 7, Skåre",59.426018,5.273262
+386176,"Sigvat Skalds veg 2, Skåre",59.426301,5.271537
+386178,"Sigvat Skalds veg 4, Skåre",59.4263,5.272137
+386179,"Sigvat Skalds veg 3, Skåre",59.426004,5.272169
+386497,"Skillebekkgata 30, Skåre",59.422532,5.267683
+386529,"Skeisvollsvegen 34, Skåre",59.428644,5.270502
+386530,"Skeisvollsvegen 31, Skåre",59.428297,5.271246
+386531,"Øivind Skaldaspillers veg 2B, Skåre",59.428978,5.273377
+386532,"Skeisvollsvegen 36, Skåre",59.428806,5.270952
+386533,"Skeisvollsvegen 25, Skåre",59.427925,5.270176
+386534,"Skeisvollsvegen 24, Skåre",59.428102,5.269151
+386535,"Skeisvollsvegen 29, Skåre",59.428217,5.270955
+386536,"Skeisvollsvegen 27, Skåre",59.428092,5.270687
+386538,"Skeisvollsmarka 16, Skåre",59.430972,5.279615
+386541,"Skeisvollsvegen 50, Skåre",59.429973,5.274538
+386542,"Skeisvollsvegen 40, Skåre",59.429169,5.271239
+386543,"Skeisvollsmarka 18, Skåre",59.431282,5.278822
+386544,"Skeisvollsvegen 52, Skåre",59.43002,5.274903
+386545,"Skeisvollsvegen 2, Skåre",59.42604,5.26555
+386546,"Skeisvollsvegen 1, Skåre",59.425717,5.265903
+386547,"Skeisvollsvegen 5, Skåre",59.426231,5.266398
+386548,"Skeisvollsvegen 4, Skåre",59.426357,5.265638
+386553,"Skeisvollsvegen 19, Skåre",59.427565,5.268575
+386554,"Skeisvollsvegen 17, Skåre",59.427429,5.268237
+386555,"Skeisvollsvegen 22, Skåre",59.427973,5.268406
+386556,"Skeisvollsvegen 21, Skåre",59.427667,5.269005
+386557,"Skeisvollsvegen 14, Skåre",59.427436,5.266613
+386558,"Skeisvollsvegen 6, Skåre",59.426514,5.26548
+386559,"Skeisvollsvegen 15B, Skåre",59.427017,5.267982
+386560,"Skeisvollsvegen 15, Skåre",59.42729,5.267793
+386607,"Solblomvegen 4, Skåre",59.435343,5.284429
+386608,"Solblomvegen 3, Skåre",59.435295,5.283693
+386609,"Solblomvegen 6, Skåre",59.435168,5.284589
+386610,"Solblomvegen 5, Skåre",59.435107,5.284031
+386613,"Solblomvegen 2, Skåre",59.435487,5.284095
+386614,"Solblomvegen 1, Skåre",59.435481,5.283267
+386842,"Stiklestadgata 10, Skåre",59.424776,5.268512
+386843,"Stiklestadgata 9, Skåre",59.424497,5.268507
+386844,"Stiklestadgata 15, Skåre",59.425061,5.26998
+386845,"Stiklestadgata 12, Skåre",59.424879,5.268959
+386848,"Stemhaugstubben 4, Skåre",59.432545,5.279919
+386849,"Stemhaugstubben 3, Skåre",59.432643,5.280508
+386850,"Stemhaugstubben 6, Skåre",59.432773,5.279735
+386851,"Stemhaugstubben 5, Skåre",59.432845,5.280345
+386852,"Stemhaugmarka 51, Skåre",59.431543,5.280082
+386853,"Stemhaugmarka 49, Skåre",59.431781,5.279914
+386854,"Stemhaugmarka 55, Skåre",59.431178,5.280528
+386855,"Stemhaugmarka 53, Skåre",59.431381,5.280382
+386856,"Stiklestadgata 4, Skåre",59.424291,5.266325
+386857,"Stemhaugstubben 13, Skåre",59.433716,5.279367
+386858,"Stiklestadgata 8, Skåre",59.424636,5.268015
+386859,"Stiklestadgata 6, Skåre",59.424324,5.26685
+386860,"Stemhaugstubben 8, Skåre",59.432955,5.279468
+386861,"Stemhaugstubben 7, Skåre",59.433042,5.280023
+386862,"Stemhaugstubben 10, Skåre",59.433209,5.279263
+386863,"Stemhaugstubben 9, Skåre",59.433261,5.279805
+386864,"Stemhaugmarka 38, Skåre",59.431778,5.281062
+386865,"Stemhaugmarka 37, Skåre",59.433007,5.278456
+386866,"Stemhaugmarka 40, Skåre",59.431627,5.281466
+386867,"Stemhaugmarka 39, Skåre",59.432757,5.278519
+386868,"Stemhaugmarka 31, Skåre",59.433616,5.278389
+386869,"Stemhaugmarka 30, Skåre",59.432437,5.279595
+386870,"Stemhaugmarka 36, Skåre",59.431658,5.280669
+386871,"Stemhaugmarka 33, Skåre",59.43333,5.278138
+386872,"Stemhaugmarka 46, Skåre",59.431389,5.280999
+386874,"Stemhaugmarka 45, Skåre",59.432193,5.279234
+386875,"Stemhaugmarka 48, Skåre",59.431165,5.281341
+386876,"Stemhaugmarka 47, Skåre",59.431996,5.279591
+386877,"Nordre Stemhaug 10, Skåre",59.431446,5.282033
+386878,"Stemhaugmarka 41, Skåre",59.432528,5.278703
+386879,"Stemhaugmarka 44, Skåre",59.431249,5.281755
+386880,"Stemhaugmarka 43, Skåre",59.432391,5.27893
+386881,"Stemhaugmarka 18, Skåre",59.43383,5.278948
+386882,"Stemhaugmarka 17, Skåre",59.434243,5.279891
+386883,"Stemhaugmarka 21, Skåre",59.434196,5.278855
+386884,"Stemhaugmarka 19, Skåre",59.434296,5.279532
+386885,"Stemhaugmarka 14, Skåre",59.43387,5.27972
+386886,"Stemhaugmarka 13, Skåre",59.433761,5.280315
+386887,"Stemhaugmarka 16, Skåre",59.434004,5.27937
+386888,"Stemhaugmarka 15, Skåre",59.433983,5.280237
+386889,"Stemhaugmarka 27, Skåre",59.434155,5.278365
+386890,"Stemhaugmarka 26, Skåre",59.432899,5.279086
+386891,"Stemhaugmarka 29, Skåre",59.433887,5.278448
+386892,"Stemhaugmarka 28, Skåre",59.432681,5.279322
+386893,"Stemhaugmarka 23, Skåre",59.434405,5.278956
+386894,"Stemhaugmarka 22, Skåre",59.433346,5.278701
+386895,"Stemhaugmarka 25, Skåre",59.434448,5.27858
+386896,"Stemhaugmarka 24, Skåre",59.433119,5.27892
+386897,"Stemhaugmarka 1, Skåre",59.43242,5.281838
+386899,"Stemhaugmarka 3, Skåre",59.432656,5.281601
+386900,"Stemhaugmarka 2, Skåre",59.432439,5.281254
+386905,"Stemhaugmarka 10, Skåre",59.433388,5.280179
+386906,"Stemhaugmarka 9, Skåre",59.433339,5.280961
+386907,"Stemhaugmarka 12, Skåre",59.433686,5.279899
+386908,"Stemhaugmarka 11, Skåre",59.433581,5.280617
+386909,"Stemhaugmarka 6, Skåre",59.432937,5.280758
+386910,"Stemhaugmarka 4, Skåre",59.432682,5.280945
+386911,"Stemhaugmarka 8, Skåre",59.433153,5.280434
+386912,"Stemhaugmarka 7, Skåre",59.433094,5.281199
+386913,"Steinsnesvegen 4, Skåre",59.430446,5.264675
+386916,"Steinsnesvegen 2B, Skåre",59.430377,5.263836
+386917,"Steinsnesvegen 2, Skåre",59.430281,5.264235
+387210,"Stormyrsosen 13, Skåre",59.427344,5.272798
+387211,"Stormyrsosen 11, Skåre",59.427557,5.272722
+387216,"Stormyrsosen 25, Skåre",59.426798,5.274764
+387217,"Stormyrsosen 23, Skåre",59.426812,5.274321
+387220,"Stormyrsosen 17, Skåre",59.427074,5.27311
+387221,"Stormyrsosen 15, Skåre",59.427133,5.272662
+387222,"Stormyrsosen 21, Skåre",59.426899,5.273923
+387223,"Stormyrsosen 19, Skåre",59.426978,5.273526
+387622,"Søre Stemhaug 7, Skåre",59.431571,5.284843
+387623,"Søre Stemhaug 1, Skåre",59.43123,5.285815
+387624,"Søre Stemhaug 5, Skåre",59.431334,5.285063
+387711,"Svoldergata 16, Skåre",59.424125,5.269307
+387712,"Svoldergata 14, Skåre",59.423901,5.269331
+387713,"Svoldergata 20, Skåre",59.424383,5.268925
+387714,"Svoldergata 17, Skåre",59.424093,5.270104
+387715,"Svoldergata 11, Skåre",59.423005,5.26913
+387716,"Svoldergata 10, Skåre",59.423277,5.268906
+387717,"Svoldergata 13B, Skåre",59.423663,5.270151
+387718,"Svoldergata 13, Skåre",59.423903,5.270037
+387723,"Svoldergata 22, Skåre",59.42457,5.268852
+387724,"Svoldergata 21, Skåre",59.424571,5.269522
+387725,"Svoldergata 23B, Skåre",59.424777,5.270117
+387726,"Svoldergata 23, Skåre",59.424746,5.269344
+387735,"Svoldergata 5, Skåre",59.422817,5.268833
+387736,"Svoldergata 4, Skåre",59.42287,5.268175
+387737,"Svoldergata 8, Skåre",59.423153,5.268699
+387738,"Svoldergata 6, Skåre",59.423021,5.268423
+387739,"Svoldergata 1, Skåre",59.42238,5.268335
+387741,"Svoldergata 3, Skåre",59.422638,5.268553
+387742,"Svoldergata 2, Skåre",59.42271,5.267928
+387775,"Tormods veg 3, Skåre",59.42799,5.27121
+387776,"Torjus Gards veg 15, Skåre",59.428594,5.265603
+387777,"Tormods veg 5, Skåre",59.427659,5.271246
+387778,"Tormods veg 3B, Skåre",59.427865,5.270906
+387779,"Torjus Gards veg 7, Skåre",59.428541,5.267197
+387780,"Torjus Gards veg 5, Skåre",59.428551,5.267549
+387781,"Torjus Gards veg 11, Skåre",59.428455,5.266395
+387782,"Torjus Gards veg 9, Skåre",59.428541,5.266879
+387787,"Tormods veg 7, Skåre",59.427409,5.271309
+387788,"Tormods veg 6, Skåre",59.427904,5.27196
+387789,"Tormods veg 10, Skåre",59.42735,5.27224
+387790,"Tormods veg 8, Skåre",59.427596,5.272188
+387800,"Torjus Gards veg 3, Skåre",59.428436,5.267914
+387805,"Tord Folesons veg 1, Skåre",59.424966,5.266356
+387860,"Tittelsnesvegen 42, Skåre",59.429776,5.263567
+387861,"Tittelsnesvegen 41, Skåre",59.429518,5.264284
+387863,"Tittelsnesvegen 43, Skåre",59.429707,5.264298
+387873,"Tittelsnesvegen 21, Skåre",59.427089,5.266087
+387875,"Tittelsnesvegen 29, Skåre",59.427957,5.265338
+387876,"Tittelsnesvegen 25, Skåre",59.427594,5.265819
+387881,"Tittelsnesvegen 37, Skåre",59.429023,5.264885
+387882,"Tittelsnesvegen 35B, Skåre",59.428759,5.265391
+387883,"Tittelsnesvegen 40, Skåre",59.42952,5.263701
+387884,"Tittelsnesvegen 39, Skåre",59.429295,5.264326
+387885,"Tittelsnesvegen 33, Skåre",59.42857,5.264776
+387886,"Tittelsnesvegen 31, Skåre",59.428295,5.264812
+387887,"Tittelsnesvegen 35, Skåre",59.428748,5.264686
+387888,"Tittelsnesvegen 34, Skåre",59.428776,5.264101
+387889,"Tittelsnesvegen 5B, Skåre",59.425503,5.266262
+387890,"Tittelsnesvegen 5, Skåre",59.425386,5.265639
+387894,"Tord Folesons veg 3, Skåre",59.425098,5.265936
+387896,"Tittelsnesvegen 3, Skåre",59.42502,5.265415
+387915,"Tord Folesons veg 5, Skåre",59.424825,5.265825
+387916,"Tittelsnesvegen 1, Skåre",59.42483,5.265383
+388028,"Sørhallet 67, Skåre",59.432227,5.288635
+388029,"Sørhallet 65, Skåre",59.432076,5.288369
+388030,"Sørhallet 69, Skåre",59.432045,5.288884
+388031,"Sørhallet 68, Skåre",59.432491,5.289083
+388033,"Sørhallet 58, Skåre",59.432596,5.288665
+388034,"Sørhallet 57, Skåre",59.432284,5.287782
+388035,"Sørhallet 63, Skåre",59.431857,5.288587
+388036,"Sørhallet 61, Skåre",59.431729,5.288196
+388041,"Sørhallet 70, Skåre",59.432289,5.289546
+388043,"Sørhallet 41, Skåre",59.432362,5.28675
+388044,"Sørhallet 40, Skåre",59.432568,5.286392
+388045,"Sørhallet 45, Skåre",59.431973,5.287287
+388046,"Sørhallet 43, Skåre",59.432145,5.287021
+388047,"Sørhallet 37, Skåre",59.432201,5.285815
+388048,"Sørhallet 36, Skåre",59.432301,5.285221
+388049,"Sørhallet 39, Skåre",59.432268,5.286284
+388050,"Sørhallet 38, Skåre",59.432443,5.285806
+388051,"Sørhallet 54, Skåre",59.432817,5.2879
+388052,"Sørhallet 53, Skåre",59.432595,5.287677
+388053,"Sørhallet 56, Skåre",59.432693,5.288284
+388054,"Sørhallet 55, Skåre",59.432419,5.28812
+388055,"Sørhallet 50, Skåre",59.432725,5.286869
+388056,"Sørhallet 49, Skåre",59.43231,5.287444
+388057,"Sørhallet 52, Skåre",59.43287,5.287241
+388058,"Sørhallet 51, Skåre",59.432493,5.28723
+388059,"Sørhallet 17, Skåre",59.431908,5.286906
+388060,"Sørhallet 15, Skåre",59.4317,5.287175
+388061,"Sørhallet 21, Skåre",59.431975,5.286104
+388062,"Sørhallet 19, Skåre",59.432077,5.286534
+388063,"Sørhallet 9, Skåre",59.431489,5.287357
+388064,"Sørhallet 7, Skåre",59.431318,5.287006
+388065,"Sørhallet 13, Skåre",59.431782,5.287519
+388066,"Sørhallet 11, Skåre",59.431602,5.287839
+388067,"Sørhallet 28, Skåre",59.431879,5.284933
+388068,"Sørhallet 27, Skåre",59.431829,5.285714
+388069,"Sørhallet 30, Skåre",59.432168,5.284654
+388070,"Sørhallet 29, Skåre",59.432038,5.285462
+388071,"Sørhallet 24, Skåre",59.431455,5.285508
+388072,"Sørhallet 23, Skåre",59.431742,5.28643
+388073,"Sørhallet 26, Skåre",59.431662,5.285221
+388074,"Sørhallet 25, Skåre",59.431657,5.285963
+388075,"Søre Stemhaug 33, Skåre",59.430665,5.283989
+388076,"Søre Stemhaug 32, Skåre",59.430636,5.284857
+388077,"Søre Stemhaug 35, Skåre",59.430547,5.283614
+388078,"Søre Stemhaug 34, Skåre",59.430508,5.284448
+388079,"Søre Stemhaug 29, Skåre",59.431008,5.284975
+388080,"Søre Stemhaug 27, Skåre",59.43116,5.284623
+388081,"Søre Stemhaug 31, Skåre",59.430898,5.284564
+388082,"Søre Stemhaug 30, Skåre",59.430781,5.285194
+388083,"Sørhallet 1, Skåre",59.431237,5.286714
+388084,"Søre Stemhaug 42, Skåre",59.43027,5.282745
+388085,"Sørhallet 5, Skåre",59.431507,5.28672
+388086,"Sørhallet 3, Skåre",59.431419,5.286448
+388087,"Søre Stemhaug 37, Skåre",59.430457,5.283289
+388088,"Søre Stemhaug 36, Skåre",59.430325,5.284027
+388089,"Søre Stemhaug 40, Skåre",59.430128,5.283113
+388090,"Søre Stemhaug 38, Skåre",59.430215,5.283651
+388091,"Søre Stemhaug 25, Skåre",59.430996,5.284235
+388092,"Søre Stemhaug 23, Skåre",59.430842,5.283864
+388093,"Søre Stemhaug 17, Skåre",59.431232,5.283998
+388094,"Søre Stemhaug 15, Skåre",59.431406,5.28442
+388095,"Søre Stemhaug 21, Skåre",59.430722,5.283454
+388096,"Søre Stemhaug 19, Skåre",59.431058,5.283558
+388097,"Søre Stemhaug 9, Skåre",59.43178,5.284626
+388098,"Søre Stemhaug 13, Skåre",59.431482,5.283953
+388099,"Søre Stemhaug 11, Skåre",59.431765,5.284098
+388176,"Trudvangvegen 19, Skåre",59.429173,5.27422
+388177,"Trudvangvegen 17, Skåre",59.428971,5.274683
+388188,"Trudvangvegen 5A, Skåre",59.429352,5.2748
+388189,"Trudvangvegen 4, Skåre",59.429889,5.275976
+388190,"Trudvangvegen 6, Skåre",59.430059,5.276593
+388191,"Trudvangvegen 5B, Skåre",59.42936,5.274146
+388192,"Trudvangvegen 1, Skåre",59.42962,5.275071
+388193,"Trudvang 46, Skåre",59.430291,5.274661
+388194,"Trudvangvegen 3, Skåre",59.429431,5.275374
+388195,"Trudvangvegen 2, Skåre",59.429761,5.275602
+388196,"Trudvangvegen 13, Skåre",59.429041,5.275875
+388197,"Trudvangvegen 11, Skåre",59.429137,5.276412
+388198,"Trudvangvegen 15, Skåre",59.428995,5.275227
+388199,"Trudvangvegen 14, Skåre",59.428738,5.275979
+388200,"Trudvangvegen 8, Skåre",59.42977,5.276554
+388201,"Trudvangvegen 7, Skåre",59.429201,5.275187
+388202,"Trudvangvegen 10, Skåre",59.429605,5.276131
+388203,"Trudvangvegen 9, Skåre",59.429303,5.275917
+388204,"Trudvang 26, Skåre",59.429925,5.272532
+388205,"Trudvang 25, Skåre",59.430102,5.273394
+388206,"Trudvang 28, Skåre",59.429898,5.272199
+388207,"Trudvang 27, Skåre",59.430137,5.273655
+388208,"Trudvang 22, Skåre",59.429638,5.272228
+388209,"Trudvang 20, Skåre",59.429491,5.272138
+388210,"Trudvang 24, Skåre",59.429933,5.272813
+388211,"Trudvang 23, Skåre",59.429963,5.273215
+388212,"Trudvang 40, Skåre",59.430355,5.273737
+388213,"Trudvang 38, Skåre",59.430277,5.273216
+388214,"Trudvang 44, Skåre",59.430406,5.274261
+388215,"Trudvang 42, Skåre",59.430388,5.273963
+388216,"Trudvang 32, Skåre",59.430154,5.272365
+388217,"Trudvang 30, Skåre",59.430032,5.272202
+388218,"Trudvang 36, Skåre",59.430253,5.272989
+388219,"Trudvang 34, Skåre",59.430189,5.272644
+388220,"Trudvang 2, Skåre",59.429772,5.273801
+388221,"Trudvang 1, Skåre",59.42997,5.273479
+388222,"Trudvang 4, Skåre",59.429667,5.273583
+388223,"Trudvang 3, Skåre",59.42983,5.273301
+388228,"Trudvang 14, Skåre",59.429323,5.272545
+388229,"Trudvang 12, Skåre",59.429517,5.272718
+388230,"Trudvang 18, Skåre",59.429368,5.272222
+388231,"Trudvang 16, Skåre",59.429243,5.272254
+388232,"Trudvang 8, Skåre",59.4295,5.27309
+388233,"Trudvang 6, Skåre",59.429589,5.273345
+388234,"Trudvang 11, Skåre",59.429709,5.27252
+388235,"Trudvang 10, Skåre",59.429432,5.272903
+388748,"Århaug 34, Skåre",59.43027,5.2717
+388749,"Århaug 32, Skåre",59.430383,5.272199
+388750,"Århaug 38, Skåre",59.430402,5.270979
+388751,"Århaug 36, Skåre",59.430523,5.271425
+388752,"Århaug 29, Skåre",59.431679,5.272868
+388753,"Århaug 28, Skåre",59.43054,5.272993
+388754,"Århaug 31, Skåre",59.431593,5.272401
+388755,"Århaug 30, Skåre",59.430457,5.272596
+388756,"Århaug 50, Skåre",59.430619,5.271979
+388757,"Århaug 48, Skåre",59.430873,5.271739
+388758,"Århaug 54, Skåre",59.430872,5.272339
+388759,"Århaug 52, Skåre",59.430658,5.27238
+388760,"Århaug 40, Skåre",59.430622,5.270814
+388761,"Århaug 39, Skåre",59.431981,5.272446
+388762,"Århaug 46, Skåre",59.431146,5.271532
+388763,"Århaug 42, Skåre",59.430752,5.271276
+388764,"Århaug 15, Skåre",59.430947,5.273389
+388765,"Århaug 14, Skåre",59.430477,5.27487
+388766,"Århaug 18, Skåre",59.430825,5.275097
+388767,"Århaug 16, Skåre",59.430859,5.275658
+388768,"Århaug 10, Skåre",59.430557,5.275444
+388769,"Århaug 9, Skåre",59.431479,5.274372
+388770,"Århaug 12, Skåre",59.430486,5.275187
+388771,"Århaug 11, Skåre",59.431222,5.274524
+388772,"Århaug 24, Skåre",59.43069,5.273824
+388773,"Århaug 23, Skåre",59.431146,5.272785
+388774,"Århaug 27, Skåre",59.431367,5.272655
+388775,"Århaug 26, Skåre",59.430625,5.273425
+388776,"Århaug 20, Skåre",59.430794,5.274641
+388777,"Århaug 19, Skåre",59.430795,5.273106
+388778,"Århaug 22, Skåre",59.430745,5.27417
+388779,"Århaug 21, Skåre",59.430963,5.272999
+388788,"Århaug 5, Skåre",59.431253,5.274979
+388789,"Århaug 4, Skåre",59.430704,5.276186
+388790,"Århaug 8, Skåre",59.430354,5.27559
+388791,"Århaug 7, Skåre",59.431524,5.274685
+388794,"Århaug 3, Skåre",59.431279,5.275558
+389038,"Øivind Skaldaspillers veg 13B, Skåre",59.427696,5.27537
+389039,"Øivind Skaldaspillers veg 13, Skåre",59.428051,5.275525
+389040,"Øivind Skaldaspillers veg 15, Skåre",59.428174,5.276376
+389041,"Øivind Skaldaspillers veg 14, Skåre",59.428483,5.275848
+389042,"Øivind Skaldaspillers veg 11, Skåre",59.428095,5.27485
+389043,"Øivind Skaldaspillers veg 10, Skåre",59.428431,5.274972
+389044,"Øivind Skaldaspillers veg 12B, Skåre",59.428718,5.275593
+389045,"Øivind Skaldaspillers veg 12, Skåre",59.42848,5.275443
+389051,"Øivind Skaldaspillers veg 17, Skåre",59.427911,5.276282
+389062,"Øivind Skaldaspillers veg 8, Skåre",59.428416,5.274444
+389063,"Øivind Skaldaspillers veg 6, Skåre",59.428725,5.274269
+389064,"Øivind Skaldaspillers veg 9B, Skåre",59.427996,5.274543
+389065,"Øivind Skaldaspillers veg 9, Skåre",59.428233,5.274232
+389068,"Øivind Skaldaspillers veg 3, Skåre",59.428372,5.272932
+389194,"Årleite 9B, Skåre",59.433278,5.282926
+389195,"Årleite 9, Skåre",59.433232,5.282561
+389196,"Årleite 11, Skåre",59.433533,5.282104
+389197,"Årleite 10, Skåre",59.433078,5.281907
+389198,"Årleite 7, Skåre",59.432959,5.282785
+389199,"Årleite 6, Skåre",59.432518,5.282445
+389200,"Årleite 8, Skåre",59.432697,5.282108
+389201,"Årleite 7B, Skåre",59.432965,5.283313
+389206,"Årleite 14, Skåre",59.433403,5.281307
+389207,"Årleite 12, Skåre",59.433202,5.281523
+389208,"Årleite 18, Skåre",59.433866,5.280832
+389209,"Årleite 16, Skåre",59.433641,5.281139
+389210,"Århaugtunet 18, Skåre",59.432025,5.273659
+389211,"Århaugtunet 17, Skåre",59.432809,5.274049
+389212,"Århaugtunet 20, Skåre",59.43215,5.27428
+389213,"Århaugtunet 19, Skåre",59.432842,5.27364
+389214,"Århaugtunet 14, Skåre",59.431854,5.273111
+389215,"Århaugtunet 13, Skåre",59.43304,5.273635
+389216,"Århaugtunet 16, Skåre",59.432037,5.273128
+389217,"Århaugtunet 15, Skåre",59.433017,5.274097
+389218,"Århaugtunet 34, Skåre",59.432665,5.272777
+389219,"Århaugtunet 30, Skåre",59.432317,5.273203
+389220,"Årleite 5, Skåre",59.432662,5.283082
+389221,"Årleite 4, Skåre",59.432219,5.282672
+389222,"Århaugtunet 24, Skåre",59.432456,5.274264
+389223,"Århaugtunet 21, Skåre",59.432866,5.273231
+389224,"Århaugtunet 28, Skåre",59.432541,5.273479
+389225,"Århaugtunet 26, Skåre",59.432496,5.273801
+389226,"Århaugtunet 2, Skåre",59.432515,5.275105
+389227,"Århaugtunet 1, Skåre",59.432867,5.275154
+389228,"Århaugtunet 4, Skåre",59.432462,5.274793
+389229,"Århaugtunet 3, Skåre",59.432846,5.274716
+389230,"Århaug 58, Skåre",59.431216,5.272107
+389231,"Århaug 56, Skåre",59.431031,5.272233
+389232,"Århaug 62, Skåre",59.431584,5.271749
+389233,"Århaug 60, Skåre",59.431393,5.271999
+389234,"Århaugtunet 10, Skåre",59.431882,5.27431
+389235,"Århaugtunet 9, Skåre",59.433366,5.274041
+389236,"Århaugtunet 12, Skåre",59.431477,5.273049
+389237,"Århaugtunet 11, Skåre",59.433275,5.27368
+389238,"Århaugtunet 6, Skåre",59.432268,5.27492
+389239,"Århaugtunet 5, Skåre",59.433176,5.274609
+389240,"Århaugtunet 8, Skåre",59.431974,5.274723
+389241,"Århaugtunet 7, Skåre",59.43344,5.274421
+389248,"Myrullvegen 19, Skåre",59.436529,5.284087
+389249,"Trudvang 48, Skåre",59.430135,5.27422
+389259,"Steinsnesvegen 2A, Skåre",59.430198,5.263838
+389297,"Sigvat Skalds veg 14, Skåre",59.426153,5.274552
+389298,"Sigvat Skalds veg 12, Skåre",59.426371,5.274634
+389318,"Myrullvegen 15G, Skåre",59.436938,5.280378
+389321,"Myrullvegen 15D, Skåre",59.437482,5.280611
+389322,"Myrullvegen 15C, Skåre",59.437763,5.280369
+389323,"Myrullvegen 15F, Skåre",59.437276,5.280634
+389324,"Myrullvegen 15E, Skåre",59.437374,5.281241
+389343,"Myrullvegen 15B, Skåre",59.437913,5.280899
+389344,"Myrullvegen 15A, Skåre",59.437721,5.281432
+389400,"Øivind Skaldaspillers veg 7, Skåre",59.428473,5.273926
+389438,"Århaugtunet 12B, Skåre",59.431189,5.273363
+389439,"Skeisvollsvegen 46, Skåre",59.429846,5.271323
+389523,"Tormods veg 2D, Skåre",59.428284,5.272359
+389524,"Tormods veg 2C, Skåre",59.428358,5.272422
+389525,"Trudvangvegen 23, Skåre",59.428892,5.274127
+389526,"Trudvangvegen 21, Skåre",59.429036,5.273812
+389529,"Tormods veg 2B, Skåre",59.428504,5.272512
+389530,"Tormods veg 2A, Skåre",59.428578,5.272574
+389536,"Trudvangvegen 18, Skåre",59.428717,5.275096
+389539,"Tormods veg 4E, Skåre",59.428134,5.271829
+389541,"Tord Folesons veg 2B, Skåre",59.424726,5.267388
+389547,"Tormods veg 4B, Skåre",59.428515,5.271946
+389548,"Tormods veg 4A, Skåre",59.428547,5.272136
+389549,"Tormods veg 4D, Skåre",59.428268,5.271796
+389550,"Tormods veg 4C, Skåre",59.428367,5.271803
+389554,"Tord Folesons veg 2A, Skåre",59.42481,5.267185
+389565,"Tormods veg 2F, Skåre",59.428064,5.272225
+389566,"Tormods veg 2E, Skåre",59.428147,5.272269
+389591,"Skeisvollsvegen 44, Skåre",59.428985,5.271735
+389593,"Skeisvollsvegen 42, Skåre",59.42926,5.271581
+389639,"Øivind Skaldaspillers veg 13C, Skåre",59.427683,5.276183
+389846,"Skeisvollsvegen 8, Skåre",59.426634,5.266225
+389847,"Kattanakkvegen 23D, Skåre",59.432639,5.285114
+389866,"Sørhallet 34, Skåre",59.432442,5.284818
+390004,"Arnljot Gellines veg 6, Skåre",59.42636,5.266996
+390005,"Arnljot Gellines veg 5, Skåre",59.426286,5.267569
+390006,"Arnljot Gellines veg 15, Skåre",59.426458,5.26792
+390007,"Arnljot Gellines veg 8, Skåre",59.426639,5.267318
+390010,"Arnljot Gellines veg 4, Skåre",59.42605,5.266836
+390011,"Arnljot Gellines veg 3, Skåre",59.426058,5.267435
+390016,"Arnljot Gellines veg 19, Skåre",59.426025,5.26788
+390017,"Arnljot Gellines veg 18, Skåre",59.426254,5.268649
+390018,"Arnljot Gellines veg 20B, Skåre",59.425945,5.268824
+390019,"Arnljot Gellines veg 20, Skåre",59.425995,5.268395
+390037,"Are Frodes veg 14, Skåre",59.426996,5.269749
+390038,"Are Frodes veg 12, Skåre",59.427056,5.269654
+390039,"Are Frodes veg 18, Skåre",59.426875,5.269939
+390040,"Are Frodes veg 16, Skåre",59.426936,5.269844
+390041,"Are Frodes veg 9B, Skåre",59.426299,5.269279
+390042,"Are Frodes veg 9, Skåre",59.426522,5.269519
+390043,"Are Frodes veg 11, Skåre",59.426275,5.269705
+390044,"Are Frodes veg 10, Skåre",59.427117,5.269577
+390061,"Are Frodes veg 7, Skåre",59.426768,5.269333
+390062,"Are Frodes veg 6, Skåre",59.427309,5.269397
+390063,"Are Frodes veg 8, Skåre",59.427248,5.269439
+390064,"Are Frodes veg 7B, Skåre",59.426602,5.268857
+390065,"Are Frodes veg 4, Skåre",59.427389,5.269335
+390066,"Are Frodes veg 3, Skåre",59.427319,5.268796
+390067,"Are Frodes veg 5B, Skåre",59.426874,5.268616
+390068,"Are Frodes veg 5, Skåre",59.427093,5.26905
+390172,"Austrheimvegen 131, Skåre",59.437414,5.28676
+390173,"Austrheimvegen 127, Skåre",59.43756,5.285862
+390174,"Austrheimvegen 135, Skåre",59.437071,5.287327
+390175,"Austrheimvegen 133, Skåre",59.437241,5.286991
+390183,"Austrheimvegen 139, Skåre",59.436551,5.28802
+390184,"Myrullvegen 8, Skåre",59.436863,5.286662
+390580,"Damvegen 8B, Skåre",59.428708,5.267708
+390581,"Damvegen 8A, Skåre",59.428731,5.268182
+390582,"Damvegen 11, Skåre",59.428776,5.269147
+390583,"Damvegen 9, Skåre",59.428613,5.268777
+390586,"Damvegen 7, Skåre",59.428338,5.268895
+390587,"Damvegen 5, Skåre",59.428228,5.268502
+390627,"Dukkelunden 6, Skåre",59.430145,5.26575
+390628,"Dukkelunden 3, Skåre",59.429859,5.265499
+390629,"Dukkelunden 8, Skåre",59.430371,5.265795
+390630,"Dukkelunden 7, Skåre",59.429475,5.266847
+390639,"Dukkelunden 13, Skåre",59.429959,5.266493
+390640,"Dukkelunden 9, Skåre",59.429751,5.266128
+390641,"Dukkelunden 17, Skåre",59.430212,5.266219
+390642,"Dukkelunden 15, Skåre",59.429812,5.266704
+391039,"Damvegen 25, Skåre",59.430608,5.270339
+391040,"Damvegen 24B, Skåre",59.430466,5.269437
+391041,"Damvegen 26B, Skåre",59.4307,5.269447
+391042,"Damvegen 26, Skåre",59.430611,5.269809
+391043,"Damvegen 22B, Skåre",59.430099,5.268878
+391044,"Damvegen 22, Skåre",59.430123,5.269404
+391045,"Damvegen 24, Skåre",59.430325,5.268923
+391046,"Damvegen 23, Skåre",59.430354,5.269926
+391051,"Damvegen 28, Skåre",59.430895,5.269972
+391052,"Damvegen 27, Skåre",59.430852,5.2707
+391054,"Damvegen 33, Skåre",59.43141,5.271327
+391055,"Damvegen 14B, Skåre",59.429592,5.268757
+391056,"Damvegen 14, Skåre",59.429399,5.268919
+391057,"Damvegen 15, Skåre",59.429207,5.269435
+391058,"Damvegen 14C, Skåre",59.429924,5.268403
+391059,"Damvegen 12B, Skåre",59.429465,5.268383
+391060,"Damvegen 12, Skåre",59.429219,5.268604
+391061,"Damvegen 13, Skåre",59.429072,5.269114
+391062,"Damvegen 12C, Skåre",59.429718,5.268126
+391063,"Damvegen 20, Skåre",59.429898,5.269217
+391064,"Damvegen 19C, Skåre",59.429954,5.270711
+391065,"Damvegen 21B, Skåre",59.430279,5.270446
+391066,"Damvegen 21, Skåre",59.430061,5.270046
+391067,"Damvegen 18, Skåre",59.429654,5.26935
+391068,"Damvegen 17, Skåre",59.429448,5.269673
+391069,"Damvegen 19B, Skåre",59.429942,5.270606
+391070,"Damvegen 19, Skåre",59.429832,5.27023
+391206,"Egils veg 7, Skåre",59.426521,5.271371
+391217,"Egils veg 3, Skåre",59.426017,5.271674
+391219,"Egils veg 6, Skåre",59.426049,5.270894
+391220,"Egils veg 4, Skåre",59.425899,5.270999
+391225,"Egils veg 13, Skåre",59.427457,5.270792
+391226,"Egils veg 12, Skåre",59.42708,5.270181
+391227,"Egils veg 16, Skåre",59.427457,5.269839
+391228,"Egils veg 15, Skåre",59.427649,5.270594
+391229,"Gunnlaugs veg 1, Skåre",59.426758,5.271116
+391230,"Egils veg 8, Skåre",59.426563,5.270343
+391231,"Egils veg 11, Skåre",59.427106,5.271078
+391232,"Egils veg 10, Skåre",59.426978,5.270368
+391478,"Elvegård 3, Skåre",59.431546,5.276994
+391479,"Elvegård 23, Skåre",59.432603,5.276595
+391490,"Elvegård 32, Skåre",59.433738,5.273206
+391491,"Elvegård 31, Skåre",59.433054,5.276334
+391492,"Elvegård 34, Skåre",59.433684,5.27282
+391493,"Elvegård 33, Skåre",59.433207,5.276035
+391494,"Elvegård 26, Skåre",59.433434,5.274863
+391495,"Elvegård 24, Skåre",59.433195,5.274977
+391496,"Elvegård 30, Skåre",59.433747,5.27354
+391497,"Elvegård 27, Skåre",59.432902,5.276368
+391498,"Elvegård 45, Skåre",59.434341,5.276386
+391499,"Elvegård 40, Skåre",59.433631,5.272
+391500,"Elvegård 25, Skåre",59.432704,5.276972
+391501,"Elvegård 16, Skåre",59.432109,5.275344
+391502,"Elvegård 36, Skåre",59.433675,5.272699
+391503,"Elvegård 35, Skåre",59.432989,5.275617
+391504,"Elvegård 38, Skåre",59.433598,5.272392
+391505,"Elvegård 37, Skåre",59.432704,5.275719
+391515,"Elvegård 12, Skåre",59.431561,5.275369
+391517,"Elvegård 18, Skåre",59.43233,5.275213
+391518,"Elvegård 14, Skåre",59.431755,5.275224
+392072,"Gardtunet 9B, Skåre",59.42967,5.26709
+392082,"Gardtunet 27, Skåre",59.429299,5.265719
+392083,"Gardtunet 26, Skåre",59.428957,5.265722
+392084,"Gardtunet 29, Skåre",59.429344,5.265432
+392085,"Gardtunet 28, Skåre",59.429049,5.265482
+392086,"Gardtunet 23, Skåre",59.429041,5.266136
+392087,"Gardtunet 22, Skåre",59.428559,5.26596
+392088,"Gardtunet 25, Skåre",59.429181,5.265997
+392089,"Gardtunet 24, Skåre",59.428819,5.265931
+392090,"Gardtunet 35, Skåre",59.429556,5.26465
+392091,"Gardtunet 34, Skåre",59.429317,5.2648
+392092,"Gardtunet 7B, Skåre",59.42977,5.267414
+392093,"Gardtunet 6, Skåre",59.42879,5.267116
+392094,"Gardtunet 31, Skåre",59.429392,5.265198
+392095,"Gardtunet 30, Skåre",59.429123,5.265245
+392096,"Gardtunet 33, Skåre",59.429509,5.264902
+392097,"Gardtunet 32, Skåre",59.429208,5.265059
+392098,"Gardtunet 8, Skåre",59.428939,5.267912
+392099,"Gardtunet 7, Skåre",59.429507,5.267673
+392100,"Gardtunet 10, Skåre",59.429014,5.267692
+392101,"Gardtunet 9, Skåre",59.429299,5.267307
+392102,"Gardtunet 1, Skåre",59.429075,5.268285
+392103,"Gardstøl 33, Skåre",59.433069,5.290748
+392104,"Gardtunet 5, Skåre",59.429358,5.267795
+392105,"Gardtunet 3, Skåre",59.429223,5.268092
+392106,"Gardtunet 19, Skåre",59.42889,5.266523
+392107,"Gardtunet 18, Skåre",59.428697,5.266668
+392108,"Gardtunet 21, Skåre",59.428984,5.266336
+392109,"Gardtunet 20, Skåre",59.42865,5.266285
+392110,"Gardtunet 14, Skåre",59.429014,5.267092
+392111,"Gardtunet 12, Skåre",59.429024,5.267426
+392112,"Gardtunet 17, Skåre",59.429055,5.266628
+392113,"Gardtunet 15, Skåre",59.429181,5.266332
+392114,"Gardstøl 15, Skåre",59.433078,5.287589
+392115,"Gardstøl 14, Skåre",59.432992,5.289628
+392116,"Gardstøl 17, Skåre",59.433003,5.288091
+392117,"Gardstøl 16, Skåre",59.432895,5.289991
+392118,"Gardstøl 11, Skåre",59.433077,5.286901
+392119,"Gardstøl 10, Skåre",59.433189,5.288953
+392120,"Gardstøl 13, Skåre",59.433196,5.287294
+392121,"Gardstøl 12, Skåre",59.433081,5.289283
+392122,"Gardstøl 29, Skåre",59.432635,5.290355
+392123,"Gardstøl 27, Skåre",59.432409,5.289974
+392124,"Gardstøl 32, Skåre",59.433191,5.290276
+392125,"Gardstøl 31, Skåre",59.43283,5.290545
+392126,"Gardstøl 21, Skåre",59.432816,5.2888
+392127,"Gardstøl 19, Skåre",59.432915,5.288471
+392128,"Gardstøl 25, Skåre",59.43263,5.289544
+392129,"Gardstøl 23, Skåre",59.432701,5.289165
+392138,"Gardstøl 7, Skåre",59.433255,5.286228
+392139,"Gardstøl 6, Skåre",59.433393,5.288243
+392140,"Gardstøl 9, Skåre",59.433029,5.2865
+392141,"Gardstøl 8, Skåre",59.433296,5.288624
+392142,"Gardstøl 3, Skåre",59.433471,5.286875
+392143,"Gardstøl 2, Skåre",59.43363,5.287405
+392144,"Gardstøl 5, Skåre",59.433396,5.286442
+392145,"Gardstøl 4, Skåre",59.433491,5.287896
+392909,"Gunnlaugs veg 12, Skåre",59.426778,5.273143
+392928,"Gunnlaugs veg 8, Skåre",59.426927,5.272385
+392929,"Gunnlaugs veg 7, Skåre",59.426545,5.272516
+392930,"Gunnlaugs veg 11, Skåre",59.426511,5.273225
+392931,"Gunnlaugs veg 10, Skåre",59.426854,5.272658
+392934,"Gunnlaugs veg 5B, Skåre",59.426528,5.271935
+392935,"Gunnlaugs veg 4, Skåre",59.427103,5.271625
+393304,"Tittelsnesvegen 32, Skåre",59.428531,5.264022
+393573,"Myrullvegen 15, Skåre",59.437253,5.282048
+393728,"Århaug 44, Skåre",59.431057,5.271142
+393736,"Damvegen 29, Skåre",59.431147,5.270615
+393759,"Damvegen 31, Skåre",59.431326,5.27093
+393832,"Svoldergata 19, Skåre",59.424308,5.270045
+394011,"Hornkloves veg 8, Skåre",59.425085,5.267066
+394012,"Hornkloves veg 7, Skåre",59.425242,5.267525
+394014,"Hornkloves veg 10, Skåre",59.425228,5.266715
+394015,"Hornkloves veg 3, Skåre",59.424961,5.268068
+394017,"Hornkloves veg 6, Skåre",59.424909,5.267509
+394018,"Hornkloves veg 5, Skåre",59.425069,5.267756
+394223,"Øivind Skaldaspillers veg 11B, Skåre",59.427914,5.275152
+394264,"Øivind Skaldaspillers veg 3B, Skåre",59.428321,5.272708
+394285,"Tittelsnesvegen 25B, Skåre",59.427738,5.266156
+394503,"Århaug 1, Skåre",59.431241,5.276127
+394620,"Rogalandgata 209A, Skåre",59.424203,5.268292
+394629,"Rogalandgata 209C, Skåre",59.424203,5.268292
+394630,"Rogalandgata 209B, Skåre",59.424203,5.268292
+394632,"Rogalandgata 209D, Skåre",59.424203,5.268292
+394669,"Gunnlaugs veg 3, Skåre",59.426772,5.271428
+394814,"Skeisvollsvegen 17B, Skåre",59.427191,5.268404
+394839,"Skeisvold 4, Skåre",59.431189,5.276844
+394841,"Skeisvold 2, Skåre",59.431123,5.276894
+394843,"Skeisvold 8, Skåre",59.431321,5.276653
+394845,"Skeisvold 6, Skåre",59.431248,5.276794
+394850,"Skeisvold 16, Skåre",59.431588,5.276398
+394854,"Skeisvold 22, Skåre",59.431765,5.276248
+394856,"Skeisvold 20, Skåre",59.431707,5.276291
+394860,"Skeisvold 12, Skåre",59.431444,5.276551
+394862,"Skeisvold 10, Skåre",59.431381,5.276595
+394864,"Skeisvold 18, Skåre",59.431649,5.276351
+394866,"Skeisvold 14, Skåre",59.431504,5.276483
+394907,"Skeisvollsvegen 1B, Skåre",59.425583,5.2656
+394922,"Ottar Svartes veg 6, Skåre",59.426836,5.266979
+394923,"Ottar Svartes veg 4, Skåre",59.426697,5.266853
+394925,"Ottar Svartes veg 8, Skåre",59.426939,5.267199
+394940,"Mjåsundvegen 17, Skåre",59.425297,5.269442
+394944,"Ottar Svartes veg 2, Skåre",59.426557,5.266657
+394945,"Ottar Svartes veg 1, Skåre",59.426398,5.266463
+394958,"Mjåsundvegen 2, Skåre",59.425927,5.266243
+394961,"Skeisvollsvegen 3, Skåre",59.426059,5.266332
+395007,"Austrheimvegen 137A, Skåre",59.436944,5.287606
+395008,"Sivblomvegen 24, Skåre",59.436731,5.287382
+395009,"Damvegen 26C, Skåre",59.430545,5.269075
+395010,"Austrheimvegen 137B, Skåre",59.436802,5.287675
+395027,"Sivblomvegen 22, Skåre",59.436651,5.287091
+395030,"Hanne Kroghs veg 6, Skåre",59.42576,5.274313
+395038,"Årleite 8B, Skåre",59.43283,5.28204
+395235,"Skeisvollsmarka 7D, Skåre",59.430777,5.278119
+395236,"Skeisvollsmarka 5C, Skåre",59.431071,5.27784
+395237,"Skeisvollsmarka 5A, Skåre",59.431046,5.277597
+395238,"Skeisvollsmarka 12C, Skåre",59.431176,5.278278
+395239,"Skeisvollsmarka 12A, Skåre",59.43118,5.278392
+395242,"Skeisvollsmarka 12D, Skåre",59.431258,5.278213
+395243,"Skeisvollsmarka 12B, Skåre",59.431263,5.27829
+395244,"Skeisvollsmarka 7C, Skåre",59.430805,5.278113
+395245,"Skeisvollsmarka 7B, Skåre",59.430762,5.277983
+395246,"Skeisvollsmarka 1A, Skåre",59.430853,5.277262
+395247,"Skeisvollsmarka 1B, Skåre",59.430793,5.27732
+395248,"Ramsvollsvegen 15, Skåre",59.429328,5.284366
+395250,"Skeisvollsmarka 7A, Skåre",59.430795,5.277988
+395252,"Skeisvollsmarka 1F, Skåre",59.430721,5.277291
+395253,"Skeisvollsmarka 3D, Skåre",59.430733,5.277759
+395254,"Skeisvollsmarka 5D, Skåre",59.43102,5.277597
+395255,"Skeisvollsmarka 5B, Skåre",59.431061,5.277742
+395256,"Skeisvollsmarka 1C, Skåre",59.430729,5.277359
+395257,"Skeisvollsmarka 1D, Skåre",59.43084,5.277184
+395258,"Skeisvollsmarka 3A, Skåre",59.430767,5.277591
+395259,"Skeisvollsmarka 1E, Skåre",59.430778,5.277249
+395260,"Stemhaugstubben 12, Skåre",59.433527,5.279034
+1292578,"Kattanakkvegen 23E, Skåre",59.43287,5.284744
+1292579,"Kattanakkvegen 21, Skåre",59.433023,5.285024
+1662644,"Ottar Svartes veg 10, Skåre",59.427078,5.267429
+1703815,"Skeisvollsmarka 5F, Skåre",59.431046,5.27785
+1703816,"Skeisvollsmarka 5E, Skåre",59.431034,5.277747
+1703817,"Skeisvollsmarka 3C, Skåre",59.430716,5.277593
+1704143,"Skeisvollsmarka 3B, Skåre",59.430777,5.277729
+1723519,"Sivblomvegen 12, Skåre",59.436541,5.286482
+1723521,"Sivblomvegen 10, Skåre",59.436398,5.286535
+1750714,"Ramsvollsvegen 36, Skåre",59.429027,5.290036
+1798965,"Skeisvold 30, Skåre",59.431869,5.277078
+1798967,"Skeisvold 28, Skåre",59.431843,5.276954
+1798969,"Skeisvold 34, Skåre",59.431952,5.277394
+1798971,"Skeisvold 32, Skåre",59.431927,5.277269
+1798974,"Skeisvold 36, Skåre",59.431975,5.277513
+1798981,"Skeisvold 26, Skåre",59.43182,5.276838
+1798982,"Skeisvold 24, Skåre",59.431795,5.276707
+1799017,"Skeisvold 56, Skåre",59.431491,5.278224
+1799019,"Skeisvold 44, Skåre",59.431887,5.278209
+1799021,"Skeisvold 46, Skåre",59.431831,5.278279
+1799022,"Skeisvold 40, Skåre",59.431997,5.278084
+1799025,"Skeisvold 42, Skåre",59.431943,5.278141
+1799027,"Skeisvold 52, Skåre",59.431614,5.278555
+1799029,"Skeisvold 54, Skåre",59.431554,5.278613
+1799030,"Skeisvold 48, Skåre",59.43173,5.27842
+1799031,"Skeisvold 50, Skåre",59.43167,5.278492
+1799037,"Skeisvold 38, Skåre",59.431997,5.277644
+1799215,"Skeisvold 68, Skåre",59.43132,5.277422
+1799217,"Skeisvold 70, Skåre",59.431294,5.277293
+1799219,"Skeisvold 64, Skåre",59.431366,5.277672
+1799222,"Skeisvold 66, Skåre",59.431338,5.277548
+1799225,"Skeisvold 60, Skåre",59.431443,5.277953
+1799227,"Skeisvold 62, Skåre",59.431422,5.277852
+1799230,"Skeisvold 58, Skåre",59.431472,5.278092
+1807466,"Myrullvegen 17B, Skåre",59.436919,5.283148
+1807468,"Myrullvegen 17A, Skåre",59.436864,5.283021
+1814461,"Myrullvegen 17G, Skåre",59.436948,5.283877
+1814462,"Myrullvegen 17F, Skåre",59.437017,5.283809
+1814464,"Myrullvegen 17E, Skåre",59.437074,5.283543
+1814466,"Myrullvegen 17D, Skåre",59.437012,5.283409
+1814468,"Myrullvegen 17C, Skåre",59.436963,5.283282
+1814553,"Myrullvegen 17J, Skåre",59.436786,5.284064
+1814554,"Myrullvegen 17H, Skåre",59.436912,5.284029
+1814958,"Myrullvegen 17L, Skåre",59.436616,5.283968
+1814960,"Myrullvegen 17K, Skåre",59.436699,5.283992
+1817252,"Ramsvollsvegen 7C, Skåre",59.429637,5.283938
+1817263,"Ramsvollsvegen 7B, Skåre",59.429847,5.284053
+1956294,"Tormods veg 14, Skåre",59.42724,5.271788
+1956368,"Tormods veg 12, Skåre",59.427169,5.27218
+1999737,"Tormods veg 8B, Skåre",59.427517,5.271929
+2019721,"Tittelsnesvegen 37B, Skåre",59.428936,5.264554
+2019723,"Tittelsnesvegen 37C, Skåre",59.429134,5.264529
+2034562,"Århaug 14B, Skåre",59.430494,5.274516
+2044545,"Tittelsnesvegen 37A, Skåre",59.428944,5.265249
+2044546,"Tittelsnesvegen 37D, Skåre",59.429081,5.264914
+2049368,"Hafrsfjordgata 20, Skåre",59.425159,5.269879
+2049377,"Hafrsfjordgata 22, Skåre",59.425191,5.270115
+2049468,"Hafrsfjordgata 14, Skåre",59.42497,5.269928
+2049472,"Hafrsfjordgata 18, Skåre",59.425137,5.269707
+2049473,"Hafrsfjordgata 16, Skåre",59.424958,5.269659
+2057290,"Århaug 4D, Skåre",59.430515,5.276497
+2057294,"Århaug 4B, Skåre",59.430564,5.276696
+2057295,"Århaug 4C, Skåre",59.430537,5.276584
+2057349,"Århaug 4H, Skåre",59.430401,5.276079
+2057351,"Århaug 4F, Skåre",59.430448,5.27628
+2057352,"Århaug 4G, Skåre",59.430425,5.276175
+2057354,"Århaug 4E, Skåre",59.43048,5.27637
+2057509,"Århaug 6B, Skåre",59.430744,5.276011
+2057521,"Århaug 6A, Skåre",59.43074,5.276124
+2057523,"Århaug 2A, Skåre",59.430857,5.276549
+2057580,"Århaug 2D, Skåre",59.43071,5.276715
+2057582,"Århaug 2C, Skåre",59.430755,5.276657
+2057583,"Århaug 2B, Skåre",59.430804,5.276602
+2057622,"Århaug 4A, Skåre",59.430586,5.276792
+2082067,"Øivind Skaldaspillers veg 2A, Skåre",59.428896,5.272902
+2082068,"Øivind Skaldaspillers veg 4, Skåre",59.428828,5.273512
+2120579,"Dukkelunden 1D, Skåre",59.429577,5.265639
+2120599,"Dukkelunden 1C, Skåre",59.429548,5.266002
+2120600,"Dukkelunden 1B, Skåre",59.42946,5.266377
+2180938,"Rasmus W. Andersens veg 110, Skåre",59.42733,5.311793
+2181565,"Haakonsvegen 50, Skåre",59.427199,5.281582
+2189158,"Århaug 4J, Skåre",59.430368,5.275987
+2386298,"Søre Stemhaug 3, Skåre",59.431171,5.285444
+2386406,"Søre Stemhaug 4, Skåre",59.430883,5.285749
+2454823,"Årleite 2, Skåre",59.432143,5.282747
+2493351,"Torjus Gards veg 12, Skåre",59.428072,5.265973
+2545885,"Kattanakkstølen 31, Skåre",59.439255,5.309703

@@ -1,0 +1,808 @@
+,Navn,Long,Lat
+1496423,"Gamle Oslovei 87, Byåsen",63.401833,10.342242
+1496424,"Gamle Oslovei 85, Byåsen",63.402059,10.34227
+1496425,"Gamle Oslovei 89B, Byåsen",63.401545,10.342507
+1496426,"Gamle Oslovei 89, Byåsen",63.401635,10.342451
+1496427,"Gamle Oslovei 92, Byåsen",63.398707,10.341653
+1496428,"Gamle Oslovei 90, Byåsen",63.398914,10.341623
+1496437,"Gamle Oslovei 83, Byåsen",63.402295,10.342235
+1498298,"Herlofsons veg 7, Byåsen",63.400341,10.326314
+1498299,"Herlofsons veg 6B, Byåsen",63.399839,10.32527
+1498300,"Herlofsons veg 9, Byåsen",63.400641,10.325827
+1498301,"Herlofsons veg 8, Byåsen",63.399942,10.324814
+1498302,"Herlofsons veg 10, Byåsen",63.400282,10.323889
+1498303,"Herlofsons veg 9A, Byåsen",63.400877,10.325538
+1498304,"Herlofsons veg 16, Byåsen",63.400379,10.325095
+1498305,"Herlofsons veg 14, Byåsen",63.40014,10.325664
+1498306,"Herlofsons veg 3A, Byåsen",63.399424,10.327353
+1498307,"Herlofsons veg 3C, Byåsen",63.399653,10.327824
+1498308,"Herlofsons veg 3B, Byåsen",63.399807,10.327691
+1498309,"Herlofsons veg 5, Byåsen",63.399977,10.326798
+1498310,"Herlofsons veg 4, Byåsen",63.399464,10.326033
+1498311,"Herlofsons veg 6, Byåsen",63.399717,10.325785
+1498312,"Herlofsons veg 5A, Byåsen",63.399874,10.327213
+1498319,"Herlofsons veg 1, Byåsen",63.399346,10.32801
+1499280,"Ivar Aasens veg 10, Byåsen",63.398053,10.331013
+1499281,"Ivar Aasens veg 9, Byåsen",63.397835,10.329381
+1499282,"Ivar Aasens veg 11, Byåsen",63.398037,10.32883
+1499283,"Ivar Aasens veg 10A, Byåsen",63.397886,10.330665
+1499284,"Ivar Aasens veg 33, Byåsen",63.398309,10.326777
+1499285,"Ivar Aasens veg 16, Byåsen",63.397393,10.329541
+1499290,"Ivar Aasens veg 4, Byåsen",63.398455,10.332133
+1499291,"Ivar Aasens veg 2, Byåsen",63.398649,10.332502
+1499292,"Ivar Aasens veg 6, Byåsen",63.398323,10.331866
+1499293,"Ivar Aasens veg 5B, Byåsen",63.398202,10.330439
+1499294,"Ivar Aasens veg 8, Byåsen",63.398185,10.331319
+1499295,"Ivar Aasens veg 7, Byåsen",63.398,10.329969
+1499453,"Inge Krokanns veg 1A, Byåsen",63.396057,10.329379
+1499455,"Inge Krokanns veg 2, Byåsen",63.396368,10.328813
+1499456,"Inge Krokanns veg 1B, Byåsen",63.396139,10.329263
+1499457,"Inge Krokanns veg 3, Byåsen",63.396441,10.329657
+1499458,"Inge Krokanns veg 2B, Byåsen",63.396245,10.328487
+1499601,"Inge Krokanns veg 8, Byåsen",63.396585,10.330545
+1499602,"Inge Krokanns veg 6, Byåsen",63.396677,10.329368
+1499603,"Inge Krokanns veg 16, Byåsen",63.396344,10.331414
+1499604,"Inge Krokanns veg 10, Byåsen",63.396509,10.330961
+1499605,"Inge Krokanns veg 20, Byåsen",63.396282,10.332212
+1499606,"Inge Krokanns veg 18, Byåsen",63.396509,10.331922
+1499608,"Inge Krokanns veg 22, Byåsen",63.39616,10.331886
+1501332,"Knut Hamsuns veg 4, Byåsen",63.398056,10.341243
+1501345,"Knut Hamsuns veg 2, Byåsen",63.398396,10.341379
+1501346,"Knut Hamsuns veg 1, Byåsen",63.398389,10.340654
+1501912,"Konrad Dahls veg 2, Byåsen",63.400637,10.333956
+1501913,"Konrad Dahls veg 1, Byåsen",63.400112,10.334432
+1501914,"Konrad Dahls veg 7B, Byåsen",63.400787,10.335204
+1502200,"Kristofer Uppdals veg 2, Byåsen",63.398978,10.330916
+1502387,"Kvernhusstien 24, Byåsen",63.399963,10.342713
+1502388,"Kvernhusstien 22, Byåsen",63.40008,10.342658
+1502390,"Kvernhusstien 26, Byåsen",63.399873,10.342769
+1502395,"Kvernhusstien 8, Byåsen",63.399977,10.342193
+1502396,"Kvernhusstien 7, Byåsen",63.399981,10.343635
+1502397,"Kvernhusstien 12, Byåsen",63.400148,10.342101
+1502398,"Kvernhusstien 10, Byåsen",63.400067,10.342117
+1502399,"Kvernhusstien 16, Byåsen",63.400406,10.342393
+1502400,"Kvernhusstien 14, Byåsen",63.400247,10.342086
+1502401,"Kvernhusstien 20, Byåsen",63.40018,10.342523
+1502402,"Kvernhusstien 18, Byåsen",63.40028,10.342407
+1502405,"Kvernhusstien 1, Byåsen",63.399136,10.342854
+1502406,"Kvernhusstien 4, Byåsen",63.399696,10.34252
+1502407,"Kvernhusstien 2, Byåsen",63.399438,10.342248
+1502408,"Kvernhusstien 6, Byåsen",63.399896,10.342229
+1502409,"Kvernhusstien 5, Byåsen",63.399625,10.343338
+1502558,"Leikåsvegen 3, Byåsen",63.400672,10.329292
+1502559,"Leikåsvegen 1B, Byåsen",63.401066,10.329411
+1502560,"Leikåsvegen 4, Byåsen",63.400457,10.330203
+1502561,"Leikåsvegen 3B, Byåsen",63.400798,10.329198
+1502562,"Leikåsvegen 5B, Byåsen",63.400721,10.328794
+1502563,"Kristofer Uppdals veg 31, Byåsen",63.399984,10.329283
+1502564,"Leikåsvegen 6A, Byåsen",63.400234,10.329823
+1502571,"Leikåsvegen 1C, Byåsen",63.400856,10.329721
+1505679,"Nedre Ferstadveg 42, Byåsen",63.400627,10.341803
+1505680,"Nedre Ferstadveg 40, Byåsen",63.400456,10.341875
+1505682,"Nedre Ferstadveg 44, Byåsen",63.400798,10.341731
+1505691,"Nedre Ferstadveg 34, Byåsen",63.400848,10.342174
+1505692,"Nedre Ferstadveg 32, Byåsen",63.400956,10.342119
+1505693,"Nedre Ferstadveg 38, Byåsen",63.400631,10.342324
+1505694,"Nedre Ferstadveg 36, Byåsen",63.400739,10.342249
+1506731,"Nordahl Griegs veg 15, Byåsen",63.397774,10.336845
+1506732,"Nordahl Griegs veg 1, Byåsen",63.398176,10.338045
+1506733,"Nordahl Griegs veg 13, Byåsen",63.39797,10.336746
+1506738,"Nordahl Griegs veg 37, Byåsen",63.396928,10.335125
+1506739,"Nordahl Griegs veg 39, Byåsen",63.39678,10.335598
+1506740,"Nordahl Griegs veg 33A, Byåsen",63.397071,10.334583
+1506741,"Nordahl Griegs veg 6, Byåsen",63.397673,10.338042
+1506742,"Nordahl Griegs veg 29, Byåsen",63.397398,10.334766
+1506743,"Nordahl Griegs veg 31, Byåsen",63.397339,10.334423
+1506744,"Nordahl Griegs veg 27, Byåsen",63.397565,10.335234
+1506745,"Nordahl Griegs veg 25A, Byåsen",63.397424,10.335346
+1506746,"Nordahl Griegs veg 22A, Byåsen",63.397207,10.338324
+1506748,"Nordahl Griegs veg 18, Byåsen",63.397188,10.337138
+1506749,"Nordahl Griegs veg 45, Byåsen",63.396991,10.33797
+1506750,"Uglagjerdet 26, Byåsen",63.396641,10.33605
+1506751,"Nordahl Griegs veg 20, Byåsen",63.397262,10.337802
+1506752,"Nordahl Griegs veg 41, Byåsen",63.396954,10.336163
+1506753,"Nordahl Griegs veg 35, Byåsen",63.397156,10.335463
+1507816,"Uglagjerdet 2, Byåsen",63.395482,10.336258
+1508004,"Olav Duuns veg 4, Byåsen",63.395757,10.33461
+1508005,"Olav Duuns veg 2, Byåsen",63.395517,10.335299
+1508006,"Olav Aukrusts veg 9B, Byåsen",63.395369,10.330088
+1508007,"Olav Aukrusts veg 9D, Byåsen",63.39533,10.330386
+1508008,"Olav Aukrusts veg 9C, Byåsen",63.395349,10.330247
+1508009,"Olav Aukrusts veg 9E, Byåsen",63.395319,10.330546
+1508010,"Olav Aukrusts veg 16, Byåsen",63.396495,10.332542
+1508011,"Olav Aukrusts veg 15, Byåsen",63.395657,10.332804
+1508012,"Olav Aukrusts veg 6E, Byåsen",63.39571,10.330004
+1508013,"Olav Aukrusts veg 7C, Byåsen",63.395476,10.329152
+1508014,"Olav Aukrusts veg 7B, Byåsen",63.395486,10.329052
+1508015,"Olav Aukrusts veg 7E, Byåsen",63.395438,10.329431
+1508016,"Olav Aukrusts veg 7D, Byåsen",63.395457,10.329311
+1508017,"Olav Aukrusts veg 7G, Byåsen",63.395408,10.329749
+1508018,"Olav Aukrusts veg 7F, Byåsen",63.395427,10.32959
+1508019,"Olav Aukrusts veg 5F, Byåsen",63.395641,10.328759
+1508020,"Olav Aukrusts veg 5E, Byåsen",63.395661,10.3286
+1508021,"Olav Aukrusts veg 5H, Byåsen",63.395907,10.328171
+1508022,"Olav Aukrusts veg 6B, Byåsen",63.395848,10.32965
+1508023,"Olav Aukrusts veg 6D, Byåsen",63.395756,10.329886
+1508024,"Olav Aukrusts veg 6C, Byåsen",63.395803,10.329748
+1508025,"Olav Aukrusts veg 4B, Byåsen",63.395953,10.328994
+1508026,"Olav Aukrusts veg 4, Byåsen",63.395999,10.328896
+1508027,"Olav Aukrusts veg 4D, Byåsen",63.395861,10.32923
+1508028,"Olav Aukrusts veg 4C, Byåsen",63.395898,10.329112
+1508029,"Olav Aukrusts veg 5B, Byåsen",63.395789,10.328286
+1508030,"Olav Aukrusts veg 5A, Byåsen",63.395844,10.328228
+1508031,"Olav Aukrusts veg 5D, Byåsen",63.395698,10.328502
+1508032,"Olav Aukrusts veg 5C, Byåsen",63.395743,10.328384
+1508033,"Olav Aukrusts veg 2E, Byåsen",63.396489,10.328338
+1508034,"Olav Aukrusts veg 2D, Byåsen",63.396609,10.328924
+1508035,"Olav Aukrusts veg 3B, Byåsen",63.396253,10.327647
+1508036,"Olav Aukrusts veg 3D, Byåsen",63.396109,10.32772
+1508037,"Olav Aukrusts veg 3C, Byåsen",63.396181,10.327683
+1508038,"Olav Aukrusts veg 3F, Byåsen",63.395973,10.327794
+1508039,"Olav Aukrusts veg 3E, Byåsen",63.396046,10.327757
+1508044,"Olav Aukrusts veg 2, Byåsen",63.396514,10.32854
+1508045,"Olav Aukrusts veg 1, Byåsen",63.396506,10.327518
+1508046,"Olav Aukrusts veg 2C, Byåsen",63.396575,10.328763
+1508047,"Olav Aukrusts veg 2B, Byåsen",63.39654,10.328641
+1508118,"Olav Duuns veg 10, Byåsen",63.395786,10.333236
+1508119,"Olav Duuns veg 9, Byåsen",63.396778,10.334857
+1508120,"Olav Duuns veg 13, Byåsen",63.39699,10.333346
+1508121,"Olav Duuns veg 12, Byåsen",63.396317,10.333295
+1508122,"Olav Duuns veg 15B, Byåsen",63.397129,10.333813
+1508123,"Olav Duuns veg 14, Byåsen",63.396801,10.332436
+1508124,"Olav Duuns veg 17, Byåsen",63.397653,10.333417
+1508125,"Olav Duuns veg 5B, Byåsen",63.396452,10.335182
+1508126,"Olav Duuns veg 5, Byåsen",63.396174,10.33515
+1508127,"Olav Duuns veg 8, Byåsen",63.396221,10.333931
+1508128,"Olav Duuns veg 6, Byåsen",63.395976,10.33426
+1508240,"Olav Duuns veg 26A, Byåsen",63.397082,10.33106
+1508241,"Olav Duuns veg 25B, Byåsen",63.39722,10.331815
+1508249,"Olav Duuns veg 19, Byåsen",63.397403,10.333345
+1508250,"Olav Duuns veg 17A, Byåsen",63.39769,10.333358
+1508251,"Olav Duuns veg 20, Byåsen",63.396614,10.331347
+1508252,"Olav Duuns veg 19A, Byåsen",63.397452,10.332907
+1508253,"Olav Duuns veg 21A, Byåsen",63.397123,10.332551
+1508254,"Olav Duuns veg 21, Byåsen",63.397291,10.332799
+1508255,"Olav Duuns veg 25, Byåsen",63.397301,10.331487
+1508256,"Olav Duuns veg 21B, Byåsen",63.397163,10.332387
+1509451,"Per Sivles veg 6, Byåsen",63.400725,10.338004
+1509452,"Per Sivles veg 5, Byåsen",63.400761,10.337044
+1509453,"Per Sivles veg 2, Byåsen",63.401601,10.338425
+1509454,"Per Sivles veg 1B, Byåsen",63.401496,10.337139
+1509455,"Per Sivles veg 2C, Byåsen",63.402046,10.337865
+1509456,"Per Sivles veg 2B, Byåsen",63.401406,10.338156
+1509457,"Per Sivles veg 3, Byåsen",63.401504,10.337279
+1509458,"Per Sivles veg 2D, Byåsen",63.401899,10.338279
+1509459,"Per Sivles veg 4, Byåsen",63.401238,10.337867
+1509460,"Per Sivles veg 3C, Byåsen",63.401175,10.337374
+1509467,"Per Sivles veg 1, Byåsen",63.401881,10.337297
+1509518,"Per Sivles veg 51, Byåsen",63.40011,10.3231
+1509519,"Per Sivles veg 44, Byåsen",63.399658,10.32348
+1509526,"Ivar Aasens veg 43A, Byåsen",63.39847,10.325551
+1509527,"Per Sivles veg 33A, Byåsen",63.398972,10.327772
+1509528,"Per Sivles veg 35, Byåsen",63.399016,10.326894
+1509529,"Per Sivles veg 39, Byåsen",63.399437,10.325071
+1509530,"Per Sivles veg 37A, Byåsen",63.398983,10.325909
+1509531,"Per Sivles veg 42, Byåsen",63.399446,10.324091
+1509532,"Per Sivles veg 41, Byåsen",63.399592,10.324718
+1509533,"Ivar Aasens veg 29, Byåsen",63.398011,10.326787
+1509534,"Ivar Aasens veg 31, Byåsen",63.398222,10.327277
+1509535,"Per Sivles veg 30, Byåsen",63.398627,10.327136
+1509536,"Per Sivles veg 29, Byåsen",63.398633,10.329458
+1509537,"Per Sivles veg 32, Byåsen",63.398572,10.326292
+1509538,"Per Sivles veg 31, Byåsen",63.39862,10.328877
+1509539,"Per Sivles veg 33, Byåsen",63.398787,10.328364
+1509540,"Per Sivles veg 24A, Byåsen",63.398363,10.328505
+1509541,"Per Sivles veg 24, Byåsen",63.398335,10.328684
+1509542,"Per Sivles veg 26A, Byåsen",63.398485,10.32801
+1509543,"Per Sivles veg 25, Byåsen",63.398867,10.331311
+1509544,"Per Sivles veg 27, Byåsen",63.398775,10.330606
+1509545,"Per Sivles veg 26B, Byåsen",63.398522,10.327892
+1509546,"Per Sivles veg 28, Byåsen",63.398614,10.327576
+1509547,"Per Sivles veg 27B, Byåsen",63.398646,10.329959
+1509548,"Per Sivles veg 19B, Byåsen",63.399636,10.332496
+1509549,"Per Sivles veg 19A, Byåsen",63.399815,10.332676
+1509550,"Per Sivles veg 20, Byåsen",63.398208,10.329799
+1509551,"Per Sivles veg 19C, Byåsen",63.399557,10.332424
+1509552,"Per Sivles veg 22, Byåsen",63.39824,10.32926
+1509553,"Per Sivles veg 21, Byåsen",63.399334,10.332193
+1509554,"Per Sivles veg 23, Byåsen",63.399122,10.331883
+1509555,"Per Sivles veg 22B, Byåsen",63.398232,10.329119
+1509556,"Per Sivles veg 11C, Byåsen",63.399764,10.335531
+1509557,"Per Sivles veg 11B, Byåsen",63.399978,10.335268
+1509558,"Per Sivles veg 14B, Byåsen",63.399265,10.332871
+1509559,"Per Sivles veg 12, Byåsen",63.399514,10.336025
+1509560,"Per Sivles veg 16, Byåsen",63.398468,10.330812
+1509561,"Per Sivles veg 15, Byåsen",63.399854,10.334239
+1509562,"Per Sivles veg 18, Byåsen",63.398428,10.33021
+1509563,"Per Sivles veg 16B, Byåsen",63.398484,10.330993
+1509564,"Per Sivles veg 8A, Byåsen",63.400469,10.337591
+1509565,"Per Sivles veg 8, Byåsen",63.400266,10.337222
+1509566,"Per Sivles veg 9, Byåsen",63.400159,10.336176
+1509567,"Per Sivles veg 8B, Byåsen",63.400217,10.3376
+1509568,"Per Sivles veg 9B, Byåsen",63.400062,10.336011
+1509569,"Per Sivles veg 9A, Byåsen",63.400115,10.336093
+1509570,"Per Sivles veg 10B, Byåsen",63.400003,10.33745
+1509571,"Per Sivles veg 10, Byåsen",63.399991,10.336908
+1509572,"Per Sivles veg 6C, Byåsen",63.400595,10.338498
+1509573,"Per Sivles veg 6B, Byåsen",63.400732,10.337722
+1509574,"Per Sivles veg 7B, Byåsen",63.400451,10.33663
+1509575,"Per Sivles veg 7A, Byåsen",63.400414,10.336708
+1517530,"Uglavegen 45, Byåsen",63.401842,10.328005
+1517537,"Uglavegen 42B, Byåsen",63.401903,10.326206
+1517538,"Uglavegen 41C, Byåsen",63.401695,10.32932
+1517540,"Uglavegen 43, Byåsen",63.401791,10.328683
+1517545,"Uglavegen 38B, Byåsen",63.401345,10.329284
+1517546,"Uglavegen 38A, Byåsen",63.40117,10.328775
+1517547,"Bragstads veg 20, Byåsen",63.402083,10.330173
+1517548,"Bragstads veg 4, Byåsen",63.401813,10.330284
+1517549,"Bragstads veg 18, Byåsen",63.40204,10.329876
+1517550,"Bragstads veg 2B, Byåsen",63.401635,10.330018
+1517551,"Bragstads veg 14, Byåsen",63.402067,10.329378
+1517552,"Uglavegen 33B, Byåsen",63.401282,10.332204
+1517553,"Uglavegen 33, Byåsen",63.401163,10.332438
+1517554,"Uglavegen 34B, Byåsen",63.401246,10.330446
+1517555,"Uglavegen 34, Byåsen",63.401112,10.33011
+1517556,"Uglavegen 36, Byåsen",63.401314,10.329763
+1517557,"Uglavegen 35, Byåsen",63.401378,10.331507
+1517558,"Uglavegen 38, Byåsen",63.40135,10.328803
+1517559,"Uglavegen 37A, Byåsen",63.40172,10.331262
+1517560,"Uglavegen 29A, Byåsen",63.400547,10.333062
+1517561,"Uglavegen 28E, Byåsen",63.400211,10.331553
+1517562,"Uglavegen 30A, Byåsen",63.400545,10.331349
+1517563,"Uglavegen 30D, Byåsen",63.400594,10.33089
+1517564,"Uglavegen 30G, Byåsen",63.400828,10.331502
+1517565,"Uglavegen 32C, Byåsen",63.401044,10.330791
+1517566,"Uglavegen 25, Byåsen",63.399425,10.33502
+1517567,"Uglavegen 24B, Byåsen",63.399892,10.33308
+1517568,"Uglavegen 26A, Byåsen",63.399935,10.332261
+1517569,"Uglavegen 26, Byåsen",63.400039,10.332687
+1517570,"Uglavegen 28D, Byåsen",63.40018,10.331972
+1517571,"Uglavegen 27, Byåsen",63.400245,10.333637
+1517572,"Uglavegen 28C, Byåsen",63.400285,10.332298
+1517573,"Uglavegen 28B, Byåsen",63.400221,10.332395
+1517574,"Uglavegen 20A, Byåsen",63.3991,10.334184
+1517575,"Uglavegen 19A, Byåsen",63.398816,10.335853
+1517576,"Uglavegen 21, Byåsen",63.399033,10.335643
+1517577,"Uglavegen 20B, Byåsen",63.399141,10.333726
+1517578,"Uglavegen 22B, Byåsen",63.399527,10.333684
+1517579,"Uglavegen 22A, Byåsen",63.399384,10.333657
+1517580,"Uglavegen 24A, Byåsen",63.399774,10.333195
+1517581,"Uglavegen 23, Byåsen",63.399191,10.33505
+1517582,"Uglavegen 16F, Byåsen",63.398604,10.333461
+1517583,"Uglavegen 16E, Byåsen",63.398486,10.333655
+1517584,"Uglavegen 17A, Byåsen",63.398791,10.336572
+1517585,"Uglavegen 17, Byåsen",63.398772,10.336692
+1517586,"Uglavegen 18A, Byåsen",63.398711,10.333596
+1517587,"Uglavegen 18E, Byåsen",63.398965,10.334392
+1517588,"Uglavegen 19, Byåsen",63.398913,10.335977
+1517589,"Uglavegen 18D, Byåsen",63.399026,10.3335
+1517590,"Uglavegen 12A, Byåsen",63.398285,10.336929
+1517591,"Arne Garborgs veg 2, Byåsen",63.398307,10.336045
+1517592,"Uglavegen 13, Byåsen",63.39975,10.338679
+1517593,"Uglavegen 12B, Byåsen",63.398343,10.336457
+1517594,"Uglavegen 15, Byåsen",63.398595,10.337324
+1517595,"Uglavegen 14, Byåsen",63.39848,10.335297
+1517596,"Uglavegen 16C, Byåsen",63.398537,10.333978
+1517597,"Uglavegen 16A, Byåsen",63.398727,10.334808
+1517598,"Uglavegen 6C, Byåsen",63.398461,10.34014
+1517599,"Uglavegen 6B, Byåsen",63.398506,10.340203
+1517600,"Uglavegen 7A, Byåsen",63.398949,10.339843
+1517601,"Uglavegen 7, Byåsen",63.399179,10.340214
+1517602,"Uglavegen 9, Byåsen",63.398801,10.339315
+1517603,"Uglavegen 8, Byåsen",63.398249,10.33979
+1517604,"Uglavegen 10B, Byåsen",63.398224,10.337647
+1517605,"Uglahaugstien 19A, Byåsen",63.398027,10.339049
+1517606,"Uglavegen 2C, Byåsen",63.399255,10.341407
+1517607,"Uglavegen 1A, Byåsen",63.400018,10.340694
+1517608,"Uglavegen 4A, Byåsen",63.398965,10.341005
+1517609,"Uglavegen 3, Byåsen",63.39983,10.340645
+1517610,"Uglavegen 4B, Byåsen",63.398814,10.340838
+1517611,"Uglavegen 6A, Byåsen",63.39854,10.340304
+1517614,"Uglahaugstien 4, Byåsen",63.397259,10.340064
+1517615,"Uglahaugstien 1, Byåsen",63.3975,10.340176
+1517616,"Uglamarkstien 1A, Byåsen",63.400949,10.327249
+1517617,"Uglamarkstien 1, Byåsen",63.400802,10.326916
+1517618,"Uglamarkstien 3, Byåsen",63.4007,10.326291
+1517619,"Uglamarkstien 2B, Byåsen",63.400469,10.326614
+1518633,"Vetle Vislies veg 10, Byåsen",63.401045,10.325906
+1518634,"Vetle Vislies veg 8, Byåsen",63.401085,10.326408
+1518635,"Vetle Vislies veg 14, Byåsen",63.400619,10.324325
+1518636,"Vetle Vislies veg 12, Byåsen",63.400722,10.32487
+1518637,"Vetle Vislies veg 16, Byåsen",63.400621,10.323144
+1518638,"Vetle Vislies veg 14B, Byåsen",63.400721,10.323989
+1518640,"Vetle Vislies veg 18, Byåsen",63.400326,10.32301
+1518647,"Vetle Vislies veg 6, Byåsen",63.401191,10.327136
+1518648,"Vetle Vislies veg 2, Byåsen",63.401239,10.328157
+1520544,"Uglavegen 16B, Byåsen",63.398701,10.334436
+1521265,"Uglagjerdet 5, Byåsen",63.396263,10.338096
+1521266,"Uglagjerdet 3, Byåsen",63.396132,10.33777
+1521268,"Uglagjerdet 7, Byåsen",63.396307,10.338198
+1521273,"Uglagjerdet 20, Byåsen",63.396243,10.336434
+1521274,"Uglagjerdet 18, Byåsen",63.396259,10.336655
+1521275,"Uglagjerdet 24, Byåsen",63.396418,10.335902
+1521276,"Uglagjerdet 22, Byåsen",63.396173,10.33623
+1521277,"Uglagjerdet 34, Byåsen",63.396509,10.336807
+1521278,"Uglagjerdet 30, Byåsen",63.396494,10.336369
+1521279,"Uglagjerdet 1, Byåsen",63.396034,10.337645
+1521280,"Uglagjerdet 42, Byåsen",63.396545,10.337775
+1521283,"Uglagjerdet 8, Byåsen",63.395853,10.336896
+1521284,"Uglagjerdet 6, Byåsen",63.395744,10.337011
+1521285,"Uglagjerdet 12, Byåsen",63.396035,10.336604
+1521286,"Uglagjerdet 10, Byåsen",63.395944,10.3367
+1521287,"Uglagjerdet 16, Byåsen",63.396257,10.336855
+1521288,"Uglagjerdet 14, Byåsen",63.39613,10.336969
+1521327,"Uglagjerdet 40, Byåsen",63.396431,10.337483
+1521496,"Uglagjerdet 38, Byåsen",63.396803,10.33698
+1522267,"Kristofer Uppdals veg 15, Byåsen",63.399708,10.330669
+1522274,"Per Sivles veg 13B, Byåsen",63.399829,10.334959
+1522284,"Kristofer Uppdals veg 11A, Byåsen",63.399715,10.330246
+1522286,"Kristofer Uppdals veg 6, Byåsen",63.39901,10.330397
+1522287,"Kristofer Uppdals veg 4, Byåsen",63.3991,10.330421
+1522291,"Kristofer Uppdals veg 5, Byåsen",63.399651,10.331888
+1522298,"Kristofer Uppdals veg 29, Byåsen",63.399833,10.329694
+1522299,"Kristofer Uppdals veg 33, Byåsen",63.400583,10.328247
+1522300,"Kristofer Uppdals veg 23B, Byåsen",63.400219,10.330713
+1522301,"Kristofer Uppdals veg 25, Byåsen",63.40006,10.330385
+1522302,"Kristofer Uppdals veg 13A, Byåsen",63.399623,10.330358
+1522303,"Kristofer Uppdals veg 21B, Byåsen",63.399981,10.331107
+1522304,"Kristofer Uppdals veg 3, Byåsen",63.399492,10.33162
+1522305,"Kristofer Uppdals veg 7, Byåsen",63.399289,10.33127
+1522306,"Kristofer Uppdals veg 16, Byåsen",63.399137,10.329321
+1522307,"Kristofer Uppdals veg 18, Byåsen",63.399179,10.328643
+1522308,"Kristofer Uppdals veg 12, Byåsen",63.399403,10.329674
+1522309,"Kristofer Uppdals veg 14, Byåsen",63.399053,10.329618
+1522310,"Kristofer Uppdals veg 8, Byåsen",63.398943,10.329913
+1522311,"Kristofer Uppdals veg 10, Byåsen",63.399257,10.329888
+1522312,"Kristofer Uppdals veg 35, Byåsen",63.400966,10.328545
+1522313,"Kristofer Uppdals veg 41, Byåsen",63.401209,10.327609
+1522314,"Kristofer Uppdals veg 34, Byåsen",63.400278,10.327669
+1522315,"Kristofer Uppdals veg 36, Byåsen",63.400635,10.327489
+1522316,"Kristofer Uppdals veg 28, Byåsen",63.399972,10.328339
+1522317,"Kristofer Uppdals veg 30, Byåsen",63.400171,10.328066
+1522318,"Kristofer Uppdals veg 24, Byåsen",63.399734,10.328829
+1522319,"Kristofer Uppdals veg 26, Byåsen",63.39981,10.328352
+1522320,"Kristofer Uppdals veg 20, Byåsen",63.399482,10.328857
+1522321,"Kristofer Uppdals veg 22, Byåsen",63.399596,10.329122
+1522572,"Kristofer Uppdals veg 17, Byåsen",63.399535,10.330861
+1522742,"Leikåsvegen 2D, Byåsen",63.400616,10.330431
+1523282,"Olav Duuns veg 11A, Byåsen",63.396892,10.334182
+1523316,"Olav Duuns veg 11B, Byåsen",63.396769,10.333916
+1523317,"Per Sivles veg 13A, Byåsen",63.399712,10.334974
+1523417,"Uglahaugstien 6, Byåsen",63.397162,10.33988
+1524277,"Olav Duuns veg 18A, Byåsen",63.396813,10.331116
+1524285,"Per Sivles veg 14C, Byåsen",63.399069,10.332742
+1524312,"Uglavegen 24C, Byåsen",63.399937,10.333002
+1524324,"Olav Duuns veg 1A, Byåsen",63.395801,10.335693
+1524328,"Olav Duuns veg 1B, Byåsen",63.395836,10.335794
+1524426,"Kvernhusstien 3B, Byåsen",63.399364,10.343426
+1524436,"Uglabakken 8, Byåsen",63.401082,10.339232
+1524438,"Uglabakken 10, Byåsen",63.401414,10.338945
+1524440,"Uglabakken 4, Byåsen",63.401145,10.338284
+1524442,"Uglabakken 6, Byåsen",63.401041,10.338799
+1524595,"Kvernhusstien 3A, Byåsen",63.399402,10.343147
+1524659,"Uglabakken 16, Byåsen",63.401295,10.339432
+1524661,"Uglabakken 7, Byåsen",63.401263,10.339939
+1524663,"Uglabakken 12, Byåsen",63.401533,10.339052
+1524665,"Uglabakken 14, Byåsen",63.401482,10.33947
+1524671,"Uglabakken 9, Byåsen",63.40146,10.340174
+1524673,"Uglabakken 11, Byåsen",63.401476,10.339811
+1524925,"Uglavegen 18B, Byåsen",63.398771,10.333889
+1525071,"Olav Duuns veg 1C, Byåsen",63.395941,10.336039
+1525073,"Olav Duuns veg 1D, Byåsen",63.395985,10.336122
+1525493,"Vetle Vislies veg 11, Byåsen",63.401221,10.325274
+1525494,"Vetle Vislies veg 9, Byåsen",63.401296,10.325858
+1525495,"Nordahl Griegs veg 12, Byåsen",63.397399,10.336608
+1525497,"Vetle Vislies veg 3, Byåsen",63.401564,10.326951
+1525499,"Vetle Vislies veg 7, Byåsen",63.401409,10.326243
+1525500,"Vetle Vislies veg 5, Byåsen",63.401488,10.326527
+1525505,"Nordahl Griegs veg 10, Byåsen",63.397502,10.337133
+1525543,"Olav Duuns veg 11C, Byåsen",63.396689,10.333852
+1525615,"Vetle Vislies veg 1, Byåsen",63.401534,10.32731
+1525622,"Nordahl Griegs veg 8A, Byåsen",63.397564,10.33746
+1525631,"Nordahl Griegs veg 16, Byåsen",63.397229,10.33654
+1525632,"Nordahl Griegs veg 14, Byåsen",63.397278,10.336162
+1525815,"Nordahl Griegs veg 21A, Byåsen",63.39771,10.335849
+1525965,"Nordahl Griegs veg 21B, Byåsen",63.397746,10.335795
+1526075,"Nordahl Griegs veg 23A, Byåsen",63.397505,10.335892
+1526094,"Kristofer Uppdals veg 19B, Byåsen",63.399638,10.331367
+1526104,"Kristofer Uppdals veg 19A, Byåsen",63.399827,10.331395
+1526388,"Nordahl Griegs veg 4A, Byåsen",63.398004,10.338474
+1526556,"Leikåsvegen 10, Byåsen",63.400188,10.32917
+1526558,"Kristofer Uppdals veg 27, Byåsen",63.399992,10.329982
+1526711,"Olav Duuns veg 15C, Byåsen",63.397309,10.333781
+1526714,"Olav Duuns veg 15A, Byåsen",63.39714,10.333653
+1527506,"Gamle Oslovei 86, Byåsen",63.400223,10.340803
+1527594,"Uglahaugstien 13, Byåsen",63.397709,10.339985
+1527596,"Uglahaugstien 11, Byåsen",63.397656,10.339883
+1527597,"Uglahaugstien 15, Byåsen",63.397792,10.339689
+1527602,"Uglahaugstien 18, Byåsen",63.397882,10.338712
+1527603,"Uglahaugstien 3, Byåsen",63.397665,10.340824
+1527604,"Uglahaugstien 8, Byåsen",63.397118,10.339778
+1527605,"Uglahaugstien 16A, Byåsen",63.397504,10.3383
+1527606,"Uglahaugstien 7, Byåsen",63.397966,10.340007
+1527607,"Uglahaugstien 9, Byåsen",63.398101,10.340304
+1527608,"Uglahaugstien 5A, Byåsen",63.397876,10.340562
+1527609,"Uglahaugstien 17, Byåsen",63.397921,10.339395
+1527614,"Uglahaugstien 12, Byåsen",63.397627,10.339161
+1527615,"Uglahaugstien 14, Byåsen",63.39753,10.338896
+1527616,"Uglahaugstien 2, Byåsen",63.397294,10.340146
+1527657,"Konrad Dahls veg 5E, Byåsen",63.400539,10.334912
+1527658,"Konrad Dahls veg 5F, Byåsen",63.400603,10.334815
+1527659,"Konrad Dahls veg 5C, Byåsen",63.400555,10.335073
+1527660,"Konrad Dahls veg 5D, Byåsen",63.40052,10.335011
+1527661,"Konrad Dahls veg 5K, Byåsen",63.400417,10.335427
+1527662,"Konrad Dahls veg 5J, Byåsen",63.40041,10.335266
+1527663,"Konrad Dahls veg 5G, Byåsen",63.400454,10.335308
+1527664,"Konrad Dahls veg 5H, Byåsen",63.4004,10.335406
+1527670,"Konrad Dahls veg 5A, Byåsen",63.400629,10.334876
+1527671,"Konrad Dahls veg 5B, Byåsen",63.400592,10.334974
+1527708,"Olav Duuns veg 3A, Byåsen",63.396097,10.335766
+1527712,"Olav Duuns veg 3B, Byåsen",63.395997,10.335802
+1528068,"Per Sivles veg 8C, Byåsen",63.40019,10.337618
+1528073,"Per Sivles veg 8D, Byåsen",63.400209,10.337559
+1528074,"Per Sivles veg 8E, Byåsen",63.400173,10.337598
+1528528,"Gamle Oslovei 93C, Byåsen",63.401392,10.341538
+1528530,"Gamle Oslovei 93D, Byåsen",63.401412,10.341319
+1528532,"Gamle Oslovei 93A, Byåsen",63.40143,10.34132
+1528534,"Gamle Oslovei 93B, Byåsen",63.401429,10.34144
+1528540,"Gamle Oslovei 93E, Byåsen",63.401411,10.341439
+1528548,"Nordahl Griegs veg 5, Byåsen",63.39782,10.337688
+1528552,"Gamle Oslovei 91B, Byåsen",63.401247,10.341752
+1528554,"Gamle Oslovei 91C, Byåsen",63.401255,10.341832
+1528558,"Gamle Oslovei 91A, Byåsen",63.401248,10.341652
+1528568,"Nordahl Griegs veg 11, Byåsen",63.398105,10.337001
+1528570,"Nordahl Griegs veg 9, Byåsen",63.398002,10.337396
+1528690,"Per Sivles veg 14E, Byåsen",63.398909,10.332534
+1528858,"Konrad Dahls veg 21, Byåsen",63.401708,10.336568
+1528860,"Konrad Dahls veg 6, Byåsen",63.40094,10.333289
+1528861,"Konrad Dahls veg 13, Byåsen",63.401028,10.336336
+1528862,"Konrad Dahls veg 11, Byåsen",63.400712,10.336522
+1528863,"Konrad Dahls veg 19, Byåsen",63.401369,10.336312
+1528864,"Konrad Dahls veg 17, Byåsen",63.40123,10.335885
+1528865,"Konrad Dahls veg 20, Byåsen",63.401531,10.334437
+1528866,"Konrad Dahls veg 18, Byåsen",63.401553,10.333718
+1528867,"Konrad Dahls veg 24, Byåsen",63.401139,10.335
+1528868,"Konrad Dahls veg 22, Byåsen",63.401387,10.334711
+1528869,"Konrad Dahls veg 8B, Byåsen",63.401106,10.333797
+1528870,"Konrad Dahls veg 8A, Byåsen",63.401152,10.333699
+1528871,"Konrad Dahls veg 14, Byåsen",63.401035,10.334615
+1528872,"Konrad Dahls veg 10, Byåsen",63.400995,10.334152
+1528877,"Konrad Dahls veg 30B, Byåsen",63.402047,10.335903
+1528878,"Konrad Dahls veg 28, Byåsen",63.401608,10.335742
+1528879,"Konrad Dahls veg 32, Byåsen",63.402223,10.336252
+1528977,"Konrad Dahls veg 7A, Byåsen",63.400698,10.33516
+1529019,"Konrad Dahls veg 15B, Byåsen",63.401106,10.335739
+1529020,"Konrad Dahls veg 9A, Byåsen",63.400674,10.335799
+1529021,"Konrad Dahls veg 34, Byåsen",63.402132,10.335426
+1529022,"Konrad Dahls veg 15A, Byåsen",63.401009,10.335474
+1529023,"Konrad Dahls veg 16, Byåsen",63.401292,10.334086
+1529024,"Konrad Dahls veg 9B, Byåsen",63.400531,10.335732
+1529025,"Konrad Dahls veg 26B, Byåsen",63.401376,10.335375
+1529080,"Per Sivles veg 14D, Byåsen",63.399051,10.332721
+1530623,"Arnebyvegen 20B, Byåsen",63.401402,10.333276
+1530624,"Arnebyvegen 22, Byåsen",63.401313,10.332768
+1530625,"Arnebyvegen 18, Byåsen",63.401656,10.333482
+1530626,"Arnebyvegen 20, Byåsen",63.401511,10.333095
+1530631,"Arnebyvegen 14B, Byåsen",63.401754,10.334528
+1530632,"Arnebyvegen 15, Byåsen",63.40166,10.332081
+1530633,"Arnebyvegen 13A, Byåsen",63.401998,10.332497
+1530634,"Arnebyvegen 14A, Byåsen",63.401806,10.334791
+1530635,"Arnebyvegen 15C, Byåsen",63.401617,10.331959
+1530636,"Arnebyvegen 16, Byåsen",63.401777,10.333988
+1530637,"Arnebyvegen 15A, Byåsen",63.401853,10.331629
+1530638,"Arnebyvegen 15B, Byåsen",63.401906,10.331752
+1530639,"Arnebyvegen 9, Byåsen",63.40205,10.333601
+1530640,"Arnebyvegen 10, Byåsen",63.402375,10.335298
+1530641,"Arnebyvegen 7, Byåsen",63.402132,10.334465
+1530642,"Arnebyvegen 8, Byåsen",63.402576,10.334947
+1530643,"Arnebyvegen 12B, Byåsen",63.40201,10.33504
+1530644,"Arnebyvegen 13, Byåsen",63.401835,10.33259
+1530645,"Arnebyvegen 11, Byåsen",63.401974,10.333097
+1530646,"Arnebyvegen 11A, Byåsen",63.401939,10.332955
+1530647,"Arnebyvegen 3, Byåsen",63.40249,10.333601
+1530648,"Arnebyvegen 4, Byåsen",63.402766,10.333854
+1530649,"Arnebyvegen 1, Byåsen",63.402624,10.333007
+1530650,"Arnebyvegen 2, Byåsen",63.40286,10.333378
+1530651,"Arnebyvegen 5, Byåsen",63.402355,10.334536
+1530652,"Arnebyvegen 6, Byåsen",63.402714,10.334573
+1530653,"Arnebyvegen 4A, Byåsen",63.402738,10.333973
+1530654,"Arnebyvegen 4B, Byåsen",63.403021,10.333902
+1531300,"Arne Garborgs veg 49B, Byåsen",63.398677,10.325132
+1531301,"Arne Garborgs veg 49C, Byåsen",63.398899,10.324966
+1531302,"Arne Garborgs veg 47, Byåsen",63.398672,10.324235
+1531303,"Arne Garborgs veg 49A, Byåsen",63.398722,10.324776
+1531304,"Arne Garborgs veg 55, Byåsen",63.399143,10.323856
+1531305,"Arne Garborgs veg 57, Byåsen",63.399,10.324671
+1531306,"Arne Garborgs veg 51, Byåsen",63.399005,10.32415
+1531307,"Arne Garborgs veg 53, Byåsen",63.399097,10.323974
+1531308,"Arne Garborgs veg 43E, Byåsen",63.398028,10.325006
+1531309,"Arne Garborgs veg 43F, Byåsen",63.398098,10.32517
+1531310,"Arne Garborgs veg 41E, Byåsen",63.397835,10.325518
+1531311,"Arne Garborgs veg 41F, Byåsen",63.397887,10.32566
+1531312,"Arne Garborgs veg 41C, Byåsen",63.397842,10.325738
+1531313,"Arne Garborgs veg 41D, Byåsen",63.397773,10.325375
+1531314,"Arne Garborgs veg 43C, Byåsen",63.398053,10.325248
+1531315,"Arne Garborgs veg 43D, Byåsen",63.397975,10.324944
+1531316,"Arne Garborgs veg 43A, Byåsen",63.397938,10.325002
+1531317,"Arne Garborgs veg 43B, Byåsen",63.397991,10.325105
+1531318,"Arne Garborgs veg 39E, Byåsen",63.397405,10.325438
+1531319,"Arne Garborgs veg 39F, Byåsen",63.397457,10.32558
+1531320,"Arne Garborgs veg 39C, Byåsen",63.397446,10.3258
+1531321,"Arne Garborgs veg 39D, Byåsen",63.397508,10.325943
+1531322,"Arne Garborgs veg 41A, Byåsen",63.397728,10.325453
+1531323,"Arne Garborgs veg 41B, Byåsen",63.39778,10.325615
+1531324,"Arne Garborgs veg 39G, Byåsen",63.397501,10.325723
+1531325,"Arne Garborgs veg 39H, Byåsen",63.397553,10.325865
+1531326,"Arne Garborgs veg 37C, Byåsen",63.3972,10.326149
+1531327,"Arne Garborgs veg 37D, Byåsen",63.397123,10.325805
+1531328,"Arne Garborgs veg 37A, Byåsen",63.397086,10.325884
+1531329,"Arne Garborgs veg 37B, Byåsen",63.397148,10.326007
+1531330,"Arne Garborgs veg 39A, Byåsen",63.39735,10.325535
+1531331,"Arne Garborgs veg 39B, Byåsen",63.397402,10.325658
+1531332,"Arne Garborgs veg 37E, Byåsen",63.397194,10.325909
+1531333,"Arne Garborgs veg 37F, Byåsen",63.397246,10.326071
+1531334,"Arne Garborgs veg 35C, Byåsen",63.396937,10.326517
+1531335,"Arne Garborgs veg 35D, Byåsen",63.396972,10.326619
+1531336,"Arne Garborgs veg 35A, Byåsen",63.396866,10.326354
+1531337,"Arne Garborgs veg 35B, Byåsen",63.396902,10.326436
+1531338,"Arne Garborgs veg 35G, Byåsen",63.396991,10.32642
+1531339,"Arne Garborgs veg 35H, Byåsen",63.397026,10.326521
+1531340,"Arne Garborgs veg 35E, Byåsen",63.396921,10.326236
+1531341,"Arne Garborgs veg 35F, Byåsen",63.396956,10.326338
+1531342,"Arne Garborgs veg 21B, Byåsen",63.397062,10.329406
+1531343,"Arne Garborgs veg 23, Byåsen",63.397131,10.328456
+1531344,"Arne Garborgs veg 20, Byåsen",63.397389,10.331889
+1531345,"Arne Garborgs veg 21, Byåsen",63.397201,10.328972
+1531346,"Arne Garborgs veg 29, Byåsen",63.39705,10.327804
+1531347,"Arne Garborgs veg 33, Byåsen",63.396771,10.32701
+1531348,"Arne Garborgs veg 25, Byåsen",63.397267,10.327654
+1531349,"Arne Garborgs veg 27, Byåsen",63.397092,10.327205
+1531350,"Arne Garborgs veg 15A, Byåsen",63.397827,10.331183
+1531351,"Arne Garborgs veg 16, Byåsen",63.397637,10.332335
+1531352,"Arne Garborgs veg 14, Byåsen",63.397795,10.332642
+1531353,"Arne Garborgs veg 14B, Byåsen",63.397766,10.332841
+1531354,"Arne Garborgs veg 18, Byåsen",63.397502,10.332114
+1531355,"Arne Garborgs veg 19, Byåsen",63.397209,10.330013
+1531356,"Arne Garborgs veg 17B, Byåsen",63.397551,10.329989
+1531357,"Arne Garborgs veg 11D, Byåsen",63.397831,10.331683
+1531358,"Arne Garborgs veg 11E, Byåsen",63.39776,10.33158
+1531359,"Arne Garborgs veg 11B, Byåsen",63.398047,10.331653
+1531360,"Arne Garborgs veg 11C, Byåsen",63.397865,10.331905
+1531361,"Arne Garborgs veg 13A, Byåsen",63.397472,10.33118
+1531362,"Arne Garborgs veg 13B, Byåsen",63.397407,10.331042
+1531363,"Arne Garborgs veg 11F, Byåsen",63.397699,10.331417
+1531364,"Arne Garborgs veg 12C, Byåsen",63.398025,10.33308
+1531365,"Arne Garborgs veg 8, Byåsen",63.397943,10.334529
+1531366,"Arne Garborgs veg 9, Byåsen",63.39797,10.33215
+1531367,"Arne Garborgs veg 6B, Byåsen",63.397737,10.335042
+1531368,"Arne Garborgs veg 7, Byåsen",63.39835,10.332828
+1531369,"Arne Garborgs veg 10B, Byåsen",63.397817,10.334145
+1531370,"Arne Garborgs veg 10C, Byåsen",63.397829,10.333805
+1531371,"Arne Garborgs veg 9A, Byåsen",63.398112,10.332417
+1531372,"Arne Garborgs veg 10A, Byåsen",63.397555,10.334373
+1531373,"Arne Garborgs veg 1B, Byåsen",63.398434,10.334374
+1531374,"Arne Garborgs veg 4, Byåsen",63.398162,10.335682
+1531376,"Arne Garborgs veg 1, Byåsen",63.398449,10.334735
+1531377,"Arne Garborgs veg 6, Byåsen",63.397979,10.335033
+1531378,"Arne Garborgs veg 6A, Byåsen",63.397668,10.334779
+1531379,"Arne Garborgs veg 3, Byåsen",63.398159,10.334211
+1531495,"Arne Garborgs veg 31, Byåsen",63.39694,10.328079
+1531497,"Arne Garborgs veg 24, Byåsen",63.396857,10.330277
+1531498,"Arne Garborgs veg 1C, Byåsen",63.398314,10.334728
+1531503,"Arne Garborgs veg 63, Byåsen",63.399235,10.324501
+1531504,"Arne Garborgs veg 65, Byåsen",63.3993,10.324344
+1531505,"Arne Garborgs veg 59, Byåsen",63.399029,10.324452
+1531506,"Arne Garborgs veg 61, Byåsen",63.399171,10.324659
+1531507,"Arne Garborgs veg 11A, Byåsen",63.398073,10.331775
+1531508,"Arne Garborgs veg 26, Byåsen",63.396744,10.329891
+1531509,"Arne Garborgs veg 15B, Byåsen",63.397651,10.330734
+1531510,"Arne Garborgs veg 15C, Byåsen",63.397638,10.330293
+1531951,"Bragstads veg 32, Byåsen",63.402259,10.331368
+1531952,"Bragstads veg 36A, Byåsen",63.40237,10.33188
+1531953,"Bragstads veg 3, Byåsen",63.402178,10.333026
+1531954,"Bragstads veg 30, Byåsen",63.402234,10.331187
+1531955,"Bragstads veg 40, Byåsen",63.402329,10.332573
+1531957,"Bragstads veg 42, Byåsen",63.402503,10.332395
+1531958,"Arnebyvegen 2B, Byåsen",63.403156,10.334393
+1531964,"Bragstads veg 26B, Byåsen",63.402094,10.3308
+1533372,"Olav Aukrusts veg 13A, Byåsen",63.395536,10.332358
+1533375,"Olav Aukrusts veg 13B, Byåsen",63.395535,10.332438
+1533732,"Nordahl Griegs veg 3, Byåsen",63.397935,10.337914
+1534963,"Per Sivles veg 14A, Byåsen",63.399528,10.333432
+1535797,"Leikåsvegen 2C, Byåsen",63.40077,10.330338
+1536009,"Kristofer Uppdals veg 9B, Byåsen",63.399385,10.330594
+1536021,"Kristofer Uppdals veg 9A, Byåsen",63.399339,10.330752
+1536358,"Per Sivles veg 7C, Byåsen",63.400396,10.336707
+1536359,"Per Sivles veg 7D, Byåsen",63.400424,10.336608
+1536361,"Per Sivles veg 7G, Byåsen",63.400489,10.336391
+1536362,"Per Sivles veg 7H, Byåsen",63.400517,10.336292
+1536363,"Per Sivles veg 7E, Byåsen",63.400516,10.336432
+1536364,"Per Sivles veg 7F, Byåsen",63.400543,10.336334
+1536391,"Kvernhusstien 28, Byåsen",63.400371,10.343253
+1536682,"Gamle Oslovei 84A, Byåsen",63.400495,10.340556
+1536683,"Gamle Oslovei 84B, Byåsen",63.400431,10.340653
+1536686,"Per Sivles veg 38B, Byåsen",63.399041,10.325173
+1536688,"Per Sivles veg 36, Byåsen",63.398879,10.325186
+1536689,"Per Sivles veg 38A, Byåsen",63.398968,10.32529
+1536694,"Olav Duuns veg 7A, Byåsen",63.396431,10.334521
+1536695,"Olav Duuns veg 7B, Byåsen",63.396514,10.334305
+1536775,"Nedre Ferstadveg 30, Byåsen",63.400561,10.343061
+1536824,"Ivar Aasens veg 19, Byåsen",63.397748,10.32787
+1536825,"Ivar Aasens veg 17, Byåsen",63.397793,10.327596
+1536826,"Ivar Aasens veg 23, Byåsen",63.397717,10.328471
+1536827,"Ivar Aasens veg 21, Byåsen",63.397756,10.328197
+1536835,"Ivar Aasens veg 15, Byåsen",63.398105,10.328333
+1536836,"Ivar Aasens veg 25, Byåsen",63.397717,10.328665
+1536838,"Ivar Aasens veg 13, Byåsen",63.398066,10.328611
+1537176,"Olav Duuns veg 7C, Byåsen",63.3966,10.334709
+1634611,"Ivar Aasens veg 24, Byåsen",63.397401,10.32836
+1634616,"Ivar Aasens veg 22, Byåsen",63.39743,10.328516
+1635958,"Ivar Aasens veg 20, Byåsen",63.397458,10.328861
+1636074,"Ivar Aasens veg 18, Byåsen",63.397471,10.328988
+1638705,"Per Sivles veg 11A, Byåsen",63.399905,10.335857
+1649218,"Kristofer Uppdals veg 21D, Byåsen",63.399873,10.330786
+1649786,"Per Sivles veg 10C, Byåsen",63.399885,10.337202
+1655214,"Uglahaugstien 16B, Byåsen",63.397494,10.338512
+1662395,"Uglavegen 28A, Byåsen",63.400056,10.331774
+1673895,"Ivar Aasens veg 39, Byåsen",63.398053,10.326405
+1674423,"Ivar Aasens veg 44, Byåsen",63.397485,10.327063
+1674434,"Ivar Aasens veg 34, Byåsen",63.397439,10.326448
+1674435,"Ivar Aasens veg 36, Byåsen",63.397488,10.326355
+1674436,"Ivar Aasens veg 38, Byåsen",63.397608,10.326662
+1674437,"Ivar Aasens veg 40, Byåsen",63.397544,10.326765
+1674438,"Ivar Aasens veg 42, Byåsen",63.397529,10.326933
+1674724,"Ivar Aasens veg 35, Byåsen",63.398221,10.326653
+1674726,"Ivar Aasens veg 37, Byåsen",63.398145,10.326523
+1674727,"Ivar Aasens veg 26, Byåsen",63.39721,10.326888
+1674728,"Ivar Aasens veg 28, Byåsen",63.397252,10.326788
+1674729,"Ivar Aasens veg 30, Byåsen",63.397364,10.326699
+1674730,"Ivar Aasens veg 32, Byåsen",63.397413,10.326605
+1719121,"Konrad Dahls veg 30A, Byåsen",63.401848,10.336074
+1785335,"Per Sivles veg 37B, Byåsen",63.398958,10.326154
+1785338,"Per Sivles veg 37C, Byåsen",63.399323,10.325651
+1793897,"Olav Aukrusts veg 14A, Byåsen",63.395876,10.332379
+1794339,"Olav Aukrusts veg 14B, Byåsen",63.39592,10.332479
+1794343,"Olav Aukrusts veg 14C, Byåsen",63.395962,10.332571
+1794344,"Olav Aukrusts veg 14D, Byåsen",63.396005,10.332654
+1807473,"Nordahl Griegs veg 25B, Byåsen",63.397461,10.335367
+1807475,"Nordahl Griegs veg 33B, Byåsen",63.39702,10.334682
+1807477,"Nordahl Griegs veg 4B, Byåsen",63.397972,10.338416
+1807479,"Nordahl Griegs veg 23B, Byåsen",63.397545,10.335936
+1809801,"Nordahl Griegs veg 2B, Byåsen",63.398142,10.338814
+1809804,"Nordahl Griegs veg 2A, Byåsen",63.398177,10.338754
+1809860,"Uglavegen 10A, Byåsen",63.3982,10.338995
+1809865,"Uglavegen 10, Byåsen",63.398238,10.338945
+1814425,"Nordahl Griegs veg 8B, Byåsen",63.397551,10.337606
+1814512,"Nordahl Griegs veg 22B, Byåsen",63.397215,10.338551
+1933239,"Leikåsvegen 1A, Byåsen",63.400964,10.329848
+1941951,"Ivar Aasens veg 5C, Byåsen",63.398157,10.330373
+1941952,"Ivar Aasens veg 5A, Byåsen",63.398251,10.330709
+1945311,"Kristofer Uppdals veg 21C, Byåsen",63.400092,10.331085
+1945312,"Kristofer Uppdals veg 21A, Byåsen",63.399936,10.331218
+1950660,"Olaf Grilstads veg 3, Byåsen",63.402592,10.336396
+1959064,"Ivar Aasens veg 43C, Byåsen",63.398544,10.325326
+1959065,"Ivar Aasens veg 43D, Byåsen",63.398561,10.32544
+1959080,"Ivar Aasens veg 43B, Byåsen",63.398521,10.325549
+1960443,"Per Sivles veg 34A, Byåsen",63.398734,10.325857
+1960445,"Per Sivles veg 34D, Byåsen",63.398705,10.325706
+1960447,"Per Sivles veg 34B, Byåsen",63.398753,10.325798
+1960448,"Per Sivles veg 34C, Byåsen",63.398685,10.325764
+1961560,"Uglavegen 30F, Byåsen",63.40071,10.331754
+1961561,"Uglavegen 30E, Byåsen",63.400605,10.331621
+1961934,"Konrad Dahls veg 26A, Byåsen",63.401569,10.335226
+1962181,"Uglavegen 4C, Byåsen",63.39863,10.34048
+1970670,"Kristofer Uppdals veg 23A, Byåsen",63.400126,10.330847
+1977434,"Kristofer Uppdals veg 13C, Byåsen",63.399599,10.330438
+1980636,"Uglamarkstien 2C, Byåsen",63.400442,10.326621
+1980637,"Uglamarkstien 2A, Byåsen",63.400621,10.327192
+1981663,"Kristofer Uppdals veg 13D, Byåsen",63.399567,10.33051
+1981667,"Kristofer Uppdals veg 13B, Byåsen",63.39964,10.330287
+1981719,"Kristofer Uppdals veg 11B, Byåsen",63.399754,10.330072
+1986755,"Uglahaugstien 19B, Byåsen",63.398101,10.339278
+1995164,"Uglavegen 29B, Byåsen",63.400606,10.333307
+1995165,"Uglavegen 29E, Byåsen",63.400652,10.333072
+1995166,"Uglavegen 29D, Byåsen",63.400682,10.333152
+1997349,"Kristofer Uppdals veg 32, Byåsen",63.400206,10.327315
+1999071,"Uglavegen 29C, Byåsen",63.400589,10.333327
+2008237,"Uglavegen 2A, Byåsen",63.399515,10.341385
+2010409,"Uglavegen 2B, Byåsen",63.399397,10.341427
+2011646,"Leikåsvegen 2A, Byåsen",63.400831,10.330888
+2014217,"Per Sivles veg 3B, Byåsen",63.40131,10.337093
+2014219,"Per Sivles veg 3A, Byåsen",63.401312,10.337267
+2015120,"Leikåsvegen 2B, Byåsen",63.400917,10.330563
+2016968,"Leikåsvegen 6B, Byåsen",63.400366,10.329623
+2019524,"Olav Duuns veg 5C, Byåsen",63.396353,10.334902
+2025114,"Uglavegen 32A, Byåsen",63.400974,10.331337
+2028031,"Uglavegen 32B, Byåsen",63.401017,10.331287
+2029108,"Uglavegen 37B, Byåsen",63.401635,10.330876
+2029195,"Uglavegen 37C, Byåsen",63.401536,10.330746
+2034166,"Vetle Vislies veg 4B, Byåsen",63.401344,10.327489
+2034168,"Vetle Vislies veg 4A, Byåsen",63.401351,10.327679
+2036342,"Arne Garborgs veg 17C, Byåsen",63.397262,10.33041
+2036343,"Arne Garborgs veg 17D, Byåsen",63.397343,10.330334
+2039923,"Arne Garborgs veg 12D, Byåsen",63.397998,10.333213
+2039935,"Arne Garborgs veg 12B, Byåsen",63.397944,10.333629
+2039936,"Arne Garborgs veg 12A, Byåsen",63.397985,10.333549
+2052619,"Leikåsvegen 8, Byåsen",63.400086,10.329543
+2053265,"Arne Garborgs veg 69, Byåsen",63.399383,10.323553
+2053266,"Arne Garborgs veg 67, Byåsen",63.399246,10.323635
+2056987,"Bragstads veg 12, Byåsen",63.401917,10.329372
+2058387,"Konrad Dahls veg 3D, Byåsen",63.40028,10.33506
+2058396,"Konrad Dahls veg 3B, Byåsen",63.400367,10.33472
+2062025,"Bragstads veg 8, Byåsen",63.40199,10.328664
+2064727,"Uglavegen 16D, Byåsen",63.398437,10.333985
+2066784,"Olav Duuns veg 26B, Byåsen",63.397064,10.330885
+2073635,"Bragstads veg 26C, Byåsen",63.40216,10.330817
+2073637,"Bragstads veg 16, Byåsen",63.402157,10.329558
+2073639,"Bragstads veg 26A, Byåsen",63.402145,10.330602
+2073641,"Bragstads veg 44, Byåsen",63.402568,10.332312
+2073642,"Bragstads veg 36B, Byåsen",63.402421,10.331816
+2073832,"Uglavegen 18C, Byåsen",63.398792,10.33363
+2073833,"Bragstads veg 10, Byåsen",63.402023,10.329023
+2088711,"Uglahaugstien 5C, Byåsen",63.397944,10.340752
+2088835,"Bragstads veg 2A, Byåsen",63.401667,10.330322
+2092126,"Uglavegen 31C, Byåsen",63.400998,10.332512
+2092127,"Uglavegen 31B, Byåsen",63.400957,10.332621
+2092587,"Uglahaugstien 5B, Byåsen",63.397878,10.340897
+2168245,"Konrad Dahls veg 12B, Byåsen",63.40084,10.334392
+2168248,"Olav Aukrusts veg 11B, Byåsen",63.395372,10.331629
+2168288,"Nordahl Griegs veg 19, Byåsen",63.397752,10.336264
+2168317,"Konrad Dahls veg 12A, Byåsen",63.40076,10.334536
+2168350,"Nordahl Griegs veg 17B, Byåsen",63.39786,10.33616
+2168358,"Olav Aukrusts veg 11A, Byåsen",63.395366,10.331317
+2168369,"Nordahl Griegs veg 17A, Byåsen",63.397949,10.336071
+2181795,"Uglavegen 31A, Byåsen",63.400863,10.332865
+2187621,"Olav Duuns veg 16B, Byåsen",63.396893,10.331955
+2187622,"Olav Duuns veg 16C, Byåsen",63.396857,10.332101
+2187631,"Olav Duuns veg 16A, Byåsen",63.396927,10.331812
+2188004,"Uglavegen 5D, Byåsen",63.399363,10.340696
+2188031,"Uglavegen 5C, Byåsen",63.399464,10.340427
+2188066,"Uglavegen 5A, Byåsen",63.399624,10.340555
+2188127,"Uglavegen 5B, Byåsen",63.399414,10.34023
+2190473,"Konrad Dahls veg 3A, Byåsen",63.400413,10.334533
+2190474,"Konrad Dahls veg 3C, Byåsen",63.400325,10.334877
+2190871,"Leikåsvegen 7, Byåsen",63.400409,10.328987
+2192539,"Konrad Dahls veg 2B, Byåsen",63.400607,10.333902
+2192540,"Konrad Dahls veg 2C, Byåsen",63.400652,10.333813
+2192541,"Konrad Dahls veg 2D, Byåsen",63.400751,10.333779
+2192543,"Konrad Dahls veg 2E, Byåsen",63.400796,10.333693
+2192548,"Konrad Dahls veg 2A, Byåsen",63.4005,10.334116
+2196198,"Arne Garborgs veg 5, Byåsen",63.39818,10.333553
+2199529,"Leikåsvegen 11, Byåsen",63.400487,10.328517
+2199584,"Leikåsvegen 13, Byåsen",63.400328,10.328707
+2199594,"Leikåsvegen 9, Byåsen",63.400545,10.328822
+2383391,"Gamle Oslovei 85A, Byåsen",63.402014,10.342184
+2383392,"Gamle Oslovei 85B, Byåsen",63.402084,10.342104
+2383393,"Gamle Oslovei 85C, Byåsen",63.402104,10.342426
+2383396,"Gamle Oslovei 85D, Byåsen",63.402039,10.342485
+2384828,"Herlofsons veg 2B, Byåsen",63.399191,10.325755
+2384873,"Herlofsons veg 2A, Byåsen",63.399171,10.325893
+2384900,"Herlofsons veg 2C, Byåsen",63.399272,10.326385
+2390800,"Olav Aukrusts veg 3, Byåsen",63.396059,10.327257
+2453304,"Arne Garborgs veg 45F, Byåsen",63.398377,10.324864
+2453305,"Arne Garborgs veg 45A, Byåsen",63.398159,10.324639
+2453337,"Arne Garborgs veg 45C, Byåsen",63.398313,10.325004
+2453338,"Arne Garborgs veg 45D, Byåsen",63.398235,10.324475
+2453339,"Arne Garborgs veg 45B, Byåsen",63.39822,10.32478
+2453365,"Arne Garborgs veg 45E, Byåsen",63.398296,10.324647
+2454940,"Odd Husbys veg 5A, Byåsen",63.396692,10.338276
+2458904,"Uglagjerdet 54, Byåsen",63.396848,10.338624
+2458905,"Uglagjerdet 58, Byåsen",63.396919,10.338796
+2458929,"Uglagjerdet 19, Byåsen",63.39674,10.338996
+2458940,"Uglagjerdet 11, Byåsen",63.396585,10.338666
+2458941,"Uglagjerdet 9, Byåsen",63.396547,10.338603
+2458971,"Uglagjerdet 13, Byåsen",63.396625,10.338762
+2458973,"Uglagjerdet 15, Byåsen",63.396662,10.338846
+2458976,"Uglagjerdet 17, Byåsen",63.396705,10.338922
+2458977,"Uglagjerdet 44, Byåsen",63.396659,10.338209
+2458978,"Uglagjerdet 46, Byåsen",63.396697,10.338331
+2466971,"Uglagjerdet 52, Byåsen",63.396812,10.338547
+2466972,"Uglagjerdet 50, Byåsen",63.396761,10.338431
+2467098,"Uglagjerdet 48, Byåsen",63.396734,10.338396
+2467099,"Uglagjerdet 56, Byåsen",63.396887,10.338708
+2475479,"Uglahaugstien 10B, Byåsen",63.397343,10.339708
+2476377,"Uglahaugstien 10A, Byåsen",63.397291,10.33948
+2491916,"Knut Hamsuns veg 6, Byåsen",63.39815,10.340989
+2534436,"Konrad Dahls veg 23, Byåsen",63.401938,10.3366
+2534442,"Konrad Dahls veg 25A, Byåsen",63.402101,10.336766
+2534452,"Konrad Dahls veg 25B, Byåsen",63.402055,10.336864

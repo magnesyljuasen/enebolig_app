@@ -1,0 +1,545 @@
+,Navn,Long,Lat
+1120212,"A.P.Alsgaards veg 2, Dolstad",65.824425,13.219178
+1120213,"A.P.Alsgaards veg 1, Dolstad",65.824435,13.219987
+1120379,"Birger Sjøbergs gate 7, Dolstad",65.829788,13.216529
+1120380,"Birger Sjøbergs gate 5, Dolstad",65.829902,13.216259
+1120381,"Birger Sjøbergs gate 3, Dolstad",65.829997,13.215989
+1120382,"Birger Sjøbergs gate 1, Dolstad",65.830137,13.21563
+1120383,"Birger Sjøbergs gate 15, Dolstad",65.829353,13.217698
+1120384,"Birger Sjøbergs gate 13, Dolstad",65.829501,13.217316
+1120385,"Birger Sjøbergs gate 11, Dolstad",65.829596,13.216981
+1120386,"Birger Sjøbergs gate 9, Dolstad",65.829684,13.216821
+1120542,"Aspåsvegen 58, Dolstad",65.821937,13.215125
+1120543,"Aspåsvegen 56, Dolstad",65.822152,13.21511
+1120544,"Aspåsvegen 55, Dolstad",65.82215,13.215702
+1120545,"Aspåsvegen 62, Dolstad",65.821533,13.21511
+1120547,"Aspåsvegen 60, Dolstad",65.821783,13.215027
+1120548,"Aspåsvegen 59, Dolstad",65.821764,13.216103
+1120551,"Aspåsvegen 66, Dolstad",65.82114,13.215312
+1120552,"Aspåsvegen 64, Dolstad",65.821345,13.215145
+1120573,"Aspåsvegen 24, Dolstad",65.826654,13.213244
+1120574,"Aspåsvegen 23, Dolstad",65.826751,13.213894
+1120575,"Aspåsvegen 22, Dolstad",65.826842,13.213209
+1120576,"Aspåsvegen 21, Dolstad",65.826948,13.213858
+1120577,"Aspåsvegen 28, Dolstad",65.82625,13.213272
+1120578,"Aspåsvegen 27, Dolstad",65.826348,13.213966
+1120579,"Aspåsvegen 26, Dolstad",65.826484,13.2133
+1120580,"Aspåsvegen 25, Dolstad",65.826564,13.214016
+1120581,"Aspåsvegen 32, Dolstad",65.82592,13.213426
+1120582,"Aspåsvegen 31, Dolstad",65.826026,13.214098
+1120583,"Aspåsvegen 30, Dolstad",65.82608,13.213328
+1120584,"Aspåsvegen 29, Dolstad",65.826151,13.214001
+1120585,"Aspåsvegen 36, Dolstad",65.825616,13.213491
+1120586,"Aspåsvegen 35, Dolstad",65.825569,13.214129
+1120587,"Aspåsvegen 34, Dolstad",65.825741,13.213461
+1120588,"Aspåsvegen 33, Dolstad",65.825802,13.214091
+1120589,"Aspåsvegen 40, Dolstad",65.825204,13.213629
+1120590,"Aspåsvegen 39, Dolstad",65.825211,13.214242
+1120591,"Aspåsvegen 38, Dolstad",65.825383,13.213573
+1120592,"Aspåsvegen 37, Dolstad",65.825399,13.214207
+1120593,"Aspåsvegen 44, Dolstad",65.824828,13.213699
+1120594,"Aspåsvegen 43, Dolstad",65.824674,13.214323
+1120595,"Aspåsvegen 42, Dolstad",65.825043,13.213619
+1120596,"Aspåsvegen 41, Dolstad",65.824862,13.21431
+1120597,"Aspåsvegen 48, Dolstad",65.823092,13.214082
+1120598,"Aspåsvegen 46B, Dolstad",65.824326,13.213734
+1120599,"Aspåsvegen 46, Dolstad",65.824604,13.213715
+1120600,"Aspåsvegen 45, Dolstad",65.824369,13.214366
+1120601,"Aspåsvegen 54, Dolstad",65.822314,13.215121
+1120602,"Aspåsvegen 53, Dolstad",65.82259,13.215715
+1120603,"Aspåsvegen 52, Dolstad",65.8226,13.215058
+1120604,"Aspåsvegen 50, Dolstad",65.822776,13.214717
+1120605,"Aspåsvegen 4D, Dolstad",65.828837,13.211144
+1120606,"Aspåsvegen 4C, Dolstad",65.828881,13.211097
+1120607,"Aspåsvegen 4B, Dolstad",65.828943,13.211027
+1120608,"Aspåsvegen 4A, Dolstad",65.828978,13.210937
+1120609,"Aspåsvegen 6A, Dolstad",65.828602,13.211007
+1120610,"Aspåsvegen 5, Dolstad",65.828473,13.213008
+1120611,"Aspåsvegen 4F, Dolstad",65.82875,13.211347
+1120612,"Aspåsvegen 4E, Dolstad",65.828785,13.211279
+1120613,"Aspåsvegen 7, Dolstad",65.828269,13.213241
+1120614,"Aspåsvegen 6D, Dolstad",65.828462,13.211279
+1120615,"Aspåsvegen 6C, Dolstad",65.828505,13.211189
+1120616,"Aspåsvegen 6B, Dolstad",65.828549,13.21112
+1120617,"Aspåsvegen 8D, Dolstad",65.828407,13.211984
+1120618,"Aspåsvegen 8C, Dolstad",65.828442,13.211872
+1120619,"Aspåsvegen 8B, Dolstad",65.828504,13.211802
+1120620,"Aspåsvegen 8A, Dolstad",65.828538,13.211712
+1120621,"Aspåsvegen 10A, Dolstad",65.828163,13.211804
+1120622,"Aspåsvegen 9, Dolstad",65.828084,13.213561
+1120623,"Aspåsvegen 8F, Dolstad",65.828301,13.212101
+1120624,"Aspåsvegen 8E, Dolstad",65.828354,13.212053
+1120625,"Aspåsvegen 11, Dolstad",65.827907,13.21377
+1120626,"Aspåsvegen 10D, Dolstad",65.828031,13.212054
+1120627,"Aspåsvegen 10C, Dolstad",65.828066,13.211986
+1120628,"Aspåsvegen 10B, Dolstad",65.828119,13.211894
+1120629,"Aspåsvegen 16, Dolstad",65.827399,13.213236
+1120630,"Aspåsvegen 15, Dolstad",65.827565,13.21445
+1120631,"Aspåsvegen 14, Dolstad",65.827559,13.213159
+1120632,"Aspåsvegen 13, Dolstad",65.827813,13.214171
+1120633,"Aspåsvegen 20, Dolstad",65.827021,13.213175
+1120634,"Aspåsvegen 19, Dolstad",65.827177,13.214215
+1120635,"Aspåsvegen 18, Dolstad",65.82721,13.213205
+1120636,"Aspåsvegen 17, Dolstad",65.827397,13.213915
+1120665,"Aspåsvegen 3, Dolstad",65.828578,13.212804
+1120666,"Aspåsvegen 1, Dolstad",65.828808,13.212503
+1120669,"A.P.Alsgaards veg 4, Dolstad",65.824206,13.218864
+1120670,"A.P.Alsgaards veg 3, Dolstad",65.824217,13.219783
+1120671,"A.P.Alsgaards veg 10, Dolstad",65.823711,13.217979
+1120672,"A.P.Alsgaards veg 7, Dolstad",65.823843,13.21924
+1120673,"A.P.Alsgaards veg 6, Dolstad",65.824034,13.218679
+1120674,"A.P.Alsgaards veg 5, Dolstad",65.824035,13.219577
+1120675,"A.P.Alsgaards veg 16, Dolstad",65.823072,13.217017
+1120676,"A.P.Alsgaards veg 14, Dolstad",65.823325,13.217152
+1120677,"A.P.Alsgaards veg 13, Dolstad",65.823329,13.21829
+1120678,"A.P.Alsgaards veg 12, Dolstad",65.823542,13.217291
+1120679,"A.P.Alsgaards veg 21, Dolstad",65.822413,13.216712
+1120680,"A.P.Alsgaards veg 20, Dolstad",65.822725,13.216515
+1120681,"A.P.Alsgaards veg 19, Dolstad",65.822687,13.217109
+1120682,"A.P.Alsgaards veg 18, Dolstad",65.822881,13.216811
+1120683,"A.P.Alsgaards veg 25, Dolstad",65.821978,13.216304
+1120684,"A.P.Alsgaards veg 24, Dolstad",65.82236,13.216015
+1120685,"A.P.Alsgaards veg 23, Dolstad",65.822241,13.216527
+1120686,"A.P.Alsgaards veg 22, Dolstad",65.822507,13.216268
+1120785,"Brinken 9, Dolstad",65.826595,13.224413
+1120786,"Brinken 7, Dolstad",65.826421,13.224096
+1120787,"Brinken 5, Dolstad",65.826221,13.223847
+1120788,"Brinken 3, Dolstad",65.826045,13.223422
+1120790,"Brinken 19, Dolstad",65.827596,13.226417
+1120791,"Brinken 16, Dolstad",65.827269,13.226818
+1120792,"Brinken 11, Dolstad",65.82677,13.224773
+1121049,"Elvstia 17, Dolstad",65.824008,13.217215
+1121050,"Elvstia 15, Dolstad",65.824274,13.217721
+1121103,"Elvstia 5, Dolstad",65.824928,13.217654
+1121104,"Elvstia 3, Dolstad",65.825048,13.217186
+1121105,"Elvstia 1, Dolstad",65.825267,13.216689
+1121107,"Elvstia 13, Dolstad",65.824346,13.217782
+1121108,"Elvstia 11, Dolstad",65.824476,13.218101
+1121109,"Elvstia 9, Dolstad",65.8246,13.218027
+1121110,"Elvstia 7, Dolstad",65.82481,13.218297
+1121143,"Dr.Frostads gate 43, Dolstad",65.828907,13.222546
+1121144,"Dr.Frostads gate 42, Dolstad",65.829258,13.222653
+1121145,"Dr.Frostads gate 41, Dolstad",65.828964,13.222016
+1121146,"Dr.Frostads gate 39, Dolstad",65.829,13.221291
+1121147,"Dr.Frostads gate 51, Dolstad",65.82958,13.223287
+1121148,"Dr.Frostads gate 49, Dolstad",65.829331,13.223501
+1121149,"Dr.Frostads gate 47, Dolstad",65.829118,13.223713
+1121150,"Dr.Frostads gate 45, Dolstad",65.8289,13.223466
+1121151,"Dr.Frostads gate 55, Dolstad",65.830031,13.222753
+1121152,"Dr.Frostads gate 54, Dolstad",65.829755,13.22218
+1121153,"Dr.Frostads gate 53, Dolstad",65.829837,13.223029
+1121154,"Dr.Frostads gate 52, Dolstad",65.829544,13.222545
+1121157,"Dr.Frostads gate 57, Dolstad",65.830179,13.222326
+1121158,"Dr.Frostads gate 56, Dolstad",65.829911,13.22171
+1121175,"Dr.Frostads gate 1, Dolstad",65.830416,13.221894
+1121177,"Dr.Frostads gate 9, Dolstad",65.830275,13.220728
+1121178,"Dr.Frostads gate 7, Dolstad",65.830241,13.221534
+1121179,"Dr.Frostads gate 5, Dolstad",65.830408,13.221238
+1121180,"Dr.Frostads gate 3, Dolstad",65.830519,13.221515
+1121181,"Dr.Frostads gate 17, Dolstad",65.829845,13.220664
+1121182,"Dr.Frostads gate 15, Dolstad",65.830128,13.221082
+1121183,"Dr.Frostads gate 13, Dolstad",65.830181,13.220969
+1121184,"Dr.Frostads gate 11, Dolstad",65.830216,13.220857
+1121185,"Dr.Frostads gate 25, Dolstad",65.829648,13.219867
+1121186,"Dr.Frostads gate 23, Dolstad",65.829662,13.220326
+1121187,"Dr.Frostads gate 19, Dolstad",65.83003,13.2203
+1121188,"Dr.Frostads gate 34, Dolstad",65.829544,13.220969
+1121189,"Dr.Frostads gate 31, Dolstad",65.829761,13.219575
+1121190,"Dr.Frostads gate 29, Dolstad",65.829735,13.219664
+1121191,"Dr.Frostads gate 27, Dolstad",65.829691,13.219776
+1121192,"Dr.Frostads gate 38, Dolstad",65.829258,13.221886
+1121193,"Dr.Frostads gate 37, Dolstad",65.829156,13.220843
+1121194,"Dr.Frostads gate 36, Dolstad",65.829431,13.221349
+1121195,"Dr.Frostads gate 35, Dolstad",65.82933,13.220349
+1121345,"Gardsvegen 2, Dolstad",65.825451,13.216348
+1121346,"Gardsvegen 1, Dolstad",65.825793,13.216368
+1121402,"Husbrekka 27, Dolstad",65.824233,13.215732
+1121403,"Husbrekka 26, Dolstad",65.824296,13.215006
+1121404,"Husbrekka 25, Dolstad",65.824404,13.215764
+1121405,"Husbrekka 24, Dolstad",65.824521,13.215056
+1121406,"Husbrekka 31, Dolstad",65.823881,13.21556
+1121407,"Husbrekka 30, Dolstad",65.823872,13.214838
+1121408,"Husbrekka 29, Dolstad",65.824125,13.215696
+1121409,"Husbrekka 28, Dolstad",65.824043,13.214892
+1121410,"Husbrekka 35A, Dolstad",65.823574,13.215428
+1121411,"Husbrekka 34, Dolstad",65.823422,13.214694
+1121412,"Husbrekka 33, Dolstad",65.82379,13.215522
+1121413,"Husbrekka 32, Dolstad",65.823666,13.214896
+1121415,"Husbrekka 37, Dolstad",65.823293,13.215206
+1121416,"Husbrekka 36, Dolstad",65.823187,13.214601
+1121417,"Husbrekka 35B, Dolstad",65.823483,13.215368
+1121440,"Husbrekka 3, Dolstad",65.82685,13.215463
+1121441,"Husbrekka 2, Dolstad",65.827158,13.214938
+1121444,"Husbrekka 7, Dolstad",65.826541,13.215857
+1121445,"Husbrekka 6, Dolstad",65.826646,13.214908
+1121446,"Husbrekka 5, Dolstad",65.826824,13.215553
+1121447,"Husbrekka 4, Dolstad",65.826915,13.21489
+1121448,"Husbrekka 11, Dolstad",65.826059,13.216153
+1121449,"Husbrekka 10, Dolstad",65.826162,13.214942
+1121450,"Husbrekka 9, Dolstad",65.8263,13.216027
+1121451,"Husbrekka 8, Dolstad",65.826431,13.214967
+1121452,"Husbrekka 16, Dolstad",65.825454,13.215035
+1121453,"Husbrekka 14, Dolstad",65.825671,13.215173
+1121454,"Husbrekka 13, Dolstad",65.825822,13.215819
+1121455,"Husbrekka 12, Dolstad",65.825894,13.215026
+1121456,"Husbrekka 23, Dolstad",65.824566,13.215819
+1121457,"Husbrekka 22, Dolstad",65.824692,13.215131
+1121458,"Husbrekka 20, Dolstad",65.824935,13.21518
+1121459,"Husbrekka 18, Dolstad",65.825204,13.215162
+1121475,"Heming Unges veg 28, Dolstad",65.831773,13.218209
+1121504,"Heming Unges veg 6B, Dolstad",65.829846,13.213767
+1121505,"Heming Unges veg 6A, Dolstad",65.82981,13.213813
+1121506,"Heming Unges veg 5C, Dolstad",65.829218,13.214577
+1121507,"Heming Unges veg 5B, Dolstad",65.829314,13.214307
+1121508,"Heming Unges veg 8B, Dolstad",65.830095,13.214384
+1121509,"Heming Unges veg 8A, Dolstad",65.83006,13.214453
+1121510,"Heming Unges veg 6D, Dolstad",65.829924,13.213564
+1121511,"Heming Unges veg 6C, Dolstad",65.829871,13.213634
+1121512,"Heming Unges veg 10B, Dolstad",65.830345,13.215002
+1121513,"Heming Unges veg 10A, Dolstad",65.830319,13.215113
+1121514,"Heming Unges veg 8D, Dolstad",65.830165,13.214226
+1121515,"Heming Unges veg 8C, Dolstad",65.83013,13.214273
+1121516,"Heming Unges veg 12B, Dolstad",65.830604,13.215663
+1121517,"Heming Unges veg 12A, Dolstad",65.830569,13.215775
+1121518,"Heming Unges veg 10D, Dolstad",65.830432,13.214821
+1121519,"Heming Unges veg 10C, Dolstad",65.83038,13.214934
+1121520,"Heming Unges veg 14B, Dolstad",65.830871,13.216257
+1121521,"Heming Unges veg 14A, Dolstad",65.830845,13.216369
+1121522,"Heming Unges veg 12D, Dolstad",65.830683,13.215482
+1121523,"Heming Unges veg 12C, Dolstad",65.83063,13.215595
+1121524,"Heming Unges veg 17, Dolstad",65.830648,13.217105
+1121525,"Heming Unges veg 15, Dolstad",65.830509,13.216742
+1121526,"Heming Unges veg 14D, Dolstad",65.830959,13.216098
+1121527,"Heming Unges veg 14C, Dolstad",65.830906,13.216189
+1121528,"Heming Unges veg 23, Dolstad",65.83119,13.218184
+1121529,"Heming Unges veg 22, Dolstad",65.831267,13.217106
+1121530,"Heming Unges veg 21, Dolstad",65.830971,13.217871
+1121531,"Heming Unges veg 19, Dolstad",65.830805,13.217532
+1121532,"Heming Unges veg 27, Dolstad",65.831494,13.218929
+1121533,"Heming Unges veg 26, Dolstad",65.831608,13.217848
+1121534,"Heming Unges veg 25, Dolstad",65.831338,13.21859
+1121535,"Heming Unges veg 24, Dolstad",65.831442,13.217466
+1121556,"Heming Unges veg 2A, Dolstad",65.829357,13.21264
+1121560,"Heming Unges veg 4A, Dolstad",65.82957,13.213173
+1121561,"Heming Unges veg 2D, Dolstad",65.829489,13.21239
+1121562,"Heming Unges veg 2C, Dolstad",65.829436,13.21246
+1121563,"Heming Unges veg 2B, Dolstad",65.829401,13.21255
+1121564,"Heming Unges veg 5A, Dolstad",65.829445,13.214035
+1121565,"Heming Unges veg 4D, Dolstad",65.829683,13.212924
+1121566,"Heming Unges veg 4C, Dolstad",65.829648,13.212992
+1121567,"Heming Unges veg 4B, Dolstad",65.829605,13.213105
+1121604,"Heirs veg 2, Dolstad",65.830795,13.209782
+1121609,"Heirs veg 8, Dolstad",65.830907,13.209358
+1121610,"Heirs veg 6, Dolstad",65.830855,13.209515
+1121611,"Heirs veg 4, Dolstad",65.83083,13.209626
+1121721,"Kippermovegen 30, Dolstad",65.829167,13.225658
+1121722,"Kippermovegen 21, Dolstad",65.829042,13.219537
+1121723,"Kippermovegen 19, Dolstad",65.829217,13.219087
+1121724,"Kippermovegen 18, Dolstad",65.829411,13.219599
+1121728,"Kippermovegen 40, Dolstad",65.830104,13.228265
+1121753,"Kippermovegen 11, Dolstad",65.829757,13.217692
+1121754,"Kippermovegen 9, Dolstad",65.82987,13.217378
+1121755,"Kippermovegen 17, Dolstad",65.829329,13.218729
+1121756,"Kippermovegen 16, Dolstad",65.829524,13.219284
+1121757,"Kippermovegen 15, Dolstad",65.829548,13.21821
+1121758,"Kippermovegen 13, Dolstad",65.829635,13.218007
+1121759,"Johan Lynghaugs veg 7, Dolstad",65.828799,13.218656
+1121760,"Johan Lynghaugs veg 6, Dolstad",65.828465,13.218504
+1121761,"Johan Lynghaugs veg 5, Dolstad",65.828736,13.217916
+1121762,"Johan Lynghaugs veg 4, Dolstad",65.828495,13.217976
+1121783,"Kippermovegen 1, Dolstad",65.830279,13.216298
+1121786,"Kippermovegen 7, Dolstad",65.829948,13.217131
+1121787,"Kippermovegen 5, Dolstad",65.830035,13.216885
+1121788,"Kippermovegen 3, Dolstad",65.830148,13.21657
+1121789,"Kippermovegen 2, Dolstad",65.830363,13.218854
+1121818,"Johan Lynghaugs veg 3, Dolstad",65.828641,13.217463
+1121819,"Johan Lynghaugs veg 2, Dolstad",65.828374,13.217635
+1121936,"Mellomvegen 4B, Dolstad",65.822025,13.218052
+1121937,"Mellomvegen 4A, Dolstad",65.822134,13.218154
+1121938,"Mellomvegen 3, Dolstad",65.822109,13.219075
+1121994,"Mellomvegen 2, Dolstad",65.822468,13.218372
+1121995,"Mellomvegen 1, Dolstad",65.822296,13.219018
+1122006,"Lundvegen 23, Dolstad",65.828228,13.222067
+1122007,"Lundvegen 22, Dolstad",65.827904,13.225067
+1122008,"Lundvegen 21, Dolstad",65.828278,13.221713
+1122009,"Lundvegen 20, Dolstad",65.827942,13.224451
+1122010,"Lundvegen 26B, Dolstad",65.827901,13.226359
+1122011,"Lundvegen 26A, Dolstad",65.827782,13.226148
+1122012,"Lundvegen 25, Dolstad",65.828259,13.222393
+1122013,"Lundvegen 24, Dolstad",65.827875,13.225616
+1122014,"Lundvegen 31, Dolstad",65.82819,13.223405
+1122015,"Lundvegen 29, Dolstad",65.828267,13.223071
+1122016,"Lundvegen 28, Dolstad",65.8279,13.227059
+1122017,"Lundvegen 27, Dolstad",65.828209,13.222747
+1122018,"Lundvegen 35, Dolstad",65.828288,13.224121
+1122019,"Lundvegen 34, Dolstad",65.827791,13.22849
+1122020,"Lundvegen 33, Dolstad",65.828328,13.223746
+1122021,"Lundvegen 32, Dolstad",65.827865,13.227937
+1122022,"Lundvegen 43, Dolstad",65.828131,13.226824
+1122023,"Lundvegen 41, Dolstad",65.828253,13.225721
+1122024,"Lundvegen 39, Dolstad",65.828264,13.22513
+1122025,"Lundvegen 37, Dolstad",65.828257,13.224539
+1122026,"Lundvegen 51, Dolstad",65.82812,13.229014
+1122027,"Lundvegen 49, Dolstad",65.828169,13.228573
+1122028,"Lundvegen 47, Dolstad",65.828091,13.228009
+1122029,"Lundvegen 45, Dolstad",65.82812,13.227416
+1122033,"Lundvegen 53, Dolstad",65.827873,13.229382
+1122048,"Lundvegen 4, Dolstad",65.82805,13.21908
+1122049,"Lundvegen 3, Dolstad",65.828098,13.217829
+1122052,"Lundvegen 7A, Dolstad",65.828509,13.219201
+1122053,"Lundvegen 7, Dolstad",65.828346,13.219081
+1122054,"Lundvegen 6, Dolstad",65.827939,13.219569
+1122055,"Lundvegen 5, Dolstad",65.828238,13.218301
+1122056,"Lundvegen 11, Dolstad",65.828204,13.219945
+1122057,"Lundvegen 10, Dolstad",65.827922,13.220424
+1122058,"Lundvegen 9, Dolstad",65.828262,13.219547
+1122059,"Lundvegen 8, Dolstad",65.827926,13.219986
+1122060,"Lundvegen 15, Dolstad",65.82817,13.220911
+1122061,"Lundvegen 14, Dolstad",65.82796,13.221385
+1122062,"Lundvegen 13, Dolstad",65.828155,13.220408
+1122063,"Lundvegen 12, Dolstad",65.827918,13.220884
+1122064,"Lundvegen 19, Dolstad",65.828346,13.221402
+1122065,"Lundvegen 18, Dolstad",65.82791,13.223293
+1122066,"Lundvegen 17, Dolstad",65.828406,13.220347
+1122067,"Lundvegen 16, Dolstad",65.827904,13.222746
+1122146,"Klokker Jensens gate 7, Dolstad",65.822394,13.2205
+1122147,"Klokker Jensens gate 5, Dolstad",65.822395,13.219778
+1122148,"Klokker Jensens gate 3, Dolstad",65.822089,13.219733
+1122150,"Kåre Vangens veg 6, Dolstad",65.831118,13.209694
+1122151,"Kåre Vangens veg 4, Dolstad",65.831084,13.209915
+1122152,"Kåre Vangens veg 3, Dolstad",65.831441,13.210525
+1122153,"Kåre Vangens veg 2, Dolstad",65.83105,13.210027
+1122154,"Kåre Vangens veg 10, Dolstad",65.831264,13.209136
+1122155,"Kåre Vangens veg 9, Dolstad",65.831475,13.209559
+1122156,"Kåre Vangens veg 8, Dolstad",65.83117,13.20958
+1122157,"Kåre Vangens veg 7, Dolstad",65.83132,13.210117
+1122159,"Kåre Vangens veg 14, Dolstad",65.831605,13.207645
+1122160,"Kåre Vangens veg 12, Dolstad",65.831417,13.208468
+1122161,"Kåre Vangens veg 11, Dolstad",65.831681,13.2088
+1122249,"Olderbakken 8, Dolstad",65.827566,13.228461
+1122250,"Olderbakken 6, Dolstad",65.827506,13.227896
+1122251,"Olderbakken 4A, Dolstad",65.827537,13.227456
+1122284,"Olderbakken 4, Dolstad",65.827544,13.227303
+1122285,"Olderbakken 2, Dolstad",65.827513,13.226955
+1122314,"Nermovegen 8A, Dolstad",65.829417,13.21546
+1122315,"Nermovegen 7, Dolstad",65.829011,13.215313
+1122316,"Nermovegen 5, Dolstad",65.828917,13.214948
+1122317,"Nermovegen 3, Dolstad",65.828842,13.214647
+1122318,"Nermovegen 11, Dolstad",65.829198,13.215935
+1122319,"Nermovegen 9, Dolstad",65.829104,13.215614
+1122320,"Nermovegen 8C, Dolstad",65.829626,13.214921
+1122321,"Nermovegen 8B, Dolstad",65.829503,13.215192
+1122324,"Nermovegen 15, Dolstad",65.829377,13.216624
+1122325,"Nermovegen 13, Dolstad",65.829273,13.216215
+1122345,"Myrvegen 14B, Dolstad",65.826057,13.219809
+1122346,"Myrvegen 14A, Dolstad",65.826061,13.219371
+1122347,"Myrvegen 13, Dolstad",65.827312,13.221999
+1122348,"Myrvegen 12B, Dolstad",65.825732,13.218846
+1122349,"Myrvegen 18A, Dolstad",65.826528,13.220937
+1122350,"Myrvegen 17B, Dolstad",65.827508,13.22255
+1122351,"Myrvegen 16B, Dolstad",65.82619,13.220413
+1122352,"Myrvegen 16A, Dolstad",65.826369,13.2204
+1122353,"Myrvegen 20B, Dolstad",65.826647,13.221935
+1122354,"Myrvegen 20A, Dolstad",65.826818,13.221924
+1122355,"Myrvegen 19, Dolstad",65.827709,13.222979
+1122356,"Myrvegen 18B, Dolstad",65.826524,13.221397
+1122357,"Myrvegen 24B, Dolstad",65.827139,13.223324
+1122358,"Myrvegen 24A, Dolstad",65.827301,13.223335
+1122359,"Myrvegen 22B, Dolstad",65.826972,13.222898
+1122360,"Myrvegen 22A, Dolstad",65.826976,13.22246
+1122364,"Myrvegen 26, Dolstad",65.827829,13.223977
+1122373,"Nermovegen 1, Dolstad",65.828638,13.214048
+1122384,"Myrbakken 10, Dolstad",65.827695,13.221732
+1122385,"Myrbakken 3, Dolstad",65.827644,13.220422
+1122386,"Myrbakken 2, Dolstad",65.827368,13.21985
+1122387,"Myrbakken 1, Dolstad",65.827644,13.219655
+1122388,"Myrvegen 2, Dolstad",65.827032,13.218735
+1122389,"Myrvegen 1, Dolstad",65.826796,13.219298
+1122390,"Myrbakken 12B, Dolstad",65.827845,13.222312
+1122391,"Myrbakken 12A, Dolstad",65.827842,13.222028
+1122392,"Myrvegen 6, Dolstad",65.826558,13.218154
+1122393,"Myrvegen 5, Dolstad",65.826492,13.219363
+1122394,"Myrvegen 4, Dolstad",65.826831,13.218442
+1122395,"Myrvegen 3, Dolstad",65.826666,13.218957
+1122396,"Myrvegen 12A, Dolstad",65.825911,13.218856
+1122397,"Myrvegen 11, Dolstad",65.827154,13.22155
+1122398,"Myrvegen 8, Dolstad",65.826544,13.217652
+1122399,"Myrvegen 7, Dolstad",65.826539,13.219535
+1122483,"Sagmoen 20, Dolstad",65.823245,13.215691
+1122484,"Sagmoen 19, Dolstad",65.823789,13.216901
+1122485,"Sagmoen 18, Dolstad",65.823516,13.21587
+1122486,"Sagmoen 16, Dolstad",65.823743,13.216095
+1122487,"Sagmoen 25, Dolstad",65.823063,13.216251
+1122488,"Sagmoen 23, Dolstad",65.823308,13.216453
+1122489,"Sagmoen 22, Dolstad",65.82298,13.21525
+1122490,"Sagmoen 21, Dolstad",65.823517,13.216723
+1122494,"Sagmoen 27, Dolstad",65.8228,13.216029
+1122515,"Sagmoen 10, Dolstad",65.824195,13.21637
+1122516,"Sagmoen 8, Dolstad",65.82443,13.216485
+1122517,"Sagmoen 6, Dolstad",65.824511,13.216479
+1122518,"Sagmoen 4, Dolstad",65.82477,13.216439
+1122519,"Sagmoen 14, Dolstad",65.823888,13.216238
+1122520,"Sagmoen 12, Dolstad",65.824123,13.216331
+1122549,"Sagmoen 2, Dolstad",65.824843,13.2165
+1122734,"Skul-Svends veg 12, Dolstad",65.822818,13.21756
+1122735,"Skul-Svends veg 11B, Dolstad",65.822381,13.217787
+1122736,"Skul-Svends veg 11A, Dolstad",65.822434,13.217696
+1122737,"Skul-Svends veg 10, Dolstad",65.823031,13.218136
+1122739,"Skul-Svends veg 17, Dolstad",65.821721,13.217583
+1122740,"Skul-Svends veg 15, Dolstad",65.822042,13.217219
+1122741,"Skul-Svends veg 13, Dolstad",65.822225,13.217469
+1122754,"Skul-Svends veg 1B, Dolstad",65.82432,13.22249
+1122755,"Skul-Svends veg 1, Dolstad",65.824144,13.222021
+1122758,"Skul-Svends veg 4B, Dolstad",65.823667,13.219602
+1122759,"Skul-Svends veg 4A, Dolstad",65.823778,13.219857
+1122760,"Skul-Svends veg 3, Dolstad",65.82402,13.221351
+1122761,"Skul-Svends veg 2, Dolstad",65.823944,13.22024
+1122762,"Skul-Svends veg 5, Dolstad",65.823235,13.219435
+1122763,"Skul-Svends veg 7, Dolstad",65.822847,13.218499
+1122764,"Skul-Svends veg 9, Dolstad",65.822598,13.217947
+1122765,"Skul-Svends veg 8, Dolstad",65.82316,13.218455
+1122800,"Theodor Moes veg 14, Dolstad",65.82918,13.218257
+1122801,"Theodor Moes veg 12, Dolstad",65.829067,13.217762
+1122803,"Theodor Moes veg 11, Dolstad",65.829092,13.21684
+1122890,"Theodor Moes veg 2, Dolstad",65.828343,13.214966
+1122892,"Theodor Moes veg 1, Dolstad",65.828507,13.214363
+1122896,"Theodor Moes veg 6, Dolstad",65.828689,13.216124
+1122898,"Theodor Moes veg 5, Dolstad",65.828734,13.215355
+1122899,"Theodor Moes veg 4, Dolstad",65.828547,13.215565
+1122901,"Theodor Moes veg 3, Dolstad",65.828592,13.214773
+1122903,"Theodor Moes veg 10, Dolstad",65.828962,13.217287
+1122905,"Theodor Moes veg 9, Dolstad",65.828988,13.216432
+1122906,"Theodor Moes veg 8, Dolstad",65.828821,13.216706
+1122907,"Theodor Moes veg 7, Dolstad",65.828865,13.215893
+1122952,"Søster Signes veg 16, Dolstad",65.827105,13.225078
+1122953,"Søster Signes veg 14, Dolstad",65.827131,13.224945
+1122954,"Søster Signes veg 12, Dolstad",65.827147,13.224791
+1122955,"Søster Signes veg 10, Dolstad",65.827191,13.2247
+1122956,"Søster Signes veg 24, Dolstad",65.827103,13.225669
+1122957,"Søster Signes veg 22, Dolstad",65.827102,13.225516
+1122958,"Søster Signes veg 20, Dolstad",65.827091,13.225364
+1122959,"Søster Signes veg 18, Dolstad",65.827089,13.225211
+1122960,"Søster Signes veg 37, Dolstad",65.827461,13.225535
+1122961,"Søster Signes veg 35, Dolstad",65.827472,13.22571
+1122962,"Søster Signes veg 33, Dolstad",65.827465,13.225863
+1122963,"Søster Signes veg 31, Dolstad",65.827457,13.226017
+1122964,"Søster Signes veg 45, Dolstad",65.827545,13.225026
+1122965,"Søster Signes veg 43, Dolstad",65.827528,13.22518
+1122966,"Søster Signes veg 41, Dolstad",65.827485,13.225293
+1122967,"Søster Signes veg 39, Dolstad",65.827477,13.225403
+1122969,"Søster Signes veg 51, Dolstad",65.827594,13.224628
+1122970,"Søster Signes veg 49, Dolstad",65.827595,13.22476
+1122971,"Søster Signes veg 47, Dolstad",65.827588,13.224892
+1123312,"Heming Unges veg 3, Dolstad",65.829316,13.213738
+1123313,"Heming Unges veg 1B, Dolstad",65.82915,13.213399
+1123314,"Heming Unges veg 1A, Dolstad",65.829048,13.2131
+1123315,"Nermovegen 2, Dolstad",65.828955,13.21361
+1123351,"Heirs veg 12, Dolstad",65.830884,13.208983
+1123355,"Heirs veg 20, Dolstad",65.830924,13.208481
+1123356,"Heirs veg 18, Dolstad",65.830899,13.208658
+1123357,"Heirs veg 16, Dolstad",65.830882,13.208768
+1123358,"Heirs veg 14, Dolstad",65.830898,13.208894
+1123548,"Villes veg 3, Dolstad",65.827459,13.21691
+1123549,"Villes veg 2, Dolstad",65.827882,13.215479
+1123550,"Villes veg 1, Dolstad",65.827608,13.216593
+1123552,"Villes veg 7, Dolstad",65.82734,13.217487
+1123553,"Villes veg 6, Dolstad",65.827468,13.216121
+1123554,"Villes veg 5, Dolstad",65.827183,13.217104
+1123555,"Villes veg 4, Dolstad",65.827591,13.21585
+1123556,"Villes veg 12, Dolstad",65.82683,13.216822
+1123557,"Villes veg 10, Dolstad",65.827042,13.216523
+1123558,"Villes veg 9, Dolstad",65.827627,13.217424
+1123559,"Villes veg 8, Dolstad",65.827166,13.216383
+1123560,"Villes veg 18, Dolstad",65.827047,13.217748
+1123561,"Villes veg 16, Dolstad",65.826827,13.217326
+1123562,"Villes veg 14A, Dolstad",65.82644,13.217243
+1123563,"Villes veg 14, Dolstad",65.826615,13.216859
+1123565,"Villes veg 24, Dolstad",65.827438,13.218203
+1123566,"Villes veg 22, Dolstad",65.827102,13.21862
+1123567,"Villes veg 20, Dolstad",65.827195,13.218088
+1123600,"Vefsnvegen 20, Dolstad",65.830291,13.208875
+1123601,"Vefsnvegen 18, Dolstad",65.830326,13.208763
+1123602,"Vefsnvegen 16, Dolstad",65.83036,13.208651
+1123604,"Vefsnvegen 26, Dolstad",65.830161,13.209213
+1123605,"Vefsnvegen 25, Dolstad",65.830992,13.212001
+1123606,"Vefsnvegen 24, Dolstad",65.830204,13.2091
+1123607,"Vefsnvegen 22, Dolstad",65.830248,13.208988
+1123608,"Vefsnvegen 31A, Dolstad",65.829809,13.211648
+1123609,"Vefsnvegen 30, Dolstad",65.830065,13.209438
+1123610,"Vefsnvegen 28, Dolstad",65.830126,13.209325
+1123611,"Vefsnvegen 27, Dolstad",65.830498,13.212736
+1123612,"Vefsnvegen 36, Dolstad",65.829943,13.209797
+1123613,"Vefsnvegen 34, Dolstad",65.829995,13.209662
+1123614,"Vefsnvegen 32, Dolstad",65.830039,13.209572
+1123615,"Vefsnvegen 31B, Dolstad",65.829767,13.211535
+1123616,"Vefsnvegen 44, Dolstad",65.829708,13.210405
+1123617,"Vefsnvegen 42, Dolstad",65.82983,13.210112
+1123618,"Vefsnvegen 40, Dolstad",65.829865,13.21
+1123619,"Vefsnvegen 38, Dolstad",65.8299,13.209932
+1123620,"Vefsnvegen 46D, Dolstad",65.829257,13.210217
+1123621,"Vefsnvegen 46C, Dolstad",65.829331,13.210431
+1123622,"Vefsnvegen 46B, Dolstad",65.829415,13.210666
+1123623,"Vefsnvegen 46A, Dolstad",65.829507,13.2109
+1123635,"Vassvegen 2, Dolstad",65.828014,13.215186
+1123639,"Vassvegen 8, Dolstad",65.827809,13.216886
+1123640,"Vassvegen 7, Dolstad",65.828189,13.217122
+1123641,"Vassvegen 6, Dolstad",65.827948,13.21646
+1123642,"Vassvegen 4, Dolstad",65.827922,13.215827
+1123643,"Vassvegen 13, Dolstad",65.827736,13.219058
+1123644,"Vassvegen 12, Dolstad",65.827672,13.218252
+1123645,"Vassvegen 11, Dolstad",65.827894,13.218762
+1123646,"Vassvegen 10, Dolstad",65.827842,13.217431
+1123647,"Vassvegen 19, Dolstad",65.826969,13.221081
+1123648,"Vassvegen 17, Dolstad",65.827092,13.220854
+1123649,"Vassvegen 16, Dolstad",65.827267,13.218915
+1123650,"Vassvegen 14, Dolstad",65.82733,13.218911
+1123651,"Vefsnvegen 4, Dolstad",65.830559,13.207959
+1123653,"Vassvegen 24, Dolstad",65.826745,13.220331
+1123654,"Vassvegen 22, Dolstad",65.826752,13.220133
+1123656,"Vefsnvegen 8, Dolstad",65.830499,13.208182
+1123658,"Vefsnvegen 6, Dolstad",65.830533,13.20807
+1123660,"Vefsnvegen 14, Dolstad",65.830404,13.208517
+1123661,"Vefsnvegen 12, Dolstad",65.830438,13.208383
+1123663,"Vefsnvegen 10, Dolstad",65.830464,13.208294
+1123742,"Myrbakken 8, Dolstad",65.827626,13.221211
+1123756,"Brinken 1B, Dolstad",65.82586,13.222931
+1123758,"Brinken 1A, Dolstad",65.825708,13.222219
+1123844,"Myrbakken 4, Dolstad",65.827284,13.220337
+1123871,"Kippermovegen 28, Dolstad",65.829006,13.224925
+1123872,"Kippermovegen 38, Dolstad",65.831397,13.227585
+1123910,"Kippermovegen 20, Dolstad",65.829138,13.220056
+1123933,"Klokker Jensens gate 1, Dolstad",65.822433,13.219184
+1123937,"Lundvegen 2, Dolstad",65.828016,13.218513
+1123979,"Kippermovegen 36, Dolstad",65.830583,13.226121
+1123980,"Kippermovegen 34, Dolstad",65.830501,13.225391
+1124415,"Myrvegen 15B, Dolstad",65.827419,13.221203
+1124443,"Vassvegen 18B, Dolstad",65.827051,13.219609
+1124444,"Vassvegen 18A, Dolstad",65.827095,13.219518
+1124445,"Vassvegen 20B, Dolstad",65.826979,13.219614
+1124446,"Vassvegen 20A, Dolstad",65.826998,13.2197
+1124451,"Vassvegen 18D, Dolstad",65.827014,13.219502
+1124452,"Vassvegen 18C, Dolstad",65.827058,13.219433
+1124472,"Nermovegen 6B, Dolstad",65.829123,13.21408
+1124474,"Nermovegen 6A, Dolstad",65.829157,13.21399
+1124476,"Nermovegen 4B, Dolstad",65.828991,13.21433
+1124478,"Nermovegen 4A, Dolstad",65.829016,13.214218
+1124481,"Myrbakken 6A, Dolstad",65.827468,13.220718
+1124489,"Myrbakken 6D, Dolstad",65.827274,13.221038
+1124491,"Myrbakken 6C, Dolstad",65.827326,13.220881
+1124493,"Myrbakken 6B, Dolstad",65.827524,13.220912
+1124532,"Vefsnvegen 29B, Dolstad",65.82995,13.211154
+1124533,"Vefsnvegen 29A, Dolstad",65.829932,13.211112
+1124717,"Olderbakken 3, Dolstad",65.827878,13.227477
+1124739,"Kippermovegen 32, Dolstad",65.829773,13.224522
+1989854,"Vassvegen 1, Dolstad",65.828316,13.215688
+2055603,"Myrvegen 17A, Dolstad",65.827473,13.22243
+2188262,"Vassvegen 3, Dolstad",65.828359,13.216539
+2383828,"Johan Lynghaugs veg 1, Dolstad",65.828473,13.216988
+2475222,"Skul-Svends veg 6C, Dolstad",65.823462,13.218879
+2475223,"Skul-Svends veg 6B, Dolstad",65.823431,13.21896
+2475224,"Skul-Svends veg 6A, Dolstad",65.823402,13.219047
+2475226,"Skul-Svends veg 6F, Dolstad",65.823559,13.218627
+2475227,"Skul-Svends veg 6E, Dolstad",65.823536,13.218685
+2475228,"Skul-Svends veg 6D, Dolstad",65.823497,13.218784
+2493095,"Dr.Frostads gate 21, Dolstad",65.829863,13.219979
+2495472,"Vefsnvegen 23, Dolstad",65.830652,13.209524

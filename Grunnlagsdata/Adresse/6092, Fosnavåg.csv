@@ -1,0 +1,721 @@
+,Navn,Long,Lat
+20501,"37/7, Herøy",62.328483,5.633127
+20502,"22/28-1, Herøy",62.32389,5.666614
+20513,"38/161, Herøy",62.320777,5.635844
+20547,"22/49, Herøy",62.323983,5.669857
+31830,"38/78, Herøy",62.324047,5.654775
+34130,"38/145, Herøy",62.32546,5.650793
+42718,"32/16, Herøy",62.327328,5.66123
+1100931,"Mjølstadnesvegen 16, Herøy",62.323242,5.667766
+1100968,"Storesteinråsa 14, Herøy",62.320769,5.645947
+1100970,"Storesteinråsa 10, Herøy",62.321262,5.646259
+1100972,"Storesteinråsa 12, Herøy",62.32097,5.646079
+1100974,"Storesteinråsa 9A, Herøy",62.320877,5.645181
+1100976,"Storesteinråsa 9B, Herøy",62.321008,5.644645
+1100978,"Storesteinråsa 7A, Herøy",62.321278,5.645407
+1100980,"Storesteinråsa 8, Herøy",62.321447,5.64647
+1100982,"Storesteinråsa 5, Herøy",62.321509,5.645671
+1100984,"Storesteinråsa 6, Herøy",62.32172,5.646632
+1100988,"Mjølstadnesvegen 12, Herøy",62.324322,5.668413
+1101001,"Klokkargardsvegen 2, Herøy",62.330853,5.636011
+1101051,"Mjølstadnesvegen 19, Herøy",62.322747,5.67553
+1101056,"Mjølstadnesvegen 17, Herøy",62.322325,5.674429
+1101058,"Valvegen 8, Herøy",62.322586,5.641919
+1101059,"Valvegen 3, Herøy",62.322087,5.643578
+1101064,"Valvegen 4, Herøy",62.322409,5.643156
+1101066,"Valvegen 6, Herøy",62.322502,5.642528
+1101068,"Valvegen 2, Herøy",62.322406,5.643775
+1101072,"Storesteinråsa 3, Herøy",62.321983,5.644845
+1101074,"Storesteinråsa 4, Herøy",62.321922,5.646031
+1101076,"Storesteinråsa 1, Herøy",62.322023,5.644262
+1101078,"Storesteinråsa 2, Herøy",62.322151,5.645483
+1101080,"Markvegen 9, Herøy",62.321363,5.643254
+1101082,"Markvegen 11, Herøy",62.321231,5.643867
+1101084,"Markvegen 7, Herøy",62.32143,5.642802
+1101086,"Markvegen 8, Herøy",62.321616,5.644153
+1101087,"Markvegen 5, Herøy",62.321558,5.64215
+1101089,"Markvegen 6, Herøy",62.321655,5.64353
+1101091,"Markvegen 3, Herøy",62.321657,5.641791
+1101092,"Markvegen 4, Herøy",62.321776,5.642995
+1101094,"Markvegen 1, Herøy",62.322048,5.641574
+1101096,"Markvegen 2, Herøy",62.321891,5.642538
+1101097,"Valvegen 5, Herøy",62.322073,5.642981
+1101099,"Valvegen 7, Herøy",62.322257,5.642072
+1101118,"Mjølstadnesvegen 15, Herøy",62.322289,5.673649
+1101138,"Mjølstadnesvegen 14, Herøy",62.323363,5.664322
+1101251,"Dalavegen 4, Herøy",62.329875,5.631252
+1101252,"Dalavegen 6, Herøy",62.329589,5.630955
+1101254,"Storebakken 14, Herøy",62.327127,5.630555
+1101255,"Dalavegen 2, Herøy",62.33016,5.63151
+1101256,"Storebakken 3A, Herøy",62.327605,5.631674
+1101257,"Storebakken 5, Herøy",62.327286,5.631581
+1101259,"Toftestøvegen 24, Herøy",62.325237,5.632293
+1101261,"Toftestøvegen 26, Herøy",62.324862,5.632393
+1101263,"Toftestøvegen 12, Herøy",62.326915,5.631815
+1101266,"Mjølstadnesvegen 5, Herøy",62.325574,5.671991
+1101270,"Toftestøvegen 18, Herøy",62.326286,5.631461
+1101272,"Toftestøvegen 8, Herøy",62.327399,5.63231
+1101273,"Toftestøvegen 10, Herøy",62.327166,5.632174
+1101275,"Toftestøvegen 6, Herøy",62.32767,5.632194
+1101276,"Øvre Sørlia 9, Herøy",62.323907,5.625604
+1101277,"Storesteinråsa 7B, Herøy",62.32143,5.645023
+1101278,"Øvre Sørlia 7, Herøy",62.324017,5.626055
+1101279,"Øvre Sørlia 4, Herøy",62.324528,5.625303
+1101280,"Øvre Sørlia 8, Herøy",62.324022,5.625166
+1101281,"Øvre Sørlia 1, Herøy",62.324309,5.627355
+1101282,"Øvre Sørlia 3, Herøy",62.3243,5.626642
+1101283,"Dalavegen 1, Herøy",62.329699,5.631755
+1101284,"Dalavegen 3, Herøy",62.329514,5.631563
+1101285,"Storetua 10, Herøy",62.327566,5.630139
+1101286,"Toftestøvegen 15, Herøy",62.327074,5.633188
+1101288,"Storetua 6, Herøy",62.328015,5.630514
+1101289,"Storetua 8, Herøy",62.327786,5.630327
+1101290,"Storetua 2, Herøy",62.328483,5.630886
+1101291,"Storetua 4, Herøy",62.328252,5.630661
+1101292,"Toftestøvegen 13, Herøy",62.327372,5.633271
+1101293,"Toftestøvegen 11B, Herøy",62.32771,5.633515
+1101295,"Toftestøvegen 23, Herøy",62.326391,5.633207
+1101297,"Toftestøvegen 21, Herøy",62.326645,5.633275
+1101298,"Toftestøvegen 33, Herøy",62.324967,5.633019
+1101301,"Toftestøvegen 27, Herøy",62.325801,5.632964
+1101303,"Toftestøvegen 39, Herøy",62.324362,5.633241
+1101304,"Toftestøvegen 35, Herøy",62.324698,5.63303
+1101306,"Toftestøvegen 28, Herøy",62.324682,5.632375
+1101307,"Toftestøvegen 30, Herøy",62.324349,5.632354
+1101308,"Nedre Sørlia 14, Herøy",62.323535,5.629915
+1101309,"Nedre Sørlia 16, Herøy",62.323663,5.629244
+1101311,"Nedre Sørlia 10, Herøy",62.323456,5.630735
+1101312,"Nedre Sørlia 12, Herøy",62.323383,5.630666
+1101313,"Nedre Sørlia 6, Herøy",62.323378,5.631226
+1101314,"Nedre Sørlia 8, Herøy",62.323402,5.631108
+1101316,"Nedre Sørlia 2, Herøy",62.323089,5.631143
+1101318,"Nedre Sørlia 4, Herøy",62.32324,5.631454
+1101319,"Kvithaugsmyra 57, Herøy",62.323799,5.634502
+1101321,"Kvithaugsmyra 55, Herøy",62.323776,5.63464
+1101324,"Mjølstadnesvegen 21, Herøy",62.322917,5.676245
+1101325,"Toftestøvegen 17, Herøy",62.327019,5.633137
+1101329,"Nedre Sørlia 13, Herøy",62.323316,5.629012
+1101330,"Kvithaugsmyra 13, Herøy",62.325125,5.636188
+1101332,"Nedre Sørlia 7, Herøy",62.323136,5.630114
+1101334,"Nedre Sørlia 15, Herøy",62.323206,5.628928
+1101336,"Nedre Sørlia 27, Herøy",62.323552,5.626919
+1101339,"Nedre Sørlia 26, Herøy",62.323862,5.626729
+1101341,"Nedre Sørlia 23, Herøy",62.323046,5.627536
+1101343,"Nedre Sørlia 25, Herøy",62.323305,5.627101
+1101344,"Nedre Sørlia 19, Herøy",62.32324,5.628499
+1101346,"Nedre Sørlia 21, Herøy",62.323025,5.628156
+1101348,"Nedre Sørlia 11, Herøy",62.323251,5.629328
+1101350,"Nedre Sørlia 17, Herøy",62.323403,5.62852
+1101352,"Nedre Sørlia 5, Herøy",62.323227,5.630162
+1101354,"Nedre Sørlia 9, Herøy",62.323107,5.629673
+1101355,"Nedre Sørlia 1, Herøy",62.322925,5.630679
+1101356,"Nedre Sørlia 3, Herøy",62.322951,5.63027
+1101358,"Breidnesvegen 23, Herøy",62.325179,5.648449
+1101360,"Breidnesvegen 25, Herøy",62.325296,5.648088
+1101361,"Breidnesvegen 19, Herøy",62.32489,5.648037
+1101363,"Breidnesvegen 17, Herøy",62.325006,5.647637
+1101364,"Breidnesvegen 7, Herøy",62.324439,5.648705
+1101365,"Breidnesvegen 21, Herøy",62.324708,5.648694
+1101366,"Breidnesvegen 3, Herøy",62.324048,5.648517
+1101367,"Breidnesvegen 5, Herøy",62.324302,5.648604
+1101370,"Breidnesvegen 1, Herøy",62.323808,5.648621
+1101374,"Kvithaugsmyra 27, Herøy",62.324667,5.635853
+1101376,"Mjølstadnesvegen 9, Herøy",62.32424,5.67183
+1101377,"Kvithaugsmyra 11, Herøy",62.325198,5.636238
+1101379,"Kvithaugsmyra 29, Herøy",62.324663,5.635661
+1101410,"Vikevegen 12, Herøy",62.325574,5.631
+1101411,"Vikevegen 14, Herøy",62.325252,5.631055
+1101412,"Vikevegen 21, Herøy",62.324255,5.628096
+1101413,"Vikevegen 19, Herøy",62.324034,5.628642
+1101414,"Vikevegen 41, Herøy",62.325047,5.61744
+1101415,"Vikevegen 16, Herøy",62.325172,5.626273
+1101416,"Øvre Myklebust 24, Herøy",62.331258,5.633802
+1101418,"Øvre Myklebust 22, Herøy",62.331062,5.633495
+1101419,"Øvre Myklebust 19, Herøy",62.331261,5.633183
+1101420,"Øvre Myklebust 20, Herøy",62.330632,5.633563
+1101421,"Øvre Myklebust 17, Herøy",62.330884,5.632858
+1101423,"Øvre Myklebust 16, Herøy",62.330271,5.63312
+1101424,"Øvre Myklebust 18, Herøy",62.330455,5.633293
+1101426,"Øvre Myklebust 14, Herøy",62.330086,5.632909
+1101428,"Øvre Myklebust 15, Herøy",62.330149,5.632168
+1101429,"Storebakken 4, Herøy",62.328457,5.6317
+1101430,"Storebakken 6, Herøy",62.328103,5.631528
+1101431,"Vikevegen 15, Herøy",62.324695,5.631813
+1101432,"Storebakken 2, Herøy",62.328689,5.63123
+1101433,"Vikevegen 22, Herøy",62.325465,5.62427
+1101434,"Vikevegen 90, Herøy",62.326582,5.615529
+1101435,"Vikevegen 44, Herøy",62.326516,5.623515
+1101436,"Vikevegen 48, Herøy",62.32696,5.622943
+1101437,"Vikevegen 46, Herøy",62.326792,5.623426
+1101438,"Vikevegen 52, Herøy",62.326777,5.621689
+1101439,"Vikevegen 50, Herøy",62.327021,5.622511
+1101440,"Vikevegen 62, Herøy",62.326853,5.620386
+1101441,"Vikevegen 64, Herøy",62.327077,5.619626
+1101442,"Storebakken 12, Herøy",62.327412,5.630832
+1101443,"Storebakken 1, Herøy",62.328022,5.63229
+1101444,"Storebakken 8, Herøy",62.327891,5.6313
+1101445,"Vikevegen 72, Herøy",62.327118,5.617922
+1101446,"Storebakken 10, Herøy",62.327678,5.631034
+1101464,"Toftestøvegen 9, Herøy",62.327375,5.634507
+1101474,"Gjerdevegen 2, Herøy",62.330656,5.632691
+1101475,"Gjerdevegen 3, Herøy",62.330419,5.631828
+1101478,"Gjerdevegen 5, Herøy",62.330735,5.63187
+1101479,"Gjerdevegen 4, Herøy",62.331444,5.633317
+1101480,"Gjerdevegen 9, Herøy",62.331195,5.632321
+1101481,"Gjerdevegen 7, Herøy",62.330965,5.632115
+1101482,"Gamle Myklebustveg 6, Herøy",62.329016,5.633261
+1101483,"Gjerdevegen 11, Herøy",62.331472,5.632638
+1101484,"Gamle Myklebustveg 2, Herøy",62.32871,5.63287
+1101485,"Gamle Myklebustveg 4, Herøy",62.328777,5.633017
+1101487,"Gamle Myklebustveg 22, Herøy",62.330765,5.634958
+1101488,"Gamle Myklebustveg 19, Herøy",62.331195,5.63491
+1101489,"Gamle Myklebustveg 18, Herøy",62.330224,5.634516
+1101490,"Gamle Myklebustveg 20, Herøy",62.330507,5.634697
+1101491,"Gamle Myklebustveg 12, Herøy",62.329629,5.634081
+1101493,"Gamle Myklebustveg 16, Herøy",62.330039,5.634305
+1101495,"Toftestøvegen 5, Herøy",62.327914,5.634099
+1101497,"Gamle Myklebustveg 10, Herøy",62.329401,5.633913
+1101498,"Toftestøvegen 3, Herøy",62.328055,5.634392
+1101500,"Gamle Myklebustveg 8, Herøy",62.329216,5.633702
+1101501,"Toftestøvegen 2, Herøy",62.328581,5.63385
+1101502,"Toftestøvegen 1, Herøy",62.328158,5.634902
+1101504,"Toftestøvegen 4, Herøy",62.328928,5.633715
+1101518,"Gamle Myklebustveg 1, Herøy",62.329152,5.632569
+1101522,"Gamle Myklebustveg 5, Herøy",62.329553,5.633162
+1101523,"Gamle Myklebustveg 3, Herøy",62.329386,5.632949
+1101525,"Gamle Myklebustveg 9, Herøy",62.330158,5.633654
+1101526,"Gamle Myklebustveg 7, Herøy",62.329889,5.633317
+1101527,"Gamle Myklebustveg 13, Herøy",62.330673,5.634157
+1101528,"Gamle Myklebustveg 11, Herøy",62.33037,5.633882
+1101529,"Gamle Myklebustveg 17, Herøy",62.331095,5.634496
+1101530,"Gamle Myklebustveg 15, Herøy",62.330976,5.634046
+1101536,"Myklebustvegen 42, Herøy",62.328878,5.63459
+1101539,"Myklebustvegen 38, Herøy",62.32946,5.634872
+1101540,"Myklebustvegen 40, Herøy",62.329279,5.634468
+1101541,"Myklebustvegen 34, Herøy",62.329913,5.635034
+1101542,"Myklebustvegen 36, Herøy",62.329721,5.634534
+1101544,"Myklebustvegen 30, Herøy",62.330519,5.635218
+1101545,"Myklebustvegen 32, Herøy",62.330265,5.635111
+1101546,"Myklebustvegen 26, Herøy",62.331351,5.635434
+1101547,"Myklebustvegen 28, Herøy",62.330972,5.63536
+1101549,"Myklebustvegen 24, Herøy",62.331681,5.634971
+1101556,"Øvre Myklebust 12, Herøy",62.329901,5.632679
+1101558,"Øvre Myklebust 13, Herøy",62.329938,5.631979
+1101560,"Øvre Myklebust 8, Herøy",62.329379,5.632273
+1101562,"Øvre Myklebust 10, Herøy",62.329634,5.632438
+1101564,"Øvre Myklebust 9, Herøy",62.328929,5.631126
+1101565,"Øvre Myklebust 11, Herøy",62.329285,5.631357
+1101567,"Øvre Myklebust 5, Herøy",62.328661,5.631948
+1101569,"Øvre Myklebust 7, Herøy",62.328888,5.631691
+1101571,"Øvre Myklebust 3, Herøy",62.328235,5.632537
+1101572,"Øvre Myklebust 6, Herøy",62.328622,5.633286
+1101573,"Øvre Myklebust 1A, Herøy",62.328049,5.632934
+1101575,"Øvre Myklebust 2, Herøy",62.328195,5.633855
+1101630,"Toftestøvegen 32, Herøy",62.323702,5.632349
+1101631,"Toftestøvegen 34, Herøy",62.323753,5.632208
+1101632,"Breidnesvegen 2, Herøy",62.323953,5.649783
+1101633,"Breidnesvegen 4, Herøy",62.32399,5.65059
+1101634,"Breidnesvegen 10, Herøy",62.324292,5.650074
+1101635,"Breidnesvegen 6, Herøy",62.324026,5.64908
+1101636,"Breidnesvegen 12, Herøy",62.324388,5.649561
+1101637,"Breidnesvegen 8, Herøy",62.324243,5.649519
+1101638,"Breidnesvegen 16, Herøy",62.324584,5.649133
+1101639,"Breidnesvegen 14, Herøy",62.324286,5.649051
+1101640,"Breidnesvegen 22, Herøy",62.325528,5.650284
+1101641,"Breidnesvegen 20, Herøy",62.325275,5.649829
+1101642,"Breidnesvegen 28, Herøy",62.326266,5.650337
+1101643,"Breidnesvegen 24, Herøy",62.325724,5.650571
+1101645,"Breidnesvegen 33, Herøy",62.325651,5.649401
+1101647,"Breidnesvegen 39, Herøy",62.326362,5.649457
+1101648,"Toftestøvegen 53, Herøy",62.323245,5.633868
+1101649,"Toftestøvegen 55, Herøy",62.323261,5.633789
+1101650,"Toftestøvegen 51, Herøy",62.323434,5.633133
+1101651,"Toftestøvegen 49, Herøy",62.323392,5.633253
+1101652,"Toftestøvegen 61, Herøy",62.322892,5.633039
+1101653,"Toftestøvegen 45, Herøy",62.323328,5.632874
+1101654,"Toftestøvegen 73, Herøy",62.322929,5.631972
+1101655,"Toftestøvegen 43, Herøy",62.323136,5.632355
+1101656,"Toftestøvegen 52, Herøy",62.323482,5.631775
+1101657,"Toftestøvegen 69, Herøy",62.322673,5.631402
+1101658,"Toftestøvegen 44, Herøy",62.323789,5.629654
+1101659,"Toftestøvegen 50, Herøy",62.32371,5.631189
+1101660,"Toftestøvegen 40, Herøy",62.324134,5.630157
+1101661,"Toftestøvegen 42, Herøy",62.324286,5.629367
+1101662,"Toftestøvegen 36, Herøy",62.323895,5.631787
+1101663,"Toftestøvegen 38, Herøy",62.324054,5.630938
+1101664,"Kvithaugsmyra 21, Herøy",62.324566,5.636502
+1101665,"Kvithaugsmyra 23, Herøy",62.324437,5.636343
+1101666,"Kvithaugsmyra 9, Herøy",62.325291,5.63561
+1101667,"Kvithaugsmyra 19, Herøy",62.324714,5.636679
+1101668,"Kvithaugsmyra 30, Herøy",62.324197,5.634245
+1101669,"Kvithaugsmyra 24, Herøy",62.324571,5.633353
+1101670,"Kvithaugsmyra 26, Herøy",62.324436,5.633735
+1101671,"Kvithaugsmyra 20, Herøy",62.324669,5.634076
+1101672,"Kvithaugsmyra 22, Herøy",62.32476,5.633737
+1101673,"Kvithaugsmyra 16, Herøy",62.324468,5.634678
+1101674,"Kvithaugsmyra 18, Herøy",62.324541,5.634322
+1101675,"Kvithaugsmyra 4, Herøy",62.327,5.633854
+1101676,"Kvithaugsmyra 14, Herøy",62.325073,5.634417
+1101677,"Kvithaugsmyra 1, Herøy",62.326695,5.635742
+1101678,"Kvithaugsmyra 2, Herøy",62.327022,5.634759
+1101679,"Kvithaugsmyra 41, Herøy",62.324081,5.636112
+1101680,"Kvithaugsmyra 31, Herøy",62.324097,5.634913
+1101681,"Kvithaugsmyra 25, Herøy",62.32449,5.635564
+1101682,"Kvithaugsmyra 39, Herøy",62.3243,5.635527
+1101778,"Eggesbøvegen 1, Herøy",62.326106,5.638474
+1101780,"Eggesbøvegen 53A, Herøy",62.323583,5.651949
+1101781,"Eggesbøvegen 53B, Herøy",62.323609,5.651908
+1101782,"Eggesbøvegen 20, Herøy",62.323496,5.646879
+1101783,"Eggesbøvegen 22, Herøy",62.323529,5.647945
+1101784,"Eggesbøvegen 43, Herøy",62.323727,5.649345
+1101785,"Eggesbøvegen 45, Herøy",62.323727,5.649345
+1101786,"Eggesbøvegen 47, Herøy",62.323628,5.649742
+1101787,"Eggesbøvegen 55, Herøy",62.32362,5.652389
+1101788,"Eggesbøvegen 10, Herøy",62.324709,5.64089
+1101789,"Eggesbøvegen 49, Herøy",62.32369,5.650403
+1101790,"Eggesbøvegen 2, Herøy",62.32614,5.637286
+1101791,"Eggesbøvegen 21, Herøy",62.324279,5.644667
+1101792,"Eggesbøvegen 12, Herøy",62.323786,5.644007
+1101793,"Eggesbøvegen 27, Herøy",62.324003,5.646583
+1101794,"Eggesbøvegen 33, Herøy",62.324478,5.647329
+1101795,"Eggesbøvegen 25, Herøy",62.324157,5.645955
+1101796,"Eggesbøvegen 19, Herøy",62.324488,5.64331
+1101797,"Eggesbøvegen 51, Herøy",62.323608,5.651116
+1101798,"Eggesbøvegen 23, Herøy",62.324194,5.645275
+1101799,"Eggesbøvegen 9, Herøy",62.325531,5.639987
+1101800,"Eggesbøvegen 14, Herøy",62.323742,5.644398
+1101801,"Eggesbøvegen 16, Herøy",62.323785,5.64617
+1101802,"Eggesbøvegen 59, Herøy",62.324028,5.652375
+1101803,"Eggesbøvegen 41, Herøy",62.323663,5.648946
+1101804,"Eggesbøvegen 18, Herøy",62.323758,5.64654
+1101805,"Eggesbøvegen 53C, Herøy",62.323609,5.651908
+1101806,"Eggesbøvegen 63, Herøy",62.323918,5.653573
+1101807,"Eggesbøvegen 6J, Herøy",62.325649,5.638525
+1101808,"Eggesbøvegen 6K, Herøy",62.325658,5.638543
+1101809,"Eggesbøvegen 6G, Herøy",62.325616,5.638297
+1101810,"Eggesbøvegen 6I, Herøy",62.325804,5.63787
+1101811,"Eggesbøvegen 6E, Herøy",62.325716,5.638344
+1101812,"Eggesbøvegen 6F, Herøy",62.325672,5.638368
+1101813,"Eggesbøvegen 6C, Herøy",62.325791,5.638084
+1101814,"Eggesbøvegen 6H, Herøy",62.325715,5.638305
+1101815,"Eggesbøvegen 6A, Herøy",62.325791,5.638104
+1101816,"Eggesbøvegen 6B, Herøy",62.325774,5.638125
+1101817,"Eggesbøvegen 6D, Herøy",62.325741,5.638244
+1101818,"Eggesbøvegen 61, Herøy",62.323794,5.653258
+1101819,"Eggesbøvegen 57, Herøy",62.323801,5.652794
+1101820,"Eggesbøvegen 11, Herøy",62.325477,5.641442
+1101827,"Sjukeheimsvegen 20, Herøy",62.32667,5.645462
+1102025,"Evangervegen 15, Herøy",62.322017,5.648511
+1102026,"Evangervegen 7, Herøy",62.323236,5.646029
+1102027,"Gjerdet 17, Herøy",62.329281,5.654637
+1102028,"Evangervegen 25, Herøy",62.32086,5.653411
+1102029,"Gjerdet 23, Herøy",62.329289,5.653864
+1102030,"Gjerdet 21, Herøy",62.329117,5.654153
+1102031,"Gjerdet 27, Herøy",62.329089,5.653731
+1102032,"Gjerdet 15, Herøy",62.329445,5.654349
+1102033,"Gjerdet 18, Herøy",62.328327,5.655671
+1102034,"Gjerdet 25, Herøy",62.329155,5.653511
+1102035,"Gjerdet 39, Herøy",62.328888,5.65584
+1102036,"Gjerdet 20, Herøy",62.328594,5.656337
+1102037,"Gjerdet 35, Herøy",62.328553,5.655356
+1102038,"Gjerdet 41, Herøy",62.32876,5.656125
+1102039,"Gjerdet 37, Herøy",62.328755,5.655179
+1102040,"Gjertnesvegen 8, Herøy",62.327055,5.665182
+1102041,"Evangervegen 23, Herøy",62.321286,5.651722
+1102042,"Evangervegen 13, Herøy",62.322291,5.646434
+1102043,"Evangervegen 11, Herøy",62.322839,5.646063
+1102044,"Evangervegen 9, Herøy",62.323269,5.645629
+1102045,"Evangervegen 1, Herøy",62.323787,5.64588
+1102046,"Evangervegen 5, Herøy",62.323531,5.64645
+1102047,"Eggesbøvegen 5, Herøy",62.325835,5.639161
+1102048,"Eggesbøvegen 3, Herøy",62.325987,5.638777
+1102049,"Eggesbøvegen 8, Herøy",62.325486,5.639239
+1102076,"Gjertnesvegen 15, Herøy",62.325462,5.661707
+1102079,"Kvithaugsmyra 61, Herøy",62.323603,5.634176
+1102080,"Kvithaugsmyra 43, Herøy",62.32358,5.635473
+1102081,"Kvithaugsmyra 65, Herøy",62.323391,5.633968
+1102082,"Kvithaugsmyra 59, Herøy",62.323649,5.634229
+1102083,"Kvithaugsmyra 69, Herøy",62.323557,5.633389
+1102084,"Kvithaugsmyra 63, Herøy",62.323348,5.634069
+1102085,"Kvithaugsmyra 51, Herøy",62.323667,5.63498
+1102086,"Kvithaugsmyra 67, Herøy",62.323498,5.63355
+1102087,"Kvithaugsmyra 37, Herøy",62.323832,5.63585
+1102088,"Kvithaugsmyra 53, Herøy",62.323691,5.634862
+1102089,"Kvithaugsmyra 33, Herøy",62.323997,5.635252
+1102090,"Kvithaugsmyra 35, Herøy",62.323921,5.635496
+1102091,"Valvegen 15, Herøy",62.322341,5.639223
+1102092,"Valvegen 11, Herøy",62.322344,5.64044
+1102093,"Valvegen 19, Herøy",62.322654,5.638397
+1102094,"Valvegen 21, Herøy",62.322755,5.638134
+1102096,"Valvegen 17, Herøy",62.32257,5.638676
+1102097,"Kvithaugsmyra 5, Herøy",62.324941,5.635649
+1102098,"Kvithaugsmyra 6, Herøy",62.32639,5.634637
+1102099,"Kvithaugsmyra 7, Herøy",62.325022,5.635659
+1102100,"Kvithaugsmyra 15, Herøy",62.325,5.636241
+1102102,"Kvithaugsmyra 49, Herøy",62.323583,5.635221
+1102103,"Kvithaugsmyra 17, Herøy",62.324901,5.636213
+1102104,"Kvithaugsmyra 45, Herøy",62.323543,5.635438
+1102105,"Kvithaugsmyra 47, Herøy",62.32362,5.635256
+1102106,"Grønhaugvegen 30, Herøy",62.323007,5.635904
+1102107,"Grønhaugvegen 14, Herøy",62.323281,5.639833
+1102108,"Grønhaugvegen 19, Herøy",62.321422,5.633918
+1102109,"Grønhaugvegen 12, Herøy",62.32341,5.640321
+1102110,"Grønhaugvegen 34, Herøy",62.323181,5.635324
+1102111,"Grønhaugvegen 40, Herøy",62.322781,5.634017
+1102112,"Grønhaugvegen 38, Herøy",62.322854,5.635187
+1102113,"Grønhaugvegen 36, Herøy",62.323048,5.634644
+1102114,"Valvegen 14, Herøy",62.322913,5.638715
+1102115,"Valvegen 12, Herøy",62.322889,5.638853
+1102116,"Valvegen 18, Herøy",62.322999,5.638184
+1102117,"Valvegen 16, Herøy",62.322984,5.638321
+1102118,"Valvegen 23, Herøy",62.32286,5.637659
+1102119,"Valvegen 10, Herøy",62.322811,5.639325
+1102120,"Valvegen 13, Herøy",62.322401,5.639835
+1102121,"Valvegen 9, Herøy",62.322187,5.641018
+1102122,"Sjukeheimsvegen 22, Herøy",62.326757,5.64609
+1102123,"Sjukeheimsvegen 17, Herøy",62.32679,5.644502
+1102124,"Grønhaugvegen 17, Herøy",62.322334,5.635941
+1102125,"Grønhaugvegen 13, Herøy",62.322512,5.636616
+1102126,"Grønhaugvegen 3, Herøy",62.3236,5.642598
+1102127,"Grønhaugvegen 24, Herøy",62.323984,5.636954
+1102128,"Grønhaugvegen 15, Herøy",62.322463,5.635366
+1102129,"Grønhaugvegen 44, Herøy",62.322331,5.63399
+1102130,"Grønhaugvegen 42, Herøy",62.322478,5.634476
+1102131,"Grønhaugvegen 5, Herøy",62.323541,5.643146
+1102132,"Grønhaugvegen 28, Herøy",62.323167,5.636581
+1102133,"Grønhaugvegen 10, Herøy",62.323741,5.640632
+1102134,"Grønhaugvegen 11, Herøy",62.32274,5.636011
+1102135,"Grønhaugvegen 6, Herøy",62.323942,5.641884
+1102136,"Grønhaugvegen 18, Herøy",62.323376,5.638548
+1102137,"Grønhaugvegen 4, Herøy",62.324138,5.64219
+1102138,"Gjerdet 6A, Herøy",62.328794,5.652334
+1102139,"Gjerdet 2, Herøy",62.32899,5.652989
+1102140,"Gjerdet 13, Herøy",62.329313,5.655213
+1102141,"Gjerdet 3, Herøy",62.32965,5.655041
+1102142,"Gjerdet 4, Herøy",62.328977,5.652836
+1102143,"Gjerdet 29, Herøy",62.328821,5.654186
+1102144,"Gjerdet 1, Herøy",62.329627,5.654831
+1102145,"Gjerdet 19, Herøy",62.328977,5.65471
+1102146,"Gjerdet 31, Herøy",62.328566,5.654775
+1102147,"Gjerdet 7, Herøy",62.32966,5.656199
+1102148,"Gjerdet 11, Herøy",62.329417,5.65582
+1102149,"Sjukeheimsvegen 15, Herøy",62.326576,5.644197
+1102150,"Gjerdet 10, Herøy",62.328524,5.652674
+1102151,"Sjukeheimsvegen 16, Herøy",62.326557,5.644876
+1102152,"Sjukeheimsvegen 18, Herøy",62.326742,5.645106
+1168056,"Gjertnesvegen 20, Herøy",62.32602,5.661696
+1329191,"Mikkelhaugen 3C, Herøy",62.331581,5.636639
+1329192,"Mikkelhaugen 3B, Herøy",62.331559,5.636765
+1329197,"Mikkelhaugen 3A, Herøy",62.331535,5.63691
+1329223,"Myklebustvegen 50, Herøy",62.326434,5.636448
+1329224,"Mikkelhaugen 1, Herøy",62.331441,5.636158
+1329376,"Myklebustvegen 53, Herøy",62.325109,5.637021
+1329383,"Myklebustvegen 54, Herøy",62.325669,5.636379
+1329384,"Myklebustvegen 52, Herøy",62.325919,5.635945
+1329386,"Myklebustvegen 48, Herøy",62.327396,5.635355
+1329389,"Myklebustvegen 44, Herøy",62.327785,5.635099
+1329390,"Myklebustvegen 46, Herøy",62.327617,5.635214
+1350916,"Eggesbøvegen 4, Herøy",62.325833,5.638008
+1350918,"Mjølstadnesvegen 10, Herøy",62.324146,5.670751
+1372981,"Hjelmesetvegen 29, Herøy",62.330589,5.653371
+1372982,"Hjelmesetvegen 27, Herøy",62.330402,5.652677
+1372983,"Hjelmesetvegen 25, Herøy",62.330569,5.651789
+1372987,"Hjelmesetvegen 23, Herøy",62.330327,5.652164
+1372988,"Hjelmesetvegen 28, Herøy",62.329981,5.652743
+1372990,"Hjelmesetvegen 30, Herøy",62.330187,5.653435
+1373101,"Hjelmesetvegen 3, Herøy",62.32919,5.648639
+1373102,"Hjelmesetvegen 1, Herøy",62.328891,5.648904
+1373104,"Hjelmesetvegen 10, Herøy",62.329305,5.650404
+1373106,"Hjelmesetvegen 11, Herøy",62.329809,5.649343
+1373108,"Hjelmesetvegen 7, Herøy",62.329293,5.649149
+1373110,"Hjelmesetvegen 5, Herøy",62.329386,5.648173
+1373156,"Hjelmesetvegen 12, Herøy",62.329439,5.650756
+1373158,"Hjelmesetvegen 15, Herøy",62.329834,5.649997
+1373160,"Hjelmesetvegen 14, Herøy",62.329564,5.65107
+1373162,"Hjelmesetvegen 16, Herøy",62.329376,5.651478
+1373165,"Hjelmesetvegen 20, Herøy",62.329558,5.65196
+1373167,"Hjelmesetvegen 18, Herøy",62.329773,5.651549
+1373170,"Hjelmesetvegen 26, Herøy",62.329854,5.652313
+1373271,"Hjelmesetvegen 21, Herøy",62.330387,5.651326
+1373274,"Hjelmesetvegen 22, Herøy",62.329596,5.652475
+1373282,"Hjelmesetvegen 24, Herøy",62.329627,5.652593
+1373284,"Hjelmesetvegen 17, Herøy",62.329986,5.650695
+1373285,"Hjelmesetvegen 19, Herøy",62.330077,5.651515
+1373404,"Mikkelhaugen 5, Herøy",62.331421,5.637223
+1373407,"Mikkelhaugen 11, Herøy",62.330916,5.637878
+1373411,"Mikkelhaugen 7, Herøy",62.331185,5.637462
+1373412,"Mikkelhaugen 15, Herøy",62.330584,5.637529
+1373414,"Mikkelhaugen 13, Herøy",62.330763,5.637857
+1373415,"Mikkelhaugen 9, Herøy",62.331305,5.638337
+1373542,"Selvågvegen 18, Herøy",62.328338,5.64572
+1373543,"Selvågvegen 16, Herøy",62.328405,5.646234
+1373545,"Selvågvegen 14, Herøy",62.328474,5.646864
+1373576,"Selvågvegen 12, Herøy",62.328572,5.64722
+1373579,"Selvågvegen 10, Herøy",62.32875,5.64751
+1373580,"Selvågvegen 8, Herøy",62.328782,5.646984
+1373583,"Selvågvegen 6, Herøy",62.329008,5.647423
+1373584,"Selvågvegen 4, Herøy",62.328904,5.647937
+1373585,"Selvågvegen 2, Herøy",62.328701,5.648462
+1373601,"Mikkelhaugen 4, Herøy",62.330809,5.637175
+1373602,"Mikkelhaugen 6, Herøy",62.330667,5.63723
+1373603,"Mikkelhaugen 2, Herøy",62.330964,5.637274
+1373728,"Kvithaugsmyra 71, Herøy",62.323365,5.635649
+1374012,"Mjølstadnesvegen 24, Herøy",62.321945,5.672553
+1374160,"Evangervegen 4, Herøy",62.323308,5.645026
+1375193,"Sjukeheimsvegen 11A, Herøy",62.326513,5.643227
+1375208,"Sjukeheimsvegen 13A, Herøy",62.326407,5.643511
+1375211,"Sjukeheimsvegen 5B, Herøy",62.325932,5.643555
+1375215,"Sjukeheimsvegen 14, Herøy",62.326335,5.644978
+1375332,"Sjukeheimsvegen 6, Herøy",62.324883,5.644387
+1375333,"Sjukeheimsvegen 3, Herøy",62.3253,5.643432
+1375334,"Sjukeheimsvegen 7A, Herøy",62.326157,5.64181
+1375343,"Sjukeheimsvegen 9A, Herøy",62.32629,5.642504
+1446920,"Sjukeheimsvegen 10, Herøy",62.325367,5.644352
+1446928,"Sjukeheimsvegen 5C, Herøy",62.325938,5.640718
+1446929,"Sjukeheimsvegen 5A, Herøy",62.325446,5.642759
+1446943,"Sjukeheimsvegen 12, Herøy",62.326351,5.646039
+1449777,"Eggesbøvegen 40, Herøy",62.323866,5.654332
+1492188,"Toftestøvegen 19, Herøy",62.326598,5.633937
+1635115,"Klokkargardsvegen 14, Herøy",62.32983,5.637128
+1635116,"Klokkargardsvegen 12, Herøy",62.329899,5.636713
+1635118,"Klokkargardsvegen 16, Herøy",62.32995,5.637238
+1635120,"Klokkargardsvegen 6, Herøy",62.330146,5.63609
+1635121,"Klokkargardsvegen 10, Herøy",62.329915,5.636435
+1635122,"Klokkargardsvegen 8, Herøy",62.330024,5.636071
+1635192,"Klokkargardsvegen 18, Herøy",62.330199,5.637185
+1635193,"Klokkargardsvegen 4, Herøy",62.33041,5.636621
+1635194,"Klokkargardsvegen 20, Herøy",62.330267,5.637342
+1639652,"Stridestraumvegen 3, Herøy",62.327121,5.663845
+1639746,"Øvre Sørlia 5, Herøy",62.324388,5.626168
+1644865,"Gjerdet 14, Herøy",62.328309,5.654185
+1647849,"Demingane 4, Herøy",62.327081,5.645764
+1647852,"Demingane 2, Herøy",62.326983,5.645389
+1648444,"Demingane 26, Herøy",62.32793,5.650016
+1648501,"Demingane 1, Herøy",62.327919,5.648839
+1648505,"Demingane 8, Herøy",62.327168,5.646372
+1648506,"Demingane 10, Herøy",62.327186,5.646737
+1648508,"Demingane 6, Herøy",62.327126,5.646107
+1648511,"Demingane 16, Herøy",62.327517,5.648188
+1648514,"Demingane 18, Herøy",62.327543,5.648494
+1648517,"Demingane 12, Herøy",62.32729,5.646977
+1648519,"Demingane 14, Herøy",62.327419,5.647484
+1676269,"Nedre Sørlia 20A, Herøy",62.323498,5.62792
+1676270,"Nedre Sørlia 20B, Herøy",62.323439,5.62776
+1685007,"Mjølstadnesvegen 20, Herøy",62.32247,5.667402
+1691823,"Vikevegen 13, Herøy",62.324922,5.631903
+1705383,"Breidnesvegen 35, Herøy",62.325875,5.649683
+1709840,"Evangervegen 2, Herøy",62.323762,5.645141
+1721300,"Nedre Sørlia 22, Herøy",62.323699,5.627772
+1734621,"Nedre Sørlia 24, Herøy",62.323909,5.627373
+1774637,"Ospenesvegen 15, Herøy",62.329505,5.63564
+1774638,"Ospenesvegen 17, Herøy",62.329414,5.636307
+1774639,"Ospenesvegen 19, Herøy",62.329301,5.636861
+1774640,"Ospenesvegen 21, Herøy",62.329145,5.637458
+1774641,"Ospenesvegen 25, Herøy",62.329477,5.637092
+1774643,"Ospenesvegen 5, Herøy",62.328811,5.636695
+1774644,"Ospenesvegen 7, Herøy",62.328706,5.637237
+1774645,"Ospenesvegen 9, Herøy",62.328902,5.63594
+1774647,"Ospenesvegen 11, Herøy",62.329066,5.63567
+1774648,"Ospenesvegen 13, Herøy",62.329275,5.635396
+1774756,"Ospenesvegen 27, Herøy",62.329625,5.636515
+1774759,"Ospenesvegen 2, Herøy",62.329016,5.638825
+1774761,"Ospenesvegen 29, Herøy",62.329743,5.635826
+1774763,"Ospenesvegen 6, Herøy",62.329242,5.639406
+1774764,"Ospenesvegen 4, Herøy",62.328991,5.63962
+1774766,"Ospenesvegen 10, Herøy",62.329295,5.638832
+1774768,"Ospenesvegen 8, Herøy",62.32938,5.639344
+1775181,"Svingen 19, Herøy",62.326831,5.639475
+1775183,"Svingen 11, Herøy",62.326825,5.637756
+1775184,"Svingen 13, Herøy",62.326829,5.638297
+1775185,"Svingen 15, Herøy",62.326848,5.6387
+1775186,"Svingen 17, Herøy",62.326873,5.638987
+1775187,"Svingen 3, Herøy",62.326848,5.637025
+1775188,"Svingen 5, Herøy",62.326878,5.637105
+1775189,"Svingen 7, Herøy",62.326911,5.637173
+1775190,"Svingen 9, Herøy",62.327073,5.637612
+1775191,"Svingen 1, Herøy",62.326814,5.636971
+1775365,"Svingen 12, Herøy",62.326701,5.640069
+1775366,"Svingen 23, Herøy",62.326921,5.640237
+1775367,"Svingen 2, Herøy",62.3266,5.638496
+1775368,"Svingen 4, Herøy",62.326614,5.639055
+1775369,"Svingen 6, Herøy",62.326623,5.639643
+1775370,"Svingen 21, Herøy",62.326895,5.639912
+1783059,"Vatnevegen 14, Herøy",62.327772,5.63568
+1783060,"Vatnevegen 2, Herøy",62.327831,5.636253
+1783061,"Vatnevegen 4, Herøy",62.327654,5.636369
+1783227,"Vatnevegen 7, Herøy",62.327202,5.63924
+1783228,"Vatnevegen 5, Herøy",62.327426,5.638848
+1783229,"Vatnevegen 3, Herøy",62.327635,5.638554
+1783240,"Vatnevegen 6, Herøy",62.327471,5.636697
+1783249,"Vatnevegen 1, Herøy",62.327884,5.637715
+1783251,"Vatnevegen 12, Herøy",62.327505,5.636498
+1783254,"Vatnevegen 10, Herøy",62.327518,5.636647
+1783256,"Vatnevegen 8, Herøy",62.327452,5.636556
+1783260,"Vatnevegen 34, Herøy",62.327253,5.637998
+1783262,"Vatnevegen 32, Herøy",62.327307,5.638378
+1783264,"Vatnevegen 28, Herøy",62.327453,5.637705
+1783265,"Vatnevegen 26, Herøy",62.327279,5.637203
+1783270,"Vatnevegen 36, Herøy",62.327039,5.638428
+1783272,"Vatnevegen 16, Herøy",62.327604,5.635795
+1783274,"Vatnevegen 24, Herøy",62.327088,5.636741
+1783275,"Vatnevegen 22, Herøy",62.326989,5.636366
+1783276,"Vatnevegen 20, Herøy",62.327198,5.636092
+1783277,"Vatnevegen 18, Herøy",62.327427,5.635911
+1786922,"Gjerdet 8B, Herøy",62.328673,5.653484
+1786924,"Gjerdet 8A, Herøy",62.328802,5.653259
+1786925,"Gjerdet 8C, Herøy",62.328621,5.653573
+1809899,"Myklebustvegen 39, Herøy",62.328788,5.635334
+1829248,"Storebakken 3D, Herøy",62.32753,5.631603
+1829251,"Storebakken 3C, Herøy",62.327618,5.63169
+1829271,"Storebakken 3B, Herøy",62.327514,5.631582
+1829282,"Øvre Myklebust 1B, Herøy",62.328028,5.632942
+1864227,"Eggesbøvegen 17, Herøy",62.324697,5.642727
+1868191,"Øvre Myklebust 4, Herøy",62.328401,5.633465
+1872849,"Hjelmesetvegen 8, Herøy",62.329149,5.649944
+1876682,"Stridestraumvegen 4, Herøy",62.32727,5.664727
+1878954,"Stridestraumvegen 8, Herøy",62.328265,5.664023
+1882413,"Hjelmesetvegen 2A, Herøy",62.328751,5.649509
+1882415,"Hjelmesetvegen 2B, Herøy",62.328779,5.649632
+1883276,"Myklebustvegen 63, Herøy",62.326893,5.64167
+1883279,"Selvågvegen 1, Herøy",62.328392,5.648303
+1883281,"Myklebustvegen 61, Herøy",62.326729,5.640968
+1883365,"Myklebustvegen 83, Herøy",62.328108,5.647931
+1883366,"Myklebustvegen 81, Herøy",62.328159,5.647208
+1883367,"Myklebustvegen 79, Herøy",62.328145,5.64665
+1883395,"Myklebustvegen 85, Herøy",62.328311,5.647698
+1883484,"Myklebustvegen 67, Herøy",62.327128,5.643614
+1883485,"Myklebustvegen 65, Herøy",62.326956,5.642729
+1883492,"Myklebustvegen 77, Herøy",62.32796,5.646786
+1883493,"Myklebustvegen 75, Herøy",62.327774,5.645866
+1883495,"Myklebustvegen 73, Herøy",62.327842,5.646158
+1883496,"Myklebustvegen 71A, Herøy",62.327782,5.646389
+1883497,"Myklebustvegen 69A, Herøy",62.327673,5.645982
+1924751,"Hjelmesetvegen 6A, Herøy",62.329105,5.650636
+1924752,"Hjelmesetvegen 6B, Herøy",62.329133,5.650823
+1938176,"Hjelmesetvegen 4B, Herøy",62.328917,5.650174
+1938178,"Hjelmesetvegen 4A, Herøy",62.328878,5.650024
+1950530,"Gjerdet 16B, Herøy",62.328043,5.6547
+1954745,"Vikevegen 20, Herøy",62.325226,5.623994
+1960780,"Sjukeheimsvegen 9C, Herøy",62.326281,5.642942
+1960781,"Sjukeheimsvegen 9D, Herøy",62.32634,5.643007
+1960782,"Sjukeheimsvegen 9E, Herøy",62.326402,5.643002
+1960783,"Sjukeheimsvegen 9F, Herøy",62.326493,5.643013
+1960784,"Sjukeheimsvegen 7D, Herøy",62.32621,5.642276
+1960785,"Sjukeheimsvegen 7E, Herøy",62.326273,5.6423
+1960787,"Sjukeheimsvegen 7F, Herøy",62.32636,5.64229
+1960789,"Sjukeheimsvegen 9B, Herøy",62.326289,5.642692
+1967931,"Toftestøvegen 14B, Herøy",62.326686,5.632183
+1967932,"Toftestøvegen 14D, Herøy",62.326666,5.632164
+1967933,"Toftestøvegen 14A, Herøy",62.326775,5.632242
+1967934,"Toftestøvegen 14C, Herøy",62.326748,5.632222
+1969921,"Mjølstadnesvegen 23, Herøy",62.322817,5.677001
+1974593,"Svingen 8, Herøy",62.326693,5.639046
+1980273,"Sjukeheimsvegen 11C, Herøy",62.326512,5.643517
+1980274,"Sjukeheimsvegen 11B, Herøy",62.326518,5.643366
+1980275,"Sjukeheimsvegen 13C, Herøy",62.326305,5.64349
+1980276,"Sjukeheimsvegen 13B, Herøy",62.326354,5.643502
+1986498,"Toftestøvegen 75, Herøy",62.321444,5.630618
+1987275,"Sjukeheimsvegen 7B, Herøy",62.326156,5.64199
+1987278,"Sjukeheimsvegen 7C, Herøy",62.326152,5.642199
+1988523,"Toftestøvegen 11D, Herøy",62.327591,5.633326
+1988525,"Toftestøvegen 11C, Herøy",62.327638,5.633444
+1988527,"Toftestøvegen 11A, Herøy",62.327757,5.633591
+1989057,"Toftestøvegen 11E, Herøy",62.327556,5.633258
+1990192,"Vikevegen 70, Herøy",62.327433,5.617877
+2010933,"Eggesbøjorda 1, Herøy",62.324854,5.639398
+2014319,"Eggesbøvegen 38, Herøy",62.323456,5.653754
+2015511,"Vikevegen 68, Herøy",62.326845,5.618772
+2023114,"Mjølstadnesvegen 13, Herøy",62.323563,5.674729
+2030760,"Myklebustvegen 71B, Herøy",62.327858,5.646035
+2030763,"Myklebustvegen 69B, Herøy",62.327727,5.646206
+2035310,"Sjukeheimsvegen 5E, Herøy",62.32604,5.639872
+2035326,"Sjukeheimsvegen 5D, Herøy",62.325869,5.639806
+2040051,"Evangervegen 21, Herøy",62.321847,5.651833
+2047565,"Mjølstadnesvegen 7, Herøy",62.324788,5.671929
+2059008,"Toftestøvegen 63, Herøy",62.322673,5.632582
+2068845,"Eggesbøjorda 3, Herøy",62.324115,5.638755
+2091059,"Gjertnesåsen 3, Herøy",62.326736,5.677702
+2105456,"Gjertnesåsen 1, Herøy",62.326738,5.678712
+2117498,"Toftestøvegen 60, Herøy",62.322664,5.630095
+2117500,"Toftestøvegen 62, Herøy",62.322715,5.629783
+2117501,"Toftestøvegen 64, Herøy",62.322766,5.6293
+2117502,"Toftestøvegen 66, Herøy",62.322741,5.628773
+2117503,"Toftestøvegen 68, Herøy",62.32272,5.62825
+2117504,"Toftestøvegen 70, Herøy",62.322703,5.627785
+2117506,"Toftestøvegen 74, Herøy",62.322431,5.628474
+2117508,"Toftestøvegen 76, Herøy",62.322455,5.628964
+2117509,"Toftestøvegen 78, Herøy",62.322494,5.629568
+2117518,"Toftestøvegen 72, Herøy",62.322522,5.627892
+2166544,"Mjølstadnesvegen 22, Herøy",62.322083,5.671008
+2167512,"Valvegen 1E, Herøy",62.322417,5.645284
+2167513,"Valvegen 1A, Herøy",62.322357,5.644549
+2167514,"Valvegen 1C, Herøy",62.322379,5.644884
+2167558,"Valvegen 1D, Herøy",62.322401,5.645118
+2167559,"Valvegen 1B, Herøy",62.322373,5.644721
+2188438,"Gjertnesmarka 2D, Herøy",62.32712,5.670491
+2188439,"Gjertnesmarka 2B, Herøy",62.327188,5.670584
+2188440,"Gjertnesmarka 2C, Herøy",62.327058,5.670747
+2188471,"Gjertnesmarka 14, Herøy",62.327426,5.669696
+2188803,"Gjertnesmarka 18A, Herøy",62.327017,5.670096
+2188849,"Gjertnesmarka 18B, Herøy",62.327021,5.669854
+2188913,"Gjertnesmarka 20B, Herøy",62.327021,5.669422
+2188944,"Gjertnesmarka 20A, Herøy",62.327025,5.669595
+2199508,"Gjertnesvegen 1, Herøy",62.326273,5.665558
+2242040,"Gjertnesmarka 4C, Herøy",62.327372,5.670994
+2242046,"Gjertnesmarka 4B, Herøy",62.327473,5.670886
+2242048,"Gjertnesmarka 6D, Herøy",62.327696,5.670456
+2242049,"Gjertnesmarka 6C, Herøy",62.327649,5.670627
+2242051,"Gjertnesmarka 6B, Herøy",62.327741,5.670513
+2242052,"Gjertnesmarka 4D, Herøy",62.327415,5.670817
+2242053,"Gjertnesmarka 6A, Herøy",62.327688,5.670683
+2242054,"Gjertnesmarka 4A, Herøy",62.32742,5.67106
+2331578,"Gjertnesmarka 2A, Herøy",62.327117,5.670819
+2331643,"Gjertnesvegen 5, Herøy",62.326078,5.66415
+2331646,"Gjertnesvegen 6, Herøy",62.32716,5.665846
+2331647,"Gjertnesvegen 18, Herøy",62.325031,5.660171
+2331649,"Gjertnesvegen 16, Herøy",62.326215,5.662377
+2331650,"Gjertnesvegen 4, Herøy",62.326965,5.666293
+2331652,"Stridestraumvegen 7, Herøy",62.32742,5.663557
+2331655,"Stridestraumvegen 5, Herøy",62.327168,5.66316
+2331657,"Stridestraumvegen 6, Herøy",62.327493,5.665114
+2353867,"Gjertnesmarka 8A, Herøy",62.327802,5.670008
+2353868,"Gjertnesmarka 8D, Herøy",62.327746,5.669834
+2355147,"Gjertnesmarka 8C, Herøy",62.327753,5.670019
+2355180,"Gjertnesmarka 8B, Herøy",62.327793,5.669858
+2359277,"Gjertnesåsen 6, Herøy",62.32698,5.678805
+2359314,"Gjertnesmarka 10A, Herøy",62.32779,5.669412
+2359375,"Gjertnesmarka 10B, Herøy",62.327791,5.669257
+2359376,"Gjertnesmarka 10C, Herøy",62.32772,5.66942
+2359408,"Gjertnesmarka 10D, Herøy",62.327715,5.669229
+2362497,"Vikevegen 42, Herøy",62.326656,5.622649
+2371155,"Øvre Myklebust 1C, Herøy",62.327939,5.632891
+2371200,"Øvre Myklebust 1D, Herøy",62.327922,5.632867
+2390459,"Vikevegen 66, Herøy",62.327126,5.619061
+2460867,"Mjølstadnesvegen 4, Herøy",62.325561,5.670544
+2463594,"Gjerdet 6B, Herøy",62.328831,5.652346
+2476563,"Gjertnesmarka 16, Herøy",62.327425,5.670225
+2476564,"Gjertnesmarka 12B, Herøy",62.327413,5.669094
+2476565,"Gjertnesmarka 12A, Herøy",62.327414,5.669218
+2495874,"Eggesbøgrenda 8B, Herøy",62.324176,5.641466
+2495931,"Eggesbøgrenda 8A, Herøy",62.324229,5.64152
+2495937,"Eggesbøgrenda 8D, Herøy",62.324146,5.641523
+2495938,"Eggesbøgrenda 8C, Herøy",62.324203,5.641617
+2496564,"Eggesbøgrenda 6C, Herøy",62.324042,5.641432
+2496602,"Eggesbøgrenda 6A, Herøy",62.324067,5.641348
+2496603,"Eggesbøgrenda 4C, Herøy",62.323895,5.641136
+2496604,"Eggesbøgrenda 4D, Herøy",62.323841,5.641113
+2496605,"Eggesbøgrenda 6D, Herøy",62.323976,5.641347
+2496616,"Eggesbøgrenda 4A, Herøy",62.323914,5.641082
+2496617,"Eggesbøgrenda 4B, Herøy",62.32386,5.641041
+2496618,"Eggesbøgrenda 6B, Herøy",62.324007,5.64127
+2496638,"Eggesbøgrenda 1, Herøy",62.323594,5.641156
+2496639,"Eggesbøgrenda 2, Herøy",62.323733,5.64161
+2496640,"Eggesbøgrenda 12, Herøy",62.3244,5.64164
+2496641,"Eggesbøgrenda 10, Herøy",62.32433,5.642059
+2496642,"Eggesbøgrenda 14, Herøy",62.324475,5.641258
+2496643,"Eggesbøgrenda 16, Herøy",62.324391,5.640833
+2496644,"Eggesbøgrenda 20, Herøy",62.324123,5.640471
+2496645,"Eggesbøgrenda 18, Herøy",62.324222,5.64068
+2496991,"Gjertnesmarka 22B, Herøy",62.327106,5.668891
+2497063,"Gjertnesmarka 22A, Herøy",62.327114,5.669041
+2533626,"Vikevegen 25, Herøy",62.324617,5.624367

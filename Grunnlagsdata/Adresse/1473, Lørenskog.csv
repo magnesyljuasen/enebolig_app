@@ -1,0 +1,654 @@
+,Navn,Long,Lat
+571166,"Gamleveien 149, Skårer",59.920027,10.976918
+571247,"Løkenåsveien 29, Skårer",59.920205,10.957732
+572415,"Løkenåsringen 5, Skårer",59.918388,10.964602
+572416,"Løkenåsringen 4, Skårer",59.918639,10.963382
+572417,"Løkenåsringen 9, Skårer",59.918707,10.965461
+572418,"Løkenåsringen 8, Skårer",59.918764,10.96466
+572419,"Løkenåsfaret 12, Skårer",59.920742,10.963309
+572420,"Løkenåsringen 3, Skårer",59.918265,10.963771
+572421,"Løkenåsringen 2, Skårer",59.918564,10.96302
+572422,"Løkenåsfaret 9, Skårer",59.920133,10.963774
+572423,"Løkenåsfaret 8, Skårer",59.920254,10.962923
+572424,"Løkenåsfaret 11, Skårer",59.920356,10.963931
+572425,"Løkenåsfaret 10, Skårer",59.920438,10.963256
+572426,"Løkenåsfaret 7, Skårer",59.919832,10.963524
+572427,"Løkenåsfaret 6, Skårer",59.919966,10.962942
+572428,"Løkenåsfaret 7C, Skårer",59.919607,10.964745
+572429,"Løkenåsfaret 7B, Skårer",59.919606,10.964225
+572430,"Løkenåsringen 23, Skårer",59.920792,10.965978
+572431,"Løkenåsringen 22, Skårer",59.920651,10.965201
+572432,"Løkenåsringen 25, Skårer",59.920936,10.965343
+572433,"Løkenåsringen 24, Skårer",59.920713,10.964667
+572434,"Løkenåsringen 19, Skårer",59.920337,10.966363
+572435,"Løkenåsringen 18, Skårer",59.92022,10.965783
+572436,"Løkenåsringen 21, Skårer",59.920598,10.966378
+572437,"Løkenåsringen 20, Skårer",59.920468,10.965422
+572438,"Løkenåsringen 15, Skårer",59.919449,10.966292
+572439,"Løkenåsringen 14, Skårer",59.919515,10.965509
+572440,"Løkenåsringen 17, Skårer",59.919683,10.966252
+572441,"Løkenåsringen 16A, Skårer",59.919908,10.965622
+572442,"Løkenåsringen 11, Skårer",59.918909,10.965742
+572443,"Løkenåsringen 10, Skårer",59.918946,10.965118
+572444,"Løkenåsringen 13, Skårer",59.919165,10.966079
+572445,"Løkenåsringen 12, Skårer",59.919237,10.965439
+572446,"Løkenåsringen 27, Skårer",59.920999,10.964756
+572447,"Løkenåsringen 26, Skårer",59.920695,10.964094
+572448,"Løkenåsringen 29, Skårer",59.921134,10.96412
+572543,"Løkenkollen 4, Skårer",59.920563,10.962691
+572556,"Løkenåsfaret 5, Skårer",59.91935,10.963281
+572557,"Løkenåsfaret 4, Skårer",59.919663,10.962781
+572558,"Løkenåsfaret 5C, Skårer",59.919201,10.964238
+572559,"Løkenåsfaret 5B, Skårer",59.919325,10.96378
+572560,"Løkenåsfaret 1, Skårer",59.918929,10.962612
+572561,"Løkenkollen 17, Skårer",59.919458,10.962053
+572562,"Løkenåsfaret 3, Skårer",59.91912,10.963088
+572563,"Løkenåsfaret 2, Skårer",59.919263,10.962524
+572564,"Løkenkollen 11, Skårer",59.920191,10.961738
+572565,"Løkenkollen 9, Skårer",59.920426,10.961609
+572566,"Løkenkollen 15, Skårer",59.91965,10.961885
+572567,"Løkenkollen 13, Skårer",59.919911,10.961811
+572568,"Løkenkollen 6, Skårer",59.920264,10.962244
+572569,"Løkenkollen 5, Skårer",59.92083,10.962223
+572570,"Løkenkollen 8, Skårer",59.919985,10.962263
+572571,"Løkenkollen 7, Skårer",59.920599,10.962031
+572809,"Løkenåsringen 30, Skårer",59.921083,10.962703
+572810,"Løkenåsveien 5, Skårer",59.923645,10.955358
+572811,"Løkenåsringen 31, Skårer",59.921236,10.963339
+572812,"Løkenåsveien 71, Skårer",59.917939,10.962124
+572813,"Løkenåsveien 69, Skårer",59.917929,10.961587
+572814,"Løkenåsveien 75, Skårer",59.917481,10.962133
+572815,"Løkenåsveien 73, Skårer",59.917697,10.962146
+572816,"Løkenåsveien 55, Skårer",59.917935,10.960586
+572817,"Løkenåsveien 53B, Skårer",59.917607,10.960387
+572818,"Løkenåsveien 62, Skårer",59.917657,10.963592
+572819,"Løkenåsveien 57, Skårer",59.917928,10.961068
+572820,"Løkenåsveien 43, Skårer",59.919194,10.960517
+572821,"Løkenåsveien 41, Skårer",59.919232,10.960948
+572822,"Løkenåsveien 45, Skårer",59.918785,10.960718
+572823,"Løkenåsveien 21, Skårer",59.921386,10.958642
+572824,"Løkenåsveien 6, Skårer",59.924303,10.955164
+572825,"Løkenåsveien 40, Skårer",59.920031,10.96121
+572826,"Løkenåsveien 35, Skårer",59.919826,10.960268
+572839,"Løkenåsveien 81, Skårer",59.917754,10.962525
+572840,"Løkenåsveien 77, Skårer",59.91789,10.962443
+573185,"Ole Reistads vei 1, Skårer",59.924783,10.950648
+573214,"Ole Reistads vei 2, Skårer",59.924462,10.949931
+573284,"Nordlifaret 4, Skårer",59.920858,10.960364
+573285,"Nordlifaret 6, Skårer",59.921087,10.960038
+573287,"Nordlifaret 2, Skårer",59.920665,10.960639
+573300,"Nordlifaret 41, Skårer",59.922539,10.966296
+573301,"Nordlifaret 42, Skårer",59.924099,10.964707
+573302,"Nordlifaret 32, Skårer",59.922329,10.964119
+573303,"Nordlifaret 34, Skårer",59.922491,10.964093
+573304,"Nordlifaret 28, Skårer",59.922333,10.963207
+573305,"Nordlifaret 30, Skårer",59.922203,10.964147
+573306,"Nordlifaret 24, Skårer",59.922053,10.963315
+573307,"Nordlifaret 26, Skårer",59.922199,10.963217
+573308,"Nordlifaret 20, Skårer",59.922131,10.962336
+573309,"Nordlifaret 22, Skårer",59.921892,10.963324
+573310,"Nordlifaret 16, Skårer",59.921842,10.962426
+573311,"Nordlifaret 18, Skårer",59.921969,10.96238
+573312,"Nordlifaret 14, Skårer",59.921415,10.961524
+573313,"Nordlifaret 8, Skårer",59.921258,10.960621
+573314,"Nordlifaret 10, Skårer",59.920865,10.96108
+573323,"Nordliveien 250, Skårer",59.924401,10.971524
+573324,"Nordliveien 252, Skårer",59.924896,10.97209
+573329,"Nordlifaret 44, Skårer",59.924527,10.965519
+573330,"Nordlifaret 46, Skårer",59.923851,10.966249
+573574,"Ragnhilds vei 8A, Skårer",59.926639,10.95034
+573575,"Ragnhilds vei 8B, Skårer",59.926851,10.949955
+573576,"Ragnhilds vei 6, Skårer",59.926963,10.950847
+573577,"Ragnhilds vei 6A, Skårer",59.926649,10.950793
+573578,"Ragnhilds vei 4, Skårer",59.926963,10.951438
+573579,"Ragnhilds vei 4A, Skårer",59.926496,10.951389
+573580,"Ragnhilds vei 2B, Skårer",59.926586,10.95206
+573581,"Ragnhilds vei 3, Skårer",59.927401,10.951224
+573582,"Ragnhilds vei 2, Skårer",59.926861,10.952308
+573583,"Ragnhilds vei 2A, Skårer",59.926518,10.952413
+573589,"Ragnhilds vei 16B, Skårer",59.925992,10.9485
+573590,"Ragnhilds vei 18, Skårer",59.925832,10.948347
+573591,"Ragnhilds vei 14, Skårer",59.926221,10.948799
+573592,"Ragnhilds vei 16, Skårer",59.926045,10.948574
+573593,"Ragnhilds vei 13, Skårer",59.925821,10.947309
+573594,"Ragnhilds vei 13A, Skårer",59.925775,10.946787
+573595,"Ragnhilds vei 11A, Skårer",59.926117,10.947344
+573596,"Ragnhilds vei 12, Skårer",59.926406,10.949043
+573597,"Ragnhilds vei 10C, Skårer",59.926538,10.94923
+573598,"Ragnhilds vei 11, Skårer",59.92627,10.94789
+573599,"Ragnhilds vei 9A, Skårer",59.92652,10.947994
+573600,"Ragnhilds vei 10B, Skårer",59.926616,10.949377
+573601,"Ragnhilds vei 8E, Skårer",59.926736,10.949638
+573602,"Ragnhilds vei 9, Skårer",59.926593,10.948535
+573603,"Ragnhilds vei 8C, Skårer",59.926804,10.949863
+573604,"Ragnhilds vei 8D, Skårer",59.926771,10.949753
+573882,"Skårer terrasse 2, Skårer",59.922478,10.96012
+573883,"Skårer terrasse 4, Skårer",59.922676,10.960078
+573893,"Skårer terrasse 22, Skårer",59.923891,10.958754
+573894,"Skårer terrasse 23, Skårer",59.9244,10.96077
+573895,"Skårer terrasse 20, Skårer",59.923913,10.959077
+573896,"Skårer terrasse 21, Skårer",59.924078,10.96068
+573897,"Skårer terrasse 18, Skårer",59.923925,10.959436
+573898,"Skårer terrasse 19, Skårer",59.923906,10.960723
+573899,"Skårer terrasse 16, Skårer",59.923544,10.959753
+573900,"Skårer terrasse 17, Skårer",59.923736,10.960731
+573901,"Skårer terrasse 14, Skårer",59.923354,10.959796
+573902,"Skårer terrasse 15, Skårer",59.923487,10.960555
+573903,"Skårer terrasse 12, Skårer",59.923201,10.959823
+573904,"Skårer terrasse 13, Skårer",59.923306,10.960598
+573905,"Skårer terrasse 10, Skårer",59.922924,10.959126
+573906,"Skårer terrasse 11, Skårer",59.92309,10.960675
+573907,"Skårer terrasse 6, Skårer",59.922959,10.959773
+573908,"Skårer terrasse 8, Skårer",59.922938,10.959431
+573909,"Skårerlia 14, Skårer",59.92312,10.957456
+573910,"Skårerlia 16, Skårer",59.922962,10.958377
+573911,"Skårerlia 10, Skårer",59.922751,10.958061
+573912,"Skårerlia 12, Skårer",59.922913,10.95748
+573913,"Skårerlia 6, Skårer",59.92234,10.958555
+573914,"Skårerlia 8, Skårer",59.922535,10.958084
+573915,"Skårerlia 2, Skårer",59.921979,10.958641
+573916,"Skårerlia 4, Skårer",59.92216,10.958598
+573917,"Skårer terrasse 37, Skårer",59.924396,10.959804
+573918,"Skårer terrasse 39, Skårer",59.92418,10.959863
+573919,"Skårer terrasse 33, Skårer",59.924839,10.959615
+573920,"Skårer terrasse 35, Skårer",59.924641,10.959657
+573921,"Skårer terrasse 29, Skårer",59.924914,10.960586
+573922,"Skårer terrasse 31, Skårer",59.924893,10.960209
+573923,"Skårer terrasse 25, Skårer",59.924535,10.960742
+573924,"Skårer terrasse 27, Skårer",59.924697,10.960716
+573941,"Sigurds vei 6, Skårer",59.925088,10.955568
+573942,"Sigurds vei 7, Skårer",59.924073,10.956152
+573943,"Sigurds vei 4, Skårer",59.924952,10.95565
+573944,"Sigurds vei 5, Skårer",59.9242,10.95607
+573945,"Sigurds vei 2, Skårer",59.924816,10.955695
+573946,"Sigurds vei 3, Skårer",59.924299,10.956041
+573948,"Sigurds vei 1, Skårer",59.924443,10.956013
+573959,"Sigurds vei 20, Skårer",59.925416,10.956428
+573961,"Sigurds vei 18, Skårer",59.925272,10.956438
+573962,"Sigurds vei 19, Skårer",59.924141,10.957033
+573963,"Sigurds vei 16, Skårer",59.925128,10.956501
+573964,"Sigurds vei 17, Skårer",59.924303,10.956989
+573965,"Sigurds vei 14, Skårer",59.925001,10.956565
+573966,"Sigurds vei 15, Skårer",59.924519,10.956966
+573967,"Sigurds vei 12, Skårer",59.924857,10.956592
+573968,"Sigurds vei 13, Skårer",59.923766,10.956886
+573969,"Sigurds vei 10, Skårer",59.925367,10.955495
+573970,"Sigurds vei 11, Skårer",59.923964,10.956826
+573971,"Sigurds vei 8, Skårer",59.925223,10.95554
+573972,"Sigurds vei 9, Skårer",59.92392,10.956179
+574252,"Skårersletta 33, Skårer",59.923955,10.953802
+574253,"Skårersletta 33B, Skårer",59.924009,10.953787
+574254,"Skårersletta 27, Skårer",59.924848,10.953586
+574255,"Skårersletta 31, Skårer",59.924298,10.953732
+574256,"Skårersletta 21, Skårer",59.925802,10.953463
+574257,"Tormods vei 2, Skårer",59.925162,10.953586
+574258,"Skårersletta 17, Skårer",59.926421,10.952873
+574259,"Skårersletta 18, Skårer",59.926004,10.954316
+574260,"Skårersletta 15, Skårer",59.926549,10.95331
+574261,"Skårersletta 15B, Skårer",59.926432,10.953357
+574262,"Skårersletta 10, Skårer",59.92704,10.954144
+574263,"Skårersletta 13, Skårer",59.92684,10.953059
+574264,"Skårerlia 22, Skårer",59.923582,10.958396
+574265,"Bibliotekgata 49, Skårer",59.927593,10.954982
+574266,"Skårerlia 18, Skårer",59.923151,10.958335
+574267,"Skårerlia 20, Skårer",59.92341,10.958439
+574273,"Skårersletta 80, Skårer",59.918966,10.955923
+574274,"Skårersletta 70, Skårer",59.920059,10.955505
+574275,"Skårersletta 78, Skårer",59.919326,10.955873
+574276,"Skårersletta 55, Skårer",59.921899,10.95377
+574277,"Skårersletta 50, Skårer",59.922868,10.955062
+574278,"Skårersletta 43, Skårer",59.923817,10.949821
+574279,"Skårersletta 44, Skårer",59.923366,10.954805
+574349,"Skåreråsen 12, Skårer",59.922849,10.962033
+574350,"Skåreråsen 16, Skårer",59.923644,10.962833
+574351,"Skåreråsen 5, Skårer",59.921697,10.960736
+574352,"Skåreråsen 7, Skårer",59.921758,10.960829
+574353,"Skåreråsen 3, Skårer",59.921552,10.960191
+574354,"Skåreråsen 4, Skårer",59.922336,10.959432
+574355,"Skåreråsen 1B, Skårer",59.921326,10.959658
+574356,"Skåreråsen 2, Skårer",59.922146,10.959474
+574358,"Skåreråsen 1, Skårer",59.921389,10.95968
+574378,"Sverres vei 12, Skårer",59.926185,10.957315
+574379,"Sverres vei 14, Skårer",59.926189,10.957601
+574380,"Sverres vei 9, Skårer",59.92581,10.957132
+574381,"Sverres vei 10, Skårer",59.926412,10.955897
+574382,"Sverres vei 5, Skårer",59.925769,10.95627
+574383,"Sverres vei 7, Skårer",59.925788,10.956826
+574384,"Sverres vei 1, Skårer",59.925742,10.95566
+574385,"Sverres vei 3, Skårer",59.925747,10.955929
+574395,"Sverres vei 49, Skårer",59.925144,10.958399
+574397,"Sverres vei 45, Skårer",59.925425,10.95829
+574398,"Sverres vei 47, Skårer",59.925271,10.95837
+574399,"Sverres vei 41, Skårer",59.925722,10.9582
+574400,"Sverres vei 43, Skårer",59.925542,10.958261
+574401,"Sverres vei 37, Skårer",59.924987,10.957512
+574402,"Sverres vei 39, Skårer",59.924861,10.957523
+574403,"Sverres vei 33, Skårer",59.925322,10.957353
+574404,"Sverres vei 35, Skårer",59.925132,10.957432
+574405,"Sverres vei 20, Skårer",59.926231,10.958409
+574406,"Sverres vei 31, Skårer",59.925448,10.957325
+574407,"Sverres vei 16, Skårer",59.926212,10.957871
+574408,"Sverres vei 18, Skårer",59.926208,10.958139
+574516,"Solheimveien 120, Skårer",59.928828,10.96742
+574649,"Bibliotekgata 32, Skårer",59.927131,10.956483
+574650,"Bibliotekgata 34, Skårer",59.927182,10.956658
+574651,"Solheimveien 74, Skårer",59.928644,10.951357
+574652,"Solheimveien 76, Skårer",59.928498,10.952727
+574653,"Solheimveien 70, Skårer",59.928952,10.949962
+574654,"Solheimveien 72, Skårer",59.928787,10.950775
+574656,"Solheimveien 62, Skårer",59.92953,10.947311
+574665,"Solheimveien 110, Skårer",59.928461,10.963712
+574666,"Solheimveien 112, Skårer",59.928396,10.96446
+574667,"Solheimveien 108, Skårer",59.928444,10.962995
+574668,"Boecks gate 3, Skårer",59.9263,10.960276
+574669,"Solheimveien 101, Skårer",59.927831,10.965527
+574670,"Boecks gate 10, Skårer",59.926754,10.961501
+574671,"Boecks gate 12, Skårer",59.927031,10.962074
+574672,"Kulturhusgata 2, Skårer",59.927419,10.961879
+574673,"Bibliotekgata 42, Skårer",59.927499,10.958949
+574674,"Bibliotekgata 44, Skårer",59.927086,10.958942
+574675,"Bibliotekgata 40, Skårer",59.92731,10.957739
+574676,"Bibliotekgata 30, Skårer",59.927567,10.958371
+574677,"Bibliotekgata 36, Skårer",59.927231,10.957018
+574678,"Bibliotekgata 38, Skårer",59.927271,10.9574
+574778,"Sørli terrasse 7, Skårer",59.920221,10.972331
+574779,"Sørli terrasse 8, Skårer",59.919997,10.972336
+574780,"Sørli terrasse 3, Skårer",59.920168,10.972919
+574781,"Sørli terrasse 5, Skårer",59.92019,10.972598
+574783,"Sørli terrasse 1, Skårer",59.920135,10.973274
+574794,"Sørli terrasse 23, Skårer",59.920256,10.969399
+574795,"Sørli terrasse 24, Skårer",59.92005,10.969369
+574796,"Sørli terrasse 21, Skårer",59.920297,10.969688
+574797,"Sørli terrasse 22, Skårer",59.920108,10.969713
+574798,"Sørli terrasse 19, Skårer",59.92032,10.969958
+574799,"Sørli terrasse 20, Skårer",59.920139,10.970001
+574800,"Sørli terrasse 17, Skårer",59.920342,10.970245
+574801,"Sørli terrasse 18, Skårer",59.920161,10.970342
+574802,"Sørli terrasse 15, Skårer",59.920346,10.970585
+574803,"Sørli terrasse 16, Skårer",59.920138,10.97068
+574804,"Sørli terrasse 13, Skårer",59.920332,10.970925
+574805,"Sørli terrasse 14, Skårer",59.920124,10.971037
+574806,"Sørli terrasse 11, Skårer",59.920309,10.971281
+574807,"Sørli terrasse 12, Skårer",59.920099,10.971483
+574808,"Sørli terrasse 9, Skårer",59.920277,10.971601
+574809,"Sørli terrasse 10, Skårer",59.920076,10.971804
+574810,"Sørli terrasse 43, Skårer",59.920136,10.967836
+574811,"Sørli terrasse 44, Skårer",59.920576,10.967808
+574812,"Sørli terrasse 41, Skårer",59.919996,10.967595
+574813,"Sørli terrasse 42, Skårer",59.920424,10.967763
+574814,"Sørli terrasse 39, Skårer",59.919864,10.967408
+574815,"Sørli terrasse 40, Skårer",59.920291,10.96763
+574816,"Sørli terrasse 36, Skårer",59.920108,10.967262
+574817,"Sørli terrasse 38, Skårer",59.920223,10.967429
+574818,"Sørli terrasse 32, Skårer",59.91976,10.96835
+574819,"Sørli terrasse 34, Skårer",59.919976,10.967093
+574820,"Sørli terrasse 29, Skårer",59.920085,10.968799
+574821,"Sørli terrasse 30, Skårer",59.919828,10.968587
+574822,"Sørli terrasse 27, Skårer",59.920154,10.969
+574823,"Sørli terrasse 28, Skårer",59.919896,10.968841
+574824,"Sørli terrasse 25, Skårer",59.920206,10.969164
+574825,"Sørli terrasse 26, Skårer",59.919982,10.969097
+574826,"Sørlibakken 3, Skårer",59.920047,10.974378
+574827,"Sørlibakken 4, Skårer",59.920454,10.97417
+574828,"Sørlibakken 1, Skårer",59.920039,10.974288
+574829,"Sørlibakken 2, Skårer",59.92048,10.974279
+574830,"Sørli terrasse 55, Skårer",59.920888,10.968578
+574831,"Sørli terrasse 56, Skårer",59.921012,10.968675
+574832,"Sørli terrasse 53, Skårer",59.920766,10.968338
+574833,"Sørli terrasse 54, Skårer",59.92106,10.968481
+574834,"Sørli terrasse 51, Skårer",59.920624,10.96824
+574835,"Sørli terrasse 52, Skårer",59.921111,10.96809
+574836,"Sørli terrasse 49, Skårer",59.920454,10.968177
+574837,"Sørli terrasse 50, Skårer",59.92095,10.968027
+574838,"Sørli terrasse 47, Skårer",59.92033,10.96808
+574839,"Sørli terrasse 48, Skårer",59.920843,10.967985
+574840,"Sørli terrasse 45, Skårer",59.920205,10.968001
+574841,"Sørli terrasse 46, Skårer",59.920702,10.967816
+574842,"Sørlibakken 25, Skårer",59.920926,10.975665
+574843,"Sørlibakken 26, Skårer",59.92075,10.974796
+574844,"Sørlibakken 23, Skårer",59.920539,10.975714
+574845,"Sørlibakken 24, Skårer",59.92074,10.974885
+574846,"Sørlibakken 21, Skårer",59.920522,10.975659
+574847,"Sørlibakken 22, Skårer",59.920748,10.974975
+574848,"Sørlibakken 17, Skårer",59.920497,10.975479
+574849,"Sørlibakken 19, Skårer",59.920514,10.975569
+574850,"Sørlibakken 13, Skårer",59.920306,10.975074
+574851,"Sørlibakken 15, Skårer",59.920323,10.975146
+574852,"Sørlibakken 9, Skårer",59.920282,10.974893
+574853,"Sørlibakken 11, Skårer",59.920298,10.974984
+574854,"Sørlibakken 7, Skårer",59.920089,10.974542
+574855,"Sørlibakken 8, Skårer",59.920412,10.973989
+574856,"Sørlibakken 5, Skårer",59.920064,10.974451
+574857,"Sørlibakken 6, Skårer",59.920438,10.97408
+574858,"Sørlibakken 33, Skårer",59.920925,10.976345
+574859,"Sørlibakken 29, Skårer",59.920923,10.975844
+574860,"Sørlibakken 31, Skårer",59.920922,10.975933
+574861,"Sørlibakken 27, Skårer",59.920933,10.975755
+574862,"Sørlibakken 28, Skårer",59.920743,10.974688
+574993,"Tormods vei 4, Skårer",59.925338,10.953044
+574994,"Torbjørns vei 2, Skårer",59.925656,10.952381
+574995,"Torbjørns vei 11, Skårer",59.925993,10.952769
+574996,"Torbjørns vei 9, Skårer",59.926,10.952952
+574997,"Torbjørns vei 5, Skårer",59.925781,10.952893
+574998,"Torbjørns vei 7, Skårer",59.925842,10.95288
+574999,"Torbjørns vei 1, Skårer",59.925662,10.9529
+575000,"Torbjørns vei 3, Skårer",59.925665,10.952972
+575001,"Torbjørns vei 23, Skårer",59.925994,10.950146
+575002,"Torbjørns vei 25, Skårer",59.925973,10.949769
+575003,"Torbjørns vei 17, Skårer",59.926033,10.951302
+575004,"Torbjørns vei 21, Skårer",59.926026,10.950711
+575005,"Torbjørns vei 13, Skårer",59.926086,10.952232
+575006,"Torbjørns vei 15, Skårer",59.926063,10.951773
+575019,"Tormods vei 21, Skårer",59.925567,10.950477
+575020,"Tormods vei 20, Skårer",59.925266,10.950819
+575021,"Tormods vei 15, Skårer",59.925616,10.951412
+575022,"Torbjørns vei 20, Skårer",59.925711,10.950942
+575023,"Tormods vei 6, Skårer",59.925319,10.952592
+575024,"Torbjørns vei 14, Skårer",59.925762,10.951893
+575071,"Trygves vei 6, Skårer",59.924337,10.95225
+575072,"Trygves vei 7, Skårer",59.924524,10.95176
+575073,"Trygves vei 4, Skårer",59.924349,10.95268
+575074,"Trygves vei 5A, Skårer",59.924554,10.952209
+575075,"Trygves vei 3, Skårer",59.924565,10.952639
+575076,"Trygves vei 3B, Skårer",59.924834,10.95269
+575077,"Trygves vei 2, Skårer",59.924378,10.953129
+575094,"Trygves vei 12, Skårer",59.924275,10.951011
+575096,"Trygves vei 10B, Skårer",59.924134,10.951415
+575097,"Trygves vei 11, Skårer",59.924492,10.950917
+575098,"Trygves vei 9B, Skårer",59.924738,10.951271
+575099,"Trygves vei 10, Skårer",59.924297,10.951353
+575100,"Trygves vei 8A, Skårer",59.924318,10.951765
+575101,"Trygves vei 9, Skårer",59.924504,10.951311
+575118,"Sørliveien 42, Skårer",59.922319,10.975032
+575119,"Sørliveien 43, Skårer",59.922012,10.97573
+575120,"Sørliveien 40, Skårer",59.922274,10.97503
+575121,"Sørliveien 41, Skårer",59.922004,10.97564
+575122,"Sørliveien 38, Skårer",59.922229,10.975009
+575123,"Sørliveien 39, Skårer",59.921735,10.976232
+575124,"Sørliveien 36, Skårer",59.922184,10.974988
+575125,"Sørliveien 37, Skårer",59.921727,10.97616
+575126,"Sørliveien 34, Skårer",59.92198,10.974833
+575127,"Sørliveien 35, Skårer",59.921719,10.976052
+575128,"Sørliveien 32, Skårer",59.921927,10.974776
+575129,"Sørliveien 33, Skårer",59.921703,10.97598
+575130,"Sørliveien 30, Skårer",59.921874,10.974737
+575131,"Sørliveien 31, Skårer",59.921688,10.975728
+575132,"Sørliveien 29, Skårer",59.921671,10.975656
+575143,"Sørliveien 48, Skårer",59.922624,10.975115
+575144,"Sørliveien 50, Skårer",59.922668,10.975107
+575145,"Sørliveien 46, Skårer",59.922578,10.975119
+575146,"Sørliveien 47, Skårer",59.922018,10.975891
+575147,"Sørliveien 44, Skårer",59.922534,10.975135
+575148,"Sørliveien 45, Skårer",59.922019,10.97582
+575197,"Sørlistien 15, Skårer",59.921135,10.970096
+575198,"Sørlistien 16, Skårer",59.920947,10.970621
+575199,"Sørlistien 13, Skårer",59.921119,10.97056
+575200,"Sørlistien 14, Skårer",59.920907,10.970905
+575201,"Sørlistien 11, Skårer",59.921105,10.970917
+575202,"Sørlistien 12, Skårer",59.920893,10.971262
+575203,"Sørlistien 9, Skårer",59.921139,10.971616
+575204,"Sørlistien 10, Skårer",59.920827,10.972063
+575205,"Sørlistien 7, Skårer",59.920963,10.972608
+575206,"Sørlistien 8, Skårer",59.920762,10.97222
+575207,"Sørlistien 5, Skårer",59.920913,10.972927
+575208,"Sørlistien 6, Skårer",59.920703,10.972575
+575209,"Sørlistien 3, Skårer",59.920872,10.973264
+575210,"Sørlistien 4, Skårer",59.920652,10.972929
+575211,"Sørlistien 1, Skårer",59.920823,10.973566
+575212,"Sørlistien 2, Skårer",59.920602,10.973302
+575213,"Sørlisvingen 12, Skårer",59.922072,10.972924
+575214,"Sørlisvingen 14, Skårer",59.922203,10.973147
+575215,"Sørlisvingen 8, Skårer",59.921782,10.972442
+575216,"Sørlisvingen 10, Skårer",59.921949,10.972684
+575217,"Sørlisvingen 6, Skårer",59.921678,10.972221
+575218,"Sørlisvingen 4, Skårer",59.921519,10.972015
+575219,"Sørlisvingen 5, Skårer",59.921502,10.972586
+575220,"Sørlisvingen 2, Skårer",59.921342,10.971861
+575221,"Sørlisvingen 3, Skårer",59.921308,10.97236
+575222,"Sørlistien 21, Skårer",59.921022,10.96982
+575223,"Sørlistien 22, Skårer",59.920869,10.969883
+575224,"Sørlistien 19, Skårer",59.921105,10.969718
+575225,"Sørlistien 20, Skårer",59.92076,10.969966
+575226,"Sørlistien 17, Skårer",59.921256,10.969781
+575227,"Sørlistien 18, Skårer",59.920861,10.970366
+575228,"Sørliveien 20, Skårer",59.92144,10.974318
+575229,"Sørliveien 21, Skårer",59.92117,10.974928
+575230,"Sørliveien 18, Skårer",59.921396,10.974262
+575231,"Sørliveien 19, Skårer",59.921172,10.974821
+575232,"Sørliveien 16, Skårer",59.921254,10.97411
+575233,"Sørliveien 17, Skårer",59.921164,10.974731
+575234,"Sørliveien 14, Skårer",59.921228,10.974073
+575235,"Sørliveien 15, Skårer",59.920812,10.974245
+575236,"Sørliveien 12, Skårer",59.921193,10.973999
+575237,"Sørliveien 13, Skårer",59.920777,10.974207
+575238,"Sørliveien 10, Skårer",59.921158,10.973943
+575239,"Sørliveien 11, Skårer",59.920742,10.974133
+575240,"Sørliveien 8, Skårer",59.921417,10.973476
+575241,"Sørliveien 9, Skårer",59.920707,10.974078
+575242,"Sørlisvingen 16, Skårer",59.922352,10.97337
+575243,"Sørlisvingen 18, Skårer",59.922484,10.973611
+575244,"Sørliveien 28, Skårer",59.921776,10.974642
+575245,"Sørliveien 26, Skårer",59.921714,10.974585
+575246,"Sørliveien 27, Skårer",59.921682,10.975567
+575247,"Sørliveien 24, Skårer",59.921626,10.97449
+575248,"Sørliveien 25, Skårer",59.921665,10.975459
+575249,"Sørliveien 22, Skårer",59.921493,10.974375
+575250,"Sørliveien 23, Skårer",59.921169,10.975
+575347,"Sørlibakken 53, Skårer",59.921355,10.976406
+575348,"Sørlibakken 55, Skårer",59.921363,10.976478
+575349,"Sørlibakken 49, Skårer",59.921331,10.976208
+575350,"Sørlibakken 51, Skårer",59.921356,10.976317
+575351,"Sørlibakken 45, Skårer",59.921292,10.975794
+575352,"Sørlibakken 47, Skårer",59.921291,10.975866
+575353,"Sørlibakken 41, Skårer",59.921295,10.975598
+575354,"Sørlibakken 43, Skårer",59.921293,10.975705
+575355,"Sørlibakken 37, Skårer",59.920931,10.976524
+575356,"Sørlibakken 39, Skårer",59.920948,10.976615
+575357,"Sørlibakken 35, Skårer",59.920932,10.976435
+575964,"Sigrids vei 2, Skårer",59.927438,10.945417
+575979,"Sigrids vei 32, Skårer",59.926077,10.945767
+575980,"Sigrids vei 34, Skårer",59.925974,10.945475
+575981,"Sigrids vei 28, Skårer",59.926495,10.945451
+575982,"Sigrids vei 30, Skårer",59.926316,10.945405
+575983,"Sigrids vei 24, Skårer",59.926638,10.946104
+575984,"Sigrids vei 26, Skårer",59.926561,10.945849
+575985,"Sigrids vei 20, Skårer",59.926838,10.945919
+575986,"Sigrids vei 22, Skårer",59.926827,10.946097
+575987,"Sigrids vei 16, Skårer",59.926925,10.945512
+575988,"Sigrids vei 18, Skårer",59.92669,10.945606
+575989,"Sigrids vei 12, Skårer",59.92682,10.946526
+575990,"Sigrids vei 14, Skårer",59.926667,10.946535
+575991,"Sigrids vei 8, Skårer",59.927182,10.946351
+575992,"Sigrids vei 10, Skårer",59.926973,10.946517
+575993,"Sigrids vei 4, Skårer",59.927371,10.945735
+575994,"Sigrids vei 6, Skårer",59.927267,10.946069
+576003,"Sigrids vei 33, Skårer",59.92589,10.945076
+576005,"Sigrids vei 29, Skårer",59.926188,10.944915
+576006,"Sigrids vei 31, Skårer",59.926008,10.944976
+576007,"Sigrids vei 25, Skårer",59.926583,10.944938
+576008,"Sigrids vei 27, Skårer",59.926377,10.94489
+576009,"Sigrids vei 21, Skårer",59.926922,10.945119
+576010,"Sigrids vei 23, Skårer",59.926717,10.944999
+576056,"Solheimveien 118, Skårer",59.928703,10.966715
+576154,"Sørli terrasse 35, Skårer",59.919529,10.966959
+576157,"Sørli terrasse 37, Skårer",59.9196,10.967053
+576160,"Sørlisvingen 27, Skårer",59.923554,10.97473
+576162,"Sørlisvingen 23, Skårer",59.923148,10.974813
+576163,"Sørlisvingen 25, Skårer",59.923364,10.974808
+576164,"Sørlisvingen 26, Skårer",59.923406,10.974363
+576166,"Sørlisvingen 21, Skårer",59.92295,10.974837
+576167,"Sørlisvingen 22, Skårer",59.922995,10.974232
+576168,"Sørlisvingen 24, Skårer",59.923236,10.974335
+576195,"Sørliveien 8B, Skårer",59.921655,10.973731
+576302,"Sørlisvingen 13, Skårer",59.922218,10.973917
+576369,"Sørlisvingen 15, Skårer",59.922315,10.974084
+576442,"Boecks gate 1, Skårer",59.925879,10.959385
+576477,"Sørlisvingen 17, Skårer",59.922414,10.974451
+576478,"Sørlisvingen 19, Skårer",59.922604,10.974548
+576639,"Margarethas vei 25, Skårer",59.928444,10.94806
+576641,"Margarethas vei 21, Skårer",59.927971,10.947649
+576642,"Margarethas vei 23, Skårer",59.928167,10.947786
+576643,"Margarethas vei 17, Skårer",59.927731,10.946866
+576644,"Margarethas vei 19, Skårer",59.927499,10.947371
+576646,"Margarethas vei 15, Skårer",59.927777,10.946511
+576717,"Løkenåsringen 6B, Skårer",59.918681,10.96419
+576720,"Løkenåsringen 6A, Skårer",59.918874,10.963915
+576815,"Sørli terrasse 4B, Skårer",59.91993,10.973209
+576816,"Sørli terrasse 6B, Skårer",59.919973,10.97271
+576817,"Sørli terrasse 4A, Skårer",59.919908,10.97344
+576818,"Sørli terrasse 6A, Skårer",59.919951,10.972959
+576819,"Margarethas vei 13, Skårer",59.927961,10.945931
+576917,"Margarethas vei 1, Skårer",59.928656,10.948303
+576918,"Margarethas vei 7, Skårer",59.928945,10.94742
+576961,"Nordliveien 248, Skårer",59.923819,10.97199
+577005,"Sørliveien 8C, Skårer",59.921686,10.973753
+577008,"Margarethas vei 11, Skårer",59.928416,10.947353
+577448,"Margarethas vei 27, Skårer",59.928081,10.948765
+577572,"Skårersletta 60F, Skårer",59.920566,10.955309
+577614,"Margarethas vei 31, Skårer",59.927346,10.948268
+577616,"Margarethas vei 29, Skårer",59.927581,10.948503
+577626,"Margarethas vei 33, Skårer",59.927251,10.948377
+577627,"Margarethas vei 35, Skårer",59.927213,10.948553
+577709,"Skårerfaret 13, Skårer",59.921378,10.958015
+577711,"Skårerfaret 9, Skårer",59.921389,10.957265
+577712,"Skårerfaret 11, Skårer",59.921368,10.957496
+577713,"Trygves vei 14, Skårer",59.92425,10.950885
+577714,"Skårerfaret 5, Skårer",59.921332,10.956832
+577880,"Margarethas vei 43, Skårer",59.927267,10.949755
+577881,"Margarethas vei 37, Skårer",59.927114,10.949138
+577882,"Nordlifaret 50, Skårer",59.923337,10.967005
+577907,"Margarethas vei 39, Skårer",59.927924,10.949651
+577910,"Margarethas vei 41, Skårer",59.927751,10.949175
+577975,"Løkenåsringen 7, Skårer",59.918535,10.965124
+577979,"Margarethas vei 6, Skårer",59.928272,10.950423
+577981,"Margarethas vei 2, Skårer",59.928497,10.949148
+577982,"Margarethas vei 4, Skårer",59.928399,10.949732
+578008,"Tormods vei 16, Skårer",59.925284,10.951276
+578009,"Tormods vei 18, Skårer",59.925279,10.95116
+578010,"Tormods vei 8, Skårer",59.925323,10.952161
+578011,"Tormods vei 14, Skårer",59.9253,10.951572
+578037,"Tormods vei 12, Skårer",59.925307,10.951698
+578038,"Tormods vei 10, Skårer",59.925315,10.952017
+578055,"Kulturhusgata 30, Skårer",59.925521,10.95926
+767047,"Løkenåsveien 27, Skårer",59.920252,10.957221
+824314,"Margarethas vei 45, Skårer",59.927353,10.950365
+824315,"Margarethas vei 47, Skårer",59.927877,10.95019
+1049664,"Skårersletta 61, Skårer",59.921386,10.953996
+1125091,"Skårersletta 19, Skårer",59.92656,10.952686
+1302945,"Skårersletta 53, Skårer",59.923398,10.953576
+1372493,"Bibliotekgata 16, Skårer",59.927791,10.960267
+1372494,"Bibliotekgata 18, Skårer",59.927768,10.96004
+1372563,"Bibliotekgata 2, Skårer",59.927403,10.961275
+1372564,"Bibliotekgata 4, Skårer",59.927523,10.961223
+1372565,"Bibliotekgata 6, Skårer",59.927585,10.961107
+1372567,"Bibliotekgata 8, Skårer",59.927642,10.960997
+1372568,"Bibliotekgata 10, Skårer",59.927706,10.960863
+1372569,"Bibliotekgata 12, Skårer",59.927707,10.960634
+1372571,"Bibliotekgata 14, Skårer",59.927807,10.960468
+1651217,"Sørliveien 8D, Skårer",59.921893,10.973465
+1664914,"Festplassen 1, Skårer",59.927942,10.961699
+1699364,"Boecks gate 9, Skårer",59.926019,10.961812
+1718149,"Kulturhusgata 3, Skårer",59.927241,10.960539
+1718154,"Kulturhusgata 1, Skårer",59.9272,10.960638
+1816360,"Solheimveien 116, Skårer",59.928508,10.966054
+1816374,"Bibliotekgata 20, Skårer",59.927704,10.959729
+1816421,"Kulturhusgata 5, Skårer",59.927217,10.95994
+1861337,"Boecks gate 18, Skårer",59.927847,10.963243
+1861338,"Boecks gate 7, Skårer",59.925949,10.961091
+1861341,"Boecks gate 5, Skårer",59.926042,10.961046
+1861343,"Boecks gate 14, Skårer",59.92732,10.962655
+1861344,"Boecks gate 16, Skårer",59.927598,10.963232
+1861353,"Kulturhusgata 21, Skårer",59.926779,10.959919
+1963203,"Kulturhusgata 23, Skårer",59.926499,10.959416
+1976879,"Løkenåsringen 16B, Skårer",59.919708,10.965587
+1987031,"Trygves vei 5B, Skårer",59.924827,10.952219
+1989008,"Nordlifaret 12C, Skårer",59.92127,10.961054
+1989009,"Nordlifaret 12D, Skårer",59.921442,10.960962
+1989063,"Nordlifaret 12B, Skårer",59.921218,10.961901
+1989064,"Nordlifaret 12A, Skårer",59.921134,10.96157
+2015504,"Løkenåsveien 53A, Skårer",59.917664,10.96026
+2016770,"Bibliotekgata 11, Skårer",59.927992,10.960213
+2019639,"Kulturhusgata 29, Skårer",59.926794,10.958574
+2023960,"Astrids vei 4, Skårer",59.927558,10.95187
+2023961,"Astrids vei 2, Skårer",59.927432,10.951769
+2035001,"Skårersletta 60C, Skårer",59.921137,10.955303
+2035003,"Skårersletta 60A, Skårer",59.92136,10.95527
+2035004,"Skårersletta 60B, Skårer",59.921269,10.955274
+2035329,"Skårerfaret 1A, Skårer",59.921444,10.956123
+2035330,"Skårerfaret 1B, Skårer",59.921085,10.955985
+2035341,"Skårersletta 60D, Skårer",59.921015,10.955327
+2035343,"Skårersletta 60E, Skårer",59.920869,10.955347
+2036996,"Astrids vei 25, Skårer",59.928148,10.951042
+2037328,"Astrids vei 23, Skårer",59.928089,10.951373
+2037329,"Astrids vei 21, Skårer",59.92803,10.951704
+2037330,"Astrids vei 19, Skårer",59.927969,10.952032
+2037679,"Astrids vei 15, Skårer",59.927849,10.952696
+2037680,"Astrids vei 13, Skårer",59.927786,10.953019
+2037681,"Astrids vei 11, Skårer",59.927604,10.953213
+2037683,"Astrids vei 17, Skårer",59.927908,10.952365
+2048272,"Astrids vei 6, Skårer",59.927892,10.951226
+2065972,"Skigata 14, Skårer",59.922184,10.955599
+2065974,"Skigata 16, Skårer",59.922224,10.956487
+2065976,"Skigata 18, Skårer",59.92195,10.956546
+2065977,"Skigata 2, Skårer",59.921707,10.956586
+2065979,"Skårersletta 58, Skårer",59.921593,10.955035
+2065980,"Skigata 12, Skårer",59.922138,10.955029
+2065982,"Skigata 4, Skårer",59.921682,10.956158
+2065983,"Skårersletta 52, Skårer",59.922204,10.954847
+2065984,"Skårersletta 54, Skårer",59.922068,10.95487
+2065986,"Skårersletta 56, Skårer",59.921728,10.955007
+2066029,"Skigata 8, Skårer",59.921669,10.955183
+2066031,"Skigata 6, Skårer",59.921649,10.955405
+2066041,"Skigata 10, Skårer",59.921898,10.955067
+2070099,"Skårersletta 5, Skårer",59.927664,10.953249
+2070106,"Skårersletta 3, Skårer",59.927737,10.953231
+2070112,"Skårersletta 1, Skårer",59.92783,10.953215
+2070947,"Trygves vei 8B, Skårer",59.924151,10.951918
+2084405,"Løkenåsveien 47, Skårer",59.918846,10.96126
+2093604,"Søster Mathildes gate 35, Skårer",59.921781,10.948845
+2093644,"Søster Mathildes gate 36, Skårer",59.921376,10.946968
+2093645,"Søster Mathildes gate 42, Skårer",59.921854,10.947686
+2101287,"Ragnhilds vei 1F, Skårer",59.927168,10.952291
+2101288,"Ragnhilds vei 1E, Skårer",59.927176,10.952397
+2101289,"Ragnhilds vei 1G, Skårer",59.927178,10.952171
+2101292,"Skårersletta 7, Skårer",59.927443,10.953273
+2101293,"Ragnhilds vei 1D, Skårer",59.927165,10.952584
+2101294,"Ragnhilds vei 1C, Skårer",59.927167,10.95275
+2101295,"Skårersletta 11, Skårer",59.927279,10.953219
+2101296,"Skårersletta 9, Skårer",59.927347,10.953271
+2101297,"Ragnhilds vei 1B, Skårer",59.927197,10.952985
+2101298,"Ragnhilds vei 1A, Skårer",59.927222,10.95316
+2111967,"Søster Mathildes gate 38, Skårer",59.921719,10.94688
+2117040,"Søster Mathildes gate 33, Skårer",59.921574,10.948802
+2117041,"Søster Mathildes gate 40, Skårer",59.92191,10.947158
+2117042,"Søster Mathildes gate 37, Skårer",59.921809,10.948208
+2117043,"Søster Mathildes gate 31, Skårer",59.921431,10.948449
+2117044,"Søster Mathildes gate 34, Skårer",59.921439,10.94759
+2184937,"Løkenåsringen 1, Skårer",59.918216,10.963319
+2190934,"Skårersletta 65, Skårer",59.920851,10.954481
+2191054,"Skårersletta 63, Skårer",59.92098,10.954496
+2447465,"Rådmann Paulsens gate 34, Skårer",59.921257,10.950464
+2447466,"Rådmann Paulsens gate 36, Skårer",59.921349,10.950639
+2447467,"Rådmann Paulsens gate 38, Skårer",59.921355,10.950792
+2447468,"Rådmann Paulsens gate 40, Skårer",59.921542,10.950865
+2447469,"Rådmann Paulsens gate 42, Skårer",59.921757,10.95064
+2457652,"Sørlisvingen 7, Skårer",59.921688,10.972871
+2474989,"Trygves vei 1A, Skårer",59.924586,10.953069
+2476677,"Trygves vei 1B, Skårer",59.924852,10.953114
+2533577,"Rådmann Paulsens gate 44, Skårer",59.922076,10.950626
+2533578,"Rådmann Paulsens gate 46, Skårer",59.92203,10.950828
+2533579,"Rådmann Paulsens gate 48, Skårer",59.922029,10.950935
+2533581,"Rådmann Paulsens gate 50, Skårer",59.92213,10.95093
+2533582,"Rådmann Paulsens gate 52, Skårer",59.922357,10.950979
+2533583,"Rådmann Paulsens gate 54, Skårer",59.922487,10.950906
+2533584,"Rådmann Paulsens gate 56, Skårer",59.922562,10.950503
+2534505,"Søster Mathildes gate 39, Skårer",59.922368,10.948291
+2534515,"Søster Mathildes gate 41, Skårer",59.92232,10.9489
+2534524,"Søster Mathildes gate 43, Skårer",59.922528,10.948894
+2534525,"Søster Mathildes gate 45, Skårer",59.922592,10.948764
+2534541,"Søster Mathildes gate 47, Skårer",59.922616,10.948345
+2534571,"Søster Mathildes gate 48, Skårer",59.922405,10.947633
+2534586,"Søster Mathildes gate 44, Skårer",59.922295,10.946755
+2534587,"Søster Mathildes gate 46, Skårer",59.922485,10.946709
+2534616,"Søster Mathildes gate 50, Skårer",59.922719,10.947587
+2535110,"Løkenåsveien 51, Skårer",59.917864,10.959808

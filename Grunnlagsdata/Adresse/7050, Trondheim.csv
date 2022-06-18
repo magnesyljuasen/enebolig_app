@@ -1,0 +1,959 @@
+,Navn,Long,Lat
+1490339,"Østre Moholt-tun 4, Strinda",63.40838,10.437189
+1490340,"Østre Moholt-tun 3, Strinda",63.408763,10.43837
+1490341,"Østre Moholt-tun 6, Strinda",63.408275,10.436883
+1490342,"Østre Moholt-tun 5, Strinda",63.408867,10.438655
+1490343,"Østre Moholt-tun 8, Strinda",63.408214,10.43666
+1490344,"Østre Moholt-tun 7, Strinda",63.408965,10.4388
+1490345,"Østre Moholt-tun 10, Strinda",63.408139,10.436096
+1490346,"Østre Moholt-tun 9, Strinda",63.409224,10.438854
+1492919,"Brøsetvegen 182B, Strinda",63.410754,10.442936
+1492920,"Brøsetvegen 182, Strinda",63.410882,10.442742
+1492921,"Brøsetvegen 184B, Strinda",63.410841,10.443281
+1492922,"Brøsetvegen 184, Strinda",63.410857,10.443422
+1492924,"Brøsetvegen 188, Strinda",63.40966,10.441058
+1492927,"Brøsetvegen 174, Strinda",63.411277,10.443623
+1492928,"Brøsetvegen 173, Strinda",63.410695,10.438146
+1492929,"Brøsetvegen 175C, Strinda",63.410587,10.439082
+1492930,"Brøsetvegen 175B, Strinda",63.410455,10.438815
+1492931,"Brøsetvegen 177, Strinda",63.41013,10.4399
+1492932,"Brøsetvegen 176, Strinda",63.411172,10.444199
+1492933,"Brøsetvegen 180B, Strinda",63.41076,10.442355
+1492934,"Brøsetvegen 180, Strinda",63.410851,10.44226
+1492935,"Brøsetvegen 163, Strinda",63.411032,10.440266
+1492936,"Brøsetvegen 167, Strinda",63.411115,10.439249
+1492937,"Brøsetvegen 165, Strinda",63.411073,10.439767
+1492938,"Brøsetvegen 169, Strinda",63.411074,10.438786
+1492940,"Brøsetvegen 172, Strinda",63.411166,10.443057
+1492941,"Brøsetvegen 171, Strinda",63.410962,10.4384
+1492942,"Brøsetvegen 155, Strinda",63.411409,10.439424
+1492943,"Brøsetvegen 153, Strinda",63.411367,10.440022
+1492944,"Brøsetvegen 157, Strinda",63.411583,10.439973
+1492946,"Brøsetvegen 159A, Strinda",63.411595,10.440555
+1492948,"Brøsetvegen 161A, Strinda",63.410972,10.440752
+1492949,"Brøsetvegen 159B, Strinda",63.411696,10.441201
+1492953,"Brøsetvegen 149, Strinda",63.411496,10.441511
+1492954,"Brøsetvegen 151, Strinda",63.411332,10.440862
+1495117,"Moholt alle 12, Strinda",63.410323,10.434903
+1495118,"Moholt alle 11, Strinda",63.409799,10.431653
+1495119,"Moholt alle 14, Strinda",63.410548,10.433953
+1495120,"Moholt alle 13, Strinda",63.409597,10.431302
+1495121,"Moholt alle 16, Strinda",63.410673,10.434099
+1495122,"Moholt alle 15, Strinda",63.409384,10.430991
+1495123,"Moholt alle 7, Strinda",63.410566,10.433053
+1495124,"Moholt alle 10, Strinda",63.410401,10.435187
+1495125,"Moholt alle 8, Strinda",63.410584,10.434916
+1495462,"Fiolsvingen 20, Strinda",63.410779,10.424371
+1495475,"Fiolsvingen 18, Strinda",63.410721,10.423868
+1495476,"Fiolsvingen 16, Strinda",63.410681,10.423385
+1495643,"Frydenbergvegen 4, Berg",63.415083,10.426608
+1495644,"Frydenbergvegen 3C, Berg",63.414409,10.425065
+1495645,"Frydenbergvegen 6, Berg",63.415053,10.426967
+1495646,"Frydenbergvegen 5, Berg",63.414312,10.425668
+1495647,"Frydenbergvegen 8, Berg",63.414777,10.427574
+1495648,"Frydenbergvegen 7, Berg",63.414367,10.426392
+1495649,"Frydenbergvegen 10, Berg",63.41467,10.42847
+1495650,"Frydenbergvegen 9, Berg",63.414486,10.427059
+1495657,"Frydenbergvegen 2, Berg",63.415089,10.426047
+1495658,"Frydenbergvegen 1B, Berg",63.414835,10.42571
+1495667,"Frode Rinnans veg 195, Strinda",63.412329,10.43985
+1495668,"Frode Rinnans veg 193, Strinda",63.41224,10.439826
+1495669,"Frode Rinnans veg 199, Strinda",63.412151,10.439701
+1495670,"Frode Rinnans veg 197, Strinda",63.412419,10.439895
+1495671,"Frode Rinnans veg 203, Strinda",63.41233,10.43975
+1495672,"Frode Rinnans veg 201, Strinda",63.412241,10.439746
+1495674,"Frode Rinnans veg 205, Strinda",63.412468,10.439775
+1495675,"Frode Rinnans veg 179, Strinda",63.412073,10.440338
+1495676,"Frode Rinnans veg 177, Strinda",63.412179,10.440464
+1495677,"Frode Rinnans veg 183, Strinda",63.412129,10.440101
+1495678,"Frode Rinnans veg 181, Strinda",63.412189,10.440364
+1495679,"Frode Rinnans veg 187, Strinda",63.41213,10.440021
+1495680,"Frode Rinnans veg 185, Strinda",63.412219,10.440125
+1495681,"Frode Rinnans veg 191, Strinda",63.412141,10.439781
+1495682,"Frode Rinnans veg 189, Strinda",63.412228,10.440066
+1495683,"Frode Rinnans veg 163, Strinda",63.411918,10.440611
+1495684,"Frode Rinnans veg 161, Strinda",63.412001,10.440395
+1495685,"Frode Rinnans veg 167, Strinda",63.411908,10.44067
+1495686,"Frode Rinnans veg 165, Strinda",63.411998,10.440655
+1495687,"Frode Rinnans veg 171, Strinda",63.412078,10.440779
+1495688,"Frode Rinnans veg 169, Strinda",63.411997,10.440735
+1495689,"Frode Rinnans veg 175, Strinda",63.412072,10.440438
+1495690,"Frode Rinnans veg 173, Strinda",63.412078,10.440699
+1495691,"Frode Rinnans veg 147, Strinda",63.411959,10.440052
+1495692,"Frode Rinnans veg 145, Strinda",63.411879,10.440028
+1495693,"Frode Rinnans veg 151, Strinda",63.41184,10.440267
+1495694,"Frode Rinnans veg 149, Strinda",63.41204,10.440056
+1495695,"Frode Rinnans veg 155, Strinda",63.412002,10.440295
+1495696,"Frode Rinnans veg 153, Strinda",63.411903,10.44027
+1495697,"Frode Rinnans veg 159, Strinda",63.41192,10.440351
+1495698,"Frode Rinnans veg 157, Strinda",63.411821,10.440386
+1495699,"Frode Rinnans veg 139, Strinda",63.411969,10.439953
+1495700,"Frode Rinnans veg 137, Strinda",63.411871,10.439928
+1495701,"Frode Rinnans veg 143, Strinda",63.411763,10.439962
+1495702,"Frode Rinnans veg 141, Strinda",63.412041,10.439976
+1495788,"Frydenbergvegen 22, Berg",63.414927,10.429705
+1495789,"Frydenbergvegen 21, Berg",63.413909,10.430075
+1495790,"Frydenbergvegen 22B, Berg",63.415134,10.429655
+1495791,"Frydenbergvegen 22A, Berg",63.415034,10.42969
+1495793,"Frydenbergvegen 23, Berg",63.413795,10.43063
+1495796,"Frydenbergvegen 19, Berg",63.41403,10.4296
+1495797,"Frydenbergvegen 18B, Berg",63.414364,10.430498
+1495798,"Frydenbergvegen 20A, Berg",63.414679,10.430353
+1495799,"Frydenbergvegen 20, Berg",63.414573,10.430382
+1495800,"Frydenbergvegen 20C, Berg",63.414884,10.43028
+1495801,"Frydenbergvegen 20B, Berg",63.414782,10.430323
+1495802,"Frydenbergvegen 20E, Berg",63.415092,10.430214
+1495803,"Frydenbergvegen 20D, Berg",63.414984,10.430269
+1495804,"Frydenbergvegen 14A, Berg",63.414368,10.429897
+1495805,"Frydenbergvegen 14, Berg",63.41426,10.429932
+1495806,"Frydenbergvegen 15, Berg",63.414255,10.42869
+1495807,"Frydenbergvegen 14B, Berg",63.414494,10.429924
+1495808,"Frydenbergvegen 17, Berg",63.414134,10.429064
+1495809,"Frydenbergvegen 16, Berg",63.414737,10.429816
+1495810,"Frydenbergvegen 18A, Berg",63.41427,10.430493
+1495811,"Frydenbergvegen 18, Berg",63.414157,10.430554
+1495812,"Frydenbergvegen 11B, Berg",63.414364,10.427634
+1495813,"Frydenbergvegen 11A, Berg",63.414509,10.427501
+1495814,"Frydenbergvegen 12A, Berg",63.414509,10.429283
+1495815,"Frydenbergvegen 12, Berg",63.414392,10.429338
+1495816,"Frydenbergvegen 12C, Berg",63.414716,10.429194
+1495817,"Frydenbergvegen 12B, Berg",63.414608,10.429228
+1495818,"Frydenbergvegen 13, Berg",63.414331,10.428173
+1495819,"Frydenbergvegen 12D, Berg",63.414824,10.429159
+1496013,"Fredrik Kolstøs veg 5, Berg",63.41493,10.428483
+1496014,"Fredrik Kolstøs veg 4, Berg",63.414978,10.429066
+1496023,"Fredrik Kolstøs veg 1, Berg",63.415215,10.427816
+1496025,"Fredrik Kolstøs veg 3, Berg",63.41512,10.428332
+1496026,"Fredrik Kolstøs veg 2, Berg",63.415176,10.428976
+1496066,"Frode Rinnans veg 135, Strinda",63.411773,10.439863
+1496067,"Frode Rinnans veg 133, Strinda",63.412061,10.439757
+1496068,"Frode Rinnans veg 119, Strinda",63.411892,10.439588
+1496069,"Frode Rinnans veg 117, Strinda",63.411803,10.439544
+1496070,"Frode Rinnans veg 123, Strinda",63.412062,10.439657
+1496071,"Frode Rinnans veg 121, Strinda",63.411991,10.439613
+1496072,"Frode Rinnans veg 127, Strinda",63.411793,10.439643
+1496073,"Frode Rinnans veg 125, Strinda",63.411704,10.439579
+1496074,"Frode Rinnans veg 131, Strinda",63.411972,10.439692
+1496075,"Frode Rinnans veg 129, Strinda",63.411882,10.439668
+1496076,"Frode Rinnans veg 103, Strinda",63.411755,10.4389
+1496077,"Frode Rinnans veg 101, Strinda",63.411781,10.439062
+1496078,"Frode Rinnans veg 107, Strinda",63.411639,10.438854
+1496079,"Frode Rinnans veg 105, Strinda",63.411736,10.43906
+1496080,"Frode Rinnans veg 111, Strinda",63.411612,10.438833
+1496081,"Frode Rinnans veg 109, Strinda",63.411628,10.439034
+1496082,"Frode Rinnans veg 115, Strinda",63.411713,10.439519
+1496083,"Frode Rinnans veg 113, Strinda",63.411592,10.439032
+1496084,"Frode Rinnans veg 87, Strinda",63.411509,10.438427
+1496085,"Frode Rinnans veg 85, Strinda",63.411539,10.438148
+1496086,"Frode Rinnans veg 91, Strinda",63.411514,10.437947
+1496087,"Frode Rinnans veg 89, Strinda",63.411498,10.438627
+1496088,"Frode Rinnans veg 95, Strinda",63.411482,10.438426
+1496089,"Frode Rinnans veg 93, Strinda",63.411493,10.438166
+1496090,"Frode Rinnans veg 99, Strinda",63.4118,10.438903
+1496091,"Frode Rinnans veg 97, Strinda",63.411471,10.438606
+1496092,"Frode Rinnans veg 71, Strinda",63.411661,10.438495
+1496093,"Frode Rinnans veg 69, Strinda",63.411681,10.438236
+1496094,"Frode Rinnans veg 75, Strinda",63.411665,10.438035
+1496095,"Frode Rinnans veg 73, Strinda",63.411659,10.438655
+1496096,"Frode Rinnans veg 79, Strinda",63.411625,10.438473
+1496097,"Frode Rinnans veg 77, Strinda",63.411655,10.438214
+1496098,"Frode Rinnans veg 83, Strinda",63.411549,10.438029
+1496099,"Frode Rinnans veg 81, Strinda",63.411614,10.438653
+1496100,"Frode Rinnans veg 55, Strinda",63.411804,10.438562
+1496101,"Frode Rinnans veg 53, Strinda",63.411833,10.438303
+1496102,"Frode Rinnans veg 59, Strinda",63.411808,10.438102
+1496103,"Frode Rinnans veg 57, Strinda",63.411811,10.438743
+1496104,"Frode Rinnans veg 63, Strinda",63.411777,10.438541
+1496105,"Frode Rinnans veg 61, Strinda",63.411806,10.438302
+1496106,"Frode Rinnans veg 67, Strinda",63.411692,10.438056
+1496107,"Frode Rinnans veg 65, Strinda",63.411775,10.438741
+1496108,"Frode Rinnans veg 39, Strinda",63.411579,10.43767
+1496109,"Frode Rinnans veg 37, Strinda",63.411591,10.43741
+1496110,"Frode Rinnans veg 43, Strinda",63.411566,10.437208
+1496111,"Frode Rinnans veg 41, Strinda",63.41156,10.437789
+1496112,"Frode Rinnans veg 47, Strinda",63.411535,10.437627
+1496113,"Frode Rinnans veg 45, Strinda",63.411555,10.437388
+1496114,"Frode Rinnans veg 51, Strinda",63.411853,10.438164
+1496115,"Frode Rinnans veg 49, Strinda",63.411488,10.437825
+1496116,"Frode Rinnans veg 23, Strinda",63.411723,10.437697
+1496117,"Frode Rinnans veg 21, Strinda",63.411743,10.437478
+1496118,"Frode Rinnans veg 27, Strinda",63.411718,10.437276
+1496119,"Frode Rinnans veg 25, Strinda",63.41173,10.437878
+1496120,"Frode Rinnans veg 31, Strinda",63.411687,10.437695
+1496121,"Frode Rinnans veg 29, Strinda",63.411707,10.437456
+1496122,"Frode Rinnans veg 35, Strinda",63.411611,10.437211
+1496123,"Frode Rinnans veg 33, Strinda",63.411685,10.437875
+1496124,"Frode Rinnans veg 7, Strinda",63.411883,10.437785
+1496125,"Frode Rinnans veg 5, Strinda",63.411895,10.437525
+1496126,"Frode Rinnans veg 11, Strinda",63.411879,10.437324
+1496127,"Frode Rinnans veg 9, Strinda",63.411864,10.437964
+1496128,"Frode Rinnans veg 15, Strinda",63.411847,10.437783
+1496129,"Frode Rinnans veg 13, Strinda",63.41185,10.437523
+1496130,"Frode Rinnans veg 19, Strinda",63.411754,10.437278
+1496131,"Frode Rinnans veg 17, Strinda",63.411837,10.437943
+1496138,"Frode Rinnans veg 3, Strinda",63.411897,10.437345
+1497624,"Moholt alle 3, Strinda",63.410896,10.433289
+1497625,"Moholt alle 2, Strinda",63.411029,10.434358
+1497626,"Moholt alle 5, Strinda",63.410699,10.43322
+1497627,"Moholt alle 4, Strinda",63.410893,10.434511
+1497628,"Moholt alle 6, Strinda",63.410693,10.434741
+1498276,"Herman Krags veg 20, Strinda",63.411965,10.433263
+1498277,"Herman Krags veg 19, Strinda",63.411391,10.43045
+1498278,"Herman Krags veg 22, Strinda",63.411837,10.433437
+1498279,"Herman Krags veg 21, Strinda",63.411267,10.430304
+1498280,"Herman Krags veg 24, Strinda",63.411731,10.433251
+1498281,"Herman Krags veg 23, Strinda",63.41116,10.429397
+1498282,"Herman Krags veg 12, Strinda",63.412448,10.432546
+1498283,"Herman Krags veg 11, Strinda",63.411885,10.432237
+1498284,"Herman Krags veg 14, Strinda",63.412265,10.432857
+1498285,"Herman Krags veg 13, Strinda",63.411702,10.431667
+1498286,"Herman Krags veg 16, Strinda",63.412146,10.433051
+1498287,"Herman Krags veg 15, Strinda",63.411622,10.430762
+1498288,"Herman Krags veg 18, Strinda",63.412019,10.433245
+1498289,"Herman Krags veg 17, Strinda",63.411524,10.430637
+1498290,"Herman Krags veg 3, Strinda",63.412328,10.431939
+1498291,"Herman Krags veg 1, Strinda",63.412464,10.431785
+1498292,"Herman Krags veg 6, Strinda",63.41282,10.432084
+1498293,"Herman Krags veg 5, Strinda",63.41221,10.432073
+1498294,"Herman Krags veg 8, Strinda",63.412702,10.432238
+1498295,"Herman Krags veg 7, Strinda",63.412109,10.432248
+1498296,"Herman Krags veg 10, Strinda",63.412602,10.432393
+1498297,"Herman Krags veg 9, Strinda",63.411973,10.432382
+1498359,"Herman Krags veg 53, Strinda",63.412373,10.43106
+1498360,"Herman Krags veg 51, Strinda",63.412257,10.430934
+1498367,"Herman Krags veg 42, Strinda",63.411716,10.428543
+1498368,"Herman Krags veg 41, Strinda",63.412464,10.429142
+1498369,"Herman Krags veg 44, Strinda",63.411944,10.428154
+1498370,"Herman Krags veg 43, Strinda",63.411797,10.43031
+1498371,"Herman Krags veg 46, Strinda",63.412173,10.428626
+1498372,"Herman Krags veg 45, Strinda",63.41193,10.430457
+1498373,"Herman Krags veg 49, Strinda",63.412151,10.430748
+1498374,"Herman Krags veg 47, Strinda",63.412045,10.430623
+1498375,"Herman Krags veg 34, Strinda",63.410877,10.428942
+1498376,"Herman Krags veg 33, Strinda",63.411778,10.429448
+1498377,"Herman Krags veg 36, Strinda",63.410965,10.428226
+1498378,"Herman Krags veg 35, Strinda",63.412127,10.429625
+1498379,"Herman Krags veg 38, Strinda",63.411211,10.427877
+1498380,"Herman Krags veg 37, Strinda",63.412245,10.429471
+1498381,"Herman Krags veg 40, Strinda",63.411431,10.428329
+1498382,"Herman Krags veg 39, Strinda",63.412345,10.429316
+1498383,"Herman Krags veg 26, Strinda",63.411446,10.432175
+1498384,"Herman Krags veg 25, Strinda",63.411269,10.429242
+1498385,"Herman Krags veg 28, Strinda",63.411354,10.43145
+1498386,"Herman Krags veg 27, Strinda",63.411387,10.429048
+1498387,"Herman Krags veg 30, Strinda",63.410876,10.429944
+1498388,"Herman Krags veg 29, Strinda",63.41152,10.429235
+1498389,"Herman Krags veg 32, Strinda",63.410629,10.429491
+1498390,"Herman Krags veg 31, Strinda",63.411626,10.42938
+1500503,"Jonsvannsveien 93C, Berg",63.414693,10.431111
+1500504,"Jonsvannsveien 93B, Berg",63.414834,10.43109
+1500505,"Jonsvannsveien 99B, Berg",63.414319,10.431257
+1500506,"Jonsvannsveien 99A, Berg",63.414438,10.431211
+1500507,"Jonsvannsveien 105A, Berg",63.41394,10.431418
+1500508,"Jonsvannsveien 99C, Berg",63.414179,10.431282
+1500509,"Jonsvannsveien 105C, Berg",63.413697,10.431506
+1500510,"Jonsvannsveien 105B, Berg",63.413823,10.431453
+1500513,"Jonsvannsveien 82, Strinda",63.413926,10.433471
+1500515,"Jonsvannsveien 87B, Berg",63.415319,10.430886
+1500516,"Jonsvannsveien 87A, Berg",63.415454,10.430833
+1500517,"Jonsvannsveien 93A, Berg",63.414931,10.431053
+1500518,"Jonsvannsveien 87C, Berg",63.415201,10.43094
+1500871,"Karsevegen 22, Strinda",63.41343,10.429746
+1500877,"Karsevegen 7D, Strinda",63.41309,10.426649
+1500878,"Karsevegen 7C, Strinda",63.413122,10.42611
+1500879,"Karsevegen 10, Strinda",63.413613,10.426455
+1500880,"Karsevegen 8, Strinda",63.4136,10.425933
+1500881,"Karsevegen 14, Strinda",63.413646,10.427598
+1500882,"Karsevegen 12, Strinda",63.413696,10.42712
+1500883,"Karsevegen 20, Strinda",63.413441,10.42921
+1500884,"Karsevegen 18, Strinda",63.413592,10.428497
+1500887,"Karsevegen 3, Strinda",63.413399,10.425362
+1500888,"Karsevegen 2, Strinda",63.41376,10.424279
+1500889,"Karsevegen 5, Strinda",63.413351,10.42566
+1500890,"Karsevegen 4, Strinda",63.413629,10.424833
+1500891,"Karsevegen 7, Strinda",63.413328,10.42616
+1500892,"Karsevegen 6, Strinda",63.413614,10.425413
+1501882,"Konvallvegen 9, Strinda",63.412111,10.42666
+1501883,"Konvallvegen 8, Strinda",63.412347,10.427393
+1501884,"Konvallvegen 1, Strinda",63.412551,10.426682
+1501886,"Konvallvegen 3, Strinda",63.41248,10.426717
+1501887,"Konvallvegen 2, Strinda",63.412544,10.427383
+1501888,"Konvallvegen 5, Strinda",63.412412,10.426695
+1501889,"Konvallvegen 4, Strinda",63.412481,10.42738
+1501890,"Konvallvegen 7, Strinda",63.412362,10.426713
+1501891,"Konvallvegen 6, Strinda",63.412418,10.427397
+1501955,"Kornblomstvegen 24A, Nidelven",63.41237,10.421466
+1501956,"Kornblomstvegen 24, Nidelven",63.412226,10.421499
+1501957,"Kornblomstvegen 30, Nidelven",63.412438,10.42179
+1501958,"Kornblomstvegen 28, Nidelven",63.412446,10.42193
+1501959,"Kornblomstvegen 34, Nidelven",63.412261,10.422442
+1501960,"Kornblomstvegen 32, Nidelven",63.412198,10.422439
+1501962,"Kornblomstvegen 36, Nidelven",63.412324,10.422445
+1501963,"Kornblomstvegen 13, Strinda",63.412281,10.423124
+1501964,"Kornblomstvegen 12B, Nidelven",63.411286,10.422153
+1501965,"Kornblomstvegen 14B, Nidelven",63.411563,10.422597
+1501966,"Kornblomstvegen 14A, Nidelven",63.41147,10.422603
+1501967,"Kornblomstvegen 15B, Strinda",63.412512,10.423396
+1501968,"Kornblomstvegen 15A, Strinda",63.412513,10.423275
+1501969,"Kornblomstvegen 22, Nidelven",63.412006,10.421888
+1501970,"Kornblomstvegen 16A, Nidelven",63.411619,10.422029
+1501971,"Kornblomstvegen 7A, Strinda",63.411901,10.423445
+1501972,"Kornblomstvegen 7, Strinda",63.411829,10.423442
+1501973,"Kornblomstvegen 8A, Nidelven",63.410936,10.422076
+1501974,"Kornblomstvegen 8, Nidelven",63.410892,10.421973
+1501975,"Kornblomstvegen 10, Nidelven",63.410966,10.422698
+1501976,"Kornblomstvegen 9, Strinda",63.412165,10.423138
+1501977,"Kornblomstvegen 12A, Nidelven",63.411245,10.422612
+1501978,"Kornblomstvegen 11, Strinda",63.412227,10.423141
+1501979,"Konvallvegen 42, Strinda",63.410103,10.427302
+1501980,"Konvallvegen 40, Strinda",63.410265,10.42731
+1501981,"Kornblomstvegen 2A, Nidelven",63.41075,10.422727
+1501982,"Kornblomstvegen 2, Nidelven",63.410679,10.422724
+1501983,"Kornblomstvegen 4A, Nidelven",63.410603,10.422179
+1501984,"Kornblomstvegen 4, Nidelven",63.410584,10.422299
+1501985,"Kornblomstvegen 6A, Nidelven",63.410759,10.421887
+1501986,"Kornblomstvegen 6, Nidelven",63.410713,10.421944
+1501987,"Konvallvegen 31, Strinda",63.410876,10.426359
+1501988,"Konvallvegen 30, Strinda",63.411074,10.42717
+1501989,"Konvallvegen 33, Strinda",63.410677,10.426509
+1501990,"Konvallvegen 32, Strinda",63.411002,10.427186
+1501991,"Konvallvegen 35, Strinda",63.410426,10.426477
+1501992,"Konvallvegen 34, Strinda",63.410722,10.427332
+1501993,"Konvallvegen 38, Strinda",63.410409,10.427297
+1501994,"Konvallvegen 36, Strinda",63.410561,10.427304
+1501995,"Konvallvegen 23, Strinda",63.411413,10.426526
+1501996,"Konvallvegen 22, Strinda",63.411477,10.427184
+1501997,"Konvallvegen 25, Strinda",63.411171,10.426453
+1501998,"Konvallvegen 24, Strinda",63.411415,10.427167
+1501999,"Konvallvegen 27, Strinda",63.411108,10.42643
+1502000,"Konvallvegen 26, Strinda",63.411209,10.427176
+1502001,"Konvallvegen 29, Strinda",63.410939,10.426342
+1502002,"Konvallvegen 28, Strinda",63.411129,10.427152
+1502003,"Konvallvegen 15, Strinda",63.411923,10.426691
+1502004,"Konvallvegen 14, Strinda",63.411978,10.427395
+1502005,"Konvallvegen 17, Strinda",63.411619,10.426556
+1502006,"Konvallvegen 16, Strinda",63.411906,10.427431
+1502007,"Konvallvegen 19, Strinda",63.411547,10.426532
+1502008,"Konvallvegen 18, Strinda",63.41164,10.427178
+1502009,"Konvallvegen 21, Strinda",63.411493,10.42653
+1502010,"Konvallvegen 20, Strinda",63.411559,10.427174
+1502011,"Konvallvegen 11, Strinda",63.412034,10.426673
+1502012,"Konvallvegen 10, Strinda",63.412113,10.427442
+1502013,"Konvallvegen 13, Strinda",63.411968,10.426685
+1502014,"Konvallvegen 12, Strinda",63.41205,10.427439
+1503116,"Lidarende 8, Strinda",63.414797,10.432288
+1503117,"Lidarende 7, Strinda",63.415613,10.437291
+1503118,"Lidarende 10, Strinda",63.414789,10.432594
+1503119,"Lidarende 9, Strinda",63.415349,10.436857
+1503120,"Lidarende 14, Strinda",63.414961,10.432591
+1503121,"Lidarende 12, Strinda",63.414816,10.4329
+1503123,"Lidarende 16, Strinda",63.414946,10.43223
+1503126,"Lidarende 2, Strinda",63.414612,10.432415
+1503127,"Lidarende 1, Strinda",63.415062,10.436742
+1503128,"Lidarende 4, Strinda",63.414609,10.432722
+1503129,"Lidarende 3, Strinda",63.415092,10.437425
+1503130,"Lidarende 6, Strinda",63.414626,10.433051
+1503131,"Lidarende 5, Strinda",63.415536,10.437868
+1503847,"Løvetannvegen 7A, Strinda",63.411562,10.425011
+1503848,"Løvetannvegen 5A, Strinda",63.411468,10.424626
+1503850,"Løvetannvegen 7B, Strinda",63.411597,10.425113
+1503859,"Løvetannvegen 3A, Strinda",63.411478,10.423905
+1503860,"Løvetannvegen 1, Strinda",63.411498,10.423325
+1503861,"Løvetannvegen 5, Strinda",63.411451,10.424445
+1503862,"Løvetannvegen 3B, Strinda",63.411462,10.424038
+1504787,"Moholt alle 1, Strinda",63.411029,10.433456
+1504959,"Moholtsvingen 28, Strinda",63.407717,10.434292
+1504960,"Moholtsvingen 26, Strinda",63.407694,10.434792
+1504961,"Moholtsvingen 32, Strinda",63.407834,10.433437
+1504962,"Moholtsvingen 30, Strinda",63.407776,10.433855
+1504963,"Moholtsvingen 36, Strinda",63.408369,10.432883
+1504964,"Moholtsvingen 34, Strinda",63.40792,10.432861
+1504967,"Moholtsvingen 12, Strinda",63.407904,10.437185
+1504968,"Moholtsvingen 10, Strinda",63.407956,10.437348
+1504969,"Moholtsvingen 16, Strinda",63.40782,10.43656
+1504970,"Moholtsvingen 14, Strinda",63.407854,10.436802
+1504971,"Moholtsvingen 20, Strinda",63.40773,10.435755
+1504972,"Moholtsvingen 18, Strinda",63.407754,10.436016
+1504973,"Moholtsvingen 24, Strinda",63.407708,10.435213
+1504974,"Moholtsvingen 22, Strinda",63.407714,10.435494
+1504979,"Moholtsvingen 4, Strinda",63.408461,10.438895
+1504980,"Moholtsvingen 2, Strinda",63.408575,10.439161
+1504981,"Moholtsvingen 8, Strinda",63.408233,10.438343
+1504982,"Moholtsvingen 6, Strinda",63.408383,10.438631
+1505007,"Moholt alle 20, Strinda",63.410317,10.433801
+1505008,"Moholt alle 18, Strinda",63.410193,10.433635
+1505009,"Moholt alle 24, Strinda",63.41013,10.434453
+1505010,"Moholt alle 22, Strinda",63.410267,10.434299
+1505011,"Moholt alle 28, Strinda",63.409988,10.433424
+1505012,"Moholt alle 26, Strinda",63.409904,10.433721
+1509805,"Prestekragevegen 29A, Strinda",63.408201,10.431733
+1509806,"Prestekragevegen 27, Strinda",63.408117,10.431168
+1509807,"Prestekragevegen 29C, Strinda",63.408161,10.432152
+1509808,"Prestekragevegen 29B, Strinda",63.408181,10.431932
+1509813,"Prestekragevegen 13B, Strinda",63.409582,10.429138
+1509814,"Prestekragevegen 13A, Strinda",63.409655,10.429022
+1509815,"Prestekragevegen 15, Strinda",63.409347,10.429287
+1509816,"Prestekragevegen 14, Strinda",63.41017,10.429783
+1509817,"Prestekragevegen 19A, Strinda",63.408895,10.429783
+1509818,"Prestekragevegen 17, Strinda",63.409058,10.429533
+1509819,"Prestekragevegen 25, Strinda",63.408256,10.430754
+1509820,"Prestekragevegen 23, Strinda",63.408457,10.430364
+1509821,"Prestekragevegen 6, Strinda",63.410623,10.428249
+1509822,"Prestekragevegen 4, Strinda",63.410447,10.4279
+1509823,"Prestekragevegen 8, Strinda",63.410492,10.428803
+1509824,"Prestekragevegen 7, Strinda",63.409718,10.427222
+1509825,"Prestekragevegen 10, Strinda",63.41031,10.429094
+1509826,"Prestekragevegen 9, Strinda",63.409588,10.427697
+1509827,"Prestekragevegen 12, Strinda",63.410161,10.428666
+1509828,"Prestekragevegen 11, Strinda",63.409599,10.428378
+1509833,"Prestekragevegen 1, Strinda",63.41027,10.425848
+1509835,"Prestekragevegen 3, Strinda",63.41006,10.426278
+1509836,"Prestekragevegen 2, Strinda",63.410593,10.425944
+1513618,"Smørblomstvegen 10, Nidelven",63.410493,10.419466
+1513619,"Smørblomstvegen 9, Nidelven",63.410837,10.420328
+1513620,"Smørblomstvegen 12, Nidelven",63.411007,10.419496
+1513621,"Smørblomstvegen 11, Nidelven",63.41109,10.420141
+1513622,"Smørblomstvegen 14, Nidelven",63.410945,10.419352
+1513623,"Smørblomstvegen 13, Nidelven",63.411144,10.420123
+1513624,"Smørblomstvegen 16, Nidelven",63.410875,10.419229
+1513625,"Smørblomstvegen 15, Nidelven",63.411496,10.41996
+1513628,"Smørblomstvegen 3, Nidelven",63.410485,10.420511
+1513629,"Smørblomstvegen 2, Nidelven",63.41025,10.419755
+1513630,"Smørblomstvegen 6, Nidelven",63.410618,10.419747
+1513631,"Smørblomstvegen 5, Nidelven",63.410539,10.420474
+1513632,"Smørblomstvegen 8, Nidelven",63.410564,10.419608
+1513633,"Smørblomstvegen 7, Nidelven",63.410773,10.420445
+1513729,"Smørblomstvegen 42, Nidelven",63.412671,10.418256
+1513730,"Smørblomstvegen 41A, Strinda",63.413426,10.423521
+1513731,"Smørblomstvegen 44, Nidelven",63.412894,10.418427
+1513732,"Smørblomstvegen 42B, Nidelven",63.412675,10.417876
+1513733,"Smørblomstvegen 46, Nidelven",63.413142,10.41872
+1513734,"Smørblomstvegen 44B, Nidelven",63.413018,10.417999
+1513736,"Blåklokkevegen 54, Strinda",63.413405,10.424315
+1513737,"Smørblomstvegen 37, Strinda",63.413375,10.422397
+1513738,"Smørblomstvegen 36A, Nidelven",63.411769,10.417771
+1513739,"Smørblomstvegen 39, Strinda",63.413406,10.422899
+1513740,"Smørblomstvegen 37A, Strinda",63.413355,10.422576
+1513741,"Smørblomstvegen 40, Nidelven",63.412445,10.418425
+1513742,"Smørblomstvegen 39A, Strinda",63.413413,10.42302
+1513743,"Smørblomstvegen 41, Strinda",63.413428,10.423401
+1513744,"Smørblomstvegen 40B, Nidelven",63.412288,10.417937
+1513745,"Smørblomstvegen 32B, Nidelven",63.411558,10.418281
+1513746,"Smørblomstvegen 32A, Nidelven",63.411584,10.418322
+1513747,"Smørblomstvegen 34A, Nidelven",63.411505,10.418138
+1513748,"Smørblomstvegen 33, Strinda",63.41342,10.421478
+1513749,"Smørblomstvegen 35, Strinda",63.413334,10.421934
+1513750,"Smørblomstvegen 34B, Nidelven",63.411488,10.418097
+1513751,"Smørblomstvegen 36, Nidelven",63.41189,10.418197
+1513752,"Smørblomstvegen 35A, Strinda",63.413315,10.422073
+1513753,"Smørblomstvegen 27, Nidelven",63.413273,10.419968
+1513754,"Smørblomstvegen 26B, Nidelven",63.411223,10.418545
+1513755,"Smørblomstvegen 28B, Nidelven",63.411734,10.41861
+1513756,"Smørblomstvegen 28A, Nidelven",63.41176,10.418672
+1513757,"Smørblomstvegen 30A, Nidelven",63.411681,10.418507
+1513758,"Smørblomstvegen 29, Strinda",63.41345,10.420257
+1513759,"Smørblomstvegen 31, Strinda",63.413533,10.420902
+1513760,"Smørblomstvegen 30B, Nidelven",63.411654,10.418466
+1513761,"Smørblomstvegen 22B, Nidelven",63.411381,10.418893
+1513762,"Smørblomstvegen 22A, Nidelven",63.411407,10.418935
+1513763,"Smørblomstvegen 24A, Nidelven",63.411328,10.41875
+1513764,"Smørblomstvegen 23, Nidelven",63.412548,10.418891
+1513765,"Smørblomstvegen 25, Nidelven",63.412817,10.418946
+1513766,"Smørblomstvegen 24B, Nidelven",63.411302,10.418709
+1513767,"Smørblomstvegen 26A, Nidelven",63.41125,10.418566
+1513768,"Smørblomstvegen 25B, Nidelven",63.412897,10.419008
+1513769,"Smørblomstvegen 18, Nidelven",63.410813,10.419085
+1513770,"Smørblomstvegen 17, Nidelven",63.411559,10.419963
+1513771,"Smørblomstvegen 19B, Nidelven",63.411785,10.419754
+1513772,"Smørblomstvegen 19, Nidelven",63.411722,10.419771
+1513773,"Smørblomstvegen 20B, Nidelven",63.411469,10.419078
+1513774,"Smørblomstvegen 20A, Nidelven",63.411487,10.419099
+1513775,"Smørblomstvegen 21A, Nidelven",63.412038,10.419647
+1513776,"Smørblomstvegen 21, Nidelven",63.411929,10.419741
+1515849,"Symrevegen 5, Strinda",63.41109,10.424687
+1515850,"Symrevegen 3, Strinda",63.411043,10.423964
+1515863,"Symrevegen 1, Strinda",63.411023,10.423322
+1516424,"Frode Rinnans veg 50, Strinda",63.413489,10.436984
+1516425,"Frode Rinnans veg 36, Strinda",63.413267,10.435891
+1516426,"Frode Rinnans veg 34, Strinda",63.413365,10.435896
+1516427,"Frode Rinnans veg 40, Strinda",63.413035,10.43568
+1516428,"Frode Rinnans veg 38, Strinda",63.413124,10.435764
+1516429,"Frode Rinnans veg 44, Strinda",63.412857,10.43553
+1516430,"Frode Rinnans veg 42, Strinda",63.412947,10.435595
+1516431,"Frode Rinnans veg 48, Strinda",63.413394,10.436579
+1516432,"Frode Rinnans veg 46, Strinda",63.413296,10.436554
+1516433,"Frode Rinnans veg 20, Strinda",63.413137,10.434503
+1516434,"Frode Rinnans veg 18, Strinda",63.413219,10.434407
+1516435,"Frode Rinnans veg 24, Strinda",63.412915,10.435173
+1516436,"Frode Rinnans veg 22, Strinda",63.413046,10.434619
+1516437,"Frode Rinnans veg 28, Strinda",63.413102,10.435342
+1516438,"Frode Rinnans veg 26, Strinda",63.413013,10.435258
+1516439,"Frode Rinnans veg 32, Strinda",63.413298,10.435492
+1516440,"Frode Rinnans veg 30, Strinda",63.4132,10.435407
+1518419,"Vestre Moholt-tun 27, Strinda",63.409382,10.435657
+1518426,"Vestre Moholt-tun 16, Strinda",63.409449,10.434379
+1518427,"Vestre Moholt-tun 15, Strinda",63.40862,10.434658
+1518428,"Vestre Moholt-tun 18, Strinda",63.409582,10.434566
+1518429,"Vestre Moholt-tun 17, Strinda",63.408708,10.434862
+1518430,"Vestre Moholt-tun 21, Strinda",63.408901,10.435293
+1518431,"Vestre Moholt-tun 19, Strinda",63.408813,10.435128
+1518432,"Vestre Moholt-tun 25, Strinda",63.409304,10.435453
+1518433,"Vestre Moholt-tun 23, Strinda",63.409171,10.435226
+1518434,"Vestre Moholt-tun 8, Strinda",63.408843,10.433948
+1518435,"Vestre Moholt-tun 7, Strinda",63.408155,10.434494
+1518436,"Vestre Moholt-tun 10, Strinda",63.408922,10.434072
+1518437,"Vestre Moholt-tun 9, Strinda",63.408243,10.434699
+1518438,"Vestre Moholt-tun 12, Strinda",63.409264,10.434049
+1518439,"Vestre Moholt-tun 11, Strinda",63.408392,10.434146
+1518440,"Vestre Moholt-tun 14, Strinda",63.409352,10.434214
+1518441,"Vestre Moholt-tun 13, Strinda",63.408532,10.434473
+1518444,"Vestre Moholt-tun 2, Strinda",63.408545,10.433272
+1518445,"Vestre Moholt-tun 1, Strinda",63.408182,10.433615
+1518446,"Vestre Moholt-tun 4, Strinda",63.408606,10.433435
+1518447,"Vestre Moholt-tun 3, Strinda",63.40809,10.43381
+1518448,"Vestre Moholt-tun 6, Strinda",63.408711,10.433661
+1518449,"Vestre Moholt-tun 5, Strinda",63.408076,10.43429
+1519332,"Østre Moholt-tun 2, Strinda",63.408513,10.437296
+1519333,"Østre Moholt-tun 1, Strinda",63.408692,10.438266
+1519350,"Østre Berg 26, Strinda",63.415602,10.432222
+1519351,"Østre Berg 24, Strinda",63.415613,10.432023
+1519352,"Østre Berg 30, Strinda",63.415423,10.432113
+1519353,"Østre Berg 28, Strinda",63.415518,10.432539
+1519354,"Østre Berg 34, Strinda",63.415204,10.432463
+1519355,"Østre Berg 32, Strinda",63.415366,10.432431
+1519357,"Østre Berg 36, Strinda",63.415145,10.432139
+1519358,"Østre Berg 12, Strinda",63.415056,10.434699
+1519359,"Østre Berg 11, Strinda",63.41651,10.436534
+1519360,"Østre Berg 14, Strinda",63.415054,10.434058
+1519361,"Østre Berg 13, Strinda",63.416399,10.435968
+1519362,"Østre Berg 18, Strinda",63.415694,10.432848
+1519363,"Østre Berg 16, Strinda",63.415837,10.432875
+1519364,"Østre Berg 22, Strinda",63.415828,10.432053
+1519365,"Østre Berg 20, Strinda",63.415877,10.432456
+1519366,"Østre Berg 4, Strinda",63.415641,10.434528
+1519367,"Østre Berg 3, Strinda",63.415928,10.436365
+1519368,"Østre Berg 6, Strinda",63.415582,10.435106
+1519369,"Østre Berg 5, Strinda",63.416021,10.436951
+1519370,"Østre Berg 8, Strinda",63.415434,10.435539
+1519371,"Østre Berg 7, Strinda",63.416178,10.437379
+1519372,"Østre Berg 10, Strinda",63.41516,10.435105
+1519373,"Østre Berg 9, Strinda",63.416441,10.437132
+1519380,"Østre Berg 2, Strinda",63.415512,10.433941
+1519381,"Østre Berg 1, Strinda",63.415952,10.435725
+1519507,"Østre Moholt-tun 20, Strinda",63.408758,10.436147
+1519508,"Østre Moholt-tun 19, Strinda",63.409168,10.436407
+1519509,"Østre Moholt-tun 22, Strinda",63.408863,10.436412
+1519510,"Østre Moholt-tun 21, Strinda",63.409269,10.436212
+1519512,"Østre Moholt-tun 24, Strinda",63.408942,10.436556
+1519515,"Østre Moholt-tun 12, Strinda",63.40825,10.435801
+1519516,"Østre Moholt-tun 11, Strinda",63.409326,10.438618
+1519517,"Østre Moholt-tun 14, Strinda",63.408314,10.435684
+1519518,"Østre Moholt-tun 13, Strinda",63.409365,10.43826
+1519519,"Østre Moholt-tun 16, Strinda",63.408556,10.435676
+1519520,"Østre Moholt-tun 15, Strinda",63.408935,10.437297
+1519521,"Østre Moholt-tun 18, Strinda",63.408626,10.4359
+1519522,"Østre Moholt-tun 17, Strinda",63.409063,10.437023
+1520474,"Fiolsvingen 1A, Nidelven",63.409724,10.421235
+1520725,"Jonsvannsveien 115, Strinda",63.409594,10.436949
+1520908,"Jonsvannsveien 142, Strinda",63.410498,10.436294
+1522468,"Karsevegen 17, Strinda",63.413227,10.428258
+1522470,"Karsevegen 9, Strinda",63.413313,10.42684
+1522471,"Karsevegen 11A, Strinda",63.413363,10.427239
+1522473,"Karsevegen 13, Strinda",63.413125,10.427672
+1522651,"Prestekragevegen 16, Strinda",63.409356,10.430188
+1522762,"Prestekragevegen 21B, Strinda",63.408577,10.430009
+1522810,"Prestekragevegen 21A, Strinda",63.408695,10.429935
+1522889,"Smørblomstvegen 48, Nidelven",63.413455,10.418855
+1522942,"Frode Rinnans veg 86, Strinda",63.413334,10.438178
+1522944,"Frode Rinnans veg 84, Strinda",63.413528,10.437587
+1522946,"Frode Rinnans veg 90, Strinda",63.412781,10.43775
+1522948,"Frode Rinnans veg 88, Strinda",63.413057,10.437984
+1522952,"Frode Rinnans veg 92, Strinda",63.412514,10.437556
+1522958,"Frode Rinnans veg 70, Strinda",63.412689,10.437124
+1522960,"Frode Rinnans veg 68, Strinda",63.4126,10.43704
+1522962,"Frode Rinnans veg 74, Strinda",63.412876,10.437274
+1522964,"Frode Rinnans veg 72, Strinda",63.412778,10.437189
+1522966,"Frode Rinnans veg 78, Strinda",63.413063,10.437424
+1522968,"Frode Rinnans veg 76, Strinda",63.412974,10.437339
+1522970,"Frode Rinnans veg 82, Strinda",63.413429,10.437602
+1522972,"Frode Rinnans veg 80, Strinda",63.41333,10.437597
+1522974,"Frode Rinnans veg 54, Strinda",63.413292,10.436974
+1522976,"Frode Rinnans veg 52, Strinda",63.41339,10.436979
+1522978,"Frode Rinnans veg 58, Strinda",63.413069,10.436763
+1522980,"Frode Rinnans veg 56, Strinda",63.413158,10.436847
+1522982,"Frode Rinnans veg 62, Strinda",63.412883,10.436593
+1522984,"Frode Rinnans veg 60, Strinda",63.412972,10.436678
+1522986,"Frode Rinnans veg 66, Strinda",63.412696,10.436444
+1522988,"Frode Rinnans veg 64, Strinda",63.412794,10.436529
+1523450,"Jonsvannsveien 140, Strinda",63.411241,10.43561
+1523501,"Frode Rinnans veg 94, Strinda",63.41234,10.437027
+1523505,"Frode Rinnans veg 14, Strinda",63.412893,10.43381
+1523507,"Frode Rinnans veg 16, Strinda",63.413134,10.433882
+1523522,"Frode Rinnans veg 2, Strinda",63.412416,10.435709
+1523524,"Frode Rinnans veg 4, Strinda",63.412209,10.435778
+1523698,"Brøsetvegen 175A, Strinda",63.410532,10.438218
+1523731,"Moholt alle 9, Strinda",63.410267,10.43302
+1524014,"Frode Rinnans veg 12, Strinda",63.412637,10.434198
+1524018,"Frode Rinnans veg 8, Strinda",63.412191,10.434856
+1524020,"Frode Rinnans veg 10, Strinda",63.41244,10.434228
+1524040,"Frode Rinnans veg 6, Strinda",63.412011,10.434887
+1524122,"Karsevegen 15, Strinda",63.413129,10.427192
+1524263,"Brøsetvegen 175F, Strinda",63.410707,10.439609
+1524268,"Brøsetvegen 175E, Strinda",63.410828,10.439154
+1524353,"Brøsetvegen 175D, Strinda",63.410542,10.43902
+1526233,"Søndre Berg 2B, Strinda",63.414602,10.436159
+1526234,"Søndre Berg 2C, Strinda",63.414584,10.436078
+1526235,"Søndre Berg 25D, Strinda",63.413827,10.435559
+1526236,"Søndre Berg 27A, Strinda",63.413844,10.43564
+1526237,"Søndre Berg 25B, Strinda",63.413844,10.43558
+1526238,"Søndre Berg 25C, Strinda",63.413827,10.435479
+1526239,"Søndre Berg 27D, Strinda",63.413825,10.435759
+1526240,"Søndre Berg 2A, Strinda",63.414603,10.436038
+1526241,"Søndre Berg 27B, Strinda",63.413843,10.43574
+1526242,"Søndre Berg 27C, Strinda",63.413826,10.435639
+1526243,"Søndre Berg 21D, Strinda",63.413813,10.435158
+1526244,"Søndre Berg 23A, Strinda",63.413839,10.435239
+1526245,"Søndre Berg 21B, Strinda",63.41384,10.435139
+1526246,"Søndre Berg 21C, Strinda",63.413814,10.435058
+1526247,"Søndre Berg 23D, Strinda",63.41382,10.435338
+1526248,"Søndre Berg 25A, Strinda",63.413845,10.43548
+1526249,"Søndre Berg 23B, Strinda",63.413838,10.435339
+1526250,"Søndre Berg 23C, Strinda",63.413821,10.435218
+1526251,"Søndre Berg 17D, Strinda",63.414059,10.435651
+1526252,"Søndre Berg 19A, Strinda",63.414005,10.435688
+1526253,"Søndre Berg 17B, Strinda",63.41405,10.43569
+1526255,"Søndre Berg 17C, Strinda",63.414095,10.435632
+1526256,"Søndre Berg 19D, Strinda",63.41396,10.435666
+1526257,"Søndre Berg 21A, Strinda",63.413832,10.435058
+1526258,"Søndre Berg 19B, Strinda",63.41396,10.435726
+1526259,"Søndre Berg 19C, Strinda",63.414005,10.435648
+1526260,"Søndre Berg 13D, Strinda",63.414029,10.435028
+1526262,"Søndre Berg 15A, Strinda",63.414064,10.43513
+1526264,"Søndre Berg 13B, Strinda",63.414056,10.43503
+1526266,"Søndre Berg 13C, Strinda",63.41403,10.434948
+1526268,"Søndre Berg 15D, Strinda",63.414036,10.435229
+1526270,"Søndre Berg 17A, Strinda",63.414094,10.435713
+1526272,"Søndre Berg 15B, Strinda",63.414054,10.43523
+1526274,"Søndre Berg 15C, Strinda",63.414037,10.435149
+1526286,"Søndre Berg 13A, Strinda",63.414057,10.43495
+1526316,"Prestekragevegen 1A, Strinda",63.410306,10.424989
+1526406,"Søndre Berg 1C, Strinda",63.414468,10.43515
+1526407,"Søndre Berg 1D, Strinda",63.414467,10.43525
+1526408,"Søndre Berg 1A, Strinda",63.414486,10.435131
+1526409,"Søndre Berg 1B, Strinda",63.414485,10.435251
+1526410,"Søndre Berg 3C, Strinda",63.41447,10.43493
+1526411,"Søndre Berg 3D, Strinda",63.414469,10.43505
+1526412,"Søndre Berg 3A, Strinda",63.414479,10.434951
+1526413,"Søndre Berg 3B, Strinda",63.414478,10.435031
+1526422,"Søndre Berg 30B, Strinda",63.413946,10.436206
+1526423,"Søndre Berg 30C, Strinda",63.413929,10.436105
+1526424,"Søndre Berg 28D, Strinda",63.413926,10.436405
+1526425,"Søndre Berg 30A, Strinda",63.413947,10.436106
+1526428,"Søndre Berg 30D, Strinda",63.413928,10.436205
+1526430,"Søndre Berg 26B, Strinda",63.413967,10.436748
+1526431,"Søndre Berg 26C, Strinda",63.41395,10.436647
+1526432,"Søndre Berg 24D, Strinda",63.413947,10.436947
+1526433,"Søndre Berg 26A, Strinda",63.413968,10.436648
+1526434,"Søndre Berg 28B, Strinda",63.413944,10.436406
+1526435,"Søndre Berg 28C, Strinda",63.413927,10.436305
+1526436,"Søndre Berg 26D, Strinda",63.413949,10.436747
+1526437,"Søndre Berg 28A, Strinda",63.413945,10.436306
+1526438,"Søndre Berg 22B, Strinda",63.413972,10.437149
+1526439,"Søndre Berg 22C, Strinda",63.413955,10.437048
+1526440,"Søndre Berg 20D, Strinda",63.414119,10.436815
+1526441,"Søndre Berg 22A, Strinda",63.413973,10.437048
+1526442,"Søndre Berg 24B, Strinda",63.413974,10.436948
+1526443,"Søndre Berg 24C, Strinda",63.413939,10.436846
+1526444,"Søndre Berg 22D, Strinda",63.413954,10.437148
+1526445,"Søndre Berg 24A, Strinda",63.413966,10.436848
+1526446,"Søndre Berg 18B, Strinda",63.414164,10.436858
+1526447,"Søndre Berg 18C, Strinda",63.4142,10.436799
+1526448,"Søndre Berg 16D, Strinda",63.414151,10.436376
+1526449,"Søndre Berg 18A, Strinda",63.4142,10.43686
+1526450,"Søndre Berg 20B, Strinda",63.414074,10.436853
+1526451,"Søndre Berg 20C, Strinda",63.414119,10.436795
+1526452,"Søndre Berg 18D, Strinda",63.414155,10.436797
+1526453,"Søndre Berg 20A, Strinda",63.414119,10.436855
+1526454,"Søndre Berg 14B, Strinda",63.414171,10.436177
+1526455,"Søndre Berg 14C, Strinda",63.414153,10.436096
+1526456,"Søndre Berg 12D, Strinda",63.414385,10.436268
+1526457,"Søndre Berg 14A, Strinda",63.414171,10.436097
+1526458,"Søndre Berg 16B, Strinda",63.414168,10.436377
+1526459,"Søndre Berg 16C, Strinda",63.414152,10.436276
+1526460,"Søndre Berg 14D, Strinda",63.414153,10.436176
+1526461,"Søndre Berg 16A, Strinda",63.41417,10.436277
+1526462,"Søndre Berg 10M, Strinda",63.414356,10.436527
+1526463,"Søndre Berg 10N, Strinda",63.414354,10.436647
+1526464,"Søndre Berg 10K, Strinda",63.414358,10.436307
+1526465,"Søndre Berg 10L, Strinda",63.414357,10.436407
+1526466,"Søndre Berg 12B, Strinda",63.414403,10.436249
+1526467,"Søndre Berg 12C, Strinda",63.414386,10.436168
+1526468,"Søndre Berg 10O, Strinda",63.414353,10.436807
+1526469,"Søndre Berg 12A, Strinda",63.414404,10.436169
+1526470,"Søndre Berg 10E, Strinda",63.414398,10.436749
+1526471,"Søndre Berg 10F, Strinda",63.414384,10.436328
+1526472,"Søndre Berg 10C, Strinda",63.414401,10.436509
+1526473,"Søndre Berg 10D, Strinda",63.4144,10.436609
+1526474,"Søndre Berg 10I, Strinda",63.414381,10.436648
+1526475,"Søndre Berg 10J, Strinda",63.414379,10.436828
+1526476,"Søndre Berg 10G, Strinda",63.414383,10.436448
+1526477,"Søndre Berg 10H, Strinda",63.414382,10.436548
+1526478,"Søndre Berg 8F, Strinda",63.414452,10.436772
+1526479,"Søndre Berg 8G, Strinda",63.41456,10.436697
+1526480,"Søndre Berg 8D, Strinda",63.41456,10.436757
+1526481,"Søndre Berg 8E, Strinda",63.414506,10.436775
+1526482,"Søndre Berg 10A, Strinda",63.414403,10.436289
+1526483,"Søndre Berg 10B, Strinda",63.414402,10.436409
+1526484,"Søndre Berg 8H, Strinda",63.414515,10.436695
+1526485,"Søndre Berg 8I, Strinda",63.414453,10.436692
+1526486,"Søndre Berg 6B, Strinda",63.414604,10.43682
+1526487,"Søndre Berg 6C, Strinda",63.414631,10.436781
+1526488,"Søndre Berg 4D, Strinda",63.414591,10.436358
+1526489,"Søndre Berg 6A, Strinda",63.414631,10.436821
+1526490,"Søndre Berg 8B, Strinda",63.414505,10.436795
+1526491,"Søndre Berg 8C, Strinda",63.414452,10.436792
+1526492,"Søndre Berg 6D, Strinda",63.414604,10.43678
+1526493,"Søndre Berg 8A, Strinda",63.414559,10.436797
+1526494,"Søndre Berg 4B, Strinda",63.4146,10.436359
+1526495,"Søndre Berg 4C, Strinda",63.414592,10.436258
+1526496,"Søndre Berg 2D, Strinda",63.414593,10.436158
+1526497,"Søndre Berg 4A, Strinda",63.414601,10.436239
+1526592,"Søndre Berg 11D, Strinda",63.414418,10.435669
+1526593,"Søndre Berg 11E, Strinda",63.414373,10.435686
+1526594,"Søndre Berg 11B, Strinda",63.414364,10.435726
+1526595,"Søndre Berg 11C, Strinda",63.414301,10.435723
+1526596,"Søndre Berg 11H, Strinda",63.414364,10.435625
+1526597,"Søndre Berg 11I, Strinda",63.414301,10.435629
+1526598,"Søndre Berg 11F, Strinda",63.414316,10.43568
+1526599,"Søndre Berg 11G, Strinda",63.414404,10.435624
+1526600,"Søndre Berg 7O, Strinda",63.414202,10.435698
+1526601,"Søndre Berg 9A, Strinda",63.414507,10.435693
+1526602,"Søndre Berg 7M, Strinda",63.414205,10.435458
+1526603,"Søndre Berg 7N, Strinda",63.414203,10.435578
+1526604,"Søndre Berg 9D, Strinda",63.414465,10.435636
+1526605,"Søndre Berg 11A, Strinda",63.414409,10.435708
+1526606,"Søndre Berg 9B, Strinda",63.414445,10.435709
+1526607,"Søndre Berg 9C, Strinda",63.414493,10.435635
+1526608,"Søndre Berg 7G, Strinda",63.414233,10.435339
+1526609,"Søndre Berg 7H, Strinda",63.414232,10.435459
+1526610,"Søndre Berg 7E, Strinda",63.414238,10.4357
+1526611,"Søndre Berg 7F, Strinda",63.414234,10.435219
+1526612,"Søndre Berg 7K, Strinda",63.414207,10.435217
+1526613,"Søndre Berg 7L, Strinda",63.414206,10.435338
+1526614,"Søndre Berg 7I, Strinda",63.41423,10.435579
+1526615,"Søndre Berg 7J, Strinda",63.414229,10.435699
+1526616,"Søndre Berg 5C, Strinda",63.414254,10.434979
+1526617,"Søndre Berg 5D, Strinda",63.414262,10.4351
+1526618,"Søndre Berg 5A, Strinda",63.414272,10.435
+1526619,"Søndre Berg 5B, Strinda",63.414271,10.4351
+1526620,"Søndre Berg 7C, Strinda",63.414241,10.435459
+1526621,"Søndre Berg 7D, Strinda",63.414239,10.43558
+1526622,"Søndre Berg 7A, Strinda",63.414243,10.435219
+1526623,"Søndre Berg 7B, Strinda",63.414242,10.435339
+1527208,"Kornblomstvegen 38A, Nidelven",63.412377,10.422488
+1527211,"Kornblomstvegen 38B, Nidelven",63.41244,10.422471
+1527311,"Frode Rinnans veg 1, Strinda",63.411839,10.43592
+1528141,"Brøsetvegen 186B, Strinda",63.410216,10.442028
+1528146,"Brøsetvegen 186A, Strinda",63.410615,10.441627
+1528434,"Moholt alle 30, Strinda",63.409684,10.432448
+1528436,"Moholt alle 32, Strinda",63.409483,10.432798
+1528438,"Cecilie Løvøs veg 12, Strinda",63.408863,10.432867
+1528440,"Cecilie Løvøs veg 14, Strinda",63.408545,10.432371
+1528442,"Moholt alle 40, Strinda",63.408857,10.431626
+1528444,"Moholt alle 36, Strinda",63.409243,10.431645
+1528446,"Moholt alle 34, Strinda",63.409307,10.432469
+1528448,"Moholt alle 38, Strinda",63.409051,10.431976
+1528452,"Cecilie Løvøs veg 2B, Strinda",63.409521,10.433699
+1528458,"Cecilie Løvøs veg 8, Strinda",63.409209,10.433285
+1528460,"Cecilie Løvøs veg 10, Strinda",63.408968,10.433133
+1528463,"Cecilie Løvøs veg 6, Strinda",63.409089,10.4336
+1529380,"Jonsvannsveien 85A, Berg",63.415777,10.430809
+1529383,"Jonsvannsveien 85B, Berg",63.415651,10.430903
+1531054,"Blåklokkevegen 6, Nidelven",63.410867,10.420891
+1531055,"Blåklokkevegen 7, Nidelven",63.411005,10.421478
+1531056,"Blåklokkevegen 2, Nidelven",63.410561,10.421016
+1531057,"Blåklokkevegen 4, Nidelven",63.410615,10.420978
+1531058,"Blåklokkevegen 10, Nidelven",63.411167,10.420545
+1531059,"Blåklokkevegen 11, Nidelven",63.411472,10.421555
+1531060,"Blåklokkevegen 8, Nidelven",63.410922,10.420833
+1531061,"Blåklokkevegen 9, Nidelven",63.411273,10.421612
+1531082,"Blåklokkevegen 56, Strinda",63.413386,10.424921
+1531083,"Blåklokkevegen 43A, Strinda",63.412898,10.424276
+1531084,"Blåklokkevegen 45A, Strinda",63.412718,10.424327
+1531085,"Blåklokkevegen 42, Strinda",63.413187,10.421426
+1531086,"Blåklokkevegen 43, Strinda",63.412961,10.424279
+1531087,"Blåklokkevegen 49, Strinda",63.412606,10.424782
+1531088,"Blåklokkevegen 49A, Strinda",63.412543,10.424779
+1531089,"Blåklokkevegen 45B, Strinda",63.412646,10.424324
+1531090,"Blåklokkevegen 47, Strinda",63.412831,10.424753
+1531091,"Blåklokkevegen 37C, Strinda",63.412973,10.423058
+1531092,"Blåklokkevegen 38, Nidelven",63.41307,10.419658
+1531093,"Blåklokkevegen 37, Strinda",63.412856,10.423092
+1531094,"Blåklokkevegen 37B, Strinda",63.41291,10.423055
+1531095,"Blåklokkevegen 41A, Strinda",63.412965,10.423859
+1531096,"Blåklokkevegen 41B, Strinda",63.412914,10.423953
+1531097,"Blåklokkevegen 39, Strinda",63.41305,10.423422
+1531098,"Blåklokkevegen 39B, Strinda",63.41297,10.423418
+1531099,"Blåklokkevegen 32, Nidelven",63.412652,10.419236
+1531100,"Blåklokkevegen 33, Nidelven",63.412885,10.421952
+1531101,"Blåklokkevegen 31, Nidelven",63.412836,10.421549
+1531102,"Blåklokkevegen 31A, Nidelven",63.412764,10.421565
+1531103,"Blåklokkevegen 35A, Nidelven",63.41288,10.422492
+1531104,"Blåklokkevegen 36, Nidelven",63.413017,10.419575
+1531105,"Blåklokkevegen 33B, Nidelven",63.412715,10.421964
+1531106,"Blåklokkevegen 34, Nidelven",63.412875,10.419348
+1531107,"Blåklokkevegen 27C, Nidelven",63.412693,10.42054
+1531108,"Blåklokkevegen 27D, Nidelven",63.412692,10.42066
+1531109,"Blåklokkevegen 27A, Nidelven",63.412696,10.42026
+1531110,"Blåklokkevegen 27B, Nidelven",63.412694,10.4204
+1531111,"Blåklokkevegen 29C, Nidelven",63.412842,10.420928
+1531112,"Blåklokkevegen 29D, Nidelven",63.412788,10.420926
+1531113,"Blåklokkevegen 29A, Nidelven",63.412959,10.420914
+1531114,"Blåklokkevegen 29B, Nidelven",63.412905,10.420931
+1531115,"Blåklokkevegen 23, Nidelven",63.41273,10.419909
+1531116,"Blåklokkevegen 24, Nidelven",63.411859,10.420439
+1531117,"Blåklokkevegen 19, Nidelven",63.412333,10.420643
+1531118,"Blåklokkevegen 21, Nidelven",63.412546,10.420012
+1531119,"Blåklokkevegen 26A, Nidelven",63.412067,10.420269
+1531120,"Blåklokkevegen 26B, Nidelven",63.412251,10.420032
+1531121,"Blåklokkevegen 25, Nidelven",63.412913,10.420051
+1531122,"Blåklokkevegen 26, Nidelven",63.412004,10.420326
+1531123,"Blåklokkevegen 14, Nidelven",63.411433,10.420919
+1531124,"Blåklokkevegen 15, Nidelven",63.411978,10.421126
+1531125,"Blåklokkevegen 12, Nidelven",63.411184,10.420666
+1531126,"Blåklokkevegen 13, Nidelven",63.411726,10.421404
+1531127,"Blåklokkevegen 18, Nidelven",63.411637,10.420414
+1531128,"Blåklokkevegen 18B, Nidelven",63.411465,10.420359
+1531129,"Blåklokkevegen 16, Nidelven",63.411486,10.420921
+1531130,"Blåklokkevegen 17, Nidelven",63.412178,10.420895
+1531375,"Blåklokkevegen 35B, Nidelven",63.412826,10.42251
+1531380,"Blåklokkevegen 60, Strinda",63.412937,10.4258
+1531381,"Blåklokkevegen 35C, Nidelven",63.412755,10.422466
+1531382,"Blåklokkevegen 58, Strinda",63.413121,10.425389
+1532045,"Bregnevegen 63, Strinda",63.412348,10.428134
+1532046,"Bregnevegen 61, Strinda",63.412419,10.428218
+1532047,"Bregnevegen 58B, Strinda",63.413093,10.429914
+1532048,"Bregnevegen 58C, Strinda",63.413139,10.429876
+1532049,"Bregnevegen 58, Strinda",63.412994,10.430009
+1532050,"Bregnevegen 58A, Strinda",63.413039,10.429951
+1532051,"Bregnevegen 62, Strinda",63.413209,10.430861
+1532052,"Bregnevegen 62B, Strinda",63.413255,10.430763
+1532053,"Bregnevegen 60, Strinda",63.41335,10.430373
+1532054,"Bregnevegen 60A, Strinda",63.413395,10.430304
+1532055,"Bregnevegen 54C, Strinda",63.413,10.428507
+1532056,"Bregnevegen 55, Strinda",63.412521,10.431136
+1532057,"Bregnevegen 54A, Strinda",63.41291,10.428523
+1532058,"Bregnevegen 54B, Strinda",63.412955,10.428505
+1532059,"Bregnevegen 56B, Strinda",63.413019,10.429289
+1532060,"Bregnevegen 56C, Strinda",63.413046,10.429291
+1532061,"Bregnevegen 56, Strinda",63.412919,10.429344
+1532062,"Bregnevegen 56A, Strinda",63.412947,10.429326
+1532063,"Bregnevegen 49, Strinda",63.412351,10.426091
+1532064,"Bregnevegen 50, Strinda",63.412886,10.427224
+1532065,"Bregnevegen 46, Strinda",63.412911,10.42658
+1532066,"Bregnevegen 47, Strinda",63.412306,10.426069
+1532067,"Bregnevegen 53, Strinda",63.412584,10.426083
+1532068,"Bregnevegen 54, Strinda",63.412865,10.428521
+1532069,"Bregnevegen 51, Strinda",63.412502,10.426179
+1532070,"Bregnevegen 52, Strinda",63.412908,10.427762
+1532071,"Bregnevegen 37, Strinda",63.411633,10.425996
+1532072,"Bregnevegen 38, Strinda",63.412687,10.425213
+1532073,"Bregnevegen 34, Strinda",63.412283,10.423865
+1532074,"Bregnevegen 35, Strinda",63.411589,10.425994
+1532075,"Bregnevegen 43, Strinda",63.412109,10.426039
+1532076,"Bregnevegen 45, Strinda",63.412163,10.426022
+1532077,"Bregnevegen 39, Strinda",63.411911,10.42603
+1532078,"Bregnevegen 41, Strinda",63.411965,10.426012
+1532079,"Bregnevegen 28, Strinda",63.412255,10.424845
+1532080,"Bregnevegen 29, Strinda",63.411231,10.425876
+1532081,"Bregnevegen 26, Strinda",63.412242,10.425285
+1532082,"Bregnevegen 27, Strinda",63.411186,10.425873
+1532083,"Bregnevegen 32, Strinda",63.412471,10.423894
+1532084,"Bregnevegen 33, Strinda",63.411437,10.425926
+1532085,"Bregnevegen 30, Strinda",63.412331,10.424428
+1532086,"Bregnevegen 31, Strinda",63.411383,10.425923
+1532087,"Bregnevegen 20, Strinda",63.411906,10.424727
+1532088,"Bregnevegen 21, Strinda",63.410837,10.425736
+1532089,"Bregnevegen 18A, Strinda",63.411993,10.425052
+1532090,"Bregnevegen 19, Strinda",63.410792,10.425754
+1532091,"Bregnevegen 24, Strinda",63.412117,10.424337
+1532092,"Bregnevegen 25, Strinda",63.411034,10.425786
+1532093,"Bregnevegen 22, Strinda",63.411786,10.424161
+1532094,"Bregnevegen 23, Strinda",63.41098,10.425803
+1532099,"Fiolsvingen 24, Strinda",63.410874,10.424835
+1532100,"Bregnevegen 18, Strinda",63.411991,10.425192
+1532243,"Bregnevegen 17A, Strinda",63.410559,10.424841
+1532250,"Bregnevegen 59, Strinda",63.412533,10.428484
+1532252,"Bregnevegen 57, Strinda",63.412597,10.428407
+1532256,"Bregnevegen 64, Strinda",63.413321,10.431347
+1532258,"Bregnevegen 17B, Strinda",63.4105,10.425299
+1532260,"Bregnevegen 65, Strinda",63.412709,10.430636
+1532262,"Bregnevegen 67, Strinda",63.412873,10.431345
+1535170,"Fiolsvingen 5, Nidelven",63.410237,10.4211
+1535465,"Karsevegen 16, Strinda",63.413508,10.427912
+1535468,"Kornblomstvegen 20, Nidelven",63.411943,10.421985
+1535834,"Østre Berg 17, Strinda",63.416431,10.433686
+1536797,"Blåklokkevegen 40, Strinda",63.413178,10.420863
+1536919,"Smørblomstvegen 38C, Nidelven",63.412236,10.418655
+1536924,"Smørblomstvegen 38A, Nidelven",63.412017,10.419065
+1536925,"Smørblomstvegen 38B, Nidelven",63.412181,10.418752
+1537066,"Frode Rinnans veg 100, Strinda",63.41252,10.438526
+1537067,"Frode Rinnans veg 106, Strinda",63.412305,10.438667
+1537070,"Frode Rinnans veg 114, Strinda",63.41212,10.439199
+1537071,"Frode Rinnans veg 112, Strinda",63.412228,10.439244
+1537072,"Frode Rinnans veg 108, Strinda",63.412138,10.438359
+1537073,"Frode Rinnans veg 110, Strinda",63.41216,10.4388
+1537207,"Blåklokkevegen 28D, Nidelven",63.412434,10.419526
+1537208,"Blåklokkevegen 28C, Nidelven",63.412388,10.419644
+1537213,"Blåklokkevegen 28B, Nidelven",63.412369,10.419723
+1537214,"Blåklokkevegen 28A, Nidelven",63.412344,10.419562
+1537263,"Smørblomstvegen 38D, Nidelven",63.412166,10.418115
+1771211,"Frydenbergvegen 1E, Berg",63.414604,10.425723
+1799821,"Løvetannvegen 7C, Strinda",63.411652,10.425184
+1809689,"Frode Rinnans veg 98, Strinda",63.412608,10.439418
+1809691,"Frode Rinnans veg 96, Strinda",63.412858,10.439246
+1871091,"Prestekragevegen 19B, Strinda",63.408804,10.429818
+1915389,"Karsevegen 11B, Strinda",63.413306,10.427287
+1915392,"Karsevegen 11C, Strinda",63.413342,10.427647
+1915393,"Karsevegen 11D, Strinda",63.413283,10.42767
+1943229,"Fiolsvingen 22, Strinda",63.410822,10.424687
+1964420,"Smørblomstvegen 45, Strinda",63.413425,10.423925
+1969603,"Smørblomstvegen 47, Strinda",63.413502,10.423932
+1985477,"Moholt allmenning 1, Strinda",63.411186,10.432644
+1985478,"Moholt allmenning 11, Strinda",63.411448,10.432825
+1985819,"Moholt allmenning 4, Strinda",63.410871,10.432697
+1985825,"Moholt allmenning 6, Strinda",63.411052,10.431076
+1985826,"Moholt allmenning 8, Strinda",63.411072,10.431933
+1990527,"Moholt alle 9B, Strinda",63.410348,10.431038
+1997885,"Moholt allmenning 2, Strinda",63.411328,10.433497
+1997886,"Moholt allmenning 3, Strinda",63.411333,10.433349
+1997890,"Moholt allmenning 5, Strinda",63.410843,10.432589
+1997891,"Moholt allmenning 7, Strinda",63.411098,10.431013
+1997892,"Moholt allmenning 9, Strinda",63.411074,10.432047
+1997894,"Moholt allmenning 10, Strinda",63.411143,10.43214
+1997895,"Moholt allmenning 12, Strinda",63.411528,10.43302
+2023660,"Cecilie Løvøs veg 2A, Strinda",63.409437,10.433452
+2023661,"Cecilie Løvøs veg 2C, Strinda",63.409655,10.433932
+2023665,"Cecilie Løvøs veg 2D, Strinda",63.40959,10.434088
+2023666,"Cecilie Løvøs veg 4A, Strinda",63.409775,10.434101
+2023668,"Cecilie Løvøs veg 4B, Strinda",63.409816,10.434229
+2023669,"Cecilie Løvøs veg 4C, Strinda",63.409857,10.434345
+2023670,"Cecilie Løvøs veg 4D, Strinda",63.409894,10.434472
+2024178,"Brøsetvegen 161B, Strinda",63.411051,10.440709
+2026490,"Frydenbergvegen 3A, Berg",63.414549,10.424914
+2026649,"Østre Berg 15, Strinda",63.417698,10.435398
+2029288,"Frydenbergvegen 3D, Berg",63.414318,10.425055
+2029289,"Frydenbergvegen 3B, Berg",63.414598,10.424895
+2038848,"Fiolsvingen 2A, Nidelven",63.410039,10.419988
+2041624,"Fiolsvingen 2B, Nidelven",63.41006,10.420093
+2041628,"Fiolsvingen 2C, Nidelven",63.410055,10.419965
+2041629,"Fiolsvingen 2D, Nidelven",63.410074,10.420083
+2063931,"Moholt alle 7B, Strinda",63.410424,10.432972
+2073622,"Løvetannvegen 3C, Strinda",63.41139,10.424169
+2086327,"Frydenbergvegen 1D, Berg",63.414769,10.426104
+2086328,"Frydenbergvegen 1C, Berg",63.414795,10.426029
+2091857,"Blåklokkevegen 56A, Strinda",63.413152,10.424732
+2092599,"Vestre Moholt-tun 20, Strinda",63.409705,10.434763
+2094298,"Blåklokkevegen 56B, Strinda",63.41321,10.424801
+2458851,"Kornblomstvegen 5A, Strinda",63.411321,10.423258
+2458965,"Kornblomstvegen 5B, Strinda",63.411325,10.423413

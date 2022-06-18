@@ -1,0 +1,761 @@
+,Navn,Long,Lat
+336489,"Biskop Berggravs gate 48, Tromsø Domkirke",69.661903,18.944491
+336490,"Biskop Berggravs gate 50, Tromsø Domkirke",69.661591,18.943606
+336491,"Ringkøbingvegen 8, Tromsø Domkirke",69.661879,18.946346
+336492,"Ringkøbingvegen 10, Tromsø Domkirke",69.661983,18.946337
+336493,"Biskop Berggravs gate 40, Tromsø Domkirke",69.661631,18.946222
+336494,"Ringkøbingvegen 6, Tromsø Domkirke",69.661684,18.946258
+336495,"Biskop Berggravs gate 36, Tromsø Domkirke",69.661387,18.946255
+336496,"Biskop Berggravs gate 38, Tromsø Domkirke",69.661477,18.946245
+336497,"Biskop Berggravs gate 32, Tromsø Domkirke",69.661154,18.946237
+336498,"Biskop Berggravs gate 34, Tromsø Domkirke",69.661234,18.946303
+336499,"Biskop Berggravs gate 30, Tromsø Domkirke",69.661002,18.946234
+336500,"Biskop Berggravs gate 31, Tromsø Domkirke",69.661297,18.944688
+336501,"Biskop Berggravs gate 26, Tromsø Domkirke",69.660768,18.946217
+336502,"Biskop Berggravs gate 28, Tromsø Domkirke",69.660912,18.946218
+336503,"Biskop Berggravs gate 22, Tromsø Domkirke",69.660545,18.946175
+336504,"Biskop Berggravs gate 24, Tromsø Domkirke",69.660689,18.94615
+336505,"Biskop Berggravs gate 20, Tromsø Domkirke",69.660456,18.946107
+336506,"Biskop Berggravs gate 21, Tromsø Domkirke",69.660818,18.945219
+336507,"Biskop Berggravs gate 17, Tromsø Domkirke",69.660477,18.945181
+336508,"Biskop Berggravs gate 19, Tromsø Domkirke",69.660675,18.945192
+336579,"Borgåsvegen 13, Tromsø Domkirke",69.657283,18.949804
+336581,"Borgåsvegen 9, Tromsø Domkirke",69.657751,18.950975
+336582,"Borgåsvegen 11, Tromsø Domkirke",69.657513,18.950363
+336583,"Borgåsvegen 5B, Tromsø Domkirke",69.658085,18.951683
+336584,"Borgåsvegen 7, Tromsø Domkirke",69.657995,18.951279
+336585,"Borgåsvegen 4, Tromsø Domkirke",69.658671,18.952063
+336586,"Borgåsvegen 5, Tromsø Domkirke",69.658149,18.951617
+336587,"Borgåsvegen 2C, Tromsø Domkirke",69.659104,18.952699
+336588,"Borgåsvegen 3, Tromsø Domkirke",69.658295,18.951929
+336589,"Borgåsvegen 2, Tromsø Domkirke",69.658966,18.952467
+336590,"Borgåsvegen 2B, Tromsø Domkirke",69.65919,18.95287
+336592,"Borgåsvegen 1, Tromsø Domkirke",69.658521,18.952281
+336624,"Forhåpningen 39, Tromsø Domkirke",69.658976,18.945238
+336626,"Forhåpningen 33, Tromsø Domkirke",69.658649,18.944196
+336627,"Forhåpningen 35, Tromsø Domkirke",69.658848,18.944517
+336628,"Forhåpningen 31, Tromsø Domkirke",69.658615,18.944112
+336629,"Forhåpningen 32, Tromsø Domkirke",69.658495,18.94502
+336630,"Forhåpningen 30, Tromsø Domkirke",69.658358,18.944348
+336643,"Conrad Holmboes veg 22, Tromsø Domkirke",69.656592,18.948152
+336644,"Haakon VII's gate 3D, Tromsø Domkirke",69.656321,18.949444
+336645,"Haakon VII's gate 5, Tromsø Domkirke",69.655939,18.948418
+336646,"Conrad Holmboes veg 21, Tromsø Domkirke",69.656268,18.95057
+336647,"Conrad Holmboes veg 19G, Tromsø Domkirke",69.655958,18.949609
+336648,"Conrad Holmboes veg 19H, Tromsø Domkirke",69.656027,18.949699
+336649,"Conrad Holmboes veg 19E, Tromsø Domkirke",69.655795,18.94963
+336650,"Conrad Holmboes veg 19F, Tromsø Domkirke",69.655875,18.949671
+336651,"Conrad Holmboes veg 19C, Tromsø Domkirke",69.655906,18.950221
+336652,"Conrad Holmboes veg 19D, Tromsø Domkirke",69.655895,18.950026
+336653,"Conrad Holmboes veg 19A, Tromsø Domkirke",69.656091,18.950047
+336654,"Conrad Holmboes veg 19B, Tromsø Domkirke",69.656096,18.950228
+336655,"Conrad Holmboes veg 17, Tromsø Domkirke",69.655606,18.949647
+336656,"Conrad Holmboes veg 13, Tromsø Domkirke",69.654978,18.948833
+336657,"Conrad Holmboes veg 14, Tromsø Domkirke",69.654995,18.948061
+336658,"Conrad Holmboes veg 11, Tromsø Domkirke",69.654716,18.948887
+336659,"Conrad Holmboes veg 12, Tromsø Domkirke",69.654748,18.94786
+336660,"Conrad Holmboes veg 9, Tromsø Domkirke",69.654454,18.948554
+336661,"Conrad Holmboes veg 10, Tromsø Domkirke",69.654562,18.947335
+336662,"Conrad Holmboes veg 7, Tromsø Domkirke",69.654195,18.94848
+336663,"Conrad Holmboes veg 8, Tromsø Domkirke",69.654307,18.947494
+336664,"Conrad Holmboes veg 3, Tromsø Domkirke",69.653874,18.948369
+336665,"Conrad Holmboes veg 5, Tromsø Domkirke",69.653898,18.948916
+336667,"Conrad Holmboes veg 1B, Tromsø Domkirke",69.653408,18.948383
+336674,"Conrad Holmboes veg 55, Tromsø Domkirke",69.659806,18.951874
+336675,"Conrad Holmboes veg 56, Tromsø Domkirke",69.661675,18.949846
+336676,"Conrad Holmboes veg 54, Tromsø Domkirke",69.661584,18.949881
+336677,"Conrad Holmboes veg 51, Tromsø Domkirke",69.659601,18.952559
+336678,"Conrad Holmboes veg 52, Tromsø Domkirke",69.661486,18.949837
+336679,"Conrad Holmboes veg 49, Tromsø Domkirke",69.659384,18.952235
+336680,"Conrad Holmboes veg 50, Tromsø Domkirke",69.661363,18.949737
+336681,"Conrad Holmboes veg 44, Tromsø Domkirke",69.660204,18.950554
+336682,"Conrad Holmboes veg 45, Tromsø Domkirke",69.659069,18.951479
+336683,"Conrad Holmboes veg 40B, Tromsø Domkirke",69.65983,18.950577
+336684,"Conrad Holmboes veg 41A, Tromsø Domkirke",69.658672,18.950999
+336685,"Conrad Holmboes veg 38, Tromsø Domkirke",69.659407,18.951206
+336686,"Conrad Holmboes veg 40A, Tromsø Domkirke",69.659709,18.950978
+336687,"Conrad Holmboes veg 36A, Tromsø Domkirke",69.658833,18.949963
+336688,"Conrad Holmboes veg 36B, Tromsø Domkirke",69.658931,18.94962
+336689,"Conrad Holmboes veg 34C, Tromsø Domkirke",69.658687,18.949264
+336690,"Conrad Holmboes veg 35, Tromsø Domkirke",69.658275,18.950427
+336691,"Conrad Holmboes veg 34, Tromsø Domkirke",69.65856,18.949757
+336692,"Conrad Holmboes veg 34B, Tromsø Domkirke",69.658606,18.949275
+336693,"Conrad Holmboes veg 32, Tromsø Domkirke",69.6582,18.949355
+336694,"Conrad Holmboes veg 33, Tromsø Domkirke",69.658072,18.95026
+336695,"Conrad Holmboes veg 30, Tromsø Domkirke",69.65792,18.949044
+336696,"Conrad Holmboes veg 31, Tromsø Domkirke",69.657847,18.949883
+336697,"Conrad Holmboes veg 28C, Tromsø Domkirke",69.657598,18.948571
+336698,"Conrad Holmboes veg 29, Tromsø Domkirke",69.657599,18.949708
+336699,"Conrad Holmboes veg 28A, Tromsø Domkirke",69.657345,18.948627
+336700,"Conrad Holmboes veg 28B, Tromsø Domkirke",69.657452,18.948286
+336701,"Conrad Holmboes veg 26, Tromsø Domkirke",69.657062,18.948446
+336702,"Conrad Holmboes veg 27, Tromsø Domkirke",69.657104,18.949383
+336703,"Conrad Holmboes veg 24B, Tromsø Domkirke",69.656993,18.947671
+336704,"Conrad Holmboes veg 25, Tromsø Domkirke",69.65673,18.949236
+336705,"Forhåpningen 29, Tromsø Domkirke",69.658509,18.943628
+336706,"Forhåpningen 27B, Tromsø Domkirke",69.658306,18.942859
+336707,"Forhåpningen 28, Tromsø Domkirke",69.658206,18.943907
+336708,"Forhåpningen 26, Tromsø Domkirke",69.658069,18.943598
+336709,"Forhåpningen 27, Tromsø Domkirke",69.658137,18.942603
+336711,"Sparre Schneiders veg 2, Tromsø Domkirke",69.657658,18.941533
+336712,"Forhåpningen 25A, Tromsø Domkirke",69.657948,18.942207
+336713,"Forhåpningen 20B, Tromsø Domkirke",69.657642,18.943441
+336714,"Forhåpningen 22, Tromsø Domkirke",69.657698,18.942935
+336715,"Forhåpningen 18A, Tromsø Domkirke",69.657256,18.94315
+336716,"Forhåpningen 20A, Tromsø Domkirke",69.657466,18.943279
+336717,"Forhåpningen 16, Tromsø Domkirke",69.656927,18.942869
+336718,"Forhåpningen 17, Tromsø Domkirke",69.656825,18.941817
+336811,"Forhåpningen 14, Tromsø Domkirke",69.656602,18.94255
+336812,"Forhåpningen 15, Tromsø Domkirke",69.656809,18.941324
+336813,"Forhåpningen 13A, Tromsø Domkirke",69.656682,18.940964
+336814,"Sparre Schneiders veg 7, Tromsø Domkirke",69.656841,18.940527
+336815,"Forhåpningen 11, Tromsø Domkirke",69.656475,18.941365
+336816,"Forhåpningen 12, Tromsø Domkirke",69.656439,18.942185
+336817,"Rudivegen 2C, Tromsø Domkirke",69.656416,18.940882
+336818,"Forhåpningen 10A, Tromsø Domkirke",69.656601,18.942963
+336819,"Forhåpningen 8B, Tromsø Domkirke",69.656147,18.942388
+336820,"Rudivegen 2B, Tromsø Domkirke",69.656287,18.941356
+336821,"Forhåpningen 6, Tromsø Domkirke",69.655898,18.942678
+336822,"Forhåpningen 8A, Tromsø Domkirke",69.65625,18.943001
+336823,"Forhåpningen 4, Tromsø Domkirke",69.654963,18.943924
+336824,"Forhåpningen 4B, Tromsø Domkirke",69.655202,18.943659
+336826,"Forhåpningen 1, Tromsø Domkirke",69.654867,18.943003
+336960,"Conrad Holmboes veg 79, Tromsø Domkirke",69.663324,18.950799
+336961,"Conrad Holmboes veg 81, Tromsø Domkirke",69.66349,18.951424
+336962,"Conrad Holmboes veg 75, Tromsø Domkirke",69.663026,18.950873
+336963,"Conrad Holmboes veg 77, Tromsø Domkirke",69.663149,18.951386
+336964,"Conrad Holmboes veg 69, Tromsø Domkirke",69.662017,18.950633
+336965,"Conrad Holmboes veg 73, Tromsø Domkirke",69.662892,18.950434
+336966,"Conrad Holmboes veg 64, Tromsø Domkirke",69.66217,18.949809
+336967,"Conrad Holmboes veg 67, Tromsø Domkirke",69.661775,18.950975
+336968,"Conrad Holmboes veg 60, Tromsø Domkirke",69.6619,18.949836
+336969,"Conrad Holmboes veg 62, Tromsø Domkirke",69.662089,18.94982
+336970,"Conrad Holmboes veg 58, Tromsø Domkirke",69.661837,18.949851
+336971,"Conrad Holmboes veg 59B, Tromsø Domkirke",69.660167,18.952561
+337006,"Storskogvegen 2, Tromsø Domkirke",69.661521,18.959451
+337065,"Grimsbyvegen 46A, Tromsø Domkirke",69.663607,18.955398
+337066,"Grimsbyvegen 48, Tromsø Domkirke",69.663863,18.9556
+337067,"Grimsbyvegen 44A, Tromsø Domkirke",69.663272,18.955103
+337068,"Grimsbyvegen 46, Tromsø Domkirke",69.663476,18.955218
+337069,"Grimsbyvegen 43, Tromsø Domkirke",69.663574,18.954487
+337070,"Grimsbyvegen 44, Tromsø Domkirke",69.663076,18.95504
+337071,"Grimsbyvegen 41, Tromsø Domkirke",69.663362,18.954319
+337072,"Grimsbyvegen 42, Tromsø Domkirke",69.66283,18.954814
+337073,"Grimsbyvegen 39, Tromsø Domkirke",69.663219,18.954266
+337074,"Grimsbyvegen 40, Tromsø Domkirke",69.662639,18.95452
+337075,"Grimsbyvegen 35, Tromsø Domkirke",69.662966,18.953961
+337076,"Grimsbyvegen 37, Tromsø Domkirke",69.663096,18.95414
+337077,"Grimsbyvegen 33, Tromsø Domkirke",69.662808,18.953802
+337078,"Grimsbyvegen 34, Tromsø Domkirke",69.662137,18.953264
+337079,"Grimsbyvegen 31, Tromsø Domkirke",69.662685,18.95365
+337080,"Grimsbyvegen 32, Tromsø Domkirke",69.661888,18.953528
+337081,"Grimsbyvegen 27, Tromsø Domkirke",69.662319,18.952368
+337082,"Grimsbyvegen 30, Tromsø Domkirke",69.661832,18.95282
+337105,"Garver Eidissens veg 25, Tromsø Domkirke",69.664264,18.960118
+337106,"Garver Eidissens veg 27A, Tromsø Domkirke",69.664436,18.960189
+337107,"Garver Eidissens veg 21, Tromsø Domkirke",69.663681,18.959673
+337108,"Garver Eidissens veg 23B, Tromsø Domkirke",69.664097,18.959983
+337109,"Garver Eidissens veg 17, Tromsø Domkirke",69.663449,18.959604
+337110,"Garver Eidissens veg 19, Tromsø Domkirke",69.663557,18.959624
+337111,"Garver Eidissens veg 13, Tromsø Domkirke",69.663145,18.959547
+337112,"Garver Eidissens veg 8, Tromsø Domkirke",69.662118,18.958865
+337113,"Garver Eidissens veg 11, Tromsø Domkirke",69.662975,18.959516
+337114,"Garver Eidissens veg 6, Tromsø Domkirke",69.661942,18.958703
+337115,"Garver Eidissens veg 7, Tromsø Domkirke",69.662585,18.959288
+337116,"Garver Eidissens veg 4, Tromsø Domkirke",69.661746,18.958641
+337117,"Garver Eidissens veg 5, Tromsø Domkirke",69.662468,18.959292
+337119,"Garver Eidissens veg 2, Tromsø Domkirke",69.661556,18.958709
+337138,"Garver Eidissens veg 40, Tromsø Domkirke",69.665786,18.961177
+337139,"Garver Eidissens veg 34, Tromsø Domkirke",69.665281,18.960437
+337140,"Garver Eidissens veg 36, Tromsø Domkirke",69.66546,18.960883
+337141,"Garver Eidissens veg 32, Tromsø Domkirke",69.66508,18.960193
+337142,"Garver Eidissens veg 33, Tromsø Domkirke",69.665048,18.960807
+337143,"Garver Eidissens veg 29A, Tromsø Domkirke",69.664622,18.960508
+337144,"Garver Eidissens veg 31, Tromsø Domkirke",69.66483,18.960508
+337145,"Grimsbyvegen 25, Tromsø Domkirke",69.662227,18.952067
+337146,"Grimsbyvegen 26, Tromsø Domkirke",69.661443,18.951378
+337147,"Grimsbyvegen 21, Tromsø Domkirke",69.662029,18.951668
+337148,"Grimsbyvegen 23, Tromsø Domkirke",69.662115,18.951865
+337149,"Grimsbyvegen 19, Tromsø Domkirke",69.66191,18.951388
+337150,"Grimsbyvegen 20, Tromsø Domkirke",69.660815,18.94935
+337151,"Grimsbyvegen 16, Tromsø Domkirke",69.660699,18.948916
+337152,"Grimsbyvegen 18, Tromsø Domkirke",69.660783,18.949164
+337153,"Grimsbyvegen 14, Tromsø Domkirke",69.660633,18.948645
+337154,"Grimsbyvegen 15, Tromsø Domkirke",69.661208,18.949449
+337155,"Grimsbyvegen 12, Tromsø Domkirke",69.660552,18.948243
+337157,"Grimsbyvegen 13, Tromsø Domkirke",69.661256,18.949278
+337158,"Grimsbyvegen 10, Tromsø Domkirke",69.660502,18.948078
+337159,"Grimsbyvegen 11, Tromsø Domkirke",69.66098,18.947987
+337160,"Grimsbyvegen 8, Tromsø Domkirke",69.660401,18.94775
+337161,"Grimsbyvegen 9, Tromsø Domkirke",69.660911,18.947845
+337162,"Grimsbyvegen 7, Tromsø Domkirke",69.6608,18.947617
+337163,"Grimsbyvegen 6, Tromsø Domkirke",69.660351,18.947586
+337164,"Grimsbyvegen 4, Tromsø Domkirke",69.660296,18.947265
+337165,"Grimsbyvegen 5, Tromsø Domkirke",69.660733,18.947373
+337166,"Grimsbyvegen 1, Tromsø Domkirke",69.660584,18.946828
+337167,"Grimsbyvegen 3, Tromsø Domkirke",69.660668,18.947076
+337232,"Grensevegen 8, Tromsø Domkirke",69.661604,18.958175
+337233,"Grensevegen 10, Tromsø Domkirke",69.661458,18.958664
+337234,"Grensevegen 2, Tromsø Domkirke",69.661714,18.957266
+337235,"Grensevegen 6, Tromsø Domkirke",69.661646,18.957899
+337266,"Grimsbyvegen 62, Tromsø Domkirke",69.665328,18.956777
+337267,"Grimsbyvegen 64, Tromsø Domkirke",69.665513,18.956915
+337268,"Grimsbyvegen 60, Tromsø Domkirke",69.665152,18.956615
+337269,"Grimsbyvegen 61, Tromsø Domkirke",69.665449,18.95618
+337270,"Grimsbyvegen 58, Tromsø Domkirke",69.665001,18.956536
+337271,"Grimsbyvegen 56A, Tromsø Domkirke",69.664707,18.956403
+337272,"Grimsbyvegen 56B, Tromsø Domkirke",69.664839,18.956557
+337273,"Grimsbyvegen 50A, Tromsø Domkirke",69.66404,18.955737
+337274,"Grimsbyvegen 52, Tromsø Domkirke",69.664261,18.955881
+337381,"Helmer Hansens gate 14, Tromsø Domkirke",69.65895,18.953936
+337382,"Helmer Hansens gate 15, Tromsø Domkirke",69.659018,18.953329
+337383,"Helmer Hansens gate 12, Tromsø Domkirke",69.658669,18.953677
+337384,"Helmer Hansens gate 13, Tromsø Domkirke",69.658806,18.953186
+337385,"Helmer Hansens gate 10, Tromsø Domkirke",69.658468,18.953433
+337386,"Helmer Hansens gate 11, Tromsø Domkirke",69.658517,18.952848
+337387,"Helmer Hansens gate 9, Tromsø Domkirke",69.658259,18.952583
+337478,"Helmer Hansens gate 8, Tromsø Domkirke",69.658249,18.95316
+337479,"Helmer Hansens gate 6, Tromsø Domkirke",69.658039,18.95294
+337480,"Helmer Hansens gate 7, Tromsø Domkirke",69.657887,18.952111
+337481,"Helmer Hansens gate 4, Tromsø Domkirke",69.657811,18.952691
+337482,"Helmer Hansens gate 5, Tromsø Domkirke",69.657618,18.951674
+337483,"Snarvegen 2, Tromsø Domkirke",69.657239,18.951345
+337484,"Helmer Hansens gate 3, Tromsø Domkirke",69.65746,18.951489
+337507,"Haakon VII's gate 7, Tromsø Domkirke",69.655999,18.94737
+337508,"Haakon VII's gate 5C, Tromsø Domkirke",69.655994,18.950757
+337509,"Haakon VII's gate 5D, Tromsø Domkirke",69.655941,18.950613
+337510,"Haakon VII's gate 5A, Tromsø Domkirke",69.656126,18.950962
+337511,"Haakon VII's gate 5B, Tromsø Domkirke",69.656074,18.950914
+337512,"Haakon VII's gate 3B, Tromsø Domkirke",69.656544,18.950312
+337513,"Haakon VII's gate 4, Tromsø Domkirke",69.656835,18.950521
+337514,"Haakon VII's gate 1E, Tromsø Domkirke",69.65661,18.950944
+337515,"Haakon VII's gate 2, Tromsø Domkirke",69.656985,18.951039
+337542,"Haakon VII's gate 40, Tromsø Domkirke",69.65434,18.938051
+337544,"Haakon VII's gate 36, Tromsø Domkirke",69.654809,18.939171
+337545,"Haakon VII's gate 38, Tromsø Domkirke",69.65452,18.938446
+337546,"Haakon VII's gate 32, Tromsø Domkirke",69.655194,18.940017
+337547,"Haakon VII's gate 34, Tromsø Domkirke",69.655047,18.93937
+337548,"Haakon VII's gate 29, Tromsø Domkirke",69.654941,18.940874
+337549,"Haakon VII's gate 30, Tromsø Domkirke",69.655363,18.940513
+337550,"Haakon VII's gate 27, Tromsø Domkirke",69.655108,18.941447
+337551,"Haakon VII's gate 28, Tromsø Domkirke",69.655546,18.940366
+337552,"Forhåpningen 3, Tromsø Domkirke",69.655268,18.942664
+337553,"Haakon VII's gate 26, Tromsø Domkirke",69.655733,18.94084
+337554,"Haakon VII's gate 23, Tromsø Domkirke",69.65535,18.94348
+337555,"Haakon VII's gate 24, Tromsø Domkirke",69.655517,18.941239
+337556,"Haakon VII's gate 20, Tromsø Domkirke",69.655761,18.943556
+337557,"Haakon VII's gate 21, Tromsø Domkirke",69.655452,18.944118
+337558,"Haakon VII's gate 18B, Tromsø Domkirke",69.655811,18.944159
+337559,"Haakon VII's gate 19, Tromsø Domkirke",69.655253,18.944598
+337560,"Haakon VII's gate 17, Tromsø Domkirke",69.655422,18.945068
+337561,"Haakon VII's gate 18, Tromsø Domkirke",69.655844,18.943494
+337562,"Haakon VII's gate 15, Tromsø Domkirke",69.655623,18.944925
+337563,"Haakon VII's gate 16, Tromsø Domkirke",69.655986,18.945147
+337564,"Haakon VII's gate 13, Tromsø Domkirke",69.655726,18.945538
+337565,"Haakon VII's gate 14, Tromsø Domkirke",69.656114,18.945868
+337566,"Haakon VII's gate 11, Tromsø Domkirke",69.65585,18.946387
+337567,"Haakon VII's gate 12, Tromsø Domkirke",69.656185,18.946294
+337568,"Haakon VII's gate 9, Tromsø Domkirke",69.655937,18.94692
+337569,"Haakon VII's gate 10B, Tromsø Domkirke",69.656344,18.946789
+337847,"Helmer Hansens gate 2A, Tromsø Domkirke",69.657295,18.95244
+337848,"Haakon VII's gate 1A, Tromsø Domkirke",69.656859,18.952255
+337850,"Haakon VII's gate 1D, Tromsø Domkirke",69.656475,18.951745
+337851,"Haakon VII's gate 1B, Tromsø Domkirke",69.656703,18.951994
+337853,"Haakon VII's gate 3A, Tromsø Domkirke",69.656274,18.951501
+337878,"Kemivegen 6, Tromsø Domkirke",69.661201,18.948544
+337879,"Kemivegen 7, Tromsø Domkirke",69.661425,18.947372
+337880,"Kemivegen 4, Tromsø Domkirke",69.661081,18.948677
+337881,"Kemivegen 5, Tromsø Domkirke",69.661349,18.947565
+337882,"Kemivegen 2, Tromsø Domkirke",69.661025,18.948796
+337883,"Kemivegen 3, Tromsø Domkirke",69.661184,18.947689
+337885,"Kemivegen 1, Tromsø Domkirke",69.661118,18.947857
+337924,"Kemivegen 24, Tromsø Domkirke",69.662066,18.949222
+337926,"Kemivegen 20, Tromsø Domkirke",69.661915,18.948755
+337927,"Kemivegen 22, Tromsø Domkirke",69.662024,18.949111
+337928,"Kemivegen 16, Tromsø Domkirke",69.661731,18.94854
+337929,"Kemivegen 18, Tromsø Domkirke",69.661863,18.948693
+337930,"Kemivegen 12, Tromsø Domkirke",69.66149,18.948495
+337931,"Kemivegen 14, Tromsø Domkirke",69.661661,18.948449
+337932,"Ringkøbingvegen 4, Tromsø Domkirke",69.661552,18.946905
+337933,"Kemivegen 10, Tromsø Domkirke",69.661435,18.94851
+337934,"Kemivegen 8, Tromsø Domkirke",69.661302,18.94846
+337935,"Ringkøbingvegen 2, Tromsø Domkirke",69.661477,18.947072
+338183,"Helmer Hansens gate 2B, Tromsø Domkirke",69.657488,18.952656
+338796,"Luleåvegen 4, Tromsø Domkirke",69.662365,18.951111
+338816,"Luleåvegen 11G, Tromsø Domkirke",69.663779,18.952149
+338817,"Luleåvegen 11H, Tromsø Domkirke",69.663786,18.952228
+338818,"Luleåvegen 11E, Tromsø Domkirke",69.663785,18.951892
+338819,"Luleåvegen 11F, Tromsø Domkirke",69.663782,18.952021
+338820,"Luleåvegen 11C, Tromsø Domkirke",69.663765,18.951578
+338821,"Luleåvegen 11D, Tromsø Domkirke",69.663762,18.951707
+338822,"Luleåvegen 11A, Tromsø Domkirke",69.663734,18.951366
+338823,"Luleåvegen 11B, Tromsø Domkirke",69.663741,18.951471
+338824,"Luleåvegen 9H, Tromsø Domkirke",69.663677,18.951097
+338825,"Luleåvegen 10, Tromsø Domkirke",69.662595,18.952084
+338826,"Luleåvegen 9F, Tromsø Domkirke",69.66361,18.950878
+338827,"Luleåvegen 9G, Tromsø Domkirke",69.663652,18.951015
+338828,"Luleåvegen 9D, Tromsø Domkirke",69.663552,18.950661
+338829,"Luleåvegen 9E, Tromsø Domkirke",69.663603,18.950799
+338830,"Luleåvegen 9B, Tromsø Domkirke",69.663492,18.950546
+338831,"Luleåvegen 9C, Tromsø Domkirke",69.663526,18.950604
+338832,"Luleåvegen 8, Tromsø Domkirke",69.662541,18.951686
+338833,"Luleåvegen 9A, Tromsø Domkirke",69.663476,18.95044
+338834,"Luleåvegen 5, Tromsø Domkirke",69.66282,18.951273
+338835,"Luleåvegen 6, Tromsø Domkirke",69.662449,18.951359
+338836,"Luleåvegen 3, Tromsø Domkirke",69.662731,18.950818
+338837,"Luleåvegen 1, Tromsø Domkirke",69.66263,18.950515
+338838,"Luleåvegen 2, Tromsø Domkirke",69.662266,18.950731
+338894,"Myrengvegen 28, Tromsø Domkirke",69.65777,18.946512
+338895,"Myrengvegen 26, Tromsø Domkirke",69.65774,18.946661
+338896,"Myrengvegen 27, Tromsø Domkirke",69.657903,18.947776
+338897,"Myrengvegen 23, Tromsø Domkirke",69.65749,18.947363
+338898,"Myrengvegen 24, Tromsø Domkirke",69.657541,18.945927
+338899,"Myrengvegen 21, Tromsø Domkirke",69.657531,18.947164
+338900,"Myrengvegen 22, Tromsø Domkirke",69.657519,18.946103
+338901,"Myrengvegen 19, Tromsø Domkirke",69.657308,18.947097
+338902,"Myrengvegen 20, Tromsø Domkirke",69.657471,18.946224
+338903,"Myrengvegen 17, Tromsø Domkirke",69.657331,18.946843
+338904,"Myrengvegen 18, Tromsø Domkirke",69.657242,18.945613
+338905,"Myrengvegen 15, Tromsø Domkirke",69.65711,18.946724
+338906,"Myrengvegen 16, Tromsø Domkirke",69.657211,18.945788
+338907,"Myrengvegen 11, Tromsø Domkirke",69.65692,18.946379
+338908,"Myrengvegen 13, Tromsø Domkirke",69.657141,18.946524
+338909,"Myrengvegen 9, Tromsø Domkirke",69.656941,18.946228
+338910,"Myrengvegen 10, Tromsø Domkirke",69.65681,18.944887
+338911,"Myrengvegen 7, Tromsø Domkirke",69.656829,18.946801
+338912,"Myrengvegen 8, Tromsø Domkirke",69.656735,18.943815
+338913,"Myrengvegen 5B, Tromsø Domkirke",69.656729,18.94606
+338914,"Myrengvegen 6, Tromsø Domkirke",69.656487,18.944466
+338915,"Myrengvegen 4, Tromsø Domkirke",69.65626,18.944165
+338916,"Myrengvegen 5A, Tromsø Domkirke",69.656769,18.945887
+338917,"Myrengvegen 1, Tromsø Domkirke",69.656258,18.945456
+338918,"Myrengvegen 2, Tromsø Domkirke",69.656047,18.944048
+338967,"Maristuen 19, Tromsø Domkirke",69.660925,18.950843
+338969,"Maristuen 15, Tromsø Domkirke",69.661441,18.952644
+338970,"Maristuen 18, Tromsø Domkirke",69.661147,18.950936
+338971,"Maristuen 13, Tromsø Domkirke",69.66134,18.953141
+338972,"Maristuen 14, Tromsø Domkirke",69.661603,18.953449
+338973,"Maristuen 11, Tromsø Domkirke",69.660944,18.952758
+338974,"Maristuen 12, Tromsø Domkirke",69.661055,18.953037
+338975,"Maristuen 9, Tromsø Domkirke",69.660826,18.951935
+338976,"Maristuen 10, Tromsø Domkirke",69.660854,18.952405
+338977,"Maristuen 5, Tromsø Domkirke",69.660595,18.9519
+338978,"Maristuen 3, Tromsø Domkirke",69.660539,18.952811
+338979,"Maristuen 4, Tromsø Domkirke",69.660741,18.952916
+338980,"Maristuen 1, Tromsø Domkirke",69.660287,18.951285
+338981,"Maristuen 2, Tromsø Domkirke",69.660387,18.951988
+339124,"M Urdals veg 5, Tromsø Domkirke",69.658061,18.946746
+339125,"M Urdals veg 6, Tromsø Domkirke",69.658294,18.945576
+339126,"M Urdals veg 3, Tromsø Domkirke",69.65803,18.946921
+339127,"M Urdals veg 4, Tromsø Domkirke",69.658618,18.945946
+339129,"M Urdals veg 1, Tromsø Domkirke",69.658008,18.947124
+339164,"M Urdals veg 47, Tromsø Domkirke",69.656535,18.943907
+339165,"M Urdals veg 49, Tromsø Domkirke",69.656388,18.943647
+339166,"M Urdals veg 41, Tromsø Domkirke",69.656907,18.944131
+339167,"M Urdals veg 45, Tromsø Domkirke",69.65658,18.943527
+339168,"M Urdals veg 35, Tromsø Domkirke",69.657201,18.94465
+339169,"M Urdals veg 37, Tromsø Domkirke",69.657131,18.944585
+339170,"M Urdals veg 29, Tromsø Domkirke",69.657412,18.944844
+339171,"M Urdals veg 31, Tromsø Domkirke",69.657262,18.945126
+339172,"M Urdals veg 21, Tromsø Domkirke",69.657638,18.945583
+339173,"M Urdals veg 27, Tromsø Domkirke",69.657492,18.945298
+339174,"M Urdals veg 19, Tromsø Domkirke",69.657678,18.945436
+339175,"M Urdals veg 20, Tromsø Domkirke",69.657057,18.943461
+339176,"M Urdals veg 17, Tromsø Domkirke",69.657853,18.946036
+339177,"M Urdals veg 18, Tromsø Domkirke",69.657328,18.943796
+339178,"M Urdals veg 15, Tromsø Domkirke",69.6579,18.945916
+339179,"M Urdals veg 16, Tromsø Domkirke",69.657665,18.944225
+339180,"M Urdals veg 13, Tromsø Domkirke",69.657913,18.945763
+339181,"M Urdals veg 14B, Tromsø Domkirke",69.657889,18.944057
+339182,"M Urdals veg 11, Tromsø Domkirke",69.658199,18.946204
+339183,"M Urdals veg 12, Tromsø Domkirke",69.658204,18.94481
+339184,"M Urdals veg 9, Tromsø Domkirke",69.65816,18.946352
+339185,"M Urdals veg 7, Tromsø Domkirke",69.65813,18.946475
+339186,"M Urdals veg 8, Tromsø Domkirke",69.658113,18.945258
+339205,"Luleåvegen 26, Tromsø Domkirke",69.663576,18.953997
+339207,"Luleåvegen 22, Tromsø Domkirke",69.66328,18.95358
+339208,"Luleåvegen 24, Tromsø Domkirke",69.66341,18.95376
+339209,"Luleåvegen 20, Tromsø Domkirke",69.663158,18.953403
+339210,"Luleåvegen 21, Tromsø Domkirke",69.663935,18.953987
+339211,"Luleåvegen 18, Tromsø Domkirke",69.663029,18.953146
+339212,"Luleåvegen 19, Tromsø Domkirke",69.664116,18.954743
+339213,"Luleåvegen 16, Tromsø Domkirke",69.662918,18.952893
+339214,"Luleåvegen 17, Tromsø Domkirke",69.66417,18.953927
+339215,"Luleåvegen 14, Tromsø Domkirke",69.66281,18.952511
+339216,"Luleåvegen 15, Tromsø Domkirke",69.663951,18.952879
+339217,"Luleåvegen 12, Tromsø Domkirke",69.662727,18.952212
+339218,"Luleåvegen 13, Tromsø Domkirke",69.663691,18.952882
+339279,"Nedre Markveg 17, Tromsø Domkirke",69.664282,18.95932
+339280,"Nedre Markveg 19, Tromsø Domkirke",69.664441,18.959453
+339281,"Nedre Markveg 13, Tromsø Domkirke",69.663918,18.959149
+339282,"Nedre Markveg 15, Tromsø Domkirke",69.664104,18.959236
+339283,"Nedre Markveg 9, Tromsø Domkirke",69.663581,18.958931
+339284,"Nedre Markveg 11, Tromsø Domkirke",69.663758,18.959068
+339285,"Nedre Markveg 5, Tromsø Domkirke",69.663219,18.958683
+339286,"Nedre Markveg 7, Tromsø Domkirke",69.663394,18.958871
+339287,"Nedre Markveg 1, Tromsø Domkirke",69.662862,18.958539
+339288,"Nedre Markveg 3, Tromsø Domkirke",69.663004,18.958643
+339323,"Nedre Markveg 39, Tromsø Domkirke",69.66661,18.960065
+339324,"Nedre Markveg 33, Tromsø Domkirke",69.665867,18.960365
+339325,"Nedre Markveg 37, Tromsø Domkirke",69.666426,18.960676
+339326,"Nedre Markveg 29, Tromsø Domkirke",69.665434,18.960052
+339327,"Nedre Markveg 31, Tromsø Domkirke",69.66569,18.960229
+339328,"Nedre Markveg 25, Tromsø Domkirke",69.664975,18.959682
+339329,"Nedre Markveg 27, Tromsø Domkirke",69.665152,18.959793
+339330,"Nedre Markveg 21, Tromsø Domkirke",69.66459,18.95961
+339331,"Nedre Markveg 23, Tromsø Domkirke",69.664795,18.959675
+339382,"Myrengvegen 29, Tromsø Domkirke",69.65789,18.94798
+339398,"Myrengvegen 59, Tromsø Domkirke",69.659126,18.950121
+339400,"Myrengvegen 53, Tromsø Domkirke",69.658996,18.949115
+339401,"Myrengvegen 57, Tromsø Domkirke",69.659039,18.950001
+339403,"Myrengvegen 43, Tromsø Domkirke",69.658768,18.948892
+339404,"Myrengvegen 49, Tromsø Domkirke",69.6589,18.948994
+339405,"Myrengvegen 41A, Tromsø Domkirke",69.658442,18.948599
+339406,"Myrengvegen 41B, Tromsø Domkirke",69.65841,18.9488
+339407,"Myrengvegen 37, Tromsø Domkirke",69.658257,18.948436
+339408,"Myrengvegen 39, Tromsø Domkirke",69.658472,18.948475
+339409,"Myrengvegen 34, Tromsø Domkirke",69.659223,18.94784
+339410,"Myrengvegen 35, Tromsø Domkirke",69.658296,18.948288
+339411,"Myrengvegen 32, Tromsø Domkirke",69.658644,18.947216
+339412,"Myrengvegen 33, Tromsø Domkirke",69.658072,18.948246
+339413,"Myrengvegen 30, Tromsø Domkirke",69.6578,18.946362
+339414,"Myrengvegen 31, Tromsø Domkirke",69.658104,18.948046
+339423,"Ole Gabrielsens veg 7, Tromsø Domkirke",69.655594,18.938206
+339425,"Ole Gabrielsens veg 3B, Tromsø Domkirke",69.655276,18.937993
+339426,"Ole Gabrielsens veg 5, Tromsø Domkirke",69.655436,18.938461
+339427,"Ole Gabrielsens veg 2, Tromsø Domkirke",69.655353,18.939737
+339428,"Ole Gabrielsens veg 3A, Tromsø Domkirke",69.65535,18.937895
+339430,"Ole Gabrielsens veg 1B, Tromsø Domkirke",69.65524,18.938786
+339664,"P G Rodums veg 14, Tromsø Domkirke",69.659,18.940568
+339665,"P G Rodums veg 15, Tromsø Domkirke",69.65878,18.940373
+339666,"P G Rodums veg 11, Tromsø Domkirke",69.657991,18.940691
+339667,"P G Rodums veg 12, Tromsø Domkirke",69.659157,18.940778
+339668,"P G Rodums veg 10, Tromsø Domkirke",69.659054,18.941766
+339669,"P G Rodums veg 10B, Tromsø Domkirke",69.659247,18.941983
+339670,"P G Rodums veg 8, Tromsø Domkirke",69.65889,18.941478
+339671,"P G Rodums veg 6, Tromsø Domkirke",69.659059,18.942723
+339672,"P G Rodums veg 6B, Tromsø Domkirke",69.659032,18.943518
+339673,"P G Rodums veg 4B, Tromsø Domkirke",69.658812,18.942135
+339674,"P G Rodums veg 5, Tromsø Domkirke",69.658403,18.941542
+339675,"P G Rodums veg 3, Tromsø Domkirke",69.658581,18.941601
+339676,"P G Rodums veg 4, Tromsø Domkirke",69.658913,18.942437
+339677,"P G Rodums veg 2, Tromsø Domkirke",69.658733,18.942843
+339678,"P G Rodums veg 2B, Tromsø Domkirke",69.658809,18.943064
+339747,"Ole Gabrielsens veg 12, Tromsø Domkirke",69.655722,18.938927
+339749,"Ole Gabrielsens veg 4A, Tromsø Domkirke",69.655469,18.939397
+339750,"Rudivegen 12, Tromsø Domkirke",69.656017,18.939782
+339751,"Rudivegen 4, Tromsø Domkirke",69.656236,18.94003
+339752,"Rudivegen 5, Tromsø Domkirke",69.655735,18.939937
+339753,"Rudivegen 1, Tromsø Domkirke",69.656054,18.940951
+339754,"Rudivegen 2A, Tromsø Domkirke",69.656277,18.940605
+339765,"Ringkøbingvegen 13, Tromsø Domkirke",69.66273,18.94888
+339766,"Ringkøbingvegen 15, Tromsø Domkirke",69.662957,18.949568
+339767,"Ringkøbingvegen 9, Tromsø Domkirke",69.662498,18.948011
+339768,"Ringkøbingvegen 11, Tromsø Domkirke",69.662648,18.948529
+339769,"Ringkøbingvegen 5, Tromsø Domkirke",69.662186,18.947075
+339770,"Ringkøbingvegen 7, Tromsø Domkirke",69.662319,18.947564
+339771,"Ringkøbingvegen 1, Tromsø Domkirke",69.66183,18.947757
+339772,"Ringkøbingvegen 3, Tromsø Domkirke",69.661931,18.94726
+339990,"Prestvannvegen 38, Tromsø Domkirke",69.661963,18.941816
+339991,"Prestvannvegen 40, Tromsø Domkirke",69.661333,18.939178
+339992,"Prestvannvegen 34, Tromsø Domkirke",69.661164,18.942985
+339993,"Prestvannvegen 36, Tromsø Domkirke",69.661461,18.9418
+339994,"Prestvannvegen 30, Tromsø Domkirke",69.660643,18.942991
+339995,"Prestvannvegen 32, Tromsø Domkirke",69.660921,18.942217
+340090,"Prestvannvegen 26, Tromsø Domkirke",69.660624,18.943866
+340091,"Prestvannvegen 28, Tromsø Domkirke",69.660719,18.943238
+340092,"Prestvannvegen 18, Tromsø Domkirke",69.660796,18.944595
+340093,"Prestvannvegen 20, Tromsø Domkirke",69.660808,18.944442
+340094,"Prestvannvegen 16A, Tromsø Domkirke",69.660551,18.944317
+340095,"Prestvannvegen 16B, Tromsø Domkirke",69.660564,18.944113
+340096,"Prestvannvegen 10, Tromsø Domkirke",69.66023,18.947382
+340097,"Prestvannvegen 14, Tromsø Domkirke",69.660397,18.944753
+340098,"Prestvannvegen 7, Tromsø Domkirke",69.659607,18.947525
+340099,"Prestvannvegen 8, Tromsø Domkirke",69.660189,18.947994
+340100,"Prestvannvegen 5, Tromsø Domkirke",69.659723,18.947546
+340101,"Prestvannvegen 6B, Tromsø Domkirke",69.66014,18.948605
+340103,"Prestvannvegen 3, Tromsø Domkirke",69.659811,18.948441
+340633,"Skogåsvegen 3, Tromsø Domkirke",69.666818,18.958812
+340634,"Skogåsvegen 4, Tromsø Domkirke",69.666622,18.95955
+340635,"Skogåsvegen 2, Tromsø Domkirke",69.666954,18.959948
+340636,"Skogåsvegen 2B, Tromsø Domkirke",69.666815,18.960664
+340638,"Skogåsvegen 1, Tromsø Domkirke",69.667007,18.95915
+340665,"Skogåsvegen 7, Tromsø Domkirke",69.666238,18.958239
+340666,"Skogåsvegen 5, Tromsø Domkirke",69.666518,18.958575
+340667,"Skogåsvegen 6, Tromsø Domkirke",69.66621,18.959499
+340924,"Snarvegen 11, Tromsø Domkirke",69.657046,18.94994
+340926,"Snarvegen 7, Tromsø Domkirke",69.657131,18.950163
+340927,"Snarvegen 9, Tromsø Domkirke",69.657088,18.950077
+340928,"Snarvegen 3, Tromsø Domkirke",69.657252,18.950366
+340929,"Snarvegen 5, Tromsø Domkirke",69.657173,18.950274
+340931,"Snarvegen 1, Tromsø Domkirke",69.657295,18.950451
+341028,"Rudivegen 10, Tromsø Domkirke",69.656019,18.938905
+341030,"Rudivegen 6, Tromsø Domkirke",69.656441,18.939949
+341031,"Rudivegen 8B, Tromsø Domkirke",69.656311,18.939501
+341032,"Sparre Schneiders veg 3, Tromsø Domkirke",69.657002,18.941127
+341033,"Sparre Schneiders veg 9, Tromsø Domkirke",69.656562,18.940196
+341043,"Skogåsvegen 39, Tromsø Domkirke",69.662817,18.95618
+341044,"Skogåsvegen 41, Tromsø Domkirke",69.662552,18.955976
+341045,"Skogåsvegen 35, Tromsø Domkirke",69.663356,18.956177
+341046,"Skogåsvegen 37, Tromsø Domkirke",69.663144,18.956034
+341047,"Skogåsvegen 31A, Tromsø Domkirke",69.663825,18.956415
+341048,"Skogåsvegen 33, Tromsø Domkirke",69.663571,18.956217
+341049,"Skogåsvegen 28, Tromsø Domkirke",69.663951,18.957683
+341050,"Skogåsvegen 29, Tromsø Domkirke",69.663977,18.9565
+341051,"Skogåsvegen 26, Tromsø Domkirke",69.664142,18.957589
+341052,"Skogåsvegen 27, Tromsø Domkirke",69.664222,18.956804
+341053,"Skogåsvegen 24, Tromsø Domkirke",69.664301,18.957671
+341054,"Skogåsvegen 25, Tromsø Domkirke",69.664491,18.956854
+341055,"Skogåsvegen 21, Tromsø Domkirke",69.664933,18.957143
+341056,"Skogåsvegen 23, Tromsø Domkirke",69.664753,18.957161
+341057,"Skogåsvegen 19, Tromsø Domkirke",69.66512,18.957229
+341058,"Skogåsvegen 20, Tromsø Domkirke",69.664682,18.957923
+341059,"Skogåsvegen 16, Tromsø Domkirke",69.66502,18.958089
+341060,"Skogåsvegen 18, Tromsø Domkirke",69.664869,18.958009
+341061,"Skogåsvegen 14, Tromsø Domkirke",69.665212,18.958306
+341062,"Skogåsvegen 12, Tromsø Domkirke",69.6654,18.958341
+341063,"Skogåsvegen 13, Tromsø Domkirke",69.665498,18.957584
+341064,"Skogåsvegen 9, Tromsø Domkirke",69.666007,18.958118
+341065,"Skogåsvegen 10, Tromsø Domkirke",69.665625,18.958744
+341066,"Skogåsvegen 8, Tromsø Domkirke",69.665915,18.959031
+342592,"Øvre Markveg 39, Tromsø Domkirke",69.665574,18.959407
+342593,"Øvre Markveg 35, Tromsø Domkirke",69.66514,18.959145
+342594,"Øvre Markveg 37, Tromsø Domkirke",69.665317,18.959255
+342595,"Øvre Markveg 31, Tromsø Domkirke",69.664777,18.958896
+342596,"Øvre Markveg 33, Tromsø Domkirke",69.664955,18.958981
+342597,"Øvre Markveg 27, Tromsø Domkirke",69.664405,18.958646
+342598,"Øvre Markveg 29, Tromsø Domkirke",69.664591,18.958784
+342599,"Øvre Markveg 23, Tromsø Domkirke",69.664069,18.958428
+342600,"Øvre Markveg 25, Tromsø Domkirke",69.664237,18.958537
+342601,"Øvre Markveg 19, Tromsø Domkirke",69.663704,18.958257
+342602,"Øvre Markveg 21, Tromsø Domkirke",69.663892,18.958318
+342603,"Øvre Markveg 17, Tromsø Domkirke",69.66344,18.958027
+342604,"Øvre Markveg 18, Tromsø Domkirke",69.663711,18.957561
+342605,"Øvre Markveg 15, Tromsø Domkirke",69.663226,18.957961
+342606,"Øvre Markveg 16, Tromsø Domkirke",69.663463,18.957411
+342607,"Øvre Markveg 13, Tromsø Domkirke",69.663093,18.957885
+342608,"Øvre Markveg 14, Tromsø Domkirke",69.663223,18.957289
+342609,"Øvre Markveg 11, Tromsø Domkirke",69.662864,18.957687
+342610,"Øvre Markveg 12, Tromsø Domkirke",69.662983,18.957167
+342611,"Øvre Markveg 8B, Tromsø Domkirke",69.66248,18.956789
+342612,"Øvre Markveg 9, Tromsø Domkirke",69.662652,18.957518
+342613,"Øvre Markveg 7, Tromsø Domkirke",69.662395,18.957341
+342614,"Øvre Markveg 8A, Tromsø Domkirke",69.662444,18.956756
+342615,"Øvre Markveg 5, Tromsø Domkirke",69.662174,18.957197
+342616,"Øvre Markveg 5B, Tromsø Domkirke",69.662117,18.957754
+342617,"Øvre Markveg 2, Tromsø Domkirke",69.661819,18.956201
+342618,"Øvre Markveg 3, Tromsø Domkirke",69.661989,18.957033
+342620,"Øvre Markveg 1, Tromsø Domkirke",69.661733,18.95683
+342755,"Zagrebvegen 8B, Tromsø Domkirke",69.666325,18.957558
+342756,"Zagrebvegen 10, Tromsø Domkirke",69.666082,18.95759
+342757,"Zagrebvegen 6B, Tromsø Domkirke",69.666543,18.957857
+342758,"Zagrebvegen 8A, Tromsø Domkirke",69.666385,18.957698
+342760,"Zagrebvegen 6, Tromsø Domkirke",69.666645,18.958134
+347756,"Rudivegen 8A, Tromsø Domkirke",69.656182,18.939245
+347766,"Forhåpningen 25C, Tromsø Domkirke",69.657831,18.941942
+347837,"Conrad Holmboes veg 37, Tromsø Domkirke",69.658419,18.95079
+347935,"Conrad Holmboes veg 57B, Tromsø Domkirke",69.659999,18.952039
+347936,"Conrad Holmboes veg 57A, Tromsø Domkirke",69.660014,18.95165
+348006,"Prestvannvegen 13, Tromsø Domkirke",69.659998,18.943724
+348008,"M Urdals veg 39, Tromsø Domkirke",69.656958,18.944269
+348115,"Grimsbyvegen 28B, Tromsø Domkirke",69.661602,18.952286
+348116,"Grimsbyvegen 28A, Tromsø Domkirke",69.661579,18.951714
+348132,"Prestvannvegen 22B, Tromsø Domkirke",69.660921,18.943843
+348133,"Prestvannvegen 22A, Tromsø Domkirke",69.660897,18.944072
+348304,"Conrad Holmboes veg 108, Tromsø Domkirke",69.665018,18.952974
+348305,"Conrad Holmboes veg 106, Tromsø Domkirke",69.665124,18.953071
+348306,"Conrad Holmboes veg 104, Tromsø Domkirke",69.66531,18.953184
+348307,"Conrad Holmboes veg 102, Tromsø Domkirke",69.665416,18.953281
+348308,"Conrad Holmboes veg 95, Tromsø Domkirke",69.664807,18.951044
+348309,"Conrad Holmboes veg 89, Tromsø Domkirke",69.663954,18.950787
+348326,"Prestvannvegen 9A, Tromsø Domkirke",69.659513,18.946913
+348336,"Conrad Holmboes veg 111, Tromsø Domkirke",69.664658,18.952235
+348337,"Conrad Holmboes veg 109, Tromsø Domkirke",69.664764,18.952307
+348625,"Øvre Markveg 7B, Tromsø Domkirke",69.662355,18.957928
+348627,"Øvre Markveg 9B, Tromsø Domkirke",69.662572,18.957891
+348629,"Grimsbyvegen 65, Tromsø Domkirke",69.665796,18.957511
+348675,"Forhåpningen 2, Tromsø Domkirke",69.654859,18.944295
+348686,"Forhåpningen 5, Tromsø Domkirke",69.656038,18.941645
+348687,"Zagrebvegen 4, Tromsø Domkirke",69.666782,18.958418
+348688,"Haakon VII's gate 22, Tromsø Domkirke",69.655643,18.942011
+348709,"Conrad Holmboes veg 43A, Tromsø Domkirke",69.658867,18.95126
+348730,"Conrad Holmboes veg 43B, Tromsø Domkirke",69.658817,18.951484
+348942,"Biskop Berggravs gate 29, Tromsø Domkirke",69.661202,18.945316
+349226,"Forhåpningen 37, Tromsø Domkirke",69.658881,18.944652
+349381,"Luleåvegen 7, Tromsø Domkirke",69.663579,18.951854
+349871,"Myrengvegen 25A, Tromsø Domkirke",69.657598,18.947771
+349872,"Myrengvegen 25B, Tromsø Domkirke",69.657713,18.947456
+349877,"Grimsbyvegen 17, Tromsø Domkirke",69.661594,18.950632
+349996,"Sparre Schneiders veg 5, Tromsø Domkirke",69.656909,18.940852
+350013,"P G Rodums veg 12B, Tromsø Domkirke",69.659327,18.941197
+350426,"Haakon VII's gate 31, Tromsø Domkirke",69.654825,18.940465
+350476,"Myrengvegen 51, Tromsø Domkirke",69.658926,18.949051
+350478,"Myrengvegen 47, Tromsø Domkirke",69.658829,18.948955
+350479,"Myrengvegen 45, Tromsø Domkirke",69.658812,18.948926
+350589,"Maristuen 8, Tromsø Domkirke",69.660854,18.951579
+350665,"Rudivegen 3B, Tromsø Domkirke",69.655863,18.940244
+350805,"Rudivegen 3A, Tromsø Domkirke",69.655898,18.94069
+350900,"Skogåsvegen 1C, Tromsø Domkirke",69.667284,18.960862
+350944,"Skogåsvegen 1B, Tromsø Domkirke",69.667124,18.961194
+351194,"Nedre Markveg 35B, Tromsø Domkirke",69.666202,18.960635
+351195,"Nedre Markveg 35A, Tromsø Domkirke",69.666077,18.960585
+351277,"Prestvannvegen 1C, Tromsø Domkirke",69.659403,18.950198
+351278,"Prestvannvegen 1B, Tromsø Domkirke",69.659358,18.95019
+351279,"Prestvannvegen 1A, Tromsø Domkirke",69.659321,18.95026
+351331,"Prestvannvegen 1H, Tromsø Domkirke",69.659623,18.950007
+351332,"Prestvannvegen 1G, Tromsø Domkirke",69.659578,18.950024
+351333,"Prestvannvegen 1F, Tromsø Domkirke",69.659522,18.950091
+351334,"Prestvannvegen 1E, Tromsø Domkirke",69.659486,18.95011
+351335,"Prestvannvegen 1D, Tromsø Domkirke",69.65944,18.950153
+351400,"Prestvannvegen 44, Tromsø Domkirke",69.661247,18.937318
+351615,"Skogåsvegen 17B, Tromsø Domkirke",69.665252,18.957332
+351617,"Skogåsvegen 17A, Tromsø Domkirke",69.665314,18.957395
+351758,"Prestvannvegen 1J, Tromsø Domkirke",69.659669,18.949964
+351760,"Prestvannvegen 1K, Tromsø Domkirke",69.659705,18.949945
+351762,"Prestvannvegen 1L, Tromsø Domkirke",69.659743,18.949874
+351764,"Prestvannvegen 1M, Tromsø Domkirke",69.659789,18.949831
+351766,"Prestvannvegen 1N, Tromsø Domkirke",69.659339,18.950238
+351768,"Prestvannvegen 1P, Tromsø Domkirke",69.659413,18.950174
+351770,"Prestvannvegen 1Q, Tromsø Domkirke",69.659504,18.950088
+351772,"Prestvannvegen 1R, Tromsø Domkirke",69.659578,18.950024
+351774,"Prestvannvegen 1S, Tromsø Domkirke",69.659803,18.949989
+351776,"Myrengvegen 65, Tromsø Domkirke",69.659586,18.950051
+351788,"Grensevegen 4B, Tromsø Domkirke",69.661823,18.958009
+351790,"Grensevegen 4A, Tromsø Domkirke",69.661887,18.957556
+351818,"Conrad Holmboes veg 42B, Tromsø Domkirke",69.66006,18.95094
+351944,"Maristuen 17, Tromsø Domkirke",69.661197,18.951539
+351989,"Myrengvegen 3C, Tromsø Domkirke",69.6565,18.946275
+351990,"Myrengvegen 3B, Tromsø Domkirke",69.656515,18.94602
+352025,"Skogåsvegen 22, Tromsø Domkirke",69.664476,18.957884
+352169,"Øvre Markveg 10B, Tromsø Domkirke",69.662734,18.957069
+352170,"Øvre Markveg 10A, Tromsø Domkirke",69.662656,18.956951
+352254,"Prestvannvegen 9C, Tromsø Domkirke",69.659169,18.946229
+352255,"Forhåpningen 34B, Tromsø Domkirke",69.658938,18.946212
+352256,"Forhåpningen 34A, Tromsø Domkirke",69.658778,18.94564
+352257,"Prestvannvegen 11, Tromsø Domkirke",69.659276,18.945888
+352285,"Nedre Markveg 30, Tromsø Domkirke",69.665728,18.959629
+352428,"Conrad Holmboes veg 46B, Tromsø Domkirke",69.660407,18.949894
+352429,"Conrad Holmboes veg 46C, Tromsø Domkirke",69.660603,18.949982
+352441,"Myrengvegen 3A, Tromsø Domkirke",69.656487,18.945653
+352641,"Prestvannvegen 4B, Tromsø Domkirke",69.660268,18.949275
+352642,"Prestvannvegen 4A, Tromsø Domkirke",69.660263,18.949506
+352643,"Prestvannvegen 4C, Tromsø Domkirke",69.660476,18.949236
+352644,"Prestvannvegen 2, Tromsø Domkirke",69.660244,18.949967
+352881,"Forhåpningen 24B, Tromsø Domkirke",69.657877,18.943381
+352882,"Forhåpningen 24A, Tromsø Domkirke",69.657798,18.943289
+353262,"P G Rodums veg 13A, Tromsø Domkirke",69.658512,18.940684
+353264,"P G Rodums veg 13B, Tromsø Domkirke",69.658596,18.940158
+353814,"Conrad Holmboes veg 34A, Tromsø Domkirke",69.658409,18.949652
+353817,"P G Rodums veg 9A, Tromsø Domkirke",69.658225,18.94107
+353819,"P G Rodums veg 9B, Tromsø Domkirke",69.658162,18.941059
+353846,"Conrad Holmboes veg 42A, Tromsø Domkirke",69.659997,18.950954
+353960,"Biskop Berggravs gate 33, Tromsø Domkirke",69.661356,18.945242
+354113,"Haakon VII's gate 6A, Tromsø Domkirke",69.65676,18.949861
+354232,"Haakon VII's gate 6B, Tromsø Domkirke",69.656857,18.949544
+354520,"Conrad Holmboes veg 48D, Tromsø Domkirke",69.660998,18.949979
+354521,"Conrad Holmboes veg 48C, Tromsø Domkirke",69.660944,18.949994
+354522,"Conrad Holmboes veg 48B, Tromsø Domkirke",69.660899,18.949986
+354523,"Conrad Holmboes veg 48A, Tromsø Domkirke",69.660884,18.949854
+354542,"Sparre Schneiders veg 8, Tromsø Domkirke",69.657094,18.940132
+354543,"Sparre Schneiders veg 6, Tromsø Domkirke",69.657306,18.940825
+354558,"Grimsbyvegen 54C, Tromsø Domkirke",69.664616,18.956051
+354560,"Grimsbyvegen 54B, Tromsø Domkirke",69.664599,18.956047
+354562,"Grimsbyvegen 54A, Tromsø Domkirke",69.664482,18.956051
+354597,"Conrad Holmboes veg 48F, Tromsø Domkirke",69.660981,18.949924
+354598,"Conrad Holmboes veg 48E, Tromsø Domkirke",69.660928,18.949914
+354773,"Sparre Schneiders veg 1E, Tromsø Domkirke",69.657324,18.941962
+354774,"Sparre Schneiders veg 1D, Tromsø Domkirke",69.657312,18.942114
+354775,"Sparre Schneiders veg 1C, Tromsø Domkirke",69.657292,18.942214
+354776,"Sparre Schneiders veg 1B, Tromsø Domkirke",69.657271,18.942365
+354777,"Sparre Schneiders veg 1A, Tromsø Domkirke",69.657362,18.942279
+354778,"Sparre Schneiders veg 1L, Tromsø Domkirke",69.6572,18.941525
+354779,"Sparre Schneiders veg 1K, Tromsø Domkirke",69.657179,18.941625
+354780,"Sparre Schneiders veg 1J, Tromsø Domkirke",69.657159,18.94175
+354781,"Sparre Schneiders veg 1H, Tromsø Domkirke",69.657138,18.941875
+354782,"Sparre Schneiders veg 1G, Tromsø Domkirke",69.657117,18.942001
+354783,"Sparre Schneiders veg 1F, Tromsø Domkirke",69.657087,18.94215
+354873,"Haakon VII's gate 35, Tromsø Domkirke",69.65489,18.940348
+354874,"Haakon VII's gate 33, Tromsø Domkirke",69.654862,18.940394
+354877,"Maristuen 7B, Tromsø Domkirke",69.66072,18.950978
+354878,"Maristuen 7A, Tromsø Domkirke",69.6607,18.951075
+354898,"Biskop Berggravs gate 27, Tromsø Domkirke",69.661093,18.94416
+354899,"Biskop Berggravs gate 23, Tromsø Domkirke",69.660969,18.945273
+354981,"Conrad Holmboes veg 47A, Tromsø Domkirke",69.659185,18.951888
+354982,"Conrad Holmboes veg 47B, Tromsø Domkirke",69.659246,18.952002
+355015,"Biskop Berggravs gate 25B, Tromsø Domkirke",69.661076,18.944518
+355016,"Biskop Berggravs gate 25A, Tromsø Domkirke",69.661042,18.944822
+836851,"Garver Eidissens veg 23A, Tromsø Domkirke",69.663928,18.959807
+1350533,"Garver Eidissens veg 29C, Tromsø Domkirke",69.664661,18.960388
+1350534,"Garver Eidissens veg 29D, Tromsø Domkirke",69.664674,18.960349
+1350600,"Garver Eidissens veg 29B, Tromsø Domkirke",69.664638,18.960446
+1375007,"Ole Gabrielsens veg 1A, Tromsø Domkirke",69.655144,18.939042
+1666301,"Forhåpningen 25B, Tromsø Domkirke",69.65778,18.94208
+1666303,"Forhåpningen 25E, Tromsø Domkirke",69.657851,18.941987
+1666548,"Forhåpningen 25D, Tromsø Domkirke",69.657771,18.942107
+1696093,"Forhåpningen 18B, Tromsø Domkirke",69.657273,18.94321
+1783096,"Conrad Holmboes veg 1C, Tromsø Domkirke",69.653465,18.948569
+1783097,"Conrad Holmboes veg 1A, Tromsø Domkirke",69.653332,18.948418
+1790529,"Prestvannvegen 6A, Tromsø Domkirke",69.660309,18.948748
+1794234,"Ole Gabrielsens veg 8, Tromsø Domkirke",69.655881,18.939398
+1794236,"Ole Gabrielsens veg 10, Tromsø Domkirke",69.655813,18.939195
+1803735,"Sparre Schneiders veg 4, Tromsø Domkirke",69.657504,18.941207
+1803737,"Sparre Schneiders veg 12, Tromsø Domkirke",69.656882,18.939695
+1803738,"Sparre Schneiders veg 10, Tromsø Domkirke",69.656989,18.939937
+1860394,"Haakon VII's gate 3C, Tromsø Domkirke",69.656493,18.950008
+1860395,"Haakon VII's gate 1C, Tromsø Domkirke",69.656639,18.951737
+1890352,"Grimsbyvegen 50B, Tromsø Domkirke",69.664103,18.955764
+1908927,"Conrad Holmboes veg 41B, Tromsø Domkirke",69.658639,18.951076
+1908929,"Conrad Holmboes veg 41C, Tromsø Domkirke",69.658639,18.951213
+1927946,"Conrad Holmboes veg 24C, Tromsø Domkirke",69.657223,18.948016
+1927947,"Conrad Holmboes veg 24A, Tromsø Domkirke",69.656778,18.947507
+1956240,"Garver Eidissens veg 27B, Tromsø Domkirke",69.664432,18.960266
+1956241,"Garver Eidissens veg 27D, Tromsø Domkirke",69.664494,18.960127
+1956242,"Garver Eidissens veg 27C, Tromsø Domkirke",69.664474,18.960123
+1980650,"Grimsbyvegen 59D, Tromsø Domkirke",69.665315,18.955778
+1980651,"Grimsbyvegen 59C, Tromsø Domkirke",69.665292,18.955911
+1980652,"Grimsbyvegen 59B, Tromsø Domkirke",69.665223,18.955671
+1980653,"Grimsbyvegen 59A, Tromsø Domkirke",69.665206,18.955807
+2001763,"Grimsbyvegen 24A, Tromsø Domkirke",69.66128,18.95069
+2001842,"Grimsbyvegen 24B, Tromsø Domkirke",69.661258,18.950835
+2002700,"Borgåsvegen 6A, Tromsø Domkirke",69.658211,18.951074
+2002702,"Borgåsvegen 6B, Tromsø Domkirke",69.658134,18.950943
+2004490,"Ole Gabrielsens veg 4B, Tromsø Domkirke",69.655511,18.939314
+2029328,"M Urdals veg 14A, Tromsø Domkirke",69.657966,18.944273
+2029738,"Haakon VII's gate 10A, Tromsø Domkirke",69.656278,18.947032
+2046318,"Myrengvegen 12A, Tromsø Domkirke",69.656941,18.945175
+2046320,"Myrengvegen 12B, Tromsø Domkirke",69.656986,18.945018
+2062725,"Myrengvegen 14, Tromsø Domkirke",69.65706,18.945282
+2063549,"Forhåpningen 25F, Tromsø Domkirke",69.658046,18.941866
+2068393,"Grimsbyvegen 24C, Tromsø Domkirke",69.661213,18.95061
+2077412,"Storhaugen 2, Tromsø Domkirke",69.653047,18.948233
+2078210,"Storhaugen 1, Tromsø Domkirke",69.653074,18.947926
+2078211,"Storhaugen 15, Tromsø Domkirke",69.653267,18.949056
+2078212,"Storhaugen 16, Tromsø Domkirke",69.653272,18.949228
+2078213,"Storhaugen 7, Tromsø Domkirke",69.653302,18.949257
+2078214,"Storhaugen 8, Tromsø Domkirke",69.653313,18.949473
+2078216,"Storhaugen 9, Tromsø Domkirke",69.653247,18.949628
+2078227,"Storhaugen 11, Tromsø Domkirke",69.653363,18.949771
+2078228,"Storhaugen 10, Tromsø Domkirke",69.653297,18.949676
+2078244,"Storhaugen 4, Tromsø Domkirke",69.653143,18.948352
+2078245,"Storhaugen 3, Tromsø Domkirke",69.653108,18.948304
+2078402,"Storhaugen 5, Tromsø Domkirke",69.653287,18.948882
+2078570,"Storhaugen 6, Tromsø Domkirke",69.653296,18.949059
+2078572,"Storhaugen 13, Tromsø Domkirke",69.653429,18.949983
+2078574,"Storhaugen 14, Tromsø Domkirke",69.653237,18.948925
+2078575,"Storhaugen 12, Tromsø Domkirke",69.653399,18.949868
+2088376,"Skogåsvegen 31B, Tromsø Domkirke",69.663737,18.956344
+2102947,"Garver Eidissens veg 15A, Tromsø Domkirke",69.663271,18.959545
+2102950,"Garver Eidissens veg 15B, Tromsø Domkirke",69.663346,18.95958
+2107403,"Haakon VII's gate 8C, Tromsø Domkirke",69.656372,18.947403
+2107404,"Haakon VII's gate 8D, Tromsø Domkirke",69.656648,18.947184
+2107405,"Haakon VII's gate 8E, Tromsø Domkirke",69.656607,18.94708
+2183028,"Skogåsvegen 15, Tromsø Domkirke",69.665433,18.957515
+2198071,"Storhaugen 17, Tromsø Domkirke",69.65363,18.950028
+2242730,"Conrad Holmboes veg 53A, Tromsø Domkirke",69.659935,18.952905
+2242732,"Conrad Holmboes veg 53B, Tromsø Domkirke",69.659863,18.952469
+2387869,"Skogåsvegen 1D, Tromsø Domkirke",69.667398,18.960186
+2494130,"Haakon VII's gate 8A, Tromsø Domkirke",69.656442,18.947659
+2494155,"Haakon VII's gate 8B, Tromsø Domkirke",69.656411,18.947511
+2496551,"Ole Gabrielsens veg 14, Tromsø Domkirke",69.655876,18.938594
+2496704,"Haakon VII's gate 8F, Tromsø Domkirke",69.656545,18.946947
+2534389,"P G Rodums veg 7, Tromsø Domkirke",69.6583,18.941453

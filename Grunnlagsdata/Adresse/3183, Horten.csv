@@ -1,0 +1,479 @@
+,Navn,Long,Lat
+37566,"16/1, Borre",59.386722,10.518848
+1064608,"Admiralveien 2B, Horten",59.425632,10.492036
+1064609,"Admiralveien 3, Horten",59.425351,10.493804
+1064611,"Admiralveien 2A, Horten",59.425663,10.491632
+1065116,"Admiralveien 5, Horten",59.425403,10.493947
+1065117,"Admiralveien 7, Horten",59.425524,10.494358
+1065219,"Aschehougs gate 7, Horten",59.420176,10.470242
+1065220,"Aschehougs gate 7A, Horten",59.420388,10.47048
+1065221,"Aschehougs gate 5, Horten",59.420001,10.470622
+1065222,"Aschehougs gate 6, Horten",59.419693,10.470062
+1065223,"Aschehougs gate 10, Horten",59.419924,10.469473
+1065224,"Aschehougs gate 11A, Horten",59.420691,10.469912
+1065225,"Aschehougs gate 8, Horten",59.419813,10.46975
+1065226,"Aschehougs gate 9, Horten",59.420369,10.469845
+1065231,"Aschehougs gate 3, Horten",59.419717,10.471121
+1065232,"Aschehougs gate 4, Horten",59.419519,10.470302
+1065233,"Aschehougs gate 1, Horten",59.419551,10.471431
+1065234,"Aschehougs gate 2, Horten",59.419487,10.470741
+1065339,"Bankløkka 7, Horten",59.421471,10.479621
+1065340,"Bankløkka 8, Horten",59.422241,10.477452
+1065343,"Bankløkka 9C, Horten",59.42183,10.47962
+1065344,"Bankløkka 10, Horten",59.421657,10.478237
+1065345,"Bankløkka 9A, Horten",59.421623,10.479663
+1065346,"Bankløkka 9B, Horten",59.421722,10.47965
+1065422,"Bankløkka 14, Horten",59.422424,10.478729
+1065423,"Bankløkka 15, Horten",59.422397,10.479521
+1065424,"Bankløkka 11, Horten",59.422233,10.479708
+1065425,"Bankløkka 13, Horten",59.422236,10.479426
+1065541,"Aschehougs gate 19B, Horten",59.421199,10.467889
+1065542,"Aschehougs gate 19C, Horten",59.421327,10.467684
+1065543,"Aschehougs gate 18, Horten",59.420386,10.468295
+1065544,"Aschehougs gate 19, Horten",59.420906,10.46756
+1065545,"Aschehougs gate 22, Horten",59.420838,10.466411
+1065546,"Aschehougs gate 24, Horten",59.420996,10.466013
+1065547,"Aschehougs gate 20, Horten",59.420578,10.46764
+1065548,"Aschehougs gate 21, Horten",59.420999,10.467299
+1065549,"Aschehougs gate 13, Horten",59.420663,10.469188
+1065550,"Aschehougs gate 13A, Horten",59.420916,10.469076
+1065551,"Aschehougs gate 11B, Horten",59.420567,10.469601
+1065552,"Aschehougs gate 12, Horten",59.420034,10.469214
+1065553,"Aschehougs gate 16, Horten",59.420301,10.468661
+1065554,"Aschehougs gate 17, Horten",59.420847,10.468086
+1065555,"Aschehougs gate 14, Horten",59.420154,10.46899
+1065558,"Aschehougs gate 32, Horten",59.422056,10.463556
+1065564,"Aschehougs gate 26B, Horten",59.421322,10.464952
+1065565,"Aschehougs gate 27, Horten",59.422208,10.464426
+1065566,"Aschehougs gate 25, Horten",59.422418,10.464876
+1065567,"Aschehougs gate 26, Horten",59.421228,10.465282
+1065568,"Aschehougs gate 30, Horten",59.421945,10.463886
+1065569,"Aschehougs gate 31, Horten",59.422261,10.463706
+1065570,"Aschehougs gate 29, Horten",59.422265,10.464111
+1065612,"Bromsveien 9, Horten",59.422356,10.487098
+1065613,"Bromsveien 11, Horten",59.422529,10.486876
+1065614,"Bromsveien 7, Horten",59.422241,10.487453
+1065615,"Bromsveien 8, Horten",59.423592,10.486623
+1065616,"Bromsveien 17, Horten",59.423006,10.485998
+1065617,"Bromsveien 19, Horten",59.422912,10.484796
+1065618,"Bromsveien 13, Horten",59.422533,10.486542
+1065619,"Bromsveien 15, Horten",59.422477,10.485905
+1065620,"Bromsveien 1, Horten",59.421812,10.48829
+1065621,"Bromsveien 3, Horten",59.421961,10.487856
+1065624,"Bromsveien 6A, Horten",59.422295,10.48847
+1065625,"Bromsveien 6B, Horten",59.422565,10.488446
+1065626,"Bromsveien 4, Horten",59.421959,10.488825
+1065627,"Bromsveien 5, Horten",59.422049,10.486432
+1065628,"Bromsveien 29, Horten",59.421858,10.482687
+1065629,"Bromsveien 31, Horten",59.422507,10.479332
+1065630,"Bromsveien 23, Horten",59.42288,10.484442
+1065631,"Bromsveien 25, Horten",59.422589,10.483971
+1065649,"Rolv Wesenlunds vei 9, Horten",59.42247,10.47785
+1066140,"Gunnerødbakken 6, Horten",59.41945,10.471709
+1066142,"Gunnerødbakken 9, Horten",59.419765,10.471634
+1066147,"Gunnerødbakken 3, Horten",59.419932,10.471941
+1066148,"Gunnerødbakken 3A, Horten",59.420143,10.471527
+1066151,"Gunnerødbakken 5A, Horten",59.41992,10.471412
+1066152,"Gunnerødbakken 5B, Horten",59.42004,10.471135
+1066153,"Gunnerødbakken 3B, Horten",59.420319,10.471077
+1066154,"Gunnerødbakken 4, Horten",59.419697,10.472089
+1066618,"Tivoliveien 3C, Horten",59.424155,10.492341
+1066619,"Tivoliveien 3D, Horten",59.424163,10.49243
+1066620,"Tivoliveien 3A, Horten",59.424139,10.492147
+1066621,"Tivoliveien 3B, Horten",59.424147,10.492235
+1066622,"Tivoliveien 5A, Horten",59.424205,10.492696
+1066623,"Tivoliveien 5B, Horten",59.424222,10.492767
+1066624,"Tivoliveien 4A, Horten",59.424534,10.492164
+1066625,"Tivoliveien 4B, Horten",59.424553,10.492094
+1066626,"Tivoliveien 1A, Horten",59.424047,10.491631
+1066627,"Tivoliveien 1B, Horten",59.424055,10.491702
+1066630,"Tivoliveien 2A, Horten",59.424385,10.491832
+1066631,"Tivoliveien 2B, Horten",59.424405,10.491718
+1066632,"Tivoliveien 1C, Horten",59.424053,10.491825
+1066633,"Tivoliveien 1D, Horten",59.424061,10.491914
+1066634,"Tivoliveien 11A, Horten",59.424702,10.494022
+1066635,"Tivoliveien 11B, Horten",59.424744,10.494253
+1066636,"Tivoliveien 10A, Horten",59.424993,10.493665
+1066637,"Tivoliveien 10B, Horten",59.425036,10.493843
+1066638,"Tivoliveien 14A, Horten",59.425063,10.494637
+1066639,"Tivoliveien 14B, Horten",59.425115,10.494816
+1066640,"Tivoliveien 12A, Horten",59.425024,10.49416
+1066641,"Tivoliveien 12B, Horten",59.425076,10.494321
+1066642,"Tivoliveien 6A, Horten",59.424702,10.492471
+1066643,"Tivoliveien 6B, Horten",59.42472,10.492419
+1066644,"Tivoliveien 5C, Horten",59.424221,10.492873
+1066645,"Tivoliveien 5D, Horten",59.424229,10.492961
+1066646,"Tivoliveien 8B, Horten",59.425005,10.493418
+1066647,"Tivoliveien 9, Horten",59.424658,10.493104
+1066648,"Tivoliveien 7, Horten",59.424395,10.493339
+1066649,"Tivoliveien 8A, Horten",59.424963,10.493152
+1066682,"Nedre Keisemark 1E, Horten",59.421159,10.473845
+1066683,"Nedre Keisemark 2, Horten",59.421155,10.475025
+1066684,"Nedre Keisemark 1C, Horten",59.420944,10.474576
+1066685,"Nedre Keisemark 1D, Horten",59.421074,10.474211
+1066686,"Nedre Keisemark 5, Horten",59.421616,10.473107
+1066687,"Nedre Keisemark 6, Horten",59.421525,10.474002
+1066688,"Nedre Keisemark 3, Horten",59.421487,10.473436
+1066689,"Nedre Keisemark 4, Horten",59.421442,10.474245
+1066694,"Nedre Keisemark 1A, Horten",59.420595,10.475248
+1066695,"Nedre Keisemark 1B, Horten",59.420852,10.474765
+1066698,"Nedre Keisemark 15, Horten",59.422309,10.47141
+1066699,"Nedre Keisemark 17, Horten",59.422807,10.470215
+1066700,"Nedre Keisemark 12, Horten",59.422431,10.471767
+1066701,"Nedre Keisemark 13, Horten",59.422152,10.471808
+1066702,"Nedre Keisemark 18C, Horten",59.423512,10.469082
+1066703,"Nedre Keisemark 19, Horten",59.422928,10.469868
+1066704,"Nedre Keisemark 18, Horten",59.423059,10.470208
+1066705,"Nedre Keisemark 18B, Horten",59.423343,10.469727
+1066706,"Nedre Keisemark 8A, Horten",59.421962,10.473492
+1066707,"Nedre Keisemark 8B, Horten",59.421867,10.473171
+1066708,"Nedre Keisemark 7, Horten",59.421746,10.472795
+1066709,"Nedre Keisemark 8, Horten",59.421682,10.473638
+1066710,"Nedre Keisemark 10B, Horten",59.422271,10.472395
+1066711,"Nedre Keisemark 11, Horten",59.422023,10.47212
+1066712,"Nedre Keisemark 9, Horten",59.421884,10.472449
+1066713,"Nedre Keisemark 10, Horten",59.422107,10.472635
+1066714,"Mellom Keisemark 14, Horten",59.421765,10.471034
+1066715,"Mellom Keisemark 16, Horten",59.421904,10.470669
+1066716,"Mellom Keisemark 10, Horten",59.421479,10.471709
+1066717,"Mellom Keisemark 12, Horten",59.421609,10.471379
+1066718,"Mellom Keisemark 24, Horten",59.422477,10.469267
+1066719,"Mellom Keisemark 26, Horten",59.422588,10.468954
+1066720,"Mellom Keisemark 18, Horten",59.422107,10.470185
+1066721,"Mellom Keisemark 20, Horten",59.422228,10.469873
+1066722,"Mellom Keisemark 2C, Horten",59.42069,10.473983
+1066723,"Mellom Keisemark 2D, Horten",59.420891,10.473727
+1066724,"Mellom Keisemark 2A, Horten",59.420485,10.474679
+1066725,"Mellom Keisemark 2B, Horten",59.420622,10.474438
+1066726,"Mellom Keisemark 8, Horten",59.421333,10.471949
+1066727,"Mellom Keisemark 4, Horten",59.421066,10.473294
+1066728,"Mellom Keisemark 6A, Horten",59.421179,10.472859
+1066737,"Mellom Keisemark 32, Horten",59.423004,10.46795
+1066738,"Mellom Keisemark 32B, Horten",59.423154,10.468133
+1066739,"Mellom Keisemark 28, Horten",59.422736,10.468608
+1066740,"Mellom Keisemark 30, Horten",59.422874,10.468315
+1066743,"Mellom Keisemark 34, Horten",59.423154,10.467392
+1066744,"Mellom Keisemark 34B, Horten",59.422967,10.467191
+1066762,"Øvre Keisemark 24A, Horten",59.422058,10.467363
+1066763,"Øvre Keisemark 24B, Horten",59.421666,10.467892
+1066764,"Øvre Keisemark 23, Horten",59.42216,10.468654
+1066765,"Øvre Keisemark 24, Horten",59.421981,10.467835
+1066766,"Øvre Keisemark 26B, Horten",59.42226,10.467812
+1066767,"Øvre Keisemark 26A, Horten",59.422085,10.468192
+1066768,"Øvre Keisemark 24C, Horten",59.421782,10.467985
+1066769,"Øvre Keisemark 25A, Horten",59.422338,10.46838
+1066770,"Øvre Keisemark 18B, Horten",59.421394,10.469713
+1066771,"Øvre Keisemark 19, Horten",59.421892,10.469347
+1066772,"Øvre Keisemark 18, Horten",59.421514,10.469472
+1066773,"Øvre Keisemark 18A, Horten",59.421148,10.469192
+1066774,"Øvre Keisemark 22A, Horten",59.421589,10.468329
+1066775,"Øvre Keisemark 22B, Horten",59.421388,10.468691
+1066776,"Øvre Keisemark 20, Horten",59.421705,10.46918
+1066777,"Øvre Keisemark 22, Horten",59.421871,10.468817
+1066778,"Øvre Keisemark 36, Horten",59.422659,10.465062
+1066779,"Øvre Keisemark 38, Horten",59.422666,10.464428
+1066780,"Øvre Keisemark 34, Horten",59.42261,10.46543
+1066781,"Øvre Keisemark 35, Horten",59.422796,10.466443
+1066782,"Øvre Keisemark 40B, Horten",59.422531,10.463682
+1066783,"Øvre Keisemark 40C, Horten",59.422348,10.463163
+1066784,"Øvre Keisemark 39, Horten",59.422832,10.465651
+1066785,"Øvre Keisemark 40A, Horten",59.422598,10.464037
+1066786,"Øvre Keisemark 30A, Horten",59.422328,10.466564
+1066787,"Øvre Keisemark 30B, Horten",59.422274,10.46657
+1066788,"Øvre Keisemark 27, Horten",59.422419,10.46803
+1066789,"Øvre Keisemark 28B, Horten",59.422471,10.466922
+1066790,"Øvre Keisemark 32, Horten",59.42253,10.466149
+1066791,"Øvre Keisemark 33, Horten",59.422792,10.466813
+1066792,"Øvre Keisemark 31, Horten",59.422677,10.467425
+1066793,"Øvre Keisemark 31B, Horten",59.422801,10.467554
+1066794,"Øvre Keisemark 1A, Horten",59.420467,10.47311
+1066795,"Øvre Keisemark 1B, Horten",59.420626,10.473293
+1066798,"Øvre Keisemark 2, Horten",59.420408,10.471979
+1066799,"Øvre Keisemark 3, Horten",59.420728,10.472222
+1066800,"Øvre Keisemark 1C, Horten",59.420793,10.472842
+1066801,"Øvre Keisemark 1D, Horten",59.420562,10.472603
+1066802,"Nedre Keisemark 25C, Horten",59.424304,10.465733
+1066803,"Nedre Keisemark 25D, Horten",59.424421,10.466478
+1066804,"Nedre Keisemark 25A, Horten",59.424025,10.466584
+1066805,"Nedre Keisemark 25B, Horten",59.424209,10.466169
+1066808,"Nedre Keisemark 25E, Horten",59.423794,10.467017
+1066809,"Nedre Keisemark 26, Horten",59.424397,10.467041
+1066810,"Øvre Keisemark 13, Horten",59.42143,10.470473
+1066811,"Øvre Keisemark 14, Horten",59.421171,10.470391
+1066812,"Øvre Keisemark 10, Horten",59.42095,10.470857
+1066813,"Øvre Keisemark 11, Horten",59.421301,10.470784
+1066814,"Øvre Keisemark 16A, Horten",59.421115,10.469736
+1066815,"Øvre Keisemark 17, Horten",59.421772,10.469677
+1066816,"Øvre Keisemark 15, Horten",59.421587,10.470145
+1066817,"Øvre Keisemark 16, Horten",59.4213,10.470079
+1066818,"Øvre Keisemark 5A, Horten",59.421124,10.472187
+1066819,"Øvre Keisemark 6A, Horten",59.420619,10.471548
+1066820,"Øvre Keisemark 4, Horten",59.420579,10.471899
+1066821,"Øvre Keisemark 5, Horten",59.420876,10.471841
+1066822,"Øvre Keisemark 8, Horten",59.420848,10.471135
+1066823,"Øvre Keisemark 9, Horten",59.421162,10.471148
+1066824,"Øvre Keisemark 6B, Horten",59.420744,10.471358
+1066825,"Øvre Keisemark 7, Horten",59.421024,10.471477
+1066826,"Kjærlighetsstien 2, Horten",59.42466,10.466841
+1066827,"Kjærlighetsstien 4, Horten",59.424419,10.4675
+1066830,"Kjærlighetsstien 8A, Horten",59.424018,10.467994
+1066831,"Kjærlighetsstien 8B, Horten",59.42399,10.468081
+1066832,"Kjærlighetsstien 6A, Horten",59.424094,10.467609
+1066833,"Kjærlighetsstien 6B, Horten",59.424084,10.467697
+1066850,"Kjærlighetsstien 12B, Horten",59.423819,10.468884
+1066851,"Kjærlighetsstien 14, Horten",59.423762,10.469181
+1066852,"Kjærlighetsstien 10, Horten",59.423932,10.468466
+1066853,"Kjærlighetsstien 12A, Horten",59.423848,10.46878
+1066854,"Kjærlighetsstien 20, Horten",59.423334,10.470502
+1066856,"Kjærlighetsstien 16, Horten",59.423622,10.469634
+1066857,"Kjærlighetsstien 18, Horten",59.42351,10.470052
+1066866,"Øvre Keisemark 43, Horten",59.422868,10.464842
+1066868,"Øvre Keisemark 41, Horten",59.422836,10.465246
+1066870,"Øvre Keisemark 47, Horten",59.422805,10.464011
+1066872,"Øvre Keisemark 45, Horten",59.422873,10.464419
+1067007,"Nedre Keisemark 20, Horten",59.42356,10.468027
+1067008,"Nedre Keisemark 21, Horten",59.423076,10.469539
+1067009,"Nedre Keisemark 24, Horten",59.424054,10.467202
+1067010,"Nedre Keisemark 25, Horten",59.423347,10.468599
+1067011,"Nedre Keisemark 22, Horten",59.423789,10.467614
+1067012,"Nedre Keisemark 23, Horten",59.423224,10.469158
+1067255,"Lystlunden 1, Horten",59.418435,10.488318
+1067345,"Løkkegata 19A, Horten",59.421028,10.479021
+1067348,"Løkkegata 21B, Horten",59.421135,10.477562
+1067350,"Løkkegata 19B, Horten",59.421042,10.478616
+1067351,"Løkkegata 21A, Horten",59.421086,10.477948
+1067368,"Nedre vei 11D, Horten",59.427761,10.489591
+1067369,"Nedre vei 11E, Horten",59.427905,10.489615
+1067370,"Nedre vei 11B, Horten",59.427474,10.489614
+1067371,"Nedre vei 11C, Horten",59.427618,10.489585
+1067372,"Nedre vei 18, Horten",59.428318,10.490356
+1067373,"Nedre vei 20, Horten",59.428839,10.491172
+1067374,"Nedre vei 14, Horten",59.427659,10.489128
+1067375,"Nedre vei 16, Horten",59.428144,10.489132
+1067376,"Nedre vei 3, Horten",59.42453,10.489966
+1067377,"Nedre vei 4A, Horten",59.424522,10.489308
+1067378,"Nedre vei 1, Horten",59.423894,10.490056
+1067379,"Nedre vei 2, Horten",59.423093,10.489369
+1067380,"Nedre vei 10, Horten",59.428263,10.483426
+1067381,"Nedre vei 11A, Horten",59.427338,10.489678
+1067382,"Nedre vei 8, Horten",59.426733,10.488418
+1067383,"Nedre vei 9, Horten",59.426847,10.490186
+1067392,"Nedre vei 21, Horten",59.428355,10.491856
+1067393,"Nedre vei 22, Horten",59.429747,10.491847
+1067394,"Nedre vei 29, Horten",59.442462,10.490573
+1067396,"Nedre vei 26, Horten",59.430797,10.491283
+1067397,"Nedre vei 27, Horten",59.433392,10.493596
+1067510,"Oregata 1, Horten",59.421396,10.489382
+1067845,"Røreåsveien 14, Horten",59.419344,10.468338
+1067846,"Røreåsveien 16, Horten",59.419437,10.468025
+1067847,"Røreåsveien 8, Horten",59.41935,10.469413
+1067848,"Røreåsveien 10, Horten",59.419381,10.468992
+1067853,"Røreåsveien 3, Horten",59.419638,10.468562
+1067854,"Røreåsveien 4, Horten",59.419275,10.470451
+1067855,"Røreåsveien 1, Horten",59.419572,10.469652
+1067856,"Røreåsveien 2, Horten",59.419189,10.470887
+1067857,"Røreåsveien 6, Horten",59.4193,10.469869
+1067858,"Røreåsveien 7, Horten",59.419746,10.467686
+1067859,"Røreåsveien 4A, Horten",59.419292,10.470312
+1067860,"Røreåsveien 5, Horten",59.419678,10.468211
+1068308,"Strandpromenaden 52, Horten",59.427015,10.465867
+1068309,"Strandpromenaden 56, Horten",59.429817,10.45869
+1068322,"Strandpromenaden 29, Horten",59.419816,10.488726
+1068323,"Strandpromenaden 30, Horten",59.422006,10.485496
+1068324,"Strandpromenaden 21, Horten",59.415378,10.489347
+1068325,"Strandpromenaden 23, Horten",59.415474,10.489668
+1068326,"Strandpromenaden 49, Horten",59.422932,10.47193
+1068327,"Strandpromenaden 50, Horten",59.42589,10.466947
+1068328,"Strandpromenaden 40, Horten",59.421578,10.482816
+1068329,"Strandpromenaden 45, Horten",59.422007,10.474322
+1068350,"Stenersens vei 9, Horten",59.420568,10.464919
+1068351,"Stenersens vei 11, Horten",59.420742,10.464592
+1068352,"Stenersens vei 7, Horten",59.420646,10.465134
+1068353,"Stenersens vei 8, Horten",59.421326,10.464564
+1068354,"Stenersens vei 17, Horten",59.421119,10.463832
+1068355,"Stenersens vei 19, Horten",59.421223,10.464119
+1068356,"Stenersens vei 13, Horten",59.421018,10.464663
+1068357,"Stenersens vei 15, Horten",59.420953,10.46416
+1068358,"Stenersens vei 2A, Horten",59.420992,10.465501
+1068359,"Stenersens vei 3A, Horten",59.420451,10.465707
+1068360,"Stenersens vei 1, Horten",59.420447,10.466077
+1068361,"Stenersens vei 2, Horten",59.420838,10.465653
+1068362,"Stenersens vei 4, Horten",59.4211,10.465011
+1068363,"Stenersens vei 5, Horten",59.420641,10.465557
+1068364,"Stenersens vei 3B, Horten",59.420321,10.465296
+1068370,"Stenersens vei 23, Horten",59.421026,10.463335
+1068372,"Stenersens vei 25B, Horten",59.421331,10.463674
+1068475,"Tomtegata 4, Horten",59.422058,10.480105
+1068476,"Tomtegata 6, Horten",59.422299,10.480204
+1068478,"Tomtegata 2, Horten",59.421529,10.480047
+1068496,"Tomtegata 8, Horten",59.42256,10.48018
+1068569,"Øvre vei 8D, Horten",59.427779,10.490687
+1068570,"Øvre vei 8E, Horten",59.427911,10.490643
+1068575,"Øvre vei 7C, Horten",59.427626,10.491207
+1068576,"Øvre vei 7D, Horten",59.427626,10.491207
+1068577,"Øvre vei 7A, Horten",59.427375,10.491245
+1068578,"Øvre vei 7B, Horten",59.427626,10.491207
+1068579,"Øvre vei 8B, Horten",59.42746,10.490719
+1068580,"Øvre vei 8C, Horten",59.427632,10.490661
+1068581,"Øvre vei 7E, Horten",59.427626,10.491207
+1068582,"Øvre vei 8A, Horten",59.427354,10.490676
+1068604,"Øvre vei 3, Horten",59.424717,10.491079
+1068605,"Øvre vei 4, Horten",59.424377,10.49059
+1068606,"Øvre vei 2, Horten",59.423447,10.490636
+1068655,"Wilhelm Klems gate 4, Horten",59.420355,10.467835
+1068656,"Wilhelm Klems gate 5, Horten",59.419977,10.4687
+1068657,"Wilhelm Klems gate 2A, Horten",59.420193,10.467881
+1068658,"Wilhelm Klems gate 3, Horten",59.419786,10.468991
+1068661,"Wilhelm Klems gate 7, Horten",59.420116,10.468389
+1068663,"Vollveien 6B, Horten",59.427659,10.492231
+1068664,"Vollveien 6C, Horten",59.427659,10.492231
+1068665,"Vollveien 5C, Horten",59.426276,10.492668
+1068666,"Vollveien 6A, Horten",59.427659,10.492231
+1068667,"Wilhelm Klems gate 1, Horten",59.419665,10.469286
+1068668,"Wilhelm Klems gate 2, Horten",59.419977,10.467925
+1068669,"Vollveien 6D, Horten",59.427659,10.492231
+1068670,"Vollveien 6E, Horten",59.427659,10.492231
+1068672,"Wistings vei 1A, Horten",59.420487,10.466484
+1068675,"Wistings vei 1D, Horten",59.420165,10.465589
+1068676,"Wistings vei 2, Horten",59.420706,10.467005
+1068677,"Wistings vei 1B, Horten",59.420265,10.466281
+1068678,"Wistings vei 1C, Horten",59.420206,10.465943
+1068703,"Vollveien 1, Horten",59.425216,10.493058
+1068704,"Vollveien 2, Horten",59.424884,10.492267
+1068707,"Vollveien 5A, Horten",59.426134,10.492679
+1068708,"Vollveien 5B, Horten",59.426181,10.492672
+1068709,"Vollveien 3, Horten",59.425724,10.492958
+1068710,"Vollveien 4, Horten",59.426343,10.491891
+1068744,"Wistings vei 8, Horten",59.419985,10.46722
+1068748,"Wistings vei 10, Horten",59.419806,10.467142
+1068749,"Wistings vei 3C, Horten",59.419831,10.466526
+1068750,"Wistings vei 4, Horten",59.420489,10.467154
+1068751,"Wistings vei 3A, Horten",59.420066,10.466431
+1068752,"Wistings vei 3B, Horten",59.419927,10.465949
+1068753,"Wistings vei 6, Horten",59.420175,10.467105
+1068828,"Veggbakken 1, Horten",59.422137,10.465956
+1068831,"Veggbakken 1C, Horten",59.422316,10.466034
+1068832,"Veggbakken 2, Horten",59.422394,10.465421
+1068833,"Veggbakken 1A, Horten",59.422316,10.466034
+1068834,"Veggbakken 1B, Horten",59.422316,10.466034
+1068851,"Veggbakken 5A, Horten",59.422042,10.466393
+1068852,"Veggbakken 5B, Horten",59.421918,10.466229
+1068853,"Veggbakken 3, Horten",59.421987,10.465703
+1068854,"Veggbakken 4, Horten",59.422126,10.465321
+1068857,"Veggbakken 7, Horten",59.421725,10.465833
+1068968,"Nedre Keisemark 15A, Horten",59.422351,10.470865
+1069082,"Bankløkka 12, Horten",59.421939,10.478743
+1069254,"Bromsveien 6D, Horten",59.423322,10.487149
+1069270,"Aschehougs gate 23C, Horten",59.421413,10.467264
+1069271,"Aschehougs gate 23A, Horten",59.421065,10.46687
+1069297,"Aschehougs gate 23B, Horten",59.421263,10.467029
+1069298,"Aschehougs gate 23D, Horten",59.421463,10.466808
+1069299,"Aschehougs gate 23E, Horten",59.421313,10.466502
+1069300,"Aschehougs gate 23F, Horten",59.421721,10.467031
+1069324,"Moloveien 5, Horten",59.418125,10.493545
+1069377,"Strandpromenaden 47, Horten",59.42244,10.473475
+1069673,"Admiralveien 1, Horten",59.425264,10.491156
+1069902,"Gunnerødbakken 1, Horten",59.420118,10.472359
+1069905,"Øvre Keisemark 37A, Horten",59.422877,10.465979
+1069906,"Øvre Keisemark 37B, Horten",59.422873,10.466064
+1069915,"Øvre Keisemark 29A, Horten",59.422548,10.467736
+1069916,"Øvre Keisemark 29B, Horten",59.422672,10.467865
+1070070,"Admiralveien 9A, Horten",59.42572,10.493714
+1070075,"Admiralveien 9B, Horten",59.425844,10.493861
+1070076,"Admiralveien 9C, Horten",59.425954,10.493689
+1070104,"Admiralveien 4, Horten",59.425632,10.493303
+1070305,"Øvre vei 5B, Horten",59.42612,10.491775
+1070306,"Øvre vei 5A, Horten",59.425743,10.490895
+1070317,"Gunnerødbakken 2B, Horten",59.419774,10.472445
+1070318,"Gunnerødbakken 2A, Horten",59.41968,10.472776
+1070361,"Løkkegata 23, Horten",59.421304,10.476865
+1070483,"Nedre vei 1A, Horten",59.417468,10.496696
+1070582,"Nedre vei 7E, Horten",59.425077,10.490267
+1070583,"Nedre vei 7F, Horten",59.425077,10.490267
+1070584,"Nedre vei 7C, Horten",59.425077,10.490267
+1070585,"Nedre vei 7D, Horten",59.425077,10.490267
+1070588,"Nedre vei 7G, Horten",59.425077,10.490267
+1070590,"Nedre vei 5E, Horten",59.425046,10.489842
+1070591,"Nedre vei 5F, Horten",59.425046,10.489842
+1070592,"Nedre vei 5C, Horten",59.425046,10.489842
+1070593,"Nedre vei 5D, Horten",59.425046,10.489842
+1070594,"Nedre vei 7A, Horten",59.425041,10.490283
+1070595,"Nedre vei 7B, Horten",59.425077,10.490267
+1070596,"Nedre vei 5G, Horten",59.425046,10.489842
+1070597,"Nedre vei 5H, Horten",59.425046,10.489842
+1070622,"Øvre Keisemark 21A, Horten",59.422031,10.468983
+1070623,"Øvre Keisemark 21B, Horten",59.422348,10.469543
+1070634,"Nedre vei 5A, Horten",59.425037,10.489842
+1070635,"Nedre vei 5B, Horten",59.425046,10.489842
+1070742,"Kommandørkaptein Klincks vei 9, Horten",59.425421,10.486862
+1070753,"Kommandørkaptein Klincks vei 3, Horten",59.425881,10.48905
+1070754,"Kommandørkaptein Klincks vei 7, Horten",59.426155,10.487846
+1070755,"Kommandørkaptein Klincks vei 1, Horten",59.425978,10.488402
+1070756,"Kommandørkaptein Klincks vei 2, Horten",59.423928,10.487837
+1070767,"Kommandørkaptein Klincks vei 11, Horten",59.424913,10.487316
+1070819,"Nedre vei 30, Horten",59.433145,10.490833
+1070823,"Nedre vei 28, Horten",59.431289,10.491345
+1070825,"Nedre vei 32, Horten",59.432061,10.492143
+1070909,"Nedre vei 24, Horten",59.430518,10.491969
+1071074,"Øvre Keisemark 12B, Horten",59.420988,10.470585
+1071077,"Øvre Keisemark 12A, Horten",59.421051,10.47065
+1071079,"Aschehougs gate 23G, Horten",59.421779,10.466663
+1071163,"Nedre Keisemark 18A, Horten",59.423297,10.469849
+1071233,"Nedre vei 15, Horten",59.427879,10.490266
+1071236,"Lystlunden 3, Horten",59.418175,10.488236
+1071243,"Strandpromenaden 48, Horten",59.425488,10.468216
+1442287,"Øvre Keisemark 28A, Horten",59.422369,10.467284
+1449434,"Øvre Keisemark 37C, Horten",59.422974,10.46616
+1538085,"Øvre Keisemark 25B, Horten",59.422396,10.468451
+1538888,"Øvre Keisemark 37D, Horten",59.422939,10.466033
+1956685,"Mellom Keisemark 32A, Horten",59.423127,10.468208
+1958910,"Nedre vei 13, Horten",59.427881,10.490039
+1958912,"Kaja Eides vei 4, Horten",59.427603,10.490174
+1958914,"Kaja Eides vei 2, Horten",59.427404,10.490066
+1958916,"Kaja Eides vei 6, Horten",59.42741,10.490288
+1971491,"Nedre vei 40, Horten",59.443516,10.488068
+1973717,"Bromsveien 29D, Horten",59.422618,10.481334
+1973719,"Bromsveien 29C, Horten",59.422626,10.481527
+1973720,"Bromsveien 29B, Horten",59.422663,10.482103
+1973721,"Bromsveien 29A, Horten",59.422676,10.482297
+1986627,"Stenersens vei 25A, Horten",59.421298,10.463535
+2040801,"Øvre Keisemark 2A, Horten",59.420266,10.472484
+2040886,"Strandpromenaden 33, Horten",59.420838,10.488199
+2040887,"Strandpromenaden 35, Horten",59.420979,10.487889
+2048188,"Nedre vei 22P, Horten",59.430565,10.490437
+2048193,"Nedre vei 16P, Horten",59.428762,10.488961
+2061970,"Nedre vei 4B, Horten",59.424557,10.489299
+2065473,"Kaja Eides vei 10, Horten",59.427637,10.491627
+2076899,"Vollveien 5F, Horten",59.42649,10.492653
+2076902,"Vollveien 5G, Horten",59.426532,10.492646
+2076905,"Vollveien 5D, Horten",59.426323,10.492667
+2076908,"Vollveien 5E, Horten",59.42641,10.492669
+2076920,"Vollveien 5H, Horten",59.426607,10.492641
+2076922,"Vollveien 5I, Horten",59.426641,10.492628
+2083549,"Rolv Wesenlunds vei 8F, Horten",59.422399,10.47617
+2083551,"Rolv Wesenlunds vei 10A, Horten",59.422592,10.476491
+2083579,"Rolv Wesenlunds vei 12B, Horten",59.422478,10.477128
+2083580,"Rolv Wesenlunds vei 12C, Horten",59.422602,10.477185
+2083581,"Rolv Wesenlunds vei 10B, Horten",59.422744,10.476623
+2083582,"Rolv Wesenlunds vei 12A, Horten",59.422397,10.477113
+2083696,"Rolv Wesenlunds vei 8E, Horten",59.422437,10.476172
+2083698,"Rolv Wesenlunds vei 8D, Horten",59.422417,10.476347
+2083700,"Rolv Wesenlunds vei 8C, Horten",59.422401,10.47654
+2083702,"Rolv Wesenlunds vei 8B, Horten",59.422393,10.476659
+2083704,"Rolv Wesenlunds vei 8A, Horten",59.42235,10.476662
+2104252,"Vollveien 8, Horten",59.427889,10.491781
+2104258,"Vollveien 10, Horten",59.427879,10.491583
+2104260,"Kaja Eides vei 8, Horten",59.427387,10.491642
+2104261,"Kaja Eides vei 12, Horten",59.42764,10.49184
+2104263,"Kaja Eides vei 14, Horten",59.427395,10.49188
+2117752,"Bromsveien 32, Horten",59.423136,10.47937
+2236285,"Rolv Wesenlunds vei 6, Horten",59.422595,10.475476
+2370969,"Mellom Keisemark 6B, Horten",59.421286,10.472372
+2370995,"Mellom Keisemark 6C, Horten",59.421301,10.472369
+2404270,"Øvre vei 1A, Horten",59.422474,10.491685
+2408432,"Øvre vei 1B, Horten",59.422907,10.492143
+2447545,"Nedre vei 23, Horten",59.429265,10.492407
+2535836,"Aschehougs gate 28A, Horten",59.421831,10.464357
+2535837,"Aschehougs gate 28B, Horten",59.421783,10.463896
+2546617,"Aschehougs gate 15, Horten",59.420731,10.468451
+2546619,"Aschehougs gate 15A, Horten",59.42069,10.468449

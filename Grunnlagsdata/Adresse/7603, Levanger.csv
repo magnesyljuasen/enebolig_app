@@ -1,0 +1,822 @@
+,Navn,Long,Lat
+644293,"Eidsbotnvegen 52, Alstadhaug",63.737768,11.258892
+644296,"Nordsivegen 16B, Levanger",63.749695,11.287956
+644373,"Eplehagen 1C, Levanger",63.746588,11.281509
+1373364,"Fagerstrandvegen 7B, Levanger",63.746366,11.288497
+1639785,"Jacob Schives veg 18B, Levanger",63.751694,11.277189
+1639787,"Jacob Schives veg 18C, Levanger",63.751727,11.277313
+1641953,"Berglivegen 3B, Levanger",63.748234,11.281962
+1689187,"Staupslia 46, Levanger",63.750037,11.27009
+1689188,"Staupslia 48, Levanger",63.74983,11.269526
+1689240,"Staupslia 42, Levanger",63.749761,11.272804
+1734321,"Eidsbotnvegen 10A, Levanger",63.746159,11.28932
+1779105,"Nordsivegen 4A, Levanger",63.748625,11.28583
+1813695,"Staupslia 34B, Levanger",63.748017,11.277181
+1846525,"Staupslia 17E, Levanger",63.747329,11.287886
+1846526,"Staupslia 17N, Levanger",63.747325,11.287752
+1846527,"Staupslia 17M, Levanger",63.747247,11.287743
+1846528,"Staupslia 17V, Levanger",63.747246,11.287626
+1846529,"Staupslia 17D, Levanger",63.747248,11.287873
+1846530,"Staupslia 17X, Levanger",63.747367,11.288209
+1846565,"Staupslia 17F, Levanger",63.74737,11.288439
+1846717,"Staupslia 17R, Levanger",63.747299,11.288011
+1846780,"Staupslia 17L, Levanger",63.747169,11.287741
+1846887,"Staupslia 17Æ, Levanger",63.747258,11.28799
+1940492,"Staupslia 21B, Levanger",63.747475,11.286596
+1940605,"Staupslia 21C, Levanger",63.747527,11.286578
+1940629,"Staupslia 21D, Levanger",63.747512,11.286417
+1960052,"Sørlia 7B, Alstadhaug",63.736702,11.253834
+1960079,"Sørlia 16A, Alstadhaug",63.736764,11.252501
+1960162,"Sørlia 8A, Alstadhaug",63.737014,11.253976
+1960163,"Sørlia 6A, Alstadhaug",63.73704,11.254116
+1960199,"Sørlia 14A, Alstadhaug",63.73678,11.252689
+1960200,"Sørlia 9B, Alstadhaug",63.736554,11.252856
+1966309,"Nordsivegen 26C, Levanger",63.752296,11.290561
+1972119,"Byborgvegen 10B, Levanger",63.747769,11.294411
+1974271,"Sørlia 11B, Alstadhaug",63.736528,11.252687
+1978833,"Staupslia 38G, Levanger",63.749325,11.272433
+1978834,"Staupslia 38J, Levanger",63.749266,11.271974
+1978915,"Staupslia 36A, Levanger",63.749572,11.273391
+1979149,"Staupslia 36G, Levanger",63.749489,11.273314
+1979184,"Staupslia 36E, Levanger",63.749501,11.272826
+1979185,"Staupslia 36J, Levanger",63.749433,11.272873
+1980370,"Staupslia 34C, Levanger",63.749323,11.27402
+1987802,"Sørlia 10B, Alstadhaug",63.736835,11.25321
+1987803,"Sørlia 12B, Alstadhaug",63.736802,11.253035
+1996186,"Nordsivegen 16E, Levanger",63.749816,11.288241
+1999957,"Eidsbotnvegen 66B, Alstadhaug",63.737307,11.256042
+1999958,"Eidsbotnvegen 66C, Alstadhaug",63.737294,11.255934
+1999987,"Eidsbotnvegen 66D, Alstadhaug",63.737275,11.25579
+1999988,"Eidsbotnvegen 66E, Alstadhaug",63.73727,11.256062
+2000159,"Eidsbotnvegen 66F, Alstadhaug",63.737258,11.255957
+2000183,"Eidsbotnvegen 66G, Alstadhaug",63.737239,11.255816
+2014711,"Eidsbotnvegen 86, Alstadhaug",63.73615,11.247344
+2018002,"Petter Nyengets veg 7A, Levanger",63.746845,11.285925
+2031851,"Sørlia 6B, Alstadhaug",63.736997,11.254145
+2046051,"Byborgvegen 18B, Levanger",63.74854,11.295122
+2050695,"Berglivegen 5A, Levanger",63.74851,11.281817
+2058286,"Staupslia 34D, Levanger",63.749613,11.273772
+2062732,"Grindvegen 11D, Levanger",63.750356,11.274752
+2062875,"Grindvegen 11A, Levanger",63.750159,11.274383
+2072417,"Staupslia 54B, Levanger",63.749482,11.270741
+2072421,"Staupslia 54C, Levanger",63.749547,11.270711
+2075818,"Staupslia 52A, Levanger",63.749824,11.270934
+2075823,"Staupslia 54A, Levanger",63.749428,11.270834
+2076061,"Staupslia 52C, Levanger",63.749944,11.271143
+2076062,"Staupslia 52B, Levanger",63.749892,11.271043
+2076101,"Staupslia 54D, Levanger",63.749598,11.270646
+2076228,"Staupslia 50B, Levanger",63.749651,11.270077
+2076229,"Staupslia 50C, Levanger",63.749643,11.269926
+2078481,"Nordsivegen 30C, Levanger",63.754273,11.287545
+2078935,"Bambergvegen 13B, Levanger",63.749485,11.280721
+2083529,"Staupslia 41E, Levanger",63.745588,11.279197
+2083530,"Staupslia 41D, Levanger",63.745885,11.2796
+2104097,"Eidsbotnvegen 78J, Alstadhaug",63.735853,11.247393
+2104098,"Eidsbotnvegen 78G, Alstadhaug",63.735882,11.247795
+2104099,"Eidsbotnvegen 78H, Alstadhaug",63.735872,11.247671
+2104619,"Fergemannsvegen 1H, Levanger",63.747249,11.292895
+2104905,"Fergemannsvegen 1A, Levanger",63.747432,11.293064
+2104907,"Fergemannsvegen 1C, Levanger",63.747338,11.292886
+2104979,"Fergemannsvegen 1G, Levanger",63.747301,11.292984
+2104980,"Fergemannsvegen 1F, Levanger",63.747339,11.293084
+2109243,"Nordsivegen 47, Levanger",63.754713,11.28505
+2109643,"Bambergvegen 17A, Levanger",63.749903,11.281282
+2110062,"Bambergvegen 17C, Levanger",63.750088,11.281206
+2120014,"Eidsbotnvegen 6A, Levanger",63.746248,11.290503
+2120046,"Eidsbotnvegen 6B, Levanger",63.746392,11.290561
+2246562,"Jacob Schives veg 8, Levanger",63.752907,11.280519
+2247943,"Frøys veg 3, Levanger",63.754477,11.281173
+2247944,"Frøys veg 4, Levanger",63.754038,11.281664
+2247945,"Frøys veg 5, Levanger",63.754594,11.281689
+2247946,"Frøys veg 6, Levanger",63.754209,11.282205
+2247947,"Frøys veg 11, Levanger",63.754894,11.282646
+2247948,"Frøys veg 12, Levanger",63.754817,11.283491
+2247949,"Frøys veg 13, Levanger",63.75502,11.283183
+2247950,"Frøys veg 7, Levanger",63.754498,11.282107
+2247951,"Frøys veg 8, Levanger",63.754417,11.282689
+2247952,"Frøys veg 9, Levanger",63.754746,11.28235
+2247953,"Frøys veg 10, Levanger",63.754627,11.28303
+2247985,"Bambergvegen 36, Levanger",63.751427,11.282143
+2247986,"Bambergvegen 37, Levanger",63.752841,11.283007
+2247987,"Bambergvegen 38A, Levanger",63.751702,11.282348
+2247988,"Bambergvegen 38B, Levanger",63.751452,11.282834
+2247989,"Bambergvegen 32, Levanger",63.750906,11.282142
+2247990,"Bambergvegen 33, Levanger",63.7522,11.282084
+2247992,"Bambergvegen 34, Levanger",63.751195,11.282064
+2247993,"Bambergvegen 35, Levanger",63.752478,11.282674
+2247994,"Bambergvegen 43, Levanger",63.753526,11.282819
+2247995,"Bambergvegen 44, Levanger",63.753115,11.2838
+2247996,"Bambergvegen 45, Levanger",63.753696,11.282853
+2247997,"Bambergvegen 46A, Levanger",63.753352,11.283576
+2247998,"Bambergvegen 39, Levanger",63.7531,11.283049
+2247999,"Bambergvegen 40, Levanger",63.751913,11.282628
+2248000,"Bambergvegen 41, Levanger",63.753301,11.282882
+2248001,"Bambergvegen 42, Levanger",63.752165,11.283156
+2248002,"Berglivegen 2, Levanger",63.747944,11.283241
+2248003,"Berglivegen 4, Levanger",63.748207,11.283039
+2248004,"Berglivegen 5, Levanger",63.74851,11.281462
+2248005,"Bambergvegen 46B, Levanger",63.753462,11.284031
+2248006,"Bambergvegen 48, Levanger",63.753605,11.283495
+2248007,"Bambergvegen 50, Levanger",63.753804,11.28343
+2248008,"Berglivegen 1, Levanger",63.747923,11.282246
+2248009,"Berglivegen 11, Levanger",63.748162,11.27967
+2248013,"Berglivegen 6, Levanger",63.748731,11.282858
+2248014,"Berglivegen 7, Levanger",63.748451,11.280687
+2248015,"Berglivegen 8, Levanger",63.748757,11.281988
+2248016,"Berglivegen 9, Levanger",63.748315,11.280209
+2248017,"Bambergvegen 15, Levanger",63.749653,11.281311
+2248018,"Bambergvegen 16, Levanger",63.748958,11.280971
+2248019,"Bambergvegen 16A, Levanger",63.748917,11.280765
+2248020,"Bambergvegen 16B, Levanger",63.748769,11.281016
+2248021,"Bambergvegen 11B, Levanger",63.749527,11.280226
+2248022,"Bambergvegen 11C, Levanger",63.749737,11.280527
+2248023,"Bambergvegen 13A, Levanger",63.749371,11.281004
+2248024,"Bambergvegen 14, Levanger",63.748725,11.280364
+2248025,"Bambergvegen 20C, Levanger",63.748898,11.282527
+2248026,"Bambergvegen 20D, Levanger",63.749251,11.28288
+2248027,"Bambergvegen 21, Levanger",63.750675,11.281393
+2248028,"Bambergvegen 22B, Levanger",63.749542,11.28266
+2248029,"Bambergvegen 18, Levanger",63.748895,11.281574
+2248030,"Bambergvegen 19, Levanger",63.75047,11.281296
+2248031,"Bambergvegen 20A, Levanger",63.749043,11.281829
+2248032,"Bambergvegen 20B, Levanger",63.74928,11.282193
+2248033,"Bambergvegen 25A, Levanger",63.751188,11.281374
+2248034,"Bambergvegen 25B, Levanger",63.751196,11.280807
+2248035,"Bambergvegen 26A, Levanger",63.750045,11.282092
+2248036,"Bambergvegen 26B, Levanger",63.74999,11.282737
+2248037,"Bambergvegen 23A, Levanger",63.750937,11.281333
+2248038,"Bambergvegen 23B, Levanger",63.750953,11.280868
+2248039,"Bambergvegen 24A, Levanger",63.749786,11.28199
+2248040,"Bambergvegen 24B, Levanger",63.749757,11.282718
+2248041,"Bambergvegen 29B, Levanger",63.751734,11.280911
+2248042,"Bambergvegen 30, Levanger",63.750647,11.28208
+2248043,"Bambergvegen 31A, Levanger",63.751892,11.281694
+2248044,"Bambergvegen 31B, Levanger",63.75198,11.281255
+2248045,"Bambergvegen 27A, Levanger",63.751475,11.281356
+2248046,"Bambergvegen 27B, Levanger",63.751484,11.28081
+2248047,"Bambergvegen 28A, Levanger",63.750404,11.282121
+2248048,"Bambergvegen 28B, Levanger",63.750462,11.282957
+2248065,"Bambergvegen 2C, Levanger",63.747921,11.277887
+2248066,"Bambergvegen 3, Levanger",63.748781,11.277429
+2248067,"Bambergvegen 4, Levanger",63.748398,11.277216
+2248068,"Bambergvegen 5, Levanger",63.748798,11.278606
+2248071,"Bambergvegen 2, Levanger",63.748411,11.276365
+2248072,"Bambergvegen 2A, Levanger",63.748217,11.276715
+2248073,"Bambergvegen 9, Levanger",63.749433,11.278779
+2248074,"Bambergvegen 9B, Levanger",63.749672,11.279548
+2248075,"Bambergvegen 10, Levanger",63.748474,11.279249
+2248076,"Bambergvegen 11, Levanger",63.749211,11.280322
+2248077,"Bambergvegen 5B, Levanger",63.749092,11.278752
+2248078,"Bambergvegen 6, Levanger",63.748377,11.277964
+2248079,"Bambergvegen 7, Levanger",63.748997,11.279676
+2248080,"Bambergvegen 8, Levanger",63.748403,11.278635
+2248081,"Byborgvegen 14, Levanger",63.748352,11.294261
+2248082,"Byborgvegen 16, Levanger",63.748597,11.294139
+2248083,"Byborgvegen 6, Levanger",63.747806,11.293589
+2248084,"Byborgvegen 8, Levanger",63.747981,11.293887
+2248085,"Byborgvegen 10A, Levanger",63.747886,11.294475
+2248086,"Byborgvegen 12, Levanger",63.748136,11.294284
+2248111,"Byborgvegen 2, Levanger",63.747492,11.292468
+2248112,"Byborgvegen 3, Levanger",63.748192,11.293052
+2248113,"Byborgvegen 4, Levanger",63.747707,11.293074
+2248114,"Byborgvegen 5, Levanger",63.74863,11.293169
+2248119,"Byborgvegen 1, Levanger",63.748009,11.292105
+2248120,"Eidsbotnvegen 36, Levanger",63.739911,11.266541
+2248121,"Eidsbotnvegen 37, Levanger",63.739325,11.266129
+2248122,"Eidsbotnvegen 38, Levanger",63.740115,11.266679
+2248123,"Eidsbotnvegen 29, Levanger",63.740034,11.267828
+2248124,"Eidsbotnvegen 31, Levanger",63.739862,11.267388
+2248125,"Eidsbotnvegen 33, Levanger",63.739626,11.266964
+2248126,"Eidsbotnvegen 35, Levanger",63.739497,11.266569
+2248127,"Eidsbotnvegen 44, Alstadhaug",63.738164,11.261132
+2248128,"Eidsbotnvegen 45, Levanger",63.738875,11.26504
+2248129,"Eidsbotnvegen 46, Alstadhaug",63.738077,11.260396
+2248130,"Eidsbotnvegen 47, Levanger",63.738672,11.2648
+2248131,"Eidsbotnvegen 40, Levanger",63.739706,11.265896
+2248132,"Eidsbotnvegen 41, Levanger",63.738922,11.266077
+2248133,"Eidsbotnvegen 42, Levanger",63.739361,11.264977
+2248134,"Eidsbotnvegen 43, Levanger",63.738741,11.265576
+2248135,"Eidsbotnvegen 53, Alstadhaug",63.738244,11.262882
+2248136,"Eidsbotnvegen 54, Alstadhaug",63.737605,11.258413
+2248137,"Eidsbotnvegen 55, Alstadhaug",63.738107,11.262465
+2248138,"Eidsbotnvegen 48, Alstadhaug",63.737959,11.25992
+2248139,"Eidsbotnvegen 49, Alstadhaug",63.738427,11.264207
+2248140,"Eidsbotnvegen 50, Alstadhaug",63.737769,11.259439
+2248141,"Eidsbotnvegen 51, Alstadhaug",63.738389,11.263379
+2248146,"Eidsbotnvegen 57, Alstadhaug",63.737732,11.260632
+2248147,"Eidsbotnvegen 59, Alstadhaug",63.737478,11.259639
+2248158,"Eidsbotnvegen 4, Levanger",63.746493,11.290928
+2248159,"Eidsbotnvegen 8, Levanger",63.746183,11.290051
+2248160,"Eidsbotnvegen 10B, Levanger",63.746091,11.288595
+2248164,"Eidsbotnvegen 2, Levanger",63.746266,11.291072
+2248165,"Eidsbotnvegen 15, Levanger",63.74107,11.270465
+2248166,"Eidsbotnvegen 16, Levanger",63.745862,11.287127
+2248167,"Eidsbotnvegen 17, Levanger",63.740889,11.270004
+2248168,"Eidsbotnvegen 18, Levanger",63.745616,11.286803
+2248169,"Eidsbotnvegen 11, Levanger",63.741555,11.271578
+2248170,"Eidsbotnvegen 12, Levanger",63.74608,11.288097
+2248171,"Eidsbotnvegen 13, Levanger",63.741295,11.270989
+2248172,"Eidsbotnvegen 14, Levanger",63.745962,11.287601
+2248173,"Eidsbotnvegen 24, Levanger",63.744381,11.277987
+2248174,"Eidsbotnvegen 25, Levanger",63.740285,11.268436
+2248175,"Eidsbotnvegen 26, Levanger",63.744211,11.277385
+2248176,"Eidsbotnvegen 27, Levanger",63.740089,11.268319
+2248177,"Eidsbotnvegen 19, Levanger",63.740662,11.269601
+2248178,"Eidsbotnvegen 20, Levanger",63.745679,11.2862
+2248179,"Eidsbotnvegen 21, Levanger",63.740562,11.269086
+2248180,"Eidsbotnvegen 23, Levanger",63.740405,11.26879
+2248185,"Byborgvegen 18, Levanger",63.748706,11.294614
+2248186,"Byborgvegen 22, Levanger",63.748947,11.295242
+2248187,"Byborgvegen 24, Levanger",63.7492,11.295688
+2248217,"Fagerstrandvegen 13, Levanger",63.745997,11.28655
+2248218,"Fagerstrandvegen 15, Levanger",63.745937,11.285775
+2248221,"Fergemannsvegen 5, Levanger",63.747674,11.294004
+2248222,"Finnemarka 1, Levanger",63.747751,11.281826
+2248223,"Finnemarka 2, Levanger",63.747916,11.281029
+2248224,"Finnemarka 3, Levanger",63.747716,11.281175
+2248227,"Fergemannsvegen 1, Levanger",63.747367,11.292985
+2248228,"Fergemannsvegen 3, Levanger",63.747527,11.293627
+2248229,"Finnemarka 8, Levanger",63.747686,11.279672
+2248230,"Finnemarka 9, Levanger",63.747589,11.280698
+2248231,"Finnemarka 11, Levanger",63.747272,11.280267
+2248233,"Finnemarka 4A, Levanger",63.748004,11.28059
+2248234,"Finnemarka 4B, Levanger",63.747961,11.280444
+2248235,"Finnemarka 6, Levanger",63.747786,11.280126
+2248236,"Finnemarka 7, Levanger",63.74736,11.280964
+2248262,"Korenhaugen 6, Levanger",63.746866,11.290634
+2248263,"Fagerstrandvegen 2, Levanger",63.746555,11.286433
+2248264,"Korenhaugen 4, Levanger",63.746729,11.290067
+2248269,"Fagerstrandvegen 7A, Levanger",63.746546,11.288682
+2248270,"Fagerstrandvegen 8, Levanger",63.745467,11.282595
+2248271,"Fagerstrandvegen 9, Levanger",63.746347,11.287693
+2248272,"Fagerstrandvegen 11, Levanger",63.746203,11.287134
+2248273,"Fagerstrandvegen 4, Levanger",63.746236,11.286164
+2248274,"Korenhaugen 2, Levanger",63.746585,11.289638
+2248275,"Fagerstrandvegen 6A, Levanger",63.745581,11.283293
+2248276,"Fagerstrandvegen 6B, Levanger",63.745658,11.283563
+2248365,"Frøys veg 1, Levanger",63.75427,11.281197
+2248366,"Frøys veg 2, Levanger",63.753874,11.281225
+2248477,"Grindvegen 17, Levanger",63.750236,11.276228
+2248478,"Grindvegen 19, Levanger",63.750318,11.276722
+2248479,"Grindvegen 23, Levanger",63.750399,11.278451
+2248480,"Grindvegen 25, Levanger",63.75008,11.27873
+2248481,"Grindvegen 11B, Levanger",63.750161,11.274175
+2248482,"Grindvegen 11C, Levanger",63.750509,11.274251
+2248483,"Grindvegen 13, Levanger",63.750103,11.275001
+2248484,"Grindvegen 15, Levanger",63.750347,11.275487
+2248502,"Gårdsvegen 1, Levanger",63.750831,11.278932
+2248503,"Gårdsvegen 2, Levanger",63.75111,11.278874
+2248504,"Gårdsvegen 3, Levanger",63.750821,11.278425
+2248529,"Grindvegen 8, Levanger",63.749844,11.276602
+2248530,"Grindvegen 9, Levanger",63.749908,11.273708
+2248531,"Grindvegen 9B, Levanger",63.750378,11.273503
+2248532,"Grindvegen 10, Levanger",63.750067,11.27731
+2248533,"Grindvegen 2, Levanger",63.748936,11.275556
+2248534,"Grindvegen 4, Levanger",63.749788,11.275645
+2248535,"Grindvegen 6, Levanger",63.749798,11.276112
+2248536,"Grindvegen 7, Levanger",63.749988,11.273167
+2248600,"Gårdsvegen 8, Levanger",63.751134,11.277375
+2248601,"Gårdsvegen 9, Levanger",63.750655,11.276992
+2248602,"Gårdsvegen 10, Levanger",63.750999,11.276797
+2248603,"Gårdsvegen 11, Levanger",63.750574,11.276438
+2248604,"Gårdsvegen 4, Levanger",63.751182,11.278312
+2248605,"Gårdsvegen 5, Levanger",63.750864,11.277962
+2248606,"Gårdsvegen 6, Levanger",63.751181,11.277785
+2248607,"Gårdsvegen 7, Levanger",63.750746,11.277506
+2248610,"Gårdsvegen 12, Levanger",63.750864,11.276279
+2248611,"Gårdsvegen 13, Levanger",63.7505,11.276047
+2248612,"Gårdsvegen 14, Levanger",63.750781,11.275847
+2248646,"Hegglia 14, Levanger",63.751063,11.284689
+2248647,"Hegglia 15, Levanger",63.750866,11.284085
+2248648,"Hegglia 16, Levanger",63.751241,11.284257
+2248649,"Hegglia 17, Levanger",63.75106,11.283776
+2248650,"Hegglia 10, Levanger",63.75039,11.285242
+2248651,"Hegglia 11, Levanger",63.750199,11.284294
+2248652,"Hegglia 12, Levanger",63.750702,11.285389
+2248653,"Hegglia 13, Levanger",63.750575,11.284325
+2248654,"Hegglia 23, Levanger",63.751703,11.283402
+2248655,"Hegglia 24, Levanger",63.752329,11.284162
+2248656,"Hegglia 25, Levanger",63.751922,11.283197
+2248658,"Hegglia 18, Levanger",63.751594,11.284042
+2248659,"Hegglia 19, Levanger",63.75128,11.283469
+2248660,"Hegglia 20, Levanger",63.751791,11.284099
+2248661,"Hegglia 22, Levanger",63.752075,11.284284
+2248686,"Haugstien 7, Levanger",63.748887,11.287189
+2248691,"Haugstien 1, Levanger",63.748146,11.286886
+2248692,"Haugstien 3, Levanger",63.748395,11.287048
+2248693,"Haugstien 5, Levanger",63.748629,11.287046
+2248696,"Hegglia 2, Levanger",63.749671,11.286421
+2248697,"Hegglia 4, Levanger",63.749959,11.285836
+2248702,"Hegglia 7C, Levanger",63.749225,11.283972
+2248703,"Hegglia 8, Levanger",63.750271,11.284848
+2248704,"Hegglia 9, Levanger",63.749903,11.28423
+2248705,"Hegglia 9B, Levanger",63.749656,11.283987
+2248706,"Hegglia 5, Levanger",63.749468,11.285087
+2248707,"Hegglia 6, Levanger",63.750033,11.285092
+2248708,"Hegglia 7, Levanger",63.749697,11.284801
+2248709,"Hegglia 7B, Levanger",63.749451,11.284437
+2248733,"Jacob Schives veg 23, Levanger",63.75147,11.277706
+2248734,"Jacob Schives veg 25, Levanger",63.751345,11.277108
+2248735,"Jacob Schives veg 27, Levanger",63.751228,11.276572
+2248736,"Jacob Schives veg 29, Levanger",63.751145,11.276099
+2248737,"Jacob Schives veg 18A, Levanger",63.751679,11.277066
+2248738,"Jacob Schives veg 19, Levanger",63.751741,11.278722
+2248739,"Jacob Schives veg 19B, Levanger",63.751503,11.279027
+2248740,"Jacob Schives veg 22, Levanger",63.751608,11.276635
+2248741,"Jacob Schives veg 41, Levanger",63.750638,11.272976
+2248742,"Jacob Schives veg 43, Levanger",63.750574,11.272485
+2248743,"Jacob Schives veg 43B, Levanger",63.750366,11.272549
+2248744,"Jacob Schives veg 45, Levanger",63.750321,11.27143
+2248745,"Jacob Schives veg 31, Levanger",63.751046,11.275584
+2248746,"Jacob Schives veg 35, Levanger",63.750988,11.274667
+2248747,"Jacob Schives veg 37, Levanger",63.750793,11.273942
+2248748,"Jacob Schives veg 39, Levanger",63.750739,11.27341
+2248752,"Jacob Schives veg 45B, Levanger",63.750242,11.27187
+2248753,"Jacob Schives veg 47, Levanger",63.750178,11.27079
+2248779,"Jacob Schives veg 3, Levanger",63.7534,11.282282
+2248780,"Jacob Schives veg 4, Levanger",63.752898,11.281633
+2248781,"Jacob Schives veg 6, Levanger",63.752678,11.281392
+2248782,"Jacob Schives veg 7, Levanger",63.752886,11.282403
+2248785,"Jacob Schives veg 1, Levanger",63.753588,11.282277
+2248786,"Jacob Schives veg 2, Levanger",63.753316,11.281584
+2248787,"Jacob Schives veg 14, Levanger",63.752112,11.278529
+2248788,"Jacob Schives veg 15, Levanger",63.75196,11.279652
+2248789,"Jacob Schives veg 16, Levanger",63.751941,11.278028
+2248790,"Jacob Schives veg 17, Levanger",63.751876,11.27926
+2248791,"Jacob Schives veg 9, Levanger",63.752639,11.28214
+2248792,"Jacob Schives veg 11, Levanger",63.752456,11.28176
+2248793,"Jacob Schives veg 11B, Levanger",63.752246,11.281419
+2248794,"Jacob Schives veg 13, Levanger",63.752203,11.280766
+2248987,"Linkjeldevegen 4, Levanger",63.750233,11.283263
+2248988,"Linkjeldevegen 5, Levanger",63.750723,11.283485
+2248989,"Linkjeldevegen 6, Levanger",63.750012,11.28357
+2248990,"Linkjeldevegen 7, Levanger",63.750505,11.28367
+2249030,"Linkjeldevegen 1, Levanger",63.751224,11.283019
+2249031,"Linkjeldevegen 2, Levanger",63.750743,11.282798
+2249032,"Linkjeldevegen 3, Levanger",63.750986,11.283304
+2249116,"Nesheimvegen 8, Alstadhaug",63.738666,11.261213
+2249117,"Nesheimvegen 9, Alstadhaug",63.738518,11.262052
+2249118,"Nesheimvegen 10, Alstadhaug",63.738942,11.261316
+2249119,"Nesheimvegen 11, Alstadhaug",63.738373,11.261575
+2249120,"Nesheimvegen 4, Alstadhaug",63.738864,11.262303
+2249121,"Nesheimvegen 5, Alstadhaug",63.738707,11.263141
+2249122,"Nesheimvegen 6, Alstadhaug",63.738782,11.26183
+2249123,"Nesheimvegen 7, Alstadhaug",63.738635,11.262568
+2249124,"Nesheimvegen 17, Alstadhaug",63.738194,11.25923
+2249125,"Nesheimvegen 18, Alstadhaug",63.738626,11.259183
+2249126,"Nesheimvegen 19, Alstadhaug",63.737988,11.258646
+2249127,"Nesheimvegen 20, Alstadhaug",63.738628,11.258454
+2249128,"Nesheimvegen 13, Alstadhaug",63.738326,11.260578
+2249129,"Nesheimvegen 14, Alstadhaug",63.738731,11.260489
+2249130,"Nesheimvegen 15, Alstadhaug",63.73834,11.259647
+2249131,"Nesheimvegen 16, Alstadhaug",63.738714,11.259839
+2249136,"Nesheimvegen 21, Alstadhaug",63.737825,11.258167
+2249137,"Nesheimvegen 23, Alstadhaug",63.738265,11.258161
+2249142,"Nordsivegen 1, Levanger",63.748516,11.284819
+2249143,"Nordsivegen 2, Levanger",63.748224,11.285919
+2249158,"Nelius Hallans veg 2A, Levanger",63.749348,11.275062
+2249159,"Nelius Hallans veg 2B, Levanger",63.749448,11.274949
+2249164,"Nelius Hallans veg 4B, Levanger",63.74908,11.276075
+2249165,"Nelius Hallans veg 4C, Levanger",63.74917,11.276062
+2249166,"Nelius Hallans veg 5, Levanger",63.749643,11.27687
+2249167,"Nelius Hallans veg 6, Levanger",63.749161,11.276649
+2249168,"Nelius Hallans veg 2C, Levanger",63.74954,11.274834
+2249169,"Nelius Hallans veg 2D, Levanger",63.749631,11.27474
+2249170,"Nelius Hallans veg 3, Levanger",63.749488,11.276411
+2249171,"Nelius Hallans veg 4A, Levanger",63.749,11.276068
+2249172,"Nelius Hallans veg 16, Levanger",63.750103,11.27784
+2249173,"Nesheimvegen 1, Alstadhaug",63.738919,11.263929
+2249174,"Nesheimvegen 2, Alstadhaug",63.739057,11.263169
+2249175,"Nesheimvegen 3, Alstadhaug",63.738854,11.263518
+2249176,"Nelius Hallans veg 8, Levanger",63.749253,11.277169
+2249177,"Nelius Hallans veg 10, Levanger",63.749297,11.278281
+2249178,"Nelius Hallans veg 14, Levanger",63.749858,11.278023
+2249252,"Odins veg 15, Levanger",63.751516,11.284989
+2249253,"Odins veg 16, Levanger",63.751046,11.286917
+2249254,"Odins veg 17, Levanger",63.751983,11.285006
+2249255,"Odins veg 17B, Levanger",63.751786,11.28497
+2249256,"Odins veg 11, Levanger",63.751089,11.285907
+2249257,"Odins veg 12, Levanger",63.750816,11.287852
+2249258,"Odins veg 13, Levanger",63.751325,11.285156
+2249259,"Odins veg 14, Levanger",63.750893,11.287493
+2249260,"Odins veg 21B, Levanger",63.752849,11.284772
+2249261,"Odins veg 22A, Levanger",63.751588,11.286677
+2249262,"Odins veg 23, Levanger",63.752987,11.28452
+2249263,"Odins veg 23B, Levanger",63.752707,11.284051
+2249264,"Odins veg 18, Levanger",63.75128,11.286876
+2249265,"Odins veg 19, Levanger",63.752368,11.285058
+2249266,"Odins veg 20, Levanger",63.751497,11.286183
+2249267,"Odins veg 21, Levanger",63.752685,11.284881
+2249268,"Odins veg 27B, Levanger",63.754283,11.28341
+2249269,"Odins veg 28, Levanger",63.752026,11.285699
+2249270,"Odins veg 30, Levanger",63.752259,11.285718
+2249272,"Odins veg 24, Levanger",63.751881,11.286316
+2249273,"Odins veg 25, Levanger",63.753234,11.284235
+2249274,"Odins veg 26, Levanger",63.751703,11.285673
+2249275,"Odins veg 27, Levanger",63.754177,11.283095
+2249280,"Odins veg 32, Levanger",63.752691,11.285651
+2249281,"Odins veg 34, Levanger",63.753027,11.285435
+2249282,"Odins veg 40, Levanger",63.754243,11.284013
+2249283,"Odins veg 42, Levanger",63.754398,11.284451
+2249284,"Nordsivegen 33, Levanger",63.752485,11.28677
+2249285,"Nordsivegen 34, Levanger",63.753917,11.286501
+2249286,"Nordsivegen 35, Levanger",63.752788,11.286896
+2249287,"Nordsivegen 36, Levanger",63.754144,11.286316
+2249288,"Nordsivegen 28, Levanger",63.752758,11.29105
+2249289,"Nordsivegen 29, Levanger",63.752151,11.286865
+2249290,"Nordsivegen 31, Levanger",63.75233,11.286332
+2249291,"Nordsivegen 32, Levanger",63.753674,11.286501
+2249296,"Nordsivegen 37, Levanger",63.75261,11.286233
+2249297,"Nordsivegen 38, Levanger",63.754373,11.286031
+2249298,"Nordsivegen 39, Levanger",63.75294,11.286361
+2249299,"Nordsivegen 40, Levanger",63.754581,11.285946
+2249308,"Odins veg 6, Levanger",63.751269,11.28872
+2249309,"Odins veg 7, Levanger",63.750744,11.28667
+2249310,"Odins veg 9, Levanger",63.75077,11.286206
+2249311,"Odins veg 10, Levanger",63.75126,11.287584
+2249312,"Odins veg 1, Levanger",63.750358,11.287794
+2249313,"Odins veg 3, Levanger",63.750456,11.287316
+2249314,"Odins veg 4, Levanger",63.750764,11.288841
+2249315,"Odins veg 5, Levanger",63.750623,11.286944
+2249316,"Nordsivegen 4B, Levanger",63.748565,11.285924
+2249317,"Nordsivegen 5A, Levanger",63.750316,11.286493
+2249318,"Nordsivegen 6, Levanger",63.748858,11.286132
+2249319,"Nordsivegen 7, Levanger",63.750252,11.287178
+2249320,"Nordsivegen 3A, Levanger",63.748464,11.283242
+2249321,"Nordsivegen 3B, Levanger",63.748658,11.28346
+2249322,"Nordsivegen 3C, Levanger",63.748902,11.283946
+2249323,"Nordsivegen 3D, Levanger",63.748631,11.284066
+2249324,"Nordsivegen 13, Levanger",63.750404,11.288305
+2249325,"Nordsivegen 14, Levanger",63.749477,11.287297
+2249326,"Nordsivegen 15, Levanger",63.750579,11.288583
+2249327,"Nordsivegen 16A, Levanger",63.749644,11.287856
+2249328,"Nordsivegen 8, Levanger",63.749105,11.286456
+2249329,"Nordsivegen 9, Levanger",63.749911,11.28715
+2249330,"Nordsivegen 10, Levanger",63.749195,11.286991
+2249331,"Nordsivegen 12, Levanger",63.749229,11.287703
+2249332,"Nordsivegen 16G, Levanger",63.749693,11.288614
+2249333,"Nordsivegen 16H, Levanger",63.749657,11.288723
+2249334,"Nordsivegen 16I, Levanger",63.74961,11.288855
+2249335,"Nordsivegen 17A, Levanger",63.75109,11.289212
+2249336,"Nordsivegen 16C, Levanger",63.749728,11.288039
+2249337,"Nordsivegen 16D, Levanger",63.749781,11.288167
+2249338,"Nordsivegen 16F, Levanger",63.749734,11.288522
+2249339,"Nordsivegen 21, Levanger",63.751949,11.287153
+2249340,"Nordsivegen 23, Levanger",63.752062,11.287973
+2249341,"Nordsivegen 25, Levanger",63.75215,11.287473
+2249342,"Nordsivegen 27, Levanger",63.752384,11.287451
+2249343,"Nordsivegen 17B, Levanger",63.751008,11.289307
+2249344,"Nordsivegen 17C, Levanger",63.750935,11.289362
+2249345,"Nordsivegen 19, Levanger",63.751863,11.288058
+2249346,"Nordsivegen 19B, Levanger",63.75135,11.289274
+2249412,"Petter Nyengets veg 7B, Levanger",63.746731,11.285555
+2249413,"Petter Nyengets veg 8, Levanger",63.747075,11.28538
+2249414,"Petter Nyengets veg 9, Levanger",63.746509,11.285355
+2249415,"Petter Nyengets veg 11, Levanger",63.746257,11.285054
+2249416,"Petter Nyengets veg 2, Levanger",63.747044,11.287324
+2249417,"Petter Nyengets veg 3, Levanger",63.74662,11.287431
+2249418,"Petter Nyengets veg 4, Levanger",63.747174,11.286462
+2249419,"Petter Nyengets veg 5, Levanger",63.746813,11.286575
+2249424,"Petter Nyengets veg 13, Levanger",63.746126,11.284594
+2249425,"Petter Nyengets veg 15, Levanger",63.745892,11.284088
+2249756,"Svend Svendsens veg 3A, Levanger",63.749871,11.280031
+2249757,"Svend Svendsens veg 3B, Levanger",63.750021,11.279617
+2249758,"Svend Svendsens veg 4, Levanger",63.750705,11.280645
+2249759,"Svend Svendsens veg 5, Levanger",63.750567,11.279742
+2249762,"Svend Svendsens veg 1, Levanger",63.750102,11.280759
+2249763,"Svend Svendsens veg 2, Levanger",63.750461,11.280727
+2249764,"Svend Svendsens veg 10, Levanger",63.751457,11.28024
+2249765,"Svend Svendsens veg 11, Levanger",63.751405,11.279546
+2249766,"Svend Svendsens veg 12, Levanger",63.751751,11.280345
+2249767,"Svend Svendsens veg 13, Levanger",63.751656,11.279566
+2249768,"Svend Svendsens veg 6, Levanger",63.750917,11.280298
+2249769,"Svend Svendsens veg 7, Levanger",63.750775,11.279658
+2249770,"Svend Svendsens veg 8, Levanger",63.751215,11.28022
+2249771,"Svend Svendsens veg 9, Levanger",63.751082,11.279561
+2249772,"Svend Svendsens veg 14, Levanger",63.751975,11.280403
+2249775,"Staupslia 41A, Levanger",63.746366,11.280255
+2249776,"Staupslia 41C, Levanger",63.746048,11.281628
+2249777,"Staupslia 43, Levanger",63.747444,11.276774
+2249778,"Staupslia 45, Levanger",63.747446,11.276105
+2249779,"Staupslia 31, Levanger",63.747079,11.283961
+2249780,"Staupslia 32, Levanger",63.747719,11.277566
+2249781,"Staupslia 33, Levanger",63.747195,11.282917
+2249782,"Staupslia 37, Levanger",63.746671,11.283097
+2249787,"Staupslia 47, Levanger",63.747695,11.276227
+2249788,"Staupslia 49, Levanger",63.747932,11.276002
+2249815,"Staupslia 6, Levanger",63.747643,11.291426
+2249816,"Korenhaugen 8, Levanger",63.74712,11.291019
+2249817,"Staupslia 8B, Levanger",63.747993,11.290867
+2249818,"Staupslia 1, Levanger",63.746433,11.291855
+2249819,"Staupslia 2, Levanger",63.747159,11.292522
+2249820,"Staupslia 4, Levanger",63.747352,11.292214
+2249821,"Staupslia 5, Levanger",63.746947,11.291642
+2249822,"Staupslia 18, Levanger",63.747991,11.284238
+2249823,"Staupslia 19, Levanger",63.747451,11.287113
+2249824,"Staupslia 20, Levanger",63.747855,11.28376
+2249825,"Staupslia 9, Levanger",63.747242,11.290393
+2249826,"Staupslia 10, Levanger",63.74771,11.287803
+2249827,"Staupslia 12, Levanger",63.747879,11.286763
+2249828,"Staupslia 16, Levanger",63.748012,11.285152
+2249829,"Staupslia 26, Levanger",63.747408,11.279042
+2249830,"Staupslia 27, Levanger",63.747249,11.284603
+2249831,"Staupslia 28, Levanger",63.74741,11.278353
+2249832,"Staupslia 30, Levanger",63.747569,11.278
+2249833,"Staupslia 21A, Levanger",63.747458,11.286435
+2249834,"Staupslia 22, Levanger",63.747685,11.282551
+2249835,"Staupslia 24, Levanger",63.747266,11.279537
+2249836,"Staupslia 25, Levanger",63.747486,11.284359
+2250491,"Krokhaugvegen 1, Levanger",63.750662,11.274844
+2250780,"Nordsivegen 45B, Levanger",63.754449,11.285185
+2250785,"Nordsivegen 45A, Levanger",63.754367,11.28526
+2250808,"Odins veg 16B, Levanger",63.750979,11.287176
+2250816,"Byborgvegen 20B, Levanger",63.748641,11.295278
+2250849,"Nordsivegen 19C, Levanger",63.75154,11.288032
+2250876,"Bambergvegen 7B, Levanger",63.749127,11.27993
+2250906,"Bambergvegen 2D, Levanger",63.747828,11.278609
+2250946,"Jacob Schives veg 24B, Levanger",63.75152,11.27623
+2250953,"Hegglia 7D, Levanger",63.749045,11.283431
+2252227,"Jacob Schives veg 26K, Levanger",63.751619,11.275496
+2252228,"Jacob Schives veg 26L, Levanger",63.751643,11.275681
+2252231,"Jacob Schives veg 26G, Levanger",63.751512,11.275451
+2252232,"Jacob Schives veg 26H, Levanger",63.751548,11.275614
+2252233,"Jacob Schives veg 26I, Levanger",63.751575,11.275748
+2252234,"Jacob Schives veg 26J, Levanger",63.751597,11.275369
+2252269,"Jacob Schives veg 26C, Levanger",63.751449,11.275195
+2252270,"Jacob Schives veg 26D, Levanger",63.751437,11.274833
+2252271,"Jacob Schives veg 26E, Levanger",63.751478,11.274929
+2252272,"Jacob Schives veg 26F, Levanger",63.751522,11.275093
+2252274,"Jacob Schives veg 26A, Levanger",63.751377,11.274929
+2252275,"Jacob Schives veg 26B, Levanger",63.751404,11.275047
+2252329,"Nordsivegen 19D, Levanger",63.751681,11.288773
+2252347,"Nordsivegen 19E, Levanger",63.75182,11.288501
+2252444,"Staupslia 39D, Levanger",63.746562,11.282014
+2252446,"Staupslia 39F, Levanger",63.746373,11.28208
+2252448,"Staupslia 39G, Levanger",63.746436,11.282085
+2252450,"Staupslia 39H, Levanger",63.746283,11.282093
+2252453,"Staupslia 39A, Levanger",63.746717,11.281905
+2252455,"Staupslia 39B, Levanger",63.746663,11.281921
+2252457,"Staupslia 39C, Levanger",63.746608,11.281957
+2252458,"Staupslia 23, Levanger",63.747529,11.285599
+2252460,"Nordsivegen 20, Levanger",63.750464,11.289628
+2252466,"Staupslia 39I, Levanger",63.746201,11.282167
+2252468,"Staupslia 39J, Levanger",63.746137,11.282243
+2252469,"Staupslia 34, Levanger",63.747917,11.276954
+2252470,"Staupslia 39E, Levanger",63.746481,11.282048
+2252471,"Nordsivegen 30B, Levanger",63.753439,11.290598
+2252524,"Odins veg 27C, Levanger",63.754516,11.283552
+2252605,"Fagerstrandvegen 17A, Levanger",63.74562,11.285404
+2252606,"Fagerstrandvegen 19A, Levanger",63.745435,11.284579
+2252607,"Fagerstrandvegen 19B, Levanger",63.745477,11.284197
+2252608,"Fagerstrandvegen 19C, Levanger",63.745507,11.283997
+2252615,"Nordsivegen 22A, Levanger",63.751482,11.289974
+2252616,"Nordsivegen 24A, Levanger",63.751638,11.290351
+2252617,"Fagerstrandvegen 17B, Levanger",63.74566,11.285144
+2252618,"Fagerstrandvegen 17C, Levanger",63.745709,11.284844
+2252621,"Nordsivegen 22F, Levanger",63.751823,11.289454
+2252622,"Nordsivegen 22G, Levanger",63.751887,11.289378
+2252623,"Nordsivegen 24B, Levanger",63.751709,11.290398
+2252624,"Nordsivegen 24C, Levanger",63.751763,11.290382
+2252625,"Nordsivegen 22B, Levanger",63.751547,11.289878
+2252626,"Nordsivegen 22C, Levanger",63.751603,11.28974
+2252627,"Nordsivegen 22D, Levanger",63.751722,11.289547
+2252628,"Nordsivegen 22E, Levanger",63.751777,11.289491
+2252632,"Nordsivegen 24D, Levanger",63.751853,11.290389
+2252633,"Nordsivegen 24E, Levanger",63.751925,11.290374
+2252634,"Nordsivegen 24F, Levanger",63.75196,11.290398
+2252643,"Eidsbotnvegen 55B, Alstadhaug",63.737928,11.261863
+2252663,"Odins veg 12B, Levanger",63.750989,11.288251
+2252869,"Bambergvegen 17B, Levanger",63.749949,11.281343
+2252886,"Byborgvegen 20A, Levanger",63.748807,11.294927
+2252888,"Eidsbotnvegen 22A, Levanger",63.745475,11.286062
+2252890,"Eidsbotnvegen 22B, Levanger",63.745499,11.286205
+2252892,"Eidsbotnvegen 22C, Levanger",63.745533,11.28635
+2253186,"Petter Nyengets veg 1M, Levanger",63.746723,11.288291
+2253187,"Petter Nyengets veg 1N, Levanger",63.746725,11.288169
+2253188,"Petter Nyengets veg 1O, Levanger",63.746728,11.288008
+2253190,"Petter Nyengets veg 1I, Levanger",63.746757,11.288456
+2253191,"Petter Nyengets veg 1J, Levanger",63.746759,11.288294
+2253192,"Petter Nyengets veg 1K, Levanger",63.746761,11.288172
+2253193,"Petter Nyengets veg 1L, Levanger",63.746764,11.28801
+2253226,"Berglivegen 7A, Levanger",63.748287,11.280896
+2253379,"Joplassvegen 2A, Levanger",63.753628,11.284855
+2253381,"Joplassvegen 2B, Levanger",63.753719,11.284782
+2253383,"Joplassvegen 4A, Levanger",63.753876,11.285119
+2253385,"Joplassvegen 4B, Levanger",63.753958,11.285024
+2253394,"Joplassvegen 3A, Levanger",63.753504,11.28594
+2253396,"Joplassvegen 3B, Levanger",63.753413,11.286014
+2253398,"Joplassvegen 5A, Levanger",63.75375,11.285676
+2253400,"Joplassvegen 5B, Levanger",63.753659,11.28577
+2253402,"Joplassvegen 6A, Levanger",63.754105,11.285381
+2253404,"Joplassvegen 6B, Levanger",63.754196,11.285287
+2253406,"Joplassvegen 1A, Levanger",63.753457,11.28545
+2253408,"Joplassvegen 1B, Levanger",63.753357,11.285523
+2253410,"Nordsivegen 26A, Levanger",63.752369,11.291242
+2253412,"Nordsivegen 26B, Levanger",63.752113,11.290978
+2253423,"Bambergvegen 5C, Levanger",63.749057,11.27812
+2253433,"Staupslia 3A, Levanger",63.746683,11.291655
+2253435,"Staupslia 3B, Levanger",63.746788,11.29156
+2253493,"Eidsbotnvegen 43B, Alstadhaug",63.738244,11.264604
+2253547,"Nordsivegen 30, Levanger",63.75312,11.289741
+2253569,"Bambergvegen 12D, Levanger",63.748537,11.279802
+2253574,"Bambergvegen 12A, Levanger",63.748602,11.279665
+2253575,"Bambergvegen 12B, Levanger",63.748662,11.279852
+2253576,"Bambergvegen 12C, Levanger",63.748579,11.279947
+2253585,"Finnemarka 5A, Levanger",63.747491,11.281744
+2253590,"Bambergvegen 1A, Levanger",63.748724,11.275904
+2253591,"Bambergvegen 1B, Levanger",63.748732,11.276513
+2253614,"Nordsivegen 16L, Levanger",63.749617,11.28814
+2253626,"Staupslia 29A, Levanger",63.747318,11.283535
+2253627,"Staupslia 29B, Levanger",63.747365,11.283508
+2253628,"Staupslia 29C, Levanger",63.747377,11.283331
+2253634,"Finnemarka 5B, Levanger",63.747406,11.281454
+2253718,"Petter Nyengets veg 1E, Levanger",63.746797,11.288175
+2253719,"Petter Nyengets veg 1F, Levanger",63.746799,11.288013
+2253720,"Petter Nyengets veg 1G, Levanger",63.74676,11.288801
+2253721,"Petter Nyengets veg 1H, Levanger",63.746745,11.288617
+2253722,"Petter Nyengets veg 1A, Levanger",63.746796,11.288804
+2253723,"Petter Nyengets veg 1B, Levanger",63.746799,11.288621
+2253724,"Petter Nyengets veg 1C, Levanger",63.74681,11.28846
+2253725,"Petter Nyengets veg 1D, Levanger",63.746813,11.288298
+2253760,"Eplehagen 1D, Levanger",63.746525,11.281545
+2253762,"Eplehagen 1E, Levanger",63.746471,11.281561
+2253764,"Eplehagen 1F, Levanger",63.746398,11.281595
+2253769,"Eplehagen 1K, Levanger",63.746581,11.281407
+2253771,"Eplehagen 1L, Levanger",63.746517,11.281463
+2253773,"Eplehagen 1M, Levanger",63.746463,11.281459
+2253775,"Eplehagen 1N, Levanger",63.746391,11.281493
+2253777,"Eplehagen 1G, Levanger",63.746326,11.28161
+2253779,"Eplehagen 1H, Levanger",63.746302,11.281426
+2253781,"Eplehagen 1I, Levanger",63.746631,11.281087
+2253783,"Eplehagen 1J, Levanger",63.746628,11.281269
+2253792,"Eplehagen 1O, Levanger",63.746291,11.281587
+2253794,"Eplehagen 1P, Levanger",63.746267,11.281402
+2253812,"Staupslia 15D, Levanger",63.747164,11.288833
+2253813,"Staupslia 15E, Levanger",63.747235,11.288859
+2253814,"Staupslia 15F, Levanger",63.74728,11.288823
+2253815,"Staupslia 15G, Levanger",63.747305,11.288987
+2253817,"Staupslia 15A, Levanger",63.746958,11.288796
+2253818,"Staupslia 15B, Levanger",63.747029,11.288802
+2253819,"Staupslia 15C, Levanger",63.747101,11.288828
+2253820,"Staupslia 15H, Levanger",63.746959,11.288695
+2253829,"Eidsbotnvegen 56A, Alstadhaug",63.737359,11.257522
+2253830,"Eidsbotnvegen 56B, Alstadhaug",63.737384,11.257645
+2253831,"Eidsbotnvegen 58A, Alstadhaug",63.737426,11.25779
+2253832,"Eidsbotnvegen 58B, Alstadhaug",63.737443,11.257893
+2253838,"Eidsbotnvegen 62B, Alstadhaug",63.737464,11.257145
+2253839,"Eidsbotnvegen 62C, Alstadhaug",63.737479,11.257288
+2253840,"Eidsbotnvegen 64A, Alstadhaug",63.737376,11.256429
+2253841,"Eidsbotnvegen 64B, Alstadhaug",63.737391,11.256592
+2253842,"Eidsbotnvegen 60A, Alstadhaug",63.737521,11.257474
+2253843,"Eidsbotnvegen 60B, Alstadhaug",63.737555,11.257598
+2253844,"Eidsbotnvegen 60C, Alstadhaug",63.73758,11.257722
+2253845,"Eidsbotnvegen 62A, Alstadhaug",63.737439,11.257001
+2253850,"Eidsbotnvegen 64C, Alstadhaug",63.737417,11.256695
+2253851,"Eidsbotnvegen 64D, Alstadhaug",63.737433,11.256818
+2253852,"Eidsbotnvegen 66A, Alstadhaug",63.737056,11.256241
+2253854,"Staupslia 15I, Levanger",63.747031,11.288721
+2253855,"Staupslia 15N, Levanger",63.747324,11.288927
+2253856,"Staupslia 15O, Levanger",63.746961,11.288614
+2253857,"Staupslia 15P, Levanger",63.747032,11.28862
+2253858,"Staupslia 15Q, Levanger",63.747104,11.288626
+2253859,"Staupslia 15J, Levanger",63.747102,11.288727
+2253860,"Staupslia 15K, Levanger",63.747165,11.288752
+2253861,"Staupslia 15L, Levanger",63.747236,11.288778
+2253862,"Staupslia 15M, Levanger",63.747299,11.288763
+2253867,"Staupslia 15R, Levanger",63.747166,11.288651
+2253868,"Staupslia 15S, Levanger",63.747238,11.288677
+2253869,"Staupslia 15T, Levanger",63.747327,11.288705
+2253870,"Staupslia 15U, Levanger",63.747343,11.288868
+2253877,"Nesheimvegen 12, Alstadhaug",63.738905,11.260847
+2253948,"Jacob Schives veg 21, Levanger",63.751607,11.278123
+2253955,"Jacob Schives veg 5, Levanger",63.753138,11.282362
+2254017,"Eplehagen 1A, Levanger",63.746657,11.28111
+2254020,"Eplehagen 1B, Levanger",63.746655,11.281292
+2254194,"Nordsivegen 10B, Levanger",63.749181,11.287294
+2254406,"Byborgvegen 16B, Levanger",63.748461,11.294757
+2254610,"Sørlia 2C, Alstadhaug",63.737148,11.255363
+2254611,"Sørlia 2D, Alstadhaug",63.737143,11.255474
+2254615,"Sørlia 2A, Alstadhaug",63.737105,11.255058
+2254616,"Sørlia 2B, Alstadhaug",63.737102,11.255201
+2254649,"Petter Nyengets veg 2A, Levanger",63.747133,11.286958
+2254651,"Petter Nyengets veg 2B, Levanger",63.74719,11.286969
+2254697,"Jacob Schives veg 18D, Levanger",63.751744,11.277461
+2254698,"Jacob Schives veg 18E, Levanger",63.75178,11.277563
+2254699,"Jacob Schives veg 18F, Levanger",63.751803,11.277685
+2255183,"Hegglia 3B, Levanger",63.749179,11.285341
+2255185,"Hegglia 1B, Levanger",63.749249,11.285921
+2255186,"Hegglia 3A, Levanger",63.749269,11.285545
+2255191,"Hegglia 1A, Levanger",63.749384,11.286086
+2255273,"Staupslia 17O, Levanger",63.747369,11.288317
+2255276,"Staupslia 17W, Levanger",63.74732,11.287624
+2255293,"Eidsbotnvegen 68, Alstadhaug",63.736404,11.25086
+2255299,"Eidsbotnvegen 70, Alstadhaug",63.73575,11.246694
+2255306,"Eidsbotnvegen 128, Alstadhaug",63.7349,11.240183
+2255386,"Staupslia 17Y, Levanger",63.747252,11.288372
+2255387,"Staupslia 17I, Levanger",63.747323,11.288017
+2255395,"Staupslia 17H, Levanger",63.747325,11.288192
+2255396,"Staupslia 17Q, Levanger",63.747293,11.288183
+2255397,"Staupslia 17P, Levanger",63.747288,11.288377
+2255398,"Staupslia 17Z, Levanger",63.747264,11.288181
+2255399,"Staupslia 17G, Levanger",63.747321,11.28838
+2255406,"Staupslia 17J, Levanger",63.747046,11.287735
+2255408,"Staupslia 17S, Levanger",63.747045,11.287626
+2255411,"Staupslia 17A, Levanger",63.747044,11.287853
+2255413,"Staupslia 17U, Levanger",63.747171,11.287624
+2255414,"Staupslia 17C, Levanger",63.747172,11.287875
+2255415,"Staupslia 17K, Levanger",63.7471,11.28774
+2255416,"Staupslia 17T, Levanger",63.747099,11.287626
+2255417,"Staupslia 17B, Levanger",63.747102,11.287861
+2255505,"Staupslia 38F, Levanger",63.74934,11.272562
+2255506,"Nordsivegen 16K, Levanger",63.749539,11.288274
+2255507,"Nordsivegen 16J, Levanger",63.749529,11.288524
+2255508,"Staupslia 38C, Levanger",63.74937,11.272248
+2255510,"Staupslia 38B, Levanger",63.749387,11.272389
+2255512,"Staupslia 38A, Levanger",63.749405,11.272512
+2255523,"Staupslia 14, Levanger",63.74792,11.286277
+2255534,"Nordsivegen 5B, Levanger",63.750449,11.285825
+2255564,"Sørlia 1B, Alstadhaug",63.736798,11.254466
+2255565,"Sørlia 1A, Alstadhaug",63.736843,11.254433
+2255566,"Sørlia 3B, Alstadhaug",63.736774,11.254328
+2255567,"Sørlia 3A, Alstadhaug",63.736825,11.254294
+2255568,"Sørlia 5A, Alstadhaug",63.736775,11.253957
+2255569,"Sørlia 7A, Alstadhaug",63.736753,11.253795
+2255570,"Sørlia 5B, Alstadhaug",63.736726,11.253986
+2255577,"Sørlia 14B, Alstadhaug",63.73675,11.252707
+2255578,"Sørlia 16B, Alstadhaug",63.736728,11.252549
+2255592,"Sørlia 12A, Alstadhaug",63.73684,11.25301
+2255593,"Sørlia 10A, Alstadhaug",63.73687,11.253185
+2255612,"Sørlia 9A, Alstadhaug",63.73659,11.252826
+2255614,"Sørlia 11A, Alstadhaug",63.73657,11.252672
+2255621,"Staup 2, Levanger",63.747022,11.276653
+2255667,"Byborgvegen 10D, Levanger",63.747711,11.294515
+2255668,"Staupslia 36F, Levanger",63.749506,11.273433
+2255670,"Staupslia 36I, Levanger",63.74945,11.273005
+2255671,"Staupslia 36H, Levanger",63.749469,11.27317
+2255672,"Staupslia 36D, Levanger",63.749515,11.272965
+2255673,"Staupslia 36C, Levanger",63.749536,11.273129
+2255674,"Staupslia 36B, Levanger",63.749554,11.273266
+2255675,"Byborgvegen 10C, Levanger",63.747848,11.294595
+2255677,"Eidsbotnvegen 80D, Alstadhaug",63.736023,11.248866
+2255715,"Sørlia 8B, Alstadhaug",63.736978,11.253977
+2255737,"Staupslia 41H, Levanger",63.745766,11.278238
+2255739,"Staupslia 41G, Levanger",63.745676,11.274834
+2255740,"Staupslia 41F, Levanger",63.745019,11.277128
+2255757,"Staupslia 52E, Levanger",63.750038,11.271349
+2255758,"Staupslia 52D, Levanger",63.749987,11.271247
+2255777,"Staupslia 34F, Levanger",63.749569,11.273827
+2255778,"Staupslia 34E, Levanger",63.749623,11.273902
+2255779,"Staupslia 34G, Levanger",63.749582,11.273942
+2255809,"Fergemannsvegen 1B, Levanger",63.747394,11.293008
+2255810,"Fergemannsvegen 1E, Levanger",63.747396,11.293158
+2255811,"Fergemannsvegen 1D, Levanger",63.74729,11.29278
+2255812,"Bambergvegen 17E, Levanger",63.75012,11.281318
+2255813,"Bambergvegen 17D, Levanger",63.750061,11.281313
+2255830,"Staupslia 50A, Levanger",63.74967,11.270135
+2255831,"Staupslia 50D, Levanger",63.749629,11.269769
+2354177,"Nelius Hallans veg 12, Levanger",63.749579,11.278075
+2359529,"Berglivegen 3A, Levanger",63.748187,11.282036
+2359564,"Berglivegen 3C, Levanger",63.748437,11.282147
+2367869,"Eidsbotnvegen 28A, Levanger",63.743237,11.274149
+2367870,"Eidsbotnvegen 28B, Levanger",63.742937,11.273314
+2367871,"Eidsbotnvegen 28C, Levanger",63.742643,11.272482
+2367872,"Eidsbotnvegen 30, Levanger",63.742103,11.271514
+2367976,"Staupslia 8A, Levanger",63.747961,11.291229
+2396413,"Staupslia 38D, Levanger",63.74935,11.272106
+2396414,"Staupslia 38E, Levanger",63.749329,11.271939
+2396415,"Staupslia 38I, Levanger",63.749291,11.27214
+2396416,"Staupslia 38H, Levanger",63.749307,11.272283
+2396543,"Staupslia 41B, Levanger",63.745811,11.281558
+2396720,"Eidsbotnvegen 82C, Alstadhaug",63.736152,11.249046
+2396721,"Eidsbotnvegen 82B, Alstadhaug",63.736195,11.249161
+2396722,"Eidsbotnvegen 82E, Alstadhaug",63.736141,11.249277
+2396723,"Eidsbotnvegen 82D, Alstadhaug",63.736182,11.249379
+2396724,"Eidsbotnvegen 80E, Alstadhaug",63.736005,11.248733
+2396727,"Eidsbotnvegen 82A, Alstadhaug",63.736241,11.249266
+2396729,"Eidsbotnvegen 80F, Alstadhaug",63.73599,11.248616
+2396734,"Eidsbotnvegen 82F, Alstadhaug",63.736097,11.249158
+2396757,"Eidsbotnvegen 84, Alstadhaug",63.736162,11.247568
+2396758,"Eidsbotnvegen 90, Alstadhaug",63.73611,11.246751
+2396759,"Eidsbotnvegen 88, Alstadhaug",63.736127,11.246957
+2396760,"Eidsbotnvegen 74, Alstadhaug",63.735673,11.245918
+2396761,"Eidsbotnvegen 76, Alstadhaug",63.735722,11.246181
+2396764,"Eidsbotnvegen 94, Alstadhaug",63.73596,11.246024
+2396766,"Eidsbotnvegen 92, Alstadhaug",63.736023,11.246282
+2396897,"Eidsbotnvegen 80C, Alstadhaug",63.736062,11.248559
+2396899,"Eidsbotnvegen 78F, Alstadhaug",63.73593,11.248153
+2396900,"Eidsbotnvegen 78E, Alstadhaug",63.735948,11.248307
+2396901,"Eidsbotnvegen 80B, Alstadhaug",63.73608,11.248682
+2396902,"Eidsbotnvegen 80A, Alstadhaug",63.736099,11.248805
+2396903,"Eidsbotnvegen 78B, Alstadhaug",63.736018,11.248266
+2396904,"Eidsbotnvegen 78A, Alstadhaug",63.736039,11.248393
+2396905,"Eidsbotnvegen 78D, Alstadhaug",63.735969,11.248444
+2396906,"Eidsbotnvegen 78C, Alstadhaug",63.735994,11.248112
+2397640,"Eidsbotnvegen 78I, Alstadhaug",63.735863,11.247528
+2397761,"Staupslia 54E, Levanger",63.749619,11.27061
+2457236,"Hegglia 12B, Levanger",63.750861,11.285031
+2485986,"Eidsbotnvegen 39D, Levanger",63.739203,11.265658
+2486037,"Eidsbotnvegen 39C, Levanger",63.739169,11.26557
+2486038,"Eidsbotnvegen 39B, Levanger",63.739115,11.265452
+2486040,"Eidsbotnvegen 39A, Levanger",63.739079,11.265374
+2535056,"Staupslia 40, Levanger",63.749663,11.272128
+2535057,"Staupslia 44, Levanger",63.750003,11.272236

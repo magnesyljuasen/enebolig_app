@@ -1,0 +1,819 @@
+,Navn,Long,Lat
+36650,"1/53-1, Austevoll",60.013905,5.195829
+36651,"1/53, Austevoll",60.013976,5.195871
+38140,"6/82, Austevoll",60.009556,5.153513
+38416,"13/39, Austevoll",59.999934,5.115825
+38417,"13/39-1, Austevoll",59.999916,5.115675
+44696,"66/172, Austevoll",60.006857,5.200722
+45830,"70/76, Austevoll",59.973189,5.181529
+55962,"12/90, Austevoll",59.998965,5.127451
+55991,"3/13, Austevoll",60.014129,5.187902
+875150,"Nordre Drivenes 12, Austevoll",60.011758,5.199501
+875175,"Nordre Drivenes 76, Austevoll",60.010202,5.196341
+875177,"Nordre Drivenes 19, Austevoll",60.01233,5.196581
+875179,"Nordre Drivenes 81, Austevoll",60.010241,5.194272
+875181,"Nordre Drivenes 45, Austevoll",60.012381,5.193038
+875183,"Nordre Drivenes 41, Austevoll",60.012031,5.195556
+875185,"Nordre Drivenes 87, Austevoll",60.010213,5.193305
+875188,"Nordre Drivenes 61, Austevoll",60.011389,5.195738
+875190,"Fagerbakkevegen 4, Austevoll",60.010059,5.188135
+875192,"Fagerbakkevegen 16, Austevoll",60.01105,5.185561
+875195,"Nordre Drivenes 97, Austevoll",60.010702,5.189999
+875197,"Nordre Drivenes 27, Austevoll",60.013142,5.192609
+875199,"Skipavika 16, Austevoll",60.014802,5.193136
+875202,"Skipavika 32, Austevoll",60.014509,5.194211
+875204,"Nordre Drivenes 66, Austevoll",60.011508,5.197947
+875206,"Nordre Drivenes 68, Austevoll",60.011137,5.198226
+875207,"Inngjerdet 3, Austevoll",60.008545,5.195293
+875209,"Inngjerdet 1, Austevoll",60.008448,5.194729
+875211,"Drivenes 55, Austevoll",60.010625,5.197908
+875213,"Nordre Drivenes 16, Austevoll",60.011901,5.197887
+875215,"Drivenes 24, Austevoll",60.012687,5.200221
+875217,"Skipavika 5, Austevoll",60.013562,5.197517
+875220,"Skipavika 30, Austevoll",60.014099,5.19433
+875222,"Søre Drivenes 48, Austevoll",60.011752,5.201459
+875224,"Nordre Drivenes 73, Austevoll",60.010608,5.195773
+875226,"Inngjerdet 9, Austevoll",60.007231,5.194618
+875228,"Nordre Drivenes 70, Austevoll",60.010902,5.197248
+875230,"Inngjerdet 5, Austevoll",60.008104,5.194356
+875232,"Inngjerdet 7, Austevoll",60.007703,5.194456
+875234,"Kalvanesvegen 28, Austevoll",60.010673,5.170594
+875236,"Slåttevika 24, Austevoll",60.01284,5.176879
+875238,"Fagerbakke 45, Austevoll",60.010799,5.183094
+875240,"Kalvanesvegen 32, Austevoll",60.012105,5.168292
+875243,"Fagerbakke 47, Austevoll",60.011667,5.180487
+875245,"Nordrevågen 37, Austevoll",60.014941,5.187374
+875247,"Fagerbakkevegen 24, Austevoll",60.011551,5.186401
+875249,"Kalvaneset 37, Austevoll",60.010111,5.16741
+875251,"Slåttevika 4, Austevoll",60.013097,5.173671
+875253,"Kalvanesvegen 79, Austevoll",60.013891,5.169126
+875255,"Kalvanesvegen 34, Austevoll",60.011936,5.169586
+875257,"Kalvanesvegen 57, Austevoll",60.013355,5.172654
+875259,"Kalvanesvegen 64, Austevoll",60.012603,5.171197
+875261,"Kalvanesvegen 72, Austevoll",60.013367,5.169941
+875263,"Kalvanesvegen 75, Austevoll",60.013799,5.169981
+875265,"Fagerbakkevegen 12, Austevoll",60.010608,5.187999
+875267,"Fagerbakkevegen 14, Austevoll",60.010504,5.186234
+875269,"Fagerbakkevegen 34, Austevoll",60.012637,5.186976
+875273,"Nordrevågen 5, Austevoll",60.014805,5.191053
+875275,"Fagerbakkevegen 30, Austevoll",60.011855,5.18791
+875277,"Fagerbakke 12, Austevoll",60.009663,5.190137
+875279,"Fagerbakkevegen 44, Austevoll",60.013093,5.187404
+875281,"Nordrevågen 20, Austevoll",60.013482,5.186663
+875283,"Fagerbakkevegen 32, Austevoll",60.012292,5.187141
+875285,"Fagerbakkevegen 26, Austevoll",60.011344,5.187645
+875287,"Fagerbakkevegen 18, Austevoll",60.011053,5.186584
+875289,"Nordrevågen 13, Austevoll",60.014424,5.189086
+875318,"Skipavika 12, Austevoll",60.014323,5.19199
+875520,"Grunnavågen 9, Austevoll",60.007872,5.155659
+875521,"Grunnavågen 35, Austevoll",60.009307,5.15377
+875522,"Grunnavågen 16, Austevoll",60.008006,5.155015
+875523,"Grunnavågen 5, Austevoll",60.007334,5.156332
+875524,"Øvre Veivågen 4, Austevoll",60.006256,5.16003
+875525,"Veivågen 48, Austevoll",60.0059,5.157683
+875526,"Øvre Veivågen 6, Austevoll",60.006166,5.161261
+875527,"Veivågen 20, Austevoll",60.007537,5.162071
+875529,"Veivågen 60, Austevoll",60.006768,5.15459
+875531,"Øvre Veivågen 2, Austevoll",60.006751,5.160062
+875533,"Øvre Veivågen 8, Austevoll",60.006175,5.162498
+875535,"Grunnavågen 23, Austevoll",60.008413,5.154483
+875536,"Øvre Veivågen 38, Austevoll",60.003842,5.160802
+875537,"Øvre Veivågen 34, Austevoll",60.003915,5.161773
+875538,"Øvre Veivågen 35, Austevoll",60.004753,5.15908
+875539,"Nedre Veivågen 31, Austevoll",60.008957,5.1574
+875540,"Nedre Veivågen 32, Austevoll",60.00874,5.156456
+875541,"Grunnavågen 32, Austevoll",60.008996,5.15411
+875542,"Nedre Veivågen 16, Austevoll",60.008183,5.158908
+875543,"Veivågen 22, Austevoll",60.007146,5.161578
+875544,"Kalvanesvegen 59, Austevoll",60.013647,5.172782
+875545,"Veivågen 46, Austevoll",60.006509,5.157325
+875546,"Kalvanesvegen 69, Austevoll",60.013134,5.170597
+875547,"Slåttevika 19, Austevoll",60.0122,5.175607
+875548,"Øvre Veivågen 16, Austevoll",60.005344,5.159597
+875549,"Veivågen 19, Austevoll",60.007829,5.160027
+875550,"Øvre Veivågen 39, Austevoll",60.003621,5.160012
+875551,"Øvre Veivågen 40, Austevoll",60.003611,5.161198
+875552,"Øvre Veivågen 15, Austevoll",60.005561,5.1581
+875553,"Nedre Veivågen 29, Austevoll",60.008715,5.158039
+875554,"Øvre Veivågen 26, Austevoll",60.005003,5.16071
+875555,"Grunnavågen 37, Austevoll",60.009447,5.153878
+875556,"Indra Rabbavika 13, Austevoll",60.00768,5.147531
+875557,"Rabben 6, Austevoll",60.006091,5.149457
+875558,"Rabben 10, Austevoll",60.006133,5.148411
+875559,"Indra Rabbavika 12, Austevoll",60.007675,5.146113
+875560,"Noven 20, Austevoll",60.006544,5.149889
+875561,"Indra Rabbavika 4, Austevoll",60.006813,5.145854
+875562,"Rabben 36, Austevoll",60.005672,5.146795
+875563,"Rabben 31, Austevoll",60.00622,5.146529
+875564,"Rabbavika 7, Austevoll",60.00535,5.144695
+875565,"Rabbavika 35, Austevoll",60.006756,5.14114
+875566,"Rabbavika 30, Austevoll",60.005835,5.141014
+875567,"Rabbavika 50, Austevoll",60.006705,5.140302
+875568,"Rabben 33, Austevoll",60.006454,5.145878
+875569,"Indra Rabbavika 19, Austevoll",60.008347,5.146663
+875570,"Tuftavika 9, Austevoll",60.007613,5.150465
+875571,"Tuftavika 17, Austevoll",60.008244,5.149296
+875572,"Lunnøya 50, Austevoll",60.025665,5.135447
+875573,"Noven 16, Austevoll",60.005911,5.151919
+875574,"Grunnavågen 1, Austevoll",60.007034,5.157444
+875575,"Lunnøya 58, Austevoll",60.026881,5.136742
+875576,"Øvre Veivågen 10, Austevoll",60.005774,5.163175
+875577,"Indra Rabbavika 15, Austevoll",60.007789,5.148094
+875578,"Rabben 35, Austevoll",60.005963,5.146007
+875579,"Indra Rabbavika 6, Austevoll",60.007168,5.145095
+875580,"Indra Rabbavika 14, Austevoll",60.007339,5.147247
+875581,"Rabben 8, Austevoll",60.006865,5.148864
+875582,"Rabben 16, Austevoll",60.003131,5.149658
+875583,"Tuftavika 35, Austevoll",60.008931,5.149516
+875584,"Tuftavika 7, Austevoll",60.007531,5.150133
+875585,"Djupavågen 69, Austevoll",60.002579,5.132652
+875586,"Djupavågen 3, Austevoll",60.004702,5.136694
+875587,"Ytre Rabben 1, Austevoll",60.00381,5.14493
+875588,"Rabbavika 13, Austevoll",60.00586,5.144075
+875589,"Rabben 64, Austevoll",60.002905,5.144407
+875590,"Ytre Rabben 15, Austevoll",60.004859,5.142043
+875591,"Ytre Rabben 5, Austevoll",60.004193,5.143862
+875592,"Ytre Rabben 9, Austevoll",60.004268,5.142453
+875593,"Ytre Rabben 3, Austevoll",60.003874,5.144348
+875594,"Ytre Rabben 7, Austevoll",60.003923,5.143552
+875595,"Ytre Rabben 22, Austevoll",60.004696,5.140068
+875596,"Djupavågvegen 27, Austevoll",60.004197,5.135101
+875597,"Ytre Rabben 27, Austevoll",60.005289,5.140108
+875598,"Ytre Rabben 11, Austevoll",60.004317,5.141657
+875599,"Rabbavika 52, Austevoll",60.006692,5.139567
+875600,"Ytre Rabben 17, Austevoll",60.004781,5.141226
+875601,"Ytre Rabben 25, Austevoll",60.004959,5.140865
+875889,"Djupavågen 47, Austevoll",60.002062,5.134938
+875890,"Djupavågvegen 25, Austevoll",60.004559,5.135167
+875892,"Djupavågen 22, Austevoll",60.002452,5.140295
+875894,"Djupavågen 23, Austevoll",60.00229,5.139058
+875898,"Djupavågen 1, Austevoll",60.004747,5.13913
+875902,"Tøkje 21, Austevoll",60.002137,5.128629
+875904,"Steinavika 58, Austevoll",59.998153,5.121216
+875906,"Steinavikvegen 22, Austevoll",59.999492,5.121185
+875909,"Steinavika 47, Austevoll",59.998678,5.122893
+875911,"Djupavågen 7, Austevoll",60.003751,5.13834
+875912,"Steinavikvegen 11, Austevoll",59.999647,5.123428
+875928,"Salthellevegen 20, Austevoll",59.999144,5.117618
+875930,"Salthellevegen 32, Austevoll",59.999145,5.115518
+875932,"Salthellevegen 25, Austevoll",59.999545,5.117517
+875934,"Fiskerihamnvegen 5, Austevoll",60.00025,5.115591
+875936,"Steinavika 26, Austevoll",59.999274,5.126307
+875938,"Steinavikvegen 15, Austevoll",60.000301,5.122741
+875941,"Steinavika 12, Austevoll",59.999991,5.12748
+875943,"Salthella 4, Austevoll",59.997447,5.12015
+875946,"Salthellevegen 33, Austevoll",60.000069,5.11636
+875947,"Salthellevegen 24, Austevoll",59.999033,5.116608
+875949,"Salthellevegen 28, Austevoll",59.999413,5.116689
+875951,"Salthella 3, Austevoll",59.998915,5.118763
+875953,"Salthellevegen 26, Austevoll",59.999263,5.117083
+875955,"Fiskerihamnvegen 12, Austevoll",60.000285,5.114235
+875957,"Salthellevegen 34, Austevoll",59.999427,5.115933
+875959,"Tøkje 10, Austevoll",60.002493,5.131262
+875960,"Steinavika 60, Austevoll",59.998429,5.120519
+875961,"Tøkje 11, Austevoll",60.002633,5.129576
+875963,"Steinavika 20, Austevoll",60.000144,5.125344
+875965,"Steinavika 36, Austevoll",59.998429,5.125308
+875967,"Tøkje 9, Austevoll",60.002744,5.130012
+875968,"Tøkje 20, Austevoll",60.002149,5.130566
+875970,"Tøkje 3, Austevoll",60.002903,5.131124
+875972,"Steinavika 56, Austevoll",59.997589,5.121605
+875977,"Tøkje 24, Austevoll",60.0018,5.129081
+875979,"Steinavika 6, Austevoll",60.000791,5.126866
+875981,"Steinavikvegen 10, Austevoll",59.999425,5.122592
+875983,"Tøkje 28, Austevoll",60.001624,5.127666
+875985,"Steinavika 38, Austevoll",59.998294,5.124789
+875987,"Steinavika 46, Austevoll",59.998257,5.123214
+876028,"Fiskerihamnvegen 42, Austevoll",60.003165,5.116176
+876573,"Djupavågen 5, Austevoll",60.004158,5.137763
+876574,"Tuftavika 5, Austevoll",60.007415,5.15047
+876575,"Nedre Veivågen 27, Austevoll",60.011355,5.158576
+876576,"Kalvanesvegen 99, Austevoll",60.013547,5.165306
+876577,"Kalvanesvegen 100, Austevoll",60.013451,5.167274
+876578,"Slåttevika 18, Austevoll",60.014037,5.175089
+876579,"Slåttevika 10, Austevoll",60.013199,5.17504
+876580,"Søre Drivenes 40, Austevoll",60.010639,5.201228
+876581,"Bekkjarvik 90, Austevoll",60.004601,5.204416
+876582,"Drivenes 26, Austevoll",60.012276,5.201884
+876583,"Drivenes 28, Austevoll",60.012084,5.202067
+876584,"Noven 1, Austevoll",60.007633,5.152401
+876585,"Noven 6, Austevoll",60.00691,5.154101
+876586,"Tuftavika 1, Austevoll",60.007198,5.151052
+876587,"Tuftavika 2, Austevoll",60.006847,5.150392
+876588,"Gauksheimvika 35, Austevoll",59.974193,5.181789
+876589,"Gauksheimvegen 28, Austevoll",59.975872,5.172802
+876594,"Nordrevågen 3, Austevoll",60.014469,5.190934
+876595,"Slåttevika 16, Austevoll",60.013837,5.173747
+876596,"Albriktsneset 35, Austevoll",60.017295,5.183125
+876597,"Nordrevågen 39, Austevoll",60.014869,5.186754
+876598,"Grasdalen 36, Austevoll",59.980042,5.190369
+876599,"Nordrevågen 89, Austevoll",60.016688,5.178007
+876600,"Gauksheimvika 45, Austevoll",59.974938,5.180179
+876601,"Grasdalen 82, Austevoll",59.977623,5.185699
+876602,"Gauksheimvegen 38, Austevoll",59.975823,5.171267
+876603,"Gauksheimvegen 44, Austevoll",59.975661,5.169993
+876604,"Gauksheimvegen 42, Austevoll",59.975829,5.170607
+876605,"Gauksheimvegen 36, Austevoll",59.975868,5.171589
+876606,"Grasdalen 64, Austevoll",59.977698,5.188291
+876609,"Grasdalssjøen 20, Austevoll",59.981182,5.198096
+876611,"Gauksheimvegen 6, Austevoll",59.975853,5.175769
+876613,"Gauksheimvegen 50, Austevoll",59.975883,5.169076
+876614,"Grasdalsvegen 48, Austevoll",59.982557,5.18144
+876615,"Grasdalsvegen 52, Austevoll",59.98367,5.180015
+876616,"Grasdalsvegen 35, Austevoll",59.984762,5.183872
+876617,"Sætre 23, Austevoll",59.982109,5.19503
+876618,"Sætre 34, Austevoll",59.981892,5.196661
+876619,"Sætre 25, Austevoll",59.982271,5.195657
+876620,"Sætre 41, Austevoll",59.980999,5.194871
+876621,"Grasdalsvegen 42, Austevoll",59.98241,5.183278
+876622,"Grasdalen 22, Austevoll",59.980022,5.1931
+876623,"Grasdalsvegen 33, Austevoll",59.983816,5.184354
+876624,"Grasdalen 9, Austevoll",59.98067,5.193761
+876625,"Grasdalsvegen 15, Austevoll",59.983603,5.187611
+876626,"Grasdalen 12, Austevoll",59.979286,5.195225
+876629,"Lunnøya 30, Austevoll",60.026895,5.139381
+876631,"Søre Drivenes 50, Austevoll",60.011624,5.200849
+876633,"Skipavika 9, Austevoll",60.013688,5.19699
+876635,"Gauksheim 40, Austevoll",59.975762,5.179223
+876636,"Øvre Veivågen 32, Austevoll",60.004336,5.160899
+876639,"Nedre Veivågen 41, Austevoll",60.009532,5.155134
+876650,"Noven 3, Austevoll",60.007693,5.151874
+876659,"Gullsmedvegen 12, Austevoll",60.004152,5.20165
+876666,"Djupavågen 12, Austevoll",60.003088,5.141729
+876673,"Ytre Rabben 28, Austevoll",60.005066,5.139337
+876676,"Storaskjersvegen 49C, Austevoll",60.009484,5.145242
+876681,"Djupavågen 16, Austevoll",60.002397,5.14398
+876683,"Økshammarvegen 80, Austevoll",59.987504,5.220389
+876685,"Skipavika 14, Austevoll",60.014868,5.192303
+876691,"Bekkjarvik 177, Austevoll",59.998232,5.203708
+876692,"Steinavika 54, Austevoll",59.997213,5.123237
+876704,"Nedre Veivågen 39, Austevoll",60.010595,5.155114
+876709,"Gauksheimvegen 60, Austevoll",59.976346,5.169474
+876713,"Fagerbakkevegen 20, Austevoll",60.01095,5.187062
+876725,"Nordrevågen 85, Austevoll",60.014941,5.184878
+876732,"Salthellevegen 31, Austevoll",59.999755,5.116684
+876733,"Salthella 14, Austevoll",59.997892,5.11877
+876743,"Lunnøya 57, Austevoll",60.027956,5.135332
+876767,"Bekkjarvik 43, Austevoll",60.007673,5.201211
+876768,"Bekkjarvik 243, Austevoll",59.994056,5.209394
+876769,"Søre Drivenes 64, Austevoll",60.009932,5.204146
+876770,"Søre Drivenes 27, Austevoll",60.009537,5.201337
+876771,"Søre Drivenes 66, Austevoll",60.009659,5.204016
+876772,"Søre Drivenes 76, Austevoll",60.008512,5.205404
+876773,"Bekkjarvik 223, Austevoll",59.99537,5.208831
+876774,"Bekkjarvik 27, Austevoll",60.008449,5.199108
+876775,"Bekkjarviksundet 5A, Austevoll",60.009877,5.206289
+876776,"Bekkjarviksundet 7, Austevoll",60.010381,5.205692
+876777,"Søre Drivenes 30, Austevoll",60.009831,5.199364
+876778,"Bekkjarvik 329, Austevoll",59.987067,5.206445
+876779,"Søre Drivenes 61, Austevoll",60.008805,5.203406
+876780,"Bekkjarvik 245, Austevoll",59.993687,5.20906
+876781,"Bekkjarvik 247, Austevoll",59.993633,5.210017
+876782,"Bekkjarvik 339, Austevoll",59.986,5.206226
+876791,"Bekkjarvik 216, Austevoll",59.995626,5.210865
+876792,"Søre Drivenes 38, Austevoll",60.010621,5.200652
+876793,"Søre Drivenes 67, Austevoll",60.009299,5.203755
+876794,"Søre Drivenes 22, Austevoll",60.009523,5.199291
+876795,"Søre Drivenes 17, Austevoll",60.009154,5.199828
+876797,"Bekkjarvik 32, Austevoll",60.008866,5.199906
+876799,"Søre Drivenes 23, Austevoll",60.009376,5.200116
+876801,"Horgestykket 8B, Austevoll",60.006278,5.200375
+876802,"Alvamyrvegen 45, Austevoll",60.000334,5.204511
+876803,"Gullsmedvegen 10, Austevoll",60.004174,5.202401
+876804,"Bekkjarvik 104, Austevoll",60.003678,5.203427
+876805,"Bekkjarvik 51, Austevoll",60.007561,5.20203
+876806,"Gullsmedvegen 7, Austevoll",60.004821,5.20177
+876807,"Horgestykket 5, Austevoll",60.006178,5.20113
+876808,"Bekkjarvik 100, Austevoll",60.004099,5.203235
+876809,"Grasdalssjøen 31, Austevoll",59.980386,5.200107
+876810,"Sætre 37, Austevoll",59.981513,5.195547
+876811,"Bekkjarvik 72, Austevoll",60.00707,5.205463
+876812,"Bekkjarvik 70, Austevoll",60.006958,5.20504
+876813,"Bekkjarvik 139, Austevoll",60.001238,5.203761
+876814,"Bekkjarvik 137, Austevoll",60.001397,5.203043
+876815,"Bekkjarvik 135, Austevoll",60.001822,5.20312
+876816,"Gullsmedvegen 5, Austevoll",60.005047,5.202181
+876817,"Bekkjarvik 37, Austevoll",60.008255,5.200532
+876818,"Bekkjarvik 325, Austevoll",59.987696,5.206796
+876819,"Bekkjarvik 169, Austevoll",59.998964,5.204399
+876820,"Bekkjarviksundet 3, Austevoll",60.009738,5.205497
+876821,"Søre Drivenes 53, Austevoll",60.009176,5.201593
+876822,"Inngjerdet 11, Austevoll",60.008286,5.195987
+876823,"Bekkjarvik 278, Austevoll",59.990544,5.209836
+876824,"Bekkjarvik 92, Austevoll",60.00462,5.203535
+876825,"Bekkjarvik 61, Austevoll",60.006931,5.203539
+876826,"Horgestykket 6, Austevoll",60.005975,5.20031
+876827,"Bekkjarvik 57, Austevoll",60.007182,5.202576
+876828,"Bekkjarvik 66, Austevoll",60.007583,5.204602
+876829,"Bekkjarvik 49, Austevoll",60.008005,5.20153
+876830,"Gullsmedvegen 53, Austevoll",60.007226,5.201315
+876844,"Grasdalen 51, Austevoll",59.981096,5.185783
+876849,"Gullsmedvegen 57, Austevoll",60.007654,5.20026
+876850,"Bekkjarvik 45, Austevoll",60.007966,5.20154
+876855,"Bekkjarvik 394, Austevoll",59.983191,5.202333
+876858,"Bekkjarvik 214, Austevoll",59.995858,5.209565
+876881,"Lunnøya 45, Austevoll",60.026913,5.1378
+876883,"Lunnøya 54, Austevoll",60.02658,5.134536
+876884,"Lunnøya 56, Austevoll",60.026508,5.135721
+876886,"Lunnøya 4, Austevoll",60.027253,5.141711
+876992,"Horgestykket 17, Austevoll",60.006896,5.20015
+876993,"Søre Drivenes 32, Austevoll",60.010163,5.199406
+876994,"Bekkjarvik 39, Austevoll",60.008015,5.199357
+876995,"Søre Drivenes 44, Austevoll",60.010137,5.201896
+876997,"Inngjerdet 19, Austevoll",60.007421,5.195907
+876999,"Bekkjarvik 10, Austevoll",60.008816,5.197524
+877019,"Bekkjarvik 344, Austevoll",59.985153,5.20686
+877020,"Søre Drivenes 59, Austevoll",60.008653,5.202479
+877021,"Gullsmedvegen 32, Austevoll",60.006442,5.201243
+877022,"Horgestykket 12, Austevoll",60.006583,5.200204
+877023,"Søre Drivenes 19, Austevoll",60.009221,5.199416
+877024,"Bekkjarvik 6, Austevoll",60.009186,5.196942
+877025,"Gullsmedvegen 58, Austevoll",60.007475,5.200281
+877026,"Søre Drivenes 13, Austevoll",60.009165,5.199027
+877027,"Søre Drivenes 62, Austevoll",60.01022,5.203843
+877028,"Inngjerdet 13, Austevoll",60.008059,5.195582
+877029,"Inngjerdet 12, Austevoll",60.00857,5.196493
+877030,"Søre Drivenes 75, Austevoll",60.008713,5.203927
+877031,"Bekkjarvik 41, Austevoll",60.007875,5.199822
+877033,"Bekkjarvik 352, Austevoll",59.984496,5.206757
+877045,"Gauksheimvika 13, Austevoll",59.974745,5.173548
+877047,"Grasdalssjøen 17, Austevoll",59.979092,5.197249
+877048,"Gauksheimvegen 1, Austevoll",59.976486,5.176234
+877060,"Grasdalen 53, Austevoll",59.980841,5.185669
+877061,"Grasdalsvegen 50, Austevoll",59.984442,5.178116
+877062,"Grasdalssjøen 9, Austevoll",59.980059,5.196557
+877063,"Bekkjarvik 67, Austevoll",60.006621,5.203718
+877064,"Gullsmedvegen 29, Austevoll",60.005897,5.20355
+877065,"Inngjerdet 29, Austevoll",60.006607,5.196903
+877066,"Kalvaneset 45, Austevoll",60.010175,5.166846
+877069,"Horgestykket 30, Austevoll",60.00719,5.200393
+877097,"Nedre Veivågen 23, Austevoll",60.010174,5.160006
+877099,"Nordre Drivenes 10, Austevoll",60.0121,5.198888
+877100,"Økshammarvegen 66, Austevoll",59.988471,5.220584
+877101,"Steinavika 53, Austevoll",59.998582,5.12235
+877103,"Gauksheim 11, Austevoll",59.977528,5.183019
+877105,"Gullsmedvegen 35, Austevoll",60.006645,5.202064
+877107,"Gullsmedvegen 20, Austevoll",60.004934,5.199138
+877110,"Bekkjarvik 1, Austevoll",60.009306,5.19553
+877112,"Indra Rabbavika 25A, Austevoll",60.009188,5.145901
+877114,"Indra Rabbavika 25B, Austevoll",60.009153,5.145959
+877130,"Indra Rabbavika 8, Austevoll",60.007703,5.144252
+877133,"Indra Rabbavika 25E, Austevoll",60.009033,5.146152
+877135,"Indra Rabbavika 25F, Austevoll",60.00899,5.146211
+877137,"Indra Rabbavika 25C, Austevoll",60.009119,5.146017
+877138,"Indra Rabbavika 25D, Austevoll",60.009076,5.146093
+877156,"Nordre Drivenes 55, Austevoll",60.011521,5.194699
+877174,"Grasdalssjøen 40, Austevoll",59.980383,5.202188
+877175,"Bekkjarvik 396, Austevoll",59.982221,5.201098
+877180,"Lunnøya 49, Austevoll",60.027979,5.138626
+877181,"Lunnøya 44, Austevoll",60.026541,5.137105
+877182,"Lunnøya 35, Austevoll",60.026715,5.138251
+877183,"Lunnøya 36, Austevoll",60.026111,5.138239
+877184,"Nordre Drivenes 43, Austevoll",60.012184,5.193994
+877185,"Gauksheimvegen 3, Austevoll",59.977306,5.175978
+877186,"Gauksheim 32, Austevoll",59.976453,5.180363
+877188,"Fagerbakkevegen 15, Austevoll",60.011092,5.188692
+877213,"Rabbavika 43, Austevoll",60.00837,5.143142
+877214,"Djupavågen 20, Austevoll",60.002463,5.140759
+877215,"Rabbavika 39, Austevoll",60.007272,5.142192
+877216,"Rabben 14, Austevoll",60.004253,5.147786
+877217,"Rabbavika 53, Austevoll",60.007064,5.139057
+877218,"Tuftavika 4, Austevoll",60.007122,5.150271
+877219,"Tuftavika 33, Austevoll",60.008658,5.149302
+877221,"Salthella 6, Austevoll",59.99807,5.119933
+877222,"Djupavågvegen 28, Austevoll",60.003759,5.135188
+877223,"Tøkje 7, Austevoll",60.003089,5.128266
+877262,"Bekkjarvik 34, Austevoll",60.008761,5.200941
+877267,"Nordre Drivenes 80, Austevoll",60.009912,5.194952
+877278,"Salthellevegen 36, Austevoll",59.999314,5.114529
+877279,"Noven 4, Austevoll",60.0071,5.153523
+877281,"Nordrevågen 24, Austevoll",60.013592,5.185867
+877282,"Nordrevågen 7, Austevoll",60.015015,5.190544
+877283,"Skipavika 6, Austevoll",60.013106,5.196653
+877286,"Lunnøya 24, Austevoll",60.026697,5.140028
+877291,"Rabbavika 47, Austevoll",60.00783,5.141178
+877293,"Djupavågvegen 22, Austevoll",60.003489,5.135166
+877295,"Fagerbakkevegen 45, Austevoll",60.012384,5.189088
+877296,"Rabbavika 17, Austevoll",60.006169,5.143829
+877298,"Nordre Drivenes 63, Austevoll",60.011159,5.195549
+877300,"Fagerbakkevegen 2, Austevoll",60.009807,5.1889
+877303,"Fagerbakke 16, Austevoll",60.008974,5.189929
+877305,"Nordre Drivenes 40, Austevoll",60.011886,5.196758
+877306,"Nordre Drivenes 59, Austevoll",60.011531,5.195362
+877308,"Nordrevågen 19, Austevoll",60.014226,5.188121
+877326,"Nordre Drivenes 21C, Austevoll",60.012757,5.19549
+877330,"Skipavika 18, Austevoll",60.013743,5.195158
+877338,"Nordre Drivenes 33, Austevoll",60.012838,5.190881
+877339,"Tøkje 32, Austevoll",60.001609,5.12686
+877344,"Fiskerihamnvegen 11, Austevoll",60.000878,5.115458
+877345,"Skipavika 8, Austevoll",60.013115,5.196115
+877347,"Rabben 54, Austevoll",60.003932,5.146011
+877349,"Bekkjarvik 280, Austevoll",59.989975,5.209722
+877354,"Albriktsneset 11, Austevoll",60.015723,5.186833
+877356,"Albriktsneset 9, Austevoll",60.015533,5.187227
+877358,"Albriktsneset 21, Austevoll",60.016306,5.18578
+877360,"Albriktsneset 19, Austevoll",60.015993,5.186477
+877361,"Kalvaneset 36, Austevoll",60.00877,5.167655
+877363,"Kalvanesvegen 45, Austevoll",60.011487,5.174253
+877365,"Fagerbakkevegen 42, Austevoll",60.01322,5.186621
+877366,"Kalvanesvegen 42, Austevoll",60.011803,5.172116
+877368,"Fagerbakkevegen 11, Austevoll",60.010613,5.188771
+877371,"Fagerbakkevegen 48, Austevoll",60.013268,5.188621
+877373,"Nordrevågen 11, Austevoll",60.013898,5.188913
+877375,"Veivågen 5, Austevoll",60.008666,5.161312
+877377,"Skipavika 54, Austevoll",60.016041,5.19579
+877378,"Nedre Veivågen 17, Austevoll",60.009246,5.158372
+877380,"Veivågen 50, Austevoll",60.005708,5.157293
+877382,"Grunnavågen 26, Austevoll",60.008788,5.153757
+877383,"Kalvanesvegen 26, Austevoll",60.011257,5.171586
+877385,"Veivågen 63, Austevoll",60.007398,5.154188
+877386,"Kalvaneset 47, Austevoll",60.00992,5.166409
+877388,"Kalvanesvegen 38, Austevoll",60.012166,5.170691
+877389,"Grasdalsvegen 18, Austevoll",59.981775,5.186526
+877391,"Rabben 45, Austevoll",60.004891,5.145001
+877394,"Nedre Veivågen 25, Austevoll",60.010762,5.159745
+877401,"Grasdalssjøen 15, Austevoll",59.978225,5.197485
+877409,"Grasdalssjøen 13, Austevoll",59.978365,5.197362
+877410,"Grasdalssjøen 11, Austevoll",59.978503,5.197166
+877414,"Fagerbakke 78, Austevoll",60.005262,5.179356
+877415,"Veivågen 58, Austevoll",60.006382,5.155437
+877417,"Albriktsneset 32, Austevoll",60.015455,5.184706
+877422,"Kalvanesvegen 102, Austevoll",60.013191,5.166602
+877426,"Grasdalssjøen 2, Austevoll",59.981142,5.196092
+877428,"Ytre Rabben 37, Austevoll",60.005721,5.138801
+877432,"Albriktsneset 13, Austevoll",60.015586,5.186366
+877433,"Albriktsneset 15, Austevoll",60.015639,5.185696
+877435,"Albriktsneset 23, Austevoll",60.01614,5.185509
+877436,"Ytre Rabben 29, Austevoll",60.00544,5.139785
+877442,"Bekkjarvik 383, Austevoll",59.98509,5.201777
+877446,"Skipavika 27, Austevoll",60.014279,5.196917
+877449,"Veivågen 56, Austevoll",60.006483,5.156126
+877452,"Søre Drivenes 28, Austevoll",60.009832,5.200073
+877453,"Nordre Drivenes 14, Austevoll",60.011836,5.198618
+877467,"Grasdalsvegen 39, Austevoll",59.983125,5.183624
+877472,"Ytre Rabben 19, Austevoll",60.004576,5.140999
+877496,"Søre Drivenes 36, Austevoll",60.010697,5.200614
+877512,"Søre Drivenes 55, Austevoll",60.00896,5.201774
+877515,"Bekkjarvik 65, Austevoll",60.007075,5.204186
+877520,"Nedre Veivågen 7, Austevoll",60.007919,5.159729
+877529,"Bekkjarvik 55, Austevoll",60.007705,5.202355
+877535,"Kalvaneset 70, Austevoll",60.007815,5.164804
+877536,"Skipavika 50, Austevoll",60.015764,5.19471
+877537,"Økshammarvegen 82, Austevoll",59.987225,5.219775
+877538,"Grunnavågen 45, Austevoll",60.009206,5.15238
+877540,"Grunnavågen 44, Austevoll",60.009254,5.152733
+877542,"Storaskjersvegen 14, Austevoll",60.007787,5.13964
+877545,"Bekkjarvik 8, Austevoll",60.008991,5.197988
+877550,"Rabben 12, Austevoll",60.005419,5.148291
+877552,"Grunnavågen 15, Austevoll",60.008234,5.154827
+877558,"Gauksheim 37, Austevoll",59.976417,5.179417
+877560,"Kalvaneset 72, Austevoll",60.008155,5.164348
+877561,"Lunnøya 14, Austevoll",60.02643,5.141634
+877562,"Kalvaneset 74, Austevoll",60.00838,5.163684
+877563,"Storaskjersvegen 53, Austevoll",60.009673,5.145692
+877564,"Skipavika 36, Austevoll",60.015539,5.192836
+877583,"Bekkjarvik 84, Austevoll",60.006335,5.20577
+877603,"Albriktsneset 5, Austevoll",60.015194,5.188333
+877605,"Lunnøya 18, Austevoll",60.024851,5.140477
+877607,"Lunnøya 22, Austevoll",60.025349,5.139709
+877609,"Lunnøya 20, Austevoll",60.024984,5.139784
+877610,"Lunnøya 16, Austevoll",60.025108,5.140596
+877626,"Alvamyrvegen 48, Austevoll",60.000879,5.204926
+877627,"Alvamyrvegen 37, Austevoll",60.001697,5.201609
+877628,"Alvamyrvegen 28, Austevoll",60.002001,5.202466
+877629,"Alvamyrvegen 39, Austevoll",60.001811,5.201183
+877630,"Alvamyrvegen 22, Austevoll",60.002346,5.201699
+877631,"Alvamyrvegen 24, Austevoll",60.002167,5.20194
+877635,"Steinavika 37, Austevoll",59.998989,5.123954
+877637,"Steinavika 23, Austevoll",59.999907,5.1246
+877640,"Indra Rabbavika 17, Austevoll",60.007911,5.14745
+877641,"Øvre Veivågen 12, Austevoll",60.005478,5.160567
+877642,"Øvre Veivågen 33, Austevoll",60.004767,5.159215
+877645,"Alvamyrvegen 35, Austevoll",60.001395,5.2019
+877646,"Alvamyrvegen 43, Austevoll",60.000922,5.202774
+877649,"Indra Rabbavika 2, Austevoll",60.00688,5.146924
+877656,"Søre Drivenes 25, Austevoll",60.009213,5.200609
+877658,"Kalvanesvegen 44, Austevoll",60.01205,5.172266
+877659,"Kalvanesvegen 46, Austevoll",60.012523,5.172485
+877660,"Kalvanesvegen 40, Austevoll",60.011757,5.171798
+877663,"Nordrevågen 15, Austevoll",60.014678,5.188518
+877664,"Steinavika 21, Austevoll",60.000558,5.124434
+877666,"Djupavågvegen 38, Austevoll",60.00394,5.134027
+877667,"Horgestykket 22, Austevoll",60.007401,5.199697
+877668,"Kalvanesvegen 73, Austevoll",60.013622,5.170397
+877669,"Horgestykket 20, Austevoll",60.007433,5.199578
+877695,"Bekkjarvik 47, Austevoll",60.008108,5.201183
+877696,"Nedre Veivågen 19, Austevoll",60.009537,5.158422
+877706,"Indra Rabbavika 25G, Austevoll",60.008938,5.146271
+877710,"Grasdalsvegen 29, Austevoll",59.982968,5.18426
+877711,"Søre Drivenes 99, Austevoll",60.008364,5.202423
+877713,"Søre Drivenes 34, Austevoll",60.010186,5.200167
+877743,"Nedre Veivågen 30, Austevoll",60.008727,5.155703
+877747,"Tøkje 17, Austevoll",60.002485,5.128014
+877750,"Gullsmedvegen 47, Austevoll",60.007352,5.201318
+877751,"Gullsmedvegen 49, Austevoll",60.00733,5.201482
+877754,"Gullsmedvegen 55, Austevoll",60.007312,5.201161
+877759,"Grasdalen 10, Austevoll",59.980052,5.194841
+877762,"Tuftavika 16, Austevoll",60.008086,5.148363
+877765,"Gullsmedvegen 51, Austevoll",60.007281,5.201667
+877771,"Gauksheim 44, Austevoll",59.975821,5.178391
+877773,"Gauksheimvika 55, Austevoll",59.975625,5.178923
+877774,"Gauksheim 42, Austevoll",59.975417,5.179048
+877781,"Gauksheimvika 54, Austevoll",59.975551,5.178265
+877782,"Gauksheim 46, Austevoll",59.975763,5.17795
+877783,"Gauksheimvika 50, Austevoll",59.975284,5.178504
+877784,"Gauksheimvika 52, Austevoll",59.975375,5.178002
+877785,"Gauksheimvika 43, Austevoll",59.974895,5.178696
+877786,"Gauksheimvika 48, Austevoll",59.975099,5.178084
+877788,"Gauksheimvika 41, Austevoll",59.974754,5.178441
+877789,"Rabbavika 45, Austevoll",60.00742,5.141708
+877791,"Djupavågen 57, Austevoll",60.002897,5.132453
+877793,"Tuftavika 11, Austevoll",60.007899,5.150414
+877801,"Økshammarvegen 78, Austevoll",59.987778,5.220358
+877805,"Gullsmedvegen 34, Austevoll",60.006719,5.201581
+877816,"Alvamyrvegen 18, Austevoll",60.002725,5.201078
+877817,"Alvamyrvegen 20, Austevoll",60.002547,5.201457
+877818,"Alvamyrvegen 23, Austevoll",60.002318,5.200484
+877819,"Alvamyrvegen 14, Austevoll",60.002912,5.200629
+877820,"Alvamyrvegen 13, Austevoll",60.003047,5.199784
+877821,"Alvamyrvegen 15, Austevoll",60.002466,5.199998
+877822,"Slåttevika 12, Austevoll",60.013473,5.174544
+877823,"Alvamyrvegen 11, Austevoll",60.003677,5.200654
+877824,"Søre Drivenes 71, Austevoll",60.008995,5.204824
+877828,"Tøkje 26, Austevoll",60.001857,5.128267
+877838,"Øvre Veivågen 44, Austevoll",60.003565,5.161588
+877841,"Rabbholmen 1, Austevoll",60.009124,5.13637
+877848,"Steinavika 8, Austevoll",60.000316,5.129039
+877871,"Fagerbakkevegen 22, Austevoll",60.011115,5.187474
+877876,"Kalvanesvegen 30, Austevoll",60.011592,5.169303
+877888,"Djupavågvegen 3, Austevoll",60.002505,5.138313
+877893,"Grunnavågen 47, Austevoll",60.009002,5.153032
+877909,"Nordrevågen 17, Austevoll",60.014628,5.187981
+877925,"Bekkjarvik 38, Austevoll",60.008634,5.201835
+877928,"Nedre Veivågen 21, Austevoll",60.009466,5.158849
+877936,"Bekkjarvik 25, Austevoll",60.008518,5.197298
+877937,"Tøkje 30, Austevoll",60.001335,5.128109
+877939,"Nordre Drivenes 53, Austevoll",60.011088,5.194812
+877943,"Djupavågvegen 1, Austevoll",60.002817,5.138447
+877951,"Gullsmedvegen 36, Austevoll",60.006788,5.201536
+877953,"Nordre Drivenes 57, Austevoll",60.011725,5.194977
+877959,"Skipavika 21, Austevoll",60.013938,5.19654
+877960,"Skipavika 23, Austevoll",60.01408,5.198479
+877961,"Salthella 12, Austevoll",59.998103,5.119012
+877980,"Nordre Drivenes 23, Austevoll",60.013199,5.194429
+877983,"Ytre Rabben 23, Austevoll",60.004869,5.140543
+877993,"Fagerbakkevegen 46, Austevoll",60.012845,5.188244
+877994,"Bekkjarvik 50, Austevoll",60.00799,5.202573
+877998,"Gauksheimvegen 59, Austevoll",59.976511,5.170173
+878026,"Nordrevågen 87, Austevoll",60.016463,5.179693
+878028,"Skipavika 47, Austevoll",60.014416,5.196269
+878049,"Fiskerihamnvegen 7, Austevoll",60.000391,5.115389
+878050,"Salthellevegen 22, Austevoll",59.99862,5.116602
+878052,"Noven 18, Austevoll",60.006296,5.150636
+878058,"Gullsmedvegen 9, Austevoll",60.005617,5.201948
+878059,"Kalvanesvegen 36, Austevoll",60.01185,5.17035
+878062,"Inngjerdet 24, Austevoll",60.006956,5.198186
+878064,"Salthellevegen 30, Austevoll",59.999214,5.116174
+878066,"Storaskjersvegen 49A, Austevoll",60.00945,5.145034
+878067,"Storaskjersvegen 45, Austevoll",60.009471,5.144539
+878069,"Storaskjersvegen 49B, Austevoll",60.009452,5.145154
+878070,"Kalvanesvegen 60, Austevoll",60.012842,5.171923
+878085,"Drivenes 85, Austevoll",60.009955,5.195928
+878086,"Søre Drivenes 69, Austevoll",60.009176,5.204394
+878087,"Bekkjarvik 7, Austevoll",60.008859,5.195598
+878120,"Bekkjarvik 356, Austevoll",59.984076,5.206841
+878143,"Grasdalen 20, Austevoll",59.978547,5.196211
+878154,"Bekkjarvik 31, Austevoll",60.008621,5.199826
+878172,"Gullsmedvegen 39, Austevoll",60.007052,5.201898
+878173,"Gullsmedvegen 45, Austevoll",60.007136,5.201878
+878179,"Tøkje 15, Austevoll",60.002398,5.128939
+878189,"Fagerbakke 42, Austevoll",60.00888,5.187301
+878305,"Nordrevågen 9, Austevoll",60.014522,5.189775
+878306,"Vardhaugen 4, Austevoll",60.001755,5.206032
+878328,"Gauksheimvegen 21, Austevoll",59.976824,5.174258
+878338,"Djupavågvegen 11, Austevoll",60.002653,5.136718
+878340,"Søre Drivenes 79, Austevoll",60.008663,5.204471
+878345,"Gauksheimvegen 25, Austevoll",59.976389,5.173359
+1639142,"Nedre Veivågen 9, Austevoll",60.007974,5.159541
+1642460,"Søre Drivenes 47, Austevoll",60.009653,5.201932
+1645169,"Salthella 18, Austevoll",59.997376,5.116845
+1647294,"Grasdalssjøen 52C, Austevoll",59.979571,5.201625
+1647296,"Grunnavågen 34, Austevoll",60.009118,5.153627
+1652127,"Nedre Veivågen 11G, Austevoll",60.008796,5.159604
+1652131,"Nedre Veivågen 11E, Austevoll",60.008675,5.159673
+1652137,"Nedre Veivågen 11F, Austevoll",60.00869,5.15963
+1652202,"Nedre Veivågen 11H, Austevoll",60.008818,5.159518
+1652357,"Nedre Veivågen 11B, Austevoll",60.008695,5.160037
+1652359,"Nedre Veivågen 11A, Austevoll",60.008692,5.160133
+1652361,"Djupavågvegen 16, Austevoll",60.003186,5.134374
+1652438,"Vardhaugen 8, Austevoll",60.00108,5.207427
+1662880,"Bekkjarvik 68, Austevoll",60.007344,5.204802
+1671130,"Djupavågvegen 18, Austevoll",60.003236,5.134388
+1697900,"Gullsmedvegen 43, Austevoll",60.007108,5.201702
+1697901,"Gullsmedvegen 41, Austevoll",60.007024,5.201727
+1698188,"Nordre Drivenes 31, Austevoll",60.013144,5.189652
+1698252,"Gauksheimvika 18, Austevoll",59.975288,5.177102
+1703462,"Grasdalssjøen 64D, Austevoll",59.979699,5.203312
+1703463,"Grasdalssjøen 64B, Austevoll",59.979605,5.203232
+1703465,"Grasdalssjøen 64A, Austevoll",59.979566,5.203173
+1703467,"Grasdalssjøen 64E, Austevoll",59.97975,5.203348
+1703468,"Grasdalssjøen 64C, Austevoll",59.979658,5.203267
+1703694,"Grasdalssjøen 52B, Austevoll",59.979625,5.201628
+1703695,"Grasdalssjøen 52A, Austevoll",59.979664,5.201702
+1703696,"Grasdalssjøen 70C, Austevoll",59.980214,5.203924
+1703697,"Grasdalssjøen 52D, Austevoll",59.979527,5.201558
+1703698,"Grasdalssjøen 70B, Austevoll",59.980151,5.203924
+1703762,"Grasdalssjøen 64F, Austevoll",59.979792,5.203391
+1703763,"Grasdalssjøen 68, Austevoll",59.979985,5.203766
+1703764,"Grasdalssjøen 66B, Austevoll",59.979879,5.203724
+1703765,"Grasdalssjøen 66C, Austevoll",59.979921,5.203766
+1703766,"Grasdalssjøen 64G, Austevoll",59.979823,5.203449
+1703773,"Grasdalssjøen 70A, Austevoll",59.980096,5.203886
+1703919,"Grasdalssjøen 66A, Austevoll",59.979759,5.203585
+1707993,"Grasdalssjøen 65, Austevoll",59.979445,5.203503
+1715677,"Nordre Drivenes 25, Austevoll",60.013022,5.193499
+1735000,"Storaskjersvegen 32, Austevoll",60.00944,5.142758
+1756651,"Nordre Drivenes 37, Austevoll",60.012537,5.194069
+1776784,"Bekkjarvik 89, Austevoll",60.005283,5.203622
+1780136,"Storaskjersvegen 49D, Austevoll",60.009446,5.14532
+1789911,"Tøkje 19, Austevoll",60.00271,5.12763
+1840730,"Storaskjersvegen 51B, Austevoll",60.009582,5.145546
+1840731,"Storaskjersvegen 51A, Austevoll",60.009566,5.145399
+1856543,"Veivågen 3, Austevoll",60.008741,5.16154
+1856560,"Veivågen 7, Austevoll",60.008705,5.161273
+1856844,"Veivågen 1, Austevoll",60.00878,5.161474
+1930738,"Grasdalssjøen 56, Austevoll",59.979499,5.202349
+1931344,"Horgestykket 24, Austevoll",60.007354,5.199823
+1931349,"Horgestykket 28, Austevoll",60.007302,5.200021
+1931351,"Horgestykket 26, Austevoll",60.007323,5.199921
+1932980,"Skipavika 43, Austevoll",60.014043,5.195924
+1933012,"Skipavika 41, Austevoll",60.014118,5.195971
+1946035,"Bekkjarvik 76, Austevoll",60.00682,5.206158
+1951136,"Bekkjarviksundet 17, Austevoll",60.010984,5.204434
+1960185,"Tøkje 22, Austevoll",60.002158,5.132392
+1961715,"Alvamyrvegen 12, Austevoll",60.002825,5.200811
+1961718,"Alvamyrvegen 16, Austevoll",60.002956,5.20057
+1961721,"Alvamyrvegen 10, Austevoll",60.002862,5.200759
+1962485,"Fagerbakkevegen 38, Austevoll",60.013364,5.184863
+1963859,"Øvre Veivågen 31, Austevoll",60.004446,5.160171
+1963890,"Gauksheimvika 39, Austevoll",59.974049,5.179024
+1963892,"Fagerbakke 90, Austevoll",60.008703,5.177077
+1963893,"Fagerbakke 80, Austevoll",60.00523,5.174339
+1964356,"Nordrevågen 91, Austevoll",60.016609,5.177912
+1965609,"Fagerbakkevegen 40, Austevoll",60.013201,5.185961
+1966387,"Nedre Veivågen 13, Austevoll",60.00883,5.15942
+1966405,"Rabbavika 67, Austevoll",60.007732,5.136744
+1966406,"Indra Rabbavika 10, Austevoll",60.007525,5.145141
+1966408,"Storaskjersvegen 55, Austevoll",60.009562,5.146067
+1966432,"Nedre Veivågen 15, Austevoll",60.008877,5.159339
+1966433,"Nedre Veivågen 37, Austevoll",60.009702,5.15801
+1966434,"Nedre Veivågen 35, Austevoll",60.009629,5.157568
+1966559,"Noven 7, Austevoll",60.007129,5.151857
+1966565,"Djupavågen 14, Austevoll",60.002371,5.143819
+1966567,"Djupavågen 18, Austevoll",60.002111,5.1412
+1966568,"Djupavågen 10, Austevoll",60.003136,5.141682
+1966576,"Fiskerihamnvegen 43, Austevoll",60.003166,5.116964
+1966712,"Kalvanesvegen 71, Austevoll",60.013104,5.170625
+1966946,"Gullsmedvegen 31, Austevoll",60.006293,5.203287
+1966947,"Horgestykket 3, Austevoll",60.005936,5.201018
+1966949,"Horgestykket 4, Austevoll",60.005967,5.200266
+1966950,"Bekkjarviksundet 15, Austevoll",60.01078,5.204722
+1966970,"Søre Drivenes 42, Austevoll",60.010414,5.201715
+1966984,"Søre Drivenes 49, Austevoll",60.009326,5.202138
+1966985,"Søre Drivenes 63, Austevoll",60.008796,5.20345
+1966987,"Djupavågen 24, Austevoll",60.002485,5.140311
+1966988,"Søre Drivenes 78, Austevoll",60.008116,5.204898
+1967025,"Djupavågen 61, Austevoll",60.002946,5.133214
+1967028,"Bekkjarvik 114, Austevoll",60.003127,5.202387
+1967070,"Storaskjersvegen 16, Austevoll",60.007812,5.138463
+1967078,"Bekkjarvik 78, Austevoll",60.007098,5.206446
+1967081,"Bekkjarvik 74, Austevoll",60.006951,5.205825
+1967158,"Bekkjarvik 53, Austevoll",60.007658,5.202321
+1967164,"Søre Drivenes 88, Austevoll",60.008337,5.203984
+1967165,"Søre Drivenes 94, Austevoll",60.008308,5.203036
+1967167,"Bekkjarvik 63, Austevoll",60.006961,5.203991
+1967169,"Søre Drivenes 96, Austevoll",60.008293,5.202867
+1967173,"Bekkjarviksundet 19, Austevoll",60.011094,5.204411
+1967202,"Gauksheimvegen 100, Austevoll",59.97482,5.151271
+1967205,"Gauksheimvegen 102, Austevoll",59.975477,5.152952
+1967268,"Økshammarvegen 64, Austevoll",59.988506,5.220861
+1967400,"Grasdalsvegen 31, Austevoll",59.983398,5.184415
+1967401,"Bekkjarvik 385, Austevoll",59.984995,5.201901
+1967429,"Gauksheimvika 17, Austevoll",59.973677,5.180188
+1967430,"Gauksheimvika 47, Austevoll",59.975183,5.180529
+1967571,"Bekkjarvik 82, Austevoll",60.006569,5.206058
+1967745,"Bekkjarvik 111, Austevoll",60.003511,5.201628
+1967747,"Bekkjarvik 381, Austevoll",59.985189,5.202193
+1967758,"Bekkjarvik 88, Austevoll",60.004482,5.205267
+1968009,"Grasdalssjøen 48C, Austevoll",59.979751,5.202108
+1968012,"Grasdalssjøen 46C, Austevoll",59.97981,5.202232
+1968013,"Grasdalssjøen 46B, Austevoll",59.979845,5.202169
+1968014,"Grasdalssjøen 48D, Austevoll",59.979798,5.202024
+1968015,"Grasdalssjøen 48E, Austevoll",59.979828,5.201958
+1968016,"Grasdalssjøen 46A, Austevoll",59.979873,5.202103
+1968141,"Grasdalssjøen 48B, Austevoll",59.979722,5.202176
+1968142,"Grasdalssjøen 48A, Austevoll",59.979696,5.20224
+1968143,"Grasdalssjøen 44, Austevoll",59.98009,5.202869
+1969779,"Bekkjarvik 5, Austevoll",60.009129,5.195861
+1969780,"Bekkjarvik 3, Austevoll",60.009208,5.19573
+1969977,"Lunnøya 12B, Austevoll",60.02633,5.140631
+1969978,"Lunnøya 12D, Austevoll",60.026211,5.140634
+1969979,"Lunnøya 12C, Austevoll",60.026278,5.14065
+1969980,"Lunnøya 12E, Austevoll",60.026157,5.140628
+1970034,"Lunnøya 12A, Austevoll",60.026385,5.140639
+1970190,"Lunnøya 51, Austevoll",60.029149,5.135663
+1970413,"Steinavikvegen 36, Austevoll",60.000381,5.119334
+1970419,"Djupavågen 63, Austevoll",60.003207,5.132275
+1970451,"Djupavågen 65, Austevoll",60.003161,5.132221
+1970452,"Kalvaneset 61, Austevoll",60.009151,5.162914
+1970453,"Kalvaneset 59, Austevoll",60.009152,5.163034
+1970455,"Steinavikvegen 38, Austevoll",60.000567,5.119116
+1970562,"Kalvaneset 43, Austevoll",60.0108,5.165364
+1970563,"Nordrevågen 32, Austevoll",60.014507,5.186442
+1970564,"Nordrevågen 34, Austevoll",60.014543,5.186395
+1970565,"Nordrevågen 82, Austevoll",60.014652,5.185039
+1970768,"Søre Drivenes 92, Austevoll",60.008343,5.2031
+1974697,"Steinavika 14, Austevoll",59.9998,5.128095
+1976670,"Grasdalssjøen 1, Austevoll",59.98077,5.195618
+1981242,"Gauksheimvegen 23, Austevoll",59.976623,5.173713
+1983075,"Slåttevika 20, Austevoll",60.014046,5.175804
+1991452,"Gauksheimvika 15, Austevoll",59.973666,5.179551
+1991456,"Gauksheimvika 19, Austevoll",59.974067,5.180793
+1994179,"Søre Drivenes 46, Austevoll",60.011802,5.200839
+1996041,"Nordre Drivenes 21A, Austevoll",60.012803,5.195722
+1996042,"Nordre Drivenes 21B, Austevoll",60.012712,5.195707
+2003158,"Ytre Rabben 40, Austevoll",60.005653,5.137423
+2011149,"Ytre Rabben 38, Austevoll",60.005423,5.138362
+2012883,"Kalvanesvegen 109, Austevoll",60.013037,5.164755
+2020065,"Steinavikvegen 24, Austevoll",59.999814,5.121186
+2020076,"Bekkjarviksundet 5B, Austevoll",60.009481,5.206433
+2020528,"Gauksheimvika 31, Austevoll",59.973945,5.181822
+2023468,"Økshammarvegen 65, Austevoll",59.988621,5.218806
+2027051,"Horgestykket 8A, Austevoll",60.006184,5.200298
+2033177,"Gauksheimvika 33, Austevoll",59.974181,5.181375
+2035667,"Vardhaugen 2, Austevoll",60.001933,5.205501
+2048209,"Søre Drivenes 77, Austevoll",60.008738,5.205046
+2051186,"Steinavika 34, Austevoll",59.99763,5.127568
+2053442,"Albriktsneset 27, Austevoll",60.015807,5.185109
+2056576,"Albriktsneset 25, Austevoll",60.016211,5.184999
+2059633,"Søre Drivenes 68, Austevoll",60.009654,5.204106
+2062422,"Gauksheimvika 23, Austevoll",59.973579,5.181035
+2062701,"Skipavika 44A, Austevoll",60.015085,5.195389
+2070908,"Bekkjarvik 86, Austevoll",60.00588,5.205722
+2075484,"Nordre Drivenes 17, Austevoll",60.012436,5.197334
+2079904,"Storaskjersvegen 22, Austevoll",60.008514,5.139489
+2081197,"Nordre Drivenes 47A, Austevoll",60.011634,5.194104
+2081198,"Nordre Drivenes 47B, Austevoll",60.011408,5.193572
+2082336,"Grasdalssjøen 67, Austevoll",59.979516,5.203542
+2082337,"Ytre Rabben 31, Austevoll",60.005625,5.139263
+2082654,"Horgestykket 34, Austevoll",60.007234,5.200362
+2082655,"Horgestykket 32, Austevoll",60.007252,5.200333
+2082656,"Horgestykket 36, Austevoll",60.00727,5.200645
+2088725,"Kalvaneset 39, Austevoll",60.01076,5.166234
+2088775,"Storaskjersvegen 39, Austevoll",60.00873,5.144814
+2088808,"Tuftavika 34, Austevoll",60.008955,5.149273
+2090205,"Steinavika 32, Austevoll",59.999323,5.12754
+2091396,"Kalvaneset 57A, Austevoll",60.009264,5.163934
+2091397,"Kalvaneset 57B, Austevoll",60.009262,5.164142
+2106069,"Vardhaugen 6, Austevoll",60.001521,5.206662
+2113184,"Søre Drivenes 80, Austevoll",60.00828,5.204588
+2113570,"Søre Drivenes 14, Austevoll",60.009638,5.197842
+2113596,"Bekkjarvik 327B, Austevoll",59.987307,5.205169
+2113597,"Bekkjarvik 327C, Austevoll",59.987366,5.205187
+2113601,"Bekkjarvik 327A, Austevoll",59.987224,5.205333
+2113602,"Søre Drivenes 16B, Austevoll",60.009501,5.198407
+2113603,"Søre Drivenes 16A, Austevoll",60.009488,5.198656
+2117705,"Fiskerihamnvegen 3, Austevoll",59.999895,5.115801
+2256240,"Bekkjarvik 80, Austevoll",60.006276,5.20657
+2256332,"Rabben 58, Austevoll",60.003392,5.146398
+2435318,"Nordre Drivenes 93, Austevoll",60.010507,5.191776
+2435322,"Nordre Drivenes 29, Austevoll",60.01327,5.19114
+2435331,"Fagerbakke 50, Austevoll",60.009411,5.183595
+2435333,"Fagerbakke 52, Austevoll",60.009462,5.182853
+2435335,"Fagerbakke 56, Austevoll",60.009054,5.182739
+2435337,"Alvamyrvegen 41, Austevoll",60.000576,5.203107
+2435359,"Fagerbakke 49, Austevoll",60.010112,5.183261
+2435368,"Skipavika 48, Austevoll",60.015551,5.19421
+2435459,"Fagerbakke 44, Austevoll",60.009301,5.184217
+2435482,"Nordre Drivenes 91, Austevoll",60.010875,5.192534
+2435502,"Fagerbakke 40, Austevoll",60.009023,5.186579
+2435526,"Nordre Drivenes 49, Austevoll",60.011143,5.19339
+2438420,"Skipavika 42, Austevoll",60.014456,5.195516
+2438802,"Bekkjarvik 125, Austevoll",60.002566,5.204761
+2438810,"Bekkjarvik 123, Austevoll",60.00245,5.204159
+2438847,"Nordre Drivenes 15, Austevoll",60.012409,5.19752
+2438849,"Nordre Drivenes 13, Austevoll",60.012376,5.197696
+2438926,"Skipavika 34, Austevoll",60.015403,5.191746
+2439478,"Skipavika 45, Austevoll",60.014327,5.195865
+2439556,"Skipavika 46, Austevoll",60.015056,5.194667
+2439744,"Søre Drivenes 58, Austevoll",60.010416,5.203144
+2439961,"Nordre Drivenes 11, Austevoll",60.012355,5.197873
+2440158,"Fagerbakkevegen 36B, Austevoll",60.013407,5.184355
+2462410,"Inngjerdet 14, Austevoll",60.008281,5.197693
+2462425,"Lunnøya 33, Austevoll",60.027177,5.138438
+2469285,"Gauksheimvika 29, Austevoll",59.973713,5.181658
+2469286,"Gauksheimvika 27, Austevoll",59.97353,5.181629
+2476065,"Skipavika 44B, Austevoll",60.015059,5.195389
+2490969,"Storaskjersvegen 26B, Austevoll",60.00902,5.141265
+2491048,"Storaskjersvegen 26A, Austevoll",60.008966,5.140909
+2535318,"Steinavikvegen 34, Austevoll",60.000366,5.119433

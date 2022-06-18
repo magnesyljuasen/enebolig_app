@@ -1,0 +1,682 @@
+,Navn,Long,Lat
+1557848,"Grasveien 8, Manglerud",59.89207,10.814292
+1557849,"Grasveien 7, Manglerud",59.891599,10.815267
+1557850,"Grasveien 6, Manglerud",59.892072,10.814167
+1557851,"Grasveien 5, Manglerud",59.8916,10.815142
+1557852,"Grasveien 4, Manglerud",59.892091,10.814078
+1557853,"Grasveien 2, Manglerud",59.892093,10.813935
+1557856,"Grasveien 20, Manglerud",59.892023,10.815129
+1557857,"Grasveien 18, Manglerud",59.892024,10.815004
+1557858,"Grasveien 16, Manglerud",59.892043,10.814916
+1557859,"Grasveien 14, Manglerud",59.892045,10.814791
+1557860,"Grasveien 12, Manglerud",59.892049,10.814523
+1557861,"Grasveien 11, Manglerud",59.891614,10.815482
+1557862,"Grasveien 10, Manglerud",59.892051,10.814398
+1557863,"Grasveien 9, Manglerud",59.891606,10.815375
+1557864,"Grasveien 36, Manglerud",59.892299,10.815252
+1557865,"Grasveien 34, Manglerud",59.892302,10.815091
+1557866,"Grasveien 32, Manglerud",59.892321,10.814967
+1557867,"Grasveien 30, Manglerud",59.892332,10.814842
+1557868,"Grasveien 28, Manglerud",59.892342,10.814753
+1557869,"Grasveien 26, Manglerud",59.892344,10.81461
+1557870,"Grasveien 24, Manglerud",59.891992,10.81536
+1557871,"Grasveien 22, Manglerud",59.891994,10.815217
+1557874,"Grasveien 48, Manglerud",59.891928,10.816161
+1557875,"Grasveien 46, Manglerud",59.89192,10.816035
+1557876,"Grasveien 44, Manglerud",59.891948,10.815947
+1557877,"Grasveien 42, Manglerud",59.89195,10.815804
+1557878,"Grasveien 40, Manglerud",59.89197,10.815716
+1557879,"Grasveien 38, Manglerud",59.891972,10.815573
+1582686,"Otto Sogns vei 1, Manglerud",59.899503,10.823046
+1582687,"Otto Sogns vei 1B, Manglerud",59.899537,10.822512
+1582688,"Otto Sogns vei 2, Manglerud",59.89883,10.817771
+1582689,"Otto Sogns vei 3A, Manglerud",59.89948,10.822153
+1582690,"Otto Sogns vei 4, Manglerud",59.898791,10.818002
+1582691,"Otto Sogns vei 5, Manglerud",59.899296,10.817207
+1582700,"Otto Sogns vei 14, Manglerud",59.89909,10.818483
+1582701,"Otto Sogns vei 15, Manglerud",59.899939,10.817474
+1582702,"Otto Sogns vei 16, Manglerud",59.899042,10.818695
+1582703,"Otto Sogns vei 17, Manglerud",59.900045,10.817587
+1582704,"Otto Sogns vei 19, Manglerud",59.900193,10.817935
+1582705,"Otto Sogns vei 21, Manglerud",59.900128,10.818128
+1582706,"Otto Sogns vei 23, Manglerud",59.900052,10.818374
+1582707,"Otto Sogns vei 25, Manglerud",59.899692,10.818462
+1582708,"Otto Sogns vei 6, Manglerud",59.89868,10.81821
+1582709,"Otto Sogns vei 7, Manglerud",59.899371,10.817014
+1582710,"Otto Sogns vei 8, Manglerud",59.898633,10.818422
+1582711,"Otto Sogns vei 9, Manglerud",59.899427,10.816821
+1582712,"Otto Sogns vei 10, Manglerud",59.898541,10.818578
+1582713,"Otto Sogns vei 11, Manglerud",59.899745,10.817213
+1582714,"Otto Sogns vei 12, Manglerud",59.898475,10.818789
+1582715,"Otto Sogns vei 13, Manglerud",59.899833,10.817325
+1582723,"Otto Sogns vei 27, Manglerud",59.899566,10.818455
+1582724,"Otto Sogns vei 29, Manglerud",59.899469,10.818342
+1583449,"Plogveien 28A, Manglerud",59.893409,10.822033
+1583450,"Plogveien 28B, Manglerud",59.893373,10.822067
+1583452,"Plogveien 30A, Manglerud",59.8933,10.822134
+1583453,"Plogveien 30B, Manglerud",59.893273,10.822169
+1583455,"Plogveien 32A, Manglerud",59.893095,10.822016
+1583456,"Plogveien 32B, Manglerud",59.893059,10.82205
+1583457,"Plogveien 22A, Manglerud",59.894581,10.823009
+1583458,"Plogveien 22B, Manglerud",59.895848,10.826207
+1583460,"Plogveien 24B, Manglerud",59.893666,10.823336
+1583462,"Plogveien 26A, Manglerud",59.89351,10.821914
+1583463,"Plogveien 26B, Manglerud",59.893482,10.821966
+1583465,"Plogveien 38B, Manglerud",59.892679,10.822124
+1583467,"Plogveien 40A, Manglerud",59.892598,10.822207
+1583468,"Plogveien 40B, Manglerud",59.892572,10.822234
+1583470,"Plogveien 42A, Manglerud",59.892498,10.822309
+1583471,"Plogveien 42B, Manglerud",59.892475,10.822336
+1583474,"Plogveien 34A, Manglerud",59.893013,10.822101
+1583475,"Plogveien 34B, Manglerud",59.892966,10.822168
+1583477,"Plogveien 36A, Manglerud",59.892922,10.822221
+1583478,"Plogveien 36B, Manglerud",59.892886,10.822237
+1583480,"Plogveien 38A, Manglerud",59.892699,10.822102
+1583482,"Plogveien 50, Manglerud",59.891825,10.822268
+1583483,"Plogveien 52, Manglerud",59.891759,10.822354
+1583484,"Plogveien 54, Manglerud",59.89159,10.82238
+1583485,"Plogveien 56, Manglerud",59.891544,10.822449
+1583486,"Plogveien 58, Manglerud",59.891322,10.822312
+1583487,"Plogveien 59A, Manglerud",59.893695,10.820887
+1583488,"Plogveien 59B, Manglerud",59.893659,10.820885
+1583489,"Plogveien 44A, Manglerud",59.892276,10.822168
+1583490,"Plogveien 44B, Manglerud",59.892248,10.822202
+1583492,"Plogveien 46A, Manglerud",59.892194,10.822253
+1583493,"Plogveien 46B, Manglerud",59.892166,10.822305
+1583495,"Plogveien 48A, Manglerud",59.892102,10.822391
+1583496,"Plogveien 48B, Manglerud",59.892066,10.822407
+1583497,"Plogveien 65B, Manglerud",59.893259,10.821238
+1583498,"Plogveien 66, Manglerud",59.890838,10.822214
+1583499,"Plogveien 67A, Manglerud",59.893186,10.82127
+1583500,"Plogveien 67B, Manglerud",59.89315,10.821268
+1583501,"Plogveien 68, Manglerud",59.89081,10.822302
+1583502,"Plogveien 69A, Manglerud",59.893078,10.821282
+1583503,"Plogveien 69B, Manglerud",59.893031,10.821312
+1583504,"Plogveien 70, Manglerud",59.890625,10.822059
+1583505,"Plogveien 60, Manglerud",59.891285,10.822382
+1583506,"Plogveien 61A, Manglerud",59.893577,10.820916
+1583507,"Plogveien 61B, Manglerud",59.89355,10.820915
+1583508,"Plogveien 62, Manglerud",59.891097,10.822318
+1583509,"Plogveien 63A, Manglerud",59.893478,10.820929
+1583510,"Plogveien 63B, Manglerud",59.893442,10.820945
+1583511,"Plogveien 64, Manglerud",59.891051,10.822405
+1583512,"Plogveien 65A, Manglerud",59.893294,10.82124
+1583513,"Plogveien 77B, Manglerud",59.892421,10.821425
+1583514,"Plogveien 79A, Manglerud",59.89234,10.821421
+1583515,"Plogveien 79B, Manglerud",59.892313,10.821437
+1583516,"Plogveien 81A, Manglerud",59.892232,10.82145
+1583517,"Plogveien 81B, Manglerud",59.892187,10.821448
+1583518,"Plogveien 83A, Manglerud",59.892028,10.821225
+1583519,"Plogveien 83B, Manglerud",59.891983,10.821222
+1583520,"Plogveien 85A, Manglerud",59.891902,10.821254
+1583521,"Plogveien 71A, Manglerud",59.892866,10.821056
+1583522,"Plogveien 71B, Manglerud",59.89283,10.821054
+1583523,"Plogveien 72, Manglerud",59.89057,10.822146
+1583524,"Plogveien 73A, Manglerud",59.892749,10.821085
+1583525,"Plogveien 73B, Manglerud",59.892712,10.821087
+1583526,"Plogveien 75A, Manglerud",59.892632,10.821115
+1583527,"Plogveien 75B, Manglerud",59.892596,10.821113
+1583528,"Plogveien 77A, Manglerud",59.892457,10.821409
+1583536,"Plogveien 85B, Manglerud",59.891866,10.821252
+1583537,"Plogveien 87A, Manglerud",59.891794,10.821266
+1583538,"Plogveien 87B, Manglerud",59.891758,10.821281
+1583539,"Plogveien 89, Manglerud",59.891378,10.821457
+1583540,"Plogveien 91, Manglerud",59.891324,10.821526
+1583541,"Plogveien 93, Manglerud",59.891155,10.821374
+1583542,"Plogveien 95, Manglerud",59.891109,10.82146
+1583543,"Plogveien 100, Manglerud",59.889687,10.820399
+1585661,"Rognerudveien 28, Manglerud",59.899147,10.822794
+1585662,"Rognerudveien 28B, Manglerud",59.899179,10.823082
+1585663,"Rognerudveien 29, Manglerud",59.900126,10.82342
+1585664,"Rognerudveien 29B, Manglerud",59.900324,10.823449
+1585665,"Rognerudveien 29C, Manglerud",59.900583,10.823553
+1585666,"Rognerudveien 30, Manglerud",59.89981,10.82292
+1585667,"Rognerudveien 31, Manglerud",59.900753,10.823544
+1585668,"Rognerudveien 32, Manglerud",59.900075,10.822613
+1585669,"Rognerudveien 22D, Manglerud",59.898441,10.823221
+1585670,"Rognerudveien 23A, Manglerud",59.899406,10.824042
+1585671,"Rognerudveien 23B, Manglerud",59.899488,10.823457
+1585672,"Rognerudveien 24, Manglerud",59.898729,10.823111
+1585673,"Rognerudveien 24B, Manglerud",59.898579,10.82296
+1585674,"Rognerudveien 25, Manglerud",59.899721,10.823505
+1585675,"Rognerudveien 26A, Manglerud",59.898997,10.823158
+1585676,"Rognerudveien 27, Manglerud",59.899972,10.823573
+1585677,"Rognerudveien 37B, Manglerud",59.901062,10.82138
+1585678,"Rognerudveien 38, Manglerud",59.901055,10.822524
+1585679,"Rognerudveien 38B, Manglerud",59.900973,10.822353
+1585680,"Rognerudveien 39, Manglerud",59.900803,10.82124
+1585681,"Rognerudveien 42, Manglerud",59.900548,10.822138
+1585682,"Rognerudveien 44A, Manglerud",59.900331,10.822252
+1585683,"Rognerudveien 44B, Manglerud",59.900223,10.822246
+1585684,"Rognerudveien 44C, Manglerud",59.900083,10.822005
+1585685,"Rognerudveien 32B, Manglerud",59.900335,10.822591
+1585686,"Rognerudveien 33, Manglerud",59.90109,10.823223
+1585687,"Rognerudveien 33B, Manglerud",59.901276,10.82275
+1585688,"Rognerudveien 34, Manglerud",59.900451,10.822669
+1585689,"Rognerudveien 35, Manglerud",59.901297,10.821911
+1585690,"Rognerudveien 36A, Manglerud",59.900856,10.822963
+1585691,"Rognerudveien 37, Manglerud",59.90103,10.8217
+1585692,"Rognerudveien 51, Manglerud",59.899229,10.821387
+1585693,"Rognerudveien 52A, Manglerud",59.898565,10.82203
+1585694,"Rognerudveien 53, Manglerud",59.898922,10.821495
+1585695,"Rognerudveien 55, Manglerud",59.89864,10.82114
+1585696,"Rognerudveien 55B, Manglerud",59.89859,10.82153
+1585697,"Rognerudveien 57, Manglerud",59.898374,10.821519
+1585698,"Rognerudveien 57B, Manglerud",59.898266,10.821548
+1585699,"Rognerudveien 59, Manglerud",59.898077,10.821556
+1585700,"Rognerudveien 44D, Manglerud",59.899911,10.822139
+1585701,"Rognerudveien 45, Manglerud",59.899976,10.82132
+1585702,"Rognerudveien 46, Manglerud",59.899794,10.822097
+1585703,"Rognerudveien 46B, Manglerud",59.899668,10.822108
+1585704,"Rognerudveien 47, Manglerud",59.899733,10.821307
+1585705,"Rognerudveien 49, Manglerud",59.899536,10.82126
+1585706,"Rognerudveien 50, Manglerud",59.898888,10.822047
+1585707,"Rognerudveien 50B, Manglerud",59.89872,10.822467
+1585874,"Rognerudveien 2, Manglerud",59.901571,10.824143
+1585888,"Rognerudveien 4B, Manglerud",59.900678,10.82447
+1585889,"Rognerudveien 6, Manglerud",59.900437,10.824313
+1585890,"Rognerudveien 6B, Manglerud",59.900157,10.824459
+1585891,"Rognerudveien 7, Manglerud",59.899894,10.823998
+1585892,"Rognerudveien 9B, Manglerud",59.899661,10.824371
+1585893,"Rognerudveien 11, Manglerud",59.899418,10.824633
+1585894,"Rognerudveien 11B, Manglerud",59.899379,10.824828
+1585895,"Rognerudveien 2A, Manglerud",59.901445,10.82419
+1585896,"Rognerudveien 2B, Manglerud",59.901408,10.824259
+1585897,"Rognerudveien 2C, Manglerud",59.901362,10.824346
+1585898,"Rognerudveien 2D, Manglerud",59.901235,10.824411
+1585899,"Rognerudveien 2E, Manglerud",59.901189,10.82448
+1585900,"Rognerudveien 2F, Manglerud",59.901143,10.824567
+1585901,"Rognerudveien 4, Manglerud",59.900866,10.824462
+1585902,"Rognerudveien 2G, Manglerud",59.900954,10.824882
+1585903,"Rognerudveien 18D, Manglerud",59.898609,10.824941
+1585904,"Rognerudveien 20A, Manglerud",59.898602,10.824535
+1585905,"Rognerudveien 20B, Manglerud",59.898517,10.824154
+1585906,"Rognerudveien 21A, Manglerud",59.898999,10.823734
+1585907,"Rognerudveien 21B, Manglerud",59.89922,10.823996
+1585908,"Rognerudveien 21C, Manglerud",59.899261,10.823659
+1585909,"Rognerudveien 22B, Manglerud",59.898692,10.823842
+1585910,"Rognerudveien 22C, Manglerud",59.89849,10.823509
+1585911,"Rognerudveien 12, Manglerud",59.899586,10.8255
+1585912,"Rognerudveien 13, Manglerud",59.899413,10.825298
+1585913,"Rognerudveien 13B, Manglerud",59.899205,10.82524
+1585914,"Rognerudveien 14, Manglerud",59.899357,10.82581
+1585915,"Rognerudveien 15, Manglerud",59.899026,10.825023
+1585916,"Rognerudveien 16B, Manglerud",59.899032,10.825935
+1585917,"Rognerudveien 17, Manglerud",59.899031,10.824665
+1585918,"Rognerudveien 19B, Manglerud",59.898965,10.824251
+1587498,"Wetlesens vei 9, Manglerud",59.900438,10.819701
+1587499,"Wetlesens vei 10, Manglerud",59.899987,10.820291
+1587500,"Wetlesens vei 10B, Manglerud",59.899974,10.820766
+1587501,"Wetlesens vei 11, Manglerud",59.900178,10.819669
+1587502,"Wetlesens vei 12, Manglerud",59.899684,10.820426
+1587503,"Wetlesens vei 13, Manglerud",59.899936,10.819673
+1587504,"Wetlesens vei 14, Manglerud",59.899481,10.820739
+1588663,"Skigardveien 2, Manglerud",59.89144,10.815062
+1588664,"Skigardveien 4, Manglerud",59.891377,10.815058
+1588665,"Skigardveien 5, Manglerud",59.890799,10.814598
+1588674,"Skigardveien 14, Manglerud",59.890927,10.815141
+1588675,"Skigardveien 15, Manglerud",59.890182,10.815065
+1588676,"Skigardveien 16, Manglerud",59.890873,10.815156
+1588677,"Skigardveien 17, Manglerud",59.890044,10.815289
+1588678,"Skigardveien 18, Manglerud",59.890433,10.81574
+1588679,"Skigardveien 19, Manglerud",59.889945,10.815302
+1588680,"Skigardveien 20, Manglerud",59.890371,10.815736
+1588681,"Skigardveien 21, Manglerud",59.889825,10.815563
+1588682,"Skigardveien 6, Manglerud",59.891323,10.815055
+1588683,"Skigardveien 7, Manglerud",59.8907,10.814628
+1588684,"Skigardveien 8, Manglerud",59.891278,10.815053
+1588685,"Skigardveien 9, Manglerud",59.890546,10.814763
+1588686,"Skigardveien 10, Manglerud",59.891043,10.815147
+1588687,"Skigardveien 11, Manglerud",59.890446,10.814811
+1588688,"Skigardveien 12, Manglerud",59.890981,10.815144
+1588689,"Skigardveien 13, Manglerud",59.890291,10.815017
+1588942,"Skigardveien 30, Manglerud",59.889741,10.816452
+1588943,"Skigardveien 31, Manglerud",59.889269,10.816141
+1588944,"Skigardveien 32, Manglerud",59.889687,10.81645
+1588945,"Skigardveien 33, Manglerud",59.88924,10.815692
+1588946,"Skigardveien 34, Manglerud",59.889621,10.816678
+1588947,"Skigardveien 35, Manglerud",59.88914,10.81574
+1588948,"Skigardveien 36, Manglerud",59.889629,10.816786
+1588949,"Skigardveien 37, Manglerud",59.888968,10.815874
+1588950,"Skigardveien 22, Manglerud",59.890317,10.815733
+1588951,"Skigardveien 23, Manglerud",59.889717,10.815575
+1588952,"Skigardveien 24, Manglerud",59.890272,10.815731
+1588953,"Skigardveien 25, Manglerud",59.889588,10.815819
+1588954,"Skigardveien 26, Manglerud",59.889858,10.816441
+1588955,"Skigardveien 27, Manglerud",59.88948,10.815848
+1588956,"Skigardveien 28, Manglerud",59.889795,10.816438
+1588957,"Skigardveien 29, Manglerud",59.889386,10.816129
+1588958,"Skigardveien 51, Manglerud",59.889324,10.817395
+1588959,"Skigardveien 53, Manglerud",59.889455,10.817634
+1588960,"Skigardveien 55, Manglerud",59.889434,10.817866
+1588966,"Skigardveien 38, Manglerud",59.889618,10.816893
+1588967,"Skigardveien 39, Manglerud",59.888965,10.81607
+1588968,"Skigardveien 40, Manglerud",59.889617,10.817
+1588969,"Skigardveien 41, Manglerud",59.889096,10.816328
+1588970,"Skigardveien 43, Manglerud",59.889084,10.816524
+1588971,"Skigardveien 45, Manglerud",59.889216,10.816746
+1588972,"Skigardveien 47, Manglerud",59.889205,10.816924
+1588973,"Skigardveien 49, Manglerud",59.889335,10.817199
+1589343,"Skuronnveien 8, Manglerud",59.892681,10.818812
+1589344,"Skuronnveien 9, Manglerud",59.89199,10.818633
+1589345,"Skuronnveien 10, Manglerud",59.892516,10.819089
+1589346,"Skuronnveien 11, Manglerud",59.891962,10.818658
+1589347,"Skuronnveien 12, Manglerud",59.892462,10.819121
+1589348,"Skuronnveien 13, Manglerud",59.891687,10.818596
+1589349,"Skuronnveien 14, Manglerud",59.892254,10.819199
+1589350,"Skuronnveien 15, Manglerud",59.891642,10.818594
+1589352,"Skuronnveien 1, Manglerud",59.892217,10.818643
+1589353,"Skuronnveien 2, Manglerud",59.892938,10.818468
+1589354,"Skuronnveien 3, Manglerud",59.89219,10.818642
+1589355,"Skuronnveien 4, Manglerud",59.892874,10.818518
+1589356,"Skuronnveien 5, Manglerud",59.892118,10.81862
+1589357,"Skuronnveien 6, Manglerud",59.892744,10.818797
+1589358,"Skuronnveien 7, Manglerud",59.892082,10.818618
+1589359,"Skuronnveien 24, Manglerud",59.891653,10.819131
+1589360,"Skuronnveien 25, Manglerud",59.891052,10.819098
+1589361,"Skuronnveien 26, Manglerud",59.891428,10.819172
+1589362,"Skuronnveien 27, Manglerud",59.891016,10.819096
+1589363,"Skuronnveien 28, Manglerud",59.891427,10.819261
+1589364,"Skuronnveien 29, Manglerud",59.890926,10.819091
+1589365,"Skuronnveien 30, Manglerud",59.891407,10.819368
+1589366,"Skuronnveien 31, Manglerud",59.89089,10.819089
+1589367,"Skuronnveien 16, Manglerud",59.892191,10.819178
+1589368,"Skuronnveien 17, Manglerud",59.891571,10.818572
+1589369,"Skuronnveien 18, Manglerud",59.891985,10.819167
+1589370,"Skuronnveien 19, Manglerud",59.891526,10.81857
+1589371,"Skuronnveien 20, Manglerud",59.891922,10.819145
+1589372,"Skuronnveien 21, Manglerud",59.891463,10.818566
+1589373,"Skuronnveien 22, Manglerud",59.891716,10.819152
+1589374,"Skuronnveien 23, Manglerud",59.891436,10.818583
+1589375,"Skuronnveien 40, Manglerud",59.891534,10.819929
+1589376,"Skuronnveien 41, Manglerud",59.891059,10.819903
+1589377,"Skuronnveien 42, Manglerud",59.891633,10.819934
+1589378,"Skuronnveien 43, Manglerud",59.891023,10.819901
+1589379,"Skuronnveien 44, Manglerud",59.891651,10.819935
+1589380,"Skuronnveien 45, Manglerud",59.89096,10.819897
+1589381,"Skuronnveien 46, Manglerud",59.891741,10.819922
+1589382,"Skuronnveien 47, Manglerud",59.890915,10.819895
+1589383,"Skuronnveien 32, Manglerud",59.891397,10.819474
+1589384,"Skuronnveien 33, Manglerud",59.890805,10.819424
+1589385,"Skuronnveien 34, Manglerud",59.891386,10.819599
+1589386,"Skuronnveien 35, Manglerud",59.890778,10.819423
+1589387,"Skuronnveien 36, Manglerud",59.891385,10.819706
+1589388,"Skuronnveien 37, Manglerud",59.890733,10.81942
+1589389,"Skuronnveien 38, Manglerud",59.891516,10.819928
+1589390,"Skuronnveien 39, Manglerud",59.890688,10.8194
+1589391,"Skuronnveien 56, Manglerud",59.892082,10.819885
+1589392,"Skuronnveien 57, Manglerud",59.890485,10.8198
+1589393,"Skuronnveien 58, Manglerud",59.892267,10.819885
+1589394,"Skuronnveien 59, Manglerud",59.890449,10.819816
+1589395,"Skuronnveien 60, Manglerud",59.892287,10.819888
+1589396,"Skuronnveien 62, Manglerud",59.892374,10.819889
+1589397,"Skuronnveien 64, Manglerud",59.892399,10.819887
+1589399,"Skuronnveien 48, Manglerud",59.891777,10.819924
+1589400,"Skuronnveien 49, Manglerud",59.890852,10.819909
+1589401,"Skuronnveien 50, Manglerud",59.891949,10.819883
+1589402,"Skuronnveien 51, Manglerud",59.890807,10.819907
+1589403,"Skuronnveien 52, Manglerud",59.891967,10.819883
+1589404,"Skuronnveien 53, Manglerud",59.890593,10.819806
+1589405,"Skuronnveien 54, Manglerud",59.892062,10.819884
+1589406,"Skuronnveien 55, Manglerud",59.890539,10.819803
+1596834,"Toftdahls vei 5C, Manglerud",59.901626,10.821525
+1596835,"Toftdahls vei 6A, Manglerud",59.901439,10.82267
+1596836,"Toftdahls vei 7, Manglerud",59.901803,10.821009
+1596837,"Toftdahls vei 8, Manglerud",59.901241,10.82139
+1596838,"Toftdahls vei 9, Manglerud",59.901872,10.820289
+1596847,"Toftdahls vei 3, Manglerud",59.90169,10.82204
+1596848,"Toftdahls vei 4, Manglerud",59.901449,10.823225
+1596849,"Toftdahls vei 4B, Manglerud",59.901478,10.823119
+1596993,"Treskeveien 1, Manglerud",59.893725,10.818011
+1596994,"Treskeveien 2, Manglerud",59.894392,10.818494
+1596995,"Treskeveien 3, Manglerud",59.893405,10.817153
+1596996,"Treskeveien 4, Manglerud",59.893715,10.818725
+1596997,"Treskeveien 5, Manglerud",59.893062,10.81658
+1596998,"Treskeveien 6, Manglerud",59.893652,10.81874
+1597002,"Treskeveien 15, Manglerud",59.893029,10.817704
+1597003,"Treskeveien 16B, Manglerud",59.892557,10.818072
+1597004,"Treskeveien 17, Manglerud",59.89303,10.817597
+1597005,"Treskeveien 18B, Manglerud",59.892549,10.818345
+1597006,"Treskeveien 19, Manglerud",59.893023,10.817472
+1597007,"Treskeveien 20B, Manglerud",59.892338,10.817685
+1597008,"Treskeveien 21, Manglerud",59.893025,10.817365
+1597009,"Treskeveien 22B, Manglerud",59.892325,10.817916
+1597010,"Treskeveien 7, Manglerud",59.893247,10.818163
+1597011,"Treskeveien 8, Manglerud",59.893454,10.818765
+1597012,"Treskeveien 9, Manglerud",59.893249,10.818038
+1597013,"Treskeveien 10, Manglerud",59.893383,10.818761
+1597014,"Treskeveien 11, Manglerud",59.893251,10.817913
+1597015,"Treskeveien 12, Manglerud",59.893186,10.818678
+1597016,"Treskeveien 13, Manglerud",59.893252,10.817788
+1597017,"Treskeveien 14, Manglerud",59.893114,10.818692
+1597018,"Treskeveien 31W, Manglerud",59.892443,10.816949
+1597019,"Treskeveien 32B, Manglerud",59.891614,10.818038
+1597020,"Treskeveien 33, Manglerud",59.891483,10.81585
+1597021,"Treskeveien 34B, Manglerud",59.891506,10.81805
+1597022,"Treskeveien 35, Manglerud",59.89142,10.815847
+1597023,"Treskeveien 37, Manglerud",59.891366,10.815862
+1597024,"Treskeveien 38, Manglerud",59.891535,10.81664
+1597025,"Treskeveien 39, Manglerud",59.891321,10.815842
+1597026,"Treskeveien 23, Manglerud",59.892788,10.817303
+1597027,"Treskeveien 24B, Manglerud",59.892099,10.817403
+1597028,"Treskeveien 25, Manglerud",59.892785,10.817191
+1597029,"Treskeveien 26B, Manglerud",59.891983,10.817379
+1597030,"Treskeveien 27, Manglerud",59.892777,10.817065
+1597031,"Treskeveien 28B, Manglerud",59.891892,10.817664
+1597032,"Treskeveien 29, Manglerud",59.892779,10.816958
+1597033,"Treskeveien 30B, Manglerud",59.891857,10.817921
+1597034,"Treskeveien 48, Manglerud",59.891331,10.816468
+1597035,"Treskeveien 49, Manglerud",59.891086,10.815936
+1597036,"Treskeveien 50, Manglerud",59.891286,10.816465
+1597037,"Treskeveien 51, Manglerud",59.891033,10.815933
+1597038,"Treskeveien 52, Manglerud",59.891232,10.816462
+1597039,"Treskeveien 53, Manglerud",59.89097,10.81593
+1597040,"Treskeveien 54, Manglerud",59.890703,10.817023
+1597041,"Treskeveien 55, Manglerud",59.890916,10.815945
+1597042,"Treskeveien 40, Manglerud",59.891562,10.816606
+1597043,"Treskeveien 41, Manglerud",59.891203,10.815263
+1597044,"Treskeveien 42, Manglerud",59.891643,10.81661
+1597045,"Treskeveien 43, Manglerud",59.891202,10.81537
+1597046,"Treskeveien 44, Manglerud",59.89167,10.816611
+1597047,"Treskeveien 45, Manglerud",59.891209,10.815478
+1597048,"Treskeveien 46, Manglerud",59.891384,10.816471
+1597049,"Treskeveien 47, Manglerud",59.891208,10.815585
+1597050,"Treskeveien 64, Manglerud",59.891013,10.817362
+1597051,"Treskeveien 65, Manglerud",59.890594,10.815838
+1597052,"Treskeveien 66, Manglerud",59.891058,10.817364
+1597053,"Treskeveien 67, Manglerud",59.890601,10.815945
+1597054,"Treskeveien 68, Manglerud",59.891121,10.817368
+1597055,"Treskeveien 69, Manglerud",59.8906,10.816052
+1597056,"Treskeveien 70, Manglerud",59.890392,10.817417
+1597057,"Treskeveien 71, Manglerud",59.890607,10.81616
+1597058,"Treskeveien 56, Manglerud",59.890757,10.817026
+1597059,"Treskeveien 57, Manglerud",59.890807,10.815385
+1597060,"Treskeveien 58, Manglerud",59.890811,10.817029
+1597061,"Treskeveien 59, Manglerud",59.890814,10.815492
+1597062,"Treskeveien 60, Manglerud",59.890874,10.816997
+1597063,"Treskeveien 61, Manglerud",59.890813,10.815599
+1597064,"Treskeveien 62, Manglerud",59.89095,10.817359
+1597065,"Treskeveien 63, Manglerud",59.890811,10.815707
+1597066,"Treskeveien 80, Manglerud",59.890757,10.817688
+1597067,"Treskeveien 81, Manglerud",59.890197,10.815959
+1597068,"Treskeveien 82, Manglerud",59.89081,10.817708
+1597069,"Treskeveien 83, Manglerud",59.890204,10.816067
+1597070,"Treskeveien 84, Manglerud",59.890865,10.817693
+1597071,"Treskeveien 85, Manglerud",59.890203,10.816174
+1597072,"Treskeveien 87, Manglerud",59.890201,10.816299
+1597073,"Treskeveien 89, Manglerud",59.890018,10.816539
+1597074,"Treskeveien 72, Manglerud",59.890446,10.817438
+1597075,"Treskeveien 73, Manglerud",59.890476,10.816528
+1597076,"Treskeveien 74, Manglerud",59.8905,10.817405
+1597077,"Treskeveien 75, Manglerud",59.890422,10.816543
+1597078,"Treskeveien 76, Manglerud",59.890554,10.817408
+1597079,"Treskeveien 77, Manglerud",59.890369,10.816522
+1597080,"Treskeveien 78, Manglerud",59.890703,10.817685
+1597081,"Treskeveien 79, Manglerud",59.890315,10.81652
+1597082,"Treskeveien 99, Manglerud",59.889838,10.817226
+1597083,"Treskeveien 101, Manglerud",59.889793,10.817242
+1597084,"Treskeveien 103, Manglerud",59.88973,10.817238
+1597090,"Treskeveien 90, Manglerud",59.889597,10.818393
+1597091,"Treskeveien 91, Manglerud",59.890016,10.816664
+1597092,"Treskeveien 92, Manglerud",59.889587,10.818499
+1597093,"Treskeveien 93, Manglerud",59.890024,10.816772
+1597094,"Treskeveien 94, Manglerud",59.889734,10.818901
+1597095,"Treskeveien 95, Manglerud",59.890023,10.816879
+1597096,"Treskeveien 96, Manglerud",59.889715,10.819007
+1597097,"Treskeveien 97, Manglerud",59.889901,10.81723
+1600090,"Vekterveien 6A, Manglerud",59.889384,10.814985
+1600091,"Vekterveien 6B, Manglerud",59.889391,10.815111
+1600092,"Vekterveien 7A, Manglerud",59.889178,10.814277
+1600093,"Vekterveien 7B, Manglerud",59.889233,10.814208
+1600094,"Vekterveien 8A, Manglerud",59.889585,10.814728
+1600095,"Vekterveien 8B, Manglerud",59.889583,10.814871
+1600096,"Vekterveien 9, Manglerud",59.889446,10.814381
+1600097,"Vekterveien 9B, Manglerud",59.889483,10.814311
+1600100,"Vekterveien 1B, Manglerud",59.888534,10.814724
+1600101,"Vekterveien 3, Manglerud",59.888934,10.815014
+1600102,"Vekterveien 3B, Manglerud",59.888999,10.814928
+1600103,"Vekterveien 5, Manglerud",59.889047,10.814681
+1600104,"Vekterveien 5B, Manglerud",59.889102,10.814559
+1600105,"Vekterveien 14A, Manglerud",59.890143,10.81399
+1600106,"Vekterveien 14B, Manglerud",59.890104,10.81422
+1600107,"Vekterveien 15, Manglerud",59.889913,10.813745
+1600108,"Vekterveien 15B, Manglerud",59.889959,10.813694
+1600109,"Vekterveien 16A, Manglerud",59.890344,10.813751
+1600110,"Vekterveien 16B, Manglerud",59.890342,10.813894
+1600111,"Vekterveien 17, Manglerud",59.890025,10.813412
+1600112,"Vekterveien 17B, Manglerud",59.890071,10.81336
+1600113,"Vekterveien 10A, Manglerud",59.889768,10.814488
+1600114,"Vekterveien 10B, Manglerud",59.889766,10.814649
+1600115,"Vekterveien 11, Manglerud",59.889559,10.813994
+1600116,"Vekterveien 11B, Manglerud",59.889587,10.813942
+1600117,"Vekterveien 12A, Manglerud",59.88996,10.81423
+1600118,"Vekterveien 12B, Manglerud",59.889967,10.814391
+1600119,"Vekterveien 13, Manglerud",59.889672,10.81366
+1600120,"Vekterveien 13B, Manglerud",59.889726,10.813592
+1600121,"Vekterveien 22A, Manglerud",59.890845,10.813885
+1600122,"Vekterveien 22B, Manglerud",59.890843,10.814028
+1600123,"Vekterveien 23, Manglerud",59.890482,10.812829
+1600124,"Vekterveien 23B, Manglerud",59.890528,10.81276
+1600125,"Vekterveien 24A, Manglerud",59.89081,10.813151
+1600126,"Vekterveien 24B, Manglerud",59.890808,10.813311
+1600127,"Vekterveien 25, Manglerud",59.890614,10.812443
+1600128,"Vekterveien 25B, Manglerud",59.890659,10.812392
+1600129,"Vekterveien 18A, Manglerud",59.890536,10.813511
+1600130,"Vekterveien 18B, Manglerud",59.890543,10.813672
+1600131,"Vekterveien 19A, Manglerud",59.890129,10.813078
+1600132,"Vekterveien 19B, Manglerud",59.890184,10.813009
+1600133,"Vekterveien 20A, Manglerud",59.890609,10.814051
+1600134,"Vekterveien 20B, Manglerud",59.890607,10.814194
+1600135,"Vekterveien 21, Manglerud",59.89037,10.81318
+1600136,"Vekterveien 21B, Manglerud",59.890415,10.813129
+1600144,"Vekterveien 26A, Manglerud",59.891055,10.813682
+1600145,"Vekterveien 26B, Manglerud",59.891043,10.813878
+1600146,"Vekterveien 27, Manglerud",59.890826,10.812633
+1600147,"Vekterveien 27B, Manglerud",59.890881,10.8126
+1600148,"Vekterveien 28A, Manglerud",59.89103,10.812877
+1600149,"Vekterveien 28B, Manglerud",59.890972,10.813141
+1600150,"Vekterveien 29, Manglerud",59.890974,10.812355
+1600527,"Vekterveien 30A, Manglerud",59.891235,10.813603
+1600547,"Vekterveien 57, Manglerud",59.891047,10.811001
+1600609,"Vekterveien 30B, Manglerud",59.891233,10.813746
+1600611,"Vekterveien 31A, Manglerud",59.891183,10.812152
+1600613,"Vekterveien 31B, Manglerud",59.891237,10.812137
+1600614,"Vekterveien 32A, Manglerud",59.89129,10.812855
+1600615,"Vekterveien 32B, Manglerud",59.891261,10.813068
+1600616,"Vekterveien 35, Manglerud",59.891719,10.812378
+1600617,"Vekterveien 37, Manglerud",59.89173,10.812253
+1600625,"Vekterveien 29B, Manglerud",59.891028,10.81234
+1600627,"Vekterveien 55, Manglerud",59.891063,10.811109
+1600628,"Vekterveien 59, Manglerud",59.891039,10.810893
+1600629,"Vekterveien 61, Manglerud",59.891323,10.811123
+1600630,"Vekterveien 63, Manglerud",59.891316,10.811015
+1600631,"Vekterveien 65, Manglerud",59.891309,10.810872
+1600632,"Vekterveien 67, Manglerud",59.89131,10.8108
+1600633,"Vekterveien 69, Manglerud",59.891311,10.810675
+1600634,"Vekterveien 39, Manglerud",59.891731,10.812164
+1600635,"Vekterveien 41, Manglerud",59.891742,10.812057
+1600636,"Vekterveien 43, Manglerud",59.891734,10.811932
+1600637,"Vekterveien 45, Manglerud",59.890956,10.811729
+1600638,"Vekterveien 47, Manglerud",59.890939,10.811603
+1600639,"Vekterveien 49, Manglerud",59.890932,10.811495
+1600640,"Vekterveien 51, Manglerud",59.890915,10.811405
+1600641,"Vekterveien 53, Manglerud",59.891079,10.811217
+1600642,"Vekterveien 87, Manglerud",59.891565,10.810493
+1600643,"Vekterveien 89, Manglerud",59.891824,10.811311
+1600644,"Vekterveien 91, Manglerud",59.891825,10.811186
+1600645,"Vekterveien 93, Manglerud",59.891827,10.811079
+1600646,"Vekterveien 95, Manglerud",59.891829,10.810954
+1600647,"Vekterveien 97, Manglerud",59.89183,10.810847
+1600648,"Vekterveien 99, Manglerud",59.891823,10.810739
+1600649,"Vekterveien 101, Manglerud",59.891824,10.810632
+1600650,"Vekterveien 71, Manglerud",59.891295,10.810567
+1600651,"Vekterveien 73, Manglerud",59.891296,10.81046
+1600652,"Vekterveien 75, Manglerud",59.891574,10.811155
+1600653,"Vekterveien 77, Manglerud",59.891576,10.811047
+1600654,"Vekterveien 79, Manglerud",59.891577,10.81094
+1600655,"Vekterveien 81, Manglerud",59.89157,10.810815
+1600656,"Vekterveien 83, Manglerud",59.891571,10.810707
+1600657,"Vekterveien 85, Manglerud",59.891564,10.8106
+1601995,"Wetlesens vei 1A, Manglerud",59.901884,10.819726
+1602004,"Wetlesens vei 6B, Manglerud",59.900561,10.82053
+1602005,"Wetlesens vei 7, Manglerud",59.90069,10.819714
+1602006,"Wetlesens vei 8, Manglerud",59.900206,10.820242
+1602007,"Wetlesens vei 8B, Manglerud",59.900255,10.820602
+1602008,"Wetlesens vei 2, Manglerud",59.900964,10.820623
+1602009,"Wetlesens vei 3, Manglerud",59.901605,10.819729
+1602010,"Wetlesens vei 3B, Manglerud",59.901444,10.819738
+1602011,"Wetlesens vei 3C, Manglerud",59.90121,10.819725
+1602012,"Wetlesens vei 4, Manglerud",59.900778,10.820434
+1602013,"Wetlesens vei 5, Manglerud",59.900995,10.819713
+1602014,"Wetlesens vei 5B, Manglerud",59.900965,10.8193
+1602015,"Wetlesens vei 6A, Manglerud",59.900484,10.820275
+1602019,"Wetlesens vei 20B, Manglerud",59.898549,10.820598
+1602020,"Wetlesens vei 22, Manglerud",59.898341,10.820712
+1602021,"Wetlesens vei 22B, Manglerud",59.898197,10.820722
+1602022,"Wetlesens vei 23, Manglerud",59.898685,10.819855
+1602023,"Wetlesens vei 24, Manglerud",59.898037,10.82057
+1602024,"Wetlesens vei 25, Manglerud",59.898387,10.819964
+1602025,"Wetlesens vei 25B, Manglerud",59.898288,10.819976
+1602026,"Wetlesens vei 26, Manglerud",59.897548,10.820848
+1602027,"Wetlesens vei 14B, Manglerud",59.899523,10.820276
+1602028,"Wetlesens vei 15A, Manglerud",59.899683,10.819749
+1602029,"Wetlesens vei 16, Manglerud",59.898983,10.82039
+1602030,"Wetlesens vei 16B, Manglerud",59.89922,10.820796
+1602031,"Wetlesens vei 17, Manglerud",59.899457,10.819747
+1602032,"Wetlesens vei 18, Manglerud",59.89889,10.820581
+1602033,"Wetlesens vei 20, Manglerud",59.89863,10.820585
+1602034,"Wetlesens vei 36, Manglerud",59.8969,10.820955
+1602035,"Wetlesens vei 38, Manglerud",59.896718,10.821106
+1602036,"Wetlesens vei 40, Manglerud",59.896673,10.821122
+1602037,"Wetlesens vei 42, Manglerud",59.896457,10.821145
+1602038,"Wetlesens vei 44, Manglerud",59.896403,10.821178
+1602039,"Wetlesens vei 27, Manglerud",59.898135,10.819968
+1602040,"Wetlesens vei 28, Manglerud",59.897441,10.820842
+1602041,"Wetlesens vei 29, Manglerud",59.897812,10.819932
+1602042,"Wetlesens vei 30, Manglerud",59.897278,10.820904
+1602043,"Wetlesens vei 32, Manglerud",59.897179,10.820953
+1602044,"Wetlesens vei 34, Manglerud",59.896999,10.820925
+1602053,"Wetlesens vei 46, Manglerud",59.896196,10.821221
+1602054,"Wetlesens vei 48, Manglerud",59.896133,10.821235
+1602055,"Wetlesens vei 50, Manglerud",59.895926,10.821259
+1602056,"Wetlesens vei 52, Manglerud",59.895854,10.821291
+1602057,"Wetlesens vei 31A, Manglerud",59.89737,10.820123
+1607073,"Wetlesens vei 54, Manglerud",59.895558,10.821257
+1609366,"Toftdahls vei 2A, Manglerud",59.90111,10.82376
+1609369,"Toftdahls vei 2B, Manglerud",59.901319,10.823539
+1609862,"Rognerudveien 8A, Manglerud",59.899948,10.824608
+1609876,"Rognerudveien 8B, Manglerud",59.900067,10.825116
+1616266,"Wetlesens vei 47B, Manglerud",59.896189,10.820451
+1616268,"Wetlesens vei 43B, Manglerud",59.896378,10.820355
+1616269,"Wetlesens vei 39B, Manglerud",59.896774,10.820305
+1616271,"Wetlesens vei 41B, Manglerud",59.896684,10.820336
+1616272,"Wetlesens vei 33B, Manglerud",59.897251,10.820224
+1616274,"Wetlesens vei 31B, Manglerud",59.897333,10.820174
+1616276,"Wetlesens vei 21B, Manglerud",59.89884,10.81989
+1616278,"Wetlesens vei 35B, Manglerud",59.897143,10.820253
+1616291,"Wetlesens vei 53B, Manglerud",59.895739,10.820516
+1616293,"Wetlesens vei 51B, Manglerud",59.895847,10.820486
+1616301,"Rognerudveien 52C, Manglerud",59.898458,10.822614
+1616303,"Wetlesens vei 21A, Manglerud",59.898888,10.819727
+1616307,"Rognerudveien 52B, Manglerud",59.898516,10.822313
+1617354,"Treskeveien 30A, Manglerud",59.89186,10.817809
+1617355,"Treskeveien 34A, Manglerud",59.891569,10.818054
+1617356,"Treskeveien 20A, Manglerud",59.892339,10.817595
+1617357,"Treskeveien 24A, Manglerud",59.892144,10.817424
+1617358,"Treskeveien 18A, Manglerud",59.892555,10.818215
+1617359,"Treskeveien 16A, Manglerud",59.892576,10.818019
+1619438,"Wetlesens vei 49B, Manglerud",59.895919,10.820437
+1619441,"Wetlesens vei 37B, Manglerud",59.896856,10.820256
+1619798,"Treskeveien 28A, Manglerud",59.89189,10.81756
+1619964,"Wetlesens vei 45B, Manglerud",59.896306,10.820404
+1620185,"Vekterveien 33B, Manglerud",59.891514,10.812295
+1620186,"Vekterveien 1C, Manglerud",59.888705,10.814734
+1620188,"Vekterveien 33A, Manglerud",59.891495,10.81233
+1620723,"Wetlesens vei 39A, Manglerud",59.896811,10.820271
+1620724,"Wetlesens vei 37A, Manglerud",59.896892,10.820222
+1620804,"Wetlesens vei 41A, Manglerud",59.896729,10.820302
+1621621,"Toftdahls vei 1D, Manglerud",59.901728,10.822543
+1621625,"Toftdahls vei 1B, Manglerud",59.901704,10.823024
+1621627,"Toftdahls vei 1C, Manglerud",59.901707,10.822756
+1622322,"Treskeveien 26A, Manglerud",59.892045,10.8174
+1622323,"Treskeveien 22A, Manglerud",59.892327,10.817791
+1622325,"Treskeveien 32A, Manglerud",59.891677,10.81806
+1623723,"Rognerudveien 40, Manglerud",59.900817,10.822207
+1623881,"Vekterveien 1A, Manglerud",59.88877,10.815202
+1624345,"Rognerudveien 3, Manglerud",59.901612,10.823806
+1624346,"Rognerudveien 1, Manglerud",59.901704,10.823632
+1624538,"Rognerudveien 48B, Manglerud",59.89903,10.82218
+1624539,"Rognerudveien 48A, Manglerud",59.89914,10.822025
+1626315,"Rognerudveien 41A, Manglerud",59.900515,10.821296
+1626321,"Rognerudveien 41B, Manglerud",59.900469,10.821347
+1628355,"Treskeveien 14B, Manglerud",59.892959,10.818863
+1628439,"Rognerudveien 22A, Manglerud",59.898621,10.82382
+1628507,"Rognerudveien 18B, Manglerud",59.898744,10.825329
+1628509,"Rognerudveien 18A, Manglerud",59.898786,10.82551
+1628513,"Rognerudveien 18C, Manglerud",59.898698,10.825362
+1628642,"Rognerudveien 54A, Manglerud",59.898311,10.822177
+1628644,"Rognerudveien 54C, Manglerud",59.898218,10.822404
+1628645,"Rognerudveien 54B, Manglerud",59.89831,10.822266
+1628660,"Rognerudveien 54D, Manglerud",59.89835,10.82259
+1629244,"Rognerudveien 43B, Manglerud",59.900267,10.82105
+1629246,"Rognerudveien 43A, Manglerud",59.900291,10.821284
+1697807,"Rognerudveien 5A, Manglerud",59.900978,10.823893
+1697853,"Rognerudveien 5B, Manglerud",59.900819,10.823945
+1711547,"Wetlesens vei 3F, Manglerud",59.901203,10.819122
+1711548,"Wetlesens vei 3E, Manglerud",59.901193,10.819268
+1741970,"Treskeveien 31L, Manglerud",59.892629,10.816451
+1741971,"Treskeveien 31K, Manglerud",59.892631,10.816376
+1741972,"Treskeveien 31N, Manglerud",59.892631,10.8166
+1741973,"Treskeveien 31M, Manglerud",59.892632,10.816532
+1741976,"Treskeveien 31P, Manglerud",59.892617,10.816688
+1742046,"Treskeveien 31G, Manglerud",59.892793,10.816408
+1742048,"Treskeveien 31F, Manglerud",59.892805,10.816332
+1742049,"Treskeveien 31J, Manglerud",59.892632,10.816303
+1742051,"Treskeveien 31H, Manglerud",59.89263,10.816199
+1742269,"Treskeveien 31V, Manglerud",59.892458,10.816871
+1742292,"Treskeveien 31A, Manglerud",59.892806,10.815951
+1742293,"Treskeveien 31B, Manglerud",59.892807,10.816034
+1742294,"Treskeveien 31C, Manglerud",59.892805,10.816103
+1742295,"Treskeveien 31E, Manglerud",59.892805,10.816259
+1742297,"Treskeveien 31D, Manglerud",59.892805,10.81618
+1742394,"Treskeveien 31Q, Manglerud",59.892458,10.816474
+1742395,"Treskeveien 31S, Manglerud",59.892457,10.816642
+1742397,"Treskeveien 31R, Manglerud",59.892458,10.81657
+1742400,"Treskeveien 31T, Manglerud",59.892457,10.816724
+1742401,"Treskeveien 31U, Manglerud",59.892458,10.816797
+1808155,"Toftdahls vei 5B, Manglerud",59.901809,10.821422
+1808211,"Toftdahls vei 5A, Manglerud",59.90182,10.821564
+1868557,"Toftdahls vei 6B, Manglerud",59.90143,10.822017
+1882196,"Rognerudveien 29D, Manglerud",59.900432,10.823509
+1973931,"Rognerudveien 9A, Manglerud",59.899737,10.824164
+1974705,"Toftdahls vei 1E, Manglerud",59.901809,10.82239
+1975778,"Rognerudveien 36B, Manglerud",59.900747,10.822678
+1989650,"Rognerudveien 16A, Manglerud",59.899168,10.826109
+1993069,"Wetlesens vei 15C, Manglerud",59.899802,10.819684
+1993076,"Wetlesens vei 15B, Manglerud",59.899685,10.819642
+1996006,"Wetlesens vei 21C, Manglerud",59.898808,10.819928
+2003447,"Rognerudveien 19A, Manglerud",59.899163,10.824362
+2004557,"Plogveien 24A, Manglerud",59.893968,10.822166
+2017522,"Rognerudveien 2H, Manglerud",59.900871,10.824899
+2028666,"Vekterveien 34, Manglerud",59.891493,10.813018
+2028667,"Vekterveien 36, Manglerud",59.891494,10.813152
+2063069,"Wetlesens vei 1E, Manglerud",59.901472,10.819337
+2063071,"Wetlesens vei 1F, Manglerud",59.901383,10.819327
+2063073,"Wetlesens vei 1C, Manglerud",59.901613,10.819347
+2063074,"Wetlesens vei 1D, Manglerud",59.901538,10.819342
+2071113,"Rognerudveien 26C, Manglerud",59.89892,10.822696
+2071114,"Rognerudveien 26B, Manglerud",59.898963,10.822924
+2083603,"Otto Sogns vei 3B, Manglerud",59.899557,10.822145
+2110121,"Vekterveien 33C, Manglerud",59.891469,10.81232
+2263629,"Otto Sogns vei 20, Manglerud",59.89918,10.819793
+2263818,"Otto Sogns vei 18, Manglerud",59.899178,10.819505
+2355233,"Rognerudveien 10B, Manglerud",59.89976,10.825149
+2368360,"Rognerudveien 10A, Manglerud",59.899868,10.825333
+2493979,"Wetlesens vei 33A, Manglerud",59.897288,10.820172
+2493980,"Wetlesens vei 35A, Manglerud",59.897189,10.82022
+2493981,"Wetlesens vei 43A, Manglerud",59.896424,10.820303
+2493982,"Wetlesens vei 45A, Manglerud",59.89636,10.820389
+2493983,"Wetlesens vei 47A, Manglerud",59.896279,10.820438
+2493984,"Wetlesens vei 49A, Manglerud",59.895951,10.820424
+2493986,"Wetlesens vei 51A, Manglerud",59.895883,10.820488
+2493987,"Wetlesens vei 53A, Manglerud",59.895796,10.820505

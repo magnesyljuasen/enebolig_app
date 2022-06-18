@@ -1,0 +1,742 @@
+,Navn,Long,Lat
+8214,"130/2, Hedenstad",59.644494,9.749793
+8219,"130/7, Hedenstad",59.646352,9.751431
+8298,"120/1-1, Hedenstad",59.61932,9.696498
+8372,"130/34, Hedenstad",59.642233,9.754141
+8373,"130/33, Hedenstad",59.641732,9.753705
+9412,"130/17, Hedenstad",59.647689,9.73262
+9414,"129/25, Hedenstad",59.640862,9.724933
+9418,"128/19, Hedenstad",59.63568,9.718437
+9420,"127/7, Hedenstad",59.636318,9.705132
+9438,"133/9, Hedenstad",59.660684,9.71615
+9439,"133/6, Hedenstad",59.660215,9.714827
+9541,"134/15, Hedenstad",59.652779,9.724747
+9766,"129/5, Hedenstad",59.641596,9.723725
+9837,"134/2/1, Hedenstad",59.658736,9.714405
+32583,"130/2-1, Hedenstad",59.644413,9.750145
+32606,"128/7, Hedenstad",59.636587,9.720465
+32702,"105/5, Hedenstad",59.600723,9.654319
+32707,"110/58, Hedenstad",59.622459,9.655446
+32802,"132/2, Hedenstad",59.659794,9.740937
+33070,"113/11, Hedenstad",59.61723,9.65196
+33697,"130/7-1, Hedenstad",59.64642,9.751894
+36314,"130/6, Hedenstad",59.649377,9.742106
+625061,"Dalsveien 14, Hedenstad",59.599787,9.667324
+625062,"Dalsveien 12, Hedenstad",59.599463,9.667548
+625063,"Dalsveien 10, Hedenstad",59.599746,9.666632
+625064,"Dalsveien 8, Hedenstad",59.599566,9.666717
+625065,"Dalsveien 6, Hedenstad",59.599605,9.666027
+625066,"Dalsveien 4, Hedenstad",59.599465,9.665475
+625067,"Dalsveien 3, Hedenstad",59.599655,9.66516
+625068,"Dalsveien 22, Hedenstad",59.600285,9.67015
+625215,"Brinkveien 3, Hedenstad",59.621803,9.687047
+625216,"Brinkveien 2, Hedenstad",59.621453,9.687182
+625217,"Brinkveien 1, Hedenstad",59.621689,9.68669
+625240,"Brinkveien 14, Hedenstad",59.620989,9.686623
+625241,"Brinkveien 13, Hedenstad",59.621194,9.688453
+625242,"Brinkveien 11, Hedenstad",59.621455,9.688334
+625243,"Brinkveien 9, Hedenstad",59.621689,9.688286
+625244,"Brinkveien 7, Hedenstad",59.621996,9.688026
+625245,"Brinkveien 6, Hedenstad",59.621343,9.687587
+625246,"Brinkveien 5, Hedenstad",59.622017,9.687495
+625247,"Brinkveien 4, Hedenstad",59.621728,9.687773
+625248,"Brinkveien 23, Hedenstad",59.620232,9.685367
+625249,"Brinkveien 21, Hedenstad",59.620408,9.685973
+625250,"Brinkveien 20, Hedenstad",59.620485,9.685088
+625251,"Brinkveien 19, Hedenstad",59.620558,9.686472
+625252,"Brinkveien 18, Hedenstad",59.620661,9.685677
+625253,"Brinkveien 17, Hedenstad",59.6207,9.686918
+625254,"Brinkveien 16, Hedenstad",59.620784,9.68614
+625255,"Brinkveien 15, Hedenstad",59.620805,9.687435
+625262,"Brinkveien 27, Hedenstad",59.620399,9.684271
+625263,"Brinkveien 25, Hedenstad",59.620199,9.684817
+625421,"Furuveien 29, Hedenstad",59.620028,9.681303
+625422,"Furuveien 27, Hedenstad",59.620152,9.681767
+625423,"Furuveien 23, Hedenstad",59.620524,9.682643
+625424,"Furuveien 21, Hedenstad",59.620648,9.683
+625425,"Furuveien 19, Hedenstad",59.620781,9.683446
+625426,"Furuveien 17, Hedenstad",59.620931,9.68391
+625427,"Furuveien 15, Hedenstad",59.621072,9.684303
+625455,"Furuveien 5, Hedenstad",59.621951,9.686394
+625456,"Furuveien 4B, Hedenstad",59.622241,9.685798
+625457,"Furuveien 4, Hedenstad",59.622257,9.68617
+625458,"Furuveien 3, Hedenstad",59.622101,9.686752
+625459,"Furuveien 1, Hedenstad",59.622234,9.687127
+625463,"Furuveien 13, Hedenstad",59.621268,9.684732
+625464,"Furuveien 12, Hedenstad",59.621469,9.684045
+625465,"Furuveien 11, Hedenstad",59.621409,9.685143
+625466,"Furuveien 10, Hedenstad",59.62161,9.684473
+625467,"Furuveien 9, Hedenstad",59.621542,9.685535
+625468,"Furuveien 8, Hedenstad",59.621796,9.684973
+625469,"Furuveien 7, Hedenstad",59.621808,9.68609
+625470,"Furuveien 6, Hedenstad",59.622045,9.685581
+625880,"Gravenveien 9, Hedenstad",59.620996,9.688697
+625881,"Gravenveien 8, Hedenstad",59.621129,9.687193
+625882,"Gravenveien 6, Hedenstad",59.621275,9.686735
+625883,"Gravenveien 4, Hedenstad",59.621915,9.684603
+625884,"Gravenveien 3, Hedenstad",59.622154,9.685211
+625885,"Gravenveien 2, Hedenstad",59.622043,9.684216
+625886,"Gravenveien 1, Hedenstad",59.622283,9.684717
+625888,"Gravenveien 14, Hedenstad",59.620617,9.688884
+625889,"Gravenveien 13, Hedenstad",59.620756,9.689951
+625890,"Gravenveien 12, Hedenstad",59.620746,9.688373
+625891,"Gravenveien 11, Hedenstad",59.620876,9.689191
+625892,"Gravenveien 10, Hedenstad",59.620901,9.687898
+625893,"Gomsrudveien 319, Hedenstad",59.629458,9.677842
+625894,"Gomsrudveien 315, Hedenstad",59.6299,9.677407
+625895,"Gomsrudveien 314, Hedenstad",59.627975,9.671057
+625896,"Gomsrudveien 311, Hedenstad",59.62992,9.676929
+625897,"Gomsrudveien 301, Hedenstad",59.631009,9.676561
+625901,"Gomsrudveien 399, Hedenstad",59.622807,9.683966
+625902,"Gomsrudveien 398, Hedenstad",59.621609,9.669051
+625903,"Gomsrudveien 397, Hedenstad",59.623132,9.683759
+625904,"Gomsrudveien 395, Hedenstad",59.623207,9.683052
+625905,"Gomsrudveien 360, Hedenstad",59.626107,9.67804
+625906,"Gomsrudveien 358, Hedenstad",59.626334,9.677513
+625907,"Gomsrudveien 327, Hedenstad",59.628747,9.678111
+625908,"Gomsrudveien 320, Hedenstad",59.628655,9.675024
+625941,"Kaptein Hannevigs vei 19, Hedenstad",59.601964,9.666641
+625942,"Kaptein Hannevigs vei 9, Hedenstad",59.6021,9.665495
+625943,"Kaptein Hannevigs vei 23, Hedenstad",59.601687,9.668105
+625944,"Kaptein Hannevigs vei 15B, Hedenstad",59.601463,9.666365
+625945,"Kaptein Hannevigs vei 15A, Hedenstad",59.601381,9.666416
+625946,"Kaptein Hannevigs vei 13B, Hedenstad",59.601733,9.666122
+625947,"Kaptein Hannevigs vei 13A, Hedenstad",59.601643,9.666156
+625948,"Kaptein Hannevigs vei 6, Hedenstad",59.601342,9.665423
+625949,"Kaptein Hannevigs vei 34A, Hedenstad",59.601123,9.665986
+625950,"Kaptein Hannevigs vei 33B, Hedenstad",59.600572,9.666737
+625951,"Kaptein Hannevigs vei 33A, Hedenstad",59.600634,9.666809
+625983,"Kaptein Hannevigs vei 5, Hedenstad",59.601605,9.664915
+626112,"Kongsgårdveien 1, Hedenstad",59.625896,9.646008
+626120,"Kongsgårdveien 5, Hedenstad",59.625449,9.646975
+626121,"Kongsgårdveien 4C, Hedenstad",59.624493,9.648552
+626122,"Kongsgårdveien 4B, Hedenstad",59.624607,9.648198
+626123,"Kongsgårdveien 4, Hedenstad",59.624707,9.647852
+626124,"Kongsgårdveien 3, Hedenstad",59.625625,9.646365
+626125,"Kongsgårdveien 2B, Hedenstad",59.625007,9.647397
+626126,"Kongsgårdveien 2, Hedenstad",59.625137,9.647093
+626127,"Kongsgårdveien 1B, Hedenstad",59.625993,9.645673
+626128,"Kongsgårdveien 11, Hedenstad",59.625877,9.647151
+626129,"Kongsgårdveien 10, Hedenstad",59.625232,9.648309
+626130,"Kongsgårdveien 9B, Hedenstad",59.625693,9.648088
+626131,"Kongsgårdveien 9, Hedenstad",59.625811,9.647664
+626132,"Kongsgårdveien 8, Hedenstad",59.624794,9.649047
+626133,"Kongsgårdveien 7, Hedenstad",59.626023,9.646711
+626134,"Kongsgårdveien 6, Hedenstad",59.624832,9.648619
+626135,"Kongsgårdveien 5B, Hedenstad",59.625362,9.647634
+626137,"Kongsgårdveien 24, Hedenstad",59.626755,9.651175
+626138,"Kongsgårdveien 19, Hedenstad",59.626331,9.647852
+626139,"Kongsgårdveien 17, Hedenstad",59.62605,9.648484
+626140,"Kongsgårdveien 16, Hedenstad",59.625877,9.648871
+626141,"Kongsgårdveien 15, Hedenstad",59.626281,9.647053
+626142,"Kongsgårdveien 13, Hedenstad",59.626208,9.647406
+626883,"Rudsveien 1, Hedenstad",59.621726,9.682915
+627072,"Vårveien 8, Hedenstad",59.621113,9.681768
+627131,"Vårveien 6, Hedenstad",59.621291,9.682091
+627613,"Solmoveien 6, Hedenstad",59.620928,9.68453
+627614,"Solmoveien 5, Hedenstad",59.620842,9.685361
+627615,"Solmoveien 4, Hedenstad",59.621131,9.68519
+627616,"Solmoveien 3, Hedenstad",59.620984,9.685754
+627617,"Solmoveien 2B, Hedenstad",59.621317,9.685619
+627618,"Solmoveien 2, Hedenstad",59.621458,9.686048
+627619,"Solmoveien 1, Hedenstad",59.621143,9.686218
+627620,"Solmoveien 13B, Hedenstad",59.620017,9.683501
+627621,"Solmoveien 13, Hedenstad",59.619985,9.684529
+627622,"Solmoveien 12, Hedenstad",59.620369,9.683118
+627623,"Solmoveien 11, Hedenstad",59.620157,9.684231
+627624,"Solmoveien 10, Hedenstad",59.620555,9.683654
+627625,"Solmoveien 9, Hedenstad",59.620276,9.683808
+627626,"Solmoveien 8, Hedenstad",59.620741,9.684154
+627627,"Solmoveien 7, Hedenstad",59.620657,9.684844
+627669,"Solmoveien 25, Hedenstad",59.619746,9.680287
+627670,"Solmoveien 23, Hedenstad",59.619915,9.680645
+627671,"Solmoveien 21, Hedenstad",59.619635,9.680976
+627672,"Solmoveien 19, Hedenstad",59.619851,9.682594
+627673,"Solmoveien 18, Hedenstad",59.619839,9.681565
+627674,"Solmoveien 17, Hedenstad",59.619948,9.683003
+627675,"Solmoveien 16, Hedenstad",59.62006,9.682173
+627676,"Solmoveien 14, Hedenstad",59.620192,9.682672
+627682,"Solmoveien 31, Hedenstad",59.620038,9.679407
+627683,"Solmoveien 29, Hedenstad",59.620206,9.679924
+627684,"Solmoveien 27, Hedenstad",59.620051,9.680364
+627732,"Vårveien 16, Hedenstad",59.620373,9.680584
+627750,"Vårveien 2, Hedenstad",59.622118,9.683615
+627751,"Vårveien 1, Hedenstad",59.621829,9.68391
+627756,"Vårveien 14, Hedenstad",59.620588,9.680836
+627757,"Vårveien 12, Hedenstad",59.620748,9.681141
+627758,"Vårveien 10, Hedenstad",59.620935,9.681463
+627766,"Vårveien 5, Hedenstad",59.621464,9.683194
+627767,"Vårveien 4, Hedenstad",59.621432,9.682431
+627768,"Vårveien 3, Hedenstad",59.62166,9.683605
+628339,"Lågendalsveien 42, Hedenstad",59.623865,9.647166
+628340,"Lågendalsveien 40, Hedenstad",59.623525,9.646982
+628341,"Lågendalsveien 36, Hedenstad",59.623376,9.646235
+628342,"Lågendalsveien 32, Hedenstad",59.624417,9.646343
+628343,"Lågendalsveien 30, Hedenstad",59.624396,9.646981
+628344,"Lågendalsveien 20, Hedenstad",59.625828,9.644402
+628347,"Lågendalsveien 60, Hedenstad",59.623361,9.6502
+628348,"Lågendalsveien 58, Hedenstad",59.622912,9.650636
+628349,"Lågendalsveien 56, Hedenstad",59.623209,9.650761
+628350,"Lågendalsveien 53, Hedenstad",59.623955,9.650774
+628351,"Lågendalsveien 52, Hedenstad",59.623561,9.649452
+628352,"Lågendalsveien 51, Hedenstad",59.624021,9.649839
+628353,"Lågendalsveien 50, Hedenstad",59.623633,9.648762
+628354,"Lågendalsveien 49, Hedenstad",59.624191,9.648963
+628366,"Lågendalsveien 156B, Hedenstad",59.619372,9.672782
+628367,"Lågendalsveien 156A, Hedenstad",59.619445,9.672482
+628368,"Lågendalsveien 152, Hedenstad",59.619041,9.669088
+628369,"Lågendalsveien 150, Hedenstad",59.618178,9.667529
+628370,"Lågendalsveien 148, Hedenstad",59.618489,9.668138
+628371,"Lågendalsveien 121, Hedenstad",59.622031,9.663776
+628396,"Lågendalsveien 80A, Hedenstad",59.621723,9.655474
+628397,"Lågendalsveien 79, Hedenstad",59.622415,9.655239
+628398,"Lågendalsveien 76, Hedenstad",59.622241,9.654208
+628399,"Lågendalsveien 75, Hedenstad",59.622536,9.654515
+628400,"Lågendalsveien 72, Hedenstad",59.621549,9.654336
+628401,"Lågendalsveien 70, Hedenstad",59.621469,9.654086
+628402,"Sundet 3, Hedenstad",59.623371,9.65256
+628403,"Lågendalsveien 61, Hedenstad",59.623457,9.652101
+628404,"Lågendalsveien 86B, Hedenstad",59.621685,9.655846
+628405,"Lågendalsveien 86A, Hedenstad",59.621784,9.655794
+628406,"Lågendalsveien 85, Hedenstad",59.622188,9.655891
+628407,"Lågendalsveien 84B, Hedenstad",59.621343,9.655963
+628408,"Lågendalsveien 84A, Hedenstad",59.621353,9.655733
+628409,"Lågendalsveien 82B, Hedenstad",59.621399,9.655485
+628410,"Lågendalsveien 82A, Hedenstad",59.621489,9.655487
+628411,"Lågendalsveien 80B, Hedenstad",59.621642,9.65549
+628412,"Lågendalsveien 92, Hedenstad",59.621671,9.656732
+628413,"Lågendalsveien 91, Hedenstad",59.622352,9.657117
+628414,"Lågendalsveien 90, Hedenstad",59.621422,9.656319
+628415,"Lågendalsveien 88D, Hedenstad",59.621513,9.656108
+628416,"Lågendalsveien 88C, Hedenstad",59.621594,9.656127
+628417,"Lågendalsveien 88B, Hedenstad",59.621674,9.656182
+628418,"Lågendalsveien 88A, Hedenstad",59.621773,9.656184
+628419,"Lågendalsveien 87, Hedenstad",59.622347,9.656266
+628420,"Lågendalsveien 119B, Hedenstad",59.622044,9.662943
+628421,"Lågendalsveien 119A, Hedenstad",59.622036,9.662731
+628422,"Lågendalsveien 118, Hedenstad",59.621588,9.662562
+628423,"Lågendalsveien 114, Hedenstad",59.621422,9.66169
+628424,"Lågendalsveien 104, Hedenstad",59.62189,9.659714
+628425,"Lågendalsveien 102, Hedenstad",59.621847,9.659306
+628426,"Lågendalsveien 100, Hedenstad",59.62193,9.658846
+628427,"Lågendalsveien 96, Hedenstad",59.621925,9.658013
+628677,"Skollenborgveien 15, Hedenstad",59.622107,9.690776
+628678,"Skollenborgveien 14, Hedenstad",59.621771,9.68983
+628679,"Skollenborgveien 11, Hedenstad",59.622409,9.689825
+628680,"Skollenborgveien 10, Hedenstad",59.622023,9.689675
+628682,"Skollenborgveien 9, Hedenstad",59.622601,9.689173
+628683,"Skollenborgveien 7, Hedenstad",59.62272,9.688715
+628684,"Skollenborgveien 5, Hedenstad",59.622874,9.688328
+628686,"Skollenborgveien 24, Hedenstad",59.621657,9.692611
+628687,"Skollenborgveien 22, Hedenstad",59.62181,9.692685
+628688,"Skollenborgveien 21, Hedenstad",59.622027,9.692388
+628689,"Skollenborgveien 20, Hedenstad",59.621697,9.691991
+628690,"Skollenborgveien 19, Hedenstad",59.622085,9.691662
+628691,"Skollenborgveien 18, Hedenstad",59.621672,9.691618
+628692,"Skollenborgveien 17, Hedenstad",59.622113,9.691326
+628693,"Skollenborgveien 16, Hedenstad",59.621733,9.690166
+628727,"Tofstadveien 1, Hedenstad",59.621242,9.698115
+628728,"Skollenborgveien 37, Hedenstad",59.622245,9.695193
+628729,"Skollenborgveien 36, Hedenstad",59.621984,9.695401
+628730,"Skollenborgveien 32, Hedenstad",59.621873,9.694352
+628731,"Skollenborgveien 31, Hedenstad",59.622126,9.694074
+628732,"Skollenborgveien 30, Hedenstad",59.621767,9.693925
+628733,"Skollenborgveien 28, Hedenstad",59.621571,9.693743
+628734,"Skollenborgveien 26, Hedenstad",59.621278,9.694695
+628735,"Skollenborgveien 66, Hedenstad",59.621984,9.700524
+628736,"Skollenborgveien 65, Hedenstad",59.622418,9.69993
+628737,"Skollenborgveien 64, Hedenstad",59.621924,9.69992
+628738,"Skollenborgveien 62, Hedenstad",59.62217,9.699269
+628739,"Skollenborgveien 55, Hedenstad",59.622481,9.698212
+628740,"Skollenborgveien 53, Hedenstad",59.622512,9.697432
+628742,"Skollenborgveien 52, Hedenstad",59.622062,9.696005
+628743,"Skollenborgveien 48, Hedenstad",59.621651,9.697184
+628749,"Skollenborgveien 69, Hedenstad",59.622815,9.701215
+628750,"Skollenborgveien 68, Hedenstad",59.622161,9.700917
+628751,"Skollenborgveien 67, Hedenstad",59.622542,9.700252
+629125,"Hedenstadveien 150, Hedenstad",59.612341,9.655008
+629126,"Hedenstadveien 145, Hedenstad",59.610597,9.665979
+629127,"Hedenstadveien 141, Hedenstad",59.609877,9.669934
+629128,"Hedenstadveien 137, Hedenstad",59.611577,9.66575
+629129,"Hedenstadveien 131, Hedenstad",59.614446,9.664867
+629132,"Hedenstadveien 151, Hedenstad",59.611867,9.656452
+629133,"Hedenstadveien 147, Hedenstad",59.610427,9.666011
+629134,"Hedenstadveien 133, Hedenstad",59.614233,9.664544
+629135,"Hedenstadveien 160, Hedenstad",59.610399,9.657256
+629136,"Hedenstadveien 159, Hedenstad",59.610622,9.659281
+629137,"Landsverkveien 134, Hedenstad",59.612937,9.636092
+629138,"Landsverkveien 130, Hedenstad",59.613916,9.637971
+629139,"Landsverkveien 122, Hedenstad",59.615561,9.637471
+629144,"Landsverkveien 199, Hedenstad",59.612605,9.648739
+629145,"Landsverkveien 170, Hedenstad",59.612662,9.642768
+629146,"Landsverkveien 163, Hedenstad",59.614386,9.64273
+629147,"Landsverkveien 161, Hedenstad",59.613814,9.642258
+629148,"Landsverkveien 150, Hedenstad",59.614442,9.63869
+629149,"Landsverkveien 140, Hedenstad",59.612431,9.634789
+629150,"Landsverkveien 138, Hedenstad",59.612794,9.634122
+629152,"Landsverkveien 229, Hedenstad",59.612399,9.654052
+629153,"Landsverkveien 227, Hedenstad",59.612483,9.653593
+629155,"Landsverkveien 213, Hedenstad",59.612601,9.651415
+629157,"Landsverkveien 209, Hedenstad",59.612579,9.650387
+629158,"Landsverkveien 205, Hedenstad",59.612925,9.649454
+629159,"Landsverkveien 203, Hedenstad",59.612484,9.649694
+629168,"Hedenstadveien 218, Hedenstad",59.606665,9.663969
+629169,"Påterudveien 16, Hedenstad",59.602345,9.658853
+629177,"Påterudveien 4, Hedenstad",59.601456,9.662255
+629178,"Påterudveien 2, Hedenstad",59.601096,9.662478
+629180,"Påterudveien 19, Hedenstad",59.602118,9.65579
+629181,"Påterudveien 12, Hedenstad",59.601462,9.659314
+629182,"Påterudveien 10, Hedenstad",59.601338,9.660817
+629195,"Hedenstadveien 190, Hedenstad",59.605971,9.655646
+629203,"Hedenstadveien 263, Hedenstad",59.602568,9.666121
+629204,"Hedenstadveien 261, Hedenstad",59.602726,9.665043
+629205,"Hedenstadveien 219, Hedenstad",59.606589,9.664925
+629206,"Hedenstadveien 217, Hedenstad",59.606833,9.664593
+629207,"Hedenstadveien 216, Hedenstad",59.606641,9.66342
+629208,"Hedenstadveien 214, Hedenstad",59.606626,9.662852
+629209,"Hedenstadveien 213, Hedenstad",59.607169,9.663838
+629210,"Påterudveien 8, Hedenstad",59.60129,9.661348
+629211,"Hedenstadveien 270, Hedenstad",59.602357,9.663619
+629221,"Skrubbmoen 9, Hedenstad",59.626012,9.682524
+629230,"Grosvoldveien 37, Hedenstad",59.625049,9.706615
+629231,"Grosvoldveien 31, Hedenstad",59.625547,9.704126
+629232,"Grosvoldveien 2, Hedenstad",59.622941,9.702937
+629238,"Grosvoldveien 80, Hedenstad",59.625246,9.716601
+629239,"Grosvoldveien 74, Hedenstad",59.625269,9.712435
+629240,"Grosvoldveien 73, Hedenstad",59.62561,9.710829
+629241,"Grosvoldveien 70, Hedenstad",59.624496,9.714245
+629242,"Grosvoldveien 64, Hedenstad",59.623273,9.712907
+629243,"Grosvoldveien 62, Hedenstad",59.622414,9.712286
+629244,"Grosvoldveien 60, Hedenstad",59.623145,9.711699
+629245,"Grosvoldveien 39, Hedenstad",59.624723,9.707193
+629270,"Skrubbmoen 8, Hedenstad",59.624801,9.682233
+629271,"Skrubbmoen 6, Hedenstad",59.624975,9.681616
+629278,"Grosvoldveien 97, Hedenstad",59.62687,9.715199
+629279,"Grosvoldveien 95, Hedenstad",59.62652,9.715263
+629280,"Grosvoldveien 93, Hedenstad",59.626757,9.714665
+629281,"Grosvoldveien 91, Hedenstad",59.627002,9.714103
+629282,"Grosvoldveien 89, Hedenstad",59.62726,9.714498
+629283,"Grosvoldveien 85, Hedenstad",59.627313,9.71301
+629284,"Grosvoldveien 84, Hedenstad",59.625511,9.715738
+629285,"Grosvoldveien 82, Hedenstad",59.625532,9.716944
+629286,"Grosvoldveien 142, Hedenstad",59.630062,9.719452
+629287,"Grosvoldveien 140, Hedenstad",59.630082,9.719062
+629288,"Grosvoldveien 129, Hedenstad",59.630247,9.716885
+629289,"Grosvoldveien 127, Hedenstad",59.630384,9.71632
+629290,"Grosvoldveien 123, Hedenstad",59.629613,9.716197
+629291,"Grosvoldveien 121, Hedenstad",59.629426,9.715786
+629292,"Grosvoldveien 115, Hedenstad",59.628397,9.715161
+629293,"Grosvoldveien 101, Hedenstad",59.626983,9.715964
+629294,"Grosvoldveien 302, Hedenstad",59.64229,9.734471
+629295,"Grosvoldveien 300, Hedenstad",59.641201,9.734909
+629296,"Grosvoldveien 249, Hedenstad",59.638806,9.726467
+629297,"Grosvoldveien 245, Hedenstad",59.638762,9.724569
+629298,"Grosvoldveien 210, Hedenstad",59.635812,9.725392
+629299,"Grosvoldveien 172B, Hedenstad",59.632581,9.721811
+629300,"Grosvoldveien 172A, Hedenstad",59.632569,9.721646
+629301,"Grosvoldveien 170, Hedenstad",59.631906,9.720573
+629302,"Grosvoldveien 530, Hedenstad",59.659933,9.752551
+629303,"Grosvoldveien 479, Hedenstad",59.655756,9.735245
+629304,"Grosvoldveien 473, Hedenstad",59.656836,9.744372
+629305,"Grosvoldveien 471, Hedenstad",59.656307,9.744254
+629306,"Grosvoldveien 350, Hedenstad",59.645841,9.738576
+629307,"Rudsåsveien 12, Hedenstad",59.653861,9.732151
+629308,"Rudsåsveien 11, Hedenstad",59.653133,9.733215
+629309,"Åssideveien 123, Hedenstad",59.6558,9.752902
+629310,"Åssideveien 121, Hedenstad",59.65535,9.75307
+629311,"Åssideveien 89, Hedenstad",59.653514,9.750686
+629312,"Åssideveien 85, Hedenstad",59.654517,9.749591
+629313,"Åssideveien 81, Hedenstad",59.652511,9.748606
+629314,"Åssideveien 80, Hedenstad",59.651811,9.748537
+629315,"Rudsåsveien 33, Hedenstad",59.649366,9.72501
+629316,"Rudsåsveien 32, Hedenstad",59.657309,9.727417
+629317,"Rudsåsveien 31, Hedenstad",59.6496,9.726399
+629318,"Rudsåsveien 30, Hedenstad",59.657775,9.727463
+629319,"Rudsåsveien 24, Hedenstad",59.655757,9.728644
+629320,"Rudsåsveien 23, Hedenstad",59.652714,9.728418
+629321,"Rudsåsveien 22, Hedenstad",59.655925,9.729233
+629322,"Rudsåsveien 21, Hedenstad",59.653406,9.729977
+629323,"Jacob Grosvolds vei 4, Hedenstad",59.636431,9.720634
+629324,"Brenneveien 16, Hedenstad",59.640827,9.725688
+629325,"Brenneveien 15, Hedenstad",59.640222,9.725309
+629326,"Brenneveien 11, Hedenstad",59.645851,9.730469
+629327,"Brenneveien 7, Hedenstad",59.644799,9.730641
+629328,"Brenneveien 3, Hedenstad",59.643297,9.731052
+629329,"Rudsåsveien 39, Hedenstad",59.65201,9.725938
+629330,"Rudsåsveien 34, Hedenstad",59.657287,9.726405
+629331,"Jacob Grosvolds vei 40, Hedenstad",59.642558,9.723426
+629332,"Jacob Grosvolds vei 39, Hedenstad",59.641447,9.722995
+629333,"Jacob Grosvolds vei 28, Hedenstad",59.638816,9.721466
+629334,"Jacob Grosvolds vei 20, Hedenstad",59.637448,9.720284
+629335,"Jacob Grosvolds vei 15, Hedenstad",59.63545,9.719514
+629336,"Jacob Grosvolds vei 11, Hedenstad",59.634463,9.721036
+629337,"Jacob Grosvolds vei 10, Hedenstad",59.634925,9.721808
+629338,"Jacob Grosvolds vei 6, Hedenstad",59.636126,9.720646
+629339,"Åssideveien 6, Hedenstad",59.6463,9.740041
+629340,"Åssideveien 28, Hedenstad",59.649011,9.744926
+629341,"Åssideveien 26, Hedenstad",59.648871,9.744426
+629342,"Åssideveien 25, Hedenstad",59.649593,9.742118
+629343,"Åssideveien 21, Hedenstad",59.648715,9.741726
+629344,"Åssideveien 18, Hedenstad",59.648087,9.741641
+629345,"Åssideveien 16, Hedenstad",59.647738,9.741438
+629346,"Åssideveien 14, Hedenstad",59.64784,9.742452
+629347,"Åssideveien 12, Hedenstad",59.648069,9.743273
+629349,"Hedenstadveien 5, Hedenstad",59.621173,9.662944
+629350,"Hedenstadveien 1, Hedenstad",59.621225,9.663441
+629352,"Gravenfossveien 36, Hedenstad",59.610766,9.685582
+629356,"Helga Wærps vei 14, Hedenstad",59.627506,9.71227
+629357,"Helga Wærps vei 10, Hedenstad",59.626842,9.712238
+629358,"Helga Wærps vei 1, Hedenstad",59.625798,9.712606
+629359,"Nyhusveien 51, Hedenstad",59.630474,9.72783
+629360,"Nyhusveien 20, Hedenstad",59.621991,9.725661
+629361,"Nyhusveien 6, Hedenstad",59.628986,9.719163
+629362,"Nyhusveien 4, Hedenstad",59.629194,9.718919
+629363,"Jacob Grosvolds vei 41, Hedenstad",59.641826,9.72279
+629364,"Helga Wærps vei 21, Hedenstad",59.629117,9.71163
+629365,"Blårudveien 40, Hedenstad",59.61911,9.648191
+629366,"Blårudveien 32, Hedenstad",59.61906,9.652852
+629367,"Blårudveien 30, Hedenstad",59.618902,9.652122
+629368,"Blårudveien 27, Hedenstad",59.618164,9.650637
+629369,"Blårudveien 23, Hedenstad",59.617472,9.650765
+629370,"Blårudveien 19, Hedenstad",59.617298,9.651364
+629371,"Blårudveien 15, Hedenstad",59.617284,9.652374
+629372,"Gravenfossveien 37, Hedenstad",59.610171,9.685888
+629374,"Gravenfossveien 35, Hedenstad",59.61067,9.686678
+629375,"Gravenfossveien 31, Hedenstad",59.611486,9.686979
+629376,"Gravenfossveien 21, Hedenstad",59.61541,9.674936
+629377,"Gravenfossveien 4, Hedenstad",59.616773,9.65933
+629378,"Blårudveien 50, Hedenstad",59.617484,9.646529
+629379,"Blårudveien 48, Hedenstad",59.618248,9.646402
+629381,"Gravenfossveien 39, Hedenstad",59.609645,9.685293
+629390,"Hedenstadveien 38, Hedenstad",59.620871,9.653401
+629391,"Hedenstadveien 32, Hedenstad",59.620705,9.656004
+629392,"Hedenstadveien 30, Hedenstad",59.620702,9.656695
+629393,"Hedenstadveien 21, Hedenstad",59.621019,9.661523
+629394,"Hedenstadveien 17, Hedenstad",59.620291,9.661615
+629395,"Hedenstadveien 15, Hedenstad",59.619549,9.662664
+629396,"Hedenstadveien 9, Hedenstad",59.62098,9.66216
+629397,"Hedenstadveien 7, Hedenstad",59.620833,9.662725
+629398,"Hedenstadveien 80, Hedenstad",59.616807,9.656194
+629399,"Hedenstadveien 60, Hedenstad",59.618346,9.65734
+629400,"Hedenstadveien 56, Hedenstad",59.618672,9.656833
+629401,"Hedenstadveien 54, Hedenstad",59.618648,9.65623
+629402,"Hedenstadveien 51, Hedenstad",59.6196,9.657897
+629403,"Hedenstadveien 45, Hedenstad",59.620518,9.657525
+629404,"Hedenstadveien 44, Hedenstad",59.620475,9.651763
+629405,"Hedenstadveien 40, Hedenstad",59.621197,9.652911
+629406,"Hedenstadveien 102, Hedenstad",59.614921,9.652594
+629407,"Hedenstadveien 100, Hedenstad",59.614445,9.650902
+629408,"Hedenstadveien 94, Hedenstad",59.615736,9.65479
+629409,"Hedenstadveien 90, Hedenstad",59.616082,9.655719
+629410,"Hedenstadveien 88, Hedenstad",59.616377,9.655937
+629411,"Hedenstadveien 86, Hedenstad",59.616628,9.656013
+629412,"Hedenstadveien 84, Hedenstad",59.616722,9.655235
+629413,"Hedenstadveien 82, Hedenstad",59.616935,9.655718
+629414,"Blårudveien 10, Hedenstad",59.617034,9.653876
+629415,"Hedenstadveien 122, Hedenstad",59.614233,9.655452
+629416,"Hedenstadveien 121, Hedenstad",59.614568,9.656717
+629417,"Hedenstadveien 119, Hedenstad",59.615467,9.656611
+629418,"Hedenstadveien 116, Hedenstad",59.614936,9.655058
+629419,"Hedenstadveien 110, Hedenstad",59.615107,9.653147
+629420,"Hedenstadveien 108, Hedenstad",59.615153,9.654743
+629421,"Hedenstadveien 106, Hedenstad",59.615307,9.654374
+629455,"Hedenstadveien 68, Hedenstad",59.617946,9.65657
+629456,"Hedenstadveien 70, Hedenstad",59.618015,9.657015
+629457,"Hedenstadveien 66, Hedenstad",59.617992,9.656234
+629458,"Hedenstadveien 64, Hedenstad",59.618343,9.656206
+629493,"Brønstadveien 62, Hedenstad",59.607089,9.643902
+629494,"Brønstadveien 61, Hedenstad",59.607685,9.64868
+629495,"Brønstadveien 60, Hedenstad",59.607239,9.642611
+629496,"Brønstadveien 40, Hedenstad",59.609189,9.645874
+629497,"Brønstadveien 30, Hedenstad",59.609647,9.640425
+629498,"Brønstadveien 28, Hedenstad",59.609314,9.638806
+629499,"Brønstadveien 23, Hedenstad",59.610504,9.645155
+629500,"Brønstadveien 21, Hedenstad",59.610746,9.645177
+629560,"Brønstadveien 137, Hedenstad",59.604907,9.658318
+629561,"Brønstadveien 106, Hedenstad",59.604194,9.650048
+629562,"Brønstadveien 100, Hedenstad",59.604355,9.648297
+629563,"Brønstadveien 80, Hedenstad",59.606171,9.647871
+629564,"Brønstadveien 70, Hedenstad",59.606514,9.643802
+629565,"Brønstadveien 68, Hedenstad",59.606299,9.642044
+629566,"Brønstadveien 66, Hedenstad",59.606473,9.641285
+629567,"Brønstadveien 64, Hedenstad",59.606797,9.642922
+629568,"Brønstadveien 139, Hedenstad",59.604574,9.658489
+629569,"Brønstadveien 82, Hedenstad",59.606246,9.647341
+629570,"Brønstadveien 179, Hedenstad",59.604607,9.664336
+629571,"Brønstadveien 149, Hedenstad",59.604449,9.660081
+629588,"Grosvoldveien 75, Hedenstad",59.625819,9.711968
+629589,"Påterudveien 39, Hedenstad",59.600801,9.653277
+629590,"Påterudveien 38, Hedenstad",59.601016,9.653406
+629591,"Påterudveien 36, Hedenstad",59.601205,9.653268
+629592,"Påterudveien 35, Hedenstad",59.600667,9.65494
+629593,"Lågendalsveien 94, Hedenstad",59.621804,9.657195
+629600,"Påterudveien 28, Hedenstad",59.601867,9.6539
+629601,"Påterudveien 26, Hedenstad",59.602053,9.654436
+629602,"Påterudveien 22, Hedenstad",59.602711,9.655565
+629603,"Påterudveien 30, Hedenstad",59.601669,9.653861
+629668,"Åssideveien 16B, Hedenstad",59.647699,9.74197
+629767,"Brønstadveien 102, Hedenstad",59.603574,9.648175
+629774,"Voldenveien 73, Hedenstad",59.601316,9.67561
+629776,"Voldenveien 79, Hedenstad",59.600227,9.674366
+629777,"Voldenveien 77, Hedenstad",59.600455,9.673821
+629778,"Voldenveien 69, Hedenstad",59.60112,9.673586
+629779,"Voldenveien 66, Hedenstad",59.601276,9.672934
+629780,"Voldenveien 65, Hedenstad",59.60145,9.67416
+629781,"Voldenveien 64, Hedenstad",59.601689,9.67296
+629782,"Voldenveien 63, Hedenstad",59.601781,9.673812
+629783,"Voldenveien 96, Hedenstad",59.598994,9.673154
+629786,"Voldenveien 33B, Hedenstad",59.603889,9.671374
+629787,"Voldenveien 33A, Hedenstad",59.603727,9.671317
+629788,"Voldenveien 29, Hedenstad",59.607325,9.6755
+629789,"Voldenveien 27, Hedenstad",59.6079,9.675458
+629790,"Voldenveien 1, Hedenstad",59.604445,9.666158
+629791,"Hedenstadveien 62, Hedenstad",59.618322,9.65679
+629793,"Voldenveien 43, Hedenstad",59.604087,9.674656
+629794,"Voldenveien 41, Hedenstad",59.603565,9.673245
+629795,"Voldenveien 62, Hedenstad",59.601887,9.672981
+629796,"Voldenveien 58, Hedenstad",59.602425,9.673134
+629797,"Voldenveien 57, Hedenstad",59.602463,9.674481
+629798,"Voldenveien 56, Hedenstad",59.602676,9.673157
+629799,"Voldenveien 54, Hedenstad",59.602928,9.673091
+629800,"Voldenveien 51, Hedenstad",59.603275,9.673718
+629801,"Voldenveien 49, Hedenstad",59.603471,9.674023
+629802,"Voldenveien 47, Hedenstad",59.604173,9.675437
+629813,"Åssideveien 82, Hedenstad",59.651999,9.748612
+629820,"Lågendalsveien 115, Hedenstad",59.622086,9.661863
+629941,"Furuveien 25B, Hedenstad",59.620294,9.682089
+629942,"Furuveien 25A, Hedenstad",59.620374,9.682268
+630008,"Skrubbmoen 2, Hedenstad",59.626164,9.680967
+630009,"Skrubbmoen 4, Hedenstad",59.625794,9.681207
+630010,"Labroveien 20, Hedenstad",59.622427,9.663696
+630031,"Gravenfossveien 33, Hedenstad",59.610955,9.687145
+630065,"Labroveien 24, Hedenstad",59.622841,9.663526
+630078,"Labroveien 25B, Hedenstad",59.622899,9.662588
+630080,"Labroveien 25A, Hedenstad",59.622827,9.662657
+630097,"Landsverkveien 142, Hedenstad",59.612027,9.634834
+630104,"Nyhusveien 25, Hedenstad",59.624874,9.725564
+630115,"Labroveien 5, Hedenstad",59.622733,9.661663
+630132,"Labroveien 23, Hedenstad",59.622575,9.662848
+630134,"Labroveien 8, Hedenstad",59.622272,9.662274
+630184,"Labroveien 10, Hedenstad",59.622031,9.662004
+630193,"Åssideveien 55, Hedenstad",59.651147,9.745311
+630276,"Skrubbmoen 18, Hedenstad",59.623266,9.685482
+630277,"Grosvoldveien 483, Hedenstad",59.658805,9.740813
+630308,"Grenaderveien 7, Hedenstad",59.600195,9.664816
+630336,"Grenaderveien 9, Hedenstad",59.599935,9.664793
+630337,"Grenaderveien 4, Hedenstad",59.600543,9.663494
+630338,"Grenaderveien 2, Hedenstad",59.600786,9.663393
+630357,"Hedenstadveien 152A, Hedenstad",59.61151,9.655984
+630358,"Hedenstadveien 152B, Hedenstad",59.611404,9.655557
+630359,"Hedenstadveien 192, Hedenstad",59.605731,9.655163
+630360,"Skollenborgveien 34, Hedenstad",59.621842,9.695061
+630440,"Labroveien 2, Hedenstad",59.622197,9.661209
+630451,"Labroveien 7, Hedenstad",59.622974,9.661951
+630454,"Labroveien 28, Hedenstad",59.62322,9.663038
+630455,"Labroveien 26, Hedenstad",59.62303,9.663335
+630456,"Kongsgårdveien 26, Hedenstad",59.626937,9.652491
+630474,"Labroveien 9, Hedenstad",59.623278,9.66233
+630478,"Labroveien 22, Hedenstad",59.622642,9.663753
+630494,"Hedenstadveien 225, Hedenstad",59.606094,9.665039
+630496,"Nyhusveien 37, Hedenstad",59.627509,9.726383
+630499,"Nyhusveien 33, Hedenstad",59.627084,9.727047
+630503,"Skrubbmoen 14, Hedenstad",59.623706,9.68386
+630504,"Kongsgårdveien 11B, Hedenstad",59.626054,9.647634
+630542,"Nyhusveien 31, Hedenstad",59.626786,9.727289
+630543,"Nyhusveien 43, Hedenstad",59.627982,9.726978
+630567,"Nyhusveien 39, Hedenstad",59.627752,9.726406
+630611,"Venliveien 25, Hedenstad",59.629049,9.685564
+630627,"Kongsgårdveien 18B, Hedenstad",59.625936,9.649652
+630629,"Kongsgårdveien 18A, Hedenstad",59.626073,9.6493
+630631,"Venliveien 42, Hedenstad",59.622456,9.692822
+630633,"Venliveien 40, Hedenstad",59.622789,9.692616
+630635,"Venliveien 45, Hedenstad",59.622954,9.695332
+630637,"Venliveien 49, Hedenstad",59.623423,9.698302
+630698,"Jacob Grosvolds vei 30, Hedenstad",59.638968,9.721505
+630701,"Hedenstadveien 139, Hedenstad",59.613213,9.672605
+630800,"Skrubbmoen 16, Hedenstad",59.623396,9.684687
+630840,"Nyhusveien 41, Hedenstad",59.627721,9.72699
+630841,"Venliveien 3, Hedenstad",59.627293,9.683099
+630842,"Venliveien 1, Hedenstad",59.626995,9.681781
+630974,"Voldenveien 81, Hedenstad",59.60033,9.673553
+630987,"Skrubbmoen 10, Hedenstad",59.624416,9.68203
+630988,"Skrubbmoen 12, Hedenstad",59.623981,9.682718
+631077,"Skrubbmoen 1, Hedenstad",59.627615,9.67979
+631291,"Grosvoldveien 144, Hedenstad",59.630687,9.720174
+631386,"Rudsveien 3B, Hedenstad",59.621265,9.683597
+631387,"Rudsveien 3A, Hedenstad",59.62131,9.68351
+631590,"Påterudveien 37, Hedenstad",59.600352,9.655058
+1350439,"Kongsgårdveien 20, Hedenstad",59.62631,9.649856
+1635061,"Kaptein Hannevigs vei 11, Hedenstad",59.60164,9.665642
+1654203,"Grenaderveien 8, Hedenstad",59.600119,9.663583
+1709752,"Grosvoldveien 28, Hedenstad",59.623171,9.706282
+1710783,"Grenaderveien 22, Hedenstad",59.599004,9.665009
+1710827,"Grenaderveien 6, Hedenstad",59.600336,9.663535
+1729845,"Grenaderveien 10, Hedenstad",59.599952,9.663752
+1734633,"Grenaderveien 12, Hedenstad",59.599727,9.663746
+1734634,"Grenaderveien 18, Hedenstad",59.598817,9.664222
+1747650,"Grenaderveien 16, Hedenstad",59.599309,9.664092
+1777942,"Kaptein Hannevigs vei 40A, Hedenstad",59.600736,9.6642
+1779107,"Grenaderveien 14, Hedenstad",59.599544,9.663903
+1859196,"Åssideveien 191, Fiskum",59.659691,9.758968
+1859198,"Åssideveien 171, Fiskum",59.658705,9.758421
+1859199,"Åssideveien 193, Fiskum",59.65992,9.759454
+1859200,"Åssideveien 155, Fiskum",59.657472,9.75727
+1859201,"Åssideveien 173, Fiskum",59.658934,9.758435
+1859203,"Åssideveien 169, Fiskum",59.65817,9.757765
+1859459,"Åssideveien 209, Fiskum",59.661002,9.761697
+1859461,"Åssideveien 233, Fiskum",59.662675,9.764451
+1859462,"Åssideveien 211, Fiskum",59.661518,9.762614
+1859661,"Grosvoldveien 527, Fiskum",59.660935,9.745332
+1859662,"Grosvoldveien 529, Fiskum",59.660564,9.747347
+1859663,"Grosvoldveien 525, Fiskum",59.659972,9.744741
+1859665,"Grosvoldveien 573, Fiskum",59.663961,9.753165
+1859712,"Grosvoldveien 641, Fiskum",59.668569,9.762242
+1859714,"Grosvoldveien 640, Fiskum",59.667633,9.764138
+1859717,"Grosvoldveien 623, Fiskum",59.667484,9.760549
+1859720,"Grosvoldveien 621, Fiskum",59.667013,9.761159
+1859723,"Grosvoldveien 606, Fiskum",59.665036,9.761487
+1859726,"Grosvoldveien 571, Fiskum",59.663468,9.7546
+1859732,"Grosvoldveien 551, Fiskum",59.663399,9.749578
+1864516,"Skrubbmoen 3, Hedenstad",59.626867,9.680609
+1890223,"Skollenborgveien 42, Hedenstad",59.619683,9.694041
+1890412,"Skollenborgveien 40, Hedenstad",59.61977,9.694646
+1890413,"Tofstadveien 7, Hedenstad",59.620833,9.700819
+1890425,"Tofstadveien 12, Hedenstad",59.617266,9.707834
+1890426,"Skollenborgveien 46, Hedenstad",59.619435,9.69689
+1890427,"Tofstadveien 26, Hedenstad",59.615281,9.709459
+1890429,"Tofstadveien 18, Hedenstad",59.616623,9.708778
+1890431,"Tofstadveien 20, Hedenstad",59.616416,9.708862
+1942842,"Åssideveien 8, Hedenstad",59.646236,9.741444
+1944461,"Påterudveien 15, Hedenstad",59.601758,9.657528
+1959472,"Voldenveien 95B, Hedenstad",59.599393,9.67319
+1961180,"Rudsåsveien 40, Hedenstad",59.655723,9.726789
+1961467,"Brenneveien 18, Hedenstad",59.640924,9.725791
+1975278,"Rudsåsveien 52, Hedenstad",59.655604,9.727679
+1975312,"Rudsåsveien 50, Hedenstad",59.655275,9.726896
+2000081,"Sundet 4A, Hedenstad",59.624097,9.651276
+2000120,"Sundet 4B, Hedenstad",59.624189,9.65142
+2001309,"Sundet 21, Hedenstad",59.625799,9.652212
+2001938,"Karl Skalstads vei 5, Hedenstad",59.624978,9.652875
+2002069,"Karl Skalstads vei 1A, Hedenstad",59.624516,9.652298
+2002832,"Karl Skalstads vei 15, Hedenstad",59.625301,9.651055
+2003794,"Karl Skalstads vei 7, Hedenstad",59.625454,9.652941
+2007636,"Sundet 20, Hedenstad",59.625445,9.649448
+2007637,"Sundet 15, Hedenstad",59.6249,9.652114
+2007736,"Sundet 24, Hedenstad",59.626097,9.651978
+2007737,"Sundet 22, Hedenstad",59.625915,9.651521
+2007841,"Sundet 9A, Hedenstad",59.624403,9.652872
+2007842,"Sundet 13A, Hedenstad",59.624261,9.652203
+2007843,"Sundet 7A, Hedenstad",59.624175,9.652703
+2008002,"Sundet 9D, Hedenstad",59.624685,9.652711
+2008003,"Sundet 9C, Hedenstad",59.624671,9.652865
+2012074,"Rudsåsveien 42, Hedenstad",59.655418,9.726046
+2017131,"Karl Skalstads vei 2, Hedenstad",59.624835,9.652191
+2019166,"Karl Skalstads vei 12B, Hedenstad",59.625049,9.651837
+2024920,"Blårudveien 44B, Hedenstad",59.618812,9.646599
+2024931,"Blårudveien 44A, Hedenstad",59.618718,9.646688
+2025454,"Blårudveien 46B, Hedenstad",59.619199,9.646434
+2025455,"Blårudveien 46A, Hedenstad",59.619106,9.646523
+2026209,"Sundet 7B, Hedenstad",59.624196,9.652583
+2026388,"Helga Wærps vei 20, Hedenstad",59.628281,9.713811
+2026389,"Helga Wærps vei 18, Hedenstad",59.628466,9.713421
+2026391,"Helga Wærps vei 16, Hedenstad",59.628341,9.713223
+2039770,"Rudsåsveien 48, Hedenstad",59.655114,9.726343
+2043466,"Sundet 12B, Hedenstad",59.62492,9.650771
+2044202,"Blårudveien 40B, Hedenstad",59.618842,9.648494
+2116348,"Landsverkveien 144, Hedenstad",59.61156,9.636638
+2181505,"Landsverkveien 146, Hedenstad",59.610972,9.637579
+2196503,"Rudsåsveien 18, Hedenstad",59.656433,9.730089
+2234376,"Skrubbmoen 21, Hedenstad",59.624526,9.684993
+2234377,"Skrubbmoen 19, Hedenstad",59.624309,9.684599
+2234382,"Skrubbmoen 17A, Hedenstad",59.624764,9.683287
+2234409,"Skrubbmoen 11A, Hedenstad",59.62563,9.684367
+2234410,"Skrubbmoen 13A, Hedenstad",59.625513,9.683721
+2234424,"Skrubbmoen 23, Hedenstad",59.623532,9.686209
+2255968,"Skrubbmoen 13B, Hedenstad",59.625573,9.683662
+2255970,"Skrubbmoen 13F, Hedenstad",59.625549,9.683271
+2255980,"Skrubbmoen 13K, Hedenstad",59.625363,9.683445
+2255981,"Skrubbmoen 11L, Hedenstad",59.625567,9.684018
+2256150,"Skrubbmoen 11B, Hedenstad",59.625725,9.684294
+2256152,"Skrubbmoen 11C, Hedenstad",59.625775,9.684248
+2256154,"Skrubbmoen 13C, Hedenstad",59.625621,9.683626
+2256157,"Skrubbmoen 11K, Hedenstad",59.625626,9.683963
+2256170,"Skrubbmoen 11D, Hedenstad",59.625823,9.684197
+2256171,"Skrubbmoen 11E, Hedenstad",59.625904,9.684128
+2256172,"Skrubbmoen 11F, Hedenstad",59.625887,9.683766
+2256173,"Skrubbmoen 11G, Hedenstad",59.625755,9.683843
+2256174,"Skrubbmoen 13D, Hedenstad",59.625664,9.683584
+2256175,"Skrubbmoen 13E, Hedenstad",59.625652,9.683179
+2256176,"Skrubbmoen 13G, Hedenstad",59.625501,9.683322
+2256180,"Skrubbmoen 11J, Hedenstad",59.625667,9.683926
+2256181,"Skrubbmoen 13J, Hedenstad",59.625404,9.683405
+2256185,"Skrubbmoen 11H, Hedenstad",59.62571,9.683881
+2256187,"Skrubbmoen 13H, Hedenstad",59.625449,9.683367
+2257462,"Skrubbmoen 15A, Hedenstad",59.625366,9.683082
+2263706,"Skrubbmoen 17B, Hedenstad",59.624695,9.68385
+2368792,"Påterudveien 5, Hedenstad",59.601023,9.658083
+2368826,"Påterudveien 3, Hedenstad",59.601214,9.658407
+2368845,"Påterudveien 13, Hedenstad",59.601574,9.658056
+2368875,"Påterudveien 11, Hedenstad",59.601326,9.657816
+2368895,"Påterudveien 7, Hedenstad",59.600818,9.657859
+2368897,"Påterudveien 9, Hedenstad",59.600997,9.657549
+2408276,"Sundet 11B, Hedenstad",59.624029,9.652087
+2408277,"Sundet 11A, Hedenstad",59.62405,9.652015
+2408282,"Sundet 5B, Hedenstad",59.623987,9.652421
+2408283,"Sundet 5A, Hedenstad",59.62397,9.652499
+2408343,"Sundet 6A, Hedenstad",59.624291,9.651597
+2408344,"Sundet 6B, Hedenstad",59.624394,9.651702
+2408406,"Sundet 10, Hedenstad",59.624849,9.651232
+2408407,"Sundet 12A, Hedenstad",59.624955,9.650843
+2408409,"Sundet 16, Hedenstad",59.625138,9.650087
+2408410,"Sundet 14, Hedenstad",59.62505,9.650433
+2408411,"Sundet 8, Hedenstad",59.624648,9.651446
+2408420,"Sundet 18A, Hedenstad",59.62528,9.649764
+2408421,"Karl Skalstads vei 12A, Hedenstad",59.625071,9.651809
+2408422,"Karl Skalstads vei 9, Hedenstad",59.625401,9.652431
+2408423,"Karl Skalstads vei 11, Hedenstad",59.625461,9.6519
+2408512,"Sundet 9B, Hedenstad",59.624419,9.652754
+2408583,"Karl Skalstads vei 13, Hedenstad",59.625392,9.651484
+2408600,"Karl Skalstads vei 1B, Hedenstad",59.624462,9.652303
+2408647,"Sundet 23, Hedenstad",59.625874,9.652715
+2409198,"Sundet 13B, Hedenstad",59.624247,9.652311
+2409899,"Sundet 18B, Hedenstad",59.625229,9.649692
+2440387,"Kaptein Hannevigs vei 31B, Hedenstad",59.600787,9.666777
+2440388,"Kaptein Hannevigs vei 31A, Hedenstad",59.600877,9.666796
+2440389,"Kaptein Hannevigs vei 29B, Hedenstad",59.601012,9.666604
+2440390,"Kaptein Hannevigs vei 29A, Hedenstad",59.601067,9.666481
+2440391,"Kaptein Hannevigs vei 25, Hedenstad",59.601323,9.667319
+2440392,"Kaptein Hannevigs vei 42, Hedenstad",59.600593,9.664222
+2440393,"Kaptein Hannevigs vei 41, Hedenstad",59.600452,9.664812
+2440394,"Kaptein Hannevigs vei 40, Hedenstad",59.600979,9.664407
+2440395,"Kaptein Hannevigs vei 37B, Hedenstad",59.600801,9.665803
+2440396,"Kaptein Hannevigs vei 37A, Hedenstad",59.600854,9.665928
+2440397,"Kaptein Hannevigs vei 36B, Hedenstad",59.600902,9.665255
+2440398,"Kaptein Hannevigs vei 36A, Hedenstad",59.600956,9.665398
+2440399,"Kaptein Hannevigs vei 34B, Hedenstad",59.601079,9.665826
+2444371,"Kaptein Hannevigs vei 4, Hedenstad",59.601282,9.664714
+2444372,"Kaptein Hannevigs vei 3, Hedenstad",59.601562,9.664418
+2444373,"Kaptein Hannevigs vei 2, Hedenstad",59.601214,9.664057
+2444374,"Kaptein Hannevigs vei 1, Hedenstad",59.601502,9.663903
+2444809,"Hedenstadveien 276, Hedenstad",59.601955,9.663062
+2444810,"Hedenstadveien 274, Hedenstad",59.602073,9.66278
+2444811,"Hedenstadveien 272, Hedenstad",59.602296,9.663157
+2444874,"Dalsveien 16, Hedenstad",59.599999,9.668125
+2444996,"Voldenveien 95A, Hedenstad",59.599346,9.673297
+2444998,"Voldenveien 86, Hedenstad",59.599575,9.672032
+2445000,"Voldenveien 85, Hedenstad",59.599885,9.672835
+2445002,"Voldenveien 83, Hedenstad",59.600134,9.673354
+2445697,"Grenaderveien 20, Hedenstad",59.598995,9.664553
+2450999,"Skrubbmoen 15B, Hedenstad",59.625421,9.683037
+2451000,"Skrubbmoen 15C, Hedenstad",59.625457,9.683004
+2451001,"Skrubbmoen 15E, Hedenstad",59.625536,9.682925
+2451003,"Skrubbmoen 15M, Hedenstad",59.625317,9.682738
+2451033,"Skrubbmoen 15F, Hedenstad",59.625631,9.682853
+2451107,"Skrubbmoen 15L, Hedenstad",59.625361,9.682697
+2451119,"Skrubbmoen 15D, Hedenstad",59.625495,9.682962
+2451120,"Skrubbmoen 15G, Hedenstad",59.625557,9.682513
+2451121,"Skrubbmoen 15K, Hedenstad",59.625413,9.682655
+2451122,"Skrubbmoen 15J, Hedenstad",59.625464,9.682605
+2451134,"Skrubbmoen 15H, Hedenstad",59.625514,9.682558
+2451135,"Skrubbmoen 15N, Hedenstad",59.625275,9.682766
+2451246,"Grosvoldveien 146, Hedenstad",59.630798,9.719441
+2491975,"Blårudveien 21, Hedenstad",59.617684,9.651336

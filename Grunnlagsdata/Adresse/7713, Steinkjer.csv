@@ -1,0 +1,914 @@
+,Navn,Long,Lat
+881057,"Brannhaugvegen 5, Steinkjer",64.009904,11.514074
+881058,"Brannhaugvegen 6, Steinkjer",64.010788,11.512783
+881059,"Brannhaugvegen 7, Steinkjer",64.009602,11.514415
+881060,"Brannhaugvegen 8, Steinkjer",64.010715,11.513369
+881062,"Brannhaugvegen 1, Steinkjer",64.010357,11.512785
+881063,"Brannhaugvegen 2, Steinkjer",64.010955,11.511958
+881064,"Brannhaugvegen 3, Steinkjer",64.010138,11.513502
+881065,"Brannhaugvegen 14, Steinkjer",64.009961,11.514918
+881066,"Brannhaugvegen 15, Steinkjer",64.008984,11.513234
+881067,"Brannhaugvegen 16A, Steinkjer",64.009449,11.515466
+881068,"Brannhaugvegen 16B, Steinkjer",64.009449,11.515466
+881069,"Brannhaugvegen 9, Steinkjer",64.009277,11.514488
+881070,"Brannhaugvegen 10, Steinkjer",64.010468,11.513654
+881071,"Brannhaugvegen 11, Steinkjer",64.009127,11.5138
+881072,"Brannhaugvegen 12, Steinkjer",64.010188,11.514263
+881077,"Brannhaugvegen 16C, Steinkjer",64.009449,11.515466
+881078,"Brannhaugvegen 17, Steinkjer",64.008903,11.512777
+881188,"Astridvegen 3, Steinkjer",64.014226,11.507115
+881189,"Astridvegen 5, Steinkjer",64.014256,11.507466
+881190,"Astridvegen 7, Steinkjer",64.014271,11.507631
+881196,"Astridvegen 1, Steinkjer",64.014202,11.50697
+881289,"Bergljotvegen 3, Steinkjer",64.014,11.507238
+881290,"Bergljotvegen 5, Steinkjer",64.014029,11.50765
+881291,"Bergljotvegen 7, Steinkjer",64.014054,11.507755
+881365,"Bergljotvegen 1, Steinkjer",64.013966,11.507092
+881415,"Gamle Dambakkveg 8, Steinkjer",63.993415,11.502264
+881610,"Furuskogvegen 32, Steinkjer",64.012955,11.506408
+881611,"Furuskogvegen 33, Steinkjer",64.013102,11.505664
+881612,"Furuskogvegen 34, Steinkjer",64.012764,11.506554
+881613,"Furuskogvegen 41, Steinkjer",64.012712,11.505895
+881614,"Furuskogvegen 43, Steinkjer",64.012667,11.505891
+881615,"Furuskogvegen 45, Steinkjer",64.012513,11.505959
+881616,"Furuskogvegen 47, Steinkjer",64.012459,11.506015
+881617,"Furuskogvegen 35, Steinkjer",64.013048,11.505679
+881618,"Furuskogvegen 36, Steinkjer",64.012573,11.50664
+881619,"Furuskogvegen 37, Steinkjer",64.012912,11.505749
+881620,"Furuskogvegen 39, Steinkjer",64.012849,11.505784
+881621,"Gamle Dambakkveg 3, Steinkjer",63.993041,11.501085
+881622,"Gamle Dambakkveg 4, Steinkjer",63.994393,11.499692
+881623,"Gamle Dambakkveg 5, Steinkjer",63.993109,11.501807
+881624,"Gamle Dambakkveg 7, Steinkjer",63.993062,11.502416
+881626,"Gamle Dambakkveg 1, Steinkjer",63.992972,11.500363
+881627,"Gamle Dambakkveg 2, Steinkjer",63.993966,11.498938
+881661,"Byingeniør Gregussons gate 2A, Steinkjer",64.013022,11.498329
+881662,"Byingeniør Gregussons gate 2B, Steinkjer",64.013022,11.498329
+881663,"Byingeniør Gregussons gate 2C, Steinkjer",64.013022,11.498329
+881668,"Dambakkvegen 6, Steinkjer",63.992705,11.499173
+881669,"Dambakkvegen 8, Steinkjer",63.99289,11.499374
+881670,"Dambakkvegen 10, Steinkjer",63.993022,11.499059
+881671,"Dambakkvegen 11, Steinkjer",63.993217,11.49971
+881672,"Byingeniør Gregussons gate 4, Steinkjer",64.013161,11.49912
+881673,"Dambakkvegen 1, Steinkjer",63.992645,11.5006
+881674,"Dambakkvegen 2, Steinkjer",63.992118,11.50045
+881675,"Dambakkvegen 4, Steinkjer",63.992368,11.500002
+881680,"Dambakkvegen 13, Steinkjer",63.993541,11.499166
+881681,"Dambakkvegen 15, Steinkjer",63.99356,11.498534
+881695,"Eirik Jarls gate 21, Steinkjer",64.015177,11.500917
+881700,"Eirik Jarls gate 27, Steinkjer",64.01552,11.502401
+881703,"Eirik Jarls gate 22, Steinkjer",64.015473,11.500452
+881704,"Eirik Jarls gate 23, Steinkjer",64.015299,11.501153
+881705,"Eirik Jarls gate 24, Steinkjer",64.015539,11.500765
+881706,"Eirik Jarls gate 25, Steinkjer",64.015382,11.501529
+881772,"Fossekallen 1, Steinkjer",63.992844,11.501558
+881773,"Fossekallen 2, Steinkjer",63.992826,11.502068
+881774,"Fossekallen 3, Steinkjer",63.992755,11.500978
+881779,"Fossekallen 8, Steinkjer",63.9919,11.501597
+881780,"Fossekallen 9, Steinkjer",63.99202,11.500932
+881781,"Fossekallen 10, Steinkjer",63.991633,11.50145
+881782,"Fossekallen 11, Steinkjer",63.991699,11.500761
+881783,"Fossekallen 4, Steinkjer",63.99254,11.502001
+881784,"Fossekallen 5, Steinkjer",63.992468,11.500952
+881785,"Fossekallen 6, Steinkjer",63.992318,11.501859
+881786,"Fossekallen 7, Steinkjer",63.992339,11.501165
+881797,"Elvegata 1, Steinkjer",64.014908,11.496758
+881819,"Furuskogvegen 17, Steinkjer",64.01448,11.504907
+881820,"Furuskogvegen 18, Steinkjer",64.014449,11.505641
+881821,"Furuskogvegen 19, Steinkjer",64.01428,11.505032
+881822,"Furuskogvegen 20, Steinkjer",64.014251,11.505705
+881823,"Furuskogvegen 12, Steinkjer",64.015002,11.505363
+881824,"Furuskogvegen 14, Steinkjer",64.014821,11.505429
+881825,"Furuskogvegen 15, Steinkjer",64.01467,11.504822
+881826,"Furuskogvegen 16, Steinkjer",64.01464,11.505535
+881827,"Furuskogvegen 25, Steinkjer",64.013692,11.505287
+881828,"Furuskogvegen 26, Steinkjer",64.01367,11.506042
+881829,"Furuskogvegen 27, Steinkjer",64.013519,11.505455
+881830,"Furuskogvegen 28, Steinkjer",64.013344,11.506238
+881831,"Furuskogvegen 21, Steinkjer",64.01409,11.505159
+881832,"Furuskogvegen 22, Steinkjer",64.014051,11.50581
+881833,"Furuskogvegen 23, Steinkjer",64.013882,11.505222
+881834,"Furuskogvegen 24, Steinkjer",64.013852,11.505895
+881835,"Furuskogvegen 29, Steinkjer",64.013303,11.505477
+881836,"Furuskogvegen 30, Steinkjer",64.013135,11.506342
+881837,"Furuskogvegen 31, Steinkjer",64.013239,11.505553
+881838,"Fossekallen 17, Steinkjer",63.99155,11.500031
+881839,"Fossekallen 18, Steinkjer",63.990938,11.50014
+881840,"Fossekallen 19, Steinkjer",63.991273,11.499986
+881841,"Fossekallen 21, Steinkjer",63.991129,11.499462
+881842,"Fossekallen 12, Steinkjer",63.991367,11.501263
+881843,"Fossekallen 14, Steinkjer",63.991191,11.501083
+881844,"Fossekallen 15, Steinkjer",63.991471,11.500474
+881845,"Fossekallen 16, Steinkjer",63.991055,11.500621
+881850,"Fossekallen 23, Steinkjer",63.991065,11.499006
+881862,"Furuskogvegen 4, Steinkjer",64.015945,11.504854
+881863,"Furuskogvegen 6, Steinkjer",64.015755,11.504939
+881864,"Furuskogvegen 8, Steinkjer",64.015554,11.505085
+881865,"Furuskogvegen 10, Steinkjer",64.01522,11.505239
+881868,"Furuskogvegen 2, Steinkjer",64.016117,11.504767
+881869,"Furuskogvegen 3, Steinkjer",64.016181,11.504179
+882389,"Johan Bojers gate 1, Steinkjer",64.016291,11.502982
+882390,"Johan Bojers gate 3, Steinkjer",64.016074,11.503085
+882395,"Johan Bojers gate 13, Steinkjer",64.014829,11.503935
+882399,"Johan Bojers gate 5, Steinkjer",64.015892,11.503212
+882400,"Johan Bojers gate 7, Steinkjer",64.01551,11.503485
+882401,"Johan Bojers gate 9, Steinkjer",64.015219,11.503684
+882402,"Johan Bojers gate 11, Steinkjer",64.015019,11.50383
+882403,"Infanterivegen 68, Steinkjer",64.006157,11.510566
+882404,"Otto Sverdrups veg 111, Steinkjer",64.006604,11.510667
+882407,"Infanterivegen 64, Steinkjer",64.005564,11.510615
+882408,"Infanterivegen 67, Steinkjer",64.005807,11.511107
+882409,"Infanterivegen 66, Steinkjer",64.005876,11.510233
+882489,"Kvernhusvegen 2, Steinkjer",63.990949,11.503107
+882490,"Kvernhusvegen 4, Steinkjer",63.990727,11.502964
+882491,"Kvernhusvegen 6, Steinkjer",63.990485,11.502963
+882496,"Kvernhusvegen 11, Steinkjer",63.989476,11.502607
+882497,"Kvernhusvegen 12, Steinkjer",63.989657,11.503073
+882500,"Kvernhusvegen 7, Steinkjer",63.990069,11.502247
+882501,"Kvernhusvegen 8, Steinkjer",63.990177,11.50314
+882502,"Kvernhusvegen 9, Steinkjer",63.989739,11.502507
+882503,"Kvernhusvegen 10, Steinkjer",63.989954,11.503058
+882538,"Infanterivegen 6C, Steinkjer",64.008724,11.506458
+882539,"Infanterivegen 8, Steinkjer",64.008492,11.506396
+882540,"Infanterivegen 10, Steinkjer",64.008379,11.506714
+882541,"Infanterivegen 10B, Steinkjer",64.008443,11.507149
+882542,"Infanterivegen 2, Steinkjer",64.009263,11.505974
+882543,"Infanterivegen 4, Steinkjer",64.009117,11.506064
+882544,"Infanterivegen 6A, Steinkjer",64.008771,11.506339
+882545,"Infanterivegen 6B, Steinkjer",64.008708,11.506375
+882546,"Infanterivegen 20, Steinkjer",64.007359,11.507522
+882547,"Infanterivegen 22, Steinkjer",64.007106,11.507623
+882548,"Infanterivegen 24, Steinkjer",64.0066,11.508334
+882549,"Infanterivegen 30, Steinkjer",64.006478,11.50861
+882550,"Infanterivegen 12, Steinkjer",64.008147,11.507122
+882551,"Infanterivegen 14, Steinkjer",64.008001,11.507273
+882552,"Infanterivegen 16, Steinkjer",64.007796,11.507193
+882553,"Infanterivegen 18, Steinkjer",64.007604,11.507401
+882554,"Øvre Bakkeveg 14, Steinkjer",64.005795,11.509203
+882555,"Infanterivegen 34, Steinkjer",64.005458,11.508927
+882556,"Infanterivegen 36, Steinkjer",64.005129,11.509246
+882557,"Infanterivegen 48, Steinkjer",64.004672,11.509716
+882558,"Infanterivegen 25A, Steinkjer",64.006371,11.507595
+882559,"Infanterivegen 25B, Steinkjer",64.006316,11.507613
+882560,"Øvre Bakkeveg 15, Steinkjer",64.006216,11.50875
+882561,"Infanterivegen 27, Steinkjer",64.005839,11.508184
+882594,"Infanterivegen 54, Steinkjer",64.004554,11.51036
+882595,"Infanterivegen 55, Steinkjer",64.004696,11.510926
+882596,"Infanterivegen 56, Steinkjer",64.004758,11.510481
+882597,"Infanterivegen 57, Steinkjer",64.004894,11.510943
+882598,"Infanterivegen 50, Steinkjer",64.004383,11.509813
+882599,"Infanterivegen 49, Steinkjer",64.003979,11.509306
+882600,"Infanterivegen 52, Steinkjer",64.004338,11.510382
+882601,"Infanterivegen 53, Steinkjer",64.004499,11.510928
+882602,"Infanterivegen 61, Steinkjer",64.005309,11.511349
+882603,"Infanterivegen 62, Steinkjer",64.005357,11.510657
+882604,"Infanterivegen 65, Steinkjer",64.005572,11.511168
+882605,"Infanterivegen 58, Steinkjer",64.004982,11.510501
+882606,"Infanterivegen 59, Steinkjer",64.005082,11.510981
+882607,"Infanterivegen 60, Steinkjer",64.005215,11.510542
+882608,"Infanterivegen 63, Steinkjer",64.005386,11.511008
+882630,"Kristofer Uppdals gate 3, Steinkjer",64.014288,11.499896
+882631,"Kristofer Uppdals gate 4, Steinkjer",64.014961,11.499936
+882632,"Kristofer Uppdals gate 5, Steinkjer",64.014142,11.500046
+882633,"Kristofer Uppdals gate 6, Steinkjer",64.014851,11.500069
+882634,"Kristofer Uppdals gate 1A, Steinkjer",64.014846,11.499291
+882635,"Kristofer Uppdals gate 1B, Steinkjer",64.014846,11.499291
+882636,"Kristofer Uppdals gate 1C, Steinkjer",64.014846,11.499291
+882637,"Kristofer Uppdals gate 2, Steinkjer",64.015195,11.499875
+882638,"Kongens gate 26A, Steinkjer",64.015257,11.496319
+882639,"Kongens gate 27, Steinkjer",64.014546,11.495334
+882640,"Kongens gate 28, Steinkjer",64.014796,11.495971
+882641,"Kongens gate 29, Steinkjer",64.01439,11.495545
+882645,"Kongens gate 26, Steinkjer",64.015257,11.496319
+882646,"Kongens gate 34, Steinkjer",64.014117,11.49679
+882647,"Kongens gate 35, Steinkjer",64.01396,11.496019
+882648,"Kongens gate 36, Steinkjer",64.013832,11.497153
+882649,"Kongens gate 37, Steinkjer",64.013462,11.495729
+882650,"Kongens gate 30, Steinkjer",64.014522,11.496233
+882651,"Kongens gate 31, Steinkjer",64.014262,11.495698
+882652,"Kongens gate 32, Steinkjer",64.014366,11.496423
+882653,"Kongens gate 33, Steinkjer",64.014179,11.495772
+882654,"Kongens gate 42, Steinkjer",64.01266,11.498502
+882655,"Kongens gate 42A, Steinkjer",64.012742,11.498939
+882656,"Kongens gate 44, Steinkjer",64.012323,11.49927
+882657,"Kongens gate 45, Steinkjer",64.011295,11.498523
+882658,"Kongens gate 38, Steinkjer",64.013623,11.497298
+882659,"Kongens gate 40, Steinkjer",64.013211,11.497773
+882660,"Kongens gate 40A, Steinkjer",64.013101,11.497927
+882759,"Kirkegata 2, Steinkjer",64.014222,11.494855
+882760,"Kirkegata 5, Steinkjer",64.013938,11.494666
+882830,"Kirkegata 10, Steinkjer",64.013792,11.495328
+882831,"Kirkegata 11, Steinkjer",64.0136,11.495025
+882832,"Kirkegata 12, Steinkjer",64.0137,11.495443
+882834,"Kirkegata 6, Steinkjer",64.014049,11.495024
+882835,"Kirkegata 7, Steinkjer",64.013837,11.49478
+882836,"Kirkegata 8, Steinkjer",64.013892,11.495255
+882837,"Parkgata 13, Steinkjer",64.013715,11.494812
+882865,"Lerkevegen 11, Steinkjer",63.991989,11.498516
+882866,"Lerkevegen 12, Steinkjer",63.991524,11.497902
+882867,"Lerkevegen 13, Steinkjer",63.991685,11.498448
+882868,"Lerkevegen 14, Steinkjer",63.991682,11.497569
+882869,"Lerkevegen 7B, Steinkjer",63.992366,11.499082
+882870,"Lerkevegen 8, Steinkjer",63.991414,11.499058
+882871,"Lerkevegen 10, Steinkjer",63.991389,11.498422
+882872,"Lerkevegen 20, Steinkjer",63.992378,11.497304
+882873,"Lerkevegen 21, Steinkjer",63.992558,11.498854
+882874,"Lerkevegen 22, Steinkjer",63.992536,11.497522
+882875,"Lerkevegen 23, Steinkjer",63.992699,11.498518
+882876,"Lerkevegen 15, Steinkjer",63.991874,11.497913
+882877,"Lerkevegen 16, Steinkjer",63.991911,11.497303
+882878,"Lerkevegen 17, Steinkjer",63.992176,11.498104
+882879,"Lerkevegen 18, Steinkjer",63.99212,11.497158
+882903,"Lerkevegen 28, Steinkjer",63.992965,11.497642
+882904,"Lerkevegen 29, Steinkjer",63.993099,11.498738
+882905,"Lerkevegen 30, Steinkjer",63.993049,11.497997
+882906,"Lerkevegen 32, Steinkjer",63.99314,11.497944
+882907,"Lerkevegen 24, Steinkjer",63.99266,11.497636
+882908,"Lerkevegen 25, Steinkjer",63.992832,11.498571
+882909,"Lerkevegen 26, Steinkjer",63.992821,11.497691
+882910,"Lerkevegen 27, Steinkjer",63.992974,11.498707
+882911,"Øvre Bakkeveg 16, Steinkjer",64.00562,11.509413
+882912,"Infanterivegen 42, Steinkjer",64.005557,11.509939
+882913,"Infanterivegen 40, Steinkjer",64.005875,11.509763
+882915,"Lerkevegen 34, Steinkjer",63.99323,11.497911
+882916,"Infanterivegen 46, Steinkjer",64.004848,11.509957
+882917,"Infanterivegen 38, Steinkjer",64.005413,11.509496
+882918,"Infanterivegen 44, Steinkjer",64.005025,11.510096
+882936,"Malisvevegen 23, Steinkjer",63.989522,11.503613
+882937,"Malisvevegen 24, Steinkjer",63.988828,11.504307
+882938,"Malisvevegen 25, Steinkjer",63.989155,11.503539
+882939,"Malisvevegen 27, Steinkjer",63.988858,11.503594
+882967,"Malisvevegen 1A, Steinkjer",63.991198,11.502209
+882972,"Malisvevegen 1F, Steinkjer",63.990887,11.502058
+882973,"Malisvevegen 3, Steinkjer",63.991145,11.503738
+882974,"Malisvevegen 5, Steinkjer",63.990913,11.503656
+882975,"Malisvevegen 6, Steinkjer",63.990943,11.505028
+882976,"Malisvevegen 1B, Steinkjer",63.991145,11.502183
+882977,"Malisvevegen 1C, Steinkjer",63.991074,11.502157
+882978,"Malisvevegen 1D, Steinkjer",63.99102,11.502111
+882979,"Malisvevegen 1E, Steinkjer",63.990949,11.502064
+882980,"Malisvevegen 11, Steinkjer",63.990814,11.504178
+882981,"Malisvevegen 12, Steinkjer",63.990387,11.504999
+882982,"Malisvevegen 13, Steinkjer",63.99059,11.504158
+882983,"Malisvevegen 14, Steinkjer",63.990097,11.504646
+882984,"Malisvevegen 7, Steinkjer",63.990673,11.503511
+882985,"Malisvevegen 8, Steinkjer",63.990839,11.505858
+882986,"Malisvevegen 9, Steinkjer",63.99103,11.504157
+882987,"Malisvevegen 10, Steinkjer",63.990646,11.505084
+882988,"Malisvevegen 19, Steinkjer",63.989985,11.503838
+882989,"Malisvevegen 20, Steinkjer",63.989364,11.504458
+882990,"Malisvevegen 21, Steinkjer",63.989744,11.503755
+882991,"Malisvevegen 22, Steinkjer",63.989114,11.504333
+882992,"Malisvevegen 15, Steinkjer",63.990404,11.503467
+882993,"Malisvevegen 16, Steinkjer",63.989848,11.504501
+882994,"Malisvevegen 17, Steinkjer",63.990341,11.504013
+882995,"Malisvevegen 18, Steinkjer",63.989604,11.504581
+883048,"Lerkevegen 2, Steinkjer",63.992105,11.499611
+883052,"Lerkevegen 5B, Steinkjer",63.99247,11.499296
+883053,"Lerkevegen 6, Steinkjer",63.991588,11.499421
+883054,"Lerkevegen 7A, Steinkjer",63.992418,11.499189
+883055,"Lerkevegen 3A, Steinkjer",63.992598,11.499655
+883056,"Lerkevegen 3B, Steinkjer",63.992556,11.499508
+883057,"Lerkevegen 4, Steinkjer",63.991882,11.49955
+883058,"Lerkevegen 5A, Steinkjer",63.992513,11.499381
+883393,"Nedre Ringveg 4, Steinkjer",64.016766,11.506176
+883394,"Nedre Ringveg 6, Steinkjer",64.016787,11.506526
+883395,"Nedre Ringveg 8, Steinkjer",64.016826,11.506857
+883396,"Nedre Ringveg 10, Steinkjer",64.016739,11.507238
+883397,"Nedre Bakkeveg 12, Steinkjer",64.007084,11.508378
+883398,"Nedre Bakkeveg 13, Steinkjer",64.007505,11.507924
+883399,"Nedre Bakkeveg 14, Steinkjer",64.006821,11.508006
+883400,"Nedre Ringveg 2, Steinkjer",64.016727,11.505804
+883401,"Nedre Ringveg 14D, Steinkjer",64.016214,11.507967
+883402,"Nedre Ringveg 16, Steinkjer",64.016037,11.50783
+883403,"Nedre Ringveg 18, Steinkjer",64.015888,11.507633
+883404,"Nedre Ringveg 20, Steinkjer",64.015784,11.507378
+883405,"Nedre Ringveg 12, Steinkjer",64.016643,11.507557
+883406,"Nedre Ringveg 14A, Steinkjer",64.016467,11.507867
+883407,"Nedre Ringveg 14B, Steinkjer",64.016384,11.507941
+883408,"Nedre Ringveg 14C, Steinkjer",64.016303,11.507977
+883413,"Nedre Ringveg 22, Steinkjer",64.015701,11.507022
+883414,"Nedre Ringveg 24, Steinkjer",64.015686,11.506857
+883415,"Nedre Ringveg 26, Steinkjer",64.015665,11.506507
+883448,"Nedre Bakkeveg 7, Steinkjer",64.0081,11.507794
+883449,"Nedre Bakkeveg 9, Steinkjer",64.007847,11.507853
+883450,"Nedre Bakkeveg 10, Steinkjer",64.007487,11.508434
+883451,"Nedre Bakkeveg 11, Steinkjer",64.007685,11.50792
+883453,"Nedre Bakkeveg 1, Steinkjer",64.008698,11.507499
+883454,"Nedre Bakkeveg 3, Steinkjer",64.008525,11.507586
+883455,"Ola Fives veg 8, Steinkjer",64.004154,11.508524
+883456,"Ola Fives veg 9, Steinkjer",64.00413,11.507867
+883457,"Ola Fives veg 10, Steinkjer",64.003836,11.50825
+883458,"Ola Fives veg 11, Steinkjer",64.003933,11.507788
+883459,"Ola Fives veg 5A, Steinkjer",64.004683,11.50808
+883460,"Ola Fives veg 5B, Steinkjer",64.004629,11.508055
+883461,"Ola Fives veg 6, Steinkjer",64.00442,11.508752
+883462,"Ola Fives veg 7, Steinkjer",64.004362,11.507908
+883463,"Otto Sverdrups veg 10, Steinkjer",64.016465,11.505904
+883464,"Otto Sverdrups veg 11, Steinkjer",64.016378,11.505241
+883465,"Otto Sverdrups veg 12, Steinkjer",64.016275,11.506009
+883466,"Otto Sverdrups veg 13, Steinkjer",64.016096,11.505441
+883467,"Ola Fives veg 13, Steinkjer",64.00371,11.507727
+883468,"Ola Fives veg 15, Steinkjer",64.003459,11.507705
+883469,"Otto Sverdrups veg 1A, Steinkjer",64.016918,11.504145
+883470,"Otto Sverdrups veg 3, Steinkjer",64.016773,11.504703
+883471,"Otto Sverdrups veg 19, Steinkjer",64.015526,11.505676
+883472,"Otto Sverdrups veg 21, Steinkjer",64.015227,11.505854
+883473,"Otto Sverdrups veg 23, Steinkjer",64.01502,11.505856
+883474,"Otto Sverdrups veg 25, Steinkjer",64.014787,11.505835
+883475,"Otto Sverdrups veg 14, Steinkjer",64.016067,11.506114
+883476,"Otto Sverdrups veg 15, Steinkjer",64.015907,11.505465
+883477,"Otto Sverdrups veg 16, Steinkjer",64.015885,11.50622
+883478,"Otto Sverdrups veg 17, Steinkjer",64.015725,11.505612
+883479,"Otto Sverdrups veg 35, Steinkjer",64.013786,11.506605
+883480,"Otto Sverdrups veg 36, Steinkjer",64.013742,11.507583
+883481,"Otto Sverdrups veg 37, Steinkjer",64.013543,11.506645
+883482,"Otto Sverdrups veg 38, Steinkjer",64.013519,11.508546
+883483,"Otto Sverdrups veg 27, Steinkjer",64.014584,11.506185
+883484,"Otto Sverdrups veg 29, Steinkjer",64.014385,11.50627
+883485,"Otto Sverdrups veg 31, Steinkjer",64.014213,11.506357
+883486,"Otto Sverdrups veg 33, Steinkjer",64.014013,11.506482
+883509,"Ola Fives veg 2, Steinkjer",64.004916,11.508592
+883510,"Ola Fives veg 3A, Steinkjer",64.004933,11.508164
+883511,"Ola Fives veg 3B, Steinkjer",64.004879,11.508139
+883512,"Ola Fives veg 4A, Steinkjer",64.004671,11.508754
+883513,"Ola Fives veg 1A, Steinkjer",64.005389,11.508271
+883514,"Ola Fives veg 1B, Steinkjer",64.00536,11.508264
+883515,"Ola Fives veg 1C, Steinkjer",64.005282,11.50824
+883516,"Ola Fives veg 1D, Steinkjer",64.005253,11.508238
+883549,"Otto Sverdrups veg 45, Steinkjer",64.013143,11.506957
+883550,"Otto Sverdrups veg 47, Steinkjer",64.013097,11.506973
+883551,"Otto Sverdrups veg 49, Steinkjer",64.012944,11.507041
+883552,"Otto Sverdrups veg 50, Steinkjer",64.012827,11.508074
+883553,"Otto Sverdrups veg 38B, Steinkjer",64.013256,11.508706
+883554,"Otto Sverdrups veg 39, Steinkjer",64.013488,11.506701
+883555,"Otto Sverdrups veg 41, Steinkjer",64.013333,11.50683
+883674,"Ogndalsvegen 13, Steinkjer",64.013401,11.4982
+883675,"Ogndalsvegen 14, Steinkjer",64.013706,11.498227
+883676,"Ogndalsvegen 15, Steinkjer",64.013409,11.498773
+883677,"Ogndalsvegen 16, Steinkjer",64.013712,11.498391
+883679,"Ogndalsvegen 10, Steinkjer",64.0136,11.497624
+883680,"Ogndalsvegen 11, Steinkjer",64.013344,11.497908
+883681,"Ogndalsvegen 12, Steinkjer",64.013701,11.497981
+883682,"Ogndalsvegen 31, Steinkjer",64.014412,11.502588
+883683,"Ogndalsvegen 32, Steinkjer",64.014924,11.502081
+883684,"Ogndalsvegen 42, Steinkjer",64.016465,11.50226
+883686,"Ogndalsvegen 22, Steinkjer",64.013929,11.499372
+883687,"Ogndalsvegen 24, Steinkjer",64.01398,11.49952
+883688,"Ogndalsvegen 26, Steinkjer",64.014003,11.499748
+883689,"Ogndalsvegen 30, Steinkjer",64.014673,11.501527
+884004,"Peter Egges gate 16, Steinkjer",64.01514,11.503063
+884005,"Peter Egges gate 18, Steinkjer",64.014986,11.503192
+884006,"Peter Egges gate 20A, Steinkjer",64.014759,11.503336
+884007,"Ragnhildvegen 1, Steinkjer",64.015107,11.50658
+884008,"Peter Egges gate 8, Steinkjer",64.015701,11.501823
+884009,"Peter Egges gate 10, Steinkjer",64.015482,11.501988
+884010,"Peter Egges gate 12, Steinkjer",64.015308,11.502198
+884011,"Peter Egges gate 14, Steinkjer",64.015125,11.502365
+884012,"Ragnhildvegen 6, Steinkjer",64.015405,11.506975
+884013,"Ragnhildvegen 8, Steinkjer",64.015429,11.507141
+884014,"Ragnhildvegen 10, Steinkjer",64.015605,11.507382
+884015,"Ragnhildvegen 12, Steinkjer",64.015548,11.507561
+884016,"Ragnhildvegen 2, Steinkjer",64.01536,11.50646
+884017,"Ragnhildvegen 3, Steinkjer",64.015131,11.506746
+884018,"Ragnhildvegen 4, Steinkjer",64.015384,11.506646
+884019,"Ragnhildvegen 5, Steinkjer",64.015161,11.507097
+884020,"Ragnhildvegen 25, Steinkjer",64.01502,11.507964
+884021,"Ragnhildvegen 26, Steinkjer",64.015267,11.508191
+884022,"Ragnhildvegen 27, Steinkjer",64.015,11.508106
+884023,"Ragnhildvegen 28, Steinkjer",64.015228,11.508372
+884024,"Ragnhildvegen 21, Steinkjer",64.015118,11.507482
+884025,"Ragnhildvegen 22, Steinkjer",64.015373,11.507771
+884026,"Ragnhildvegen 23, Steinkjer",64.015088,11.507684
+884027,"Ragnhildvegen 24, Steinkjer",64.015334,11.507952
+884032,"Ragnhildvegen 29, Steinkjer",64.014866,11.508544
+884036,"Otto Sverdrups veg 55, Steinkjer",64.012699,11.507183
+884037,"Otto Sverdrups veg 56, Steinkjer",64.012234,11.508635
+884038,"Otto Sverdrups veg 57, Steinkjer",64.012554,11.507252
+884039,"Otto Sverdrups veg 58, Steinkjer",64.012055,11.508558
+884040,"Otto Sverdrups veg 51, Steinkjer",64.012898,11.507078
+884041,"Otto Sverdrups veg 52, Steinkjer",64.012548,11.508643
+884042,"Otto Sverdrups veg 53, Steinkjer",64.012753,11.507167
+884043,"Otto Sverdrups veg 54, Steinkjer",64.012431,11.508121
+884044,"Otto Sverdrups veg 70, Steinkjer",64.010695,11.509357
+884045,"Otto Sverdrups veg 82, Steinkjer",64.010504,11.509503
+884046,"Otto Sverdrups veg 84, Steinkjer",64.010232,11.509642
+884047,"Otto Sverdrups veg 86, Steinkjer",64.009938,11.510005
+884048,"Otto Sverdrups veg 59, Steinkjer",64.0125,11.507267
+884049,"Otto Sverdrups veg 60, Steinkjer",64.011682,11.50832
+884050,"Otto Sverdrups veg 64, Steinkjer",64.011245,11.50871
+884051,"Otto Sverdrups veg 68, Steinkjer",64.010958,11.509216
+884052,"Otto Sverdrups veg 94, Steinkjer",64.008933,11.510488
+884053,"Peter Egges gate 2, Steinkjer",64.016204,11.501275
+884054,"Peter Egges gate 4, Steinkjer",64.016003,11.501441
+884055,"Peter Egges gate 6, Steinkjer",64.015838,11.501672
+884056,"Otto Sverdrups veg 86B, Steinkjer",64.009885,11.509959
+884057,"Otto Sverdrups veg 88, Steinkjer",64.009709,11.510291
+884058,"Otto Sverdrups veg 90, Steinkjer",64.009439,11.510328
+884059,"Otto Sverdrups veg 92, Steinkjer",64.009232,11.510371
+884070,"Skjeftehaugen 1, Steinkjer",64.012454,11.517189
+884071,"Skjeftehaugen 2, Steinkjer",64.012975,11.514043
+884072,"Skjeftehaugen 3, Steinkjer",64.012806,11.517589
+884081,"Skjeftevegen 32, Steinkjer",64.012926,11.513241
+884085,"Skoggata 10, Steinkjer",64.016356,11.501841
+884086,"Skolegata 1, Steinkjer",64.014673,11.497331
+884087,"Skolegata 2, Steinkjer",64.014792,11.497771
+884088,"Skolegata 3, Steinkjer",64.014535,11.497523
+884090,"Skoggata 4, Steinkjer",64.01582,11.502202
+884091,"Skoggata 6, Steinkjer",64.015984,11.502053
+884092,"Skoggata 8, Steinkjer",64.016157,11.501926
+884093,"Skolegata 22, Steinkjer",64.013301,11.499953
+884094,"Skolegata 4, Steinkjer",64.014673,11.497883
+884095,"Skolegata 6, Steinkjer",64.014581,11.498019
+884096,"Skolegata 11, Steinkjer",64.013976,11.49821
+884105,"Skjeftehaugen 11, Steinkjer",64.013045,11.516772
+884106,"Skjeftehaugen 13, Steinkjer",64.013103,11.517534
+884107,"Skjeftehaugen 15, Steinkjer",64.013168,11.517949
+884108,"Skjeftehaugen 17, Steinkjer",64.013321,11.518454
+884109,"Skjeftehaugen 4, Steinkjer",64.013116,11.514731
+884110,"Skjeftehaugen 5, Steinkjer",64.01273,11.516805
+884111,"Skjeftehaugen 6, Steinkjer",64.013045,11.515257
+884112,"Skjeftehaugen 9, Steinkjer",64.0129,11.516288
+884113,"Skjeftevegen 5C, Steinkjer",64.014051,11.50843
+884114,"Skjeftevegen 5D, Steinkjer",64.013862,11.508454
+884115,"Skjeftevegen 5E, Steinkjer",64.013799,11.508448
+884116,"Skjeftevegen 6, Steinkjer",64.014004,11.510124
+884117,"Skjeftevegen 3, Steinkjer",64.014462,11.507014
+884118,"Skjeftevegen 4, Steinkjer",64.01423,11.508999
+884119,"Skjeftevegen 5A, Steinkjer",64.014119,11.508149
+884120,"Skjeftevegen 5B, Steinkjer",64.014071,11.508288
+884121,"Skjeftevegen 9B, Steinkjer",64.013588,11.510783
+884122,"Skjeftevegen 10, Steinkjer",64.01379,11.511088
+884123,"Skjeftevegen 11A, Steinkjer",64.013488,11.511368
+884124,"Skjeftevegen 11B, Steinkjer",64.013488,11.511368
+884125,"Skjeftevegen 7A, Steinkjer",64.013917,11.508889
+884126,"Skjeftevegen 7B, Steinkjer",64.013917,11.508889
+884127,"Skjeftevegen 8, Steinkjer",64.013897,11.510586
+884128,"Skjeftevegen 9A, Steinkjer",64.013588,11.510783
+884129,"Skjeftevegen 16A, Steinkjer",64.013712,11.512964
+884130,"Skjeftevegen 30, Steinkjer",64.013135,11.513096
+884131,"Skjeftevegen 32A, Steinkjer",64.012926,11.513241
+884132,"Skjeftevegen 12, Steinkjer",64.013682,11.51159
+884133,"Skjeftevegen 13A, Steinkjer",64.013337,11.511825
+884134,"Skjeftevegen 13B, Steinkjer",64.013337,11.511825
+884135,"Skjeftevegen 15, Steinkjer",64.013177,11.51224
+884320,"Strandvegen 12, Steinkjer",64.013742,11.493998
+884321,"Strandvegen 14, Steinkjer",64.013603,11.494329
+884322,"Strandvegen 16, Steinkjer",64.013484,11.494462
+884323,"Strandvegen 21, Steinkjer",64.012742,11.494535
+884331,"Strandvegen 21A, Steinkjer",64.012508,11.49489
+884342,"Svein Jarls gate 23, Steinkjer",64.014643,11.500664
+884343,"Svein Jarls gate 24, Steinkjer",64.015106,11.501402
+884344,"Svein Jarls gate 25, Steinkjer",64.015006,11.501986
+884345,"Svein Jarls gate 26, Steinkjer",64.015271,11.501744
+884346,"Svein Jarls gate 13, Steinkjer",64.014379,11.49931
+884347,"Svein Jarls gate 14, Steinkjer",64.014445,11.49858
+884348,"Svein Jarls gate 18, Steinkjer",64.014562,11.499081
+884349,"Svein Jarls gate 22, Steinkjer",64.015095,11.501012
+884398,"Svein Jarls gate 3, Steinkjer",64.014059,11.498054
+884399,"Svein Jarls gate 4, Steinkjer",64.014252,11.497805
+884400,"Svein Jarls gate 11, Steinkjer",64.014304,11.498956
+884401,"Svein Jarls gate 12, Steinkjer",64.014379,11.498287
+884404,"Svein Jarls gate 1, Steinkjer",64.013976,11.497698
+884405,"Svein Jarls gate 2, Steinkjer",64.01417,11.497368
+884408,"Tranabakkvegen 19B, Steinkjer",64.006517,11.510025
+884420,"Tranavegen 1A, Steinkjer",64.01353,11.509468
+884421,"Tranavegen 1B, Steinkjer",64.013541,11.509346
+884434,"Trana alle 2, Steinkjer",64.005295,11.512657
+884435,"Trana alle 3, Steinkjer",64.005144,11.511518
+884436,"Trana alle 4, Steinkjer",64.0051,11.513049
+884437,"Trana alle 5, Steinkjer",64.005055,11.512492
+884438,"Torggata 2, Steinkjer",64.014501,11.494839
+884439,"Torggata 11, Steinkjer",64.014488,11.493467
+884440,"Torggata 13, Steinkjer",64.014404,11.493172
+884441,"Trana alle 1, Steinkjer",64.005325,11.511964
+884442,"Trana alle 10, Steinkjer",64.004584,11.514312
+884443,"Trana alle 11, Steinkjer",64.004425,11.513663
+884444,"Trana alle 13, Steinkjer",64.004241,11.513913
+884445,"Tranabakkvegen 1, Steinkjer",64.009097,11.506717
+884446,"Trana alle 6, Steinkjer",64.004913,11.513441
+884447,"Trana alle 7, Steinkjer",64.004835,11.512759
+884448,"Trana alle 8, Steinkjer",64.004773,11.513776
+884449,"Trana alle 9, Steinkjer",64.00464,11.513171
+884450,"Tranabakkvegen 13, Steinkjer",64.007742,11.509255
+884451,"Tranabakkvegen 15, Steinkjer",64.00751,11.509705
+884452,"Tranabakkvegen 16, Steinkjer",64.007792,11.509996
+884453,"Tranabakkvegen 19A, Steinkjer",64.006547,11.509995
+884454,"Tranabakkvegen 3, Steinkjer",64.008697,11.506988
+884455,"Tranabakkvegen 5, Steinkjer",64.008916,11.507335
+884456,"Tranabakkvegen 7, Steinkjer",64.008426,11.508171
+884457,"Tranabakkvegen 9, Steinkjer",64.00826,11.508422
+884459,"Solvangvegen 1, Steinkjer",64.011505,11.508733
+884460,"Solvangvegen 10, Steinkjer",64.011579,11.510152
+884461,"Solvangvegen 11, Steinkjer",64.010882,11.509926
+884462,"Solvangvegen 12, Steinkjer",64.011445,11.510652
+884463,"Solvangvegen 13, Steinkjer",64.010765,11.510468
+884464,"Solvangvegen 4, Steinkjer",64.011786,11.509066
+884465,"Solvangvegen 7, Steinkjer",64.01129,11.509717
+884466,"Solvangvegen 8, Steinkjer",64.011626,11.510054
+884467,"Solvangvegen 9, Steinkjer",64.01108,11.509903
+884518,"Solvangvegen 15, Steinkjer",64.011223,11.510482
+884519,"Solvangvegen 17, Steinkjer",64.011181,11.510675
+884520,"Solvangvegen 19, Steinkjer",64.01109,11.510886
+884521,"Solvangvegen 21, Steinkjer",64.011052,11.511026
+884671,"Wimpelmannsgata 1, Steinkjer",64.015326,11.500111
+884672,"Wimpelmannsgata 3, Steinkjer",64.015089,11.500336
+884673,"Wimpelmannsgata 5, Steinkjer",64.014924,11.500526
+884697,"Tranavegen 42, Steinkjer",64.010455,11.511811
+884698,"Tranavegen 45, Steinkjer",64.010364,11.510289
+884699,"Tranavegen 47, Steinkjer",64.010397,11.511008
+884700,"Tranavegen 48, Steinkjer",64.010135,11.51211
+884701,"Tranavegen 23B, Steinkjer",64.011926,11.509795
+884702,"Tranavegen 27, Steinkjer",64.011697,11.510613
+884703,"Tranavegen 29A, Steinkjer",64.011433,11.510794
+884704,"Tranavegen 41, Steinkjer",64.010684,11.510993
+884705,"Tranavegen 52, Steinkjer",64.00973,11.512196
+884706,"Tranavegen 53, Steinkjer",64.009769,11.510992
+884707,"Tranavegen 54, Steinkjer",64.009496,11.512196
+884708,"Tranavegen 55, Steinkjer",64.009436,11.511024
+884709,"Tranavegen 48B, Steinkjer",64.009958,11.513015
+884710,"Tranavegen 49, Steinkjer",64.010218,11.510971
+884711,"Tranavegen 50, Steinkjer",64.009883,11.51219
+884712,"Tranavegen 51, Steinkjer",64.010002,11.510972
+884713,"Tranavegen 60, Steinkjer",64.009195,11.513028
+884714,"Tranavegen 61, Steinkjer",64.008655,11.511015
+884715,"Tranavegen 62, Steinkjer",64.00883,11.512279
+884716,"Tranavegen 63, Steinkjer",64.008411,11.511075
+884717,"Tranavegen 56, Steinkjer",64.00928,11.512258
+884718,"Tranavegen 57, Steinkjer",64.009175,11.511021
+884719,"Tranavegen 58, Steinkjer",64.009074,11.51224
+884720,"Tranavegen 59, Steinkjer",64.008924,11.511039
+884721,"Tranavegen 69, Steinkjer",64.007451,11.51103
+884722,"Tranavegen 70, Steinkjer",64.008087,11.512171
+884725,"Tranavegen 65, Steinkjer",64.008142,11.511071
+884726,"Tranavegen 66, Steinkjer",64.00849,11.512228
+884727,"Tranavegen 67, Steinkjer",64.007823,11.510838
+884728,"Tranavegen 68, Steinkjer",64.008229,11.512266
+884729,"Tranavegen 5, Steinkjer",64.013039,11.509321
+884730,"Tranavegen 6A, Steinkjer",64.012924,11.510805
+884731,"Tranavegen 6B, Steinkjer",64.012903,11.510947
+884732,"Tranavegen 7A, Steinkjer",64.012949,11.509825
+884733,"Tranavegen 2, Steinkjer",64.013644,11.510174
+884734,"Tranavegen 3A, Steinkjer",64.013271,11.509404
+884735,"Tranavegen 3B, Steinkjer",64.013282,11.509282
+884736,"Tranavegen 4, Steinkjer",64.013334,11.510412
+884737,"Tranavegen 9B, Steinkjer",64.012716,11.509845
+884738,"Tranavegen 10A, Steinkjer",64.012326,11.511079
+884739,"Tranavegen 10B, Steinkjer",64.012331,11.511345
+884740,"Tranavegen 11A, Steinkjer",64.012662,11.509328
+884741,"Tranavegen 7B, Steinkjer",64.012952,11.509682
+884742,"Tranavegen 8A, Steinkjer",64.012626,11.510901
+884743,"Tranavegen 8B, Steinkjer",64.012612,11.511166
+884744,"Tranavegen 9A, Steinkjer",64.012695,11.509986
+884745,"Tranavegen 13B, Steinkjer",64.012454,11.509412
+884746,"Tranavegen 14A, Steinkjer",64.011727,11.511455
+884747,"Tranavegen 14B, Steinkjer",64.011713,11.51174
+884748,"Tranavegen 15A, Steinkjer",64.012126,11.509649
+884749,"Tranavegen 11B, Steinkjer",64.012708,11.509271
+884750,"Tranavegen 12A, Steinkjer",64.012027,11.511257
+884751,"Tranavegen 12B, Steinkjer",64.012013,11.511542
+884752,"Tranavegen 13A, Steinkjer",64.012362,11.509547
+884753,"Tranavegen 19B, Steinkjer",64.012189,11.510166
+884754,"Tranavegen 21A, Steinkjer",64.011959,11.510473
+884755,"Tranavegen 21B, Steinkjer",64.011962,11.51035
+884756,"Tranavegen 23A, Steinkjer",64.01188,11.509893
+884757,"Tranavegen 15B, Steinkjer",64.012173,11.509551
+884758,"Tranavegen 17A, Steinkjer",64.012405,11.510165
+884759,"Tranavegen 17B, Steinkjer",64.012416,11.510064
+884760,"Tranavegen 19A, Steinkjer",64.012178,11.510308
+884814,"Lerkehaugvegen 57, Steinkjer",63.994705,11.500395
+884829,"Lerkehaugvegen 59, Steinkjer",63.994644,11.503928
+884831,"Lerkehaugvegen 60, Steinkjer",63.994795,11.505026
+884833,"Lerkehaugvegen 61, Steinkjer",63.995076,11.504396
+884835,"Lerkehaugvegen 62, Steinkjer",63.99506,11.505295
+884851,"Øvre Ringveg 14B, Steinkjer",64.01198,11.512931
+884852,"Øvre Ringveg 14C, Steinkjer",64.011677,11.513824
+884853,"Øvre Ringveg 15A, Steinkjer",64.011848,11.512223
+884854,"Øvre Ringveg 15B, Steinkjer",64.011861,11.512019
+884856,"Øvre Ringveg 12, Steinkjer",64.012271,11.512732
+884858,"Øvre Ringveg 14A, Steinkjer",64.012009,11.51279
+884864,"Øvre Ringveg 16, Steinkjer",64.011766,11.51285
+884865,"Øvre Ringveg 18, Steinkjer",64.011528,11.512563
+884866,"Øvre Ringveg 20, Steinkjer",64.011063,11.513012
+884908,"Lerkehaugvegen 12, Steinkjer",63.989246,11.502934
+884910,"Lerkehaugvegen 2, Steinkjer",63.987163,11.502283
+884924,"Øvre Ringveg 7B, Steinkjer",64.012759,11.511466
+884925,"Øvre Ringveg 8A, Steinkjer",64.012772,11.512306
+884926,"Øvre Ringveg 8B, Steinkjer",64.012751,11.512447
+884927,"Øvre Ringveg 9, Steinkjer",64.012518,11.511935
+884928,"Øvre Ringveg 2, Steinkjer",64.013245,11.510936
+884930,"Øvre Ringveg 4, Steinkjer",64.013137,11.511459
+884931,"Øvre Ringveg 6, Steinkjer",64.012965,11.512057
+884932,"Øvre Ringveg 7A, Steinkjer",64.012747,11.511649
+884933,"Åsavegen 11, Steinkjer",64.014323,11.509866
+884934,"Åsavegen 12, Steinkjer",64.014641,11.509609
+884935,"Åsavegen 13, Steinkjer",64.014224,11.510349
+884937,"Åsavegen 14, Steinkjer",64.014543,11.510111
+884938,"Åsavegen 1, Steinkjer",64.014908,11.507176
+884939,"Åsavegen 3, Steinkjer",64.01486,11.507336
+884940,"Åsavegen 5, Steinkjer",64.014809,11.507679
+884941,"Åsavegen 7, Steinkjer",64.014771,11.50784
+884943,"Åsavegen 22, Steinkjer",64.014292,11.512136
+884944,"Åsavegen 24, Steinkjer",64.014095,11.512138
+884945,"Åsavegen 26, Steinkjer",64.013912,11.511794
+884947,"Åsavegen 15, Steinkjer",64.014117,11.510871
+884948,"Åsavegen 16, Steinkjer",64.014444,11.510614
+884949,"Åsavegen 18, Steinkjer",64.014346,11.511097
+884950,"Åsavegen 20, Steinkjer",64.014292,11.511624
+885031,"Lerkehaugvegen 6, Steinkjer",63.987896,11.502118
+885033,"Lerkehaugvegen 8, Steinkjer",63.98821,11.503168
+885035,"Lerkehaugvegen 11, Steinkjer",63.988851,11.502297
+885037,"Lerkehaugvegen 15, Steinkjer",63.989363,11.501922
+885042,"Lerkehaugvegen 4, Steinkjer",63.987685,11.501853
+885044,"Lerkehaugvegen 51, Steinkjer",63.993904,11.503085
+885046,"Lerkehaugvegen 53, Steinkjer",63.994152,11.503271
+885048,"Lerkehaugvegen 55, Steinkjer",63.994336,11.503532
+885051,"Lerkehaugvegen 17, Steinkjer",63.990462,11.501161
+885053,"Lerkehaugvegen 19, Steinkjer",63.990871,11.500871
+885055,"Lerkehaugvegen 34, Steinkjer",63.992072,11.503125
+885057,"Lerkehaugvegen 46, Steinkjer",63.993052,11.504051
+885078,"Øvre Bakkeveg 1, Steinkjer",64.008042,11.508566
+885079,"Øvre Bakkeveg 2, Steinkjer",64.007294,11.509215
+885080,"Øvre Bakkeveg 2B, Steinkjer",64.007555,11.509157
+885085,"Øvre Bakkeveg 8, Steinkjer",64.006615,11.509011
+885086,"Øvre Bakkeveg 12, Steinkjer",64.005986,11.509057
+885089,"Øvre Bakkeveg 3, Steinkjer",64.007807,11.508647
+885090,"Øvre Bakkeveg 4, Steinkjer",64.007007,11.509189
+885091,"Øvre Bakkeveg 6, Steinkjer",64.006819,11.509193
+885092,"Infanterivegen 28, Steinkjer",64.006893,11.508524
+885108,"Furuskogvegen 1, Steinkjer",64.01654,11.50415
+885109,"Johan Bojers gate 2, Steinkjer",64.016679,11.503405
+885110,"Johan Bojers gate 4, Steinkjer",64.016772,11.503721
+885112,"Otto Sverdrups veg 5, Steinkjer",64.016547,11.504785
+885113,"Johan Bojers gate 6, Steinkjer",64.016419,11.503873
+885135,"Nedre Ringveg 28, Steinkjer",64.015649,11.506383
+885149,"Strandvegen 10, Steinkjer",64.014915,11.492686
+885151,"Strandvegen 11, Steinkjer",64.014373,11.492678
+885152,"Strandvegen 7, Steinkjer",64.014734,11.492289
+885162,"Tranabakkvegen 17A, Steinkjer",64.007245,11.509968
+885163,"Tranabakkvegen 17B, Steinkjer",64.00701,11.510069
+885168,"Strandvegen 9, Steinkjer",64.014479,11.492526
+885170,"Strandvegen 5, Steinkjer",64.014841,11.492213
+885175,"Strandvegen 4, Steinkjer",64.015581,11.492344
+885194,"Trana alle 1A, Steinkjer",64.005621,11.511438
+885546,"Strandvegen 24D, Steinkjer",64.010729,11.499537
+885547,"Strandvegen 24A, Steinkjer",64.010912,11.499348
+885548,"Strandvegen 24C, Steinkjer",64.010796,11.499829
+885549,"Strandvegen 24B, Steinkjer",64.010796,11.499829
+885703,"Lerkehaugvegen 63, Steinkjer",63.996229,11.504152
+885714,"Lerkehaugvegen 49, Steinkjer",63.993567,11.50283
+885747,"Otto Sverdrups veg 109, Steinkjer",64.006847,11.510669
+885750,"Tranabakkvegen 17C, Steinkjer",64.006797,11.509907
+885755,"Strandvegen 26A, Steinkjer",64.010347,11.500341
+885756,"Strandvegen 26B, Steinkjer",64.010347,11.500341
+885757,"Strandvegen 36A, Steinkjer",64.009999,11.500781
+885764,"Strandvegen 34, Steinkjer",64.00966,11.500096
+885765,"Strandvegen 36B, Steinkjer",64.009999,11.500781
+885774,"Strandvegen 40, Steinkjer",64.007342,11.501157
+885776,"Strandvegen 32, Steinkjer",64.009852,11.499888
+885779,"Strandvegen 28, Steinkjer",64.010227,11.499492
+885780,"Strandvegen 30, Steinkjer",64.010028,11.499617
+885788,"Ragnhildvegen 32A, Steinkjer",64.01551,11.508192
+885789,"Ragnhildvegen 32B, Steinkjer",64.015673,11.508105
+885791,"Ogndalsvegen 2, Steinkjer",64.013102,11.495349
+885797,"Strandvegen 20, Steinkjer",64.012578,11.497512
+885854,"Jakob Weidemanns gate 1, Steinkjer",64.015516,11.494254
+885856,"Jakob Weidemanns gate 6, Steinkjer",64.015062,11.493026
+885909,"Jakob Weidemanns gate 8, Steinkjer",64.01503,11.492778
+885910,"Jakob Weidemanns gate 3, Steinkjer",64.015348,11.494137
+885911,"Jakob Weidemanns gate 9, Steinkjer",64.015253,11.492839
+885913,"Jakob Weidemanns gate 10, Steinkjer",64.015094,11.492702
+885914,"Skjeftevegen 2B, Steinkjer",64.014366,11.508397
+885923,"Infanterivegen 1B, Steinkjer",64.008991,11.505561
+885945,"Elvegata 3, Steinkjer",64.014913,11.498519
+885947,"Infanterivegen 1A, Steinkjer",64.0091,11.505489
+885964,"Otto Sverdrups veg 38A, Steinkjer",64.013407,11.508802
+885996,"Øvre Bakkeveg 10B, Steinkjer",64.006161,11.509211
+886003,"Tranavegen 36, Steinkjer",64.010518,11.511817
+886005,"Tranavegen 38, Steinkjer",64.010518,11.511817
+886007,"Tranavegen 40, Steinkjer",64.010455,11.511811
+886009,"Tranavegen 44, Steinkjer",64.010392,11.511826
+886012,"Tranavegen 28, Steinkjer",64.010669,11.511871
+886014,"Tranavegen 30, Steinkjer",64.010669,11.511871
+886016,"Tranavegen 32, Steinkjer",64.010606,11.511866
+886018,"Tranavegen 34, Steinkjer",64.010606,11.511866
+886021,"Tranavegen 46, Steinkjer",64.010392,11.511826
+886026,"Infanterivegen 6D, Steinkjer",64.008771,11.506339
+886027,"Infanterivegen 6E, Steinkjer",64.008708,11.506375
+886032,"Sannangata 4B, Steinkjer",64.012475,11.502988
+886033,"Sannangata 4C, Steinkjer",64.012456,11.503047
+886034,"Sannangata 4D, Steinkjer",64.012467,11.503138
+886035,"Sannangata 4E, Steinkjer",64.01248,11.503113
+886036,"Sannangata 6, Steinkjer",64.012495,11.503378
+886037,"Sannangata 2A, Steinkjer",64.012559,11.50277
+886038,"Sannangata 2B, Steinkjer",64.012352,11.502891
+886039,"Sannangata 4A, Steinkjer",64.012502,11.50297
+886053,"Malisvevegen 1G, Steinkjer",63.991229,11.503029
+886054,"Kirkegata 4A, Steinkjer",64.014174,11.495055
+886056,"Kirkegata 4B, Steinkjer",64.014165,11.495055
+886070,"Skolegata 33A, Steinkjer",64.012518,11.499963
+886071,"Kirkegata 3A, Steinkjer",64.014051,11.493825
+886074,"Infanterivegen 6F, Steinkjer",64.008724,11.506458
+886076,"Øvre Ringveg 22A, Steinkjer",64.011329,11.512115
+886077,"Skolegata 31A, Steinkjer",64.012947,11.49953
+886078,"Kirkegata 3B, Steinkjer",64.014097,11.494027
+886080,"Kirkegata 3C, Steinkjer",64.014146,11.494224
+886081,"Skolegata 31B, Steinkjer",64.012792,11.499721
+886082,"Skolegata 33B, Steinkjer",64.01239,11.500115
+886087,"Øvre Bakkeveg 10A, Steinkjer",64.006344,11.509109
+886093,"Øvre Ringveg 22B, Steinkjer",64.011352,11.51183
+886134,"Svein Jarls gate 16B, Steinkjer",64.014593,11.498879
+886136,"Svein Jarls gate 16C, Steinkjer",64.014549,11.498793
+886143,"Otto Sverdrups veg 30, Steinkjer",64.014421,11.506785
+886144,"Svein Jarls gate 16A, Steinkjer",64.01445,11.498805
+886162,"Otto Sverdrups veg 98, Steinkjer",64.0084,11.51062
+886186,"Kongens gate 25, Steinkjer",64.0149,11.494097
+886200,"Åsavegen 9G, Steinkjer",64.014465,11.508876
+886201,"Åsavegen 9H, Steinkjer",64.014465,11.508876
+886204,"Åsavegen 9B, Steinkjer",64.014641,11.508073
+886206,"Åsavegen 9D, Steinkjer",64.014574,11.508313
+886208,"Åsavegen 9E, Steinkjer",64.014486,11.508694
+886210,"Åsavegen 9F, Steinkjer",64.014486,11.508694
+886211,"Lerkehaugvegen 15A, Steinkjer",63.989919,11.501399
+886225,"Strandvegen 22A, Steinkjer",64.012212,11.496845
+886227,"Strandvegen 22B, Steinkjer",64.01209,11.497202
+886231,"Kongens gate 43A, Steinkjer",64.01223,11.497379
+886233,"Kongens gate 43B, Steinkjer",64.011928,11.498252
+886243,"Tranavegen 43, Steinkjer",64.010643,11.510252
+886252,"Sannangata 3, Steinkjer",64.012289,11.501784
+886261,"Skjeftevegen 2A, Steinkjer",64.01448,11.508059
+886262,"Åsavegen 9A, Steinkjer",64.014641,11.508073
+886267,"Kapteinvegen 3B, Steinkjer",64.007553,11.504667
+886269,"Kapteinvegen 3C, Steinkjer",64.007599,11.504618
+886271,"Kapteinvegen 3D, Steinkjer",64.007651,11.504559
+886272,"Kapteinvegen 3E, Steinkjer",64.007701,11.504504
+886274,"Kapteinvegen 1B, Steinkjer",64.007834,11.504758
+886276,"Kapteinvegen 1C, Steinkjer",64.007855,11.504868
+886278,"Kapteinvegen 1D, Steinkjer",64.007866,11.504701
+886280,"Kapteinvegen 3A, Steinkjer",64.007511,11.504716
+886282,"Kapteinvegen 5B, Steinkjer",64.007228,11.505616
+886284,"Kapteinvegen 5C, Steinkjer",64.00728,11.505584
+886286,"Kapteinvegen 5D, Steinkjer",64.007339,11.505556
+886288,"Kapteinvegen 5E, Steinkjer",64.007414,11.505473
+886290,"Kapteinvegen 3F, Steinkjer",64.007761,11.504428
+886292,"Kapteinvegen 3G, Steinkjer",64.007824,11.504362
+886294,"Kapteinvegen 3H, Steinkjer",64.0077,11.504443
+886296,"Kapteinvegen 5A, Steinkjer",64.007181,11.505651
+886299,"Kapteinvegen 5F, Steinkjer",64.007457,11.505419
+886300,"Kapteinvegen 5G, Steinkjer",64.007508,11.505359
+886301,"Kapteinvegen 5H, Steinkjer",64.007562,11.505302
+886302,"Kapteinvegen 5I, Steinkjer",64.007387,11.505397
+886304,"Steinkjersannan 6, Steinkjer",64.01102,11.503001
+886305,"Steinkjersannan 8, Steinkjer",64.010306,11.504564
+886306,"Steinkjersannan 10, Steinkjer",64.010093,11.504825
+886307,"Teglverksvegen 1, Steinkjer",64.003413,11.5049
+886308,"Steinkjersannan 7C, Steinkjer",64.009698,11.503639
+886309,"Steinkjersannan 7D, Steinkjer",64.009616,11.503734
+886310,"Arve Skjeflos veg 6, Steinkjer",64.000806,11.501186
+886311,"Kapteinvegen 11E, Steinkjer",64.00857,11.504838
+886312,"Kapteinvegen 11F, Steinkjer",64.008634,11.504831
+886313,"Kapteinvegen 11G, Steinkjer",64.008668,11.504722
+886314,"Kapteinvegen 11K, Steinkjer",64.008875,11.504478
+886315,"Kapteinvegen 11A, Steinkjer",64.008367,11.505094
+886316,"Kapteinvegen 11B, Steinkjer",64.008414,11.505033
+886317,"Kapteinvegen 11C, Steinkjer",64.008466,11.504966
+886318,"Kapteinvegen 11D, Steinkjer",64.008516,11.504894
+886322,"Kapteinvegen 11H, Steinkjer",64.00871,11.504676
+886323,"Kapteinvegen 11I, Steinkjer",64.008766,11.504604
+886324,"Kapteinvegen 11J, Steinkjer",64.008822,11.504537
+886325,"Kapteinvegen 13, Steinkjer",64.008968,11.504843
+886326,"Kapteinvegen 1A, Steinkjer",64.007807,11.504614
+886327,"Infanterivegen 21A, Steinkjer",64.006999,11.506923
+886328,"Infanterivegen 21B, Steinkjer",64.006946,11.506994
+886329,"Infanterivegen 21C, Steinkjer",64.006865,11.507048
+886330,"Infanterivegen 21D, Steinkjer",64.006782,11.507143
+886377,"Oberstvegen 2, Steinkjer",64.006858,11.505881
+886415,"Arve Skjeflos veg 8, Steinkjer",63.99981,11.501204
+886425,"Trana alle 1B, Steinkjer",64.005499,11.511863
+886487,"Steinkjersannan 11A, Steinkjer",64.010475,11.50285
+886488,"Steinkjersannan 11B, Steinkjer",64.010515,11.503099
+886489,"Steinkjersannan 11C, Steinkjer",64.010468,11.503258
+886491,"Steinkjersannan 7A, Steinkjer",64.009846,11.503366
+886492,"Steinkjersannan 7B, Steinkjer",64.009789,11.503545
+886493,"Steinkjersannan 11D, Steinkjer",64.010358,11.503351
+886494,"Steinkjersannan 11E, Steinkjer",64.010258,11.503464
+886501,"Infanterivegen 7A, Steinkjer",64.008119,11.506179
+886502,"Infanterivegen 7B, Steinkjer",64.008028,11.506232
+886503,"Infanterivegen 9A, Steinkjer",64.007865,11.50634
+886504,"Infanterivegen 9B, Steinkjer",64.007756,11.506412
+886505,"Infanterivegen 3B, Steinkjer",64.008692,11.505739
+886507,"Infanterivegen 3A, Steinkjer",64.008801,11.505667
+886509,"Infanterivegen 5A, Steinkjer",64.008519,11.505867
+886510,"Infanterivegen 5B, Steinkjer",64.00842,11.505919
+886514,"Infanterivegen 11A, Steinkjer",64.007592,11.50652
+886515,"Infanterivegen 11B, Steinkjer",64.007492,11.506593
+886516,"Infanterivegen 13, Steinkjer",64.007356,11.506683
+886523,"Steinkjersannan 9, Steinkjer",64.009437,11.503698
+886529,"Steinkjersannan 1, Steinkjer",64.01025,11.501806
+886558,"Steinkjersannan 3, Steinkjer",64.010002,11.502111
+886606,"Sersjantvegen 11, Steinkjer",64.005754,11.506681
+886618,"Tranabakkvegen 21D, Steinkjer",64.006084,11.51005
+886620,"Arve Skjeflos veg 2C, Steinkjer",64.002002,11.502112
+886623,"Tranabakkvegen 19D, Steinkjer",64.006402,11.510023
+886625,"Tranabakkvegen 21A, Steinkjer",64.006222,11.510003
+886627,"Tranabakkvegen 21B, Steinkjer",64.006195,11.510058
+886629,"Tranabakkvegen 21C, Steinkjer",64.006111,11.510001
+886685,"Tranabakkvegen 19C, Steinkjer",64.006427,11.509997
+1447647,"Arve Skjeflos veg 2B, Steinkjer",64.002555,11.502376
+1662711,"Øvre Ringveg 10, Steinkjer",64.012483,11.512628
+1738741,"Otto Sverdrups veg 100A, Steinkjer",64.008165,11.510574
+1750364,"Kroghbakken 11, Steinkjer",64.005076,11.507089
+1750365,"Kroghbakken 9, Steinkjer",64.004951,11.507024
+1767423,"Kapteinvegen 4, Steinkjer",64.008421,11.503388
+1769284,"Kapteinvegen 2, Steinkjer",64.008265,11.503575
+1770633,"Strandvegen 25, Steinkjer",64.011939,11.495707
+1839836,"Otto Sverdrups veg 100B, Steinkjer",64.008108,11.510645
+1870365,"Ola Fives veg 4B, Steinkjer",64.00472,11.508763
+1881818,"Kroghbakken 7, Steinkjer",64.004125,11.506844
+1881819,"Kroghbakken 5, Steinkjer",64.004036,11.506737
+1882361,"Infanterivegen 23, Steinkjer",64.006484,11.507522
+1892730,"Nedre Bakkeveg 5B, Steinkjer",64.008346,11.507658
+1892733,"Nedre Bakkeveg 5A, Steinkjer",64.008304,11.507769
+1896129,"Kroghbakken 3, Steinkjer",64.00364,11.506505
+1899976,"Skjeftevegen 35, Steinkjer",64.012269,11.513878
+1899980,"Øvre Skjefte, Skjeftevegen 34, Steinkjer",64.012593,11.514848
+1899983,"Skjeftehaugen 16, Steinkjer",64.013522,11.517736
+1901478,"Lerkehaugvegen 64, Steinkjer",63.996639,11.50695
+1901926,"Henningvegen 225, Steinkjer",63.986788,11.499708
+1925123,"Steinkjersannan 5D, Steinkjer",64.009358,11.502465
+1925124,"Steinkjersannan 5B, Steinkjer",64.009339,11.502768
+1925126,"Steinkjersannan 5A, Steinkjer",64.009391,11.502994
+1925127,"Steinkjersannan 5C, Steinkjer",64.009286,11.502538
+1956081,"Sersjantvegen 2, Steinkjer",64.006485,11.502709
+1956108,"Sersjantvegen 4, Steinkjer",64.006604,11.503426
+1960757,"Sersjantvegen 6, Steinkjer",64.00628,11.503898
+1963835,"Parkgata 5, Steinkjer",64.013793,11.494272
+1965109,"Parkgata 1, Steinkjer",64.013822,11.493894
+1965111,"Parkgata 3, Steinkjer",64.013871,11.49407
+1969945,"Svein Jarls gate 15, Steinkjer",64.014334,11.499333
+1971261,"Kongens gate 41, Steinkjer",64.012526,11.497874
+1992868,"Peter Egges gate 20B, Steinkjer",64.014784,11.503419
+2002112,"Kapteinvegen 6F, Steinkjer",64.008916,11.502865
+2002113,"Kapteinvegen 6E, Steinkjer",64.008857,11.502918
+2002114,"Kapteinvegen 6D, Steinkjer",64.008791,11.503098
+2002115,"Kapteinvegen 6C, Steinkjer",64.008881,11.503464
+2002116,"Kapteinvegen 6B, Steinkjer",64.008954,11.503644
+2002117,"Kapteinvegen 6A, Steinkjer",64.009048,11.503553
+2002120,"Kapteinvegen 6J, Steinkjer",64.009109,11.502639
+2002121,"Kapteinvegen 6I, Steinkjer",64.009062,11.502715
+2002122,"Kapteinvegen 6H, Steinkjer",64.009025,11.502755
+2002123,"Kapteinvegen 6G, Steinkjer",64.008972,11.502801
+2009219,"Kirkegata 9A, Steinkjer",64.013796,11.494932
+2009220,"Kirkegata 9B, Steinkjer",64.013758,11.494971
+2009221,"Kirkegata 9C, Steinkjer",64.013744,11.494992
+2041966,"Kirkegata 12B, Steinkjer",64.01367,11.495377
+2041967,"Kirkegata 12C, Steinkjer",64.013749,11.495545
+2041968,"Kirkegata 12A, Steinkjer",64.013688,11.49536
+2051688,"Kristofer Uppdals gate 10, Steinkjer",64.014351,11.500376
+2055621,"Otto Sverdrups veg 1B, Steinkjer",64.01691,11.504058
+2055622,"Otto Sverdrups veg 1C, Steinkjer",64.016891,11.503961
+2080748,"Teglverksvegen 60, Steinkjer",64.005391,11.504183
+2080754,"Teglverksvegen 62, Steinkjer",64.005401,11.504126
+2081253,"Teglverksvegen 20, Steinkjer",64.0047,11.503106
+2081254,"Teglverksvegen 18, Steinkjer",64.004612,11.50319
+2081255,"Teglverksvegen 12, Steinkjer",64.004561,11.503038
+2081256,"Teglverksvegen 16, Steinkjer",64.004614,11.503061
+2081257,"Teglverksvegen 14, Steinkjer",64.00455,11.503158
+2081472,"Teglverksvegen 32, Steinkjer",64.004945,11.50323
+2081480,"Teglverksvegen 38, Steinkjer",64.004995,11.50339
+2081481,"Teglverksvegen 30, Steinkjer",64.004866,11.503325
+2081482,"Teglverksvegen 36, Steinkjer",64.005009,11.503254
+2081483,"Teglverksvegen 34, Steinkjer",64.00493,11.50336
+2081484,"Teglverksvegen 24, Steinkjer",64.004801,11.503146
+2081485,"Teglverksvegen 22, Steinkjer",64.004696,11.503232
+2081486,"Teglverksvegen 28, Steinkjer",64.004874,11.503187
+2081487,"Teglverksvegen 26, Steinkjer",64.00479,11.503286
+2088926,"Ogndalsvegen 23, Steinkjer",64.013717,11.50085
+2090148,"Skjeftehaugen 8, Steinkjer",64.013039,11.515371
+2093082,"Otto Sverdrups veg 96A, Steinkjer",64.008661,11.510527
+2093083,"Otto Sverdrups veg 96B, Steinkjer",64.008606,11.510601
+2099263,"Lille Tranabakken 10, Steinkjer",64.003051,11.505831
+2110026,"Sersjantvegen 25, Steinkjer",64.005635,11.506924
+2110030,"Sersjantvegen 27, Steinkjer",64.005616,11.507053
+2110032,"Sersjantvegen 21, Steinkjer",64.005677,11.506633
+2110033,"Sersjantvegen 23, Steinkjer",64.005655,11.506782
+2110034,"Sersjantvegen 19, Steinkjer",64.005694,11.506483
+2110035,"Sersjantvegen 29, Steinkjer",64.005597,11.507154
+2110037,"Sersjantvegen 31, Steinkjer",64.005609,11.507298
+2166919,"Teglverksvegen 48, Steinkjer",64.005161,11.504058
+2166922,"Teglverksvegen 44, Steinkjer",64.00513,11.504047
+2166924,"Teglverksvegen 54, Steinkjer",64.005274,11.504066
+2166962,"Teglverksvegen 52, Steinkjer",64.005262,11.504114
+2166964,"Teglverksvegen 50, Steinkjer",64.005182,11.504015
+2166997,"Teglverksvegen 56, Steinkjer",64.005288,11.504124
+2166998,"Teglverksvegen 40, Steinkjer",64.005022,11.503996
+2166999,"Teglverksvegen 42, Steinkjer",64.005035,11.503952
+2167000,"Teglverksvegen 46, Steinkjer",64.005139,11.503994
+2167001,"Teglverksvegen 58, Steinkjer",64.005307,11.504093
+2184790,"Eirik Jarls gate 26, Steinkjer",64.015615,11.501214
+2329083,"Sannangata 1, Steinkjer",64.011596,11.500011
+2367627,"Kongens gate 39, Steinkjer",64.013036,11.49646
+2461793,"Skolegata 16, Steinkjer",64.013889,11.498784
+2461806,"Skolegata 14, Steinkjer",64.01404,11.49867
+2461807,"Skolegata 12, Steinkjer",64.014198,11.498635
+2466627,"Strandvegen 38, Steinkjer",64.008018,11.501357

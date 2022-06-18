@@ -1,0 +1,674 @@
+,Navn,Long,Lat
+15440,"Erdal, 3/2, Eidfjord",60.479824,6.995661
+15455,"Skår, 31/1, Eidfjord",60.504271,7.023945
+15456,"Hotle, 30/7, Eidfjord",60.491261,7.053946
+15457,"Hotle, 30/3, Eidfjord",60.490218,7.059005
+15458,"Hotle, 30/1, Eidfjord",60.490344,7.058379
+15463,"Skår, 31/1-4, Eidfjord",60.504265,7.024128
+30037,"Busete, 1/1-1, Eidfjord",60.427518,6.94667
+30038,"Busete, 1/5-1, Eidfjord",60.427028,6.946746
+35678,"1/4-1, Eidfjord",60.426713,6.946039
+35803,"Vasslie, 129/4, Eidfjord",60.470218,6.835155
+44136,"3/4-1, Eidfjord",60.442904,6.991079
+49991,"Hotle, 30/8, Eidfjord",60.490632,7.055376
+49992,"Hotle, 30/9, Eidfjord",60.491611,7.054789
+49995,"Ramnabergnuten, 33/2/12, Eidfjord",60.572818,7.333178
+51142,"Skår, 31/1-5, Eidfjord",60.503968,7.025348
+51143,"Skår, 31/1-2, Eidfjord",60.504448,7.024353
+51144,"Skår, 31/1-3, Eidfjord",60.504174,7.023459
+51145,"Skår, 31/1-6, Eidfjord",60.503941,7.027152
+51149,"Skår, 31/1-1, Eidfjord",60.504197,7.024387
+52125,"Erdal, 3/14, Eidfjord",60.476984,6.99309
+52201,"Hereid, 25/146, Eidfjord",60.460036,7.099836
+52202,"Nedre Eidfjord, 25/2, Eidfjord",60.4729,7.076833
+52203,"Hereid, 25/66, Eidfjord",60.460496,7.101864
+825427,"Ytre Bu, Eidfjordvegen 560, Eidfjord",60.468273,6.840357
+825748,"Eidfjordvegen 456, Eidfjord",60.470436,6.907821
+825749,"Erdalsvegen 7, Eidfjord",60.481737,6.992902
+825750,"Eidfjordvegen 458, Eidfjord",60.470213,6.907326
+825751,"Erdalsvegen 39, Eidfjord",60.481172,6.996323
+825752,"Erdalsvegen 19, Eidfjord",60.479509,6.992677
+825753,"Erdalsvegen 45, Eidfjord",60.480066,6.995844
+825754,"Eidfjordvegen 535, Eidfjord",60.470942,6.858229
+825755,"Indre Bu 6, Eidfjord",60.469204,6.864147
+825756,"Ytre Brimnes, Eidfjordvegen 472, Eidfjord",60.468985,6.897799
+825757,"Eidfjordvegen 452, Eidfjord",60.471156,6.909612
+825758,"Indre Bu 23, Eidfjord",60.465576,6.865798
+825759,"Haugane 16, Eidfjord",60.472143,6.856403
+825760,"Haugane 29, Eidfjord",60.472159,6.855164
+825761,"Eidfjordvegen 531, Eidfjord",60.471158,6.859361
+825762,"Eidfjordvegen 523, Eidfjord",60.470692,6.86281
+825763,"Eidfjordvegen 493, Eidfjord",60.468318,6.882925
+825764,"Indre Bu 50, Eidfjord",60.469669,6.858038
+825765,"Indre Bu 11, Eidfjord",60.466831,6.867395
+825766,"Haugane 20, Eidfjord",60.471873,6.855802
+825767,"Haugane 10, Eidfjord",60.471582,6.85613
+825768,"Haugane 25, Eidfjord",60.471856,6.854784
+825769,"Haugane 22, Eidfjord",60.471667,6.855288
+825770,"Eidfjordvegen 480, Eidfjord",60.467693,6.895027
+825771,"Indre Bu 36, Eidfjord",60.467563,6.856432
+825772,"Indre Bu 33, Eidfjord",60.467007,6.857615
+825773,"Indre Bu 27, Eidfjord",60.466574,6.861445
+825774,"Indre Bu 4, Eidfjord",60.469979,6.862586
+825775,"Indre Bu 2, Eidfjord",60.469593,6.862029
+825776,"Eidfjordvegen 539, Eidfjord",60.470644,6.857593
+825777,"Indre Bu 48, Eidfjord",60.469286,6.856937
+825778,"Indre Bu 30, Eidfjord",60.467394,6.859336
+825779,"Indre Bu 39, Eidfjord",60.467182,6.850636
+825780,"Indre Bu 42, Eidfjord",60.468115,6.855049
+825781,"Indre Bu 17, Eidfjord",60.466771,6.864216
+825782,"Indre Bu 15, Eidfjord",60.467067,6.865251
+825811,"Erdal hyttegrend 1, Eidfjord",60.482394,6.989787
+825812,"Erdalsvegen 26, Eidfjord",60.479255,6.994859
+825813,"Erdalsvegen 35, Eidfjord",60.481149,6.996015
+825814,"Erdal hyttegrend 10, Eidfjord",60.482532,6.992436
+825815,"Erdal hyttegrend 6, Eidfjord",60.482611,6.992886
+825816,"Eidfjordvegen 406, Eidfjord",60.481526,6.997776
+825817,"Erdalsvegen 15, Eidfjord",60.480481,6.99218
+826155,"Simadalsvegen 155, Eidfjord",60.501919,7.205805
+826156,"Simadalsvegen 145, Eidfjord",60.50203,7.201428
+826157,"Simadalsvegen 104, Eidfjord",60.500829,7.175802
+826158,"Simadalsvegen 141, Eidfjord",60.501809,7.197653
+826159,"Simadalsvegen 158, Eidfjord",60.501601,7.208244
+826160,"Lægreidsvegen 7A, Eidfjord",60.46521,7.070467
+826161,"Lægreidsvegen 13, Eidfjord",60.464944,7.069446
+826162,"Lægreidsvegen 5, Eidfjord",60.465623,7.069205
+826163,"Lægreidsvegen 6, Eidfjord",60.465154,7.068717
+826164,"Lægreidsvegen 14, Eidfjord",60.464367,7.069316
+826165,"Brotkanten 4, Eidfjord",60.46474,7.069003
+826166,"Lægreidsvegen 11, Eidfjord",60.464847,7.069597
+826167,"Kyrkjevegen 36, Eidfjord",60.462025,7.07382
+826168,"Kyrkjevegen 38, Eidfjord",60.462169,7.07323
+826169,"Kyrkjevegen 32B, Eidfjord",60.461861,7.074303
+826170,"Kyrkjevegen 34, Eidfjord",60.461912,7.074082
+826171,"Lægreidsvegen 2A, Eidfjord",60.46571,7.067758
+826172,"Lægreidsvegen 3, Eidfjord",60.465935,7.068665
+826173,"Kyrkjevegen 41, Eidfjord",60.462016,7.071929
+826174,"Kyrkjevegen 42, Eidfjord",60.462433,7.072214
+826175,"Kyrkjevegen 17, Eidfjord",60.460174,7.078713
+826176,"Kyrkjevegen 19, Eidfjord",60.460234,7.078546
+826177,"Kyrkjevegen 13, Eidfjord",60.46,7.079105
+826178,"Kyrkjevegen 15, Eidfjord",60.460034,7.078958
+826179,"Kyrkjevegen 30B, Eidfjord",60.461784,7.074544
+826180,"Kyrkjevegen 32A, Eidfjord",60.461789,7.074289
+826181,"Kyrkjevegen 21, Eidfjord",60.460405,7.077954
+826182,"Kyrkjevegen 30A, Eidfjord",60.461756,7.074437
+826183,"Gamlenaustvegen 27, Eidfjord",60.462661,7.064998
+826184,"Gamlenaustvegen 21, Eidfjord",60.463494,7.065892
+826185,"Kyrkjevegen 1, Eidfjord",60.459736,7.080758
+826186,"Kyrkjevegen 5, Eidfjord",60.458867,7.0809
+826187,"Gamlenaustvegen 33A, Eidfjord",60.463211,7.065713
+826188,"Gamlenaustvegen 34A, Eidfjord",60.462768,7.066901
+826190,"Gamlenaustvegen 17, Eidfjord",60.462831,7.064351
+826191,"Gamlenaustvegen 19, Eidfjord",60.463194,7.064621
+826192,"Gamlenaustvegen 15, Eidfjord",60.462606,7.063073
+826193,"Kjeåsvegen 1, Eidfjord",60.504346,7.130131
+826194,"Simadalsvegen 65, Eidfjord",60.490411,7.117573
+826195,"Simadal næringspark 43, Eidfjord",60.498039,7.128743
+826196,"Kjeåsvegen 3, Eidfjord",60.504407,7.13062
+826197,"Simadalsvegen 83, Eidfjord",60.499592,7.152492
+826198,"Simadalsvegen 93, Eidfjord",60.499679,7.159388
+826199,"Simadal næringspark 33, Eidfjord",60.497749,7.140473
+826200,"Simadalsvegen 147, Eidfjord",60.502148,7.202132
+826201,"Simadalsvegen 121, Eidfjord",60.503803,7.193026
+826202,"Simadalsvegen 95, Eidfjord",60.500112,7.160165
+826203,"Simadalsvegen 89, Eidfjord",60.499959,7.158899
+826204,"Hereidsvegen 77, Eidfjord",60.463633,7.095097
+826205,"Hereidsvegen 78, Eidfjord",60.464153,7.089373
+826206,"Hereidsvegen 69, Eidfjord",60.465145,7.089679
+826207,"Hereidsvegen 71, Eidfjord",60.464987,7.089906
+826208,"Gamle Hereidsvegen 3, Eidfjord",60.469207,7.077997
+826209,"Modnatunvegen 2, Eidfjord",60.464011,7.068901
+826210,"Hereidsvegen 82, Eidfjord",60.46126,7.090543
+826211,"Hereidsvegen 83, Eidfjord",60.461799,7.096841
+826212,"Hereidsvegen 57, Eidfjord",60.466502,7.086561
+826213,"Hereidsvegen 58, Eidfjord",60.466267,7.085829
+826214,"Hereidsvegen 54, Eidfjord",60.466577,7.084901
+826215,"Hereidsvegen 56, Eidfjord",60.466447,7.085255
+826216,"Hereidsvegen 65, Eidfjord",60.466235,7.089887
+826217,"Hereidsvegen 59, Eidfjord",60.466315,7.086681
+826218,"Hereidsvegen 61, Eidfjord",60.466282,7.086901
+826219,"Hereidsvegen 42, Eidfjord",60.466694,7.080583
+826220,"Hereidsvegen 21, Eidfjord",60.471785,7.078627
+826221,"Hereidsvegen 23, Eidfjord",60.472125,7.078516
+826222,"Hereidsvegen 52, Eidfjord",60.466147,7.083762
+826223,"Hereidsvegen 44, Eidfjord",60.466024,7.08206
+826224,"Hereidsvegen 48, Eidfjord",60.466981,7.083659
+826225,"Hereidsvegen 8, Eidfjord",60.468905,7.074431
+826226,"Hereidsvegen 9, Eidfjord",60.469995,7.077187
+826227,"Hereidsvegen 36, Eidfjord",60.468477,7.079678
+826228,"Hereidsvegen 50, Eidfjord",60.466917,7.084208
+826229,"Hereidsvegen 63, Eidfjord",60.465756,7.088344
+826230,"Hereidsvegen 5, Eidfjord",60.469233,7.074175
+826231,"Hereidsvegen 6, Eidfjord",60.468728,7.074023
+826232,"Hereidsvegen 17, Eidfjord",60.471292,7.078092
+826233,"Hereidsvegen 19, Eidfjord",60.471512,7.078334
+826234,"Hereidsvegen 11, Eidfjord",60.470223,7.077446
+826235,"Hereidsvegen 15, Eidfjord",60.471058,7.078051
+826236,"Tråavegen 16, Eidfjord",60.4588,7.075648
+826237,"Tråavegen 17, Eidfjord",60.459469,7.075954
+826238,"Tråavegen 11, Eidfjord",60.459161,7.074481
+826239,"Tråavegen 13, Eidfjord",60.459434,7.075076
+826240,"Hereidsvegen 3, Eidfjord",60.469252,7.073592
+826241,"Hereidsvegen 4, Eidfjord",60.468533,7.07358
+826242,"Tråavegen 18, Eidfjord",60.459104,7.076299
+826243,"Hereidsvegen 1, Eidfjord",60.469069,7.073385
+826244,"Lægreidsvegen 43, Eidfjord",60.460886,7.073324
+826245,"Lægreidsvegen 45, Eidfjord",60.460937,7.071866
+826246,"Lægreidsvegen 41, Eidfjord",60.461192,7.072742
+826247,"Lægreidsvegen 42, Eidfjord",60.461335,7.069587
+826248,"Lægreidsvegen 50, Eidfjord",60.460833,7.070936
+826249,"Tråavegen 10, Eidfjord",60.458632,7.07393
+826250,"Lægreidsvegen 48, Eidfjord",60.460902,7.071286
+826251,"Lægreidsvegen 49, Eidfjord",60.460495,7.071765
+826252,"Lægreidsvegen 30, Eidfjord",60.461928,7.070207
+826253,"Lægreidsvegen 31, Eidfjord",60.462134,7.070777
+826254,"Lægreidsvegen 27, Eidfjord",60.463072,7.071066
+826255,"Lægreidsvegen 29, Eidfjord",60.462698,7.070652
+826256,"Lægreidsvegen 39, Eidfjord",60.461067,7.072186
+826257,"Lægreidsvegen 40, Eidfjord",60.461102,7.070874
+826258,"Lægreidsvegen 34, Eidfjord",60.461982,7.068367
+826259,"Lægreidsvegen 17, Eidfjord",60.464511,7.070563
+826260,"Lægreidsvegen 18, Eidfjord",60.464024,7.069791
+826261,"Lægreidsvegen 15, Eidfjord",60.464832,7.070398
+826262,"Lægreidsvegen 16, Eidfjord",60.464161,7.069365
+826263,"Lægreidsvegen 23, Eidfjord",60.463853,7.07042
+826264,"Lægreidsvegen 24, Eidfjord",60.463014,7.069822
+826265,"Lægreidsvegen 19, Eidfjord",60.464246,7.070269
+826266,"Lægreidsvegen 21, Eidfjord",60.463998,7.070484
+826267,"Elvavegen 17, Eidfjord",60.465625,7.074935
+826268,"Elvavegen 19, Eidfjord",60.465595,7.075373
+826269,"Elvavegen 13, Eidfjord",60.465946,7.074188
+826270,"Elvavegen 15, Eidfjord",60.465773,7.074653
+826271,"Elvavegen 25, Eidfjord",60.465209,7.075996
+826272,"Elvavegen 27, Eidfjord",60.465024,7.07628
+826273,"Elvavegen 21, Eidfjord",60.465416,7.075438
+826274,"Elvavegen 23, Eidfjord",60.46534,7.07577
+826275,"Elvavegen 4, Eidfjord",60.46789,7.0726
+826276,"Elvavegen 5, Eidfjord",60.466821,7.073845
+826277,"Elvavegen 2, Eidfjord",60.467705,7.072847
+826278,"Elvavegen 3, Eidfjord",60.466975,7.07358
+826279,"Elvavegen 11, Eidfjord",60.466076,7.073817
+826280,"Elvavegen 12, Eidfjord",60.466725,7.072778
+826281,"Elvavegen 6, Eidfjord",60.467538,7.072475
+826282,"Elvavegen 9E, Eidfjord",60.466239,7.073261
+826283,"Blurnesvegen 14, Eidfjord",60.478248,7.084632
+826284,"Blurneslia 1, Eidfjord",60.477256,7.082452
+826285,"Blurnesvegen 6, Eidfjord",60.477432,7.082187
+826286,"Blurnesvegen 10, Eidfjord",60.477976,7.083192
+826287,"Blurneslia 8, Eidfjord",60.476683,7.081958
+826288,"Elvavegen 1, Eidfjord",60.467174,7.073352
+826289,"Blurneslia 2, Eidfjord",60.476309,7.080343
+826290,"Blurneslia 6, Eidfjord",60.476523,7.081458
+826291,"Skulevegen 7, Eidfjord",60.464482,7.071692
+826292,"Skulevegen 8, Eidfjord",60.463477,7.074207
+826293,"Torgilsvegen 7, Eidfjord",60.469471,7.077581
+826294,"Skulevegen 5, Eidfjord",60.464081,7.071279
+826295,"Blurnesvegen 4, Eidfjord",60.477067,7.081808
+826296,"Blurnesvegen 5A, Eidfjord",60.476586,7.080199
+826297,"Skulevegen 9, Eidfjord",60.464884,7.070923
+826298,"Blurnesvegen 3, Eidfjord",60.476741,7.079717
+826299,"Sjoarvegen 4, Eidfjord",60.470171,7.076958
+826300,"Sjobakkane 4, Eidfjord",60.46969,7.077223
+826301,"Sjoarvegen 3, Eidfjord",60.470481,7.076612
+826302,"Sjobakkane 12, Eidfjord",60.468894,7.07556
+826303,"Sjobakkane 14, Eidfjord",60.468708,7.075152
+826304,"Sjobakkane 8, Eidfjord",60.469258,7.076521
+826305,"Sjobakkane 10, Eidfjord",60.469099,7.076057
+826306,"Evjevegen 14, Eidfjord",60.464611,7.066937
+826307,"Evjevegen 15, Eidfjord",60.463972,7.066848
+826308,"Evjevegen 12, Eidfjord",60.464546,7.066832
+826309,"Evjevegen 13, Eidfjord",60.463777,7.067023
+826310,"Evjevegen 21, Eidfjord",60.464254,7.066485
+826311,"Evjevegen 6, Eidfjord",60.463923,7.067778
+826312,"Evjevegen 4, Eidfjord",60.463855,7.069347
+826313,"Evjevegen 5, Eidfjord",60.463445,7.068316
+826314,"Evjevegen 10A, Eidfjord",60.464381,7.067187
+826315,"Evjevegen 11, Eidfjord",60.463303,7.06656
+826316,"Evjevegen 8, Eidfjord",60.464152,7.067474
+826317,"Evjevegen 9, Eidfjord",60.46349,7.067695
+826318,"Modnatunvegen 5, Eidfjord",60.464249,7.067977
+826319,"Modnatunvegen 6, Eidfjord",60.464364,7.068516
+826320,"Modnatunvegen 3, Eidfjord",60.464063,7.068207
+826321,"Modnatunvegen 4, Eidfjord",60.464179,7.068727
+826322,"Evjevegen 2, Eidfjord",60.463754,7.069807
+826323,"Evjevegen 3, Eidfjord",60.463599,7.069016
+826324,"Brotkanten 9, Eidfjord",60.464589,7.067946
+826325,"Evjevegen 1, Eidfjord",60.463258,7.069637
+826326,"Simadalsvegen 43, Eidfjord",60.479032,7.087952
+826327,"Simadalsvegen 44, Eidfjord",60.478304,7.086012
+826328,"Simadalsvegen 38, Eidfjord",60.478621,7.083099
+826329,"Simadalsvegen 42, Eidfjord",60.478231,7.085306
+826330,"Simadalsvegen 54, Eidfjord",60.483035,7.10031
+826331,"Simadalsvegen 26, Eidfjord",60.473127,7.077656
+826332,"Simadalsvegen 30, Eidfjord",60.476269,7.079417
+826333,"Simadalsvegen 18, Eidfjord",60.469744,7.075328
+826334,"Simadalsvegen 22, Eidfjord",60.471714,7.076794
+826335,"Simadalsvegen 35, Eidfjord",60.47804,7.081369
+826336,"Simadalsvegen 37, Eidfjord",60.478665,7.082369
+826337,"Simadalsvegen 32, Eidfjord",60.477068,7.080662
+826338,"Simadalsvegen 34, Eidfjord",60.47799,7.082282
+826339,"Simadalsvegen 9, Eidfjord",60.468306,7.072175
+826340,"Simadalsvegen 11, Eidfjord",60.469196,7.07285
+826341,"Simadalsvegen 6, Eidfjord",60.4667,7.070451
+826342,"Simadalsvegen 7, Eidfjord",60.46881,7.071599
+826343,"Simadalsvegen 15, Eidfjord",60.469547,7.073502
+826344,"Simadalsvegen 16, Eidfjord",60.469906,7.076009
+826345,"Simadalsvegen 13B, Eidfjord",60.469785,7.071996
+826346,"Simadalsvegen 14, Eidfjord",60.469436,7.075169
+826347,"Kvednavegen 39, Eidfjord",60.463992,7.079433
+826349,"Simadalsvegen 1, Eidfjord",60.467404,7.070009
+826350,"Kvednavegen 35, Eidfjord",60.464399,7.078973
+826351,"Kvednavegen 37, Eidfjord",60.464196,7.079258
+826352,"Simadalsvegen 4, Eidfjord",60.466763,7.069672
+826353,"Simadalsvegen 5, Eidfjord",60.468992,7.071788
+826354,"Simadalsvegen 3D, Eidfjord",60.469078,7.071492
+826355,"Kvednavegen 26, Eidfjord",60.465097,7.076967
+826356,"Kvednavegen 27, Eidfjord",60.465169,7.077599
+826357,"Kvednavegen 24, Eidfjord",60.465238,7.07674
+826358,"Kvednavegen 25, Eidfjord",60.465358,7.077588
+826359,"Kvednavegen 31, Eidfjord",60.46482,7.078329
+826360,"Kvednavegen 32, Eidfjord",60.464529,7.077455
+826361,"Kvednavegen 29, Eidfjord",60.465087,7.078132
+826362,"Kvednavegen 30, Eidfjord",60.464744,7.077406
+826363,"Kvednavegen 16, Eidfjord",60.465781,7.075781
+826364,"Kvednavegen 17, Eidfjord",60.465944,7.076535
+826365,"Kvednavegen 6, Eidfjord",60.466402,7.074671
+826366,"Kvednavegen 8, Eidfjord",60.466297,7.074369
+826367,"Kvednavegen 21, Eidfjord",60.465621,7.077191
+826368,"Kvednavegen 22, Eidfjord",60.465404,7.076476
+826369,"Kvednavegen 18, Eidfjord",60.465686,7.076041
+826370,"Kvednavegen 19, Eidfjord",60.465886,7.076829
+826371,"Elvavegen 35, Eidfjord",60.464323,7.07744
+826372,"Kvednavegen 1, Eidfjord",60.467904,7.073545
+826373,"Elvavegen 29, Eidfjord",60.464892,7.07647
+826374,"Elvavegen 31, Eidfjord",60.464837,7.077019
+826375,"Kvednavegen 4, Eidfjord",60.466642,7.074493
+826376,"Kvednavegen 5, Eidfjord",60.4673,7.073999
+826377,"Kvednavegen 2, Eidfjord",60.466881,7.074318
+826378,"Kvednavegen 3, Eidfjord",60.467647,7.073778
+826379,"Øvrehagen 25, Eidfjord",60.460755,7.076078
+826380,"Øvrehagen 26, Eidfjord",60.460408,7.075644
+826381,"Øvrehagen 23, Eidfjord",60.460884,7.07567
+826382,"Øvrehagen 24, Eidfjord",60.460502,7.075329
+826383,"Øvrehagen 29, Eidfjord",60.460507,7.076893
+826384,"Øvrehagen 30, Eidfjord",60.460211,7.076292
+826385,"Øvrehagen 27, Eidfjord",60.460636,7.076503
+826386,"Øvrehagen 28, Eidfjord",60.460314,7.075977
+826387,"Øvrehagen 14, Eidfjord",60.460704,7.073753
+826388,"Øvrehagen 16, Eidfjord",60.460654,7.074065
+826389,"Simadalsvegen 60, Eidfjord",60.485494,7.100221
+826390,"Øvrehagen 12, Eidfjord",60.460843,7.074654
+826391,"Øvrehagen 21, Eidfjord",60.461013,7.075244
+826392,"Øvrehagen 22, Eidfjord",60.460497,7.075002
+826393,"Øvrehagen 18, Eidfjord",60.460614,7.074395
+826394,"Øvrehagen 20, Eidfjord",60.46061,7.074704
+826395,"Simadalsvegen 56, Eidfjord",60.483526,7.100118
+826414,"Solbakken 2D, Eidfjord",60.466317,7.076222
+826420,"Blurnesvegen 11, Eidfjord",60.477522,7.081618
+826421,"Blurnesvegen 13, Eidfjord",60.477724,7.081897
+826422,"Solbakken 1B, Eidfjord",60.466171,7.076049
+826423,"Solbakken 2A, Eidfjord",60.466139,7.076378
+826426,"Øvrehagen 71, Eidfjord",60.457562,7.081941
+826428,"Øvrehagen 67, Eidfjord",60.458353,7.080767
+826429,"Øvrehagen 69, Eidfjord",60.458195,7.081031
+826431,"Blurnesvegen 9, Eidfjord",60.477348,7.081391
+826434,"Øvrehagen 50, Eidfjord",60.459203,7.078025
+826435,"Øvrehagen 52, Eidfjord",60.459119,7.077211
+826436,"Øvrehagen 47, Eidfjord",60.458918,7.080079
+826437,"Øvrehagen 48, Eidfjord",60.458986,7.079183
+826438,"Øvrehagen 63, Eidfjord",60.458596,7.080152
+826439,"Øvrehagen 65, Eidfjord",60.458483,7.08045
+826440,"Øvrehagen 54, Eidfjord",60.45889,7.077534
+826441,"Øvrehagen 61, Eidfjord",60.458699,7.079837
+826442,"Øvrehagen 41, Eidfjord",60.459588,7.079202
+826443,"Øvrehagen 42, Eidfjord",60.459522,7.07837
+826444,"Øvrehagen 39, Eidfjord",60.459753,7.078793
+826445,"Øvrehagen 40, Eidfjord",60.459634,7.078054
+826446,"Øvrehagen 45, Eidfjord",60.459138,7.079793
+826447,"Øvrehagen 46, Eidfjord",60.459144,7.078956
+826448,"Øvrehagen 43, Eidfjord",60.459387,7.079578
+826449,"Øvrehagen 44, Eidfjord",60.459338,7.078672
+826450,"Øvrehagen 33, Eidfjord",60.460195,7.077675
+826451,"Øvrehagen 34, Eidfjord",60.460013,7.07694
+826452,"Øvrehagen 31, Eidfjord",60.460387,7.0773
+826453,"Øvrehagen 32, Eidfjord",60.460108,7.076626
+826454,"Øvrehagen 37, Eidfjord",60.459879,7.078185
+826455,"Øvrehagen 38, Eidfjord",60.459825,7.077606
+826456,"Øvrehagen 35, Eidfjord",60.459965,7.077943
+826457,"Øvrehagen 36, Eidfjord",60.45992,7.077291
+826581,"Simadalsvegen 150, Eidfjord",60.501043,7.201501
+826655,"Kvednavegen 15, Eidfjord",60.466545,7.075208
+826656,"Kvednavegen 11, Eidfjord",60.467091,7.074484
+826657,"Kvednavegen 13, Eidfjord",60.466784,7.075012
+826658,"Kvednavegen 9, Eidfjord",60.467215,7.074331
+826661,"Langedalen 5, Eidfjord",60.466038,7.077421
+826664,"Langedalen 3, Eidfjord",60.466234,7.0773
+826665,"Langedalen 7, Eidfjord",60.465865,7.077886
+826666,"Simadalsvegen 111, Eidfjord",60.502738,7.180793
+826668,"Ostangvegen 20, Eidfjord",60.467896,7.068033
+826669,"Ostangvegen 18, Eidfjord",60.467651,7.068484
+826676,"Indre Bu 5, Eidfjord",60.469478,6.864401
+826677,"Eidfjordvegen 525, Eidfjord",60.471744,6.862342
+826678,"Simadalsvegen 31A, Eidfjord",60.477215,7.07958
+826679,"Skulevegen 10, Eidfjord",60.463408,7.075048
+826689,"Torgilsvegen 5, Eidfjord",60.469216,7.077324
+826698,"Evjevegen 19A, Eidfjord",60.464052,7.066188
+826699,"Evjevegen 19B, Eidfjord",60.464122,7.066057
+826717,"Simadal næringspark 23, Eidfjord",60.495788,7.139782
+826734,"Haugane 3, Eidfjord",60.470902,6.854611
+826735,"Haugane 4, Eidfjord",60.47073,6.855131
+826743,"Lægreidsvegen 33, Eidfjord",60.461617,7.071098
+826765,"Erdal hyttegrend 13, Eidfjord",60.482233,6.990471
+826768,"Ytre Brimnes, Eidfjordvegen 470, Eidfjord",60.469018,6.898179
+826769,"Erdalsvegen 5, Eidfjord",60.481582,6.992567
+826770,"Indre Bu 37, Eidfjord",60.467106,6.850914
+826773,"Erdalsvegen 3, Eidfjord",60.481454,6.992393
+826774,"Erdal hyttegrend 4, Eidfjord",60.482704,6.993099
+826778,"Indre Bu 25, Eidfjord",60.46689,6.862661
+826779,"Indre Bu 19, Eidfjord",60.466323,6.863153
+826801,"Kvednavegen 10B, Eidfjord",60.4662,7.074937
+826809,"Kvednavegen 10A, Eidfjord",60.466219,7.075063
+826827,"Eidfjordvegen 218, Eidfjord",60.457079,7.085243
+826829,"Simadalsvegen 12B, Eidfjord",60.467134,7.070643
+826830,"Eidfjordvegen 216, Eidfjord",60.456997,7.085156
+826831,"Simadalsvegen 10A, Eidfjord",60.467006,7.070451
+826832,"Simadalsvegen 10B, Eidfjord",60.46699,7.070579
+826833,"Eidfjordvegen 222, Eidfjord",60.457084,7.084928
+826834,"Eidfjordvegen 220, Eidfjord",60.457086,7.085078
+826835,"Eidfjordvegen 226, Eidfjord",60.457002,7.084923
+826836,"Eidfjordvegen 224, Eidfjord",60.457039,7.084925
+826837,"Kvednavegen 12B, Eidfjord",60.466068,7.075163
+826838,"Kvednavegen 14A, Eidfjord",60.465921,7.075554
+826839,"Elvavegen 10B, Eidfjord",60.466865,7.072533
+826840,"Kvednavegen 12A, Eidfjord",60.466078,7.075254
+826841,"Eidfjordvegen 273, Eidfjord",60.466448,7.070993
+826842,"Simadalsvegen 12A, Eidfjord",60.46717,7.070605
+826843,"Kvednavegen 14B, Eidfjord",60.465868,7.075612
+826844,"Eidfjordvegen 275, Eidfjord",60.466492,7.070936
+826845,"Gamle Hereidsvegen 1A, Eidfjord",60.46837,7.074736
+826847,"Lægreidsvegen 32A, Eidfjord",60.462069,7.070035
+826848,"Gamle Hereidsvegen 2B, Eidfjord",60.468325,7.07412
+826849,"Elvavegen 10A, Eidfjord",60.466902,7.072604
+826850,"Gamle Hereidsvegen 1B, Eidfjord",60.468451,7.074749
+826851,"Gamle Hereidsvegen 2A, Eidfjord",60.468273,7.074232
+826864,"Eidfjordvegen 294, Eidfjord",60.465781,7.067122
+826865,"Eidfjordvegen 282, Eidfjord",60.46623,7.069198
+826866,"Eidfjordvegen 306, Eidfjord",60.465052,7.065765
+826868,"Eidfjordvegen 300, Eidfjord",60.465657,7.066638
+826869,"Eidfjordvegen 268, Eidfjord",60.465651,7.07055
+826871,"Ostangvegen 9, Eidfjord",60.466689,7.067796
+826872,"Ostangvegen 7, Eidfjord",60.466595,7.0678
+826873,"Eidfjordvegen 270, Eidfjord",60.465638,7.069641
+826874,"Solbakken 3B, Eidfjord",60.466438,7.075887
+826875,"Ostangvegen 24, Eidfjord",60.46732,7.06734
+826876,"Solbakken 2C, Eidfjord",60.466237,7.076263
+826877,"Solbakken 3A, Eidfjord",60.466376,7.075945
+826878,"Eidfjordvegen 320, Eidfjord",60.464456,7.06309
+826879,"Eidfjordvegen 310, Eidfjord",60.465136,7.065211
+826881,"Eidfjordvegen 325, Eidfjord",60.463608,7.059139
+826882,"Erdalsvegen 43, Eidfjord",60.480341,6.996648
+826883,"Eidfjordvegen 322, Eidfjord",60.464343,7.062715
+826884,"Ostangvegen 23, Eidfjord",60.467253,7.067053
+826885,"Ostangvegen 8, Eidfjord",60.467609,7.069306
+826886,"Nedre Steinbrotet 1, Eidfjord",60.470808,7.079776
+826887,"Solbakken 1A, Eidfjord",60.466126,7.076088
+826888,"Ostangvegen 6, Eidfjord",60.467702,7.070119
+826889,"Solbakken 2B, Eidfjord",60.466202,7.076374
+826890,"Ostangvegen 33, Eidfjord",60.468714,7.068676
+826891,"Ostangvegen 32, Eidfjord",60.468293,7.068756
+826908,"Vikevegen 1, Eidfjord",60.464412,7.066203
+826909,"Vikevegen 2, Eidfjord",60.464422,7.065039
+826912,"Vikevegen 10, Eidfjord",60.463844,7.064236
+826914,"Vikevegen 4, Eidfjord",60.464491,7.06427
+826915,"Vikevegen 6, Eidfjord",60.464273,7.064665
+826925,"Simadal næringspark 7, Eidfjord",60.495495,7.140036
+826947,"Blurnesvegen 8, Eidfjord",60.477727,7.082734
+826948,"Blurneslia 10, Eidfjord",60.476861,7.082476
+826950,"Blurneslia 5, Eidfjord",60.477739,7.083552
+826952,"Blurneslia 3, Eidfjord",60.477534,7.083054
+826953,"Simadalsvegen 102, Eidfjord",60.500588,7.175215
+826957,"Blurneslia 12, Eidfjord",60.477056,7.082937
+826961,"Sjobakkane 6B, Eidfjord",60.469497,7.07687
+826963,"Blurneslia 4A, Eidfjord",60.476066,7.080266
+826964,"Sjoarvegen 6B, Eidfjord",60.470783,7.076994
+826965,"Eidfjordvegen 245, Eidfjord",60.461184,7.08029
+826966,"Sjobakkane 6A, Eidfjord",60.469471,7.076945
+826967,"Blurneslia 16, Eidfjord",60.477467,7.084005
+826968,"Sjobakkane 11B, Eidfjord",60.468679,7.075591
+826969,"Blurneslia 14, Eidfjord",60.47733,7.083367
+826971,"Eidfjordvegen 289, Eidfjord",60.466645,7.06959
+826972,"Blurneslia 4B, Eidfjord",60.476091,7.080119
+826974,"Sjobakkane 11A, Eidfjord",60.468689,7.075699
+826975,"Eidfjordvegen 298, Eidfjord",60.465636,7.067058
+826976,"Ostangvegen 11, Eidfjord",60.466716,7.067812
+826978,"Eidfjordvegen 296, Eidfjord",60.465656,7.067148
+826979,"Eidfjordvegen 281, Eidfjord",60.466381,7.070088
+826980,"Sjoarvegen 5B, Eidfjord",60.470688,7.076672
+826981,"Eidfjordvegen 279, Eidfjord",60.466311,7.070238
+826982,"Sjoarvegen 6A, Eidfjord",60.470766,7.077104
+826983,"Eidfjordvegen 287, Eidfjord",60.466621,7.069703
+826984,"Eidfjordvegen 285, Eidfjord",60.46655,7.069765
+826985,"Sjoarvegen 5A, Eidfjord",60.470717,7.07678
+826986,"Elvavegen 8A, Eidfjord",60.467271,7.072654
+826987,"Eidfjordvegen 212, Eidfjord",60.456791,7.086369
+826988,"Elvavegen 8B, Eidfjord",60.467234,7.072529
+826989,"Eidfjordvegen 239, Eidfjord",60.460349,7.08094
+826990,"Hereidsvegen 13A, Eidfjord",60.470575,7.077552
+826991,"Eidfjordvegen 228, Eidfjord",60.456849,7.085474
+826992,"Hereidsvegen 13B, Eidfjord",60.470513,7.077611
+826994,"Ostangvegen 17, Eidfjord",60.466775,7.0675
+826997,"Simadalsvegen 8A, Eidfjord",60.466815,7.070899
+826999,"Simadalsvegen 8B, Eidfjord",60.466888,7.071004
+827000,"Simadalsvegen 85, Eidfjord",60.499766,7.152719
+827001,"Eidfjordvegen 277, Eidfjord",60.466445,7.070157
+827002,"Simadalsvegen 100, Eidfjord",60.500687,7.175264
+827003,"Eidfjordvegen 269, Eidfjord",60.466005,7.07142
+827004,"Simadalsvegen 91, Eidfjord",60.499663,7.157568
+827005,"Hereidsvegen 7A, Eidfjord",60.469248,7.074611
+827006,"Eidfjordvegen 241, Eidfjord",60.460804,7.080791
+827007,"Hereidsvegen 7B, Eidfjord",60.469328,7.074552
+827008,"Eidfjordvegen 247, Eidfjord",60.461533,7.079579
+827009,"Elvavegen 37, Eidfjord",60.463892,7.07873
+827010,"Kyrkjevegen 14, Eidfjord",60.461258,7.079195
+827011,"Kvednavegen 36, Eidfjord",60.463904,7.078893
+827015,"Torgilsvegen 3, Eidfjord",60.469066,7.076914
+827033,"Erdalsvegen 24, Eidfjord",60.478959,6.994931
+827038,"Blurnesvegen 15, Eidfjord",60.478272,7.082924
+827045,"Vikevegen 3, Eidfjord",60.464343,7.065807
+827053,"Indre Bu 1, Eidfjord",60.469443,6.865568
+827073,"Ostangvegen 27, Eidfjord",60.46807,7.067041
+827074,"Simadalsvegen 76, Eidfjord",60.498486,7.15301
+827075,"Simadal næringspark 45, Eidfjord",60.498606,7.129406
+827107,"Eikehaugen, Eidfjordvegen 509, Eidfjord",60.469889,6.868759
+827216,"Langedalen 15, Eidfjord",60.465433,7.079112
+827219,"Langedalen 9, Eidfjord",60.466227,7.078082
+827220,"Langedalen 11, Eidfjord",60.465775,7.078491
+827258,"Simadalsvegen 24, Eidfjord",60.472593,7.077378
+827261,"Kyrkjevegen 8, Eidfjord",60.46064,7.079886
+827263,"Kyrkjevegen 18, Eidfjord",60.461672,7.078006
+827264,"Kyrkjevegen 12, Eidfjord",60.461064,7.079388
+827285,"Simadal næringspark 10, Eidfjord",60.495211,7.14358
+827472,"Kvednabakken 7, Eidfjord",60.465142,7.078801
+827473,"Kvednabakken 9, Eidfjord",60.464902,7.079016
+827474,"Kvednabakken 3, Eidfjord",60.465498,7.077998
+827475,"Kvednabakken 5, Eidfjord",60.465324,7.078372
+827478,"Kvednabakken 11, Eidfjord",60.464592,7.079289
+827479,"Kvednavegen 33, Eidfjord",60.464656,7.078757
+827496,"Sjobakkane 9, Eidfjord",60.468886,7.076288
+827497,"Skulevegen 6, Eidfjord",60.463424,7.072446
+827504,"Simadalsvegen 107, Eidfjord",60.502324,7.175445
+827507,"Skulevegen 4, Eidfjord",60.463874,7.072474
+1540684,"Simadalsvegen 31B, Eidfjord",60.477351,7.079901
+1642858,"Eidfjordvegen 541, Eidfjord",60.471084,6.857086
+1657893,"Evjevegen 10B, Eidfjord",60.464473,7.067044
+1663923,"Simadal næringspark 38, Eidfjord",60.498308,7.142638
+1684140,"Steinbrotet 1, Eidfjord",60.470087,7.079939
+1684141,"Steinbrotet 3, Eidfjord",60.470375,7.080206
+1684222,"Ostangvegen 4, Eidfjord",60.467615,7.070264
+1684224,"Hereidsvegen 7C, Eidfjord",60.469616,7.07603
+1684521,"Simadalsvegen 31C, Eidfjord",60.477615,7.080411
+1684542,"Steinbrotet 9A, Eidfjord",60.471408,7.080923
+1684545,"Steinbrotet 7, Eidfjord",60.470916,7.080812
+1684548,"Steinbrotet 5A, Eidfjord",60.470693,7.080609
+1684601,"Steinbrotet 9B, Eidfjord",60.47132,7.080927
+1684610,"Steinbrotet 11, Eidfjord",60.47186,7.08072
+1689046,"Lægreidsvegen 2B, Eidfjord",60.465685,7.067523
+1710280,"Lægreidsvegen 2C, Eidfjord",60.465621,7.068274
+1776859,"Smievegen 6, Eidfjord",60.468869,7.078095
+1776881,"Torgilsvegen 9, Eidfjord",60.469614,7.077933
+1776883,"Hereidsvegen 22A, Eidfjord",60.470926,7.079127
+1776919,"Hereidsvegen 24, Eidfjord",60.470519,7.079142
+1777049,"Smievegen 1, Eidfjord",60.468678,7.078496
+1777069,"Smievegen 12, Eidfjord",60.468231,7.075626
+1819395,"Nedre Steinbrotet 2, Eidfjord",60.471179,7.07986
+1845818,"Kyrkjevegen 20, Eidfjord",60.46151,7.077677
+1896542,"Simadalsvegen 28, Eidfjord",60.473822,7.077682
+1918068,"Erdal hyttegrend 17, Eidfjord",60.482412,6.991308
+1918069,"Erdal hyttegrend 15, Eidfjord",60.482388,6.990829
+1918070,"Erdal hyttegrend 19, Eidfjord",60.482506,6.991937
+1918071,"Erdal hyttegrend 18, Eidfjord",60.482356,6.991943
+1918154,"Erdal hyttegrend 14, Eidfjord",60.482138,6.991104
+1918156,"Erdal hyttegrend 7, Eidfjord",60.482071,6.99055
+1918169,"Erdal hyttegrend 16, Eidfjord",60.48227,6.991393
+1918171,"Erdal hyttegrend 9, Eidfjord",60.482015,6.990173
+1918172,"Erdal hyttegrend 11, Eidfjord",60.482336,6.99018
+1957567,"Elvavegen 9A, Eidfjord",60.466426,7.073192
+1957569,"Elvavegen 9B, Eidfjord",60.466401,7.073221
+1957570,"Elvavegen 9C, Eidfjord",60.466377,7.073251
+1957737,"Elvavegen 9D, Eidfjord",60.466401,7.073305
+1958038,"Steinbrotet 5B, Eidfjord",60.47073,7.080336
+1962415,"Hereidsvegen 22B, Eidfjord",60.470894,7.078991
+1966940,"Simadalsvegen 3C, Eidfjord",60.46867,7.071476
+1966941,"Simadalsvegen 13A, Eidfjord",60.469259,7.07139
+1966944,"Simadalsvegen 3B, Eidfjord",60.468599,7.071528
+1966945,"Simadalsvegen 3A, Eidfjord",60.468478,7.071577
+1968762,"Gamlenaustvegen 32A, Eidfjord",60.462216,7.066336
+1968769,"Gamlenaustvegen 32D, Eidfjord",60.462333,7.066954
+1968770,"Gamlenaustvegen 32E, Eidfjord",60.462239,7.066844
+1968771,"Gamlenaustvegen 32B, Eidfjord",60.462338,7.066496
+1968772,"Gamlenaustvegen 32C, Eidfjord",60.462439,7.066624
+1968773,"Gamlenaustvegen 32F, Eidfjord",60.46213,7.066706
+1976586,"Hereidsvegen 2C, Eidfjord",60.468181,7.073419
+1976941,"Lægreidsvegen 9, Eidfjord",60.464666,7.069861
+1977334,"Simadal næringspark 31, Eidfjord",60.497829,7.141349
+1977341,"Simadal næringspark 32, Eidfjord",60.497847,7.142825
+1985706,"Eidfjordvegen 521, Eidfjord",60.470582,6.863239
+1987685,"Elvavegen 9F, Eidfjord",60.466281,7.073534
+2007386,"Gamlenaustvegen 9, Eidfjord",60.462263,7.062626
+2008883,"Simadal næringspark 26, Eidfjord",60.497939,7.145797
+2008947,"Simadal næringspark 40, Eidfjord",60.498689,7.142724
+2008948,"Simadal næringspark 42, Eidfjord",60.499034,7.142939
+2008949,"Simadal næringspark 50, Eidfjord",60.499504,7.142395
+2010803,"Simadalsvegen 29, Eidfjord",60.476694,7.078824
+2013654,"Gamlenaustvegen 34F, Eidfjord",60.463145,7.067508
+2013656,"Gamlenaustvegen 34E, Eidfjord",60.463077,7.067383
+2013657,"Gamlenaustvegen 34D, Eidfjord",60.462988,7.067237
+2013658,"Gamlenaustvegen 34C, Eidfjord",60.462931,7.067132
+2013659,"Gamlenaustvegen 34B, Eidfjord",60.462876,7.067053
+2023636,"Simadal næringspark 8, Eidfjord",60.495009,7.143814
+2023637,"Simadal næringspark 20, Eidfjord",60.496441,7.143142
+2023638,"Simadal næringspark 18, Eidfjord",60.49638,7.144881
+2023663,"Simadal næringspark 37, Eidfjord",60.497848,7.139844
+2024193,"Erdalsvegen 22, Eidfjord",60.476332,6.994206
+2024883,"Kjeåsvegen 14, Eidfjord",60.505034,7.131587
+2024884,"Kjeåsvegen 11, Eidfjord",60.506138,7.128881
+2024890,"Kjeåsvegen 5, Eidfjord",60.504432,7.13247
+2027014,"Simadal næringspark 25, Eidfjord",60.49531,7.137836
+2027015,"Simadal næringspark 28, Eidfjord",60.497811,7.144193
+2027016,"Simadal næringspark 30, Eidfjord",60.49783,7.14356
+2027018,"Simadal næringspark 35, Eidfjord",60.497977,7.139928
+2027019,"Simadal næringspark 48, Eidfjord",60.499255,7.143041
+2027021,"Simadal næringspark 52, Eidfjord",60.500164,7.141946
+2027026,"Simadal næringspark 51, Eidfjord",60.499624,7.141755
+2028893,"Simadalsvegen 137, Eidfjord",60.502813,7.238764
+2028894,"Simadalsvegen 135, Eidfjord",60.502921,7.239616
+2029072,"Simadalsvegen 70, Eidfjord",60.496286,7.150934
+2029082,"Simadalsvegen 127, Eidfjord",60.502339,7.194062
+2030901,"Kvamsdalsvegen 12, Eidfjord",60.445267,7.098624
+2030902,"Kvamsdalsvegen 10, Eidfjord",60.445178,7.098995
+2030903,"Neset, Kvamsdalsvegen 4, Eidfjord",60.444851,7.101886
+2030904,"Kvamsdalsvegen 3, Eidfjord",60.444573,7.101882
+2030980,"Kvamsdalsvegen 17, Eidfjord",60.443991,7.098953
+2030990,"Kvamsdalsvegen 37, Eidfjord",60.434627,7.096575
+2030991,"Kvamsdalsvegen 42, Eidfjord",60.433496,7.096007
+2030992,"Kvamsdalsvegen 46, Eidfjord",60.426859,7.10053
+2031004,"Kvamsdalsvegen 38, Eidfjord",60.434623,7.095737
+2031006,"Kvamsdalsvegen 40, Eidfjord",60.434455,7.094884
+2031008,"Kvamsdalsvegen 25, Eidfjord",60.44158,7.098529
+2031010,"Kvamsdalsvegen 27, Eidfjord",60.441593,7.098163
+2031012,"Kvamsdalsvegen 30, Eidfjord",60.441967,7.096747
+2031014,"Kvamsdalsvegen 22, Eidfjord",60.44291,7.097363
+2031016,"Kvamsdalsvegen 15, Eidfjord",60.443975,7.099083
+2032684,"Eidfjordvegen 295, Eidfjord",60.465973,7.066705
+2037268,"Eidfjordvegen 408, Eidfjord",60.481816,6.996606
+2037269,"Eidfjordvegen 418, Eidfjord",60.480791,6.989397
+2037270,"Eidfjordvegen 308, Eidfjord",60.465179,7.06535
+2037271,"Eidfjordvegen 329, Eidfjord",60.464621,7.057333
+2037272,"Eidfjordvegen 460, Eidfjord",60.470122,6.90634
+2037273,"Eidfjordvegen 490, Eidfjord",60.467412,6.88503
+2037274,"Eidfjordvegen 416, Eidfjord",60.480798,6.989515
+2037278,"Eidfjordvegen 445, Eidfjord",60.471916,6.943952
+2037296,"Eidfjordvegen 257, Eidfjord",60.463859,7.075994
+2038213,"Ostangvegen 10, Eidfjord",60.467154,7.068478
+2038214,"Ostangvegen 28, Eidfjord",60.468265,7.068122
+2038217,"Ostangvegen 12, Eidfjord",60.467397,7.068963
+2038218,"Ostangvegen 14, Eidfjord",60.467444,7.068919
+2043428,"Ytre Bu, Eidfjordvegen 567, Eidfjord",60.469685,6.835757
+2043431,"Ytre Bu, Eidfjordvegen 552, Eidfjord",60.469002,6.843678
+2043432,"Ytre Bu, Eidfjordvegen 571, Eidfjord",60.470274,6.834561
+2043622,"Hereidsvegen 2B, Eidfjord",60.468211,7.073401
+2043624,"Hereidsvegen 2A, Eidfjord",60.468297,7.073252
+2046712,"Hereidsvegen 2E, Eidfjord",60.468158,7.073277
+2046713,"Hereidsvegen 2D, Eidfjord",60.468093,7.073526
+2057619,"Blurnesvegen 5B, Eidfjord",60.476605,7.080391
+2058664,"Hereidsvegen 85, Eidfjord",60.460527,7.101811
+2076238,"Lægreidsvegen 4, Eidfjord",60.465412,7.068732
+2077999,"Brotkanten 8, Eidfjord",60.464884,7.068623
+2078000,"Brotkanten 10, Eidfjord",60.464931,7.068582
+2078046,"Brotkanten 18, Eidfjord",60.465085,7.068202
+2078047,"Brotkanten 13, Eidfjord",60.464628,7.067391
+2078048,"Brotkanten 12, Eidfjord",60.46499,7.06855
+2078049,"Brotkanten 14, Eidfjord",60.465047,7.068508
+2079673,"Simadalsvegen 12C, Eidfjord",60.467072,7.070734
+2091696,"Gamlenaustvegen 34G, Eidfjord",60.463205,7.067606
+2094667,"Eidfjordvegen 455, Eidfjord",60.471159,6.908084
+2103674,"Gamlenaustvegen 39, Eidfjord",60.462762,7.065588
+2103675,"Gamlenaustvegen 41, Eidfjord",60.462634,7.065843
+2103677,"Gamlenaustvegen 35, Eidfjord",60.463036,7.065323
+2103678,"Gamlenaustvegen 37, Eidfjord",60.46282,7.065489
+2108845,"Gamlenaustvegen 33B, Eidfjord",60.46343,7.065743
+2117606,"Gamlenaustvegen 31, Eidfjord",60.462405,7.06536
+2166657,"Evjevegen 7, Eidfjord",60.463643,7.068206
+2186987,"Eidfjordvegen 214B, Eidfjord",60.456988,7.085901
+2187121,"Eidfjordvegen 214A, Eidfjord",60.456974,7.085716
+2187122,"Eidfjordvegen 214C, Eidfjord",60.457031,7.085927
+2367356,"Eidfjordvegen 451, Eidfjord",60.471655,6.913104
+2436913,"Smievegen 4, Eidfjord",60.469103,7.078555
+2436919,"Hereidsvegen 28, Eidfjord",60.469613,7.079307
+2436922,"Hereidsvegen 30, Eidfjord",60.469297,7.079163
+2436925,"Hereidsvegen 34A, Eidfjord",60.468761,7.079048
+2436928,"Smievegen 2, Eidfjord",60.470145,7.079104
+2437010,"Smievegen 10, Eidfjord",60.468451,7.076366
+2437011,"Smievegen 5, Eidfjord",60.468423,7.077336
+2437012,"Gamle Hereidsvegen 4, Eidfjord",60.468798,7.077323
+2437013,"Smievegen 7, Eidfjord",60.468234,7.076614
+2437565,"Smievegen 3B, Eidfjord",60.468596,7.078015
+2437570,"Smievegen 3A, Eidfjord",60.468556,7.077821
+2440032,"Hereidsvegen 34B, Eidfjord",60.468797,7.078809
+2466058,"Ytre Bu, Eidfjordvegen 574, Eidfjord",60.465269,6.834554
+2466059,"Ytre Bu, Eidfjordvegen 568, Eidfjord",60.467223,6.841519
+2466062,"Ytre Bu, Eidfjordvegen 578, Eidfjord",60.468896,6.830643
+2466063,"Ytre Bu, Eidfjordvegen 575, Eidfjord",60.469914,6.833517
+2466064,"Ytre Bu, Eidfjordvegen 569, Eidfjord",60.470964,6.834871
+2466065,"Ytre Bu, Eidfjordvegen 577, Eidfjord",60.47018,6.83262
+2466066,"Ytre Bu, Eidfjordvegen 572, Eidfjord",60.466318,6.837213
+2466067,"Ytre Bu, Eidfjordvegen 576, Eidfjord",60.468004,6.831534
+2466068,"Ytre Bu, Eidfjordvegen 558, Eidfjord",60.468548,6.841795
+2466069,"Ytre Bu, Eidfjordvegen 573, Eidfjord",60.469936,6.834148
+2466070,"Ytre Bu, Eidfjordvegen 570, Eidfjord",60.466522,6.839783
+2468932,"Lægreidsvegen 38, Eidfjord",60.461309,7.070083
+2469038,"Lægreidsvegen 32B, Eidfjord",60.46213,7.070033
+2475851,"Hereidsvegen 32, Eidfjord",60.468966,7.079097
+2491648,"Hereidsvegen 67, Eidfjord",60.465721,7.088652
+2493278,"Eikehaugen, Eidfjordvegen 511, Eidfjord",60.469871,6.868178

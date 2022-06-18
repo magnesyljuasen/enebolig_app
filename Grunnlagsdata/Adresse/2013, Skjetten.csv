@@ -1,0 +1,2519 @@
+,Navn,Long,Lat
+347,"36/3, Nittedal",59.991184,10.952673
+66668,"Lahaugmoveien 7, Nittedal",59.980527,10.965213
+66669,"Lahaugmoveien 9, Nittedal",59.980276,10.965411
+71438,"Trondheimsveien 7, Nittedal",59.983173,10.964085
+71441,"Trondheimsveien 9, Nittedal",59.983024,10.963879
+556814,"Gjelleråsen 80, Strømmen",59.970081,10.950552
+556815,"Gjelleråsen 90, Strømmen",59.969004,10.951671
+556816,"Gjelleråsen 50, Strømmen",59.973285,10.945221
+556832,"Fletstein, Trondheimsveien 10A, Strømmen",59.97876,10.970107
+556833,"Trondheimsveien 12C, Strømmen",59.979448,10.97175
+557053,"Alingsåsveien 45, Strømmen",59.971689,10.998524
+557054,"Alingsåsveien 43, Strømmen",59.971539,10.998336
+557055,"Alingsåsveien 41, Strømmen",59.971389,10.998184
+557056,"Alingsåsveien 39, Strømmen",59.971248,10.998032
+557057,"Alingsåsveien 37, Strømmen",59.971025,10.997911
+557058,"Alingsåsveien 35, Strømmen",59.970883,10.997795
+557059,"Alingsåsveien 33, Strømmen",59.97061,10.998047
+557060,"Alingsåsveien 31, Strømmen",59.970477,10.997914
+557061,"Alingsåsveien 29, Strømmen",59.970307,10.997832
+557062,"Alingsåsveien 27, Strømmen",59.970166,10.99768
+557063,"Alingsåsveien 25, Strømmen",59.969998,10.997491
+557064,"Alingsåsveien 23, Strømmen",59.969504,10.998088
+557065,"Alingsåsveien 21, Strømmen",59.96982,10.997373
+557066,"Alingsåsveien 19, Strømmen",59.969653,10.997147
+557067,"Alingsåsveien 17, Strømmen",59.969485,10.997012
+557068,"Alingsåsveien 15, Strømmen",59.96955,10.996245
+557069,"Alingsåsveien 13, Strømmen",59.969418,10.996094
+557070,"Alingsåsveien 11, Strømmen",59.969248,10.996048
+557071,"Alingsåsveien 9, Strømmen",59.969097,10.995896
+557072,"Alingsåsveien 7, Strømmen",59.969279,10.996946
+557073,"Alingsåsveien 5, Strømmen",59.969129,10.996793
+557074,"Alingsåsveien 3, Strømmen",59.96897,10.996587
+557075,"Alingsåsveien 1, Strømmen",59.968846,10.996454
+557126,"Aasmund Vinjes vei 21, Strømmen",59.960565,10.989883
+557127,"Aasmund Vinjes vei 19, Strømmen",59.960186,10.990631
+557128,"Aasmund Vinjes vei 18, Strømmen",59.960372,10.991358
+557129,"Aasmund Vinjes vei 17, Strømmen",59.960135,10.991004
+557130,"Aasmund Vinjes vei 13, Strømmen",59.959584,10.992386
+557131,"Aasmund Vinjes vei 12, Strømmen",59.959624,10.993355
+557132,"Aasmund Vinjes vei 11B, Strømmen",59.95939,10.992786
+557133,"Aasmund Vinjes vei 11A, Strømmen",59.959333,10.992998
+557134,"Aasmund Vinjes vei 10, Strømmen",59.959466,10.993686
+557135,"Aasmund Vinjes vei 9B, Strømmen",59.95923,10.993242
+557136,"Aasmund Vinjes vei 9A, Strømmen",59.959192,10.993383
+557137,"Aasmund Vinjes vei 8, Strømmen",59.959335,10.994001
+557482,"Breidablikkveien 12B, Strømmen",59.964476,10.996191
+557483,"Breidablikkveien 12A, Strømmen",59.964387,10.99615
+557567,"Døliveien 7, Strømmen",59.961585,11.005618
+557568,"Døliveien 5A, Strømmen",59.96136,11.005541
+557569,"Døliveien 1, Strømmen",59.961172,11.005593
+557610,"Breidablikkveien 11, Strømmen",59.96436,10.995575
+557611,"Breidablikkveien 10, Strømmen",59.964156,10.995957
+557612,"Breidablikkveien 9, Strømmen",59.964137,10.995436
+557613,"Breidablikkveien 8, Strømmen",59.963906,10.995852
+557614,"Breidablikkveien 7, Strømmen",59.963914,10.995369
+557615,"Breidablikkveien 6, Strømmen",59.963673,10.995802
+557616,"Breidablikkveien 5, Strømmen",59.96369,10.995302
+557617,"Breidablikkveien 4, Strømmen",59.963414,10.995733
+557618,"Breidablikkveien 3, Strømmen",59.963422,10.995214
+557619,"Breidablikkveien 2, Strømmen",59.963235,10.995704
+557620,"Breidablikkveien 1, Strømmen",59.963063,10.995156
+557727,"Bråteveien 209, Strømmen",59.975706,10.97271
+557728,"Bråteveien 187, Strømmen",59.974931,10.973488
+557729,"Bråteveien 175, Strømmen",59.970685,10.97931
+557730,"Bråteveien 167, Strømmen",59.970772,10.980103
+557731,"Bråteveien 141, Strømmen",59.966088,10.993565
+557732,"Bråteveien 140, Strømmen",59.966378,10.995123
+557733,"Bråteveien 138A, Strømmen",59.966119,10.995222
+557734,"Bråteveien 136, Strømmen",59.96596,10.994901
+557735,"Bråteveien 135, Strømmen",59.965251,10.994213
+557736,"Bråteveien 117, Strømmen",59.962509,10.994407
+557737,"Bråteveien 115, Strømmen",59.962239,10.994426
+557738,"Bråteveien 113, Strømmen",59.962033,10.994396
+557739,"Bråteveien 111, Strømmen",59.9618,10.994346
+557740,"Bråteveien 109, Strømmen",59.961585,10.994297
+557741,"Bråteveien 107, Strømmen",59.961388,10.994267
+557742,"Bråteveien 105B, Strømmen",59.961161,10.993878
+557743,"Bråteveien 105A, Strømmen",59.961201,10.994202
+557744,"Bråteveien 101, Strømmen",59.960698,10.99419
+557745,"Bråteveien 93, Strømmen",59.957557,10.994592
+557746,"Bråteveien 91B, Strømmen",59.957537,10.994143
+557747,"Bråteveien 91A, Strømmen",59.957375,10.994187
+557748,"Bråteveien 89B, Strømmen",59.957108,10.994028
+557749,"Bråteveien 89A, Strømmen",59.957174,10.99439
+557913,"Fredheimveien 2, Strømmen",59.960704,10.999743
+558383,"Fredheimveien 20, Strømmen",59.95964,11.002939
+558384,"Fredheimveien 18, Strømmen",59.959718,11.002568
+558385,"Fredheimveien 16, Strømmen",59.959741,11.002211
+558386,"Fredheimveien 14, Strømmen",59.959783,11.001837
+558387,"Fredheimveien 12, Strømmen",59.959852,11.00143
+558388,"Fredheimveien 11A, Strømmen",59.960026,11.002998
+558389,"Fredheimveien 10, Strømmen",59.959903,11.001003
+558390,"Fredheimveien 9, Strømmen",59.959996,11.002549
+558391,"Fredheimveien 7, Strømmen",59.960048,11.002122
+558392,"Fredheimveien 5, Strømmen",59.960091,11.001641
+558412,"Glostrupveien 56, Strømmen",59.967871,10.995607
+558413,"Glostrupveien 55, Strømmen",59.967085,10.997082
+558414,"Glostrupveien 54, Strømmen",59.967834,10.995694
+558415,"Glostrupveien 53, Strømmen",59.967113,10.997012
+558416,"Glostrupveien 52, Strømmen",59.967805,10.9958
+558417,"Glostrupveien 51, Strømmen",59.967142,10.996925
+558418,"Glostrupveien 50, Strømmen",59.967777,10.995888
+558419,"Glostrupveien 49, Strømmen",59.967161,10.996818
+558420,"Glostrupveien 47, Strømmen",59.967208,10.996696
+558421,"Glostrupveien 46, Strømmen",59.968006,10.996188
+558422,"Glostrupveien 45, Strømmen",59.967236,10.99659
+558423,"Glostrupveien 44, Strømmen",59.968034,10.996118
+558424,"Glostrupveien 43, Strømmen",59.967265,10.996502
+558425,"Glostrupveien 42, Strømmen",59.968062,10.99603
+558426,"Glostrupveien 40, Strømmen",59.968082,10.995942
+558427,"Glostrupveien 37, Strømmen",59.967116,10.998034
+558428,"Glostrupveien 36, Strømmen",59.968204,10.995573
+558429,"Glostrupveien 35, Strømmen",59.967153,10.997929
+558430,"Glostrupveien 34, Strømmen",59.968223,10.995467
+558431,"Glostrupveien 33, Strømmen",59.967182,10.997823
+558432,"Glostrupveien 32, Strømmen",59.968261,10.995362
+558433,"Glostrupveien 31, Strømmen",59.96721,10.997735
+558434,"Glostrupveien 30, Strømmen",59.968289,10.995274
+558435,"Glostrupveien 29, Strømmen",59.967239,10.997629
+558436,"Glostrupveien 28, Strømmen",59.968318,10.995168
+558437,"Glostrupveien 27, Strømmen",59.967276,10.997542
+558438,"Glostrupveien 26, Strømmen",59.968346,10.995098
+558439,"Glostrupveien 25, Strømmen",59.967304,10.997436
+558440,"Glostrupveien 23, Strømmen",59.967333,10.997348
+558441,"Glostrupveien 22, Strømmen",59.968507,10.995699
+558442,"Glostrupveien 20, Strømmen",59.96847,10.995786
+558443,"Glostrupveien 19, Strømmen",59.967409,10.99703
+558444,"Glostrupveien 18, Strømmen",59.968451,10.995875
+558445,"Glostrupveien 17, Strømmen",59.967438,10.996942
+558446,"Glostrupveien 16, Strømmen",59.968413,10.995998
+558447,"Glostrupveien 15, Strømmen",59.967457,10.996854
+558448,"Glostrupveien 14, Strømmen",59.968385,10.996086
+558449,"Glostrupveien 13, Strømmen",59.967485,10.996766
+558450,"Glostrupveien 12, Strømmen",59.968365,10.996174
+558451,"Glostrupveien 10, Strømmen",59.968328,10.996279
+558452,"Glostrupveien 9, Strømmen",59.967694,10.997209
+558453,"Glostrupveien 8, Strømmen",59.9683,10.996367
+558454,"Glostrupveien 7, Strømmen",59.9678,10.997358
+558455,"Glostrupveien 6, Strømmen",59.968271,10.996473
+558456,"Glostrupveien 5, Strømmen",59.967827,10.997933
+558457,"Glostrupveien 4, Strømmen",59.968252,10.996579
+558458,"Glostrupveien 3, Strømmen",59.967733,10.998214
+558459,"Glostrupveien 1, Strømmen",59.967665,10.998515
+558500,"Granneveien 30, Strømmen",59.973919,11.002471
+558501,"Granneveien 19, Strømmen",59.974318,11.001084
+558502,"Granneveien 17, Strømmen",59.973914,11.000504
+558503,"Granneveien 15, Strømmen",59.973793,11.000766
+558504,"Granneveien 14, Strømmen",59.973266,11.000573
+558505,"Granneveien 13, Strømmen",59.973712,11.000205
+558506,"Granneveien 12, Strømmen",59.973187,11.000425
+558507,"Granneveien 11, Strømmen",59.973601,11.000378
+558508,"Granneveien 10, Strømmen",59.973037,11.000236
+558509,"Granneveien 9, Strømmen",59.97358,10.999982
+558510,"Granneveien 8, Strømmen",59.972936,10.999836
+558511,"Granneveien 6, Strømmen",59.972816,10.99947
+558512,"Granneveien 5, Strømmen",59.97333,10.999286
+558513,"Granneveien 4, Strømmen",59.97267,10.998996
+558514,"Granneveien 3, Strømmen",59.973183,10.998955
+558515,"Granneveien 1, Strømmen",59.973015,10.998783
+558530,"Glostrupveien 148, Strømmen",59.966705,10.994928
+558531,"Glostrupveien 146, Strømmen",59.966724,10.994821
+558532,"Glostrupveien 144, Strømmen",59.966753,10.994733
+558533,"Glostrupveien 142, Strømmen",59.966799,10.994629
+558534,"Glostrupveien 140, Strømmen",59.966828,10.994523
+558535,"Glostrupveien 138, Strømmen",59.966856,10.994399
+558536,"Glostrupveien 136, Strømmen",59.966876,10.994293
+558537,"Glostrupveien 134, Strømmen",59.966904,10.994205
+558538,"Glostrupveien 130, Strømmen",59.967256,10.994137
+558539,"Glostrupveien 128, Strømmen",59.967236,10.994243
+558540,"Glostrupveien 127, Strømmen",59.966411,10.995913
+558541,"Glostrupveien 126, Strømmen",59.967216,10.994349
+558542,"Glostrupveien 125, Strømmen",59.966374,10.995983
+558543,"Glostrupveien 124, Strømmen",59.967179,10.994472
+558544,"Glostrupveien 123, Strømmen",59.966355,10.996089
+558545,"Glostrupveien 122, Strømmen",59.967141,10.994578
+558546,"Glostrupveien 121, Strømmen",59.966344,10.996196
+558547,"Glostrupveien 120, Strømmen",59.967113,10.994665
+558548,"Glostrupveien 118, Strømmen",59.967075,10.994771
+558549,"Glostrupveien 116, Strømmen",59.967065,10.994878
+558550,"Glostrupveien 115, Strømmen",59.966582,10.996497
+558551,"Glostrupveien 113, Strømmen",59.96662,10.996392
+558552,"Glostrupveien 112, Strømmen",59.967312,10.995125
+558553,"Glostrupveien 111, Strømmen",59.966648,10.996286
+558554,"Glostrupveien 110, Strømmen",59.96735,10.995038
+558555,"Glostrupveien 109, Strømmen",59.966676,10.996198
+558556,"Glostrupveien 108, Strømmen",59.967369,10.994932
+558557,"Glostrupveien 107, Strømmen",59.966705,10.99611
+558558,"Glostrupveien 106, Strømmen",59.967398,10.994844
+558559,"Glostrupveien 105, Strømmen",59.966733,10.996004
+558560,"Glostrupveien 104, Strømmen",59.967435,10.994739
+558561,"Glostrupveien 103, Strømmen",59.966762,10.995916
+558562,"Glostrupveien 102, Strømmen",59.967464,10.994633
+558563,"Glostrupveien 101, Strømmen",59.96679,10.995793
+558564,"Glostrupveien 100, Strømmen",59.967492,10.994563
+558565,"Glostrupveien 99, Strømmen",59.966819,10.995705
+558566,"Glostrupveien 98, Strømmen",59.96752,10.994475
+558567,"Glostrupveien 97, Strømmen",59.966847,10.995617
+558568,"Glostrupveien 95, Strømmen",59.967076,10.995882
+558569,"Glostrupveien 94, Strømmen",59.967777,10.994687
+558570,"Glostrupveien 93, Strømmen",59.967048,10.995987
+558571,"Glostrupveien 92, Strømmen",59.967749,10.994775
+558572,"Glostrupveien 91, Strømmen",59.96702,10.996075
+558573,"Glostrupveien 90, Strømmen",59.967711,10.994881
+558574,"Glostrupveien 89, Strømmen",59.966991,10.996181
+558575,"Glostrupveien 88, Strømmen",59.967701,10.994987
+558576,"Glostrupveien 87, Strømmen",59.966963,10.996269
+558577,"Glostrupveien 85, Strømmen",59.966934,10.996375
+558578,"Glostrupveien 84, Strømmen",59.967597,10.995286
+558579,"Glostrupveien 82, Strømmen",59.967569,10.995374
+558580,"Glostrupveien 81, Strømmen",59.96684,10.996674
+558581,"Glostrupveien 80, Strømmen",59.967541,10.995479
+558582,"Glostrupveien 79, Strømmen",59.966811,10.996797
+558583,"Glostrupveien 78, Strømmen",59.96753,10.995604
+558584,"Glostrupveien 77, Strømmen",59.966783,10.996885
+558585,"Glostrupveien 75, Strømmen",59.966772,10.996992
+558586,"Glostrupveien 72, Strømmen",59.968081,10.994777
+558587,"Glostrupveien 70, Strømmen",59.968053,10.994883
+558588,"Glostrupveien 68, Strømmen",59.968033,10.99499
+558589,"Glostrupveien 66, Strømmen",59.968005,10.995095
+558590,"Glostrupveien 65, Strømmen",59.966943,10.997558
+558591,"Glostrupveien 64, Strømmen",59.967976,10.995201
+558592,"Glostrupveien 63, Strømmen",59.966962,10.997487
+558593,"Glostrupveien 62, Strømmen",59.967948,10.995289
+558594,"Glostrupveien 61, Strømmen",59.967,10.997382
+558595,"Glostrupveien 60, Strømmen",59.967928,10.995395
+558596,"Glostrupveien 59, Strømmen",59.967028,10.997294
+558597,"Glostrupveien 58, Strømmen",59.9679,10.995483
+558598,"Glostrupveien 57, Strømmen",59.967057,10.997188
+558879,"Hvamstubben 12, Strømmen",59.979701,11.000925
+558880,"Hvamstubben 11, Strømmen",59.979278,10.999753
+558881,"Hvamstubben 10, Strømmen",59.979584,11.001545
+558882,"Hvamstubben 8, Strømmen",59.979642,11.00361
+559098,"Hellaveien 64, Strømmen",59.954092,10.983137
+559099,"Hellaveien 62C, Strømmen",59.954278,10.983292
+559100,"Hellaveien 62B, Strømmen",59.954454,10.983571
+559101,"Hellaveien 62A, Strømmen",59.954464,10.9835
+559102,"Hellaveien 54, Strømmen",59.955006,10.984464
+559103,"Hellaveien 50, Strømmen",59.955405,10.984792
+559104,"Hellaveien 48B, Strømmen",59.955627,10.984966
+559105,"Hellaveien 48A, Strømmen",59.955681,10.985005
+559106,"Hellaveien 47, Strømmen",59.955801,10.98598
+559107,"Hellaveien 43C, Strømmen",59.956068,10.986139
+559108,"Hellaveien 43B, Strømmen",59.955975,10.986904
+559109,"Hellaveien 43A, Strømmen",59.956,10.986457
+559110,"Hellaveien 42, Strømmen",59.957283,10.987734
+559111,"Hellaveien 41, Strømmen",59.956259,10.986562
+559112,"Hellaveien 40, Strømmen",59.957695,10.987813
+559113,"Hellaveien 39E, Strømmen",59.956353,10.986908
+559114,"Hellaveien 39D, Strømmen",59.956115,10.987198
+559115,"Hellaveien 39C, Strømmen",59.956155,10.987505
+559116,"Hellaveien 39B, Strømmen",59.956213,10.987831
+559117,"Hellaveien 38, Strømmen",59.957471,10.98839
+559118,"Hellaveien 37H, Strømmen",59.956335,10.988129
+559119,"Hellaveien 37F, Strømmen",59.956408,10.988878
+559120,"Hellaveien 37C, Strømmen",59.956582,10.988373
+559121,"Hellaveien 37A, Strømmen",59.956586,10.98773
+559122,"Hellaveien 36, Strømmen",59.957556,10.988736
+559123,"Hellaveien 35B, Strømmen",59.956586,10.987232
+559124,"Hellaveien 34, Strømmen",59.95755,10.989129
+559125,"Hellaveien 32B, Strømmen",59.957616,10.989527
+559126,"Hellaveien 32A, Strømmen",59.957516,10.989611
+559127,"Hellaveien 31C, Strømmen",59.957174,10.989053
+559128,"Hellaveien 31B, Strømmen",59.95718,10.989232
+559129,"Hellaveien 31A, Strømmen",59.957194,10.989484
+559130,"Hellaveien 30, Strømmen",59.957579,10.990134
+559131,"Hellaveien 29I, Strømmen",59.956995,10.990188
+559132,"Hellaveien 29H, Strømmen",59.957017,10.990494
+559133,"Hellaveien 29G, Strømmen",59.957039,10.990818
+559134,"Hellaveien 29F, Strømmen",59.95707,10.99116
+559135,"Hellaveien 29E, Strømmen",59.957212,10.990076
+559136,"Hellaveien 29D, Strømmen",59.957243,10.9904
+559137,"Hellaveien 29C, Strømmen",59.957265,10.990724
+559138,"Hellaveien 29B, Strømmen",59.957324,10.990978
+559139,"Hellaveien 29A, Strømmen",59.957391,10.991341
+559140,"Hellaveien 28, Strømmen",59.957682,10.99048
+559192,"Guldhaugveien 5, Strømmen",59.955274,10.98396
+559193,"Guldhaugveien 3A, Strømmen",59.95544,10.984293
+559194,"Guldhaugveien 1B, Strømmen",59.955761,10.984455
+559195,"Guldhaugveien 1A, Strømmen",59.955888,10.984373
+559209,"Hellaveien 26, Strømmen",59.957798,10.991114
+559210,"Hellaveien 25B, Strømmen",59.957248,10.993678
+559211,"Hellaveien 25, Strømmen",59.957281,10.993268
+559212,"Hellaveien 24B, Strømmen",59.957946,10.99141
+559213,"Hellaveien 24, Strømmen",59.957863,10.991566
+559214,"Hellaveien 23, Strømmen",59.957264,10.992587
+559215,"Hellaveien 21B, Strømmen",59.957333,10.992197
+559216,"Hellaveien 21A, Strømmen",59.957354,10.991983
+559217,"Hellaveien 19, Strømmen",59.957574,10.992265
+559218,"Hellaveien 18B, Strømmen",59.958841,10.992861
+559219,"Hellaveien 17B, Strømmen",59.95754,10.992782
+559220,"Hellaveien 17A, Strømmen",59.957715,10.992471
+559221,"Hellaveien 15, Strømmen",59.957918,10.992698
+559222,"Hellaveien 13B, Strømmen",59.957777,10.993083
+559223,"Hellaveien 12, Strømmen",59.959278,10.991755
+559224,"Hellaveien 10, Strømmen",59.959302,10.99227
+559225,"Hellaveien 6, Strømmen",59.959044,10.993643
+559226,"Hellaveien 4, Strømmen",59.959572,10.994373
+559227,"Hellaveien 3, Strømmen",59.959015,10.994967
+559351,"Hvamveien 6, Strømmen",59.977089,10.996036
+559352,"Hvamveien 4, Strømmen",59.977782,10.998318
+559353,"Hvamveien 2, Strømmen",59.977767,10.999894
+559354,"Hvamveien 1, Strømmen",59.97712,11.000501
+559355,"Hvamstubben 20, Strømmen",59.98018,10.997728
+559356,"Hvamstubben 17, Strømmen",59.979589,10.997011
+559357,"Hvamstubben 15, Strømmen",59.979439,10.998651
+559358,"Hvamstubben 14, Strømmen",59.98042,11.001488
+559359,"Karisveien 112, Strømmen",59.965375,11.003841
+559360,"Karisveien 111, Strømmen",59.965072,11.006026
+559361,"Karisveien 110, Strømmen",59.965438,11.003809
+559362,"Karisveien 109, Strømmen",59.965127,11.005994
+559363,"Karisveien 108, Strømmen",59.965502,11.003777
+559364,"Karisveien 107, Strømmen",59.96519,11.005962
+559365,"Karisveien 106, Strømmen",59.965565,11.003745
+559366,"Karisveien 105, Strømmen",59.965236,11.005929
+559367,"Karisveien 104, Strømmen",59.965619,11.00373
+559368,"Karisveien 101, Strømmen",59.964774,11.005542
+559369,"Karisveien 100, Strømmen",59.965588,11.00165
+559370,"Karisveien 99, Strømmen",59.964829,11.00551
+559371,"Karisveien 98, Strømmen",59.965604,11.001741
+559372,"Karisveien 97, Strømmen",59.964883,11.005477
+559373,"Karisveien 96, Strømmen",59.96562,11.001885
+559374,"Karisveien 95, Strømmen",59.964946,11.005463
+559375,"Karisveien 94, Strømmen",59.965636,11.002029
+559376,"Karisveien 93, Strømmen",59.965001,11.005413
+559377,"Karisveien 92, Strømmen",59.965652,11.002138
+559378,"Karisveien 91, Strømmen",59.965064,11.005381
+559379,"Karisveien 90, Strømmen",59.96566,11.002246
+559380,"Karisveien 89, Strømmen",59.965109,11.005366
+559381,"Karisveien 88, Strømmen",59.965685,11.002355
+559382,"Karisveien 87, Strømmen",59.965154,11.00535
+559383,"Karisveien 86, Strømmen",59.965701,11.002481
+559384,"Karisveien 84, Strømmen",59.965708,11.002589
+559385,"Karisveien 83, Strømmen",59.965379,11.005937
+559386,"Karisveien 82, Strømmen",59.965716,11.002679
+559387,"Karisveien 81, Strømmen",59.965433,11.005905
+559388,"Karisveien 79, Strømmen",59.965488,11.005872
+559389,"Karisveien 78, Strømmen",59.965921,11.001599
+559390,"Karisveien 77, Strømmen",59.965551,11.005858
+559391,"Karisveien 76, Strømmen",59.965947,11.00169
+559392,"Karisveien 75, Strømmen",59.965605,11.005826
+559393,"Karisveien 74, Strømmen",59.965963,11.001798
+559394,"Karisveien 73, Strømmen",59.965669,11.005794
+559395,"Karisveien 72, Strømmen",59.965979,11.001925
+559396,"Karisveien 71, Strømmen",59.965723,11.005779
+559397,"Karisveien 70, Strømmen",59.965986,11.00205
+559398,"Karisveien 69, Strømmen",59.965759,11.005745
+559399,"Karisveien 68, Strømmen",59.966002,11.002159
+559400,"Karisveien 67, Strømmen",59.965823,11.005713
+559401,"Karisveien 66, Strømmen",59.966009,11.002285
+559402,"Karisveien 65, Strømmen",59.965868,11.005698
+559403,"Karisveien 64, Strømmen",59.966035,11.002394
+559404,"Karisveien 63, Strømmen",59.965307,11.005377
+559405,"Karisveien 61, Strømmen",59.965361,11.005327
+559406,"Karisveien 60, Strømmen",59.965665,11.00307
+559407,"Karisveien 59, Strømmen",59.965416,11.005312
+559408,"Karisveien 58, Strømmen",59.965711,11.003019
+559409,"Karisveien 57, Strømmen",59.96547,11.005262
+559410,"Karisveien 56, Strømmen",59.965765,11.003005
+559411,"Karisveien 55, Strømmen",59.965524,11.005247
+559412,"Karisveien 54, Strømmen",59.965819,11.002972
+559413,"Karisveien 53, Strømmen",59.965588,11.005215
+559414,"Karisveien 51, Strømmen",59.965642,11.005183
+559415,"Karisveien 50, Strømmen",59.965991,11.002893
+559416,"Karisveien 49, Strømmen",59.965696,11.00515
+559417,"Karisveien 48, Strømmen",59.966045,11.002878
+559418,"Karisveien 47, Strømmen",59.965751,11.005118
+559419,"Karisveien 46, Strømmen",59.9661,11.002828
+559420,"Karisveien 45, Strømmen",59.965796,11.005103
+559421,"Karisveien 44, Strømmen",59.966154,11.002795
+559422,"Karisveien 42, Strømmen",59.965737,11.003666
+559423,"Karisveien 40, Strømmen",59.965782,11.003651
+559424,"Karisveien 39, Strømmen",59.966104,11.005533
+559425,"Karisveien 38, Strømmen",59.965836,11.003618
+559426,"Karisveien 37, Strømmen",59.966158,11.005519
+559427,"Karisveien 36, Strømmen",59.965891,11.003585
+559428,"Karisveien 35, Strømmen",59.966212,11.005486
+559429,"Karisveien 34, Strømmen",59.965954,11.003553
+559430,"Karisveien 33, Strømmen",59.966266,11.005471
+559431,"Karisveien 32, Strømmen",59.966008,11.003539
+559432,"Karisveien 31, Strømmen",59.966339,11.00544
+559433,"Karisveien 30, Strømmen",59.966063,11.00347
+559434,"Karisveien 29, Strømmen",59.966393,11.005389
+559435,"Karisveien 28, Strømmen",59.966127,11.003438
+559436,"Karisveien 27, Strømmen",59.966448,11.005357
+559437,"Karisveien 26, Strømmen",59.966181,11.003424
+559438,"Karisveien 25, Strømmen",59.966502,11.005342
+559439,"Karisveien 24, Strømmen",59.966235,11.003373
+559440,"Karisveien 21, Strømmen",59.965913,11.005074
+559441,"Karisveien 19, Strømmen",59.965977,11.005042
+559442,"Karisveien 18, Strømmen",59.966056,11.000258
+559443,"Karisveien 17, Strømmen",59.966031,11.004991
+559444,"Karisveien 16, Strømmen",59.966294,11.001872
+559445,"Karisveien 15, Strømmen",59.966085,11.004977
+559446,"Karisveien 14, Strømmen",59.966564,11.002999
+559447,"Karisveien 13, Strømmen",59.96614,11.004944
+559448,"Karisveien 12, Strømmen",59.966405,11.002273
+559449,"Karisveien 11, Strømmen",59.966194,11.004912
+559450,"Karisveien 10C, Strømmen",59.966752,11.002509
+559451,"Karisveien 10B, Strømmen",59.966677,11.002092
+559452,"Karisveien 10A, Strømmen",59.966564,11.001817
+559453,"Karisveien 9, Strømmen",59.966248,11.004879
+559454,"Karisveien 7, Strømmen",59.966312,11.004865
+559455,"Karisveien 6, Strømmen",59.967087,11.002887
+559456,"Karisveien 5, Strømmen",59.966366,11.00485
+559457,"Karisveien 4B, Strømmen",59.966645,11.003613
+559458,"Karisveien 4, Strømmen",59.966811,11.003319
+559459,"Karisveien 3, Strømmen",59.96642,11.0048
+559460,"Karisveien 2, Strømmen",59.967062,11.00337
+559461,"Karisveien 1B, Strømmen",59.966853,11.004109
+559462,"Karisveien 1A, Strømmen",59.96658,11.004308
+559468,"Karisveien 234, Strømmen",59.964689,11.002277
+559469,"Karisveien 232, Strømmen",59.964697,11.002367
+559470,"Karisveien 231, Strømmen",59.963573,11.007154
+559471,"Karisveien 230, Strømmen",59.964713,11.002493
+559472,"Karisveien 229, Strømmen",59.963619,11.007103
+559473,"Karisveien 228, Strømmen",59.964729,11.00262
+559474,"Karisveien 227, Strømmen",59.963664,11.007088
+559475,"Karisveien 226, Strømmen",59.964754,11.002746
+559476,"Karisveien 225, Strømmen",59.963718,11.007073
+559477,"Karisveien 224, Strømmen",59.96478,11.002802
+559478,"Karisveien 223, Strømmen",59.963764,11.00704
+559479,"Karisveien 222, Strømmen",59.964778,11.002945
+559480,"Karisveien 221, Strømmen",59.963827,11.007026
+559481,"Karisveien 220, Strømmen",59.964794,11.003053
+559482,"Karisveien 219, Strømmen",59.963881,11.006993
+559483,"Karisveien 218, Strømmen",59.964802,11.003143
+559484,"Karisveien 217, Strømmen",59.963954,11.006944
+559485,"Karisveien 215, Strømmen",59.964017,11.006912
+559486,"Karisveien 214, Strømmen",59.964515,11.003681
+559487,"Karisveien 213, Strømmen",59.964071,11.006879
+559488,"Karisveien 212, Strømmen",59.96457,11.003649
+559489,"Karisveien 211, Strømmen",59.964126,11.006847
+559490,"Karisveien 210, Strømmen",59.964624,11.003616
+559491,"Karisveien 209, Strømmen",59.96418,11.006814
+559492,"Karisveien 208, Strømmen",59.964688,11.003567
+559493,"Karisveien 206, Strømmen",59.964751,11.003535
+559494,"Karisveien 205, Strømmen",59.963492,11.006576
+559495,"Karisveien 204, Strømmen",59.964805,11.00352
+559496,"Karisveien 203, Strømmen",59.963537,11.00656
+559497,"Karisveien 202, Strømmen",59.964868,11.003488
+559498,"Karisveien 201, Strømmen",59.963592,11.00651
+559499,"Karisveien 200, Strømmen",59.964923,11.003455
+559500,"Karisveien 199, Strømmen",59.963655,11.006496
+559501,"Karisveien 197, Strømmen",59.963709,11.006463
+559502,"Karisveien 196, Strømmen",59.964595,11.004313
+559503,"Karisveien 195, Strømmen",59.963764,11.006431
+559504,"Karisveien 194, Strømmen",59.964578,11.004276
+559505,"Karisveien 192, Strømmen",59.964651,11.004227
+559506,"Karisveien 191, Strømmen",59.963936,11.006352
+559507,"Karisveien 190, Strømmen",59.964714,11.004195
+559508,"Karisveien 189, Strømmen",59.96399,11.006319
+559509,"Karisveien 188, Strømmen",59.964777,11.004163
+559510,"Karisveien 187, Strømmen",59.964044,11.006304
+559511,"Karisveien 186, Strømmen",59.964841,11.004131
+559512,"Karisveien 185, Strømmen",59.96409,11.006271
+559513,"Karisveien 184, Strømmen",59.964913,11.0041
+559514,"Karisveien 182, Strømmen",59.964976,11.004068
+559515,"Karisveien 181, Strømmen",59.963357,11.00603
+559516,"Karisveien 179, Strømmen",59.963411,11.006015
+559517,"Karisveien 178, Strømmen",59.964954,11.001988
+559518,"Karisveien 177, Strømmen",59.963474,11.005983
+559519,"Karisveien 176, Strømmen",59.964971,11.002079
+559520,"Karisveien 175, Strømmen",59.963538,11.005951
+559521,"Karisveien 174, Strømmen",59.964987,11.002187
+559522,"Karisveien 173, Strømmen",59.963601,11.005901
+559523,"Karisveien 172, Strømmen",59.965003,11.002296
+559524,"Karisveien 171, Strømmen",59.963656,11.005869
+559525,"Karisveien 170, Strømmen",59.965028,11.002423
+559526,"Karisveien 169, Strømmen",59.96371,11.005854
+559527,"Karisveien 168, Strømmen",59.965036,11.002531
+559528,"Karisveien 167, Strømmen",59.963746,11.005821
+559529,"Karisveien 166, Strømmen",59.965052,11.002657
+559530,"Karisveien 165, Strømmen",59.963801,11.005788
+559531,"Karisveien 164, Strømmen",59.965068,11.002783
+559532,"Karisveien 163, Strømmen",59.963864,11.005774
+559533,"Karisveien 162, Strømmen",59.965084,11.002892
+559534,"Karisveien 161, Strømmen",59.963918,11.005741
+559535,"Karisveien 160, Strømmen",59.965092,11.002982
+559536,"Karisveien 159, Strømmen",59.963972,11.005709
+559537,"Karisveien 158, Strømmen",59.965289,11.001793
+559538,"Karisveien 156, Strømmen",59.965305,11.00192
+559539,"Karisveien 155, Strømmen",59.964265,11.006551
+559540,"Karisveien 154, Strømmen",59.965321,11.002046
+559541,"Karisveien 153, Strømmen",59.964311,11.0065
+559542,"Karisveien 152, Strømmen",59.965337,11.00219
+559543,"Karisveien 151, Strømmen",59.964365,11.006485
+559544,"Karisveien 150, Strømmen",59.965345,11.00228
+559545,"Karisveien 149, Strømmen",59.964419,11.00647
+559546,"Karisveien 148, Strømmen",59.965361,11.002389
+559547,"Karisveien 147, Strømmen",59.964474,11.00642
+559548,"Karisveien 146, Strømmen",59.965369,11.002479
+559549,"Karisveien 145, Strømmen",59.964528,11.006387
+559550,"Karisveien 144, Strømmen",59.965385,11.002587
+559551,"Karisveien 143, Strømmen",59.964591,11.006355
+559552,"Karisveien 142, Strømmen",59.965392,11.002713
+559553,"Karisveien 141, Strømmen",59.964646,11.006323
+559554,"Karisveien 140, Strømmen",59.965417,11.002822
+559555,"Karisveien 139, Strømmen",59.964184,11.005955
+559556,"Karisveien 138, Strømmen",59.96504,11.003427
+559557,"Karisveien 137, Strømmen",59.964239,11.005922
+559558,"Karisveien 136, Strømmen",59.965094,11.003394
+559559,"Karisveien 135, Strømmen",59.964293,11.005889
+559560,"Karisveien 134, Strømmen",59.965158,11.003362
+559561,"Karisveien 133, Strømmen",59.964347,11.005857
+559562,"Karisveien 132, Strømmen",59.965203,11.003347
+559563,"Karisveien 131, Strømmen",59.964411,11.005825
+559564,"Karisveien 129, Strømmen",59.964465,11.005792
+559565,"Karisveien 128, Strømmen",59.965366,11.003267
+559566,"Karisveien 127, Strømmen",59.96452,11.00576
+559567,"Karisveien 126, Strømmen",59.96542,11.003235
+559568,"Karisveien 125, Strømmen",59.964574,11.005745
+559569,"Karisveien 124, Strømmen",59.965484,11.003203
+559570,"Karisveien 122, Strømmen",59.965538,11.00317
+559571,"Karisveien 119, Strømmen",59.964837,11.006137
+559572,"Karisveien 118, Strømmen",59.96523,11.003922
+559573,"Karisveien 117, Strømmen",59.964891,11.006123
+559574,"Karisveien 116, Strømmen",59.965266,11.003906
+559575,"Karisveien 115, Strømmen",59.964954,11.006109
+559576,"Karisveien 114, Strømmen",59.96532,11.003891
+559577,"Karisveien 113, Strømmen",59.965009,11.006058
+559603,"Ivar Aasens vei 23, Strømmen",59.96344,10.991023
+559604,"Ivar Aasens vei 22B, Strømmen",59.962642,10.992157
+559605,"Ivar Aasens vei 21B, Strømmen",59.963378,10.990983
+559606,"Ivar Aasens vei 21A, Strømmen",59.9631,10.990967
+559607,"Ivar Aasens vei 20, Strømmen",59.962394,10.991892
+559608,"Ivar Aasens vei 19B, Strømmen",59.96293,10.990921
+559609,"Ivar Aasens vei 17, Strømmen",59.962679,10.99087
+559610,"Ivar Aasens vei 16, Strømmen",59.962329,10.991458
+559611,"Ivar Aasens vei 15B, Strømmen",59.962438,10.990802
+559612,"Ivar Aasens vei 15A, Strømmen",59.962375,10.990762
+559613,"Ivar Aasens vei 13, Strømmen",59.962179,10.990661
+559614,"Ivar Aasens vei 12, Strømmen",59.961883,10.991234
+559615,"Ivar Aasens vei 11B, Strømmen",59.962024,10.990239
+559616,"Ivar Aasens vei 11, Strømmen",59.961947,10.990575
+559617,"Ivar Aasens vei 10, Strømmen",59.961678,10.991114
+559618,"Ivar Aasens vei 9, Strømmen",59.961716,10.990436
+559619,"Ivar Aasens vei 8A, Strømmen",59.961502,10.990907
+559620,"Ivar Aasens vei 7B, Strømmen",59.9615,10.989868
+559621,"Ivar Aasens vei 7, Strømmen",59.961467,10.99026
+559622,"Ivar Aasens vei 6A, Strømmen",59.961343,10.9907
+559623,"Ivar Aasens vei 5, Strømmen",59.96123,10.989887
+559624,"Ivar Aasens vei 4B, Strømmen",59.961037,10.990771
+559625,"Ivar Aasens vei 3A, Strømmen",59.960904,10.989563
+559626,"Ivar Aasens vei 2B, Strømmen",59.960827,10.990365
+559627,"Ivar Aasens vei 2A, Strømmen",59.960902,10.990208
+559628,"Ivar Aasens vei 1B, Strømmen",59.96086,10.98879
+559629,"Ivar Aasens vei 1A, Strømmen",59.960698,10.989425
+559746,"Johan Svendsens vei 26, Strømmen",59.962414,10.998324
+559747,"Johan Svendsens vei 24, Strømmen",59.962596,10.998174
+559748,"Johan Svendsens vei 23, Strømmen",59.96234,10.999072
+559749,"Johan Svendsens vei 22, Strømmen",59.962769,10.998005
+559750,"Johan Svendsens vei 21B, Strømmen",59.96264,10.998821
+559751,"Johan Svendsens vei 21A, Strømmen",59.962623,10.998748
+559752,"Johan Svendsens vei 20, Strømmen",59.962961,10.997766
+559753,"Johan Svendsens vei 19, Strømmen",59.962904,10.99855
+559754,"Johan Svendsens vei 18, Strømmen",59.962753,10.997287
+559755,"Johan Svendsens vei 17B, Strømmen",59.963087,10.998382
+559756,"Johan Svendsens vei 17A, Strømmen",59.963196,10.998246
+559757,"Johan Svendsens vei 16, Strømmen",59.962526,10.997453
+559758,"Johan Svendsens vei 15, Strømmen",59.963347,10.997789
+559759,"Johan Svendsens vei 14, Strømmen",59.962314,10.997189
+559760,"Johan Svendsens vei 13, Strømmen",59.963219,10.997369
+559761,"Johan Svendsens vei 12, Strømmen",59.962499,10.99686
+559762,"Johan Svendsens vei 11, Strømmen",59.963044,10.997018
+559763,"Johan Svendsens vei 10, Strømmen",59.962342,10.99651
+559764,"Johan Svendsens vei 9, Strømmen",59.962878,10.99674
+559765,"Johan Svendsens vei 8, Strømmen",59.962231,10.996145
+559766,"Johan Svendsens vei 7, Strømmen",59.962694,10.996406
+559767,"Johan Svendsens vei 6, Strømmen",59.962101,10.995815
+559768,"Johan Svendsens vei 5, Strømmen",59.962513,10.995947
+559769,"Johan Svendsens vei 4, Strømmen",59.961974,10.995306
+559770,"Johan Svendsens vei 3, Strømmen",59.962385,10.99551
+559771,"Johan Svendsens vei 2, Strømmen",59.9619,10.994907
+559772,"Johan Svendsens vei 1, Strømmen",59.962184,10.995086
+559806,"Iver Holters vei 12, Strømmen",59.965838,10.996434
+559807,"Iver Holters vei 10, Strømmen",59.965706,10.996838
+559808,"Iver Holters vei 8, Strømmen",59.965487,10.996449
+559809,"Iver Holters vei 4, Strømmen",59.96499,10.996078
+559810,"Iver Holters vei 2, Strømmen",59.964768,10.995886
+559811,"Ivar Aasens vei 54, Strømmen",59.964082,10.991957
+559812,"Ivar Aasens vei 52, Strømmen",59.964028,10.991936
+559813,"Ivar Aasens vei 50, Strømmen",59.963975,10.991915
+559814,"Ivar Aasens vei 48, Strømmen",59.963939,10.991877
+559815,"Ivar Aasens vei 46, Strømmen",59.963788,10.991778
+559816,"Ivar Aasens vei 44, Strømmen",59.963744,10.99174
+559817,"Ivar Aasens vei 42, Strømmen",59.963691,10.991701
+559818,"Ivar Aasens vei 40, Strømmen",59.963664,10.991681
+559819,"Ivar Aasens vei 38, Strømmen",59.963486,10.991545
+559820,"Ivar Aasens vei 36, Strømmen",59.963307,10.991517
+559821,"Ivar Aasens vei 34, Strømmen",59.963101,10.991486
+559822,"Ivar Aasens vei 32, Strømmen",59.962921,10.991529
+559823,"Ivar Aasens vei 30, Strømmen",59.962669,10.991568
+559824,"Ivar Aasens vei 25A, Strømmen",59.963698,10.9912
+559825,"Ivar Aasens vei 24, Strømmen",59.962792,10.992346
+559826,"Karisveien 300, Strømmen",59.963855,11.003409
+559827,"Karisveien 298, Strømmen",59.963909,11.003358
+559828,"Karisveien 296, Strømmen",59.963973,11.003326
+559829,"Karisveien 294, Strømmen",59.964027,11.003294
+559830,"Karisveien 292, Strømmen",59.964081,11.003261
+559831,"Karisveien 290, Strømmen",59.964145,11.003247
+559832,"Karisveien 288, Strømmen",59.96419,11.003214
+559833,"Karisveien 286, Strømmen",59.964235,11.003199
+559834,"Karisveien 284, Strømmen",59.963927,11.003968
+559835,"Karisveien 282, Strømmen",59.963981,11.003936
+559836,"Karisveien 280, Strømmen",59.964045,11.003904
+559837,"Karisveien 278, Strømmen",59.964099,11.003871
+559838,"Karisveien 276, Strømmen",59.964153,11.003839
+559967,"Karisveien 274, Strømmen",59.964217,11.003825
+559968,"Karisveien 272, Strømmen",59.964271,11.00381
+559969,"Karisveien 270, Strømmen",59.964325,11.003778
+559970,"Karisveien 268, Strømmen",59.963999,11.004546
+559971,"Karisveien 266, Strømmen",59.964054,11.004496
+559972,"Karisveien 264, Strømmen",59.964117,11.004481
+559973,"Karisveien 262, Strømmen",59.964162,11.004448
+559974,"Karisveien 260, Strømmen",59.964216,11.004434
+559975,"Karisveien 258, Strømmen",59.964271,11.004401
+559976,"Karisveien 256, Strømmen",59.964316,11.004368
+559977,"Karisveien 254, Strømmen",59.964388,11.004337
+559978,"Karisveien 248, Strømmen",59.964458,11.002729
+559979,"Karisveien 246, Strømmen",59.964474,11.002855
+559980,"Karisveien 244, Strømmen",59.964481,11.002963
+559981,"Karisveien 242, Strømmen",59.964497,11.003071
+559982,"Karisveien 240, Strømmen",59.964522,11.003216
+559983,"Karisveien 238, Strømmen",59.96453,11.003306
+559984,"Landskronaveien 30, Strømmen",59.969662,10.992991
+559985,"Karisveien 236, Strømmen",59.964673,11.00215
+559986,"Landskronaveien 29, Strømmen",59.969879,10.991105
+559987,"Landskronaveien 28, Strømmen",59.969691,10.992885
+559988,"Landskronaveien 27, Strømmen",59.969907,10.991017
+559989,"Landskronaveien 26, Strømmen",59.969719,10.99278
+559990,"Landskronaveien 24, Strømmen",59.969747,10.992692
+559991,"Landskronaveien 20, Strømmen",59.969235,10.993324
+559992,"Landskronaveien 19, Strømmen",59.96966,10.990716
+559993,"Landskronaveien 18, Strømmen",59.969263,10.993236
+559994,"Landskronaveien 17, Strømmen",59.969623,10.990821
+559995,"Landskronaveien 16, Strømmen",59.969292,10.99313
+559996,"Landskronaveien 15, Strømmen",59.969604,10.990909
+559997,"Landskronaveien 14, Strømmen",59.96932,10.993024
+559998,"Landskronaveien 13, Strømmen",59.969566,10.990997
+559999,"Landskronaveien 12, Strømmen",59.969349,10.992937
+560000,"Landskronaveien 11, Strømmen",59.969538,10.991102
+560001,"Landskronaveien 10, Strømmen",59.969368,10.99283
+560002,"Landskronaveien 9, Strømmen",59.969509,10.991208
+560003,"Landskronaveien 8, Strømmen",59.969405,10.992743
+560004,"Landskronaveien 7, Strømmen",59.969481,10.991314
+560005,"Landskronaveien 6, Strømmen",59.969434,10.992637
+560006,"Landskronaveien 5, Strømmen",59.969453,10.991402
+560007,"Landskronaveien 4, Strømmen",59.969462,10.992531
+560008,"Landskronaveien 3, Strømmen",59.969415,10.991525
+560009,"Landskronaveien 2, Strømmen",59.9695,10.992426
+560010,"Landskronaveien 1, Strømmen",59.969395,10.991613
+560170,"Kiellands vei 20, Strømmen",59.961986,10.99871
+560171,"Kiellands vei 19, Strømmen",59.962233,10.998403
+560172,"Kiellands vei 18, Strømmen",59.961912,10.998276
+560173,"Kiellands vei 17, Strømmen",59.962142,10.99786
+560174,"Kiellands vei 16, Strømmen",59.961837,10.997841
+560175,"Kiellands vei 15, Strømmen",59.962343,10.997657
+560176,"Kiellands vei 14, Strømmen",59.961781,10.997426
+560177,"Kiellands vei 12, Strømmen",59.961715,10.99701
+560178,"Kiellands vei 11, Strømmen",59.962078,10.997372
+560179,"Kiellands vei 10, Strømmen",59.961641,10.996576
+560180,"Kiellands vei 9, Strømmen",59.962022,10.996903
+560181,"Kiellands vei 8, Strømmen",59.961576,10.996142
+560182,"Kiellands vei 7, Strømmen",59.961939,10.996468
+560183,"Kiellands vei 6, Strømmen",59.961502,10.995672
+560184,"Kiellands vei 5, Strømmen",59.961874,10.996034
+560185,"Kiellands vei 4, Strømmen",59.961445,10.995238
+560186,"Kiellands vei 3, Strømmen",59.961782,10.995563
+560187,"Kiellands vei 2, Strømmen",59.961353,10.994821
+560188,"Kiellands vei 1, Strømmen",59.961692,10.994984
+560201,"Karisveien 322, Strømmen",59.963704,11.003847
+560202,"Karisveien 320, Strømmen",59.963721,11.003956
+560203,"Karisveien 318, Strømmen",59.963737,11.004047
+560204,"Karisveien 316, Strømmen",59.963753,11.004173
+560205,"Karisveien 312, Strømmen",59.963792,11.004587
+560206,"Karisveien 310, Strømmen",59.963808,11.004678
+560207,"Karisveien 308, Strømmen",59.963816,11.004786
+560208,"Karisveien 306, Strømmen",59.963832,11.004876
+560314,"Landskronaveien 57, Strømmen",59.970126,10.991424
+560315,"Landskronaveien 56, Strømmen",59.969843,10.993504
+560316,"Landskronaveien 54, Strømmen",59.969815,10.993592
+560317,"Landskronaveien 52, Strømmen",59.969795,10.993698
+560318,"Landskronaveien 50, Strømmen",59.969758,10.993803
+560319,"Landskronaveien 49, Strømmen",59.970028,10.991938
+560320,"Landskronaveien 48, Strømmen",59.969729,10.993909
+560321,"Landskronaveien 47, Strømmen",59.969993,10.991882
+560322,"Landskronaveien 46, Strømmen",59.969701,10.993997
+560323,"Landskronaveien 45, Strømmen",59.96994,10.991843
+560324,"Landskronaveien 44, Strømmen",59.969672,10.994103
+560325,"Landskronaveien 43, Strømmen",59.969887,10.991786
+560326,"Landskronaveien 42, Strømmen",59.9695,10.993644
+560327,"Landskronaveien 41, Strømmen",59.969834,10.991729
+560328,"Landskronaveien 40, Strømmen",59.969519,10.99352
+560329,"Landskronaveien 39, Strømmen",59.969781,10.991672
+560330,"Landskronaveien 38, Strømmen",59.969557,10.993397
+560368,"Landskronaveien 521, Strømmen",59.974779,11.000306
+560369,"Landskronaveien 517, Strømmen",59.975334,10.999246
+560370,"Landskronaveien 513, Strømmen",59.97412,10.999334
+560371,"Landskronaveien 507, Strømmen",59.973944,10.996116
+560372,"Landskronaveien 505, Strømmen",59.973988,10.99619
+560373,"Landskronaveien 503, Strømmen",59.974041,10.996247
+560374,"Landskronaveien 501, Strømmen",59.974076,10.996285
+560375,"Landskronaveien 499, Strømmen",59.974129,10.99636
+560376,"Landskronaveien 497, Strømmen",59.974173,10.996434
+560377,"Landskronaveien 495, Strømmen",59.974093,10.996967
+560378,"Landskronaveien 493, Strømmen",59.974064,10.997073
+560379,"Landskronaveien 491, Strømmen",59.974036,10.997179
+560380,"Landskronaveien 489, Strømmen",59.974017,10.997267
+560381,"Landskronaveien 487, Strømmen",59.973988,10.997391
+560382,"Landskronaveien 485, Strømmen",59.973959,10.997479
+560383,"Landskronaveien 483, Strømmen",59.973931,10.997566
+560384,"Landskronaveien 481, Strømmen",59.973912,10.997655
+560385,"Landskronaveien 477, Strømmen",59.973532,10.997829
+560386,"Landskronaveien 475, Strømmen",59.97356,10.997741
+560387,"Landskronaveien 473, Strømmen",59.97358,10.997653
+560388,"Landskronaveien 471, Strømmen",59.973608,10.997547
+560389,"Landskronaveien 469, Strømmen",59.973637,10.997441
+560390,"Landskronaveien 467, Strømmen",59.973665,10.997353
+560391,"Landskronaveien 465, Strømmen",59.973676,10.997246
+560392,"Landskronaveien 463, Strømmen",59.973713,10.997141
+560393,"Landskronaveien 461, Strømmen",59.973742,10.997017
+560394,"Landskronaveien 459, Strømmen",59.973779,10.996912
+560395,"Landskronaveien 457, Strømmen",59.973808,10.996824
+560396,"Landskronaveien 455, Strømmen",59.973836,10.996736
+560397,"Landskronaveien 453, Strømmen",59.973874,10.996631
+560398,"Landskronaveien 451, Strømmen",59.973902,10.996525
+560399,"Landskronaveien 394, Strømmen",59.973417,10.99655
+560400,"Landskronaveien 392, Strømmen",59.973397,10.996638
+560401,"Landskronaveien 391, Strømmen",59.97345,10.994312
+560402,"Landskronaveien 390, Strømmen",59.973368,10.99678
+560403,"Landskronaveien 389, Strømmen",59.97347,10.994206
+560404,"Landskronaveien 37, Strømmen",59.969728,10.991616
+560405,"Landskronaveien 36, Strømmen",59.969585,10.993309
+560406,"Landskronaveien 35, Strømmen",59.969684,10.991541
+560407,"Landskronaveien 33, Strømmen",59.969813,10.991316
+560408,"Landskronaveien 31, Strømmen",59.969842,10.99121
+560500,"Landskronaveien 388, Strømmen",59.97334,10.99685
+560501,"Landskronaveien 387, Strømmen",59.973499,10.9941
+560502,"Landskronaveien 386, Strømmen",59.973303,10.996955
+560503,"Landskronaveien 385, Strømmen",59.973527,10.99403
+560504,"Landskronaveien 384, Strømmen",59.973274,10.997079
+560505,"Landskronaveien 383, Strømmen",59.973555,10.993924
+560506,"Landskronaveien 381, Strømmen",59.973584,10.993818
+560507,"Landskronaveien 380, Strømmen",59.973198,10.997361
+560508,"Landskronaveien 379, Strømmen",59.973612,10.99373
+560509,"Landskronaveien 378, Strømmen",59.97316,10.997484
+560510,"Landskronaveien 377, Strømmen",59.973649,10.993625
+560511,"Landskronaveien 376, Strømmen",59.973132,10.997572
+560512,"Landskronaveien 374, Strømmen",59.973112,10.997678
+560513,"Landskronaveien 373, Strømmen",59.973411,10.993378
+560514,"Landskronaveien 371, Strømmen",59.973373,10.993483
+560515,"Landskronaveien 369, Strømmen",59.973345,10.993589
+560516,"Landskronaveien 368, Strømmen",59.97297,10.997007
+560517,"Landskronaveien 367, Strømmen",59.973316,10.993695
+560518,"Landskronaveien 366, Strømmen",59.973007,10.996902
+560519,"Landskronaveien 365, Strømmen",59.973279,10.993782
+560520,"Landskronaveien 364, Strømmen",59.973027,10.996795
+560521,"Landskronaveien 363, Strømmen",59.973259,10.993888
+560522,"Landskronaveien 362, Strømmen",59.973065,10.996654
+560523,"Landskronaveien 361, Strømmen",59.97324,10.993995
+560524,"Landskronaveien 360, Strømmen",59.973093,10.996548
+560525,"Landskronaveien 359, Strømmen",59.973211,10.994083
+560526,"Landskronaveien 358, Strømmen",59.973113,10.99646
+560527,"Landskronaveien 354, Strømmen",59.9729,10.99625
+560528,"Landskronaveien 352, Strømmen",59.972837,10.9963
+560529,"Landskronaveien 206, Strømmen",59.971339,10.994955
+560530,"Landskronaveien 205, Strømmen",59.971738,10.993546
+560531,"Landskronaveien 204, Strømmen",59.971301,10.995079
+560532,"Landskronaveien 203, Strømmen",59.971775,10.993441
+560533,"Landskronaveien 202, Strømmen",59.971273,10.995184
+560534,"Landskronaveien 201, Strømmen",59.971804,10.993335
+560535,"Landskronaveien 200, Strømmen",59.971244,10.99529
+560536,"Landskronaveien 199, Strømmen",59.971832,10.993247
+560537,"Landskronaveien 198, Strømmen",59.971216,10.995396
+560538,"Landskronaveien 197, Strømmen",59.971869,10.99316
+560539,"Landskronaveien 196, Strømmen",59.971178,10.995483
+560540,"Landskronaveien 195, Strømmen",59.971898,10.993054
+560541,"Landskronaveien 194, Strømmen",59.971159,10.99559
+560542,"Landskronaveien 193, Strømmen",59.971926,10.99293
+560543,"Landskronaveien 192, Strømmen",59.971121,10.995695
+560544,"Landskronaveien 191, Strømmen",59.971955,10.992842
+560545,"Landskronaveien 190, Strømmen",59.971102,10.995801
+560546,"Landskronaveien 189, Strømmen",59.971992,10.992755
+560547,"Landskronaveien 188, Strømmen",59.971073,10.995889
+560548,"Landskronaveien 187, Strømmen",59.972021,10.992649
+560549,"Landskronaveien 186, Strømmen",59.971045,10.995977
+560550,"Landskronaveien 184, Strømmen",59.97077,10.995763
+560551,"Landskronaveien 183, Strømmen",59.971651,10.992752
+560552,"Landskronaveien 182, Strømmen",59.970798,10.995676
+560553,"Landskronaveien 181, Strømmen",59.971622,10.992858
+560554,"Landskronaveien 180, Strømmen",59.970827,10.99557
+560555,"Landskronaveien 179, Strømmen",59.971593,10.992982
+560556,"Landskronaveien 178, Strømmen",59.970855,10.995464
+560557,"Landskronaveien 177, Strømmen",59.971574,10.993088
+560558,"Landskronaveien 176, Strømmen",59.970893,10.995359
+560559,"Landskronaveien 174, Strømmen",59.970921,10.995271
+560560,"Landskronaveien 171, Strømmen",59.971471,10.993369
+560561,"Landskronaveien 169, Strømmen",59.971442,10.993474
+560562,"Landskronaveien 168, Strømmen",59.970997,10.994971
+560563,"Landskronaveien 167, Strømmen",59.971405,10.99358
+560564,"Landskronaveien 166, Strømmen",59.971035,10.994883
+560565,"Landskronaveien 165, Strømmen",59.971376,10.993686
+560566,"Landskronaveien 164, Strømmen",59.971063,10.994778
+560567,"Landskronaveien 162, Strømmen",59.971101,10.994654
+560568,"Landskronaveien 161, Strømmen",59.971308,10.992821
+560569,"Landskronaveien 160, Strømmen",59.97113,10.994549
+560570,"Landskronaveien 159, Strømmen",59.97128,10.992909
+560571,"Landskronaveien 158, Strømmen",59.971158,10.994461
+560572,"Landskronaveien 157, Strømmen",59.971269,10.993016
+560573,"Landskronaveien 155, Strømmen",59.971232,10.993139
+560574,"Landskronaveien 154, Strømmen",59.970568,10.996074
+560575,"Landskronaveien 153, Strømmen",59.971203,10.993227
+560576,"Landskronaveien 151, Strømmen",59.971175,10.993315
+560577,"Landskronaveien 150, Strømmen",59.970589,10.995279
+560578,"Landskronaveien 148, Strømmen",59.970608,10.995198
+560579,"Landskronaveien 147, Strømmen",59.970946,10.993033
+560580,"Landskronaveien 146, Strømmen",59.970636,10.99511
+560581,"Landskronaveien 145, Strømmen",59.970965,10.992926
+560582,"Landskronaveien 144, Strømmen",59.970665,10.994987
+560583,"Landskronaveien 143, Strømmen",59.970994,10.992838
+560584,"Landskronaveien 142, Strømmen",59.970693,10.994881
+560585,"Landskronaveien 141, Strømmen",59.971032,10.992715
+560586,"Landskronaveien 140, Strømmen",59.970731,10.994776
+560587,"Landskronaveien 139, Strømmen",59.97106,10.992591
+560588,"Landskronaveien 138, Strømmen",59.970759,10.994688
+560589,"Landskronaveien 137, Strømmen",59.971098,10.992486
+560590,"Landskronaveien 136, Strømmen",59.970805,10.994619
+560591,"Landskronaveien 135, Strømmen",59.971135,10.992381
+560592,"Landskronaveien 133, Strømmen",59.971155,10.992293
+560593,"Landskronaveien 132, Strømmen",59.970908,10.99432
+560594,"Landskronaveien 130, Strømmen",59.970873,10.994265
+560595,"Landskronaveien 129, Strømmen",59.970973,10.991834
+560596,"Landskronaveien 128, Strømmen",59.970821,10.99419
+560597,"Landskronaveien 127, Strømmen",59.970935,10.991939
+560598,"Landskronaveien 126, Strømmen",59.970777,10.994133
+560599,"Landskronaveien 125, Strømmen",59.970898,10.992062
+560600,"Landskronaveien 124, Strømmen",59.970724,10.994076
+560601,"Landskronaveien 123, Strømmen",59.970869,10.992168
+560602,"Landskronaveien 122, Strømmen",59.97067,10.994037
+560603,"Landskronaveien 120, Strømmen",59.970617,10.993998
+560604,"Landskronaveien 118, Strømmen",59.970564,10.993941
+560605,"Landskronaveien 117, Strømmen",59.970802,10.992433
+560606,"Landskronaveien 116, Strømmen",59.970558,10.994335
+560607,"Landskronaveien 115, Strømmen",59.970756,10.992539
+560608,"Landskronaveien 114, Strømmen",59.970539,10.994424
+560609,"Landskronaveien 113, Strømmen",59.970736,10.992626
+560610,"Landskronaveien 112, Strømmen",59.97051,10.994511
+560611,"Landskronaveien 111, Strømmen",59.970708,10.992732
+560612,"Landskronaveien 110, Strømmen",59.970482,10.994617
+560613,"Landskronaveien 108, Strømmen",59.970444,10.994722
+560614,"Landskronaveien 106, Strømmen",59.970416,10.994828
+560615,"Landskronaveien 105, Strømmen",59.970697,10.991656
+560616,"Landskronaveien 104, Strømmen",59.970169,10.994545
+560617,"Landskronaveien 103, Strømmen",59.970669,10.991744
+560618,"Landskronaveien 102, Strømmen",59.970197,10.994457
+560619,"Landskronaveien 101, Strømmen",59.970641,10.991832
+560620,"Landskronaveien 100, Strømmen",59.970226,10.994333
+560621,"Landskronaveien 99, Strømmen",59.970603,10.991955
+560622,"Landskronaveien 98, Strømmen",59.970254,10.994245
+560623,"Landskronaveien 97, Strømmen",59.970565,10.99206
+560624,"Landskronaveien 95, Strømmen",59.970528,10.992165
+560625,"Landskronaveien 93, Strømmen",59.9705,10.992253
+560626,"Landskronaveien 92, Strømmen",59.970366,10.993965
+560627,"Landskronaveien 91, Strømmen",59.97048,10.992342
+560628,"Landskronaveien 90, Strømmen",59.970394,10.993877
+560629,"Landskronaveien 89, Strømmen",59.970443,10.992447
+560630,"Landskronaveien 88, Strømmen",59.970432,10.993754
+560631,"Landskronaveien 87, Strømmen",59.970414,10.992553
+560632,"Landskronaveien 86, Strømmen",59.970452,10.993648
+560633,"Landskronaveien 83, Strømmen",59.970194,10.992271
+560634,"Landskronaveien 82, Strømmen",59.96993,10.994279
+560635,"Landskronaveien 81, Strømmen",59.970213,10.9922
+560636,"Landskronaveien 80, Strømmen",59.969968,10.994138
+560637,"Landskronaveien 79, Strømmen",59.970241,10.992094
+560638,"Landskronaveien 78, Strømmen",59.969997,10.994033
+560639,"Landskronaveien 77, Strømmen",59.970279,10.991989
+560640,"Landskronaveien 76, Strømmen",59.970034,10.993945
+560641,"Landskronaveien 75, Strømmen",59.970307,10.991901
+560642,"Landskronaveien 74, Strømmen",59.970062,10.993839
+560643,"Landskronaveien 73, Strømmen",59.970336,10.991795
+560644,"Landskronaveien 72, Strømmen",59.970091,10.993734
+560645,"Landskronaveien 71, Strømmen",59.970365,10.991672
+560646,"Landskronaveien 70, Strømmen",59.970119,10.993646
+560647,"Landskronaveien 69, Strømmen",59.970393,10.991566
+560648,"Landskronaveien 68, Strømmen",59.970139,10.993557
+560649,"Landskronaveien 67, Strømmen",59.970421,10.991478
+560650,"Landskronaveien 65, Strømmen",59.97045,10.991372
+560651,"Landskronaveien 63, Strømmen",59.97022,10.991108
+560652,"Landskronaveien 62, Strømmen",59.969937,10.993205
+560653,"Landskronaveien 61, Strømmen",59.970192,10.991195
+560654,"Landskronaveien 60, Strømmen",59.969918,10.993293
+560655,"Landskronaveien 59, Strømmen",59.970154,10.991319
+560656,"Landskronaveien 58, Strømmen",59.969881,10.993381
+560657,"Landskronaveien 350, Strømmen",59.972808,10.996424
+560658,"Landskronaveien 348, Strømmen",59.972806,10.996549
+560659,"Landskronaveien 346, Strømmen",59.972778,10.996637
+560660,"Landskronaveien 344, Strømmen",59.972731,10.996724
+560661,"Landskronaveien 342, Strømmen",59.972712,10.996794
+560662,"Landskronaveien 340, Strømmen",59.972684,10.996918
+560663,"Landskronaveien 332, Strømmen",59.972408,10.996722
+560664,"Landskronaveien 330, Strømmen",59.972455,10.996617
+560665,"Landskronaveien 328, Strømmen",59.972483,10.996529
+560666,"Landskronaveien 326, Strømmen",59.972502,10.996441
+560667,"Landskronaveien 325, Strømmen",59.972973,10.993799
+560668,"Landskronaveien 324, Strømmen",59.97253,10.996353
+560669,"Landskronaveien 323, Strømmen",59.972984,10.993657
+560670,"Landskronaveien 322, Strømmen",59.972559,10.996247
+560671,"Landskronaveien 321, Strømmen",59.973022,10.993534
+560672,"Landskronaveien 320, Strømmen",59.972596,10.99616
+560673,"Landskronaveien 319, Strømmen",59.97305,10.993446
+560674,"Landskronaveien 318, Strømmen",59.972625,10.996036
+560675,"Landskronaveien 317, Strømmen",59.97307,10.993339
+560676,"Landskronaveien 316, Strømmen",59.972644,10.995966
+560677,"Landskronaveien 315, Strømmen",59.973099,10.993234
+560678,"Landskronaveien 314, Strømmen",59.972672,10.995878
+560679,"Landskronaveien 313, Strømmen",59.973127,10.993128
+560680,"Landskronaveien 311, Strømmen",59.973155,10.99304
+560681,"Landskronaveien 310, Strømmen",59.972434,10.995577
+560682,"Landskronaveien 308, Strømmen",59.972406,10.995665
+560683,"Landskronaveien 306, Strømmen",59.972369,10.995734
+560684,"Landskronaveien 304, Strømmen",59.972349,10.995858
+560685,"Landskronaveien 303, Strømmen",59.972907,10.99281
+560686,"Landskronaveien 301, Strømmen",59.972879,10.992898
+560687,"Landskronaveien 299, Strømmen",59.972851,10.993004
+560688,"Landskronaveien 298, Strømmen",59.972264,10.996176
+560689,"Landskronaveien 297, Strømmen",59.972822,10.993109
+560690,"Landskronaveien 296, Strømmen",59.972226,10.996281
+560691,"Landskronaveien 295, Strømmen",59.972784,10.993215
+560692,"Landskronaveien 294, Strømmen",59.972189,10.996368
+560693,"Landskronaveien 293, Strømmen",59.972756,10.993321
+560694,"Landskronaveien 292, Strømmen",59.972161,10.996456
+560695,"Landskronaveien 291, Strømmen",59.972727,10.993426
+560696,"Landskronaveien 290, Strømmen",59.972141,10.996563
+560697,"Landskronaveien 289, Strømmen",59.972708,10.993515
+560698,"Landskronaveien 288, Strømmen",59.972122,10.996651
+560699,"Landskronaveien 284, Strømmen",59.971874,10.996403
+560700,"Landskronaveien 282, Strømmen",59.971903,10.996297
+560701,"Landskronaveien 280, Strømmen",59.97194,10.996192
+560702,"Landskronaveien 278, Strømmen",59.971978,10.996087
+560703,"Landskronaveien 276, Strømmen",59.972006,10.995981
+560704,"Landskronaveien 274, Strømmen",59.972044,10.995858
+560705,"Landskronaveien 272, Strømmen",59.972054,10.995769
+560706,"Landskronaveien 271, Strømmen",59.972666,10.993924
+560707,"Landskronaveien 270, Strømmen",59.972082,10.995681
+560708,"Landskronaveien 268, Strømmen",59.972111,10.995575
+560709,"Landskronaveien 267, Strømmen",59.972223,10.994113
+560710,"Landskronaveien 266, Strømmen",59.972139,10.995487
+560711,"Landskronaveien 265, Strømmen",59.972251,10.994025
+560712,"Landskronaveien 263, Strømmen",59.97228,10.993919
+560713,"Landskronaveien 261, Strømmen",59.972318,10.993796
+560714,"Landskronaveien 260, Strømmen",59.971938,10.995117
+560715,"Landskronaveien 259, Strømmen",59.972337,10.993725
+560716,"Landskronaveien 258, Strømmen",59.97191,10.995223
+560717,"Landskronaveien 257, Strømmen",59.972365,10.99362
+560718,"Landskronaveien 256, Strømmen",59.971882,10.995311
+560719,"Landskronaveien 255, Strømmen",59.972394,10.993496
+560720,"Landskronaveien 254, Strømmen",59.971853,10.995416
+560721,"Landskronaveien 253, Strømmen",59.972431,10.993391
+560722,"Landskronaveien 249, Strømmen",59.972508,10.993091
+560723,"Landskronaveien 248, Strømmen",59.971739,10.995822
+560724,"Landskronaveien 247, Strømmen",59.972527,10.993002
+560725,"Landskronaveien 246, Strømmen",59.971711,10.99591
+560726,"Landskronaveien 245, Strømmen",59.972565,10.992897
+560727,"Landskronaveien 244, Strømmen",59.971682,10.996015
+560728,"Landskronaveien 243, Strømmen",59.972593,10.992791
+560729,"Landskronaveien 242, Strømmen",59.971653,10.996139
+560730,"Landskronaveien 241, Strømmen",59.97263,10.992704
+560731,"Landskronaveien 239, Strømmen",59.97265,10.992597
+560732,"Landskronaveien 238, Strømmen",59.971359,10.996032
+560733,"Landskronaveien 236, Strømmen",59.971378,10.995943
+560734,"Landskronaveien 235, Strømmen",59.97224,10.992967
+560735,"Landskronaveien 234, Strømmen",59.971406,10.995838
+560736,"Landskronaveien 233, Strømmen",59.972203,10.993054
+560737,"Landskronaveien 232, Strømmen",59.971434,10.995768
+560738,"Landskronaveien 231, Strømmen",59.972193,10.993143
+560739,"Landskronaveien 230, Strømmen",59.971454,10.995661
+560740,"Landskronaveien 229, Strømmen",59.972156,10.993213
+560741,"Landskronaveien 228, Strømmen",59.971492,10.995556
+560742,"Landskronaveien 227, Strømmen",59.972127,10.993319
+560743,"Landskronaveien 226, Strømmen",59.971529,10.995451
+560744,"Landskronaveien 225, Strømmen",59.972108,10.993425
+560745,"Landskronaveien 224, Strømmen",59.971558,10.995345
+560746,"Landskronaveien 223, Strømmen",59.972079,10.993531
+560747,"Landskronaveien 222, Strømmen",59.971595,10.99524
+560748,"Landskronaveien 221, Strømmen",59.972051,10.993619
+560749,"Landskronaveien 220, Strømmen",59.971623,10.995152
+560750,"Landskronaveien 219, Strømmen",59.972022,10.993742
+560751,"Landskronaveien 218, Strømmen",59.971643,10.995045
+560752,"Landskronaveien 217, Strømmen",59.971985,10.99383
+560753,"Landskronaveien 216, Strømmen",59.971681,10.99494
+560754,"Landskronaveien 215, Strømmen",59.971947,10.993917
+560755,"Landskronaveien 213, Strømmen",59.971919,10.994023
+560756,"Landskronaveien 212, Strømmen",59.971433,10.994674
+560757,"Landskronaveien 210, Strømmen",59.971405,10.994744
+560758,"Landskronaveien 209, Strømmen",59.971689,10.993758
+560759,"Landskronaveien 208, Strømmen",59.971368,10.99485
+560760,"Landskronaveien 207, Strømmen",59.971709,10.993652
+561197,"Mauritz Hansens vei 17, Strømmen",59.958832,10.988651
+561198,"Mauritz Hansens vei 15B, Strømmen",59.958774,10.988934
+561199,"Mauritz Hansens vei 15, Strømmen",59.958745,10.989076
+561200,"Mauritz Hansens vei 13, Strømmen",59.958677,10.989448
+561201,"Mauritz Hansens vei 11, Strømmen",59.958589,10.989872
+561202,"Mauritz Hansens vei 9, Strømmen",59.958555,10.990336
+561203,"Mauritz Hansens vei 6, Strømmen",59.958723,10.991116
+561204,"Mauritz Hansens vei 5, Strømmen",59.958423,10.990776
+561205,"Mauritz Hansens vei 1, Strømmen",59.958138,10.991242
+561257,"Nordbyveien 39, Strømmen",59.965243,11.007219
+561258,"Nordbyveien 37, Strømmen",59.965259,11.007327
+561259,"Nordbyveien 35, Strømmen",59.965275,11.007436
+561260,"Nordbyveien 33, Strømmen",59.965291,11.007562
+561261,"Nordbyveien 31, Strømmen",59.965299,11.007652
+561262,"Nordbyveien 30, Strømmen",59.966106,11.008937
+561263,"Nordbyveien 29, Strømmen",59.965315,11.007779
+561264,"Nordbyveien 27, Strømmen",59.965331,11.007887
+561265,"Nordbyveien 25, Strømmen",59.965348,11.007996
+561266,"Nordbyveien 24, Strømmen",59.965383,11.009216
+561267,"Nordbyveien 23, Strømmen",59.965364,11.008104
+561268,"Nordbyveien 22, Strømmen",59.965142,11.009112
+561269,"Nordbyveien 21, Strømmen",59.96538,11.008213
+561270,"Nordbyveien 20, Strømmen",59.964923,11.009349
+561271,"Nordbyveien 19, Strømmen",59.965388,11.00832
+561272,"Nordbyveien 16, Strømmen",59.964367,11.00928
+561273,"Nordbyveien 15, Strømmen",59.965055,11.008336
+561274,"Nordbyveien 14, Strømmen",59.964151,11.00932
+561275,"Nordbyveien 13, Strømmen",59.964766,11.008426
+561276,"Nordbyveien 12, Strømmen",59.964207,11.009754
+561277,"Nordbyveien 11C, Strømmen",59.964305,11.00804
+561278,"Nordbyveien 11B, Strømmen",59.96444,11.007439
+561279,"Nordbyveien 11A, Strømmen",59.964488,11.008445
+561280,"Nordbyveien 9, Strømmen",59.964163,11.008515
+561281,"Nordbyveien 7, Strømmen",59.963912,11.0085
+561282,"Nordbyveien 6, Strømmen",59.96312,11.009186
+561283,"Nordbyveien 1B, Strømmen",59.963,11.00823
+561284,"Nordbyveien 1, Strømmen",59.963031,11.008572
+561309,"P.A. Iversens vei 16, Strømmen",59.958682,10.987316
+561310,"P.A. Iversens vei 15, Strømmen",59.958238,10.987576
+561311,"P.A. Iversens vei 14, Strømmen",59.958594,10.987795
+561312,"P.A. Iversens vei 13, Strømmen",59.958199,10.987735
+561313,"P.A. Iversens vei 11, Strømmen",59.958143,10.987875
+561314,"P.A. Iversens vei 8B, Strømmen",59.958326,10.988871
+561315,"P.A. Iversens vei 8A, Strømmen",59.958191,10.988899
+561316,"P.A. Iversens vei 6, Strømmen",59.958222,10.989241
+561317,"P.A. Iversens vei 5B, Strømmen",59.957802,10.989091
+561318,"P.A. Iversens vei 5A, Strømmen",59.957787,10.989466
+561319,"P.A. Iversens vei 4, Strømmen",59.958196,10.989741
+561320,"P.A. Iversens vei 3, Strømmen",59.957903,10.990118
+561321,"P.A. Iversens vei 1, Strømmen",59.958012,10.990626
+561570,"Nybakveien 34C, Strømmen",59.961002,11.005565
+561571,"Nybakveien 32B, Strømmen",59.961127,11.006737
+561572,"Nybakveien 31, Strømmen",59.960226,11.00928
+561573,"Nybakveien 30, Strømmen",59.961086,11.007684
+561574,"Nybakveien 29B, Strømmen",59.959795,11.009272
+561575,"Nybakveien 29A, Strømmen",59.959973,11.00939
+561576,"Nybakveien 28B, Strømmen",59.961293,11.00827
+561577,"Nybakveien 28A, Strømmen",59.961155,11.008476
+561578,"Nybakveien 27, Strømmen",59.959745,11.009645
+561579,"Nybakveien 25B, Strømmen",59.960029,11.009841
+561580,"Nybakveien 24, Strømmen",59.961139,11.009532
+561581,"Nybakveien 23, Strømmen",59.960479,11.009779
+561582,"Nybakveien 17, Strømmen",59.960788,11.010156
+561614,"Nordens vei 15, Strømmen",59.967067,10.999482
+561615,"Nordbyveien 228, Strømmen",59.971053,11.007893
+561616,"Nordbyveien 227, Strømmen",59.971391,11.00691
+561617,"Nordbyveien 226, Strømmen",59.970781,11.008038
+561618,"Nordbyveien 221, Strømmen",59.968764,11.006644
+561619,"Nordbyveien 219, Strømmen",59.968611,11.006652
+561620,"Nordbyveien 217, Strømmen",59.968451,11.006535
+561621,"Nordbyveien 215, Strømmen",59.96828,11.006525
+561622,"Nordbyveien 211, Strømmen",59.968071,11.005545
+561623,"Nordbyveien 209, Strømmen",59.967918,11.005517
+561624,"Nordbyveien 203, Strømmen",59.967519,11.006945
+561625,"Nordbyveien 201, Strømmen",59.967512,11.006819
+561626,"Nordbyveien 199, Strømmen",59.967496,11.00671
+561627,"Nordbyveien 197, Strømmen",59.96748,11.006602
+561628,"Nordbyveien 195, Strømmen",59.967464,11.006475
+561629,"Nordbyveien 193, Strømmen",59.967447,11.006385
+561630,"Nordbyveien 191, Strømmen",59.96744,11.006277
+561631,"Nordbyveien 189, Strømmen",59.967423,11.006186
+561632,"Nordbyveien 185, Strømmen",59.967214,11.006389
+561633,"Nordbyveien 183, Strømmen",59.967168,11.006422
+561634,"Nordbyveien 181, Strømmen",59.967114,11.006436
+561635,"Nordbyveien 179, Strømmen",59.96706,11.006469
+561636,"Nordbyveien 175, Strømmen",59.966887,11.006602
+561637,"Nordbyveien 173, Strømmen",59.966833,11.006616
+561638,"Nordbyveien 171, Strømmen",59.966788,11.006632
+561639,"Nordbyveien 169, Strømmen",59.966743,11.006647
+561640,"Nordbyveien 167, Strømmen",59.967294,11.007003
+561641,"Nordbyveien 165, Strømmen",59.96724,11.007017
+561642,"Nordbyveien 163, Strømmen",59.967177,11.007049
+561643,"Nordbyveien 161, Strømmen",59.967131,11.007082
+561644,"Nordbyveien 159, Strømmen",59.967077,11.007097
+561645,"Nordbyveien 157, Strømmen",59.967013,11.007147
+561646,"Nordbyveien 155, Strømmen",59.96695,11.007179
+561647,"Nordbyveien 153, Strømmen",59.966896,11.007211
+561648,"Nordbyveien 151, Strømmen",59.966851,11.007227
+561649,"Nordbyveien 149, Strømmen",59.966805,11.00726
+561650,"Nordbyveien 143, Strømmen",59.966546,11.006545
+561651,"Nordbyveien 141, Strømmen",59.966501,11.006578
+561652,"Nordbyveien 139, Strømmen",59.966447,11.006593
+561653,"Nordbyveien 137, Strømmen",59.966384,11.006625
+561654,"Nordbyveien 135, Strømmen",59.966329,11.006658
+561655,"Nordbyveien 133, Strømmen",59.966275,11.00669
+561656,"Nordbyveien 131, Strømmen",59.966211,11.006722
+561657,"Nordbyveien 129, Strømmen",59.966157,11.006737
+561658,"Nordbyveien 127, Strømmen",59.966094,11.006769
+561659,"Nordbyveien 125, Strømmen",59.966049,11.006784
+561660,"Nordbyveien 123, Strømmen",59.966601,11.007068
+561661,"Nordbyveien 121, Strømmen",59.966556,11.007083
+561662,"Nordbyveien 119, Strømmen",59.966493,11.007115
+561663,"Nordbyveien 117, Strømmen",59.966447,11.007148
+561664,"Nordbyveien 113, Strømmen",59.966275,11.007246
+561665,"Nordbyveien 111, Strømmen",59.966221,11.00726
+561666,"Nordbyveien 109, Strømmen",59.966167,11.007293
+561667,"Nordbyveien 107, Strømmen",59.966101,11.007312
+561668,"Nordbyveien 105, Strømmen",59.966674,11.00761
+561669,"Nordbyveien 103, Strømmen",59.966629,11.007643
+561670,"Nordbyveien 101, Strømmen",59.966574,11.007676
+561671,"Nordbyveien 99, Strømmen",59.966511,11.007708
+561672,"Nordbyveien 97, Strømmen",59.966456,11.00774
+561673,"Nordbyveien 95, Strømmen",59.966402,11.007773
+561674,"Nordbyveien 93, Strømmen",59.96633,11.007804
+561675,"Nordbyveien 91, Strømmen",59.966275,11.007837
+561676,"Nordbyveien 89, Strømmen",59.96623,11.00787
+561677,"Nordbyveien 87, Strømmen",59.966185,11.007885
+561678,"Nordbyveien 83, Strømmen",59.965895,11.006846
+561679,"Nordbyveien 81, Strømmen",59.96585,11.006879
+561680,"Nordbyveien 79, Strømmen",59.965795,11.006912
+561681,"Nordbyveien 77, Strømmen",59.96575,11.006945
+561682,"Nordbyveien 73, Strømmen",59.96556,11.007005
+561683,"Nordbyveien 71, Strømmen",59.965509,11.007034
+561684,"Nordbyveien 69, Strømmen",59.96547,11.007071
+561685,"Nordbyveien 67, Strømmen",59.965424,11.007087
+561686,"Nordbyveien 65, Strømmen",59.965985,11.007407
+561687,"Nordbyveien 63, Strømmen",59.965931,11.007422
+561688,"Nordbyveien 61, Strømmen",59.965886,11.007455
+561689,"Nordbyveien 59, Strømmen",59.965823,11.007487
+561690,"Nordbyveien 57, Strømmen",59.965777,11.00752
+561691,"Nordbyveien 55, Strømmen",59.965714,11.007534
+561692,"Nordbyveien 53, Strømmen",59.96566,11.007567
+561693,"Nordbyveien 51, Strømmen",59.965596,11.007616
+561694,"Nordbyveien 49, Strømmen",59.965542,11.007649
+561695,"Nordbyveien 47, Strømmen",59.965488,11.007664
+561696,"Nordbyveien 41, Strømmen",59.965226,11.007128
+561718,"Nybakveien 95, Strømmen",59.959216,10.998937
+561719,"Nybakveien 91B, Strømmen",59.959375,10.99909
+561720,"Nybakveien 91A, Strømmen",59.959697,10.999217
+561721,"Nybakveien 89, Strømmen",59.959803,10.999886
+561722,"Nybakveien 85, Strømmen",59.960224,11.001165
+561723,"Nybakveien 83, Strømmen",59.96046,11.001609
+561724,"Nybakveien 81, Strømmen",59.960572,11.001939
+561725,"Nybakveien 79, Strømmen",59.960628,11.002372
+561726,"Nybakveien 77, Strømmen",59.960639,11.002838
+561727,"Nybakveien 75, Strømmen",59.960668,11.00327
+561728,"Nybakveien 73, Strømmen",59.960679,11.003718
+561729,"Nybakveien 69A, Strømmen",59.960718,11.004151
+561730,"Nybakveien 67, Strømmen",59.96072,11.004617
+561731,"Nybakveien 65, Strømmen",59.96074,11.005012
+561732,"Nybakveien 60, Strømmen",59.959624,10.996812
+561733,"Nybakveien 57, Strømmen",59.960783,11.006931
+561734,"Nybakveien 55, Strømmen",59.960505,11.006896
+561735,"Nybakveien 54B, Strømmen",59.959856,10.998779
+561736,"Nybakveien 53, Strømmen",59.959987,11.007277
+561737,"Nybakveien 52B, Strømmen",59.959991,10.999301
+561738,"Nybakveien 51B, Strømmen",59.960279,11.007563
+561739,"Nybakveien 51A, Strømmen",59.960513,11.00756
+561740,"Nybakveien 49, Strømmen",59.96082,11.007435
+561741,"Nybakveien 47, Strømmen",59.960803,11.007989
+561742,"Nybakveien 45, Strømmen",59.960497,11.008042
+561743,"Nybakveien 43, Strømmen",59.960199,11.008114
+561744,"Nybakveien 40, Strømmen",59.961065,11.003778
+561745,"Nybakveien 39, Strømmen",59.960364,11.008518
+561746,"Nybakveien 38B, Strømmen",59.961077,11.004172
+561747,"Nybakveien 37, Strømmen",59.960616,11.008479
+561748,"Nybakveien 36B, Strømmen",59.961182,11.004949
+561749,"Nybakveien 35B, Strømmen",59.960836,11.008744
+561750,"Nybakveien 35A, Strømmen",59.960893,11.008532
+561758,"Nybakveien 63M, Strømmen",59.960416,11.00545
+561812,"P.A. Iversens vei 29, Strømmen",59.958549,10.986592
+561813,"P.A. Iversens vei 27, Strømmen",59.958502,10.986715
+561814,"P.A. Iversens vei 25, Strømmen",59.958464,10.986856
+561815,"P.A. Iversens vei 23, Strømmen",59.958408,10.987013
+561816,"P.A. Iversens vei 21, Strømmen",59.95837,10.987154
+561817,"P.A. Iversens vei 19, Strømmen",59.958332,10.987295
+561818,"P.A. Iversens vei 18, Strømmen",59.958813,10.986948
+561819,"P.A. Iversens vei 17, Strømmen",59.958275,10.987471
+562092,"Riihimækiveien 49, Strømmen",59.970641,11.005453
+562093,"Riihimækiveien 47, Strømmen",59.97051,11.005289
+562094,"Riihimækiveien 45, Strømmen",59.970376,11.005125
+562095,"Riihimækiveien 43, Strømmen",59.97022,11.004936
+562096,"Riihimækiveien 41, Strømmen",59.969982,11.005105
+562097,"Riihimækiveien 39, Strømmen",59.969832,11.004917
+562098,"Riihimækiveien 37, Strømmen",59.969654,11.00478
+562099,"Riihimækiveien 35, Strømmen",59.969487,11.004555
+562100,"Riihimækiveien 33, Strømmen",59.969336,11.004421
+562101,"Riihimækiveien 31, Strømmen",59.969176,11.004357
+562102,"Riihimækiveien 29, Strømmen",59.969043,11.004224
+562103,"Riihimækiveien 27, Strømmen",59.968851,11.003854
+562104,"Riihimækiveien 25, Strømmen",59.968692,11.003665
+562105,"Riihimækiveien 23, Strømmen",59.968542,11.003495
+562106,"Riihimækiveien 21, Strømmen",59.968455,11.00331
+562107,"Riihimækiveien 19, Strømmen",59.968305,11.003104
+562108,"Riihimækiveien 17, Strømmen",59.968129,11.002914
+562109,"Riihimækiveien 15, Strømmen",59.967987,11.002745
+562110,"Riihimækiveien 13, Strømmen",59.967829,11.002538
+562111,"Riihimækiveien 11, Strømmen",59.96767,11.002367
+562112,"Riihimækiveien 9, Strømmen",59.96752,11.002179
+562113,"Riihimækiveien 5, Strømmen",59.967703,11.002996
+562114,"Riihimækiveien 3, Strømmen",59.967837,11.003155
+562115,"Riihimækiveien 1, Strømmen",59.967975,11.003332
+562116,"Rikard Nordraaks vei 25, Strømmen",59.964554,10.997557
+562117,"Rikard Nordraaks vei 23, Strømmen",59.96452,10.997465
+562118,"Rikard Nordraaks vei 22, Strømmen",59.964596,10.998366
+562119,"Rikard Nordraaks vei 21, Strømmen",59.96444,10.997407
+562120,"Rikard Nordraaks vei 20, Strømmen",59.964402,10.998103
+562121,"Rikard Nordraaks vei 19, Strømmen",59.964387,10.99735
+562122,"Rikard Nordraaks vei 17, Strømmen",59.964325,10.997292
+562123,"Rikard Nordraaks vei 16C, Strømmen",59.963874,10.997982
+562124,"Rikard Nordraaks vei 16B, Strømmen",59.963902,10.997912
+562125,"Rikard Nordraaks vei 16A, Strømmen",59.964005,10.997667
+562126,"Rikard Nordraaks vei 15, Strømmen",59.964104,10.99701
+562127,"Rikard Nordraaks vei 14B, Strømmen",59.963665,10.997539
+562128,"Rikard Nordraaks vei 14A, Strømmen",59.963803,10.997351
+562129,"Rikard Nordraaks vei 13, Strømmen",59.96406,10.996954
+562130,"Rikard Nordraaks vei 12, Strømmen",59.963629,10.996982
+562131,"Rikard Nordraaks vei 11, Strømmen",59.963999,10.996879
+562132,"Rikard Nordraaks vei 10, Strømmen",59.963365,10.99659
+562133,"Rikard Nordraaks vei 9, Strømmen",59.963946,10.996804
+562134,"Rikard Nordraaks vei 8, Strømmen",59.96311,10.996252
+562135,"Rikard Nordraaks vei 7, Strømmen",59.963884,10.996746
+562136,"Rikard Nordraaks vei 6, Strømmen",59.962863,10.995915
+562137,"Rikard Nordraaks vei 4, Strømmen",59.962734,10.995584
+562138,"Rikard Nordraaks vei 2, Strømmen",59.962595,10.995236
+562499,"Skjettenveien 122, Strømmen",59.958772,10.986086
+562500,"Skjettenveien 118, Strømmen",59.959177,10.986665
+562501,"Skjettenveien 116, Strømmen",59.959216,10.987062
+562502,"Skjettenveien 112B, Strømmen",59.959436,10.987917
+562503,"Skjettenveien 112A, Strømmen",59.959354,10.987984
+562504,"Skjettenveien 110, Strømmen",59.95949,10.988547
+562505,"Skjettenveien 108, Strømmen",59.959526,10.989122
+562506,"Skjettenveien 107, Strømmen",59.958999,10.987694
+562507,"Skjettenveien 105, Strømmen",59.95893,10.988119
+562508,"Skjettenveien 106B, Strømmen",59.959574,10.989483
+562509,"Skjettenveien 102, Strømmen",59.959895,10.990255
+562510,"Skjettenveien 100, Strømmen",59.959727,10.990693
+562511,"Skjettenveien 98, Strømmen",59.959893,10.991562
+562512,"Skjettenveien 92B, Strømmen",59.960002,10.992715
+562513,"Skjettenveien 91B, Strømmen",59.959506,10.991038
+562514,"Skjettenveien 91A, Strømmen",59.959562,10.991471
+562515,"Skjettenveien 90B, Strømmen",59.960249,10.992999
+562516,"Skjettenveien 90A, Strømmen",59.96012,10.99317
+562517,"Skjettenveien 89, Strømmen",59.959636,10.991941
+562518,"Skjettenveien 88B, Strømmen",59.960409,10.992525
+562519,"Skjettenveien 88, Strømmen",59.960493,10.992906
+562520,"Skjettenveien 87, Strømmen",59.959791,10.992953
+562521,"Skjettenveien 86B, Strømmen",59.96072,10.992758
+562522,"Skjettenveien 86, Strømmen",59.961027,10.993243
+562523,"Skjettenveien 85, Strømmen",59.959871,10.993603
+562524,"Skjettenveien 84D, Strømmen",59.960664,10.993436
+562525,"Skjettenveien 84B, Strømmen",59.960339,10.993595
+562526,"Skjettenveien 84A, Strømmen",59.960157,10.99371
+562527,"Skjettenveien 83B, Strømmen",59.959955,10.994038
+562528,"Skjettenveien 83A, Strømmen",59.959952,10.994181
+562529,"Skjettenveien 82B, Strømmen",59.960428,10.99421
+562530,"Skjettenveien 82A, Strømmen",59.960248,10.994253
+562531,"Skjettenveien 79, Strømmen",59.959749,10.996734
+562532,"Skjettenveien 78B, Strømmen",59.960407,10.995015
+562533,"Skjettenveien 72C, Strømmen",59.960901,10.997982
+562534,"Skjettenveien 72B, Strømmen",59.961233,10.998575
+562535,"Skjettenveien 72A, Strømmen",59.960966,10.998416
+562536,"Skjettenveien 70C, Strømmen",59.961616,10.999386
+562537,"Skjettenveien 70B, Strømmen",59.961551,10.998953
+562538,"Skjettenveien 64, Strømmen",59.961193,10.999784
+562539,"Skjettenveien 65, Strømmen",59.960184,10.998494
+562540,"Skjettenveien 63, Strømmen",59.960392,10.998345
+562541,"Skjettenveien 62, Strømmen",59.961372,11.00127
+562542,"Skjettenveien 61A, Strømmen",59.960549,10.998713
+562543,"Skjettenveien 60, Strømmen",59.961421,11.001632
+562544,"Skjettenveien 59, Strømmen",59.960584,10.99936
+562545,"Skjettenveien 58G, Strømmen",59.961672,11.001665
+562546,"Skjettenveien 58F, Strømmen",59.961646,11.001538
+562547,"Skjettenveien 58E, Strømmen",59.961632,11.00134
+562548,"Skjettenveien 58D, Strømmen",59.961885,11.001212
+562549,"Skjettenveien 58C, Strømmen",59.961919,11.001357
+562550,"Skjettenveien 58B, Strømmen",59.961944,11.001484
+562551,"Skjettenveien 58A, Strømmen",59.961969,11.001611
+562552,"Skjettenveien 57B, Strømmen",59.960841,11.000164
+562553,"Skjettenveien 57A, Strømmen",59.960862,11.000541
+562554,"Skjettenveien 56, Strømmen",59.961799,11.003356
+562555,"Skjettenveien 55, Strømmen",59.960973,11.000942
+562556,"Skjettenveien 53B, Strømmen",59.961087,11.001701
+562557,"Skjettenveien 53A, Strømmen",59.961153,11.002117
+562558,"Skjettenveien 51, Strømmen",59.961227,11.002551
+562559,"Skjettenveien 49B, Strømmen",59.961357,11.003419
+562560,"Skjettenveien 49A, Strømmen",59.961381,11.003618
+562561,"Skjettenveien 48, Strømmen",59.962218,11.005925
+562562,"Skjettenveien 47B, Strømmen",59.961255,11.004255
+562563,"Skjettenveien 45B, Strømmen",59.961347,11.004726
+562564,"Skjettenveien 44A, Strømmen",59.962556,11.008454
+562565,"Skjettenveien 41, Strømmen",59.961818,11.00565
+562566,"Skjettenveien 39, Strømmen",59.961981,11.006126
+562568,"Skjettenveien 37, Strømmen",59.962127,11.007138
+562572,"Skjettenveien 33C, Strømmen",59.961818,11.008552
+562573,"Skjettenveien 33B, Strømmen",59.962036,11.008356
+562574,"Skjettenveien 33A, Strømmen",59.962014,11.008496
+562751,"Solvangen 18, Strømmen",59.971049,11.009953
+562767,"Solvangen 32, Strømmen",59.971234,11.00957
+562768,"Solvangen 30, Strømmen",59.971215,11.009068
+562769,"Solvangen 28, Strømmen",59.971377,11.009024
+562770,"Solvangen 22, Strømmen",59.971015,11.009199
+562771,"Solvangen 20, Strømmen",59.971046,11.009523
+562772,"Solvangen 16, Strømmen",59.970877,11.009997
+562773,"Solvangen 14, Strømmen",59.970715,11.010041
+562774,"Solvangen 12, Strømmen",59.970526,11.010065
+562775,"Solvangen 10, Strømmen",59.970658,11.009625
+562776,"Solvangen 8, Strømmen",59.970523,11.009635
+562777,"Solvangen 6, Strømmen",59.970494,11.009221
+562778,"Solvangen 5, Strømmen",59.972158,11.00787
+562779,"Solvangen 4, Strømmen",59.970629,11.009211
+562780,"Solvangen 2, Strømmen",59.9708,11.009186
+562781,"Solvangen 1, Strømmen",59.971874,11.007656
+563169,"Solvangen 140, Strømmen",59.970877,11.011753
+563170,"Solvangen 138, Strømmen",59.970707,11.011707
+563171,"Solvangen 136, Strømmen",59.970622,11.011451
+563172,"Solvangen 134, Strømmen",59.970748,11.011422
+563173,"Solvangen 132, Strømmen",59.970601,11.011055
+563174,"Solvangen 130, Strømmen",59.970736,11.010992
+563175,"Solvangen 128, Strømmen",59.970571,11.010623
+563176,"Solvangen 126, Strømmen",59.970734,11.010579
+563177,"Solvangen 124, Strømmen",59.970896,11.010535
+563178,"Solvangen 122, Strømmen",59.971067,11.010528
+563179,"Solvangen 120, Strømmen",59.971088,11.01087
+563180,"Solvangen 118, Strømmen",59.971101,11.011211
+563181,"Solvangen 116, Strømmen",59.971123,11.011571
+563182,"Solvangen 114, Strømmen",59.971659,11.011729
+563183,"Solvangen 112, Strømmen",59.971479,11.011771
+563184,"Solvangen 110, Strømmen",59.971307,11.011833
+563185,"Solvangen 108, Strømmen",59.971277,11.011472
+563186,"Solvangen 106, Strømmen",59.971412,11.011427
+563187,"Solvangen 104, Strømmen",59.971266,11.011024
+563188,"Solvangen 102, Strømmen",59.971392,11.010978
+563189,"Solvangen 100, Strømmen",59.971263,11.010629
+563190,"Solvangen 98, Strømmen",59.971398,11.010602
+563191,"Solvangen 96, Strømmen",59.971552,11.010539
+563192,"Solvangen 94, Strømmen",59.971713,11.010585
+563193,"Solvangen 92, Strømmen",59.971725,11.010926
+563194,"Solvangen 90, Strømmen",59.971747,11.01125
+563195,"Solvangen 88, Strømmen",59.971912,11.011045
+563196,"Solvangen 86, Strømmen",59.971881,11.010703
+563197,"Solvangen 84, Strømmen",59.971887,11.010309
+563198,"Solvangen 82, Strømmen",59.972023,11.010281
+563199,"Solvangen 80, Strømmen",59.972167,11.010236
+563200,"Solvangen 78, Strømmen",59.972256,11.010277
+563201,"Solvangen 76, Strømmen",59.972286,11.010656
+563202,"Solvangen 74, Strømmen",59.972265,11.010887
+563203,"Solvangen 72, Strømmen",59.972093,11.010949
+563204,"Solvangen 66, Strømmen",59.972261,11.008773
+563205,"Solvangen 64, Strømmen",59.972283,11.009079
+563206,"Solvangen 62, Strømmen",59.972287,11.009455
+563207,"Solvangen 60, Strømmen",59.972145,11.009894
+563208,"Solvangen 58, Strømmen",59.971965,11.009901
+563209,"Solvangen 56, Strømmen",59.971816,11.009713
+563210,"Solvangen 54, Strømmen",59.971953,11.00956
+563211,"Solvangen 52, Strømmen",59.971795,11.009318
+563212,"Solvangen 50, Strømmen",59.971931,11.009201
+563213,"Solvangen 48, Strømmen",59.971792,11.008905
+563214,"Solvangen 46, Strømmen",59.971911,11.008787
+563215,"Solvangen 44, Strømmen",59.972045,11.008777
+563216,"Solvangen 42, Strømmen",59.971594,11.008965
+563217,"Solvangen 40, Strømmen",59.971606,11.009306
+563218,"Solvangen 39, Strømmen",59.972643,11.009047
+563219,"Solvangen 38, Strømmen",59.971618,11.009719
+563220,"Solvangen 37, Strømmen",59.972671,11.008421
+563221,"Solvangen 36, Strømmen",59.971392,11.009813
+563222,"Solvangen 34, Strømmen",59.971248,11.00984
+563351,"Stavstubben 8D, Strømmen",59.962209,11.002915
+563352,"Stavstubben 8C, Strømmen",59.962137,11.002947
+563353,"Stavstubben 8B, Strømmen",59.962083,11.002979
+563354,"Stavstubben 8A, Strømmen",59.962028,11.003012
+563355,"Stavstubben 6D, Strømmen",59.96229,11.003493
+563356,"Stavstubben 6C, Strømmen",59.962227,11.003543
+563357,"Stavstubben 6B, Strømmen",59.962173,11.003558
+563358,"Stavstubben 6A, Strømmen",59.962118,11.003608
+563359,"Stavstubben 5G, Strømmen",59.962103,11.002228
+563360,"Stavstubben 5F, Strømmen",59.96204,11.00226
+563361,"Stavstubben 5E, Strømmen",59.961976,11.002292
+563362,"Stavstubben 5D, Strømmen",59.961913,11.002342
+563363,"Stavstubben 5C, Strømmen",59.961858,11.002375
+563364,"Stavstubben 5B, Strømmen",59.961795,11.002407
+563365,"Stavstubben 5A, Strømmen",59.961732,11.002439
+563366,"Stavstubben 4D, Strømmen",59.96238,11.00409
+563367,"Stavstubben 4C, Strømmen",59.962317,11.004104
+563368,"Stavstubben 4B, Strømmen",59.962263,11.004137
+563369,"Stavstubben 4A, Strømmen",59.962199,11.004204
+563370,"Stavstubben 2, Strømmen",59.962325,11.004785
+563783,"Tårnbyveien 261, Strømmen",59.970924,11.000396
+563784,"Tårnbyveien 260, Strømmen",59.970366,11.002369
+563785,"Tårnbyveien 259, Strømmen",59.970905,11.000484
+563786,"Tårnbyveien 258, Strømmen",59.970393,11.00226
+563787,"Tårnbyveien 257, Strømmen",59.970885,11.00059
+563788,"Tårnbyveien 256, Strømmen",59.970426,11.002167
+563789,"Tårnbyveien 254, Strømmen",59.97045,11.002069
+563790,"Tårnbyveien 253, Strømmen",59.970683,11.000936
+563791,"Tårnbyveien 252, Strømmen",59.970478,11.001963
+563792,"Tårnbyveien 250, Strømmen",59.970498,11.001875
+563793,"Tårnbyveien 249, Strømmen",59.969778,11.001957
+563794,"Tårnbyveien 247, Strømmen",59.969788,11.001868
+563795,"Tårnbyveien 245, Strømmen",59.969826,11.001763
+563796,"Tårnbyveien 243, Strømmen",59.969854,11.001675
+563797,"Tårnbyveien 241, Strømmen",59.969892,11.001552
+563798,"Tårnbyveien 239, Strømmen",59.96992,11.001464
+563799,"Tårnbyveien 237, Strømmen",59.969958,11.001359
+563800,"Tårnbyveien 235, Strømmen",59.969986,11.001271
+563801,"Tårnbyveien 197, Strømmen",59.969729,11.001004
+563802,"Tårnbyveien 195, Strømmen",59.969692,11.00111
+563803,"Tårnbyveien 193, Strømmen",59.969672,11.001216
+563804,"Tårnbyveien 191, Strømmen",59.969644,11.00134
+563805,"Tårnbyveien 189, Strømmen",59.969834,10.999434
+563806,"Tårnbyveien 187, Strømmen",59.969806,10.99954
+563807,"Tårnbyveien 185, Strømmen",59.969768,10.999627
+563808,"Tårnbyveien 183, Strømmen",59.96974,10.999733
+563809,"Tårnbyveien 181, Strømmen",59.969712,10.999803
+563810,"Tårnbyveien 179, Strømmen",59.969692,10.999909
+563811,"Tårnbyveien 177, Strømmen",59.969664,10.999997
+563812,"Tårnbyveien 175, Strømmen",59.969626,11.000102
+563813,"Tårnbyveien 173, Strømmen",59.969589,11.000207
+563814,"Tårnbyveien 171, Strømmen",59.96956,11.000313
+563815,"Tårnbyveien 169, Strømmen",59.969532,11.000401
+563816,"Tårnbyveien 167, Strømmen",59.969512,11.000507
+563817,"Tårnbyveien 165, Strømmen",59.96946,11.000988
+563818,"Tårnbyveien 163, Strømmen",59.969416,11.000932
+563819,"Tårnbyveien 161, Strømmen",59.969363,11.000893
+563820,"Tårnbyveien 159, Strømmen",59.96931,11.000836
+563821,"Tårnbyveien 157, Strømmen",59.969257,11.000761
+563822,"Tårnbyveien 155, Strømmen",59.969213,11.000704
+563823,"Tårnbyveien 153, Strømmen",59.96916,11.000665
+563824,"Tårnbyveien 151, Strømmen",59.969116,11.000609
+563825,"Tårnbyveien 147, Strømmen",59.969257,11.000205
+563826,"Tårnbyveien 145, Strømmen",59.969276,11.000117
+563827,"Tårnbyveien 143, Strømmen",59.969305,10.999993
+563828,"Tårnbyveien 141, Strømmen",59.969342,10.99987
+563829,"Tårnbyveien 139, Strømmen",59.969362,10.999764
+563830,"Tårnbyveien 137, Strømmen",59.9694,10.999659
+563831,"Tårnbyveien 135, Strømmen",59.969428,10.999553
+563832,"Tårnbyveien 133, Strømmen",59.969456,10.999465
+563833,"Tårnbyveien 131, Strømmen",59.969485,10.999377
+563834,"Tårnbyveien 129, Strømmen",59.969513,10.999289
+563835,"Tårnbyveien 127, Strømmen",59.969238,10.999058
+563836,"Tårnbyveien 125, Strømmen",59.969228,10.999147
+563837,"Tårnbyveien 123, Strømmen",59.96919,10.999252
+563838,"Tårnbyveien 121, Strømmen",59.969152,10.999375
+563839,"Tårnbyveien 119, Strømmen",59.969124,10.999499
+563840,"Tårnbyveien 117, Strømmen",59.969086,10.999604
+563841,"Tårnbyveien 115, Strømmen",59.969057,10.99971
+563842,"Tårnbyveien 113, Strømmen",59.969038,10.999798
+563843,"Tårnbyveien 111, Strømmen",59.969019,10.999904
+563844,"Tårnbyveien 109, Strømmen",59.968991,10.999974
+563845,"Tårnbyveien 105, Strømmen",59.968854,11.000665
+563846,"Tårnbyveien 103, Strømmen",59.968801,11.000644
+563847,"Tårnbyveien 101, Strømmen",59.968757,11.000587
+563848,"Tårnbyveien 99, Strømmen",59.968704,11.000512
+563849,"Tårnbyveien 97, Strømmen",59.968651,11.000455
+563850,"Tårnbyveien 95, Strømmen",59.968589,11.000398
+563851,"Tårnbyveien 93, Strømmen",59.968554,11.00036
+563852,"Tårnbyveien 91, Strømmen",59.968492,11.000285
+563853,"Tårnbyveien 87, Strømmen",59.968669,10.999865
+563854,"Tårnbyveien 85, Strømmen",59.968688,10.999759
+563855,"Tårnbyveien 83, Strømmen",59.968717,10.999635
+563856,"Tårnbyveien 81, Strømmen",59.968755,10.999512
+563857,"Tårnbyveien 79, Strømmen",59.968783,10.999424
+563858,"Tårnbyveien 77, Strømmen",59.968803,10.999336
+563859,"Tårnbyveien 75, Strømmen",59.968831,10.99923
+563860,"Tårnbyveien 73, Strømmen",59.968859,10.999142
+563861,"Tårnbyveien 71, Strømmen",59.968888,10.999019
+563862,"Tårnbyveien 69, Strømmen",59.968917,10.998931
+563863,"Tårnbyveien 65, Strømmen",59.968709,10.998434
+563864,"Tårnbyveien 63, Strømmen",59.96868,10.998522
+563865,"Tårnbyveien 61, Strømmen",59.968652,10.99861
+563866,"Tårnbyveien 59, Strømmen",59.968623,10.998716
+563867,"Tårnbyveien 57, Strømmen",59.968595,10.998804
+563868,"Tårnbyveien 55, Strømmen",59.968567,10.99891
+563869,"Tårnbyveien 53, Strømmen",59.968538,10.999015
+563870,"Tårnbyveien 51, Strømmen",59.968518,10.999122
+563871,"Tårnbyveien 49, Strømmen",59.968481,10.999245
+563872,"Tårnbyveien 47, Strømmen",59.968452,10.999351
+563873,"Tårnbyveien 45, Strømmen",59.968415,10.999456
+563874,"Tårnbyveien 43, Strømmen",59.968386,10.999544
+563875,"Tårnbyveien 39, Strømmen",59.968328,10.999827
+563876,"Tårnbyveien 37, Strømmen",59.9683,10.999933
+563877,"Tårnbyveien 35, Strømmen",59.968253,11.000055
+563878,"Tårnbyveien 33, Strømmen",59.968234,11.000144
+563879,"Tårnbyveien 31, Strømmen",59.968471,10.998133
+563880,"Tårnbyveien 29, Strømmen",59.968443,10.998203
+563881,"Tårnbyveien 27, Strømmen",59.968414,10.998291
+563882,"Tårnbyveien 25, Strømmen",59.968395,10.99838
+563883,"Tårnbyveien 23, Strømmen",59.968366,10.998485
+563884,"Tårnbyveien 21, Strømmen",59.968338,10.998591
+563885,"Tårnbyveien 19, Strømmen",59.96831,10.998679
+563886,"Tårnbyveien 17, Strømmen",59.968281,10.998803
+563887,"Tårnbyveien 15, Strømmen",59.968244,10.99889
+563888,"Tårnbyveien 13, Strømmen",59.968215,10.999014
+563889,"Tårnbyveien 11, Strømmen",59.968195,10.999102
+563890,"Tårnbyveien 9, Strømmen",59.968157,10.999243
+563891,"Tårnbyveien 7, Strømmen",59.968064,10.999506
+563892,"Tårnbyveien 5, Strømmen",59.968036,10.999576
+563893,"Tårnbyveien 3, Strømmen",59.967998,10.999699
+563894,"Tårnbyveien 1, Strømmen",59.967978,10.999788
+563957,"Tårnbyveien 437, Strømmen",59.972667,11.002776
+563958,"Tårnbyveien 435, Strømmen",59.972638,11.002864
+563959,"Tårnbyveien 433, Strømmen",59.97261,11.00297
+563960,"Tårnbyveien 431, Strømmen",59.972581,11.003094
+563961,"Tårnbyveien 425, Strømmen",59.972379,11.003977
+563962,"Tårnbyveien 423, Strømmen",59.972326,11.003921
+563963,"Tårnbyveien 421, Strømmen",59.972273,11.003864
+563964,"Tårnbyveien 419, Strømmen",59.972211,11.003806
+563965,"Tårnbyveien 417, Strømmen",59.972167,11.00375
+563966,"Tårnbyveien 415, Strømmen",59.972123,11.003693
+563967,"Tårnbyveien 411, Strømmen",59.97229,11.002874
+563968,"Tårnbyveien 409, Strømmen",59.97232,11.002774
+563969,"Tårnbyveien 407, Strømmen",59.972347,11.002677
+563970,"Tårnbyveien 405, Strømmen",59.972383,11.002544
+563971,"Tårnbyveien 403, Strømmen",59.97242,11.002457
+563972,"Tårnbyveien 401, Strømmen",59.972439,11.002368
+563973,"Tårnbyveien 399, Strømmen",59.972468,11.002281
+563974,"Tårnbyveien 397, Strømmen",59.972505,11.002157
+563975,"Tårnbyveien 395, Strømmen",59.972534,11.002069
+563976,"Tårnbyveien 393, Strømmen",59.972553,11.001963
+563977,"Tårnbyveien 391, Strømmen",59.972581,11.001875
+563978,"Tårnbyveien 389, Strømmen",59.972619,11.00177
+563979,"Tårnbyveien 387, Strømmen",59.972278,11.001732
+563980,"Tårnbyveien 385, Strømmen",59.97225,11.001837
+563981,"Tårnbyveien 383, Strømmen",59.972212,11.001925
+563982,"Tårnbyveien 382, Strømmen",59.971797,11.005609
+563983,"Tårnbyveien 381, Strømmen",59.972193,11.002013
+563984,"Tårnbyveien 377, Strømmen",59.972116,11.002284
+563985,"Tårnbyveien 375, Strømmen",59.972078,11.002366
+563986,"Tårnbyveien 374, Strømmen",59.971822,11.00337
+563987,"Tårnbyveien 373, Strømmen",59.972048,11.002461
+563988,"Tårnbyveien 372, Strømmen",59.971794,11.003476
+563989,"Tårnbyveien 371, Strømmen",59.972032,11.002541
+563990,"Tårnbyveien 370, Strømmen",59.971756,11.003581
+563991,"Tårnbyveien 369, Strømmen",59.972041,11.001377
+563992,"Tårnbyveien 368, Strømmen",59.971728,11.003687
+563993,"Tårnbyveien 367, Strømmen",59.972013,11.001483
+563994,"Tårnbyveien 366, Strømmen",59.971699,11.003775
+563995,"Tårnbyveien 365, Strømmen",59.971984,11.001588
+563996,"Tårnbyveien 364, Strømmen",59.971671,11.003863
+563997,"Tårnbyveien 363, Strømmen",59.971947,11.001694
+563998,"Tårnbyveien 362, Strømmen",59.971633,11.003986
+563999,"Tårnbyveien 361, Strømmen",59.971918,11.001799
+564000,"Tårnbyveien 360, Strømmen",59.971623,11.004075
+564001,"Tårnbyveien 359, Strømmen",59.971899,11.001888
+564002,"Tårnbyveien 358, Strømmen",59.971291,11.004073
+564003,"Tårnbyveien 357, Strømmen",59.971866,11.002262
+564004,"Tårnbyveien 356, Strømmen",59.97131,11.003985
+564005,"Tårnbyveien 355, Strømmen",59.971813,11.002205
+564006,"Tårnbyveien 354, Strømmen",59.971339,11.003879
+564007,"Tårnbyveien 353, Strømmen",59.971769,11.002167
+564008,"Tårnbyveien 352, Strømmen",59.971367,11.003791
+564009,"Tårnbyveien 351, Strømmen",59.971724,11.002128
+564010,"Tårnbyveien 349, Strømmen",59.971672,11.002035
+564011,"Tårnbyveien 348, Strømmen",59.971481,11.003386
+564012,"Tårnbyveien 347, Strømmen",59.971628,11.001979
+564013,"Tårnbyveien 346, Strømmen",59.9715,11.003279
+564014,"Tårnbyveien 345, Strømmen",59.971566,11.001939
+564015,"Tårnbyveien 344, Strømmen",59.971529,11.003174
+564016,"Tårnbyveien 343, Strømmen",59.971521,11.001901
+564017,"Tårnbyveien 342, Strømmen",59.971557,11.003086
+564018,"Tårnbyveien 340, Strømmen",59.971302,11.002766
+564019,"Tårnbyveien 339, Strømmen",59.971625,11.001567
+564020,"Tårnbyveien 338, Strømmen",59.971264,11.002853
+564021,"Tårnbyveien 337, Strømmen",59.971653,11.001497
+564022,"Tårnbyveien 336, Strømmen",59.971236,11.002959
+564023,"Tårnbyveien 335, Strømmen",59.971691,11.001374
+564024,"Tårnbyveien 334, Strømmen",59.971207,11.003064
+564113,"Tårnbyveien 517, Strømmen",59.972783,11.004575
+564114,"Tårnbyveien 515, Strømmen",59.97282,11.004524
+564115,"Tårnbyveien 513, Strømmen",59.972857,11.004419
+564116,"Tårnbyveien 511, Strømmen",59.972886,11.004331
+564117,"Tårnbyveien 509, Strømmen",59.972905,11.004242
+564118,"Tårnbyveien 507, Strømmen",59.972933,11.004154
+564119,"Tårnbyveien 505, Strømmen",59.972953,11.00403
+564120,"Tårnbyveien 503, Strømmen",59.972982,11.003924
+564121,"Tårnbyveien 501, Strømmen",59.97301,11.003836
+564122,"Tårnbyveien 499, Strømmen",59.973038,11.003731
+564123,"Tårnbyveien 497, Strømmen",59.973152,11.003361
+564124,"Tårnbyveien 495, Strømmen",59.973171,11.003309
+564125,"Tårnbyveien 493, Strømmen",59.973208,11.003203
+564126,"Tårnbyveien 491, Strømmen",59.973246,11.003098
+564127,"Tårnbyveien 485, Strømmen",59.973029,11.002583
+564128,"Tårnbyveien 483, Strømmen",59.973,11.002707
+564129,"Tårnbyveien 481, Strømmen",59.97298,11.002813
+564130,"Tårnbyveien 479, Strømmen",59.972943,11.002936
+564131,"Tårnbyveien 477, Strømmen",59.972923,11.003043
+564132,"Tårnbyveien 475, Strømmen",59.972886,11.003148
+564133,"Tårnbyveien 471, Strømmen",59.972791,11.003483
+564134,"Tårnbyveien 469, Strømmen",59.972762,11.003588
+564135,"Tårnbyveien 467, Strømmen",59.972734,11.003694
+564136,"Tårnbyveien 465, Strømmen",59.972696,11.0038
+564137,"Tårnbyveien 463, Strømmen",59.972668,11.003887
+564138,"Tårnbyveien 461, Strømmen",59.972639,11.003975
+564139,"Tårnbyveien 459, Strømmen",59.972611,11.004063
+564140,"Tårnbyveien 457, Strømmen",59.972582,11.004205
+564141,"Tårnbyveien 455, Strømmen",59.972554,11.004293
+564142,"Tårnbyveien 453, Strømmen",59.972526,11.004381
+564143,"Tårnbyveien 449, Strømmen",59.972828,11.002177
+564144,"Tårnbyveien 447, Strømmen",59.9728,11.002265
+564145,"Tårnbyveien 445, Strømmen",59.972772,11.002371
+564146,"Tårnbyveien 443, Strømmen",59.972734,11.002476
+564147,"Tårnbyveien 441, Strømmen",59.972706,11.002582
+564148,"Tårnbyveien 439, Strømmen",59.972686,11.00267
+564149,"Tårnbyveien 333, Strømmen",59.971719,11.001268
+564150,"Tårnbyveien 332, Strømmen",59.97117,11.00317
+564151,"Tårnbyveien 331, Strømmen",59.971748,11.00118
+564152,"Tårnbyveien 330, Strømmen",59.971132,11.003257
+564153,"Tårnbyveien 329, Strømmen",59.971776,11.001092
+564154,"Tårnbyveien 328, Strømmen",59.971113,11.003363
+564155,"Tårnbyveien 327, Strømmen",59.971804,11.001004
+564156,"Tårnbyveien 326, Strømmen",59.971075,11.003469
+564157,"Tårnbyveien 325, Strømmen",59.971833,11.00088
+564158,"Tårnbyveien 324, Strømmen",59.971047,11.003557
+564159,"Tårnbyveien 323, Strømmen",59.971871,11.000775
+564160,"Tårnbyveien 322, Strømmen",59.971018,11.003662
+564161,"Tårnbyveien 321, Strømmen",59.971899,11.000687
+564162,"Tårnbyveien 318, Strømmen",59.970724,11.003537
+564163,"Tårnbyveien 317, Strømmen",59.971643,11.000385
+564164,"Tårnbyveien 316, Strømmen",59.970752,11.003449
+564165,"Tårnbyveien 315, Strømmen",59.971614,11.000491
+564166,"Tårnbyveien 314, Strømmen",59.970781,11.003361
+564167,"Tårnbyveien 313, Strømmen",59.971586,11.000597
+564168,"Tårnbyveien 312, Strømmen",59.970809,11.003238
+564169,"Tårnbyveien 311, Strømmen",59.971566,11.000703
+564170,"Tårnbyveien 310, Strømmen",59.970838,11.003132
+564171,"Tårnbyveien 309, Strømmen",59.971529,11.00079
+564172,"Tårnbyveien 308, Strømmen",59.970857,11.003061
+564173,"Tårnbyveien 307, Strømmen",59.97151,11.000897
+564174,"Tårnbyveien 306, Strømmen",59.970904,11.002921
+564175,"Tårnbyveien 304, Strømmen",59.970932,11.002833
+564176,"Tårnbyveien 303, Strømmen",59.971406,11.001195
+564177,"Tårnbyveien 302, Strømmen",59.970961,11.002745
+564178,"Tårnbyveien 301, Strømmen",59.971387,11.001284
+564179,"Tårnbyveien 300, Strømmen",59.970989,11.002657
+564180,"Tårnbyveien 299, Strømmen",59.971368,11.001372
+564181,"Tårnbyveien 298, Strømmen",59.970697,11.002335
+564182,"Tårnbyveien 297, Strømmen",59.97133,11.001495
+564183,"Tårnbyveien 296, Strømmen",59.97066,11.00244
+564184,"Tårnbyveien 295, Strømmen",59.971293,11.001565
+564185,"Tårnbyveien 294, Strømmen",59.970631,11.002546
+564186,"Tårnbyveien 293, Strømmen",59.971273,11.001689
+564187,"Tårnbyveien 292, Strømmen",59.970621,11.002653
+564188,"Tårnbyveien 291, Strømmen",59.970991,11.001349
+564189,"Tårnbyveien 289, Strømmen",59.97101,11.001261
+564190,"Tårnbyveien 288, Strømmen",59.970517,11.002969
+564191,"Tårnbyveien 287, Strømmen",59.971048,11.001156
+564192,"Tårnbyveien 286, Strømmen",59.970489,11.003057
+564193,"Tårnbyveien 285, Strømmen",59.971076,11.00105
+564194,"Tårnbyveien 284, Strømmen",59.970469,11.003145
+564195,"Tårnbyveien 283, Strømmen",59.971114,11.000945
+564196,"Tårnbyveien 282, Strømmen",59.970441,11.003233
+564197,"Tårnbyveien 281, Strømmen",59.971142,11.000857
+564198,"Tårnbyveien 279, Strømmen",59.971179,11.000751
+564199,"Tårnbyveien 277, Strømmen",59.971199,11.000645
+564200,"Tårnbyveien 276, Strømmen",59.970128,11.003178
+564201,"Tårnbyveien 275, Strømmen",59.971227,11.000557
+564202,"Tårnbyveien 274, Strømmen",59.970162,11.003054
+564203,"Tårnbyveien 273, Strømmen",59.971256,11.000433
+564204,"Tårnbyveien 272, Strømmen",59.970189,11.002938
+564205,"Tårnbyveien 271, Strømmen",59.971284,11.000363
+564206,"Tårnbyveien 270, Strømmen",59.970213,11.002861
+564207,"Tårnbyveien 269, Strømmen",59.971322,11.000258
+564208,"Tårnbyveien 268, Strømmen",59.970248,11.002756
+564209,"Tårnbyveien 267, Strømmen",59.971019,11.000079
+564210,"Tårnbyveien 266, Strømmen",59.970281,11.002665
+564211,"Tårnbyveien 265, Strømmen",59.970991,11.000167
+564212,"Tårnbyveien 264, Strømmen",59.970307,11.002565
+564213,"Tårnbyveien 263, Strømmen",59.970953,11.00029
+564214,"Tårnbyveien 262, Strømmen",59.970339,11.002457
+564226,"Hvamsvingen 20, Strømmen",59.978309,11.007074
+564227,"Hvamsvingen 18, Strømmen",59.978796,11.006045
+564228,"Hvamsvingen 16, Strømmen",59.978227,11.009277
+564229,"Hvamsvingen 14, Strømmen",59.978182,11.00983
+564230,"Hvamsvingen 10, Strømmen",59.977792,11.009502
+564231,"Hvamsvingen 8, Strømmen",59.978064,11.008748
+564232,"Hvamsvingen 7, Strømmen",59.977502,11.002567
+564233,"Hvamsvingen 6, Strømmen",59.978144,11.007624
+564234,"Hvamsvingen 5, Strømmen",59.976856,11.003101
+564235,"Hvamsvingen 4, Strømmen",59.977256,11.005742
+564258,"Øvre Ryensvei 92, Strømmen",59.959998,10.98881
+564259,"Øvre Ryensvei 90B, Strømmen",59.9604,10.988942
+564260,"Øvre Ryensvei 90, Strømmen",59.960126,10.989248
+564261,"Øvre Ryensvei 88B, Strømmen",59.960419,10.989445
+564262,"Øvre Ryensvei 88A, Strømmen",59.960281,10.989705
+564263,"Øvre Ryensvei 87, Strømmen",59.960024,10.99003
+564264,"Øvre Ryensvei 86B, Strømmen",59.960375,10.989979
+564265,"Øvre Ryensvei 86A, Strømmen",59.960444,10.990163
+564266,"Aasmund Vinjes vei 34, Strømmen",59.960641,10.990837
+564267,"Aasmund Vinjes vei 32, Strømmen",59.960887,10.99121
+564268,"Aasmund Vinjes vei 30, Strømmen",59.960775,10.99149
+564269,"Aasmund Vinjes vei 28, Strømmen",59.961025,10.991541
+564270,"Aasmund Vinjes vei 20, Strømmen",59.96057,10.991961
+564271,"Øvre Ryensvei 49B, Strømmen",59.961059,10.997024
+564272,"Øvre Ryensvei 49A, Strømmen",59.961266,10.997001
+564273,"Øvre Ryensvei 46, Strømmen",59.963313,10.999515
+564274,"Øvre Ryensvei 45B, Strømmen",59.961396,10.997904
+564275,"Øvre Ryensvei 43B, Strømmen",59.961478,10.998411
+564276,"Øvre Ryensvei 43A, Strømmen",59.961474,10.998518
+564277,"Øvre Ryensvei 10, Strømmen",59.963065,11.003934
+564278,"Øvre Ryensvei 8, Strømmen",59.962804,11.006337
+564279,"Øvre Ryensvei 4B, Strømmen",59.963067,11.007356
+564280,"Øvre Ryensvei 4A, Strømmen",59.962867,11.007487
+564636,"Vidarveien 10, Strømmen",59.962101,11.007692
+564637,"Vidarveien 8, Strømmen",59.961849,11.007694
+564638,"Vidarveien 6, Strømmen",59.961661,11.007665
+564639,"Vidarveien 4, Strømmen",59.961489,11.00778
+564640,"Vidarveien 3, Strømmen",59.961741,11.007132
+564641,"Vidarveien 2, Strømmen",59.961294,11.007625
+564642,"Vidarveien 1, Strømmen",59.961427,11.007113
+564675,"Valstadsvingen 28, Strømmen",59.973275,11.010608
+564676,"Valstadsvingen 24, Strømmen",59.973401,11.011171
+564677,"Valstadsvingen 22, Strømmen",59.973632,11.010791
+564678,"Valstadsvingen 18, Strømmen",59.973554,11.009962
+564679,"Valstadsvingen 12, Strømmen",59.972428,11.007851
+564680,"Valstadsvingen 10, Strømmen",59.972328,11.007899
+564682,"Valstadsvingen 2, Strømmen",59.973348,11.005846
+564739,"Hvamsvingen 26, Strømmen",59.978165,11.003288
+564740,"Hvamsvingen 24, Strømmen",59.977841,11.004523
+564741,"Hvamsvingen 22, Strømmen",59.977998,11.00541
+565270,"Tømteveien 88, Strømmen",59.961913,10.983909
+565271,"Tømteveien 86A, Strømmen",59.961653,10.984185
+565272,"Tømteveien 82, Strømmen",59.961355,10.983966
+565273,"Tømteveien 80, Strømmen",59.961655,10.983733
+565274,"Tømteveien 78, Strømmen",59.961417,10.983396
+565275,"Tømteveien 76, Strømmen",59.961282,10.983478
+565716,"Tømtesvingen 15, Strømmen",59.960812,10.978273
+565717,"Tømtesvingen 13, Strømmen",59.960931,10.978083
+565718,"Tømtesvingen 12, Strømmen",59.961566,10.9795
+565719,"Tømtesvingen 11, Strømmen",59.961028,10.977641
+565720,"Tømtesvingen 10, Strømmen",59.961544,10.979767
+565721,"Tømtesvingen 9, Strømmen",59.961124,10.977844
+565722,"Tømtesvingen 8, Strømmen",59.961267,10.979679
+565723,"Tømtesvingen 7, Strømmen",59.961306,10.978284
+565724,"Tømtesvingen 6, Strømmen",59.961261,10.979428
+565725,"Tømtesvingen 5, Strømmen",59.961176,10.978563
+565726,"Tømtesvingen 4, Strømmen",59.961301,10.979198
+565727,"Tømtesvingen 3, Strømmen",59.961055,10.978843
+565728,"Tømtesvingen 2, Strømmen",59.961296,10.978947
+565729,"Tømteveien 170, Strømmen",59.959728,10.980465
+565730,"Tømteveien 169, Strømmen",59.959991,10.980893
+565731,"Tømteveien 168, Strømmen",59.95994,10.980119
+565732,"Tømteveien 167, Strømmen",59.959908,10.981013
+565733,"Tømteveien 166, Strømmen",59.960053,10.97975
+565734,"Tømteveien 165, Strømmen",59.959789,10.981203
+565735,"Tømteveien 163, Strømmen",59.960236,10.981301
+565736,"Tømteveien 161, Strømmen",59.960257,10.981106
+565737,"Tømteveien 157, Strømmen",59.960318,10.980679
+565738,"Tømteveien 155, Strømmen",59.960158,10.980562
+565739,"Tømteveien 154, Strømmen",59.961266,10.980324
+565740,"Tømteveien 153, Strømmen",59.960288,10.98023
+565741,"Tømteveien 152, Strømmen",59.961269,10.980127
+565742,"Tømteveien 151, Strømmen",59.960404,10.980308
+565743,"Tømteveien 150, Strømmen",59.961281,10.979913
+565744,"Tømteveien 149, Strømmen",59.960435,10.980006
+565745,"Tømteveien 148, Strømmen",59.961568,10.979984
+565746,"Tømteveien 147, Strømmen",59.960475,10.979793
+565747,"Tømteveien 146, Strømmen",59.9616,10.980219
+565748,"Tømteveien 145, Strømmen",59.96054,10.9796
+565749,"Tømteveien 144, Strømmen",59.961615,10.980434
+565750,"Tømteveien 143, Strømmen",59.960625,10.979336
+565751,"Tømteveien 142, Strømmen",59.961638,10.980651
+565752,"Tømteveien 140, Strømmen",59.961607,10.980918
+565753,"Tømteveien 138, Strømmen",59.961394,10.981371
+565754,"Tømteveien 137, Strømmen",59.960926,10.979605
+565755,"Tømteveien 136, Strømmen",59.961325,10.981205
+565756,"Tømteveien 135, Strømmen",59.960906,10.979783
+565757,"Tømteveien 134, Strømmen",59.961301,10.980971
+565758,"Tømteveien 133, Strømmen",59.96084,10.979976
+565759,"Tømteveien 132, Strømmen",59.961268,10.98079
+565760,"Tømteveien 131, Strømmen",59.960717,10.980399
+565761,"Tømteveien 130, Strømmen",59.961476,10.981877
+565762,"Tømteveien 129, Strømmen",59.960842,10.980442
+565763,"Tømteveien 128, Strømmen",59.961594,10.981795
+565764,"Tømteveien 127, Strømmen",59.960948,10.980574
+565765,"Tømteveien 126, Strømmen",59.961677,10.981638
+565766,"Tømteveien 125, Strømmen",59.961101,10.981747
+565767,"Tømteveien 124, Strømmen",59.961818,10.981235
+565768,"Tømteveien 123, Strømmen",59.96106,10.981494
+565769,"Tømteveien 122, Strømmen",59.961861,10.981398
+565770,"Tømteveien 121, Strømmen",59.961028,10.981223
+565771,"Tømteveien 120, Strømmen",59.961948,10.981547
+565772,"Tømteveien 119, Strømmen",59.960987,10.980952
+565773,"Tømteveien 118, Strømmen",59.962018,10.981712
+565774,"Tømteveien 117, Strømmen",59.960685,10.980755
+565775,"Tømteveien 116, Strømmen",59.962087,10.981878
+565776,"Tømteveien 115, Strømmen",59.960672,10.980969
+565777,"Tømteveien 114, Strømmen",59.962138,10.982096
+565778,"Tømteveien 113, Strømmen",59.960669,10.98122
+565779,"Tømteveien 112, Strømmen",59.96218,10.982277
+565780,"Tømteveien 111, Strømmen",59.960648,10.981416
+565781,"Tømteveien 109, Strømmen",59.960654,10.981613
+565782,"Tømteveien 108, Strømmen",59.961994,10.982714
+565783,"Tømteveien 107, Strømmen",59.960631,10.981952
+565784,"Tømteveien 106, Strømmen",59.961803,10.982255
+565785,"Tømteveien 105, Strømmen",59.960645,10.982186
+565786,"Tømteveien 104, Strømmen",59.961728,10.98243
+565787,"Tømteveien 103, Strømmen",59.960905,10.982219
+565788,"Tømteveien 102, Strømmen",59.961654,10.982586
+565789,"Tømteveien 101, Strømmen",59.961012,10.982261
+565790,"Tømteveien 100, Strømmen",59.96158,10.982761
+565791,"Tømteveien 99, Strømmen",59.961164,10.982306
+565792,"Tømteveien 98, Strømmen",59.961514,10.982936
+565793,"Tømteveien 94, Strømmen",59.961863,10.983047
+565802,"Nybakveien 59, Strømmen",59.960775,11.006286
+565803,"Solvangen 3, Strømmen",59.971904,11.008034
+565804,"Hvamsvingen 11, Strømmen",59.978318,11.002652
+565805,"Guldhaugsletta 43, Strømmen",59.959371,10.982701
+565831,"Guldhaugsletta 83, Strømmen",59.956577,10.982713
+565832,"Guldhaugsletta 81, Strømmen",59.95672,10.982757
+565833,"Guldhaugsletta 79, Strømmen",59.956961,10.982879
+565834,"Guldhaugsletta 77, Strømmen",59.957236,10.983128
+565835,"Guldhaugsletta 75, Strømmen",59.95742,10.982853
+565836,"Guldhaugsletta 73, Strømmen",59.957355,10.982383
+565837,"Guldhaugsletta 71, Strømmen",59.957512,10.98327
+565838,"Guldhaugsletta 70, Strømmen",59.956956,10.982055
+565839,"Guldhaugsletta 69A, Strømmen",59.957731,10.982441
+565840,"Guldhaugsletta 68, Strømmen",59.957167,10.981727
+565841,"Guldhaugsletta 67, Strømmen",59.957583,10.982146
+565842,"Guldhaugsletta 65, Strømmen",59.957665,10.982043
+565843,"Guldhaugsletta 64, Strømmen",59.957406,10.981383
+565844,"Guldhaugsletta 63, Strømmen",59.958013,10.98219
+565845,"Guldhaugsletta 61, Strømmen",59.957831,10.981803
+565846,"Guldhaugsletta 60, Strømmen",59.957605,10.981252
+565847,"Guldhaugsletta 57, Strømmen",59.958257,10.981524
+565848,"Guldhaugsletta 49, Strømmen",59.959034,10.982448
+565849,"Guldhaugsletta 48, Strømmen",59.95831,10.980989
+565850,"Guldhaugsletta 46, Strømmen",59.958517,10.980966
+565851,"Guldhaugsletta 45, Strømmen",59.959351,10.982234
+565852,"Guldhaugsletta 42, Strømmen",59.958836,10.981236
+565853,"Guldhaugsletta 41B, Strømmen",59.959264,10.983208
+565854,"Guldhaugsletta 41A, Strømmen",59.959353,10.983189
+565855,"Guldhaugsletta 40, Strømmen",59.958996,10.981371
+565856,"Guldhaugsletta 39, Strømmen",59.959296,10.98352
+565857,"Guldhaugsletta 38, Strømmen",59.959129,10.981504
+565858,"Guldhaugsletta 37, Strømmen",59.959368,10.983506
+565859,"Guldhaugsletta 36, Strømmen",59.959307,10.981586
+565860,"Guldhaugsletta 35, Strømmen",59.959657,10.983416
+565861,"Guldhaugsletta 32, Strømmen",59.959612,10.98164
+565862,"Guldhaugsletta 30, Strømmen",59.959773,10.981668
+565863,"Guldhaugsletta 29, Strømmen",59.959978,10.982379
+565864,"Guldhaugsletta 28, Strømmen",59.959916,10.981694
+565865,"Guldhaugsletta 27, Strømmen",59.96007,10.982814
+565866,"Guldhaugsletta 26, Strømmen",59.96005,10.981738
+565867,"Guldhaugsletta 25, Strømmen",59.959881,10.982856
+565868,"Guldhaugsletta 24, Strømmen",59.960194,10.981747
+565869,"Guldhaugsletta 23, Strømmen",59.959865,10.983303
+565870,"Guldhaugsletta 21, Strømmen",59.959895,10.983717
+565871,"Guldhaugsletta 19, Strømmen",59.95988,10.98411
+565872,"Guldhaugsletta 17, Strømmen",59.960112,10.984214
+565873,"Guldhaugsletta 15, Strømmen",59.96025,10.984007
+565874,"Guldhaugsletta 13, Strømmen",59.960132,10.983463
+565875,"Guldhaugsletta 10, Strømmen",59.960404,10.982673
+565876,"Guldhaugsletta 9, Strømmen",59.96031,10.983545
+565877,"Guldhaugsletta 7, Strømmen",59.960492,10.983986
+565878,"Guldhaugsletta 6, Strømmen",59.960714,10.982978
+565879,"Guldhaugsletta 5, Strømmen",59.960673,10.983907
+565880,"Guldhaugsletta 4, Strømmen",59.960623,10.983062
+565881,"Guldhaugsletta 3, Strømmen",59.960829,10.983737
+565882,"Tømtesletta 28, Strømmen",59.959395,10.98109
+565883,"Tømtesletta 26, Strømmen",59.959219,10.980865
+565884,"Tømtesletta 24, Strømmen",59.959124,10.980626
+565885,"Tømtesletta 22, Strømmen",59.958713,10.980458
+565886,"Tømtesletta 20, Strømmen",59.958869,10.980253
+565887,"Tømtesletta 18, Strømmen",59.95905,10.980156
+565888,"Tømtesletta 17, Strømmen",59.959562,10.980724
+565889,"Tømtesletta 16, Strømmen",59.959207,10.979879
+565890,"Tømtesletta 15, Strømmen",59.959432,10.980447
+565891,"Tømtesletta 14, Strømmen",59.959354,10.979655
+565892,"Tømtesletta 12, Strømmen",59.959574,10.979345
+565893,"Tømtesletta 11, Strømmen",59.95958,10.980152
+565894,"Tømtesletta 10, Strømmen",59.959704,10.979067
+565895,"Tømtesletta 9, Strømmen",59.959784,10.979734
+565896,"Tømtesletta 8, Strømmen",59.95986,10.978825
+565897,"Tømtesletta 6, Strømmen",59.959998,10.978618
+565898,"Tømtesletta 4, Strømmen",59.960135,10.978447
+565899,"Tømtesletta 3, Strømmen",59.960184,10.979418
+565900,"Tømtesletta 2, Strømmen",59.960325,10.979014
+565901,"Tømtesvingen 50, Strømmen",59.960528,10.978632
+565902,"Tømtesvingen 48, Strømmen",59.960348,10.97803
+565903,"Tømtesvingen 46, Strømmen",59.960458,10.977893
+565904,"Tømtesvingen 44, Strømmen",59.960642,10.977636
+565905,"Tømtesvingen 42, Strømmen",59.96078,10.977393
+565906,"Tømtesvingen 40, Strømmen",59.960893,10.977077
+565907,"Tømtesvingen 38, Strømmen",59.96104,10.976818
+565908,"Tømtesvingen 36, Strømmen",59.961214,10.976595
+565909,"Tømtesvingen 34, Strømmen",59.961297,10.977066
+565910,"Tømtesvingen 32, Strømmen",59.9614,10.977359
+565911,"Tømtesvingen 30, Strømmen",59.961566,10.977709
+565912,"Tømtesvingen 28, Strømmen",59.961679,10.977966
+565913,"Tømtesvingen 26, Strømmen",59.961881,10.978229
+565914,"Tømtesvingen 24, Strømmen",59.961751,10.978544
+565915,"Tømtesvingen 22, Strømmen",59.961544,10.978549
+565916,"Tømtesvingen 20, Strømmen",59.961596,10.978696
+565917,"Tømtesvingen 18, Strømmen",59.961675,10.978826
+565918,"Tømtesvingen 17, Strømmen",59.960779,10.978647
+565919,"Tømtesvingen 16, Strømmen",59.961688,10.979131
+565937,"Grinda 5, Strømmen",59.961579,11.000083
+565938,"Grinda 2, Strømmen",59.961287,11.000943
+566024,"Tømtestubben 30, Strømmen",59.962774,10.98217
+566025,"Tømtestubben 28, Strømmen",59.962738,10.982203
+566026,"Tømtestubben 26, Strømmen",59.962673,10.981716
+566027,"Tømtestubben 24, Strømmen",59.962588,10.981424
+566028,"Tømtestubben 22, Strømmen",59.96254,10.981045
+566029,"Tømtestubben 20, Strømmen",59.962381,10.980821
+566030,"Tømtestubben 18, Strømmen",59.962188,10.980558
+566031,"Tømtestubben 14, Strømmen",59.962521,10.979879
+566032,"Tømtestubben 12, Strømmen",59.96232,10.979527
+566033,"Tømtestubben 10, Strømmen",59.962122,10.979515
+566034,"Tømtestubben 9B, Strømmen",59.962629,10.982895
+566035,"Tømtestubben 9A, Strømmen",59.962694,10.982756
+566036,"Tømtestubben 8, Strømmen",59.962052,10.97883
+566037,"Tømtestubben 7, Strømmen",59.962465,10.982456
+566038,"Tømtestubben 6, Strømmen",59.961847,10.97932
+566039,"Tømtestubben 5, Strømmen",59.962303,10.981873
+566040,"Tømtestubben 4, Strømmen",59.96182,10.979945
+566041,"Tømtestubben 3, Strømmen",59.962166,10.981381
+566042,"Tømtestubben 2, Strømmen",59.961875,10.980432
+566043,"Tømtestubben 1, Strømmen",59.962029,10.980979
+566273,"Bråteveien 95, Strømmen",59.957613,10.995026
+566319,"Nordens vei 21, Strømmen",59.96556,10.99804
+566344,"Nybakveien 46B, Strømmen",59.96092,11.002067
+566346,"Nybakveien 46A, Strømmen",59.960914,11.002425
+566348,"Nybakveien 48A, Strømmen",59.960689,11.001283
+566350,"Nybakveien 48C, Strømmen",59.96047,11.000919
+566351,"Nybakveien 48B, Strømmen",59.960678,11.000835
+566364,"Nordbyveien 223, Strømmen",59.9693,11.006784
+566365,"Hellaveien 63, Strømmen",59.954526,10.984166
+566366,"Nybakveien 26A, Strømmen",59.961192,11.009016
+566381,"Mauritz Hansens vei 18, Strømmen",59.958528,10.991552
+566382,"Mauritz Hansens vei 16, Strømmen",59.9585,10.991604
+566383,"Mauritz Hansens vei 14, Strømmen",59.958556,10.991518
+566384,"Mauritz Hansens vei 12, Strømmen",59.958639,10.991326
+566385,"Mauritz Hansens vei 10, Strømmen",59.958658,10.991273
+566386,"Mauritz Hansens vei 8, Strømmen",59.958695,10.991204
+566387,"Mauritz Hansens vei 4, Strømmen",59.958742,10.991063
+566474,"Ivar Aasens vei 19A, Strømmen",59.962867,10.990899
+566507,"Nybakveien 87C, Strømmen",59.959599,11.000895
+566532,"Nybakveien 87A, Strømmen",59.959874,11.000553
+566544,"Mauritz Hansens vei 74, Strømmen",59.958836,10.991356
+566545,"Mauritz Hansens vei 72, Strømmen",59.958881,10.991376
+566551,"Hellaveien 67, Strømmen",59.954011,10.983777
+566552,"Hellaveien 79, Strømmen",59.95375,10.983815
+566553,"Nybakveien 26B, Strømmen",59.961416,11.009011
+566554,"Guldhaugsletta 58, Strømmen",59.957869,10.981017
+566569,"Fredheimveien 3B, Strømmen",59.960208,11.000448
+566570,"Fredheimveien 3A, Strømmen",59.960406,11.000424
+566571,"Fredheimveien 1, Strømmen",59.960604,11.0004
+566592,"Bråteveien 134, Strømmen",59.965433,10.995299
+566641,"Mauritz Hansens vei 70, Strømmen",59.958917,10.991378
+566642,"Mauritz Hansens vei 68, Strømmen",59.958943,10.991434
+566643,"Mauritz Hansens vei 66, Strømmen",59.958979,10.991418
+566644,"Mauritz Hansens vei 64, Strømmen",59.959006,10.991438
+566645,"Mauritz Hansens vei 62, Strømmen",59.95905,10.991476
+566646,"Mauritz Hansens vei 60, Strømmen",59.9589,10.992524
+566647,"Mauritz Hansens vei 58, Strømmen",59.958918,10.992471
+566648,"Mauritz Hansens vei 56, Strømmen",59.958938,10.992365
+566649,"Mauritz Hansens vei 54, Strømmen",59.958939,10.992293
+566650,"Mauritz Hansens vei 52, Strømmen",59.95895,10.992186
+566651,"Mauritz Hansens vei 50, Strømmen",59.958959,10.992133
+566652,"Mauritz Hansens vei 48, Strømmen",59.958952,10.992008
+566653,"Mauritz Hansens vei 46, Strømmen",59.958971,10.991937
+566654,"Mauritz Hansens vei 44, Strømmen",59.958981,10.991866
+566655,"Mauritz Hansens vei 42, Strømmen",59.958992,10.991795
+566656,"Mauritz Hansens vei 40, Strømmen",59.959002,10.991706
+566657,"Mauritz Hansens vei 38, Strømmen",59.958559,10.991912
+566658,"Mauritz Hansens vei 36, Strømmen",59.958576,10.991949
+566659,"Mauritz Hansens vei 34, Strømmen",59.958612,10.991969
+566660,"Mauritz Hansens vei 32, Strømmen",59.958655,10.992043
+566661,"Mauritz Hansens vei 30, Strømmen",59.958673,10.992098
+566662,"Mauritz Hansens vei 28, Strømmen",59.958699,10.992118
+566663,"Mauritz Hansens vei 26, Strømmen",59.958734,10.992174
+566664,"Mauritz Hansens vei 24, Strømmen",59.95841,10.991736
+566665,"Mauritz Hansens vei 22, Strømmen",59.958436,10.991708
+566666,"Mauritz Hansens vei 20, Strømmen",59.958454,10.991691
+566668,"Hvamsvingen 2A, Strømmen",59.976109,11.003809
+566670,"Hvamsvingen 2B, Strømmen",59.976149,11.004116
+566690,"Nybakveien 46C, Strømmen",59.960908,11.001654
+566694,"Bråteveien 97, Strømmen",59.957697,10.995407
+566724,"Skjettenveien 97A, Strømmen",59.959303,10.98961
+566772,"Skjettenveien 97B, Strømmen",59.959286,10.989538
+566773,"Tømteveien 90, Strømmen",59.962221,10.983104
+566830,"Iver Holters vei 6A, Strømmen",59.965156,10.996277
+566908,"Nybakveien 44A, Strømmen",59.96094,11.002843
+566910,"Hellaveien 81, Strømmen",59.953483,10.983638
+566914,"Valstadsvingen 20B, Strømmen",59.97352,11.01048
+566916,"Valstadsvingen 20A, Strømmen",59.973603,11.010323
+566930,"Nybakveien 44B, Strømmen",59.960915,11.002565
+566931,"Nybakveien 42A, Strømmen",59.960954,11.003359
+566933,"Bråteveien 99C, Strømmen",59.960028,10.994526
+566935,"Bråteveien 99B, Strømmen",59.959919,10.994591
+566937,"Bråteveien 99A, Strømmen",59.959829,10.994639
+566939,"Nybakveien 42B, Strømmen",59.960925,11.003009
+566962,"Guldhaugsletta 33, Strømmen",59.95962,10.982895
+567005,"Hvamsvingen 9, Strømmen",59.977802,11.00176
+567010,"Rikard Nordraaks vei 18B, Strømmen",59.96405,10.998243
+567021,"Rikard Nordraaks vei 18A, Strømmen",59.964189,10.997911
+567071,"Ivar Aasens vei 4A, Strømmen",59.961132,10.990401
+567074,"Nordens vei 13, Strømmen",59.967046,11.000878
+567190,"Granneveien 2B, Strømmen",59.97268,10.997742
+567192,"Granneveien 2A, Strømmen",59.97279,10.998197
+567214,"Skjettenveien 52B, Strømmen",59.961978,11.004567
+567216,"Skjettenveien 52A, Strømmen",59.961972,11.004943
+567260,"Tårnbyveien 201, Strømmen",59.970171,11.000314
+567357,"Skjettenveien 50B, Strømmen",59.962127,11.005364
+567358,"Skjettenveien 50A, Strømmen",59.962445,11.005133
+567450,"Skjettenveien 54A, Strømmen",59.96182,11.004325
+567451,"Skjettenveien 54B, Strømmen",59.961737,11.00389
+567479,"Bråteveien 87, Strømmen",59.957278,10.995203
+567571,"Hellaveien 8, Strømmen",59.959186,10.992349
+567661,"Nybakveien 93B, Strømmen",59.95953,10.998956
+567662,"Nybakveien 93A, Strømmen",59.959631,10.998801
+567697,"Landskronaveien 338, Strømmen",59.972694,10.997438
+567698,"Landskronaveien 336, Strømmen",59.972512,10.997588
+567704,"Nordbyveien 8, Strømmen",59.963825,11.009516
+567705,"Trondheimsveien 44, Strømmen",59.979795,10.98838
+567706,"Trondheimsveien 38A, Strømmen",59.980389,10.989588
+567707,"Trondheimsveien 15, Strømmen",59.981505,10.974776
+567708,"Trondheimsveien 13, Strømmen",59.981404,10.974322
+567709,"Trondheimsveien 11, Strømmen",59.981355,10.973942
+567759,"Guldhaugsletta 31B, Strømmen",59.959602,10.982267
+567760,"Guldhaugsletta 31A, Strømmen",59.959733,10.982543
+567854,"Bråteveien 205, Strømmen",59.975232,10.972755
+567869,"Øvre Ryensvei 6A, Strømmen",59.962815,11.006785
+567873,"Fredheimveien 13B, Strømmen",59.95984,11.003381
+567874,"Fredheimveien 13A, Strømmen",59.959833,11.003255
+567887,"Nybakveien 33B, Strømmen",59.960571,11.009086
+567889,"Nybakveien 33A, Strømmen",59.960444,11.009168
+567923,"Bråteveien 185, Strømmen",59.974784,10.973712
+567954,"Skjettenveien 114B, Strømmen",59.959433,10.987505
+567955,"Skjettenveien 114A, Strømmen",59.959361,10.987536
+567956,"Hellaveien 18A, Strømmen",59.958693,10.993138
+567969,"Aasmund Vinjes vei 16A, Strømmen",59.960334,10.992126
+567970,"Aasmund Vinjes vei 16B, Strømmen",59.960187,10.991706
+567974,"Øvre Ryensvei 6B, Strømmen",59.962812,11.006982
+567975,"Øvre Ryensvei 6C, Strømmen",59.963038,11.006888
+568017,"Karterudgata 3, Strømmen",59.972762,10.973198
+568018,"Karterudgata 1, Strømmen",59.972619,10.973745
+568019,"Øvre Ryensvei 47A, Strømmen",59.961151,10.997513
+568020,"Øvre Ryensvei 47B, Strømmen",59.961349,10.997489
+568021,"Øvre Ryensvei 45A, Strømmen",59.961466,10.99807
+568022,"Skjettenveien 70A, Strømmen",59.961249,10.999293
+568043,"Karterudgata 9, Strømmen",59.972921,10.968635
+568062,"Nordbyveien 5G, Strømmen",59.963653,11.007803
+568063,"Nordbyveien 5E, Strømmen",59.963501,11.00774
+568064,"Nordbyveien 5D, Strømmen",59.96331,11.007926
+568065,"Nordbyveien 5B, Strømmen",59.963269,11.008282
+568066,"Nordbyveien 5A, Strømmen",59.963274,11.008533
+568067,"Nordbyveien 3A, Strømmen",59.963453,11.008562
+568068,"Nordbyveien 3B, Strømmen",59.963597,11.008517
+568069,"Nordbyveien 5C, Strømmen",59.963229,11.007957
+568070,"Nordbyveien 5F, Strømmen",59.963582,11.007781
+568096,"Kiellands vei 22B, Strømmen",59.962083,10.999397
+568097,"Kiellands vei 22A, Strømmen",59.962085,10.999253
+568112,"Skjettenveien 76B, Strømmen",59.960956,10.997287
+568113,"Skjettenveien 76A, Strømmen",59.960972,10.997413
+568114,"Skjettenveien 74A, Strømmen",59.960812,10.997332
+568115,"Ivar Aasens vei 22A, Strømmen",59.962616,10.992084
+568116,"Skjettenveien 93C, Strømmen",59.959206,10.990052
+568117,"Skjettenveien 93B, Strømmen",59.959205,10.990178
+568118,"Skjettenveien 93A, Strømmen",59.959443,10.990425
+568119,"Granneveien 7B, Strømmen",59.973461,10.999563
+568120,"Granneveien 7A, Strømmen",59.973414,10.999668
+568132,"Nybakveien 50, Strømmen",59.960032,10.999578
+568136,"Bråteveien 103, Strømmen",59.960888,10.994058
+568141,"Skjettenveien 45A, Strømmen",59.961543,11.004774
+568142,"Skjettenveien 47A, Strømmen",59.961438,11.004033
+568143,"Nybakveien 36A, Strømmen",59.961012,11.004885
+568146,"Nybakveien 38A, Strømmen",59.960954,11.004541
+568160,"Skjettenveien 104A, Strømmen",59.959666,10.989973
+568174,"Hellaveien 75, Strømmen",59.953881,10.984448
+568179,"Hellaveien 77, Strømmen",59.953691,10.984134
+568180,"Nybakveien 87B, Strømmen",59.959743,11.000295
+568181,"Nybakveien 87D, Strømmen",59.959429,11.000311
+568183,"Nybakveien 25A, Strømmen",59.960219,11.009799
+568197,"Ivar Aasens vei 14B, Strømmen",59.962115,10.991338
+568198,"Ivar Aasens vei 14A, Strømmen",59.962026,10.991314
+568295,"Landskronaveien 515, Strømmen",59.974533,10.999341
+568310,"Nybakveien 41B, Strømmen",59.959912,11.008723
+568311,"Nybakveien 41A, Strømmen",59.960136,11.008719
+568312,"Bråteveien 171, Strømmen",59.968961,10.979298
+568313,"Bråteveien 169, Strømmen",59.968967,10.980121
+568333,"Fredheimveien 6, Strømmen",59.960263,10.999806
+568343,"Skjettenveien 94B, Strømmen",59.959981,10.992266
+568345,"Skjettenveien 94A, Strømmen",59.960117,10.992221
+568359,"Skjettenveien 99B, Strømmen",59.95919,10.988762
+568361,"Skjettenveien 99A, Strømmen",59.959223,10.988943
+568363,"Bråteveien 142B, Strømmen",59.966242,10.994649
+568365,"Bråteveien 142A, Strømmen",59.966178,10.994699
+568389,"Bråteveien 177, Strømmen",59.971249,10.978842
+568390,"Bråteveien 165, Strømmen",59.97149,10.978946
+568488,"Nybakveien 32A, Strømmen",59.961023,11.007089
+568598,"Granneveien 40, Strømmen",59.974132,11.003295
+568607,"Guldhaugsletta 72, Strømmen",59.956747,10.982168
+568608,"Hellastubben 12, Strømmen",59.957895,10.994846
+568609,"Hellastubben 10, Strømmen",59.957857,10.99436
+568610,"Hellastubben 8, Strømmen",59.957827,10.993946
+568611,"Hellastubben 6, Strømmen",59.957733,10.993654
+568612,"Hellastubben 4, Strømmen",59.958104,10.993461
+568613,"Hellastubben 2, Strømmen",59.958262,10.993703
+568614,"Hellastubben 13, Strømmen",59.957885,10.995454
+568615,"Hellastubben 11, Strømmen",59.958068,10.995286
+568616,"Hellastubben 9, Strømmen",59.958293,10.99521
+568617,"Hellastubben 7, Strømmen",59.958331,10.994514
+568618,"Hellastubben 5A, Strømmen",59.958506,10.994793
+568619,"Hellastubben 3, Strømmen",59.95873,10.994233
+568620,"Hellastubben 1, Strømmen",59.958517,10.994095
+568652,"Skjettenveien 78A, Strømmen",59.960782,10.996327
+568653,"Karisveien 8B, Strømmen",59.966942,11.001822
+568654,"Karisveien 8C, Strømmen",59.966774,11.001614
+568655,"Karisveien 8A, Strømmen",59.967037,11.002078
+568712,"Nybakveien 21, Strømmen",59.960882,11.009302
+568713,"Nybakveien 19, Strømmen",59.96085,11.009604
+568723,"Bråteveien 213C, Strømmen",59.97634,10.970597
+568728,"Nybakveien 71B, Strømmen",59.960249,11.004248
+568729,"Nybakveien 71A, Strømmen",59.960285,11.004232
+568736,"Døliveien 2, Strømmen",59.960966,11.006118
+568737,"Døliveien 4, Strømmen",59.961143,11.00629
+568738,"Døliveien 10, Strømmen",59.961473,11.006471
+568739,"Døliveien 6, Strømmen",59.961304,11.006318
+568740,"Døliveien 8, Strømmen",59.961513,11.006169
+568741,"Døliveien 12, Strømmen",59.96179,11.006293
+568744,"Hellaveien 20C, Strømmen",59.958472,10.992319
+568745,"Hellaveien 20B, Strømmen",59.95863,10.992543
+568746,"Hellaveien 20A, Strømmen",59.958456,10.99273
+568752,"Ivar Aasens vei 25B, Strømmen",59.963771,10.990523
+568754,"Trondheimsveien 25, Strømmen",59.981768,10.994275
+568755,"Trondheimsveien 23, Strømmen",59.982805,10.988099
+568758,"Bråteveien 204, Strømmen",59.977627,10.974581
+568759,"Bråteveien 202, Strømmen",59.978245,10.974743
+568760,"Bråteveien 184, Strømmen",59.975354,10.978818
+568763,"Mauritz Hansens vei 94, Strømmen",59.959153,10.99064
+568764,"Mauritz Hansens vei 92, Strømmen",59.959124,10.990764
+568765,"Mauritz Hansens vei 90, Strømmen",59.959104,10.99087
+568766,"Mauritz Hansens vei 88, Strømmen",59.959084,10.990994
+568767,"Mauritz Hansens vei 86, Strømmen",59.959056,10.991118
+568768,"Mauritz Hansens vei 84, Strømmen",59.959179,10.99066
+568769,"Mauritz Hansens vei 82, Strømmen",59.95915,10.990801
+568770,"Mauritz Hansens vei 80, Strømmen",59.959131,10.99089
+568771,"Mauritz Hansens vei 78, Strømmen",59.959111,10.991014
+568772,"Mauritz Hansens vei 76, Strømmen",59.959082,10.991138
+568773,"Mauritz Hansens vei 98, Strømmen",59.959061,10.989596
+568774,"Mauritz Hansens vei 96, Strømmen",59.959019,10.989987
+568775,"Mauritz Hansens vei 19, Strømmen",59.959043,10.989004
+568790,"Bråteveien 192, Strømmen",59.978388,10.97778
+568791,"Bråteveien 190A, Strømmen",59.977567,10.978627
+568792,"Bråteveien 182, Strømmen",59.97708,10.978114
+568793,"Bråteveien 186, Strømmen",59.976061,10.979631
+568794,"Bråteveien 188, Strømmen",59.976251,10.978943
+569072,"Fredheimveien 4B, Strømmen",59.960359,10.999364
+569073,"Fredheimveien 4A, Strømmen",59.960425,10.999727
+569077,"Grinda 4, Strømmen",59.961531,11.000886
+569078,"Grinda 6, Strømmen",59.961726,11.001023
+569079,"Grinda 8, Strømmen",59.961748,11.000808
+569097,"Hellaveien 31G, Strømmen",59.957176,10.989519
+569098,"Hellaveien 31F, Strømmen",59.957105,10.989443
+569099,"Hellaveien 31E, Strømmen",59.957099,10.989245
+569100,"Hellaveien 31D, Strømmen",59.957084,10.989065
+569101,"Hellaveien 31J, Strømmen",59.956678,10.989131
+569102,"Hellaveien 31H, Strømmen",59.956708,10.989527
+569113,"Nybakveien 71D, Strømmen",59.960331,11.003608
+569114,"Nybakveien 71C, Strømmen",59.960337,11.003752
+569121,"Grinda 10B, Strømmen",59.96188,11.000925
+569122,"Grinda 10A, Strømmen",59.961855,11.000798
+569362,"Skjettenveien 72D, Strømmen",59.961015,10.998132
+569397,"Hellaveien 33C, Strømmen",59.956935,10.988215
+569398,"Hellaveien 33B, Strømmen",59.956965,10.988575
+569399,"Hellaveien 33A, Strømmen",59.956999,10.988738
+569400,"Hellaveien 33D, Strømmen",59.956895,10.987872
+569405,"Hellaveien 51, Strømmen",59.955621,10.985969
+569406,"Hellaveien 49, Strømmen",59.955687,10.985758
+569421,"Mauritz Hansens vei 2B, Strømmen",59.958761,10.991029
+569422,"Mauritz Hansens vei 2A, Strømmen",59.958164,10.991871
+569423,"Hellaveien 22C, Strømmen",59.958017,10.992077
+569424,"Hellaveien 22B, Strømmen",59.958202,10.992356
+569425,"Hellaveien 22A, Strømmen",59.958341,10.99206
+569877,"Skjettenveien 45C, Strømmen",59.961381,11.004818
+569903,"Skjettenveien 35, Strømmen",59.962098,11.007888
+569938,"Johan Svendsens vei 21C, Strømmen",59.962647,10.998947
+569953,"Grinda 7, Strømmen",59.961751,10.99995
+1124761,"Nybakveien 111, Strømmen",59.958493,10.996809
+1124765,"Nybakveien 109, Strømmen",59.958717,10.997458
+1124808,"Nybakveien 115, Strømmen",59.959061,10.996476
+1124811,"Nybakveien 113, Strømmen",59.958677,10.996247
+1373817,"Ivar Aasens vei 3B, Strømmen",59.960994,10.989678
+1642956,"Sanitetsveien 1, Strømmen",59.974554,10.966534
+1675247,"Dragonveien 32, Strømmen",59.974974,10.961113
+1675248,"Dragonveien 26, Strømmen",59.975176,10.96174
+1675317,"Dragonveien 22, Strømmen",59.975343,10.961394
+1675435,"Sanitetsveien 4, Strømmen",59.974806,10.965781
+1675500,"Kaptein Koss' vei 10, Strømmen",59.976091,10.965153
+1675501,"Lahaugmoveien 31, Strømmen",59.976746,10.964571
+1675578,"Kaptein Koss' vei 18, Strømmen",59.976051,10.966161
+1675579,"Kaptein Koss' vei 16, Strømmen",59.975927,10.965711
+1675606,"Lahaugmoveien 68, Strømmen",59.974602,10.964819
+1675607,"Sanitetsveien 6, Strømmen",59.974758,10.965695
+1675608,"Lahaugmoveien 54, Strømmen",59.974995,10.96553
+1675609,"Lahaugmoveien 58, Strømmen",59.974932,10.965417
+1685639,"Hellastubben 5B, Strømmen",59.958553,10.994864
+1689346,"Hellaveien 39A, Strømmen",59.95622,10.987927
+1689372,"Bråteveien 190B, Strømmen",59.978056,10.977782
+1689477,"Hellaveien 37G, Strømmen",59.956323,10.988287
+1689480,"Hellaveien 35A, Strømmen",59.956637,10.98738
+1689616,"Hellaveien 37B, Strømmen",59.956637,10.987769
+1689618,"Hellaveien 37E, Strømmen",59.956471,10.989056
+1692357,"Guldhaugsletta 69B, Strømmen",59.957778,10.982443
+1692857,"Kragerudveien 33, Strømmen",59.983985,10.982506
+1693004,"Kragerudveien 35, Strømmen",59.984108,10.983081
+1698976,"Trondheimsveien 28, Strømmen",59.978543,10.988991
+1699649,"Trondheimsveien 30, Strømmen",59.977922,10.990595
+1699790,"Trondheimsveien 32, Strømmen",59.977183,10.990078
+1699791,"Trondheimsveien 34, Strømmen",59.977395,10.989024
+1703361,"Hellaveien 45B, Strømmen",59.955703,10.986253
+1703365,"Hellaveien 45A, Strømmen",59.955753,10.986229
+1708552,"Kragerudveien 100, Strømmen",59.984061,10.972494
+1708553,"Kragerudveien 50, Strømmen",59.983948,10.973887
+1708630,"Kragerudveien 120E, Strømmen",59.986458,10.972052
+1756919,"Hellaveien 53A, Strømmen",59.954752,10.985657
+1756920,"Hellaveien 53B, Strømmen",59.954844,10.985482
+1756921,"Hellaveien 53C, Strømmen",59.954928,10.985224
+1756922,"Hellaveien 55A, Strømmen",59.954572,10.985437
+1756923,"Hellaveien 55B, Strømmen",59.954663,10.985245
+1756924,"Hellaveien 55C, Strømmen",59.954716,10.985023
+1756925,"Hellaveien 57A, Strømmen",59.954428,10.985138
+1756927,"Hellaveien 57B, Strømmen",59.954515,10.984945
+1756928,"Hellaveien 57C, Strømmen",59.95461,10.984778
+1777123,"Grinda 1A, Strømmen",59.961256,11.000287
+1777127,"Skjettenveien 66, Strømmen",59.961355,10.999813
+1777129,"Grinda 3B, Strømmen",59.961454,11.000118
+1777134,"Grinda 3A, Strømmen",59.961465,11.000183
+1777136,"Grinda 1B, Strømmen",59.961248,11.000222
+1796416,"Åslistubben 1, Strømmen",59.955165,10.98551
+1796417,"Åslistubben 5, Strømmen",59.954976,10.985846
+1796418,"Åslistubben 3, Strømmen",59.95507,10.985678
+1796419,"Åslistubben 10, Strømmen",59.955384,10.986132
+1796420,"Åslistubben 8, Strømmen",59.955358,10.985948
+1796421,"Åslistubben 14, Strømmen",59.955545,10.986591
+1796422,"Åslistubben 12, Strømmen",59.95549,10.986425
+1796425,"Åslistubben 16, Strømmen",59.955615,10.986907
+1796462,"Åslistubben 28, Strømmen",59.955861,10.988175
+1796463,"Åslistubben 15, Strømmen",59.95532,10.986841
+1796464,"Åslistubben 22, Strømmen",59.955741,10.987525
+1796465,"Åslistubben 26, Strømmen",59.955827,10.988
+1796466,"Åslistubben 21, Strømmen",59.955463,10.987521
+1796467,"Åslistubben 23, Strømmen",59.955526,10.987851
+1796468,"Åslistubben 17, Strømmen",59.95536,10.987008
+1796469,"Åslistubben 19, Strømmen",59.955427,10.987347
+1796476,"Åslistubben 25, Strømmen",59.955557,10.988027
+1796593,"Åslistubben 18, Strømmen",59.955646,10.987077
+1796818,"Åslistubben 24, Strømmen",59.955764,10.987706
+1797419,"Melby, Bråteveien 159, Strømmen",59.968595,10.99029
+1797420,"Melby, Bråteveien 147, Strømmen",59.968536,10.990827
+1797421,"Melby, Bråteveien 151, Strømmen",59.967772,10.99048
+1797422,"Melby, Bråteveien 149, Strømmen",59.968294,10.990911
+1797423,"Bråteveien 155, Strømmen",59.967111,10.989441
+1797473,"Valstadsvingen 72, Strømmen",59.976074,11.018466
+1797475,"Valstadsvingen 54, Strømmen",59.974923,11.016442
+1797478,"Valstadsvingen 52, Strømmen",59.974899,11.016692
+1797480,"Nordbyveien 32, Strømmen",59.965869,11.009156
+1797483,"Valstadsvingen 70, Strømmen",59.975904,11.018473
+1797486,"Nordby, Nordbyveien 36, Strømmen",59.966373,11.00924
+1805709,"Lahaugmoveien 109, Strømmen",59.974877,10.969365
+1805710,"Lahaugmoveien 111, Strømmen",59.974959,10.970035
+1805711,"Lahaugmoveien 113, Strømmen",59.975068,10.970083
+1836139,"Guldhaugsletta 51, Strømmen",59.958982,10.982986
+1836140,"Guldhaugsletta 47, Strømmen",59.958958,10.982105
+1836278,"Nybakveien 69B, Strømmen",59.960513,11.004176
+1843782,"Granneveien 22, Strømmen",59.973594,11.001419
+1843792,"Granneveien 26, Strømmen",59.97376,11.001846
+1843794,"Granneveien 34, Strømmen",59.974083,11.002837
+1843883,"Granneveien 24, Strømmen",59.973588,11.001581
+1849708,"Skjettenveien 74B, Strømmen",59.96084,10.997477
+1850743,"Skjettenveien 68B, Strømmen",59.96108,10.99915
+1850745,"Skjettenveien 68A, Strømmen",59.961105,10.99942
+1852979,"Hellaveien 59C, Strømmen",59.95426,10.984524
+1852980,"Hellaveien 59B, Strømmen",59.954203,10.984772
+1852981,"Hellaveien 59E, Strømmen",59.95435,10.984016
+1852982,"Hellaveien 59D, Strømmen",59.954317,10.984278
+1852984,"Hellaveien 59A, Strømmen",59.954177,10.985063
+1855676,"Skjettenveien 61B, Strømmen",59.960322,10.99887
+1864635,"Lahaugmoveien 29A, Strømmen",59.977644,10.963975
+1864637,"Lahaugmoveien 29C, Strømmen",59.977431,10.96423
+1864638,"Lahaugmoveien 29B, Strømmen",59.977575,10.964082
+1885064,"Fredheimveien 11B, Strømmen",59.960265,11.002997
+1885065,"Fredheimveien 11C, Strømmen",59.960278,11.003159
+1885721,"P.A. Iversens vei 12B, Strømmen",59.958595,10.988142
+1885723,"P.A. Iversens vei 12A, Strømmen",59.958431,10.988066
+1886160,"Hellaveien 71, Strømmen",59.954018,10.984572
+1903427,"Bråteveien 138B, Strømmen",59.966142,10.99541
+1903431,"Bråteveien 138D, Strømmen",59.96598,10.995555
+1903433,"Bråteveien 138C, Strømmen",59.965957,10.995376
+1913223,"Døliveien 5B, Strømmen",59.961412,11.005633
+1924229,"Skjettenveien 84C, Strømmen",59.960538,10.993593
+1924807,"Trondheimsveien 5, Nittedal",59.98477,10.956991
+1927927,"Nybakveien 52A, Strømmen",59.960149,10.999138
+1934153,"Iver Holters vei 6B, Strømmen",59.965223,10.996334
+1939143,"Tømteveien 86B, Strømmen",59.961672,10.984324
+1940155,"Ivar Aasens vei 6B, Strømmen",59.961215,10.990998
+1947993,"Dragonveien 16, Strømmen",59.975719,10.962048
+1947994,"Dragonveien 24, Strømmen",59.975227,10.961195
+1948033,"Dragonveien 14, Strømmen",59.975536,10.962114
+1948526,"Skjettenveien 92A, Strømmen",59.960196,10.992651
+1958558,"Kragerudveien 144, Strømmen",59.985537,10.976914
+1958715,"Kaptein Koss' vei 12, Strømmen",59.976497,10.965661
+1961682,"Granneveien 32, Strømmen",59.973907,11.002495
+1962061,"Granneveien 36, Strømmen",59.974073,11.002713
+1975101,"Granneveien 28, Strømmen",59.973793,11.002044
+1981259,"Åslistubben 7, Strømmen",59.955208,10.985851
+1988288,"Hellaveien 65, Strømmen",59.954167,10.983979
+1998676,"Nybakveien 48D, Strømmen",59.960422,11.000838
+2021257,"Aasmund Vinjes vei 24, Strømmen",59.960947,10.991907
+2021258,"Aasmund Vinjes vei 22, Strømmen",59.960841,10.99209
+2032779,"Skjettenveien 104B, Strømmen",59.959842,10.989747
+2035211,"Skjettenveien 106A, Strømmen",59.959535,10.989579
+2035275,"Nybakveien 54A, Strømmen",59.960039,10.99869
+2035594,"Skjettenveien 48A, Strømmen",59.962375,11.005797
+2035596,"Skjettenveien 48B, Strømmen",59.962311,11.005884
+2039665,"Sanitetsveien 15, Strømmen",59.973455,10.964927
+2039666,"Sanitetsveien 17, Strømmen",59.973519,10.964332
+2040567,"Tømteveien 84B, Strømmen",59.961342,10.984443
+2040570,"Tømteveien 84A, Strømmen",59.961275,10.984502
+2040890,"Dragonveien 70, Strømmen",59.973753,10.958979
+2041121,"Skjettenveien 44B, Strømmen",59.962534,11.007375
+2041161,"Ivar Aasens vei 8B, Strømmen",59.961417,10.991278
+2056281,"Rikard Nordraaks vei 24, Strømmen",59.964598,10.998838
+2064861,"Hellaveien 13A, Strømmen",59.957603,10.993168
+2069042,"Trondheimsveien 38B, Strømmen",59.980485,10.989705
+2069045,"Trondheimsveien 38C, Strømmen",59.980453,10.989671
+2071378,"Trondheimsveien 42, Strømmen",59.98005,10.98828
+2076052,"Granneveien 20, Strømmen",59.973469,11.001194
+2089565,"P.A. Iversens vei 2B, Strømmen",59.958302,10.990035
+2089566,"P.A. Iversens vei 2A, Strømmen",59.958272,10.990328
+2096107,"Hellaveien 89, Strømmen",59.952734,10.983838
+2100788,"Nybakveien 87E, Strømmen",59.959545,11.000389
+2168066,"Hellaveien 85, Strømmen",59.953165,10.984558
+2168067,"Hellaveien 83, Strømmen",59.953191,10.983817
+2168167,"Hellaveien 87, Strømmen",59.952987,10.984379
+2180570,"Granneveien 2C, Strømmen",59.972929,10.998044
+2183137,"Nybakveien 61F, Strømmen",59.960744,11.005411
+2183245,"Nybakveien 63J, Strømmen",59.960414,11.005686
+2183246,"Nybakveien 63K, Strømmen",59.960426,11.005611
+2183247,"Nybakveien 63L, Strømmen",59.960414,11.005531
+2183248,"Nybakveien 63H, Strømmen",59.960423,11.005764
+2183364,"Nybakveien 63F, Strømmen",59.960438,11.00601
+2183365,"Nybakveien 63G, Strømmen",59.960418,11.005948
+2183366,"Nybakveien 63A, Strømmen",59.960473,11.006481
+2183367,"Nybakveien 63B, Strømmen",59.960468,11.006402
+2183368,"Nybakveien 63C, Strømmen",59.960466,11.006322
+2183369,"Nybakveien 63D, Strømmen",59.960462,11.006247
+2183370,"Nybakveien 63E, Strømmen",59.960435,11.006096
+2183371,"Nybakveien 61A, Strømmen",59.960759,11.005878
+2183372,"Nybakveien 61E, Strømmen",59.960742,11.005481
+2183373,"Nybakveien 61D, Strømmen",59.960746,11.005562
+2183374,"Nybakveien 61C, Strømmen",59.960744,11.005734
+2183375,"Nybakveien 61B, Strømmen",59.960751,11.005807
+2188789,"Rikard Nordraaks vei 20B, Strømmen",59.964344,10.998479
+2188841,"Rikard Nordraaks vei 20C, Strømmen",59.964313,10.998616
+2200074,"Skjettenveien 43, Strømmen",59.961637,11.005138
+2242261,"Granneveien 18, Strømmen",59.97344,11.001105
+2376027,"Holum gårdsvei 1, Nittedal",59.987482,10.960038
+2376614,"P.A. Iversens vei 10B, Strømmen",59.958485,10.988554
+2376665,"P.A. Iversens vei 10A, Strømmen",59.958311,10.988529
+2382108,"Tømteveien 66, Strømmen",59.960885,10.984319
+2398932,"Trondheimsveien 40, Strømmen",59.980729,10.988588
+2398935,"Trondheimsveien 36, Strømmen",59.97962,10.991403
+2399133,"Guldhaugveien 7, Strømmen",59.95595,10.983822
+2399134,"Guldhaugveien 3B, Strømmen",59.955563,10.983852
+2423688,"Trondheimsveien 12B, Strømmen",59.979191,10.971502
+2423711,"Bråteveien 200, Strømmen",59.97863,10.975393
+2423712,"Bråteveien 198, Strømmen",59.977983,10.975408
+2423713,"Trondheimsveien 6, Strømmen",59.980089,10.969153
+2423714,"Bråteveien 196, Strømmen",59.977309,10.974848
+2423715,"Trondheimsveien 4, Strømmen",59.980212,10.96934
+2423716,"Trondheimsveien 2, Strømmen",59.980332,10.970924
+2423719,"Bråteveien 194, Strømmen",59.97741,10.975912
+2423738,"Lahaugmoveien 29E, Strømmen",59.977376,10.963723
+2423740,"Lahaugmoveien 27, Strømmen",59.977702,10.963528
+2423742,"Lahaugmoveien 25B, Strømmen",59.977911,10.96397
+2423744,"Lahaugmoveien 25A, Strømmen",59.977954,10.964098
+2423746,"Lahaugmoveien 23B, Strømmen",59.978096,10.96364
+2423748,"Lahaugmoveien 23A, Strømmen",59.978139,10.963751
+2423750,"Lahaugmoveien 21, Strømmen",59.97804,10.963171
+2423752,"Lahaugmoveien 19B, Strømmen",59.978356,10.963064
+2423754,"Lahaugmoveien 19A, Strømmen",59.978331,10.962938
+2423773,"Laboveien 14, Strømmen",59.977699,10.964943
+2423775,"Laboveien 12, Strømmen",59.97793,10.965136
+2423776,"Fletstein, Trondheimsveien 10B, Strømmen",59.978726,10.96954
+2423778,"Laboveien 10, Strømmen",59.978169,10.964792
+2423780,"Laboveien 8, Strømmen",59.978424,10.964502
+2423782,"Laboveien 6, Strømmen",59.978654,10.964157
+2423784,"Laboveien 4, Strømmen",59.978841,10.963649
+2423786,"Laboveien 2, Strømmen",59.978868,10.963095
+2423788,"Laboveien 1B, Strømmen",59.978418,10.963749
+2423790,"Laboveien 1A, Strømmen",59.978374,10.963657
+2423938,"Bråteveien 231, Strømmen",59.978538,10.972574
+2423940,"Lahaugmoveien 44, Strømmen",59.97568,10.963725
+2424007,"Lahaugmoveien 39, Strømmen",59.976278,10.964465
+2424008,"Kaptein Koss' vei 8, Strømmen",59.976199,10.964998
+2424009,"Lahaugmoveien 33, Strømmen",59.976534,10.964767
+2424010,"Lahaugmoveien 38, Strømmen",59.975893,10.963205
+2424011,"Lahaugmoveien 34, Strømmen",59.976263,10.962492
+2424012,"Lahaugmoveien 32, Strømmen",59.976436,10.962951
+2424013,"Lahaugmoveien 30B, Strømmen",59.976603,10.963803
+2424015,"Lahaugmoveien 30A, Strømmen",59.976728,10.963846
+2424032,"Bråteveien 229, Strømmen",59.978107,10.97253
+2424033,"Bråteveien 227, Strømmen",59.977648,10.972001
+2424034,"Bråteveien 219, Strømmen",59.976751,10.971948
+2424035,"Bråteveien 217, Strømmen",59.976758,10.971446
+2424036,"Bråteveien 215, Strømmen",59.976721,10.970942
+2424037,"Bråteveien 213B, Strømmen",59.976417,10.97122
+2424038,"Bråteveien 213A, Strømmen",59.976397,10.971097
+2424039,"Bråteveien 211, Strømmen",59.976341,10.9723
+2424097,"Karterudgata 8, Strømmen",59.973249,10.969428
+2424099,"Karterudgata 10, Strømmen",59.973437,10.968884
+2424101,"Karterudgata 12, Strømmen",59.973848,10.969034
+2424103,"Karterudgata 14, Strømmen",59.974054,10.969082
+2424105,"Laboveien 16, Strømmen",59.97724,10.965059
+2429090,"Dragonveien 28, Strømmen",59.975017,10.961702
+2429131,"Dragonveien 36, Strømmen",59.974669,10.960972
+2429132,"Dragonveien 44, Strømmen",59.97446,10.960318
+2429133,"Dragonveien 50, Strømmen",59.974205,10.960348
+2429134,"Dragonveien 54, Strømmen",59.974294,10.96096
+2429135,"Dragonveien 34, Strømmen",59.974816,10.961056
+2429152,"Lahaugmoveien 42, Strømmen",59.975467,10.963546
+2429183,"Sanitetsveien 2, Strømmen",59.974853,10.96586
+2429194,"Kaptein Koss' vei 22, Strømmen",59.976022,10.966716
+2429206,"Dragonveien 7, Strømmen",59.975043,10.964314
+2429207,"Dragonveien 20, Strømmen",59.975437,10.961698
+2429217,"Kragerudveien 64, Strømmen",59.984918,10.974791
+2429218,"Kragerudveien 60, Strømmen",59.984372,10.974887
+2429220,"Kragerudveien 84, Strømmen",59.984805,10.972803
+2429221,"Kragerudveien 80, Strømmen",59.98483,10.973289
+2429222,"Kragerudveien 140, Strømmen",59.985594,10.975815
+2429284,"Kragerudveien 120D, Strømmen",59.986333,10.972488
+2429287,"Kragerudveien 120F, Strømmen",59.986581,10.971579
+2429289,"Kragerudveien 120A, Strømmen",59.985931,10.973849
+2429290,"Kragerudveien 120C, Strømmen",59.986199,10.972955
+2429291,"Kragerudveien 120B, Strømmen",59.986067,10.973418
+2429373,"Trondheimsveien 12A, Strømmen",59.979152,10.972252
+2429412,"Dragonveien 12, Strømmen",59.975353,10.962199
+2429413,"Dragonveien 10, Strømmen",59.975177,10.962127
+2429415,"Dragonveien 18, Strømmen",59.9759,10.961906
+2429421,"Kragerudveien 54, Strømmen",59.983797,10.975272
+2429440,"Lahaugmoveien 29D, Strømmen",59.977379,10.964093
+2429479,"Kragerudveien 146, Strømmen",59.985395,10.977744
+2429547,"Kaptein Koss' vei 14, Strømmen",59.976642,10.965803
+2430268,"Lahaugmoveien 81, Strømmen",59.97539,10.967884
+2430706,"Dragonveien 51, Strømmen",59.97336,10.961822
+2431410,"Kaptein Koss' vei 7, Strømmen",59.975785,10.96622
+2431411,"Kaptein Koss' vei 5, Strømmen",59.975662,10.966098
+2431412,"Kaptein Koss' vei 9, Strømmen",59.975928,10.966387
+2513957,"Tømteløkka 33, Strømmen",59.960667,10.986856
+2513958,"Tømteløkka 29, Strømmen",59.960722,10.986669
+2513959,"Tømteløkka 31, Strømmen",59.960698,10.986755
+2513960,"Tømteløkka 23, Strømmen",59.960903,10.98643
+2513961,"Tømteløkka 27, Strømmen",59.960809,10.986517
+2513962,"Tømteløkka 25, Strømmen",59.960852,10.986465
+2513963,"Tømteløkka 39, Strømmen",59.960587,10.987212
+2513970,"Tømteløkka 21, Strømmen",59.960946,10.986382
+2513976,"Tømteløkka 79, Strømmen",59.961494,10.988293
+2513977,"Tømteløkka 81, Strømmen",59.961397,10.988268
+2513978,"Tømteløkka 65, Strømmen",59.961659,10.987844
+2513979,"Tømteløkka 75, Strømmen",59.961714,10.988509
+2513980,"Tømteløkka 77, Strømmen",59.961557,10.98829
+2513981,"Tømteløkka 83, Strømmen",59.961332,10.988265
+2513982,"Tømteløkka 67, Strømmen",59.961713,10.987904
+2513983,"Tømteløkka 69, Strømmen",59.961802,10.98801
+2513984,"Tømteløkka 71, Strømmen",59.961843,10.988066
+2513985,"Tømteløkka 73, Strømmen",59.961774,10.988639
+2513986,"Tømteløkka 63, Strømmen",59.961551,10.987657
+2513987,"Tømteløkka 59, Strømmen",59.961417,10.987473
+2513988,"Tømteløkka 47, Strømmen",59.961053,10.986734
+2513989,"Tømteløkka 61, Strømmen",59.961503,10.987586
+2513990,"Tømteløkka 49, Strømmen",59.961112,10.986909
+2513991,"Tømteløkka 55, Strømmen",59.961298,10.987287
+2513992,"Tømteløkka 57, Strømmen",59.961373,10.987417
+2513993,"Tømteløkka 45, Strømmen",59.961024,10.986652
+2513994,"Tømteløkka 51, Strømmen",59.961151,10.987006
+2513995,"Tømteløkka 53, Strømmen",59.961254,10.987215
+2514008,"Tømteløkka 37, Strømmen",59.960601,10.987109
+2514009,"Tømteløkka 87, Strømmen",59.961192,10.987983
+2514010,"Tømteløkka 89, Strømmen",59.961144,10.987927
+2514011,"Tømteløkka 35, Strømmen",59.960643,10.986943
+2514012,"Tømteløkka 95, Strømmen",59.960947,10.987778
+2514013,"Tømteløkka 97, Strømmen",59.960901,10.987724
+2514014,"Tømteløkka 91, Strømmen",59.961102,10.987862
+2514015,"Tømteløkka 93, Strømmen",59.961044,10.987837
+2514016,"Tømteløkka 99, Strømmen",59.96085,10.987691
+2514017,"Tømteløkka 43, Strømmen",59.960581,10.987426
+2514018,"Tømteløkka 41, Strømmen",59.960596,10.987331
+2514019,"Tømteløkka 101, Strømmen",59.960802,10.987664
+2514020,"Tømteløkka 105, Strømmen",59.960704,10.987557
+2514021,"Tømteløkka 103, Strømmen",59.960755,10.98761
+2514022,"Tømteløkka 85, Strømmen",59.961238,10.988054
+2514045,"Tømteløkka 13, Strømmen",59.960427,10.986548
+2514046,"Tømteløkka 11, Strømmen",59.960496,10.986368
+2514047,"Tømteløkka 17, Strømmen",59.960353,10.986849
+2514048,"Tømteløkka 15, Strømmen",59.9604,10.986646
+2514049,"Tømteløkka 19, Strømmen",59.960329,10.986973
+2514050,"Tømteløkka 7, Strømmen",59.960696,10.986018
+2514051,"Tømteløkka 5, Strømmen",59.960743,10.98598
+2514052,"Tømteløkka 9, Strømmen",59.960531,10.986294
+2514053,"Tømteløkka 3, Strømmen",59.960796,10.985943
+2514054,"Tømteløkka 1, Strømmen",59.960844,10.985906
+2533314,"Melbyløkka 1, Strømmen",59.960878,10.985046
+2533955,"Melbyløkka 3, Strømmen",59.960831,10.985046
+2533956,"Melbyløkka 5, Strømmen",59.96078,10.985064
+2533957,"Melbyløkka 7, Strømmen",59.960725,10.98507
+2533958,"Melbyløkka 9, Strømmen",59.960672,10.985072
+2533959,"Melbyløkka 11, Strømmen",59.960622,10.985108
+2533960,"Melbyløkka 13, Strømmen",59.960566,10.985107
+2533961,"Melbyløkka 15, Strømmen",59.960933,10.984536

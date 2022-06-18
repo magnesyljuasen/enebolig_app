@@ -1,0 +1,962 @@
+,Navn,Long,Lat
+3773,"323/7, Helgheim",61.585843,6.644441
+3797,"305/13, Helgheim",61.580565,6.335258
+3798,"305/10, Helgheim",61.571885,6.338754
+3799,"304/18, Helgheim",61.556283,6.365662
+3800,"311/35, Helgheim",61.579355,6.492386
+3801,"303/21, Helgheim",61.566357,6.333031
+3802,"304/2, Helgheim",61.552924,6.351769
+3804,"329/2, Helgheim",61.561049,6.494316
+3805,"329/13, Helgheim",61.574171,6.484515
+3809,"333/2, Helgheim",61.5208,6.587419
+3810,"333/3, Helgheim",61.520901,6.58267
+3811,"332/3, Helgheim",61.521425,6.618364
+3812,"333/1, Helgheim",61.521043,6.586561
+3820,"329/190, Helgheim",61.563037,6.478355
+3821,"329/191, Helgheim",61.56818,6.484963
+3822,"307/1-2, Helgheim",61.560284,6.405266
+3823,"329/192, Helgheim",61.563097,6.477239
+3824,"376/1/1, Helgheim",61.566302,6.689759
+3825,"323/19, Helgheim",61.586819,6.645819
+3831,"305/8, Helgheim",61.572815,6.338561
+3832,"305/9, Helgheim",61.585219,6.323814
+3833,"304/42, Helgheim",61.578572,6.337125
+3834,"304/43, Helgheim",61.577016,6.337485
+3835,"304/48, Helgheim",61.589751,6.313526
+3836,"305/2/1, Helgheim",61.568748,6.33829
+3837,"303/26, Helgheim",61.568894,6.3314
+3838,"303/28, Helgheim",61.567259,6.330504
+3839,"304/15, Helgheim",61.583915,6.327413
+3840,"375/10, Helgheim",61.618756,6.449011
+3842,"304/66, Helgheim",61.581556,6.332158
+3843,"336/34, Helgheim",61.525385,6.418373
+3844,"332/4, Helgheim",61.521328,6.61792
+3845,"313/3, Helgheim",61.60952,6.502903
+3846,"334/8, Helgheim",61.536405,6.488079
+3847,"307/54, Helgheim",61.562222,6.434145
+3849,"329/181, Helgheim",61.564722,6.478632
+3851,"307/56, Helgheim",61.56247,6.442072
+3854,"315/5, Helgheim",61.607963,6.565456
+3857,"329/99, Helgheim",61.573694,6.484931
+3859,"332/1-1, Helgheim",61.551129,6.498505
+3862,"303/33, Helgheim",61.567869,6.330471
+3863,"333/4, Helgheim",61.521164,6.586149
+3865,"323/1-1, Helgheim",61.610278,6.63753
+3870,"329/99-1, Helgheim",61.573678,6.485026
+3872,"332/3-1, Helgheim",61.52152,6.618639
+3873,"333/1-1, Helgheim",61.520839,6.586483
+3874,"317/1-1, Helgheim",61.613694,6.623198
+3876,"333/3-1, Helgheim",61.520817,6.582283
+3879,"337/6-1, Helgheim",61.515761,6.411011
+3883,"305/7, Helgheim",61.572669,6.338461
+3884,"306/2-2, Helgheim",61.584469,6.392765
+3885,"306/6-2, Helgheim",61.58459,6.393
+3886,"307/2-2, Helgheim",61.574882,6.412486
+3887,"304/5-3, Helgheim",61.594837,6.307222
+3888,"335/3-2, Helgheim",61.545406,6.458516
+3889,"319/18, Helgheim",61.632364,6.727704
+3890,"323/4-2, Helgheim",61.558137,6.64611
+3891,"375/6-2, Helgheim",61.621222,6.450317
+3899,"304/3-1, Helgheim",61.582914,6.331815
+3900,"304/4-2, Helgheim",61.592918,6.310593
+3901,"304/4-3, Helgheim",61.592694,6.309727
+3902,"305/12, Helgheim",61.58533,6.324407
+3906,"314/8-3, Helgheim",61.60844,6.514627
+3907,"332/2-3, Helgheim",61.519968,6.617216
+3908,"332/2-4, Helgheim",61.519222,6.61716
+3909,"336/25, Helgheim",61.517491,6.428864
+3912,"304/77, Helgheim",61.590467,6.312465
+3913,"306/33, Helgheim",61.569409,6.403787
+3914,"333/2-1, Helgheim",61.519687,6.591511
+3915,"306/2-3, Helgheim",61.562251,6.395327
+3916,"Meierifossen Kraftverk, 304/2/1, Helgheim",61.551158,6.350431
+33686,"315/2-1, Helgheim",61.610178,6.58859
+34781,"336/49, Helgheim",61.521851,6.427447
+38228,"304/5-2, Helgheim",61.588455,6.316637
+38235,"335/3-3, Helgheim",61.543096,6.465298
+44808,"303/5-1, Helgheim",61.568399,6.332358
+44809,"303/10-1, Helgheim",61.574479,6.33108
+45841,"304/13, Helgheim",61.573184,6.340455
+52006,"Dvergsdalen, 335/27, Helgheim",61.549366,6.451716
+52010,"Dvergsdalen, 335/1, Helgheim",61.542903,6.465995
+54872,"329/217, Helgheim",61.568976,6.485561
+471599,"Befringsvegen 131, Helgheim",61.614007,6.638151
+471600,"Befringsvegen 111, Helgheim",61.61236,6.638993
+471601,"Befringsvegen 40, Helgheim",61.610318,6.627361
+471602,"Befringsvegen 3, Helgheim",61.6091,6.619288
+471603,"Befringsvegen 88, Helgheim",61.611708,6.634498
+471604,"Befringsvegen 72, Helgheim",61.611331,6.630377
+471605,"Befringsvegen 37, Helgheim",61.609005,6.631403
+471606,"Stardalen 285, Helgheim",61.606045,6.580391
+471607,"Stardalen 297, Helgheim",61.606087,6.583255
+471608,"Stardalen 311, Helgheim",61.607037,6.584633
+471609,"Stardalen 436, Helgheim",61.608816,6.600525
+471610,"Befringsvegen 29, Helgheim",61.609041,6.626203
+471611,"Befringsvegen 6, Helgheim",61.610109,6.620512
+471612,"Befringsvegen 14, Helgheim",61.609648,6.621485
+471613,"Befringsvegen 20, Helgheim",61.609339,6.622702
+471614,"Stardalen 1382, Helgheim",61.600206,6.749556
+471615,"Stardalen 1377, Helgheim",61.601108,6.747605
+471616,"Stardalen 1339, Helgheim",61.602668,6.743098
+471617,"Stardalen 1341, Helgheim",61.602725,6.742208
+471618,"Stardalen 1160, Helgheim",61.615461,6.722247
+471619,"Stardalen 1204, Helgheim",61.612891,6.730773
+484655,"Stardalen 1036, Helgheim",61.61542,6.699954
+484656,"Stardalen 1030, Helgheim",61.61464,6.699502
+484657,"Stardalen 1070, Helgheim",61.615832,6.706261
+484658,"Stardalen 1002, Helgheim",61.615389,6.695448
+484659,"Stardalen 686, Helgheim",61.618918,6.639588
+484660,"Stardalen 730, Helgheim",61.619981,6.645525
+484661,"Stardalen 850, Helgheim",61.615226,6.665731
+484662,"Stardalen 858, Helgheim",61.615178,6.666602
+484663,"Stardalen 1142, Helgheim",61.61447,6.719887
+484664,"Stardalen 1116, Helgheim",61.61481,6.715486
+484665,"Stardalen 1060, Helgheim",61.618575,6.714019
+484666,"Stardalen 894, Helgheim",61.614391,6.673113
+484667,"Stardalen 1099, Helgheim",61.613436,6.712267
+484669,"Stardalen 508, Helgheim",61.610608,6.61259
+484670,"Stardalen 506, Helgheim",61.610546,6.612085
+484671,"Stardalen 555, Helgheim",61.611155,6.620733
+484672,"Stardalen 536, Helgheim",61.610623,6.617549
+484673,"Stardalen 354, Helgheim",61.609657,6.590106
+484675,"Stardalen 350, Helgheim",61.610403,6.588537
+484677,"Stardalen 234, Helgheim",61.6086,6.574515
+484679,"Stardalen 226, Helgheim",61.609065,6.578439
+484681,"Stardalen 708, Helgheim",61.619709,6.641207
+484682,"Stardalen 688, Helgheim",61.618704,6.639699
+484684,"Stardalen 720, Helgheim",61.620278,6.643484
+484686,"Stardalen 700, Helgheim",61.618831,6.640821
+484687,"Stardalen 530, Helgheim",61.610777,6.617122
+484688,"Stardalen 533, Helgheim",61.610073,6.617421
+484689,"Stardalen 582, Helgheim",61.613845,6.622583
+484690,"Stardalen 606, Helgheim",61.614336,6.622394
+484691,"Jølstravegen 2994, Helgheim",61.562541,6.443497
+484693,"Jølstravegen 2982, Helgheim",61.562254,6.44111
+484694,"Jølstravegen 2864, Helgheim",61.561084,6.41712
+484696,"Jølstravegen 2860, Helgheim",61.560882,6.416421
+484697,"Jølstravegen 2792, Helgheim",61.561791,6.405611
+484698,"Jølstravegen 2802, Helgheim",61.561372,6.410994
+484699,"Jølstravegen 2784, Helgheim",61.562333,6.407694
+484701,"Jølstravegen 2972, Helgheim",61.562264,6.439735
+484702,"Jølstravegen 3050, Helgheim",61.563936,6.450909
+484703,"Jølstravegen 3062, Helgheim",61.565487,6.454047
+484705,"Jølstravegen 3016, Helgheim",61.562969,6.44769
+484706,"Jølstravegen 3150, Helgheim",61.569293,6.46888
+484708,"Jølstravegen 2866, Helgheim",61.561123,6.418247
+484710,"Jølstravegen 2858, Helgheim",61.560881,6.417325
+484711,"Jølstravegen 3000, Helgheim",61.562827,6.441948
+484713,"Jølstravegen 2936, Helgheim",61.562105,6.433665
+484714,"Jølstravegen 2708, Helgheim",61.560275,6.390634
+484715,"Jølstravegen 2768, Helgheim",61.560762,6.403964
+484716,"Jølstravegen 2652, Helgheim",61.557966,6.379341
+484717,"Jølstravegen 2668, Helgheim",61.558844,6.384879
+484718,"Jølstravegen 2734, Helgheim",61.562701,6.402013
+484719,"Jølstravegen 2740, Helgheim",61.56169,6.399819
+484720,"Jølstravegen 2776, Helgheim",61.561071,6.402695
+484721,"Jølstravegen 2726, Helgheim",61.56259,6.400403
+484722,"Jølstravegen 2656, Helgheim",61.558763,6.380649
+484723,"Jølstravegen 2654, Helgheim",61.558275,6.380464
+484725,"Jølstravegen 2770, Helgheim",61.560936,6.404138
+484726,"Jølstravegen 2658, Helgheim",61.559103,6.380564
+484728,"Jølstravegen 2670, Helgheim",61.558991,6.38643
+484730,"Jølstravegen 2718, Helgheim",61.56085,6.394409
+484732,"Jølstravegen 2672, Helgheim",61.559244,6.387482
+484733,"Jølstravegen 2660, Helgheim",61.55845,6.381165
+484735,"Jølstravegen 2648, Helgheim",61.558665,6.378341
+484737,"Kalvekvia 16, Helgheim",61.556289,6.362272
+484738,"Kalvekvia 47, Helgheim",61.557139,6.362068
+484740,"Kalvekvia 28, Helgheim",61.556832,6.364335
+484742,"Kalvekvia 4, Helgheim",61.555709,6.361512
+484744,"Kalvekvia 6, Helgheim",61.555983,6.360848
+484745,"Kalvekvia 8, Helgheim",61.55619,6.36132
+484747,"Årdalsvegen 382, Helgheim",61.55623,6.366175
+484749,"Årdalsvegen 210, Helgheim",61.560253,6.340184
+484752,"Årdalsvegen 165, Helgheim",61.557298,6.339269
+484754,"Kalvekvia 31, Helgheim",61.55723,6.364941
+484756,"Årdalsvegen 222, Helgheim",61.559346,6.343425
+484757,"Årdalsvegen 198, Helgheim",61.560419,6.339473
+484758,"Årdalsvegen 206, Helgheim",61.561701,6.342132
+484760,"Årdalsvegen 266, Helgheim",61.555705,6.34739
+484763,"Jølstravegen 2602, Helgheim",61.557488,6.373638
+484765,"Årdalsvegen 71, Helgheim",61.55269,6.34616
+484767,"Jølstravegen 2650, Helgheim",61.558292,6.378579
+484769,"Årdalsvegen 324, Helgheim",61.553502,6.354676
+484771,"Årdalsvegen 149, Helgheim",61.55643,6.3393
+484773,"Årdalsvegen 250, Helgheim",61.557469,6.345262
+484775,"Årdalsvegen 352, Helgheim",61.555251,6.359216
+484777,"Årdalsvegen 380, Helgheim",61.556675,6.366401
+484779,"Årdalsvegen 354, Helgheim",61.555419,6.359992
+484781,"Årdalsvegen 358, Helgheim",61.555624,6.360822
+484783,"Jølstravegen 2515, Helgheim",61.553396,6.35894
+484785,"Jølstravegen 2497, Helgheim",61.552506,6.356117
+484787,"Årdalsvegen 376, Helgheim",61.55596,6.364729
+484789,"Årdalsvegen 374, Helgheim",61.555746,6.363881
+484790,"Jølstravegen 3762, Helgheim",61.611111,6.530672
+484791,"Stardalen 63, Helgheim",61.607644,6.542151
+484792,"Klakeggsvegen 43, Helgheim",61.605792,6.529059
+484793,"Jølstravegen 3773, Helgheim",61.611625,6.532618
+484794,"Jølstravegen 3740, Helgheim",61.609426,6.523941
+484795,"Stardalen 89, Helgheim",61.60881,6.54551
+484796,"Jølstravegen 3744, Helgheim",61.610459,6.528404
+484797,"Jølstravegen 3692, Helgheim",61.608973,6.519715
+484798,"Klakeggsvegen 15, Helgheim",61.605617,6.524868
+484799,"Klakeggsvegen 21, Helgheim",61.605698,6.525352
+484800,"Jølstravegen 3779, Helgheim",61.612227,6.532281
+484801,"Klakeggsvegen 9, Helgheim",61.605989,6.522103
+484802,"Klakeggsvegen 47, Helgheim",61.606296,6.529641
+484803,"Klakeggsvegen 57, Helgheim",61.607202,6.529079
+484804,"Stardalen 50, Helgheim",61.609357,6.537508
+484805,"Klakeggsvegen 11, Helgheim",61.605827,6.52255
+484806,"Jølstravegen 3506, Helgheim",61.593098,6.505696
+484807,"Jølstravegen 3490, Helgheim",61.592267,6.503463
+484808,"Jølstravegen 3484, Helgheim",61.591758,6.503146
+484809,"Jølstravegen 3524, Helgheim",61.594377,6.506838
+484810,"Jølstravegen 3358, Helgheim",61.58212,6.492332
+484811,"Vikavegen 104, Helgheim",61.578718,6.490949
+484812,"Fossheim 4, Helgheim",61.58058,6.493097
+484813,"Førsvegen 144, Helgheim",61.608524,6.504945
+484814,"Jølstravegen 3730, Helgheim",61.609389,6.526339
+484815,"Jølstravegen 3781, Helgheim",61.612802,6.533273
+484816,"Jølstravegen 3742, Helgheim",61.609668,6.524903
+484817,"Førsvegen 43, Helgheim",61.60004,6.51004
+484818,"Jølstravegen 3546, Helgheim",61.596127,6.509261
+484819,"Førsvegen 22, Helgheim",61.597934,6.510304
+484820,"Førsvegen 102, Helgheim",61.612506,6.499192
+484821,"Jølstravegen 3272, Helgheim",61.576441,6.482051
+484822,"Jølstravegen 3238, Helgheim",61.573213,6.48075
+484823,"Jølstravegen 3360, Helgheim",61.582604,6.490767
+484824,"Jølstravegen 3374, Helgheim",61.583215,6.491731
+484825,"Jølstravegen 3240, Helgheim",61.573319,6.481137
+484826,"Jølstravegen 3194, Helgheim",61.571035,6.475181
+484827,"Jølstravegen 3228, Helgheim",61.572015,6.478624
+484828,"Jølstravegen 3344, Helgheim",61.580431,6.49228
+484829,"Vikavegen 102, Helgheim",61.578579,6.491224
+484830,"Jølstravegen 3274, Helgheim",61.576535,6.483118
+484831,"Jølstravegen 3466, Helgheim",61.590178,6.50022
+484832,"Skrede, Jølstravegen 3380, Helgheim",61.583684,6.490887
+484833,"Jølstravegen 3296, Helgheim",61.577304,6.485844
+484834,"Jølstravegen 3435, Helgheim",61.587459,6.498403
+484835,"Jølstravegen 3342, Helgheim",61.580223,6.492203
+484836,"Jølstravegen 3144, Helgheim",61.569114,6.466521
+484837,"Jølstravegen 3140, Helgheim",61.56874,6.465233
+484838,"Jølstravegen 3264, Helgheim",61.574583,6.480073
+484839,"Jølstravegen 3236, Helgheim",61.573569,6.480099
+484840,"Jølstravegen 3074, Helgheim",61.56589,6.456474
+484841,"Jølstravegen 3136, Helgheim",61.568471,6.465726
+484842,"Jølstravegen 3176, Helgheim",61.569931,6.471315
+484843,"Jølstravegen 3142, Helgheim",61.568842,6.465884
+484844,"Jølstravegen 3248, Helgheim",61.573849,6.48164
+484845,"Fygla 1, Helgheim",61.571548,6.477663
+484846,"Jølstravegen 3250, Helgheim",61.57398,6.48195
+484847,"Jølstravegen 3232, Helgheim",61.572444,6.479964
+484848,"Jølstravegen 3170, Helgheim",61.570198,6.471707
+484849,"Jølstravegen 3224, Helgheim",61.572147,6.479442
+484850,"Jølstravegen 3244, Helgheim",61.5736,6.481283
+485057,"Jølstravegen 2385, Helgheim",61.544315,6.345106
+485059,"Årdalsvegen 108, Helgheim",61.55334,6.341755
+485061,"Årdalsvegen 330, Helgheim",61.553815,6.355572
+485063,"Årdalsvegen 65, Helgheim",61.550759,6.346645
+485065,"Årdalsvegen 144, Helgheim",61.556982,6.335493
+485067,"Årdalsvegen 82, Helgheim",61.551648,6.344347
+485069,"Jølstravegen 2460, Helgheim",61.550321,6.350918
+485071,"Årdalsvegen 315, Helgheim",61.552913,6.35258
+485073,"Årdalsvegen 260, Helgheim",61.556676,6.346045
+485075,"Jølstravegen 2504, Helgheim",61.553184,6.35685
+485077,"Årdalsvegen 349, Helgheim",61.553973,6.358609
+485080,"Årdalsvegen 312, Helgheim",61.55344,6.352441
+485081,"Årdalsvegen 314, Helgheim",61.553872,6.35295
+485083,"Årdalsvegen 303, Helgheim",61.553439,6.350972
+485085,"Jølstravegen 2314, Helgheim",61.53886,6.338966
+485087,"Årdalsvegen 77, Helgheim",61.55116,6.346498
+485088,"Årdalsvegen 36, Helgheim",61.547978,6.345433
+485090,"Årdalsvegen 46, Helgheim",61.548977,6.346006
+485094,"Jølstravegen 2242, Helgheim",61.536118,6.330093
+485096,"Jølstravegen 2306, Helgheim",61.537525,6.333604
+485098,"Jølstravegen 2380, Helgheim",61.54205,6.340838
+485100,"Jølstravegen 2386, Helgheim",61.543813,6.342344
+485102,"Årdalsvegen 95, Helgheim",61.552519,6.34384
+485103,"Fossheim 89, Helgheim",61.585374,6.503716
+485105,"Årdalsvegen 116, Helgheim",61.554002,6.340192
+485107,"Jølstravegen 2456, Helgheim",61.549865,6.349169
+485109,"Jølstravegen 2452, Helgheim",61.549514,6.349123
+485111,"Årdalsvegen 30, Helgheim",61.546905,6.34479
+485113,"Årdalsvegen 20, Helgheim",61.545118,6.343399
+485144,"Stardalen 1176, Helgheim",61.614881,6.725157
+485145,"Stardalen 1174, Helgheim",61.614643,6.725223
+485146,"Stardalen 968, Helgheim",61.614594,6.686641
+485147,"Befringsvegen 97, Helgheim",61.610117,6.637542
+485148,"Befringsvegen 159, Helgheim",61.615472,6.640794
+485149,"Befringsvegen 103, Helgheim",61.611163,6.637255
+485150,"Stardalen 1345, Helgheim",61.602693,6.744077
+485151,"Stardalen 1250, Helgheim",61.609745,6.735492
+485152,"Stardalen 940, Helgheim",61.614389,6.68145
+485153,"Stardalen 960, Helgheim",61.614316,6.685096
+485154,"Stardalen 1154, Helgheim",61.615925,6.720968
+485155,"Stardalen 1206, Helgheim",61.612813,6.730948
+485156,"Stardalen 1210, Helgheim",61.612579,6.731475
+485164,"Vikavegen 27, Helgheim",61.572598,6.482742
+485165,"Vikavegen 17, Helgheim",61.57274,6.481881
+485166,"Ospene 4, Helgheim",61.571388,6.48167
+485167,"Vikavegen 43, Helgheim",61.573868,6.483635
+485168,"Jølstravegen 3227, Helgheim",61.572118,6.482289
+485169,"Vikavegen 11, Helgheim",61.57288,6.481236
+485170,"Vikavegen 33, Helgheim",61.573189,6.482862
+485171,"Vikavegen 31, Helgheim",61.57297,6.48271
+485172,"Vikavegen 41, Helgheim",61.574147,6.483217
+485173,"Vikavegen 45, Helgheim",61.574047,6.484092
+485174,"Vikavegen 23, Helgheim",61.57173,6.482151
+485175,"Vikavegen 39, Helgheim",61.573761,6.483192
+485176,"Jølstravegen 3646, Helgheim",61.60269,6.516974
+485177,"Jølstravegen 3616, Helgheim",61.600912,6.516551
+485178,"Jølstravegen 3643, Helgheim",61.601329,6.519723
+485179,"Jølstravegen 3631, Helgheim",61.600324,6.519275
+485180,"Stardalen 347, Helgheim",61.608875,6.588544
+485181,"Stardalen 160, Helgheim",61.607945,6.557932
+485182,"Jølstravegen 3629, Helgheim",61.600864,6.518346
+485183,"Jølstravegen 3642, Helgheim",61.603435,6.514501
+485184,"Fossheim 65, Helgheim",61.583522,6.50215
+485185,"Fossheim 51, Helgheim",61.581407,6.499984
+485186,"Fossheim 15, Helgheim",61.579848,6.496247
+485187,"Fossheim 23, Helgheim",61.580308,6.497321
+485188,"Klakeggsvegen 3, Helgheim",61.60528,6.521123
+485189,"Jølstravegen 3563, Helgheim",61.595845,6.513469
+485190,"Fossheim 79, Helgheim",61.584616,6.503023
+485273,"Viken 38, Helgheim",61.571346,6.487683
+485316,"Viken 49, Helgheim",61.571625,6.486229
+485317,"Viken 26, Helgheim",61.572512,6.489039
+485318,"Viken 57, Helgheim",61.572733,6.486403
+485319,"Viken 43, Helgheim",61.572622,6.485733
+485320,"Viken 51, Helgheim",61.571915,6.485866
+485321,"Viken 65, Helgheim",61.571955,6.486579
+485322,"Viken 36A, Helgheim",61.57162,6.487887
+485323,"Viken 71, Helgheim",61.571369,6.486004
+485324,"Viken 47, Helgheim",61.571595,6.485553
+485325,"Viken 20, Helgheim",61.572592,6.487996
+485326,"Viken 73, Helgheim",61.571313,6.48535
+485327,"Vikagarden 5, Helgheim",61.56494,6.477805
+485328,"Viken 48, Helgheim",61.571352,6.488474
+485329,"Viken 46, Helgheim",61.571482,6.488727
+485330,"Viken 30, Helgheim",61.572244,6.488646
+485331,"Viken 21, Helgheim",61.572288,6.484159
+485332,"Viken 25, Helgheim",61.571949,6.483847
+485333,"Viken 23, Helgheim",61.572157,6.483397
+485334,"Viken 29A, Helgheim",61.571765,6.48503
+485335,"Viken 15, Helgheim",61.572873,6.483735
+485336,"Viken 19, Helgheim",61.572438,6.483563
+485337,"Viken 7, Helgheim",61.573242,6.48476
+485338,"Viken 17, Helgheim",61.572578,6.484324
+485339,"Viken 53, Helgheim",61.572125,6.486056
+485340,"Viken 45, Helgheim",61.572338,6.485455
+485341,"Viken 12, Helgheim",61.573263,6.487396
+485342,"Viken 55, Helgheim",61.572416,6.48624
+485343,"Viken 27, Helgheim",61.57188,6.484437
+485344,"Viken 33, Helgheim",61.572217,6.48473
+485345,"Viken 31, Helgheim",61.572092,6.485268
+485346,"Viken 11, Helgheim",61.573417,6.48403
+485347,"Vikavegen 85, Helgheim",61.577518,6.493137
+485348,"Vikavegen 69, Helgheim",61.575379,6.490578
+485349,"Vikavegen 49, Helgheim",61.573666,6.483916
+485350,"Ospene 10, Helgheim",61.570802,6.482
+485351,"Viken 9, Helgheim",61.572914,6.484504
+485352,"Ospene 2, Helgheim",61.571176,6.481329
+485353,"Vikavegen 59, Helgheim",61.573933,6.488171
+485402,"Orkavegen 484, Helgheim",61.528205,6.411235
+485406,"Orkavegen 429, Helgheim",61.524892,6.40045
+485430,"Vikagarden 106, Helgheim",61.563037,6.479353
+485431,"Vikagarden 115, Helgheim",61.562545,6.47702
+485432,"Vikagarden 10, Helgheim",61.56658,6.480553
+485433,"Vikagarden 30, Helgheim",61.566093,6.482382
+485434,"Vikagarden 80, Helgheim",61.564665,6.481387
+485435,"Vikagarden 45, Helgheim",61.563082,6.47643
+485436,"Vikagarden 94, Helgheim",61.5642,6.481518
+485437,"Vikagarden 108, Helgheim",61.562898,6.479082
+485438,"Vikagarden 98, Helgheim",61.563932,6.482105
+485439,"Vikagarden 44, Helgheim",61.565356,6.480897
+485440,"Vikagarden 114, Helgheim",61.562353,6.477337
+485441,"Vikagarden 78, Helgheim",61.564816,6.48177
+485442,"Vikagarden 107, Helgheim",61.563215,6.478773
+485443,"Vikagarden 105, Helgheim",61.563455,6.479131
+485444,"Vikagarden 100, Helgheim",61.563878,6.481563
+485445,"Vikagarden 66, Helgheim",61.564556,6.48036
+485446,"Vikagarden 7, Helgheim",61.564921,6.478239
+485447,"Vikagarden 52, Helgheim",61.564408,6.479147
+485448,"Vikagarden 17, Helgheim",61.563592,6.477274
+485449,"Vikagarden 95, Helgheim",61.562833,6.476563
+485450,"Viken 10, Helgheim",61.573227,6.486871
+485451,"Vikavegen 53, Helgheim",61.573916,6.486231
+485452,"Viken 6, Helgheim",61.573525,6.486018
+485453,"Vikagarden 13, Helgheim",61.564026,6.476956
+485454,"Vikagarden 50, Helgheim",61.565005,6.47989
+485455,"Vikagarden 54, Helgheim",61.564203,6.47875
+485456,"Vikavegen 51, Helgheim",61.573871,6.485764
+485457,"Vikagarden 92, Helgheim",61.563961,6.481218
+485458,"Vikagarden 103, Helgheim",61.563569,6.478462
+485459,"Vikagarden 101, Helgheim",61.563433,6.477889
+485460,"Vikagarden 64, Helgheim",61.564199,6.479503
+485461,"Vikagarden 56, Helgheim",61.563856,6.478458
+485462,"Viken 3, Helgheim",61.573514,6.484908
+485463,"Viken 77, Helgheim",61.570752,6.48515
+485464,"Viken 67, Helgheim",61.571465,6.486825
+485465,"Viken 54, Helgheim",61.570688,6.486549
+485466,"Viken 61A, Helgheim",61.571918,6.487015
+485467,"Viken 5, Helgheim",61.57374,6.484531
+485468,"Viken 22, Helgheim",61.573019,6.488282
+485469,"Viken 39, Helgheim",61.572935,6.485651
+485470,"Ospene 36, Helgheim",61.5711,6.484067
+485471,"Vikagarden 31, Helgheim",61.565406,6.479501
+485472,"Viken 14, Helgheim",61.573046,6.487319
+485473,"Ospene 22, Helgheim",61.571503,6.482998
+485474,"Ospene 18, Helgheim",61.570831,6.482601
+485475,"Ospene 20, Helgheim",61.571118,6.483067
+485476,"Viken 32, Helgheim",61.571981,6.48846
+485477,"Viken 13, Helgheim",61.573138,6.483996
+485478,"Viken 28, Helgheim",61.572277,6.489416
+485479,"Viken 50, Helgheim",61.571135,6.487399
+485480,"Viken 37, Helgheim",61.573021,6.485456
+485481,"Viken 58, Helgheim",61.570951,6.485718
+485482,"Viken 75, Helgheim",61.571094,6.485198
+485483,"Viken 41, Helgheim",61.572866,6.485808
+485484,"Viken 18, Helgheim",61.572384,6.487938
+485485,"Viken 52, Helgheim",61.570913,6.487059
+485486,"Viken 24, Helgheim",61.572739,6.488663
+485487,"Viken 34, Helgheim",61.571804,6.488154
+485488,"Viken 16, Helgheim",61.572642,6.487333
+485489,"Viken 59, Helgheim",61.572264,6.486761
+485490,"Viken 56, Helgheim",61.570832,6.486067
+485491,"Viken 69B, Helgheim",61.571286,6.48635
+485492,"Viken 8, Helgheim",61.57364,6.486875
+485493,"Viken 63, Helgheim",61.571723,6.487144
+485494,"Orkavegen 593, Helgheim",61.526911,6.432073
+485495,"Orkavegen 519, Helgheim",61.527136,6.416911
+485496,"Nikolai Astrups veg 2049, Helgheim",61.547847,6.44544
+485498,"Nikolai Astrups veg 2045, Helgheim",61.547523,6.444921
+485499,"Orkavegen 525, Helgheim",61.526922,6.417907
+485500,"Nikolai Astrups veg 1879, Helgheim",61.547103,6.413539
+485501,"Orkavegen 518, Helgheim",61.527463,6.415172
+485510,"Nikolai Astrups veg 2101, Helgheim",61.549639,6.451901
+485511,"Nikolai Astrups veg 2099, Helgheim",61.549712,6.452478
+485512,"Nikolai Astrups veg 1924, Helgheim",61.546122,6.422957
+485513,"Nikolai Astrups veg 2093, Helgheim",61.549998,6.451401
+485514,"Nikolai Astrups veg 2132, Helgheim",61.548528,6.456602
+485515,"Nikolai Astrups veg 2105, Helgheim",61.549102,6.452039
+485516,"Nikolai Astrups veg 2103, Helgheim",61.548931,6.451545
+485517,"Nikolai Astrups veg 2001, Helgheim",61.546156,6.437655
+485518,"Nikolai Astrups veg 1951, Helgheim",61.54567,6.429488
+485519,"Nikolai Astrups veg 2070, Helgheim",61.549524,6.449124
+485520,"Nikolai Astrups veg 2048, Helgheim",61.548018,6.444504
+485521,"Nikolai Astrups veg 1965, Helgheim",61.545493,6.430086
+485522,"Nikolai Astrups veg 1960, Helgheim",61.545778,6.42995
+485523,"Nikolai Astrups veg 1849, Helgheim",61.546921,6.41105
+485524,"Nikolai Astrups veg 1981, Helgheim",61.545905,6.433836
+485525,"Grovavegen 195, Helgheim",61.537439,6.482783
+485526,"Grovavegen 114, Helgheim",61.54199,6.471412
+485527,"Grovavegen 69, Helgheim",61.543164,6.464496
+485528,"Grovavegen 264, Helgheim",61.535078,6.493587
+485529,"Grovavegen 255, Helgheim",61.534693,6.49264
+485530,"Grovavegen 57, Helgheim",61.543917,6.462125
+485531,"Grovavegen 193, Helgheim",61.537529,6.482306
+485532,"Nikolai Astrups veg 2113, Helgheim",61.549306,6.453792
+485533,"Nikolai Astrups veg 2119, Helgheim",61.548614,6.455223
+485534,"Grovavegen 101, Helgheim",61.541629,6.470399
+485535,"Grovavegen 171, Helgheim",61.538588,6.479153
+485536,"Nikolai Astrups veg 2120, Helgheim",61.549397,6.455328
+485537,"Grovavegen 14, Helgheim",61.547408,6.457505
+485538,"Kjøsnes 103, Helgheim",61.554238,6.468827
+485539,"Kjøsnes 75, Helgheim",61.558117,6.467795
+485540,"Kjøsnes 27, Helgheim",61.561361,6.470318
+485541,"Kjøsnes 58, Helgheim",61.559033,6.468247
+485542,"Ospene 45, Helgheim",61.570195,6.485629
+485543,"Vikavegen 79, Helgheim",61.576665,6.492641
+485544,"Kjøsnes 123, Helgheim",61.552241,6.47138
+485545,"Kjøsnes 131, Helgheim",61.552133,6.472067
+485546,"Kjøsnesfjordvegen 1207, Helgheim",61.518316,6.634812
+485547,"Kjøsnesfjordvegen 1205, Helgheim",61.518585,6.634754
+485548,"Kjøsnes 66, Helgheim",61.558529,6.468194
+485549,"Kjøsnes 16, Helgheim",61.562017,6.471771
+485550,"Kjøsnes 12, Helgheim",61.562501,6.472673
+485708,"Kalvekvia 18, Helgheim",61.55649,6.362914
+485718,"Orkavegen 633, Helgheim",61.534374,6.438701
+485719,"Kalvekvia 29, Helgheim",61.556897,6.365346
+485720,"Ospene 13, Helgheim",61.568444,6.485168
+485724,"Jølstravegen 3550, Helgheim",61.596232,6.510591
+485729,"Vikagarden 112, Helgheim",61.562535,6.477906
+485730,"Vikagarden 110, Helgheim",61.562728,6.478662
+485765,"Jølstravegen 2106, Ålhus",61.527376,6.310356
+485766,"Jølstravegen 2062, Ålhus",61.52624,6.305112
+485767,"Jølstravegen 2164, Ålhus",61.530267,6.316672
+485768,"Førsvegen 488, Helgheim",61.618257,6.451221
+485773,"Førsvegen 521, Helgheim",61.6216,6.449871
+485774,"Vikagarden 90, Helgheim",61.564215,6.480877
+485775,"Førsvegen 490, Helgheim",61.617914,6.450155
+485776,"Førsvegen 508, Helgheim",61.619786,6.448907
+485777,"Førsvegen 415, Helgheim",61.615841,6.463268
+485865,"Orkavegen 482, Helgheim",61.527512,6.411161
+485866,"Orkavegen 476, Helgheim",61.526681,6.408057
+485867,"Orkavegen 480, Helgheim",61.526954,6.408254
+485868,"Orkavegen 492, Helgheim",61.527009,6.411617
+485877,"Jølstravegen 2651, Helgheim",61.558255,6.384119
+485878,"Jølstravegen 2696, Helgheim",61.559569,6.38753
+485879,"Jølstravegen 2932, Helgheim",61.561891,6.432778
+485880,"Jølstravegen 2835, Helgheim",61.559972,6.417213
+485881,"Jølstravegen 2810, Helgheim",61.560551,6.414584
+485882,"Jølstravegen 2887, Helgheim",61.560813,6.425109
+485883,"Jølstravegen 2649, Helgheim",61.557998,6.382879
+485884,"Jølstravegen 2709, Helgheim",61.559463,6.390928
+485885,"Jølstravegen 2698, Helgheim",61.559861,6.385381
+485886,"Jølstravegen 2812, Helgheim",61.56048,6.413826
+485887,"Årdalsvegen 138, Helgheim",61.557774,6.330058
+485888,"Årdalsvegen 362, Helgheim",61.555058,6.361285
+485889,"Førsvegen 505, Helgheim",61.621093,6.452535
+485890,"Jølstravegen 2445, Helgheim",61.549179,6.35271
+485891,"Jølstravegen 2451, Helgheim",61.549443,6.353365
+485892,"Årdalsvegen 64, Helgheim",61.550063,6.346422
+485893,"Jølstravegen 2641, Helgheim",61.557119,6.377379
+485894,"Ospene 51, Helgheim",61.569755,6.485664
+485895,"Jølstravegen 2643, Helgheim",61.557119,6.377831
+485896,"Årdalsvegen 356, Helgheim",61.554855,6.360078
+485897,"Årdalsvegen 386, Helgheim",61.556572,6.367144
+485898,"Årdalsvegen 341, Helgheim",61.55391,6.357654
+485899,"Jølstravegen 2523, Helgheim",61.554293,6.361218
+485900,"Årdalsvegen 378, Helgheim",61.556007,6.365309
+485902,"Kjøsnes 1, Helgheim",61.563915,6.473857
+485903,"Befringsvegen 147, Helgheim",61.614786,6.640582
+485904,"Vikagarden 96, Helgheim",61.564402,6.482255
+485906,"Grovavegen 61, Helgheim",61.544031,6.46285
+485908,"Nikolai Astrups veg 2133, Helgheim",61.548396,6.457537
+485910,"Vikagarden 42, Helgheim",61.565717,6.480473
+485914,"Kalvekvia 41, Helgheim",61.557108,6.362786
+485916,"Vikagarden 70, Helgheim",61.565066,6.481222
+485920,"Befringsvegen 26, Helgheim",61.609294,6.623743
+485921,"Vikagarden 76, Helgheim",61.565258,6.481414
+485922,"Vikagarden 74, Helgheim",61.565203,6.481343
+485923,"Vikagarden 72, Helgheim",61.565139,6.481292
+485927,"Befringsvegen 44, Helgheim",61.610176,6.625642
+485928,"Kalvekvia 7, Helgheim",61.555448,6.362419
+485929,"Stardalen 1168, Helgheim",61.61505,6.725475
+485930,"Orkavegen 496, Helgheim",61.526784,6.411598
+485931,"Orkavegen 504, Helgheim",61.526652,6.412211
+485932,"Orkavegen 488, Helgheim",61.526826,6.410033
+485934,"Nikolai Astrups veg 1966, Helgheim",61.545764,6.431099
+485935,"Orkavegen 483, Helgheim",61.525676,6.408586
+485936,"Orkavegen 498, Helgheim",61.526845,6.412458
+485937,"Orkavegen 486, Helgheim",61.526831,6.409318
+485938,"Orkavegen 500, Helgheim",61.526423,6.409634
+485940,"Orkavegen 494, Helgheim",61.52716,6.41247
+485941,"Orkavegen 469, Helgheim",61.525834,6.407896
+485942,"Orkavegen 474, Helgheim",61.526647,6.407245
+485943,"Orkavegen 472, Helgheim",61.526324,6.407723
+485944,"Orkavegen 470, Helgheim",61.526325,6.407291
+485945,"Ospene 12, Helgheim",61.570331,6.482264
+485946,"Nikolai Astrups veg 2210, Helgheim",61.554892,6.464876
+485947,"Nikolai Astrups veg 2110, Helgheim",61.549557,6.454165
+485948,"Vikavegen 1, Helgheim",61.573832,6.482659
+485949,"Vikagarden 1, Helgheim",61.565151,6.47758
+485950,"Ospene 8, Helgheim",61.571146,6.48169
+485951,"Ospene 26, Helgheim",61.571447,6.484378
+485952,"Orkavegen 564, Helgheim",61.529645,6.422779
+485953,"Orkavegen 551, Helgheim",61.528341,6.422643
+485954,"Orkavegen 710, Helgheim",61.539868,6.432377
+485955,"Orkavegen 702, Helgheim",61.539604,6.432173
+485956,"Nikolai Astrups veg 2137, Helgheim",61.548956,6.45768
+485957,"Nikolai Astrups veg 2046, Helgheim",61.547663,6.444232
+485958,"Nikolai Astrups veg 2038, Helgheim",61.548106,6.442464
+485959,"Orkavegen 539, Helgheim",61.526924,6.422309
+485960,"Stardalen 1254, Helgheim",61.610807,6.735112
+485961,"Stardalen 1172, Helgheim",61.614563,6.725733
+485962,"Stardalen 1170, Helgheim",61.614947,6.725869
+485963,"Stardalen 1200, Helgheim",61.613039,6.730498
+485964,"Stardalen 538, Helgheim",61.610405,6.617905
+485965,"Stardalen 704, Helgheim",61.619226,6.640464
+485966,"Stardalen 702, Helgheim",61.619402,6.639551
+485967,"Stardalen 1140, Helgheim",61.614889,6.719724
+485968,"Befringsvegen 39, Helgheim",61.60874,6.632178
+485969,"Vikavegen 89, Helgheim",61.578456,6.492854
+485970,"Vikavegen 35, Helgheim",61.573379,6.482959
+485971,"Vikavegen 40, Helgheim",61.574397,6.484082
+485972,"Stardalen 1178, Helgheim",61.614838,6.724707
+485973,"Stardalen 1343, Helgheim",61.602446,6.743793
+485974,"Stardalen 1362, Helgheim",61.602376,6.749379
+485975,"Befringsvegen 59, Helgheim",61.611231,6.627744
+485976,"Jølstravegen 3010, Helgheim",61.563145,6.447911
+485977,"Jølstravegen 3078, Helgheim",61.566678,6.457543
+485978,"Jølstravegen 3081, Helgheim",61.56687,6.461732
+485979,"Jølstravegen 3138, Helgheim",61.568534,6.464798
+485980,"Jølstravegen 2885, Helgheim",61.560779,6.424773
+485981,"Jølstravegen 2843, Helgheim",61.560788,6.419034
+485982,"Jølstravegen 2934, Helgheim",61.561943,6.43317
+485983,"Jølstravegen 2862, Helgheim",61.56141,6.417281
+485984,"Klakeggsvegen 63, Helgheim",61.607866,6.528554
+485985,"Klakeggsvegen 65, Helgheim",61.608253,6.529599
+485986,"Stardalen 556, Helgheim",61.611506,6.619782
+485987,"Stardalen 526, Helgheim",61.611343,6.617116
+485988,"Fygla 3, Helgheim",61.571649,6.478277
+485989,"Jølstravegen 3318, Helgheim",61.578791,6.489586
+485990,"Stardalen 32, Helgheim",61.609513,6.534685
+486007,"Ospene 59, Helgheim",61.569888,6.48603
+486008,"Orkavegen 629, Helgheim",61.532916,6.438003
+486009,"Orkavegen 631, Helgheim",61.533264,6.438454
+486011,"Kalvekvia 33, Helgheim",61.557189,6.364192
+486018,"Ospene 9, Helgheim",61.568675,6.484038
+486020,"Klakeggsvegen 13, Helgheim",61.605806,6.523382
+486024,"Ospene 49, Helgheim",61.569835,6.485582
+486025,"Jølstravegen 3004, Helgheim",61.562659,6.44658
+486026,"Kjøsnesfjordvegen 48, Helgheim",61.567931,6.48312
+486027,"Fygla 57, Helgheim",61.573073,6.476175
+486029,"Kjøsnesfjordvegen 40, Helgheim",61.568496,6.48166
+486030,"Befringsvegen 38, Helgheim",61.610098,6.626586
+486031,"Jølstravegen 3262, Helgheim",61.574416,6.481707
+486040,"Klakeggsvegen 67, Helgheim",61.608248,6.528317
+486042,"Jølstravegen 3008, Helgheim",61.562974,6.447398
+486043,"Grovavegen 93, Helgheim",61.542504,6.466714
+486044,"Ospene 7, Helgheim",61.570008,6.48278
+486057,"Jølstravegen 2145, Ålhus",61.528871,6.315835
+486067,"Jølstravegen 2814, Helgheim",61.560712,6.413159
+486069,"Jølstravegen 3106, Helgheim",61.567105,6.460884
+486071,"Årdalsvegen 168, Helgheim",61.557964,6.336557
+486072,"Fossheim 19, Helgheim",61.580154,6.499746
+486075,"Vikavegen 25, Helgheim",61.571358,6.482445
+486077,"Årdalsvegen 305, Helgheim",61.553191,6.351163
+486079,"Årdalsvegen 258, Helgheim",61.556815,6.345845
+486080,"Vikagarden 113, Helgheim",61.562768,6.477397
+486081,"Årdalsvegen 347, Helgheim",61.554172,6.358667
+486082,"Jølstravegen 3694, Helgheim",61.608977,6.51945
+486083,"Jølstravegen 2646, Helgheim",61.557532,6.37919
+486085,"Årdalsvegen 34, Helgheim",61.547137,6.344714
+486087,"Jølstravegen 2384, Helgheim",61.543283,6.34237
+486089,"Årdalsvegen 311, Helgheim",61.552615,6.352474
+486091,"Årdalsvegen 316, Helgheim",61.553588,6.353087
+486097,"Årdalsvegen 248, Helgheim",61.557407,6.344853
+486099,"Årdalsvegen 268, Helgheim",61.55565,6.346905
+486101,"Årdalsvegen 73, Helgheim",61.552371,6.346394
+486103,"Årdalsvegen 69, Helgheim",61.552531,6.346795
+486107,"Årdalsvegen 136, Helgheim",61.557573,6.332295
+486108,"Ospene 84, Helgheim",61.569867,6.486861
+486109,"Stardalen 527, Helgheim",61.610187,6.617103
+486110,"Stardalen 1150, Helgheim",61.614795,6.721636
+486111,"Stardalen 866, Helgheim",61.61506,6.667898
+486113,"Stardalen 224, Helgheim",61.607559,6.566506
+486114,"Befringsvegen 157, Helgheim",61.615226,6.641624
+486117,"Ospene 86, Helgheim",61.570063,6.486751
+486118,"Jølstravegen 2730, Helgheim",61.562803,6.401213
+486119,"Vikagarden 3, Helgheim",61.564939,6.477258
+486120,"Årdalsvegen 79, Helgheim",61.55156,6.345695
+486121,"Vikagarden 104, Helgheim",61.563323,6.480252
+486122,"Årdalsvegen 54, Helgheim",61.549257,6.346095
+486124,"Jølstravegen 2450, Helgheim",61.548979,6.348886
+486126,"Stardalen 1146, Helgheim",61.614513,6.720883
+486128,"Ospene 24, Helgheim",61.571624,6.483742
+486138,"Kalvekvia 37, Helgheim",61.557168,6.363591
+486139,"Jølstravegen 2720, Helgheim",61.56053,6.394097
+486140,"Befringsvegen 30, Helgheim",61.609675,6.62294
+486141,"Jølstravegen 2716, Helgheim",61.560611,6.393186
+486158,"Kalvekvia 11, Helgheim",61.555809,6.362953
+486160,"Årdalsvegen 361, Helgheim",61.554667,6.360779
+486174,"Jølstravegen 2769, Helgheim",61.560663,6.399679
+486175,"Orkavegen 583, Helgheim",61.529307,6.428658
+486177,"Ospene 1, Helgheim",61.569256,6.483444
+486178,"Ospene 58, Helgheim",61.569966,6.484404
+486181,"Ospene 88, Helgheim",61.570341,6.486728
+486183,"Vikavegen 50, Helgheim",61.574127,6.485536
+486194,"Ospene 47, Helgheim",61.569917,6.485632
+486195,"Ospene 33, Helgheim",61.569152,6.48511
+486196,"Stardalen 220, Helgheim",61.606575,6.568733
+486197,"Ospene 57, Helgheim",61.569825,6.486016
+486198,"Ospene 55, Helgheim",61.56977,6.485983
+486199,"Ospene 53, Helgheim",61.569704,6.485819
+486206,"Årdalsvegen 332, Helgheim",61.553852,6.356077
+486207,"Jølstravegen 3234, Helgheim",61.572812,6.480462
+486212,"Nikolai Astrups veg 1963, Helgheim",61.545489,6.430331
+486213,"Jølstravegen 2742, Helgheim",61.561657,6.399539
+486230,"Klakeggsvegen 35, Helgheim",61.605638,6.52781
+486233,"Orkavegen 639, Helgheim",61.534739,6.438088
+486236,"Fossheim 63, Helgheim",61.583356,6.501429
+486241,"Stardalen 707, Helgheim",61.618885,6.642345
+486252,"Stardalen 45, Helgheim",61.608949,6.537766
+486255,"Ospene 21, Helgheim",61.569301,6.48491
+486257,"Ospene 19, Helgheim",61.569123,6.484962
+486266,"Jølstravegen 3316, Helgheim",61.579308,6.490826
+486288,"Ospene 31, Helgheim",61.569277,6.485044
+486296,"Årdalsvegen 200, Helgheim",61.560316,6.339256
+486297,"Årdalsvegen 196, Helgheim",61.560542,6.339331
+486298,"Viken 69A, Helgheim",61.571308,6.486556
+486299,"Nikolai Astrups veg 1962, Helgheim",61.545815,6.430003
+486300,"Befringsvegen 35, Helgheim",61.609035,6.63159
+486301,"Befringsvegen 16, Helgheim",61.609627,6.621762
+486302,"Jølstravegen 3633, Helgheim",61.600292,6.519504
+486303,"Vikavegen 19, Helgheim",61.572568,6.481819
+486307,"Førsvegen 413, Helgheim",61.615782,6.463499
+486311,"Årdalsvegen 313, Helgheim",61.552919,6.352448
+486312,"Årdalsvegen 208, Helgheim",61.561704,6.342263
+486313,"Jølstravegen 2800, Helgheim",61.561404,6.410785
+486314,"Jølstravegen 2786, Helgheim",61.562262,6.407266
+486316,"Jølstravegen 2312, Helgheim",61.538925,6.339054
+486317,"Årdalsvegen 118, Helgheim",61.554071,6.340054
+486318,"Årdalsvegen 146, Helgheim",61.557036,6.335488
+486319,"Jølstravegen 3771, Helgheim",61.611587,6.532634
+486320,"Stardalen 232, Helgheim",61.608605,6.574326
+486321,"Stardalen 1118, Helgheim",61.614882,6.715499
+486322,"Befringsvegen 90, Helgheim",61.611721,6.634723
+486323,"Jølstravegen 2788, Helgheim",61.56226,6.407135
+486324,"Jølstravegen 2996, Helgheim",61.562511,6.44333
+486325,"Jølstravegen 3052, Helgheim",61.563812,6.450437
+486326,"Jølstravegen 3230, Helgheim",61.572041,6.478565
+486340,"Førsvegen 484, Helgheim",61.618165,6.45155
+486341,"Førsvegen 482, Helgheim",61.617968,6.451604
+486342,"Førsvegen 506, Helgheim",61.61943,6.449068
+486358,"Jølstravegen 3226, Helgheim",61.57211,6.479389
+486359,"Grovavegen 91, Helgheim",61.542903,6.465458
+486360,"Grovavegen 116, Helgheim",61.541956,6.471521
+486363,"Stardalen 532, Helgheim",61.61083,6.61708
+486364,"Stardalen 534, Helgheim",61.610977,6.617239
+486365,"Jølstravegen 3734, Helgheim",61.609156,6.526867
+486369,"Grovavegen 120, Helgheim",61.542298,6.472076
+486370,"Grovavegen 103, Helgheim",61.541649,6.470473
+486372,"Jølstravegen 3732, Helgheim",61.60925,6.526596
+486377,"Grovavegen 254, Helgheim",61.534942,6.492582
+486383,"Ospene 17, Helgheim",61.568882,6.485038
+486384,"Grovavegen 71, Helgheim",61.543077,6.465124
+486389,"Jølstravegen 2108, Ålhus",61.52747,6.310555
+486390,"Årdalsvegen 147, Helgheim",61.556065,6.33962
+486391,"Jølstravegen 3370, Helgheim",61.582798,6.492541
+486395,"Jølstravegen 2110, Ålhus",61.527779,6.311187
+486396,"Jølstravegen 2060, Ålhus",61.526266,6.305523
+486397,"Nikolai Astrups veg 1877, Helgheim",61.546934,6.413176
+486398,"Stardalen 558, Helgheim",61.611519,6.619989
+486399,"Ospene 46, Helgheim",61.570494,6.484043
+486400,"Ospene 52, Helgheim",61.570186,6.484669
+486401,"Grovavegen 266, Helgheim",61.535123,6.494072
+486403,"Førsvegen 517, Helgheim",61.621496,6.450559
+486409,"Jølstravegen 2308, Helgheim",61.537791,6.333882
+486410,"Årdalsvegen 93, Helgheim",61.55243,6.344079
+486411,"Årdalsvegen 102, Helgheim",61.552858,6.342794
+486413,"Ospene 35, Helgheim",61.568848,6.485172
+486414,"Ospene 37, Helgheim",61.568722,6.485164
+486416,"Stardalen 61, Helgheim",61.607666,6.540867
+486417,"Stardalen 510, Helgheim",61.610675,6.613339
+486418,"Stardalen 504, Helgheim",61.610693,6.611597
+486419,"Førsvegen 104, Helgheim",61.612327,6.499263
+486420,"Jølstravegen 3690, Helgheim",61.609387,6.519304
+486421,"Jølstravegen 3746, Helgheim",61.61072,6.529383
+486422,"Jølstravegen 3769, Helgheim",61.611149,6.533272
+486423,"Stardalen 1072, Helgheim",61.615977,6.706364
+486424,"Stardalen 1004, Helgheim",61.615344,6.695942
+486425,"Stardalen 1095, Helgheim",61.613558,6.711522
+486426,"Stardalen 1097, Helgheim",61.613419,6.711834
+486427,"Stardalen 710, Helgheim",61.619648,6.641796
+486428,"Stardalen 714, Helgheim",61.620056,6.642539
+486429,"Stardalen 716, Helgheim",61.620125,6.64293
+486430,"Stardalen 1032, Helgheim",61.614821,6.699036
+486431,"Jølstravegen 3060, Helgheim",61.565433,6.453543
+486432,"Jølstravegen 3266, Helgheim",61.575022,6.479981
+486433,"Jølstravegen 3362, Helgheim",61.582712,6.491285
+486434,"Jølstravegen 3364, Helgheim",61.582691,6.491626
+486435,"Jølstravegen 2704, Helgheim",61.560115,6.386975
+486436,"Jølstravegen 2710, Helgheim",61.560131,6.391117
+486437,"Jølstravegen 2794, Helgheim",61.561612,6.405645
+486438,"Jølstravegen 2984, Helgheim",61.562514,6.44156
+486439,"Jølstravegen 3508, Helgheim",61.5935,6.50655
+486440,"Jølstravegen 3492, Helgheim",61.592485,6.503087
+486441,"Jølstravegen 3526, Helgheim",61.594173,6.506024
+486442,"Førsvegen 47, Helgheim",61.599711,6.510236
+486443,"Jølstravegen 3376, Helgheim",61.583083,6.491463
+486444,"Jølstravegen 3378, Helgheim",61.583275,6.491636
+486445,"Jølstravegen 3298, Helgheim",61.577649,6.485609
+486446,"Jølstravegen 3276, Helgheim",61.576563,6.483172
+486447,"Årdalsvegen 163, Helgheim",61.557269,6.33876
+486448,"Jølstravegen 2774, Helgheim",61.560776,6.403247
+486449,"Jølstravegen 2778, Helgheim",61.56076,6.40291
+486450,"Jølstravegen 2702, Helgheim",61.560157,6.387311
+486452,"Årdalsvegen 234, Helgheim",61.558569,6.344094
+486468,"Orkavegen 431, Helgheim",61.5247,6.399789
+486471,"Nikolai Astrups veg 2050, Helgheim",61.548142,6.444889
+486472,"Orkavegen 516, Helgheim",61.527421,6.415834
+486473,"Orkavegen 595, Helgheim",61.527144,6.432054
+486482,"Fossheim 17, Helgheim",61.579622,6.496679
+486483,"Fossheim 13, Helgheim",61.579862,6.49504
+486484,"Fossheim 11, Helgheim",61.579787,6.494914
+486485,"Kjøsnes 125, Helgheim",61.552068,6.471432
+486486,"Fossheim 91, Helgheim",61.585063,6.503421
+486487,"Fossheim 81, Helgheim",61.584071,6.503199
+486488,"Fossheim 67, Helgheim",61.583908,6.502628
+486489,"Fossheim 49, Helgheim",61.581832,6.500138
+486490,"Grovavegen 63, Helgheim",61.543915,6.462873
+486491,"Nikolai Astrups veg 1997, Helgheim",61.545949,6.435714
+486492,"Nikolai Astrups veg 1957, Helgheim",61.545591,6.429589
+486493,"Kjøsnes 127, Helgheim",61.552015,6.471512
+486494,"Kjøsnes 101, Helgheim",61.554273,6.468296
+486495,"Kjøsnesfjordvegen 1203, Helgheim",61.518625,6.634488
+486496,"Kjøsnesfjordvegen 1201, Helgheim",61.51869,6.634596
+486497,"Befringsvegen 74, Helgheim",61.611431,6.629935
+486498,"Befringsvegen 109, Helgheim",61.612718,6.638928
+486499,"Stardalen 434, Helgheim",61.608849,6.601371
+486500,"Jølstravegen 3640, Helgheim",61.603373,6.514034
+486501,"Stardalen 1144, Helgheim",61.614466,6.720189
+486502,"Stardalen 1156, Helgheim",61.615755,6.720452
+486503,"Stardalen 1158, Helgheim",61.615285,6.721355
+486504,"Befringsvegen 155, Helgheim",61.615298,6.641146
+486505,"Jølstravegen 3648, Helgheim",61.602922,6.51737
+486506,"Jølstravegen 3618, Helgheim",61.600755,6.51679
+486520,"Ospene 15, Helgheim",61.568702,6.485052
+486523,"Ospene 6, Helgheim",61.571239,6.481852
+486530,"Orkavegen 502, Helgheim",61.526607,6.411255
+486532,"Orkavegen 637, Helgheim",61.534213,6.436852
+486533,"Orkavegen 645, Helgheim",61.534718,6.436961
+486534,"Orkavegen 643, Helgheim",61.53535,6.437134
+486546,"Jølstravegen 2998, Helgheim",61.562525,6.442614
+486551,"Vikavegen 87, Helgheim",61.577973,6.49295
+486552,"Kjøsnes 3, Helgheim",61.56365,6.473634
+486553,"Nikolai Astrups veg 2106, Helgheim",61.549542,6.453961
+486554,"Befringsvegen 83, Helgheim",61.608627,6.63709
+486558,"Jølstravegen 2495, Helgheim",61.552391,6.355787
+486721,"Stardalen 1058, Helgheim",61.616496,6.704628
+486726,"Vikagarden 15, Helgheim",61.563413,6.476855
+486727,"Grovavegen 257, Helgheim",61.534391,6.492814
+486728,"Grovavegen 219, Helgheim",61.536217,6.486113
+486730,"Årdalsvegen 48, Helgheim",61.5489,6.345731
+486731,"Årdalsvegen 32, Helgheim",61.547104,6.344397
+486738,"Stardalen 162, Helgheim",61.608101,6.558089
+486739,"Grovavegen 198, Helgheim",61.537504,6.483343
+486740,"Nikolai Astrups veg 2108, Helgheim",61.54957,6.454015
+486743,"Jølstravegen 2732, Helgheim",61.563142,6.401072
+486744,"Førsvegen 45, Helgheim",61.599938,6.510388
+486745,"Orkavegen 490, Helgheim",61.526909,6.411061
+486746,"Førsvegen 500, Helgheim",61.618533,6.448199
+486749,"Klakeggsvegen 45, Helgheim",61.606434,6.529291
+486767,"Kjøsnes 9, Helgheim",61.562568,6.470483
+486768,"Orkavegen 537, Helgheim",61.526983,6.422097
+486769,"Orkavegen 647, Helgheim",61.534387,6.436047
+486771,"Jølstravegen 2700, Helgheim",61.560028,6.386192
+486772,"Jølstravegen 3688, Helgheim",61.609069,6.518104
+486774,"Jølstravegen 2499, Helgheim",61.552565,6.356394
+486776,"Stardalen 604, Helgheim",61.614589,6.624525
+486779,"Orkavegen 671, Helgheim",61.536046,6.434028
+486780,"Jølstravegen 2647, Helgheim",61.557929,6.382131
+486781,"Jølstravegen 3312, Helgheim",61.579721,6.487206
+486782,"Stardalen 1258, Helgheim",61.610894,6.735446
+486783,"Stardalen 1384, Helgheim",61.601704,6.750013
+486784,"Stardalen 502, Helgheim",61.611079,6.611252
+486785,"Stardalen 557, Helgheim",61.611465,6.621011
+486787,"Stardalen 1038, Helgheim",61.61561,6.699996
+486789,"Stardalen 1256, Helgheim",61.61106,6.735188
+486792,"Årdalsvegen 97, Helgheim",61.55258,6.34374
+486794,"Jølstravegen 3368, Helgheim",61.582899,6.492194
+486795,"Jølstravegen 3366, Helgheim",61.582769,6.491978
+486796,"Jølstravegen 3310, Helgheim",61.579101,6.488355
+1350242,"Ospene 67, Helgheim",61.568589,6.485713
+1350341,"Orkavegen 478, Helgheim",61.526866,6.407501
+1371645,"Orkavegen 767, Helgheim",61.54431,6.438711
+1371655,"Ospene 69, Helgheim",61.568802,6.486239
+1446512,"Nikolai Astrups veg 1940, Helgheim",61.546032,6.427128
+1634146,"Ospene 75, Helgheim",61.569142,6.486716
+1634148,"Ospene 77, Helgheim",61.569072,6.486708
+1638845,"Førsvegen 391, Helgheim",61.615335,6.468499
+1639569,"Grovavegen 99, Helgheim",61.542087,6.468638
+1646408,"Vikagarden 68, Helgheim",61.564754,6.480607
+1648583,"Ospene 83, Helgheim",61.569629,6.487468
+1656169,"Ospene 79, Helgheim",61.568774,6.486768
+1656170,"Ospene 81, Helgheim",61.568707,6.486815
+1658332,"Stardalen 1149, Helgheim",61.61365,6.72132
+1678917,"Stardalen 959, Helgheim",61.611362,6.686385
+1780224,"Vikavegen 101, Helgheim",61.579786,6.493282
+1803991,"Ospene 85, Helgheim",61.569957,6.487498
+1803993,"Ospene 87, Helgheim",61.569999,6.487489
+1804487,"Fossheim 21, Helgheim",61.580045,6.497561
+1840175,"Vikavegen 7, Helgheim",61.573438,6.482011
+1840178,"Vikavegen 9, Helgheim",61.573096,6.481729
+1869099,"Orkavegen 585, Helgheim",61.523119,6.424152
+1894591,"Ospene 61, Helgheim",61.569325,6.485767
+1917961,"Ospene 91, Helgheim",61.570293,6.487663
+1917962,"Ospene 89, Helgheim",61.570244,6.487621
+1943362,"Ospene 99, Helgheim",61.570959,6.488309
+1943539,"Ospene 95, Helgheim",61.570653,6.487997
+1943549,"Ospene 93, Helgheim",61.57057,6.487972
+1943675,"Ospene 97, Helgheim",61.570882,6.488248
+1948427,"Jølstravegen 3079, Helgheim",61.566378,6.461853
+1963732,"Stardalen 1040, Helgheim",61.615985,6.699993
+1964132,"Stardalen 962, Helgheim",61.614455,6.685852
+1967993,"Jølstravegen 2960, Helgheim",61.56236,6.436817
+1967995,"Vikavegen 2, Helgheim",61.574587,6.483164
+1969429,"Jølstravegen 2841, Helgheim",61.560722,6.418787
+1972054,"Vikagarden 46, Helgheim",61.565212,6.480463
+1972282,"Vikagarden 48, Helgheim",61.565135,6.480418
+1991631,"Vikagarden 35, Helgheim",61.564432,6.478324
+1991795,"Vikagarden 37, Helgheim",61.564342,6.478205
+1994401,"Jølstravegen 2112, Ålhus",61.527855,6.311801
+2013736,"Fossheim 59, Helgheim",61.58303,6.500918
+2013739,"Klakeggsvegen 19, Helgheim",61.605432,6.525341
+2013740,"Fossheim 6, Helgheim",61.580671,6.493305
+2013742,"Stardalen 957, Helgheim",61.612638,6.686001
+2013743,"Klakeggsvegen 17, Helgheim",61.605203,6.525308
+2013745,"Befringsvegen 107, Helgheim",61.611809,6.63786
+2013746,"Stardalen 494, Helgheim",61.60908,6.613516
+2016513,"Årdalsvegen 372, Helgheim",61.555345,6.363019
+2016525,"Kalvekvia 20, Helgheim",61.556654,6.363476
+2016526,"Vikavegen 5, Helgheim",61.573859,6.48243
+2016527,"Vikavegen 3, Helgheim",61.57373,6.482543
+2016785,"Vikavegen 37, Helgheim",61.573421,6.483206
+2016788,"Fygla 4, Helgheim",61.57144,6.476774
+2016790,"Vikavegen 91, Helgheim",61.577585,6.494001
+2016794,"Årdalsvegen 310, Helgheim",61.553407,6.35228
+2022398,"Jølstravegen 2767, Helgheim",61.560216,6.400575
+2022399,"Jølstravegen 3168, Helgheim",61.570977,6.471604
+2022595,"Befringsvegen 79, Helgheim",61.609108,6.635375
+2022622,"Jølstravegen 3225, Helgheim",61.571839,6.481025
+2022623,"Jølstravegen 3261, Helgheim",61.574951,6.483173
+2022624,"Jølstravegen 3263, Helgheim",61.575959,6.483773
+2022957,"Ospene 40, Helgheim",61.570787,6.48433
+2024523,"Årdalsvegen 140, Helgheim",61.56027,6.331382
+2026507,"Ospene 5, Helgheim",61.569044,6.483433
+2026508,"Ospene 3, Helgheim",61.56923,6.482683
+2029551,"Grovavegen 253, Helgheim",61.534616,6.492299
+2029567,"Nikolai Astrups veg 2090, Helgheim",61.550594,6.450113
+2029568,"Nikolai Astrups veg 2064, Helgheim",61.548646,6.446307
+2029571,"Vikagarden 9, Helgheim",61.564688,6.477501
+2029576,"Nikolai Astrups veg 2092, Helgheim",61.550804,6.450309
+2029773,"Orkavegen 635, Helgheim",61.533914,6.436758
+2029774,"Orkavegen 641, Helgheim",61.535316,6.437878
+2029776,"Orkavegen 649, Helgheim",61.534437,6.435313
+2029778,"Orkavegen 587, Helgheim",61.522885,6.427402
+2029864,"Nikolai Astrups veg 1985, Helgheim",61.547068,6.432945
+2029866,"Nikolai Astrups veg 1961, Helgheim",61.54526,6.430796
+2029872,"Nikolai Astrups veg 2107, Helgheim",61.549346,6.451682
+2029930,"Nikolai Astrups veg 2098, Helgheim",61.550927,6.451206
+2029932,"Nikolai Astrups veg 2100, Helgheim",61.551091,6.451351
+2029934,"Nikolai Astrups veg 2102, Helgheim",61.550954,6.451452
+2030564,"Ospene 25, Helgheim",61.56952,6.484745
+2031203,"Ospene 23, Helgheim",61.569445,6.484798
+2031480,"Ospene 29, Helgheim",61.569475,6.484918
+2031481,"Ospene 27, Helgheim",61.569548,6.484869
+2067884,"Kjøsnes 18, Helgheim",61.561693,6.471409
+2067886,"Kjøsnes 20, Helgheim",61.561784,6.4715
+2077287,"Kjøsnes 7, Helgheim",61.563343,6.473168
+2106142,"Viken 44, Helgheim",61.571194,6.488763
+2106144,"Viken 42, Helgheim",61.571084,6.489317
+2106146,"Viken 40, Helgheim",61.571289,6.489639
+2106147,"Viken 29B, Helgheim",61.571717,6.485006
+2106148,"Viken 61B, Helgheim",61.571926,6.486911
+2106149,"Viken 36B, Helgheim",61.571557,6.487845
+2108211,"Kjøsnes 119, Helgheim",61.551443,6.46839
+2108212,"Kjøsnes 121, Helgheim",61.551214,6.468559
+2108494,"Kjøsnes 5, Helgheim",61.563505,6.473356
+2108507,"Kjøsnes 14, Helgheim",61.562329,6.472271
+2108510,"Kjøsnes 13, Helgheim",61.562461,6.471597
+2108527,"Kjøsnes 15, Helgheim",61.562129,6.471161
+2109617,"Vikagarden 11, Helgheim",61.564491,6.477538
+2113672,"Jølstravegen 2244, Helgheim",61.536408,6.330386
+2115219,"Jølstravegen 2837B, Helgheim",61.560334,6.417746
+2115249,"Jølstravegen 2837A, Helgheim",61.560182,6.417489
+2115268,"Jølstravegen 2517, Helgheim",61.553445,6.359497
+2116417,"Stardalen 718, Helgheim",61.620364,6.642593
+2117411,"Ripe, Kjøsnesfjordvegen 1153, Helgheim",61.524945,6.613167
+2117433,"Ripe, Kjøsnesfjordvegen 1151, Helgheim",61.524392,6.613924
+2188932,"Ospene 82, Helgheim",61.569638,6.486887
+2193473,"Stardalen 126, Helgheim",61.612444,6.548629
+2198736,"Kjøsnes 11, Helgheim",61.562629,6.471949
+2433959,"Fygla 35, Helgheim",61.57197,6.475199
+2433970,"Fygla 9, Helgheim",61.571644,6.475583
+2451332,"Orkavegen 506, Helgheim",61.52658,6.410714
+2451472,"Kjøsnes 4, Helgheim",61.562984,6.473214
+2451473,"Kjøsnes 6, Helgheim",61.562916,6.473106
+2451474,"Kjøsnes 2, Helgheim",61.563036,6.473183
+2451475,"Kjøsnes 8, Helgheim",61.562888,6.472971
+2491303,"Førsvegen 515, Helgheim",61.621523,6.450715

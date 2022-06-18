@@ -1,0 +1,885 @@
+,Navn,Long,Lat
+37615,"19/17, Bryne",58.730872,5.667561
+186219,"Norheimsvegen 22, Bryne",58.734533,5.667332
+186221,"Norheimsvegen 4, Bryne",58.734303,5.666749
+186223,"Norheimsvegen 12, Bryne",58.734914,5.667088
+186227,"Asalvegen 6, Bryne",58.72924,5.670137
+186228,"Asalvegen 8, Bryne",58.729421,5.669826
+186229,"Asalvegen 3, Bryne",58.729896,5.669764
+186230,"Asalvegen 4, Bryne",58.729359,5.670575
+186231,"Asalvegen 1, Bryne",58.729987,5.67017
+186232,"Asalvegen 2, Bryne",58.729578,5.670347
+186234,"Tangen 2, Bryne",58.735726,5.669984
+186309,"Bjørkevegen 1, Bryne",58.729865,5.667883
+186316,"Bjørkevegen 9, Bryne",58.729428,5.666991
+186318,"Bjørkevegen 6, Bryne",58.72931,5.667279
+186319,"Bjørkevegen 7, Bryne",58.729762,5.667045
+186320,"Bjørkevegen 4B, Bryne",58.729368,5.667775
+186321,"Bjørkevegen 5, Bryne",58.729625,5.667283
+186322,"Bjørkevegen 2, Bryne",58.729691,5.668452
+186323,"Bjørkevegen 3, Bryne",58.729765,5.667512
+186516,"Dronning Mauds gate 32, Bryne",58.73041,5.660122
+186517,"Dronning Mauds gate 34, Bryne",58.730412,5.659845
+186518,"Dronning Mauds gate 28, Bryne",58.730387,5.661316
+186519,"Dronning Mauds gate 30, Bryne",58.730399,5.661108
+186520,"Dronning Mauds gate 24, Bryne",58.73038,5.661749
+186521,"Dronning Mauds gate 26, Bryne",58.730375,5.661542
+186522,"Dronning Mauds gate 20, Bryne",58.730355,5.662184
+186523,"Dronning Mauds gate 22, Bryne",58.730368,5.661975
+186524,"Dronning Mauds gate 48, Bryne",58.729583,5.659423
+186525,"Dronning Mauds gate 50, Bryne",58.72955,5.659202
+186526,"Dronning Mauds gate 44, Bryne",58.729736,5.659771
+186527,"Dronning Mauds gate 46, Bryne",58.72965,5.659607
+186528,"Dronning Mauds gate 40, Bryne",58.729928,5.65958
+186529,"Dronning Mauds gate 42, Bryne",58.729852,5.659397
+186530,"Dronning Mauds gate 36, Bryne",58.730181,5.659971
+186531,"Dronning Mauds gate 38, Bryne",58.729987,5.659747
+186532,"Dronning Mauds gate 10, Bryne",58.729909,5.66195
+186533,"Dronning Mauds gate 11, Bryne",58.730424,5.658928
+186534,"Dronning Mauds gate 8, Bryne",58.730001,5.66239
+186535,"Dronning Mauds gate 9, Bryne",58.730082,5.659254
+186536,"Dronning Mauds gate 6, Bryne",58.73016,5.662634
+186537,"Dronning Mauds gate 7, Bryne",58.730231,5.659482
+186538,"Dronning Mauds gate 4, Bryne",58.730339,5.662583
+186539,"Dronning Mauds gate 5, Bryne",58.730436,5.659393
+186540,"Dronning Mauds gate 18, Bryne",58.730157,5.661805
+186541,"Dronning Mauds gate 19, Bryne",58.729779,5.659024
+186542,"Dronning Mauds gate 16, Bryne",58.730156,5.661425
+186543,"Dronning Mauds gate 17, Bryne",58.729909,5.658821
+186544,"Dronning Mauds gate 14, Bryne",58.729892,5.661312
+186545,"Dronning Mauds gate 15, Bryne",58.730066,5.658651
+186546,"Dronning Mauds gate 12, Bryne",58.729892,5.661658
+186547,"Dronning Mauds gate 13, Bryne",58.730342,5.658538
+186556,"Dronning Mauds gate 2, Bryne",58.730328,5.662878
+186557,"Dronning Mauds gate 3, Bryne",58.730781,5.658813
+186590,"Eivindsholvegen 10, Bryne",58.729613,5.665452
+186591,"Kong Haakons veg 33D, Bryne",58.727819,5.663498
+186592,"Eivindsholvegen 8, Bryne",58.729888,5.665668
+186593,"Eivindsholvegen 6, Bryne",58.730609,5.666429
+186594,"Eivindsholvegen 7, Bryne",58.728888,5.663465
+186595,"Eivindsholvegen 2, Bryne",58.731547,5.666909
+186596,"Eivindsholvegen 3, Bryne",58.730303,5.665352
+186597,"Eivindsholen 9, Bryne",58.727393,5.663366
+186599,"Eivindsholen 13, Bryne",58.727131,5.663322
+186600,"Eivindsholvegen 20, Bryne",58.729229,5.665178
+186601,"Eivindsholvegen 22, Bryne",58.729048,5.664798
+186602,"Eivindsholvegen 16, Bryne",58.729467,5.666382
+186603,"Eivindsholvegen 18, Bryne",58.729322,5.665999
+186604,"Eivindsholvegen 12, Bryne",58.729486,5.665741
+186605,"Eivindsholvegen 14, Bryne",58.729658,5.666139
+187373,"Kong Haakons veg 2, Bryne",58.730702,5.665504
+187374,"Kong Haakons veg 4, Bryne",58.730147,5.664191
+187381,"Kong Haralds gate 2, Bryne",58.729266,5.662461
+187382,"Kong Haralds gate 3, Bryne",58.729531,5.66228
+187383,"Kong Haakons veg 16, Bryne",58.729389,5.6634
+187384,"Kong Haralds gate 1, Bryne",58.729535,5.662418
+187385,"Kong Haakons veg 12, Bryne",58.729088,5.663895
+187386,"Kong Haakons veg 14, Bryne",58.729214,5.663209
+187387,"Kong Haakons veg 8, Bryne",58.729376,5.664628
+187388,"Kong Haakons veg 10, Bryne",58.729252,5.664018
+187449,"Kong Haralds gate 39, Bryne",58.728486,5.660807
+187450,"Kong Haralds gate 41, Bryne",58.728678,5.660581
+187451,"Kong Haralds gate 35, Bryne",58.728389,5.661214
+187452,"Kong Haralds gate 37, Bryne",58.728278,5.661087
+187453,"Kong Haralds gate 32, Bryne",58.728527,5.659956
+187454,"Kong Haralds gate 33, Bryne",58.728511,5.66141
+187463,"Kong Haralds gate 26A, Bryne",58.728072,5.660778
+187464,"Kong Haralds gate 26B, Bryne",58.728078,5.660674
+187465,"Kong Haralds gate 24, Bryne",58.727923,5.66093
+187466,"Kong Haralds gate 25, Bryne",58.729025,5.661153
+187467,"Kong Haralds gate 22, Bryne",58.727776,5.661135
+187468,"Kong Haralds gate 23, Bryne",58.728804,5.661606
+187469,"Kong Haralds gate 20, Bryne",58.728072,5.661469
+187470,"Kong Haralds gate 21, Bryne",58.728931,5.661681
+187471,"Kong Haralds gate 30, Bryne",58.728407,5.660193
+187472,"Kong Haralds gate 31, Bryne",58.728621,5.661486
+187473,"Kong Haralds gate 28C, Bryne",58.728255,5.660225
+187474,"Kong Haralds gate 29, Bryne",58.728714,5.660941
+187475,"Kong Haralds gate 28A, Bryne",58.728253,5.660467
+187476,"Kong Haralds gate 28B, Bryne",58.72825,5.660346
+187477,"Kong Haralds gate 26C, Bryne",58.728075,5.660553
+187478,"Kong Haralds gate 27, Bryne",58.728862,5.661082
+187479,"Kong Haralds gate 10, Bryne",58.728828,5.662192
+187480,"Kong Haralds gate 11, Bryne",58.729537,5.661813
+187481,"Kong Haralds gate 8, Bryne",58.728937,5.66225
+187482,"Kong Haralds gate 9, Bryne",58.729531,5.661917
+187483,"Kong Haralds gate 6, Bryne",58.729037,5.662293
+187484,"Kong Haralds gate 7, Bryne",58.729534,5.662038
+187485,"Kong Haralds gate 4, Bryne",58.729147,5.662369
+187486,"Kong Haralds gate 5, Bryne",58.729537,5.662158
+187487,"Kong Haralds gate 18, Bryne",58.72816,5.661755
+187488,"Kong Haralds gate 19, Bryne",58.729049,5.661721
+187489,"Kong Haralds gate 16, Bryne",58.728387,5.661837
+187490,"Kong Haralds gate 17, Bryne",58.729168,5.661813
+187491,"Kong Haralds gate 14, Bryne",58.728499,5.661981
+187492,"Kong Haralds gate 15, Bryne",58.729277,5.661855
+187493,"Kong Haralds gate 12, Bryne",58.728709,5.662134
+187494,"Kong Haralds gate 13, Bryne",58.729221,5.661428
+187511,"Kong Sigurds gate 24, Bryne",58.729053,5.660131
+187512,"Kong Sigurds gate 26, Bryne",58.729003,5.659945
+187513,"Kong Sigurds gate 21, Bryne",58.729204,5.659701
+187514,"Kong Sigurds gate 22, Bryne",58.729103,5.660333
+187515,"Kong Sigurds gate 19, Bryne",58.729297,5.659848
+187516,"Kong Sigurds gate 20, Bryne",58.729321,5.660433
+187517,"Kong Sigurds gate 17, Bryne",58.729406,5.659872
+187518,"Kong Sigurds gate 18, Bryne",58.729428,5.660406
+187527,"Kong Sigurds gate 7, Bryne",58.73004,5.660416
+187528,"Kong Sigurds gate 8, Bryne",58.730035,5.660935
+187529,"Kong Sigurds gate 5, Bryne",58.730157,5.660422
+187530,"Kong Sigurds gate 6, Bryne",58.730135,5.66096
+187531,"Kong Sigurds gate 3, Bryne",58.730254,5.660344
+187532,"Kong Sigurds gate 4, Bryne",58.730243,5.660967
+187533,"Kong Sigurds gate 1, Bryne",58.730409,5.66045
+187534,"Kong Sigurds gate 2, Bryne",58.730403,5.660883
+187535,"Kong Sigurds gate 15, Bryne",58.729507,5.659949
+187536,"Kong Sigurds gate 16, Bryne",58.729549,5.66055
+187537,"Kong Sigurds gate 13, Bryne",58.729681,5.660105
+187538,"Kong Sigurds gate 14, Bryne",58.729642,5.660679
+187539,"Kong Sigurds gate 11, Bryne",58.729784,5.660251
+187540,"Kong Sigurds gate 12, Bryne",58.729754,5.660824
+187541,"Kong Sigurds gate 9, Bryne",58.729884,5.660293
+187542,"Kong Sigurds gate 10, Bryne",58.729918,5.660912
+187634,"Kvålevegen 10, Bryne",58.731802,5.669097
+187635,"Kvålevegen 11, Bryne",58.731438,5.668942
+187636,"Kvålevegen 4, Bryne",58.732229,5.666498
+187637,"Kvålevegen 8, Bryne",58.731843,5.668264
+187638,"Kvålevegen 2, Bryne",58.732426,5.666134
+187639,"Kvålevegen 3, Bryne",58.731512,5.667967
+187641,"Kvålevegen 1, Bryne",58.7316,5.667544
+187741,"Kvålevegen 12, Bryne",58.731725,5.669934
+187881,"Olav Kyrres gate 1, Bryne",58.730111,5.66314
+187882,"Olav Kyrres gate 3, Bryne",58.730057,5.663146
+187889,"Olav Kyrres gate 17, Bryne",58.729618,5.662859
+187890,"Poppelvegen 8, Bryne",58.731073,5.665935
+187892,"Olav Kyrres gate 13, Bryne",58.729747,5.662968
+187893,"Olav Kyrres gate 15, Bryne",58.729681,5.662853
+187894,"Olav Kyrres gate 9, Bryne",58.729866,5.66306
+187895,"Olav Kyrres gate 11, Bryne",58.729818,5.662961
+187896,"Olav Kyrres gate 5, Bryne",58.730003,5.663151
+187897,"Olav Kyrres gate 7, Bryne",58.729929,5.663071
+187929,"Norheimsvegen 28, Bryne",58.733995,5.667366
+187930,"Norheimsvegen 26, Bryne",58.734235,5.667257
+187931,"Norheimsvegen 3, Bryne",58.733636,5.667746
+187933,"Poppelvegen 5, Bryne",58.731444,5.665363
+187934,"Norheimsvegen 1, Bryne",58.733668,5.666533
+187939,"Norheimsvegen 15, Bryne",58.733108,5.670597
+187940,"Norheimsvegen 17, Bryne",58.732944,5.670855
+187941,"Norheimsvegen 11, Bryne",58.733362,5.669657
+187942,"Norheimsvegen 13, Bryne",58.733207,5.670242
+187943,"Norheimsvegen 7, Bryne",58.733544,5.668706
+187944,"Norheimsvegen 9, Bryne",58.733466,5.669163
+188028,"Poppelvegen 3, Bryne",58.731683,5.665548
+188029,"Poppelvegen 4, Bryne",58.731512,5.666221
+188030,"Poppelvegen 1, Bryne",58.731894,5.665701
+188031,"Poppelvegen 2, Bryne",58.731748,5.66632
+188040,"Poppelvegen 7, Bryne",58.731223,5.66516
+188041,"Poppelvegen 6, Bryne",58.731274,5.666071
+188103,"Raunevegen 11, Bryne",58.730247,5.667725
+188104,"Torkel Lendes veg 7, Bryne",58.730534,5.667352
+188105,"Raunevegen 9, Bryne",58.730119,5.667288
+188106,"Raunevegen 6, Bryne",58.730418,5.666689
+188107,"Raunevegen 7, Bryne",58.729912,5.66691
+188108,"Raunevegen 4, Bryne",58.730216,5.666518
+188109,"Raunevegen 5, Bryne",58.729558,5.666806
+188112,"Raunevegen 17, Bryne",58.730776,5.66942
+188113,"Raunevegen 19, Bryne",58.73054,5.669667
+188114,"Raunevegen 16, Bryne",58.731105,5.669268
+188115,"Raunevegen 13, Bryne",58.730635,5.668829
+188116,"Raunevegen 14, Bryne",58.731067,5.668822
+188125,"Raunevegen 2, Bryne",58.73036,5.666159
+188127,"Raunevegen 1B, Bryne",58.730033,5.666034
+188139,"Raunevegen 3B, Bryne",58.729765,5.66644
+188140,"Raunevegen 15, Bryne",58.730437,5.669159
+188141,"Raunevegen 10, Bryne",58.730994,5.668086
+188739,"Tangen 3, Bryne",58.736215,5.674311
+188758,"Torkel Lendes veg 4D, Bryne",58.731073,5.667663
+188759,"Torkel Lendes veg 5, Bryne",58.73069,5.667129
+188760,"Torkel Lendes veg 4B, Bryne",58.731371,5.667393
+188761,"Torkel Lendes veg 4C, Bryne",58.731256,5.667801
+188762,"Torkel Lendes veg 2, Bryne",58.731141,5.66719
+188763,"Torkel Lendes veg 3, Bryne",58.730872,5.66687
+188765,"Torkel Lendes veg 1, Bryne",58.731037,5.66663
+188786,"Tangen 9, Bryne",58.737537,5.673666
+188851,"Torkel Lendes veg 16, Bryne",58.729777,5.669343
+188853,"Torkel Lendes veg 12, Bryne",58.730156,5.668702
+188854,"Torkel Lendes veg 14, Bryne",58.729946,5.669275
+188855,"Torkel Lendes veg 8, Bryne",58.730746,5.667885
+188856,"Torkel Lendes veg 10, Bryne",58.730431,5.668243
+188857,"Torkel Lendes veg 9, Bryne",58.730085,5.668052
+188897,"Tytebærholen 28, Bryne",58.731519,5.671026
+188898,"Tytebærholen 30, Bryne",58.731493,5.671408
+188899,"Tytebærholen 24, Bryne",58.731778,5.671312
+188900,"Tytebærholen 26, Bryne",58.731551,5.670521
+188901,"Tytebærholen 20, Bryne",58.731874,5.670491
+188902,"Tytebærholen 22, Bryne",58.731821,5.670876
+188903,"Tytebærholen 16, Bryne",58.732063,5.670507
+188904,"Tytebærholen 18, Bryne",58.732055,5.670905
+188913,"Tytebærholen 3B, Bryne",58.731964,5.668753
+188914,"Tytebærholen 4, Bryne",58.732243,5.667724
+188915,"Tytebærholen 2, Bryne",58.731954,5.6677
+188916,"Tytebærholen 3A, Bryne",58.73196,5.668598
+188918,"Tytebærholen 1, Bryne",58.731943,5.668289
+188921,"Tytebærholen 10, Bryne",58.732277,5.669052
+188922,"Tytebærholen 14, Bryne",58.732201,5.669941
+188923,"Tytebærholen 8, Bryne",58.732393,5.66866
+188924,"Tytebærholen 9, Bryne",58.731824,5.669942
+188925,"Tytebærholen 7A, Bryne",58.731928,5.669448
+188926,"Tytebærholen 7B, Bryne",58.731914,5.669605
+188927,"Tytebærholen 5, Bryne",58.731911,5.669139
+188928,"Tytebærholen 6, Bryne",58.732282,5.668204
+188992,"Vinkelvegen 1, Bryne",58.733648,5.66714
+188993,"Vinkelvegen 2, Bryne",58.733329,5.667672
+188996,"Vinkelvegen 3, Bryne",58.733367,5.667046
+188997,"Vinkelvegen 4, Bryne",58.733331,5.668104
+189035,"Vinkelvegen 33, Bryne",58.732753,5.670441
+189036,"Vinkelvegen 35, Bryne",58.732638,5.67085
+189045,"Vinkelvegen 13, Bryne",58.732962,5.666359
+189046,"Vinkelvegen 15, Bryne",58.732735,5.666242
+189047,"Vinkelvegen 10, Bryne",58.733186,5.669432
+189048,"Vinkelvegen 11, Bryne",58.732879,5.666955
+189049,"Vinkelvegen 7, Bryne",58.73318,5.666424
+189050,"Vinkelvegen 8, Bryne",58.733257,5.669062
+189051,"Vinkelvegen 5, Bryne",58.733433,5.666487
+189052,"Vinkelvegen 6, Bryne",58.733289,5.668557
+189053,"Vinkelvegen 29A, Bryne",58.732888,5.669408
+189054,"Vinkelvegen 31, Bryne",58.732903,5.669977
+189055,"Vinkelvegen 25, Bryne",58.732898,5.668405
+189056,"Vinkelvegen 27, Bryne",58.732895,5.668975
+189057,"Vinkelvegen 23A, Bryne",58.732887,5.667956
+189058,"Vinkelvegen 23B, Bryne",58.732689,5.667958
+189059,"Vinkelvegen 19, Bryne",58.73294,5.667588
+189060,"Vinkelvegen 21, Bryne",58.732631,5.667462
+189065,"Kvålevegen 7, Bryne",58.731445,5.668509
+189067,"Kvålevegen 5, Bryne",58.73151,5.668226
+189121,"Eivindsholvegen 24, Bryne",58.729198,5.665734
+189145,"Vinkelvegen 17A, Bryne",58.732725,5.666572
+189192,"Norheimsvegen 8, Bryne",58.734611,5.666841
+189216,"Vinkelvegen 9B, Bryne",58.733189,5.666769
+189217,"Vinkelvegen 9A, Bryne",58.733132,5.667017
+189237,"Tangen 1B, Bryne",58.736379,5.673361
+189258,"Grønsko 5, Bryne",58.733004,5.676657
+189260,"Grønsko 9, Bryne",58.733186,5.676052
+189261,"Grønsko 7, Bryne",58.733113,5.67637
+189262,"Grønsko 13, Bryne",58.733423,5.675494
+189263,"Grønsko 11, Bryne",58.733314,5.675798
+189264,"Grønsko 38, Bryne",58.732982,5.675812
+189265,"Grønsko 40, Bryne",58.733096,5.675369
+189274,"Grønsko 18, Bryne",58.73223,5.676627
+189275,"Grønsko 20, Bryne",58.731981,5.676392
+189276,"Grønsko 14, Bryne",58.732274,5.677297
+189277,"Grønsko 16, Bryne",58.732416,5.676869
+189278,"Grønsko 10, Bryne",58.731821,5.676787
+189279,"Grønsko 12, Bryne",58.732125,5.677104
+189280,"Grønsko 6, Bryne",58.731752,5.677589
+189281,"Grønsko 8, Bryne",58.731677,5.67713
+189282,"Grønsko 34, Bryne",58.732615,5.675519
+189283,"Grønsko 36, Bryne",58.732836,5.675394
+189284,"Grønsko 30, Bryne",58.732804,5.676227
+189285,"Grønsko 32, Bryne",58.73268,5.675962
+189286,"Grønsko 26, Bryne",58.732409,5.67623
+189287,"Grønsko 28, Bryne",58.732539,5.676425
+189288,"Grønsko 22, Bryne",58.732082,5.676123
+189289,"Grønsko 24, Bryne",58.732183,5.675837
+189290,"Austre Håbakken 22, Bryne",58.732403,5.674294
+189291,"Grønsko 2, Bryne",58.731825,5.677997
+189292,"Grønsko 4, Bryne",58.731986,5.677601
+189293,"Austre Håbakken 15, Bryne",58.73298,5.674689
+189294,"Austre Håbakken 28, Bryne",58.732985,5.674204
+189295,"Austre Håbakken 13, Bryne",58.7328,5.674689
+189296,"Austre Håbakken 26, Bryne",58.732788,5.674206
+189297,"Austre Håbakken 11, Bryne",58.732603,5.674725
+189298,"Austre Håbakken 24, Bryne",58.732599,5.674207
+189300,"Lyngholen 49, Bryne",58.733874,5.672425
+189302,"Lyngholen 47, Bryne",58.733905,5.672215
+189304,"Lyngholen 35, Bryne",58.733936,5.670985
+189306,"Lyngholen 51, Bryne",58.733844,5.672636
+189312,"Kvålevegen 20, Bryne",58.73104,5.671279
+189315,"Lyngholen 37, Bryne",58.733924,5.671211
+189317,"Kvålevegen 18, Bryne",58.731173,5.671197
+189319,"Lyngholen 41, Bryne",58.733916,5.671609
+189321,"Lyngholen 39, Bryne",58.733929,5.6714
+189323,"Lyngholen 45, Bryne",58.733908,5.672007
+189325,"Lyngholen 43, Bryne",58.733912,5.671817
+189438,"Kvålevegen 28, Bryne",58.730758,5.670787
+189442,"Kvålevegen 24, Bryne",58.730706,5.671207
+189444,"Kvålevegen 26, Bryne",58.730688,5.670846
+189483,"Kong Haakons veg 1, Bryne",58.734602,5.665476
+189548,"Austre Håbakken 10B, Bryne",58.731353,5.676438
+189566,"Austre Håbakken 10A, Bryne",58.731378,5.676358
+189568,"Norheimsvegen 5A, Bryne",58.73363,5.668196
+189569,"Norheimsvegen 5B, Bryne",58.733577,5.668236
+189572,"Lyngholen 20, Bryne",58.734513,5.66863
+189573,"Lyngholen 22, Bryne",58.734201,5.668384
+189578,"Kvålevegen 21, Bryne",58.730838,5.670071
+189580,"Lyngholen 5, Bryne",58.733658,5.669991
+189581,"Lyngholen 7, Bryne",58.733577,5.67031
+189582,"Lyngholen 1, Bryne",58.733822,5.669371
+189583,"Lyngholen 3, Bryne",58.733741,5.669707
+189584,"Lyngholen 4, Bryne",58.733959,5.668407
+189585,"Lyngholen 2, Bryne",58.733899,5.668862
+189586,"Lyngholen 8, Bryne",58.733995,5.667712
+189587,"Lyngholen 6, Bryne",58.733977,5.668077
+189595,"Kvålevegen 17, Bryne",58.731223,5.669671
+189596,"Kvålevegen 19, Bryne",58.730997,5.669969
+189599,"Vinkelvegen 17B, Bryne",58.73263,5.666719
+189629,"Austre Håbakken 7, Bryne",58.732086,5.675224
+189630,"Austre Håbakken 9, Bryne",58.732259,5.674982
+189632,"Austre Håbakken 5, Bryne",58.731939,5.675462
+189634,"Austre Håbakken 20, Bryne",58.731913,5.674808
+189636,"Austre Håbakken 3, Bryne",58.731839,5.675749
+189637,"Lyngholen 14, Bryne",58.734584,5.667915
+189638,"Austre Håbakken 18, Bryne",58.731758,5.675065
+189639,"Vestre Håbakken 24, Bryne",58.73196,5.673818
+189640,"Austre Håbakken 1, Bryne",58.731729,5.676036
+189641,"Lyngholen 10, Bryne",58.734231,5.667793
+189642,"Austre Håbakken 16, Bryne",58.731621,5.675337
+189643,"Lyngholen 12, Bryne",58.734417,5.667893
+189644,"Kvålevegen 14, Bryne",58.731327,5.67056
+189645,"Kvålevegen 16, Bryne",58.7311,5.670824
+189646,"Kvålevegen 13, Bryne",58.731443,5.66946
+189651,"Vestre Håbakken 16, Bryne",58.73297,5.672235
+189653,"Vestre Håbakken 14, Bryne",58.73316,5.672269
+189655,"Vestre Håbakken 20, Bryne",58.732665,5.672921
+189657,"Vestre Håbakken 18, Bryne",58.732818,5.672595
+189659,"Vestre Håbakken 26, Bryne",58.73173,5.673979
+189662,"Vestre Håbakken 22, Bryne",58.732492,5.673197
+189664,"Vestre Håbakken 19, Bryne",58.731316,5.673586
+189666,"Austre Håbakken 12, Bryne",58.731441,5.675994
+189667,"Lyngholen 33, Bryne",58.734581,5.670214
+189668,"Austre Håbakken 14, Bryne",58.731562,5.675672
+189669,"Lyngholen 27, Bryne",58.73452,5.670618
+189670,"Austre Håbakken 6, Bryne",58.731421,5.676981
+189671,"Lyngholen 28, Bryne",58.734692,5.669288
+189672,"Austre Håbakken 8, Bryne",58.731545,5.676537
+189673,"Lyngholen 34, Bryne",58.73465,5.669741
+189674,"Austre Håbakken 2, Bryne",58.731512,5.677716
+189675,"Lyngholen 16, Bryne",58.734756,5.66795
+189676,"Austre Håbakken 4, Bryne",58.731396,5.677398
+189677,"Lyngholen 18, Bryne",58.734745,5.668574
+189679,"Vestre Håbakken 12, Bryne",58.733252,5.67271
+189681,"Vestre Håbakken 10, Bryne",58.73329,5.673121
+189682,"Vestre Håbakken 7, Bryne",58.732611,5.672252
+189683,"Vestre Håbakken 9, Bryne",58.732466,5.672543
+189684,"Vestre Håbakken 3, Bryne",58.7329,5.671602
+189685,"Vestre Håbakken 5, Bryne",58.732738,5.671929
+189686,"Vestre Håbakken 4, Bryne",58.733486,5.672342
+189687,"Vestre Håbakken 2, Bryne",58.733384,5.671902
+189688,"Vestre Håbakken 8, Bryne",58.73357,5.67318
+189689,"Vestre Håbakken 6, Bryne",58.733541,5.672768
+189691,"Vestre Håbakken 15, Bryne",58.731689,5.673412
+189693,"Vestre Håbakken 17, Bryne",58.731512,5.673533
+189695,"Norheimsvegen 25, Bryne",58.732104,5.672456
+189697,"Vestre Håbakken 13, Bryne",58.731866,5.673309
+189699,"Norheimsvegen 21, Bryne",58.732421,5.671838
+189701,"Norheimsvegen 23, Bryne",58.732277,5.672163
+189703,"Vestre Håbakken 11, Bryne",58.732303,5.672835
+189705,"Norheimsvegen 19, Bryne",58.732573,5.671478
+189706,"Lyngholen 31, Bryne",58.734381,5.67013
+189707,"Lyngholen 25, Bryne",58.734329,5.67055
+189708,"Lyngholen 24, Bryne",58.734163,5.66901
+189709,"Lyngholen 30, Bryne",58.734093,5.669431
+189710,"Lyngholen 26, Bryne",58.73451,5.669201
+189711,"Lyngholen 32, Bryne",58.734449,5.669639
+189712,"Lyngholen 9, Bryne",58.733486,5.670613
+189713,"Lyngholen 11, Bryne",58.733395,5.670915
+189714,"Lyngholen 15, Bryne",58.7336,5.671916
+189715,"Vestre Håbakken 1, Bryne",58.733123,5.671512
+189716,"Lyngholen 17, Bryne",58.733738,5.670969
+189717,"Lyngholen 13, Bryne",58.733532,5.671369
+189718,"Lyngholen 21, Bryne",58.733983,5.67003
+189719,"Lyngholen 19, Bryne",58.733843,5.670527
+189720,"Lyngholen 29, Bryne",58.73419,5.670027
+189721,"Lyngholen 23, Bryne",58.734138,5.670447
+189730,"Raunevegen 12B, Bryne",58.731134,5.668297
+189731,"Raunevegen 12C, Bryne",58.731094,5.668508
+189736,"Torkel Lendes veg 15, Bryne",58.729511,5.668781
+189762,"Raunevegen 12A, Bryne",58.731164,5.668087
+189818,"Kvålebakken 9, Bryne",58.730234,5.672756
+189827,"Kvålebakken 2, Bryne",58.730299,5.672145
+189828,"Kvålebakken 1, Bryne",58.729932,5.672906
+189829,"Kvålebakken 6, Bryne",58.730672,5.671988
+189830,"Kvålebakken 4, Bryne",58.730513,5.67209
+189870,"Kvålebakken 3, Bryne",58.729846,5.672489
+189872,"Kvålebakken 7, Bryne",58.730146,5.672505
+189873,"Kvålebakken 5, Bryne",58.729998,5.672329
+189882,"Kvålevegen 15B, Bryne",58.731196,5.669985
+189883,"Kvålevegen 15A, Bryne",58.731318,5.66987
+189885,"Knappholen 19, Bryne",58.728389,5.671653
+189886,"Knappholen 21, Bryne",58.728389,5.671653
+189887,"Knappholen 15, Bryne",58.728389,5.671653
+189888,"Knappholen 17, Bryne",58.728389,5.671653
+189889,"Knappholen 16, Bryne",58.727971,5.669377
+189890,"Knappholen 13, Bryne",58.728389,5.671653
+189891,"Knappholen 20, Bryne",58.728241,5.670077
+189892,"Knappholen 18, Bryne",58.728115,5.669727
+189893,"Steinaldervegen 15, Bryne",58.729087,5.669443
+189894,"Steinaldervegen 17, Bryne",58.728952,5.669076
+189895,"Steinaldervegen 9, Bryne",58.728713,5.66922
+189896,"Steinaldervegen 7, Bryne",58.728572,5.668991
+189897,"Steinaldervegen 13, Bryne",58.728915,5.669736
+189898,"Steinaldervegen 11, Bryne",58.728801,5.669488
+189899,"Steinaldervegen 1, Bryne",58.729142,5.671235
+189900,"Steinaldervegen 5, Bryne",58.728794,5.669921
+189901,"Knappholen 6, Bryne",58.727585,5.670797
+189902,"Knappholen 8, Bryne",58.727438,5.67065
+189903,"Knappholen 2, Bryne",58.727889,5.671407
+189904,"Knappholen 4, Bryne",58.727727,5.671077
+189905,"Kvålsberget 3, Bryne",58.729136,5.672014
+189906,"Kvålsberget 1, Bryne",58.72935,5.671959
+189907,"Kvålsberget 7, Bryne",58.728678,5.672386
+189908,"Kvålsberget 5, Bryne",58.728932,5.672137
+189909,"Knappholen 29, Bryne",58.728024,5.670375
+189910,"Knappholen 24, Bryne",58.728375,5.67041
+189911,"Knappholen 25, Bryne",58.727724,5.670248
+189912,"Knappholen 27, Bryne",58.727889,5.670025
+189913,"Knappholen 14, Bryne",58.727666,5.669752
+189914,"Knappholen 23, Bryne",58.727867,5.67058
+189915,"Knappholen 10, Bryne",58.727233,5.670364
+189916,"Knappholen 12, Bryne",58.727449,5.670049
+189917,"Kvålsberget 35, Bryne",58.729209,5.673113
+189918,"Kvålsberget 33, Bryne",58.729399,5.672818
+189923,"Kvålsberget 37, Bryne",58.729042,5.67325
+189925,"Kvålsberget 11, Bryne",58.728571,5.673105
+189926,"Kvålsberget 9, Bryne",58.728534,5.672711
+189927,"Kvålsberget 8, Bryne",58.728957,5.67274
+189928,"Kvålsberget 10, Bryne",58.728799,5.67291
+189929,"Kvålsberget 4, Bryne",58.729312,5.672568
+189930,"Kvålsberget 6, Bryne",58.729125,5.672655
+189931,"Kvålsberget 31, Bryne",58.729572,5.672906
+189932,"Kvålsberget 2, Bryne",58.72948,5.672482
+189933,"Kvålsberget 16, Bryne",58.729058,5.674234
+189935,"Kvålsberget 18, Bryne",58.729236,5.674148
+189936,"Kvålsberget 19, Bryne",58.729073,5.674785
+189937,"Kvålsberget 17, Bryne",58.72884,5.674497
+189938,"Kvålsberget 23, Bryne",58.729571,5.674544
+189939,"Kvålsberget 21, Bryne",58.729315,5.674762
+189940,"Kvålsberget 25, Bryne",58.729796,5.674308
+189941,"Kvålsberget 13, Bryne",58.728676,5.673683
+189942,"Kvålsberget 12, Bryne",58.728874,5.67337
+189943,"Kvålsberget 14, Bryne",58.728977,5.673861
+189944,"Kvålsberget 15, Bryne",58.728749,5.674073
+189945,"Kvålsberget 22, Bryne",58.729357,5.6736
+189946,"Kvålsberget 24, Bryne",58.729162,5.673723
+189948,"Kvålsberget 20, Bryne",58.72943,5.674025
+189949,"Kvålsberget 27, Bryne",58.729669,5.673864
+189983,"Grønsko 1A, Bryne",58.732216,5.678184
+189984,"Grønsko 1B, Bryne",58.732078,5.678388
+189997,"Steinaldervegen 18, Bryne",58.728773,5.670856
+190000,"Steinaldervegen 14, Bryne",58.728675,5.67052
+190001,"Steinaldervegen 16, Bryne",58.728724,5.670688
+190003,"Steinaldervegen 10, Bryne",58.728579,5.670978
+190005,"Steinaldervegen 12, Bryne",58.728511,5.670778
+190007,"Steinaldervegen 6, Bryne",58.728704,5.671312
+190009,"Steinaldervegen 8, Bryne",58.728646,5.671145
+190010,"Kvåletunet 3, Bryne",58.729997,5.67124
+190011,"Kvåletunet 1, Bryne",58.730274,5.671179
+190013,"Kvåletunet 5, Bryne",58.7299,5.671319
+190014,"Kvålebakken 8, Bryne",58.730873,5.671779
+190017,"Kvålebakken 10, Bryne",58.731143,5.671888
+190018,"Steinaldervegen 34, Bryne",58.72879,5.668037
+190019,"Steinaldervegen 32, Bryne",58.728601,5.668366
+190020,"Steinaldervegen 38, Bryne",58.729275,5.668354
+190021,"Steinaldervegen 36, Bryne",58.729177,5.668052
+190022,"Steinaldervegen 23, Bryne",58.729137,5.66892
+190023,"Steinaldervegen 25, Bryne",58.729271,5.669253
+190024,"Steinaldervegen 19, Bryne",58.728808,5.66871
+190025,"Steinaldervegen 21, Bryne",58.728934,5.668369
+190027,"Steinaldervegen 2, Bryne",58.728896,5.671432
+190029,"Steinaldervegen 4, Bryne",58.728792,5.671563
+190031,"Steinaldervegen 22, Bryne",58.728546,5.670048
+190033,"Steinaldervegen 20, Bryne",58.728595,5.670234
+190034,"Steinaldervegen 26, Bryne",58.728311,5.669327
+190035,"Steinaldervegen 24, Bryne",58.728508,5.66962
+190036,"Steinaldervegen 30, Bryne",58.728411,5.668644
+190037,"Steinaldervegen 28, Bryne",58.728186,5.669011
+190038,"Tytebærholen 12A, Bryne",58.732441,5.669503
+190041,"Tytebærholen 12B, Bryne",58.732224,5.669454
+190048,"Kong Haakons veg 11, Bryne",58.733136,5.66508
+190049,"Kong Haakons veg 13, Bryne",58.733269,5.664653
+190050,"Steinaldervegen 3, Bryne",58.728988,5.670455
+190051,"Kong Haakons veg 9, Bryne",58.733299,5.66548
+190070,"Knappholen 9B, Bryne",58.728349,5.671467
+190071,"Knappholen 11B, Bryne",58.728427,5.671356
+190072,"Knappholen 5B, Bryne",58.728227,5.671634
+190073,"Knappholen 7B, Bryne",58.728305,5.671523
+190075,"Knappholen 1B, Bryne",58.728412,5.671824
+190076,"Knappholen 3B, Bryne",58.728354,5.671674
+190077,"Knappholen 9A, Bryne",58.728349,5.671467
+190078,"Knappholen 11A, Bryne",58.728427,5.671356
+190095,"Knappholen 5A, Bryne",58.728227,5.671634
+190096,"Knappholen 7A, Bryne",58.728305,5.671523
+190097,"Knappholen 1A, Bryne",58.728412,5.671824
+190098,"Knappholen 3A, Bryne",58.728354,5.671674
+190130,"Tangen 1A, Bryne",58.736226,5.673013
+190149,"Tangen 4, Bryne",58.735448,5.67001
+190214,"Kong Haakons veg 7, Bryne",58.73371,5.665371
+190255,"Kvåletunet 2, Bryne",58.730482,5.6709
+190256,"Kvåletunet 4, Bryne",58.730527,5.671224
+190257,"Kvålevegen 31, Bryne",58.729814,5.670791
+190258,"Kvålevegen 29, Bryne",58.729999,5.670635
+190260,"Kvålevegen 33, Bryne",58.729639,5.670981
+190262,"Kvåletunet 14, Bryne",58.729814,5.671811
+190263,"Kvåletunet 16, Bryne",58.729698,5.671494
+190264,"Kvåletunet 10, Bryne",58.730216,5.671721
+190265,"Kvåletunet 12, Bryne",58.730029,5.67179
+190266,"Kvåletunet 6, Bryne",58.730589,5.671564
+190267,"Kvålevegen 25, Bryne",58.730363,5.670445
+190272,"Kvåletunet 8, Bryne",58.730384,5.671635
+190286,"Kvålebakken 16, Bryne",58.730696,5.672574
+190287,"Kvålebakken 18, Bryne",58.730501,5.672679
+190289,"Kvålevegen 27, Bryne",58.730194,5.670513
+190305,"Kvålebakken 12, Bryne",58.731086,5.672363
+190306,"Kvålebakken 14, Bryne",58.730891,5.672468
+190309,"Kong Haakons veg 5, Bryne",58.733891,5.665786
+190332,"Kvålebakken 30, Bryne",58.730745,5.673087
+190334,"Kvålebakken 26, Bryne",58.73063,5.67315
+190335,"Kvålebakken 28, Bryne",58.730701,5.673109
+190336,"Kvålebakken 22, Bryne",58.730586,5.673172
+190337,"Kvålebakken 24, Bryne",58.730666,5.67313
+190338,"Kvålebakken 32, Bryne",58.730622,5.673514
+190339,"Kvålebakken 20, Bryne",58.730541,5.673193
+190345,"Kvålebakken 19A, Bryne",58.730076,5.673272
+190346,"Kvålebakken 19B, Bryne",58.730076,5.673272
+190347,"Kvålebakken 15, Bryne",58.730245,5.673204
+190348,"Kvålebakken 17, Bryne",58.730183,5.673228
+190349,"Kvålebakken 11, Bryne",58.730343,5.67316
+190350,"Kvålebakken 13, Bryne",58.730289,5.673166
+190352,"Kvålebakken 36, Bryne",58.730107,5.673788
+190353,"Kvålebakken 34, Bryne",58.73015,5.674043
+190354,"Kvålebakken 25A, Bryne",58.730382,5.673623
+190355,"Kvålebakken 25B, Bryne",58.730382,5.673623
+190356,"Kvålebakken 23A, Bryne",58.73036,5.67347
+190357,"Kvålebakken 23B, Bryne",58.73036,5.67347
+190358,"Kvålebakken 21A, Bryne",58.730099,5.673443
+190359,"Kvålebakken 21B, Bryne",58.730099,5.673443
+190407,"Kong Haakons veg 19, Bryne",58.732789,5.664872
+190409,"Kong Haakons veg 17, Bryne",58.732832,5.664453
+190411,"Kong Haakons veg 23, Bryne",58.732633,5.665094
+190413,"Kong Haakons veg 21, Bryne",58.732759,5.665116
+190415,"Kong Haakons veg 27, Bryne",58.732278,5.664921
+190416,"Kong Haakons veg 25, Bryne",58.732471,5.665092
+190417,"Kong Haakons veg 31, Bryne",58.732023,5.664789
+190418,"Kong Haakons veg 15, Bryne",58.733439,5.663928
+190462,"Norheimsvegen 18, Bryne",58.734763,5.667535
+190463,"Norheimsvegen 20, Bryne",58.734764,5.667552
+190464,"Norheimsvegen 14, Bryne",58.734789,5.667498
+190465,"Norheimsvegen 16, Bryne",58.734788,5.667463
+190487,"Kvålsberget 29B, Bryne",58.729665,5.673363
+190493,"Lonarmyrvegen 8, Bryne",58.730209,5.678756
+190494,"Lonarmyrvegen 10, Bryne",58.730177,5.678569
+190495,"Lonarmyrvegen 4, Bryne",58.730241,5.678943
+190496,"Lonarmyrvegen 6, Bryne",58.73022,5.678859
+190497,"Lonarmyrvegen 2, Bryne",58.730253,5.679063
+190515,"Lonarmyrvegen 3B, Bryne",58.73061,5.678977
+190516,"Lonarmyrvegen 3A, Bryne",58.73061,5.678977
+190517,"Lonarmyrvegen 5A, Bryne",58.730589,5.678875
+190518,"Lonarmyrvegen 5B, Bryne",58.730589,5.678875
+190519,"Lonarmyrvegen 7A, Bryne",58.730555,5.678585
+190520,"Lonarmyrvegen 7B, Bryne",58.730555,5.678585
+190521,"Lonarmyrvegen 9A, Bryne",58.730534,5.678483
+190522,"Lonarmyrvegen 9B, Bryne",58.730534,5.678483
+190523,"Kvålevegen 6, Bryne",58.732032,5.667226
+190524,"Lonarmyrvegen 16, Bryne",58.730142,5.678278
+190526,"Lonarmyrvegen 12, Bryne",58.730165,5.678449
+190527,"Lonarmyrvegen 14, Bryne",58.730154,5.678364
+190528,"Lonarmyrvegen 11A, Bryne",58.730501,5.678227
+190529,"Lonarmyrvegen 11B, Bryne",58.730501,5.678227
+190530,"Lonarmyrvegen 13B, Bryne",58.73048,5.678108
+190531,"Lonarmyrvegen 13A, Bryne",58.73048,5.678108
+190594,"Kvålsberget 29A, Bryne",58.729559,5.673443
+190699,"Kong Haakons veg 29, Bryne",58.732125,5.664901
+288783,"Lonarmyrvegen 1, Bryne",58.730729,5.67821
+288784,"Lonarmyrvegen 18, Bryne",58.730048,5.677644
+455232,"Rudlå 10, Bryne",58.726178,5.6635
+455233,"Rudlå 12, Bryne",58.726136,5.663171
+455270,"Rudlå 8, Bryne",58.726224,5.663835
+455321,"Rudlå 9, Bryne",58.726259,5.663152
+455323,"Rudlå 2, Bryne",58.726646,5.664459
+455325,"Rudlå 4, Bryne",58.726485,5.664311
+455327,"Rudlå 6, Bryne",58.726344,5.664105
+455328,"Rudlå 1, Bryne",58.72665,5.6642
+455330,"Rudlå 3, Bryne",58.726495,5.664035
+455332,"Rudlå 5, Bryne",58.726366,5.663819
+455334,"Rudlå 7, Bryne",58.726295,5.663427
+489805,"Norheimsvegen 6, Bryne",58.734322,5.666816
+489806,"Norheimsvegen 24, Bryne",58.734443,5.66728
+552537,"Eivindsholen 4, Bryne",58.72788,5.663039
+552813,"Eivindsholen 2, Bryne",58.728138,5.662988
+552816,"Eivindsholen 7, Bryne",58.727582,5.663378
+552818,"Eivindsholen 15, Bryne",58.727367,5.663838
+552838,"Eivindsholen 5, Bryne",58.727593,5.662955
+552840,"Eivindsholen 1, Bryne",58.728094,5.662582
+552842,"Eivindsholen 3, Bryne",58.727878,5.662624
+586893,"Kong Haakons veg 78, Bryne",58.725724,5.664212
+586894,"Kong Haakons veg 80, Bryne",58.725669,5.66399
+586895,"Kong Haakons veg 74, Bryne",58.725863,5.664628
+586896,"Kong Haakons veg 76, Bryne",58.725789,5.664417
+586897,"Kong Haakons veg 70, Bryne",58.726048,5.66499
+586898,"Kong Haakons veg 72, Bryne",58.725949,5.664825
+586899,"Kong Haakons veg 68, Bryne",58.726155,5.665128
+587086,"Kong Haakons veg 69, Bryne",58.727588,5.6649
+587088,"Kong Haakons veg 71, Bryne",58.727494,5.664947
+587089,"Kong Haakons veg 65, Bryne",58.72777,5.664784
+587091,"Kong Haakons veg 67, Bryne",58.727679,5.664847
+587094,"Kong Haakons veg 63, Bryne",58.727858,5.664716
+587096,"Kong Haakons veg 61, Bryne",58.727947,5.664638
+587100,"Kong Haakons veg 73, Bryne",58.72662,5.664951
+587102,"Kong Haakons veg 59, Bryne",58.728033,5.664554
+587181,"Kong Haakons veg 66, Bryne",58.726266,5.66526
+587182,"Kong Haakons veg 75, Bryne",58.726455,5.664824
+587183,"Kong Haakons veg 62, Bryne",58.726509,5.665466
+587185,"Kong Haakons veg 64, Bryne",58.726379,5.665389
+587186,"Kong Haakons veg 85, Bryne",58.725909,5.663723
+587187,"Kong Haakons veg 60, Bryne",58.726639,5.665519
+587188,"Kong Haakons veg 81, Bryne",58.726062,5.664239
+587189,"Kong Haakons veg 83, Bryne",58.725976,5.663976
+587190,"Kong Haakons veg 77, Bryne",58.726308,5.664659
+587191,"Kong Haakons veg 79, Bryne",58.726169,5.664463
+587192,"Kong Haakons veg 46, Bryne",58.72754,5.665706
+587194,"Kong Haakons veg 48, Bryne",58.727558,5.665847
+587195,"Kong Haakons veg 42, Bryne",58.727511,5.665489
+587197,"Kong Haakons veg 44, Bryne",58.727525,5.665598
+587201,"Kong Haakons veg 40, Bryne",58.727497,5.665384
+587206,"Kong Haakons veg 58, Bryne",58.727212,5.665972
+587207,"Kong Haakons veg 54, Bryne",58.727182,5.665693
+587208,"Kong Haakons veg 56, Bryne",58.727193,5.665803
+587209,"Kong Haakons veg 50, Bryne",58.727165,5.665476
+587210,"Kong Haakons veg 52, Bryne",58.727172,5.665586
+587211,"Kong Haakons veg 26, Bryne",58.728207,5.665224
+587214,"Kong Haakons veg 28, Bryne",58.728254,5.665362
+587215,"Kong Haakons veg 22, Bryne",58.728149,5.665025
+587216,"Kong Haakons veg 24, Bryne",58.728179,5.665126
+587217,"Kong Haakons veg 20, Bryne",58.72812,5.664927
+587221,"Kong Haakons veg 38, Bryne",58.727925,5.665659
+587225,"Kong Haakons veg 34, Bryne",58.727863,5.665398
+587228,"Kong Haakons veg 36, Bryne",58.727887,5.665503
+587230,"Kong Haakons veg 30, Bryne",58.727819,5.665196
+587233,"Kong Haakons veg 32, Bryne",58.727842,5.665297
+1538488,"Kong Haakons veg 92, Bryne",58.725548,5.663336
+1538489,"Kong Haakons veg 86, Bryne",58.725433,5.663611
+1538490,"Kong Haakons veg 84, Bryne",58.725395,5.663696
+1538491,"Kong Haakons veg 90, Bryne",58.725511,5.663427
+1538493,"Kong Haakons veg 88, Bryne",58.725471,5.66352
+1660027,"Kong Haakons veg 39, Bryne",58.728115,5.663899
+1660060,"Kong Haakons veg 53, Bryne",58.728202,5.66423
+1660061,"Kong Haakons veg 55, Bryne",58.728214,5.664294
+1660063,"Kong Haakons veg 49, Bryne",58.728192,5.664095
+1660065,"Kong Haakons veg 51, Bryne",58.728205,5.664157
+1660067,"Kong Haakons veg 45, Bryne",58.727898,5.664053
+1660071,"Kong Haakons veg 47, Bryne",58.728196,5.664021
+1660074,"Kong Haakons veg 37, Bryne",58.728186,5.66388
+1660078,"Kong Haakons veg 57, Bryne",58.728211,5.664365
+1660116,"Kong Haakons veg 41, Bryne",58.728093,5.663907
+1660119,"Kong Haakons veg 43, Bryne",58.728022,5.663926
+1720981,"Markavegen 18, Bryne",58.727175,5.668739
+1720983,"Markavegen 8, Bryne",58.72719,5.668004
+1720984,"Markavegen 6, Bryne",58.727134,5.668008
+1720985,"Markavegen 4, Bryne",58.727082,5.66804
+1720986,"Markavegen 2, Bryne",58.727009,5.668007
+1720988,"Markavegen 16, Bryne",58.727124,5.668711
+1720990,"Markavegen 14, Bryne",58.727074,5.668643
+1720992,"Markavegen 12, Bryne",58.726982,5.668624
+1720994,"Markavegen 10, Bryne",58.72725,5.668042
+1720998,"Torvmyrvegen 22, Bryne",58.726932,5.669508
+1720999,"Torvmyrvegen 30, Bryne",58.727188,5.669757
+1721001,"Torvmyrvegen 28, Bryne",58.727133,5.66967
+1721002,"Torvmyrvegen 26, Bryne",58.727076,5.66965
+1721003,"Torvmyrvegen 24, Bryne",58.727012,5.669586
+1721005,"Torvmyrvegen 18, Bryne",58.726526,5.669151
+1721006,"Torvmyrvegen 16, Bryne",58.726447,5.669071
+1721009,"Torvmyrvegen 14, Bryne",58.726368,5.668996
+1721011,"Torvmyrvegen 12, Bryne",58.726285,5.668914
+1721015,"Torvmyrvegen 20, Bryne",58.726606,5.669229
+1721017,"Torvmyrvegen 2, Bryne",58.726096,5.667987
+1721021,"Torvmyrvegen 10, Bryne",58.726207,5.668839
+1721022,"Torvmyrvegen 8, Bryne",58.72604,5.668667
+1721023,"Torvmyrvegen 6, Bryne",58.725961,5.66859
+1721025,"Torvmyrvegen 4, Bryne",58.725882,5.668513
+1721310,"Markavegen 38, Bryne",58.726918,5.668919
+1721312,"Markavegen 28, Bryne",58.727226,5.669098
+1721313,"Markavegen 26, Bryne",58.727279,5.669171
+1721314,"Markavegen 24, Bryne",58.727369,5.669186
+1721315,"Markavegen 22, Bryne",58.727329,5.668829
+1721316,"Markavegen 36, Bryne",58.726989,5.668955
+1721317,"Markavegen 34, Bryne",58.72704,5.668991
+1721318,"Markavegen 32, Bryne",58.727094,5.669056
+1721319,"Markavegen 30, Bryne",58.727175,5.669071
+1721321,"Markavegen 20, Bryne",58.727253,5.668749
+1737704,"Langholvegen 36, Bryne",58.726198,5.666158
+1737705,"Langholvegen 38, Bryne",58.72621,5.666053
+1737706,"Langholvegen 32, Bryne",58.726172,5.666327
+1737707,"Langholvegen 34, Bryne",58.726183,5.666258
+1737708,"Langholvegen 28, Bryne",58.726114,5.666787
+1737710,"Langholvegen 30, Bryne",58.726123,5.666689
+1737711,"Langholvegen 24, Bryne",58.726091,5.666935
+1737712,"Langholvegen 26, Bryne",58.726106,5.666859
+1737739,"Langholvegen 22, Bryne",58.725968,5.665867
+1737808,"Langholvegen 8, Bryne",58.725846,5.66655
+1737809,"Langholvegen 10, Bryne",58.725869,5.666369
+1737810,"Langholvegen 4, Bryne",58.725834,5.66673
+1737811,"Langholvegen 6, Bryne",58.725842,5.66665
+1737812,"Langholvegen 2, Bryne",58.725826,5.666836
+1737819,"Langholvegen 20, Bryne",58.725949,5.66597
+1737820,"Langholvegen 16, Bryne",58.725918,5.666131
+1737821,"Langholvegen 18, Bryne",58.725932,5.666068
+1737822,"Langholvegen 12, Bryne",58.725883,5.666302
+1737824,"Langholvegen 14, Bryne",58.725899,5.666206
+1738117,"Langholvegen 42, Bryne",58.726321,5.666988
+1738119,"Langholvegen 44, Bryne",58.726334,5.666889
+1738121,"Langholvegen 40, Bryne",58.72631,5.66706
+1738124,"Langholvegen 54, Bryne",58.726464,5.666318
+1738125,"Langholvegen 56, Bryne",58.726576,5.667245
+1738126,"Langholvegen 50, Bryne",58.726414,5.666466
+1738127,"Langholvegen 52, Bryne",58.726436,5.666408
+1738128,"Langholvegen 46, Bryne",58.726351,5.666784
+1738129,"Langholvegen 48, Bryne",58.726392,5.666533
+1742300,"Bjørkevegen 4A, Bryne",58.729567,5.668003
+1747990,"Torvmyrvegen 41, Bryne",58.726969,5.670027
+1748110,"Torvmyrvegen 21, Bryne",58.725928,5.669017
+1748111,"Torvmyrvegen 23, Bryne",58.726105,5.669186
+1748112,"Torvmyrvegen 25, Bryne",58.7262,5.66928
+1748113,"Torvmyrvegen 27, Bryne",58.726295,5.669371
+1748114,"Torvmyrvegen 29, Bryne",58.726391,5.669466
+1748115,"Torvmyrvegen 31, Bryne",58.726487,5.669559
+1748116,"Torvmyrvegen 33, Bryne",58.726585,5.669647
+1748117,"Torvmyrvegen 35, Bryne",58.726679,5.669744
+1748118,"Torvmyrvegen 37, Bryne",58.726776,5.669839
+1748120,"Torvmyrvegen 39, Bryne",58.726873,5.669931
+1748314,"Torvmyrvegen 1, Bryne",58.725752,5.668096
+1748315,"Torvmyrvegen 17, Bryne",58.725735,5.668832
+1748316,"Torvmyrvegen 3, Bryne",58.72536,5.667696
+1748317,"Torvmyrvegen 5, Bryne",58.725267,5.667905
+1748318,"Torvmyrvegen 7, Bryne",58.725243,5.668175
+1748319,"Torvmyrvegen 9, Bryne",58.725299,5.668404
+1748320,"Torvmyrvegen 11, Bryne",58.72542,5.668535
+1748321,"Torvmyrvegen 13, Bryne",58.725543,5.668645
+1748322,"Torvmyrvegen 15, Bryne",58.72564,5.668737
+1748323,"Torvmyrvegen 19, Bryne",58.725832,5.668929
+1774006,"Søre Kvålevegen 4, Bryne",58.729374,5.671168
+1783714,"Markavegen 3, Bryne",58.726738,5.668096
+1783715,"Markavegen 1, Bryne",58.726458,5.668079
+1804856,"Poppelvegen 10, Bryne",58.731145,5.665582
+1935685,"Steinaldervegen 1B, Bryne",58.729091,5.670949
+1951091,"Eivindsholvegen 5, Bryne",58.729166,5.664348
+1952621,"Steinaldervegen 27, Bryne",58.729492,5.669654
+1953501,"Soldoggvegen 5, Bryne",58.724042,5.666884
+1953502,"Soldoggvegen 1, Bryne",58.724224,5.666625
+1953504,"Soldoggvegen 3, Bryne",58.72413,5.666759
+1953505,"Kamgrasvegen 13, Bryne",58.7244,5.66779
+1953506,"Kamgrasvegen 11, Bryne",58.724435,5.667703
+1953511,"Soldoggvegen 4, Bryne",58.724335,5.667068
+1953517,"Soldoggvegen 7, Bryne",58.723965,5.66703
+1953518,"Soldoggvegen 9, Bryne",58.723885,5.667234
+1953519,"Soldoggvegen 2, Bryne",58.724388,5.66697
+1953561,"Kamgrasvegen 9, Bryne",58.724475,5.66762
+1953563,"Kamgrasvegen 5, Bryne",58.724549,5.667446
+1953565,"Kamgrasvegen 7, Bryne",58.724512,5.667535
+1953566,"Kamgrasvegen 1, Bryne",58.724621,5.667276
+1953567,"Kamgrasvegen 3, Bryne",58.724585,5.667362
+1953569,"Kamgrasvegen 8, Bryne",58.724715,5.667801
+1953570,"Kamgrasvegen 4, Bryne",58.724822,5.667611
+1953572,"Kamgrasvegen 6, Bryne",58.724772,5.667698
+1953573,"Kamgrasvegen 2, Bryne",58.724876,5.667515
+1953585,"Kamgrasvegen 10, Bryne",58.724664,5.667896
+1953647,"Engrappvegen 12, Bryne",58.723583,5.666103
+1953650,"Engrappvegen 8, Bryne",58.723772,5.666502
+1953651,"Engrappvegen 10, Bryne",58.723668,5.666606
+1953652,"Engrappvegen 4, Bryne",58.723974,5.666287
+1953653,"Engrappvegen 6, Bryne",58.72387,5.666391
+1953656,"Engrappvegen 2, Bryne",58.724078,5.666185
+1953659,"Soldoggvegen 8, Bryne",58.724231,5.667234
+1953662,"Soldoggvegen 6, Bryne",58.724283,5.667146
+1953683,"Soldoggvegen 12, Bryne",58.724124,5.667403
+1953684,"Soldoggvegen 10, Bryne",58.724174,5.66732
+1953788,"Torvstakkvegen 13, Bryne",58.72494,5.664794
+1953789,"Torvstakkvegen 11, Bryne",58.724889,5.664885
+1953790,"Torvstakkvegen 9, Bryne",58.724838,5.664966
+1953831,"Torvstakkvegen 15, Bryne",58.724992,5.664702
+1953841,"Engrappvegen 16, Bryne",58.72386,5.665854
+1953842,"Engrappvegen 14, Bryne",58.723712,5.666014
+1953864,"Torvstakkvegen 2, Bryne",58.724479,5.665011
+1955714,"Gulaksvegen 1, Bryne",58.725263,5.666605
+1955715,"Gulaksvegen 3, Bryne",58.725255,5.666589
+1955716,"Gulaksvegen 5, Bryne",58.72533,5.666509
+1955717,"Gulaksvegen 39, Bryne",58.725268,5.665661
+1955719,"Gulaksvegen 37, Bryne",58.725247,5.66587
+1955720,"Gulaksvegen 35, Bryne",58.725222,5.665942
+1955721,"Gulaksvegen 33, Bryne",58.725205,5.665995
+1955738,"Gulaksvegen 45, Bryne",58.725361,5.66541
+1955740,"Gulaksvegen 43, Bryne",58.725327,5.6655
+1955741,"Gulaksvegen 41, Bryne",58.725294,5.665589
+1955757,"Gulaksvegen 65, Bryne",58.725149,5.665206
+1955760,"Gulaksvegen 63, Bryne",58.725117,5.665297
+1955764,"Gulaksvegen 59, Bryne",58.725032,5.665545
+1955766,"Gulaksvegen 67, Bryne",58.725182,5.665116
+1955768,"Gulaksvegen 55, Bryne",58.724985,5.665668
+1955769,"Gulaksvegen 57, Bryne",58.725009,5.665605
+1955773,"Gulaksvegen 53, Bryne",58.724932,5.6658
+1955780,"Gulaksvegen 61, Bryne",58.725081,5.665385
+1955892,"Gulaksvegen 15, Bryne",58.72543,5.666297
+1955894,"Gulaksvegen 17, Bryne",58.725487,5.666077
+1955895,"Gulaksvegen 19, Bryne",58.725471,5.66607
+1955896,"Gulaksvegen 21, Bryne",58.725497,5.665922
+1955897,"Gulaksvegen 9, Bryne",58.725386,5.666419
+1955899,"Gulaksvegen 11, Bryne",58.725374,5.666401
+1955900,"Gulaksvegen 13, Bryne",58.725442,5.66632
+1955906,"Gulaksvegen 7, Bryne",58.72532,5.666489
+1956000,"Gulaksvegen 27, Bryne",58.72549,5.665783
+1956002,"Gulaksvegen 29, Bryne",58.725514,5.66563
+1956004,"Gulaksvegen 31, Bryne",58.725499,5.665626
+1956009,"Gulaksvegen 25, Bryne",58.725506,5.665789
+1956027,"Gulaksvegen 23, Bryne",58.72548,5.665917
+1956082,"Gulaksvegen 51, Bryne",58.724914,5.66585
+1956083,"Gulaksvegen 47, Bryne",58.724868,5.665976
+1956085,"Gulaksvegen 49, Bryne",58.724889,5.665922
+1959996,"Gulaksvegen 2, Bryne",58.724995,5.666684
+1960432,"Gulaksvegen 4, Bryne",58.724725,5.666266
+1963776,"Steinaldervegen 29, Bryne",58.729209,5.669936
+1980783,"Engrappvegen 1, Bryne",58.725016,5.667272
+1980789,"Engrappvegen 18, Bryne",58.724008,5.665642
+1980825,"Engrappvegen 5, Bryne",58.724346,5.665784
+1980826,"Engrappvegen 3, Bryne",58.724259,5.665913
+1985456,"Langholvegen 58, Bryne",58.726777,5.667362
+1985490,"Dronning Mauds gate 1B, Bryne",58.730858,5.662439
+1993307,"Raunevegen 1A, Bryne",58.730102,5.665996
+2005396,"Norheimsvegen 2B, Bryne",58.73413,5.666479
+2012147,"Søre Kvålevegen 6, Bryne",58.729534,5.67106
+2020062,"Vinkelvegen 29B, Bryne",58.732763,5.66942
+2030106,"Steinaldervegen 40, Bryne",58.729435,5.668995
+2032042,"Kong Haakons veg 33A, Bryne",58.728203,5.663392
+2032045,"Kong Haakons veg 33C, Bryne",58.727944,5.663452
+2032046,"Kong Haakons veg 33B, Bryne",58.728078,5.663422
+2085809,"Kong Haakons veg 18C, Bryne",58.728467,5.663177
+2085811,"Kong Haakons veg 18A, Bryne",58.728528,5.662774
+2085812,"Kong Haakons veg 18B, Bryne",58.728682,5.662811
+2103390,"Kvålevegen 23A, Bryne",58.730726,5.670255
+2103397,"Kvålevegen 23C, Bryne",58.730531,5.67036
+2103398,"Kvålevegen 23B, Bryne",58.73062,5.670317
+2107577,"Vestre Håbakken 28, Bryne",58.731517,5.674085
+2112765,"Grønebakken, Brøytvegen 263, Time",58.724802,5.67089
+2114357,"Vestre Håbakken 30, Bryne",58.731338,5.67412
+2165864,"Eivindsholvegen 9, Bryne",58.728586,5.663287
+2181540,"Dronning Mauds gate 1A, Bryne",58.730787,5.663248
+2184155,"Raunevegen 3A, Bryne",58.729923,5.666304
+2331329,"Torkel Lendes veg 6, Bryne",58.730872,5.667561
+2353310,"Norheimsvegen 2A, Bryne",58.734049,5.666687
+2376972,"Norheimsvegen 8A, Bryne",58.734537,5.666796
+2376991,"Norheimsvegen 8B, Bryne",58.734583,5.666809
+2377001,"Norheimsvegen 8C, Bryne",58.734702,5.666884
+2381114,"Kvålevegen 22, Bryne",58.730878,5.67126
+2381302,"Torvstakkvegen 6, Bryne",58.724694,5.664662
+2383797,"Eivindsholvegen 26, Bryne",58.728665,5.663901
+2384935,"Norheimsvegen 10, Bryne",58.734611,5.666841
+2410436,"Tangen 7, Bryne",58.737297,5.673395
+2410439,"Tangen 6, Bryne",58.73726,5.672672
+2410455,"Tangen 8, Bryne",58.737805,5.6729
+2415498,"Torvstakkvegen 7, Bryne",58.724769,5.665104
+2415499,"Torvstakkvegen 5, Bryne",58.724715,5.665198
+2415500,"Torvstakkvegen 3, Bryne",58.724667,5.665288
+2415501,"Torvstakkvegen 1, Bryne",58.724618,5.665362
+2415502,"Torvstakkvegen 8, Bryne",58.724798,5.664514
+2415504,"Torvstakkvegen 4, Bryne",58.724607,5.664796
+2415815,"Engrappvegen 11, Bryne",58.724137,5.665479
+2415817,"Engrappvegen 9, Bryne",58.724245,5.665361
+2415818,"Engrappvegen 7, Bryne",58.724432,5.665655
+2546503,"Eivindsholen 11, Bryne",58.727296,5.663082

@@ -1,0 +1,982 @@
+,Navn,Long,Lat
+1272245,"Gravbergsvegen 1946, Åsnes Finnskog",60.847279,12.247083
+1272247,"Lindsjøvegen 509, Åsnes Finnskog",60.827513,12.25321
+1272702,"Gravbergsvegen 2697, Åsnes Finnskog",60.838013,12.176843
+1272732,"Gravbergsvegen 2701, Åsnes Finnskog",60.834658,12.234571
+1272932,"Gravbergsvegen 2695, Åsnes Finnskog",60.835624,12.17412
+1789370,"Kaptein Dreyers veg 1144, Åsnes Finnskog",60.677833,12.141646
+1789373,"Kaptein Dreyers veg 1153, Åsnes Finnskog",60.676549,12.142748
+1789376,"Kaptein Dreyers veg 1141, Gjesåsen",60.677125,12.140826
+1789381,"Kaptein Dreyers veg 1142, Åsnes Finnskog",60.67768,12.140899
+1789386,"Kaptein Dreyers veg 1152, Åsnes Finnskog",60.679547,12.146723
+1789388,"Kaptein Dreyers veg 1154, Åsnes Finnskog",60.680157,12.146398
+1792573,"Kaptein Dreyers veg 1190, Åsnes Finnskog",60.676671,12.149043
+1792587,"Kaptein Dreyers veg 1160, Åsnes Finnskog",60.676856,12.14461
+1792588,"Kaptein Dreyers veg 1151, Åsnes Finnskog",60.675082,12.14059
+1792590,"Kaptein Dreyers veg 1181, Åsnes Finnskog",60.675257,12.14689
+1792591,"Kaptein Dreyers veg 1171, Åsnes Finnskog",60.674448,12.144283
+1792592,"Kaptein Dreyers veg 1173, Åsnes Finnskog",60.674478,12.143758
+1792593,"Kaptein Dreyers veg 1168, Åsnes Finnskog",60.677034,12.146203
+1792607,"Kaptein Dreyers veg 1234, Åsnes Finnskog",60.673638,12.15611
+1792610,"Kaptein Dreyers veg 1211, Åsnes Finnskog",60.672475,12.147131
+1792612,"Kaptein Dreyers veg 1218, Åsnes Finnskog",60.674451,12.153662
+1792615,"Kaptein Dreyers veg 1229, Åsnes Finnskog",60.673442,12.154515
+1792616,"Kaptein Dreyers veg 1231, Åsnes Finnskog",60.673167,12.155148
+1792634,"Kaptein Dreyers veg 1201, Åsnes Finnskog",60.67454,12.149761
+1809987,"Kaptein Dreyers veg 1308, Åsnes Finnskog",60.671329,12.169418
+1809988,"Kaptein Dreyers veg 1281, Åsnes Finnskog",60.671556,12.162847
+1809989,"Kaptein Dreyers veg 1287, Åsnes Finnskog",60.671502,12.164783
+1809990,"Kaptein Dreyers veg 1293, Åsnes Finnskog",60.670623,12.165063
+1809991,"Kaptein Dreyers veg 1294, Åsnes Finnskog",60.672326,12.166787
+1809992,"Kaptein Dreyers veg 1257, Åsnes Finnskog",60.672047,12.159965
+1809994,"Kaptein Dreyers veg 1268, Åsnes Finnskog",60.673819,12.161792
+1809996,"Kaptein Dreyers veg 1274, Åsnes Finnskog",60.673339,12.163147
+1809998,"Kaptein Dreyers veg 1246, Åsnes Finnskog",60.673578,12.158284
+1810045,"Kaptein Dreyers veg 1345, Åsnes Finnskog",60.669078,12.173775
+1810047,"Kaptein Dreyers veg 1351, Åsnes Finnskog",60.668656,12.174887
+1810048,"Kaptein Dreyers veg 1325, Åsnes Finnskog",60.669565,12.169153
+1810052,"Kaptein Dreyers veg 1318, Åsnes Finnskog",60.671747,12.169972
+1810140,"Kaptein Dreyers veg 1516, Åsnes Finnskog",60.667511,12.202976
+1810156,"Kaptein Dreyers veg 1524, Åsnes Finnskog",60.667476,12.20442
+1810157,"Kaptein Dreyers veg 1518, Åsnes Finnskog",60.667506,12.20391
+1810158,"Kaptein Dreyers veg 1536, Åsnes Finnskog",60.667181,12.206972
+1810159,"Kaptein Dreyers veg 1535, Åsnes Finnskog",60.666461,12.20593
+1810160,"Kaptein Dreyers veg 1546, Åsnes Finnskog",60.666654,12.208348
+1810161,"Kaptein Dreyers veg 1540, Åsnes Finnskog",60.667005,12.207596
+1810162,"Kaptein Dreyers veg 1558, Åsnes Finnskog",60.666942,12.210959
+1810163,"Kaptein Dreyers veg 1550, Åsnes Finnskog",60.666208,12.210465
+1810164,"Kaptein Dreyers veg 1560, Åsnes Finnskog",60.666928,12.20931
+1810166,"Kaptein Dreyers veg 1490, Åsnes Finnskog",60.669329,12.200593
+1810168,"Kaptein Dreyers veg 1492, Åsnes Finnskog",60.669653,12.200552
+1810170,"Kaptein Dreyers veg 1495, Åsnes Finnskog",60.667452,12.198685
+1810198,"Kaptein Dreyers veg 1511, Åsnes Finnskog",60.666773,12.202995
+1810199,"Kaptein Dreyers veg 1509, Åsnes Finnskog",60.667231,12.202289
+1810202,"Kaptein Dreyers veg 1507, Åsnes Finnskog",60.667316,12.20173
+1810204,"Kaptein Dreyers veg 1505, Åsnes Finnskog",60.667367,12.201112
+1810207,"Kaptein Dreyers veg 1502, Åsnes Finnskog",60.668564,12.201763
+1810348,"Kaptein Dreyers veg 1567, Åsnes Finnskog",60.665402,12.210732
+1810354,"Kaptein Dreyers veg 1592, Åsnes Finnskog",60.664447,12.21494
+1810356,"Kaptein Dreyers veg 1566, Åsnes Finnskog",60.666146,12.211942
+1810357,"Kaptein Dreyers veg 1603, Åsnes Finnskog",60.663187,12.21628
+1810358,"Kaptein Dreyers veg 1594, Åsnes Finnskog",60.664323,12.216356
+1810359,"Kaptein Dreyers veg 1605, Åsnes Finnskog",60.663073,12.216781
+1810361,"Kaptein Dreyers veg 1604, Åsnes Finnskog",60.66379,12.217603
+1810403,"Kaptein Dreyers veg 1354, Åsnes Finnskog",60.669793,12.176611
+1810404,"Kaptein Dreyers veg 1362, Åsnes Finnskog",60.669273,12.177311
+1810406,"Kaptein Dreyers veg 1352, Åsnes Finnskog",60.669348,12.17567
+1810412,"Kaptein Dreyers veg 1496, Åsnes Finnskog",60.670024,12.198208
+1810414,"Kaptein Dreyers veg 1471, Åsnes Finnskog",60.66838,12.194419
+1810415,"Kaptein Dreyers veg 1481, Åsnes Finnskog",60.668122,12.196591
+1810416,"Kaptein Dreyers veg 1386, Åsnes Finnskog",60.66882,12.181898
+1810417,"Kaptein Dreyers veg 1387, Åsnes Finnskog",60.668171,12.181341
+1810421,"Kaptein Dreyers veg 1383, Åsnes Finnskog",60.666966,12.179079
+1810422,"Kaptein Dreyers veg 1385, Åsnes Finnskog",60.665964,12.178769
+1810713,"Kaptein Dreyers veg 1628, Åsnes Finnskog",60.662465,12.220767
+1810714,"Kaptein Dreyers veg 1620, Åsnes Finnskog",60.662843,12.219266
+1810715,"Kaptein Dreyers veg 1607, Åsnes Finnskog",60.661884,12.213934
+1810716,"Kaptein Dreyers veg 1651, Åsnes Finnskog",60.661479,12.224403
+1810718,"Kaptein Dreyers veg 1642, Åsnes Finnskog",60.662167,12.222678
+1810720,"Kaptein Dreyers veg 1641, Åsnes Finnskog",60.661601,12.221926
+1810723,"Kaptein Dreyers veg 1632, Åsnes Finnskog",60.663222,12.221428
+1810731,"Kaptein Dreyers veg 1660, Åsnes Finnskog",60.661878,12.225725
+1810907,"Kaptein Dreyers veg 1665, Åsnes Finnskog",60.660892,12.226762
+1810924,"Kaptein Dreyers veg 1701, Åsnes Finnskog",60.659973,12.233169
+1810926,"Kaptein Dreyers veg 1666, Åsnes Finnskog",60.661577,12.227416
+1810927,"Kaptein Dreyers veg 1685, Åsnes Finnskog",60.660822,12.228549
+1810928,"Kaptein Dreyers veg 1687, Åsnes Finnskog",60.660054,12.228343
+1810929,"Kaptein Dreyers veg 1682, Åsnes Finnskog",60.661241,12.230147
+1813322,"Haukåsen 35, Åsnes Finnskog",60.677076,12.155897
+1813323,"Haukåsen 33, Åsnes Finnskog",60.677671,12.15504
+1813325,"Haukåsen 31, Åsnes Finnskog",60.677483,12.153805
+1817267,"Rønnesætervegen 2, Åsnes Finnskog",60.660421,12.235832
+1817268,"Rønnesætervegen 291, Åsnes Finnskog",60.670954,12.273467
+1817476,"Rønnesætervegen 300, Åsnes Finnskog",60.672107,12.272979
+1817481,"Rønnesætervegen 312, Åsnes Finnskog",60.673597,12.271556
+1817482,"Rønnesætervegen 313, Åsnes Finnskog",60.67301,12.276093
+1818525,"Trangenvegen 1206, Åsnes",60.658104,12.220532
+1818526,"Trangenvegen 1208, Åsnes",60.657022,12.224397
+1818527,"Trangenvegen 1356, Arneberg",60.644266,12.229453
+1818529,"Trangenvegen 1389, Arneberg",60.641654,12.231186
+1818531,"Trangenvegen 1394, Åsnes Finnskog",60.642126,12.233594
+1818532,"Trangenvegen 1396, Åsnes Finnskog",60.642262,12.233187
+1818927,"Trangenvegen 1507, Åsnes Finnskog",60.638183,12.252357
+1818928,"Trangenvegen 1531, Åsnes Finnskog",60.637916,12.257104
+1818930,"Trangenvegen 1581, Åsnes Finnskog",60.638141,12.26633
+1818931,"Trangenvegen 1585, Hof finnskog",60.636077,12.265078
+1818932,"Gravbergsvegen 191, Åsnes Finnskog",60.705061,12.307997
+1818934,"Gravbergsvegen 193, Åsnes Finnskog",60.705415,12.308217
+1818935,"Gravbergsvegen 241, Åsnes Finnskog",60.709889,12.307522
+1818936,"Gravbergsvegen 282, Åsnes Finnskog",60.713741,12.305828
+1818937,"Gravbergsvegen 284, Åsnes Finnskog",60.714175,12.305359
+1818947,"Gravbergsvegen 331, Åsnes Finnskog",60.716843,12.313025
+1818949,"Gravbergsvegen 351, Åsnes Finnskog",60.718612,12.315262
+1818951,"Gravbergsvegen 361, Åsnes Finnskog",60.719453,12.316467
+1818952,"Gravbergsvegen 371, Åsnes Finnskog",60.720179,12.317661
+1818953,"Gravbergsvegen 333, Åsnes Finnskog",60.716879,12.313745
+1818954,"Gravbergsvegen 415, Åsnes Finnskog",60.725017,12.312785
+1818955,"Gravbergsvegen 442, Åsnes Finnskog",60.726868,12.310627
+1818956,"Gravbergsvegen 475, Åsnes Finnskog",60.730367,12.318475
+1818963,"Trangenvegen 1172, Åsnes",60.657528,12.209569
+1818964,"Trangenvegen 1461, Åsnes Finnskog",60.639781,12.244722
+1818965,"Trangenvegen 1463, Åsnes Finnskog",60.639281,12.24458
+1818966,"Trangenvegen 1472, Åsnes Finnskog",60.64066,12.247006
+1818967,"Trangenvegen 1519, Åsnes Finnskog",60.637675,12.254115
+1819005,"Trangenvegen 1398, Åsnes Finnskog",60.642636,12.232968
+1819006,"Trangenvegen 1402, Åsnes Finnskog",60.641982,12.234366
+1819007,"Trangenvegen 1406, Åsnes Finnskog",60.641836,12.235559
+1819010,"Trangenvegen 1415, Åsnes Finnskog",60.641223,12.236742
+1819011,"Trangenvegen 1431, Åsnes Finnskog",60.640488,12.239651
+1819135,"Gravbergsvegen 1280, Åsnes Finnskog",60.799787,12.302345
+1819145,"Gravbergsvegen 572, Åsnes Finnskog",60.73336,12.312636
+1819148,"Gravbergsvegen 560, Åsnes Finnskog",60.737614,12.31212
+1819149,"Gravbergsvegen 550, Åsnes Finnskog",60.735936,12.306955
+1819150,"Gravbergsvegen 618, Åsnes Finnskog",60.738455,12.311895
+1819151,"Gravbergsvegen 569, Åsnes Finnskog",60.738542,12.313134
+1819152,"Gravbergsvegen 614, Åsnes Finnskog",60.739126,12.310955
+1819154,"Gravbergsvegen 616, Åsnes Finnskog",60.739013,12.311494
+1819157,"Gravbergsvegen 610, Åsnes Finnskog",60.739603,12.310178
+1819160,"Gravbergsvegen 612, Åsnes Finnskog",60.739422,12.310618
+1819168,"Gravbergsvegen 606, Åsnes Finnskog",60.740231,12.306957
+1819265,"Gravbergsvegen 816, Åsnes Finnskog",60.759996,12.3024
+1819266,"Gravbergsvegen 881, Åsnes Finnskog",60.765216,12.306428
+1819267,"Gravbergsvegen 635, Åsnes Finnskog",60.743558,12.307244
+1819268,"Gravbergsvegen 628, Åsnes Finnskog",60.741666,12.306334
+1819269,"Gravbergsvegen 1071, Åsnes Finnskog",60.781723,12.312283
+1819270,"Gravbergsvegen 1073, Åsnes Finnskog",60.781914,12.312175
+1819271,"Gravbergsvegen 890, Åsnes Finnskog",60.765966,12.305912
+1819272,"Gravbergsvegen 953, Åsnes Finnskog",60.771587,12.308977
+1819273,"Gravbergsvegen 1201, Åsnes Finnskog",60.793037,12.305402
+1819300,"Gravbergsvegen 621, Åsnes Finnskog",60.742302,12.308602
+1826546,"Trangenvegen 1174, Åsnes",60.65746,12.209941
+1834243,"Finnskogvegen 964, Åsnes Finnskog",60.605953,12.42949
+1834245,"Finnskogvegen 976, Åsnes Finnskog",60.608864,12.430586
+1834247,"Finnskogvegen 853, Hof finnskog",60.603113,12.411623
+1834252,"Finnskogvegen 1470, Hof finnskog",60.578866,12.485083
+1834253,"Finnskogvegen 995, Hof finnskog",60.603763,12.431488
+1834254,"Finnskogvegen 993, Hof finnskog",60.604055,12.43097
+1834393,"Finnskogvegen 185, Åsnes Finnskog",60.634736,12.306509
+1834394,"Finnskogvegen 396, Åsnes Finnskog",60.627386,12.341881
+1834395,"Finnskogvegen 100, Åsnes Finnskog",60.639679,12.294445
+1834397,"Finnskogvegen 116, Åsnes Finnskog",60.640875,12.299526
+1834398,"Finnskogvegen 98, Åsnes Finnskog",60.639808,12.293598
+1834400,"Finnskogvegen 801, Hof finnskog",60.611253,12.401111
+1834401,"Finnskogvegen 565, Åsnes Finnskog",60.617511,12.360132
+1834402,"Finnskogvegen 570, Åsnes Finnskog",60.617872,12.362931
+1834403,"Finnskogvegen 406, Åsnes Finnskog",60.626964,12.342935
+1834407,"Finnskogvegen 554, Åsnes Finnskog",60.619444,12.363314
+1834497,"Finnskogvegen 15, Åsnes Finnskog",60.640465,12.278587
+1834498,"Finnskogvegen 31, Åsnes Finnskog",60.640405,12.281747
+1834499,"Finnskogvegen 22, Åsnes Finnskog",60.6415,12.279955
+1834500,"Finnskogvegen 76, Åsnes Finnskog",60.640267,12.28993
+1834501,"Finnskogvegen 33, Åsnes Finnskog",60.640454,12.282319
+1834502,"Finnskogvegen 85, Åsnes Finnskog",60.639542,12.290533
+1834746,"Finnskogvegen 2130, Hof finnskog",60.535825,12.55462
+1834748,"Finnskogvegen 2050, Hof finnskog",60.541686,12.556942
+1834749,"Finnskogvegen 1836, Hof finnskog",60.559793,12.535073
+1834753,"Finnskogvegen 1834, Hof finnskog",60.560019,12.534003
+1834754,"Finnskogvegen 1783, Hof finnskog",60.561609,12.517691
+1834756,"Finnskogvegen 2140, Hof finnskog",60.537134,12.572915
+1834757,"Finnskogvegen 2138, Hof finnskog",60.534402,12.568546
+1834758,"Finnskogvegen 2134, Hof finnskog",60.534528,12.565496
+1834909,"Finnskogvegen 1714, Hof finnskog",60.567669,12.522696
+1834911,"Finnskogvegen 1710, Hof finnskog",60.567104,12.518216
+1834912,"Finnskogvegen 1682, Hof finnskog",60.573226,12.515563
+1834913,"Finnskogvegen 1779, Hof finnskog",60.560466,12.520816
+1834914,"Finnskogvegen 1777, Hof finnskog",60.560808,12.521821
+1834916,"Finnskogvegen 1773, Hof finnskog",60.560889,12.524203
+1834917,"Finnskogvegen 1771, Hof finnskog",60.560931,12.524664
+1834918,"Finnskogvegen 1762, Hof finnskog",60.564848,12.524361
+1834920,"Finnskogvegen 1740, Hof finnskog",60.565399,12.521865
+1834921,"Finnskogvegen 1718, Hof finnskog",60.566429,12.524405
+1835026,"Raukmoen 112, Åsnes Finnskog",60.630971,12.274214
+1835028,"Raukmoen 110, Åsnes Finnskog",60.630808,12.273691
+1835030,"Raukmoen 97, Åsnes Finnskog",60.631882,12.27213
+1835034,"Raukmoen 485, Hof finnskog",60.602837,12.308313
+1835036,"Raukmoen 228, Åsnes Finnskog",60.620542,12.278959
+1835038,"Raukmoen 120, Åsnes Finnskog",60.629776,12.273989
+1835177,"Raukmoen 94, Åsnes Finnskog",60.632109,12.273384
+1835202,"Raukmoen 40, Åsnes Finnskog",60.637505,12.274334
+1835212,"Raukmoen 52, Åsnes Finnskog",60.634815,12.275543
+1835216,"Raukmoen 56, Åsnes Finnskog",60.635865,12.275613
+1835218,"Raukmoen 58, Åsnes Finnskog",60.635584,12.275347
+1835221,"Raukmoen 50, Åsnes Finnskog",60.635594,12.273463
+1835222,"Raukmoen 92, Åsnes Finnskog",60.632382,12.273247
+1835223,"Raukmoen 71, Åsnes Finnskog",60.634364,12.2701
+1835224,"Raukmoen 59, Åsnes Finnskog",60.635012,12.270056
+1835226,"Raukmoen 57, Åsnes Finnskog",60.635537,12.268079
+1835322,"Raukmoen 38, Åsnes Finnskog",60.637922,12.274626
+1836353,"Finnskogvegen 468, Åsnes Finnskog",60.622173,12.348593
+1836738,"Veltavegen 178, Åsnes Finnskog",60.648595,12.256609
+1836739,"Veltavegen 196, Åsnes Finnskog",60.647744,12.260273
+1836740,"Veltavegen 200, Åsnes Finnskog",60.648338,12.260297
+1836741,"Veltavegen 202, Åsnes Finnskog",60.650828,12.260111
+1836742,"Veltavegen 174, Åsnes Finnskog",60.648851,12.256067
+1836743,"Veltavegen 311, Åsnes Finnskog",60.640175,12.273544
+1836744,"Veltavegen 240, Åsnes Finnskog",60.644419,12.264971
+1836745,"Veltavegen 287, Åsnes Finnskog",60.641777,12.26512
+1836746,"Veltavegen 285, Åsnes Finnskog",60.64117,12.265173
+1836747,"Veltavegen 284, Åsnes Finnskog",60.642158,12.269976
+1836925,"Veltavegen 315, Åsnes Finnskog",60.640278,12.274451
+1836926,"Veltavegen 321, Åsnes Finnskog",60.640323,12.275188
+1836927,"Trangenvegen 1610, Åsnes Finnskog",60.640609,12.270477
+1836929,"Veltavegen 314, Åsnes Finnskog",60.640748,12.274334
+1837049,"Veltavegen 34, Åsnes Finnskog",60.657232,12.239869
+1837050,"Veltavegen 53, Åsnes Finnskog",60.655684,12.238872
+1837051,"Veltavegen 78, Åsnes Finnskog",60.654922,12.242859
+1837053,"Veltavegen 135, Åsnes Finnskog",60.649682,12.249703
+1837054,"Veltavegen 137, Åsnes Finnskog",60.649498,12.250129
+1837055,"Veltavegen 160, Åsnes Finnskog",60.649458,12.253987
+1837057,"Veltavegen 84, Åsnes Finnskog",60.654046,12.244547
+1837058,"Veltavegen 77, Åsnes Finnskog",60.651821,12.236214
+1837059,"Veltavegen 75, Åsnes Finnskog",60.652646,12.242996
+1837060,"Veltavegen 79, Åsnes Finnskog",60.65101,12.238567
+1855753,"Veltavegen 166, Åsnes Finnskog",60.649266,12.254864
+1855764,"Veltavegen 313, Åsnes Finnskog",60.640187,12.273841
+1858486,"Linnavegen 121, Åsnes Finnskog",60.694537,12.31784
+1858488,"Linnavegen 125, Åsnes Finnskog",60.694191,12.316924
+1858490,"Vålbekkvegen 41, Åsnes Finnskog",60.696385,12.338909
+1858492,"Vålbekkvegen 85, Åsnes Finnskog",60.694021,12.343613
+1858494,"Vålbekkvegen 64, Åsnes Finnskog",60.693861,12.350763
+1858506,"Linnavegen 82, Åsnes Finnskog",60.696763,12.308209
+1858628,"Linnavegen 356, Åsnes Finnskog",60.705126,12.351625
+1858629,"Linnavegen 354, Åsnes Finnskog",60.704873,12.35169
+1858630,"Linnavegen 360, Åsnes Finnskog",60.704694,12.352735
+1858631,"Linnavegen 358, Åsnes Finnskog",60.704995,12.352528
+1858632,"Linnavegen 380, Åsnes Finnskog",60.705382,12.357171
+1858633,"Linnavegen 364, Åsnes Finnskog",60.705044,12.353816
+1858634,"Linnavegen 434, Åsnes Finnskog",60.706733,12.367434
+1858635,"Linnavegen 574, Åsnes Finnskog",60.701306,12.391965
+1858636,"Linnavegen 576, Åsnes Finnskog",60.701668,12.392223
+1858637,"Linnavegen 598, Åsnes Finnskog",60.700469,12.39558
+1858638,"Linnavegen 591, Åsnes Finnskog",60.699654,12.393312
+1858640,"Linnavegen 355, Åsnes Finnskog",60.70423,12.352961
+1858641,"Linnavegen 352, Åsnes Finnskog",60.704561,12.351914
+1858643,"Linnavegen 359, Åsnes Finnskog",60.70442,12.353623
+1858644,"Linnavegen 608, Åsnes Finnskog",60.696029,12.396284
+1858645,"Linnavegen 562, Åsnes Finnskog",60.702761,12.392723
+1858646,"Linnavegen 585, Åsnes Finnskog",60.699487,12.390023
+1858647,"Linnavegen 589, Åsnes Finnskog",60.69962,12.388544
+1858723,"Linnavegen 345, Åsnes Finnskog",60.703931,12.351262
+1858724,"Linnavegen 341, Åsnes Finnskog",60.703748,12.350674
+1858725,"Linnavegen 351, Åsnes Finnskog",60.704086,12.352231
+1858727,"Vålbekkvegen 62, Åsnes Finnskog",60.694747,12.35124
+1858728,"Linnavegen 323, Åsnes Finnskog",60.703446,12.347269
+1858729,"Linnavegen 321, Åsnes Finnskog",60.703369,12.346785
+1858730,"Linnavegen 331, Åsnes Finnskog",60.703706,12.348763
+1858731,"Linnavegen 325, Åsnes Finnskog",60.703586,12.347815
+1858732,"Linnavegen 339, Åsnes Finnskog",60.703774,12.349999
+1858733,"Linnavegen 333, Åsnes Finnskog",60.703461,12.349176
+1858774,"Linnavegen 475, Åsnes Finnskog",60.705293,12.375369
+1858775,"Linnavegen 476, Åsnes Finnskog",60.705687,12.377207
+1858778,"Linnavegen 443, Åsnes Finnskog",60.706138,12.369938
+1858781,"Linnavegen 461, Åsnes Finnskog",60.705615,12.371864
+1858783,"Linnavegen 459, Åsnes Finnskog",60.705938,12.372228
+1858785,"Linnavegen 465, Åsnes Finnskog",60.705358,12.37279
+1858787,"Linnavegen 463, Åsnes Finnskog",60.705979,12.373461
+1858790,"Linnavegen 471, Åsnes Finnskog",60.705536,12.374364
+1858814,"Linnavegen 534, Åsnes Finnskog",60.703286,12.385463
+1858815,"Linnavegen 498, Åsnes Finnskog",60.704997,12.379977
+1858816,"Linnavegen 505, Åsnes Finnskog",60.703778,12.380197
+1858817,"Linnavegen 500, Åsnes Finnskog",60.704901,12.38059
+1858818,"Linnavegen 502, Åsnes Finnskog",60.705088,12.380317
+1858819,"Linnavegen 508, Åsnes Finnskog",60.704501,12.382601
+1858820,"Linnavegen 506, Åsnes Finnskog",60.705147,12.381166
+1858897,"Linnavegen 1008, Åsnes Finnskog",60.689097,12.453688
+1858898,"Linnavegen 1004, Åsnes Finnskog",60.688801,12.453308
+1858899,"Linnavegen 1020, Åsnes Finnskog",60.689728,12.454905
+1858900,"Linnavegen 998, Åsnes Finnskog",60.688465,12.45241
+1858901,"Linnavegen 1001, Åsnes Finnskog",60.688367,12.453059
+1859001,"Linnavegen 914, Åsnes Finnskog",60.686485,12.438526
+1859002,"Linnavegen 819, Åsnes Finnskog",60.684431,12.423299
+1859003,"Linnavegen 937, Åsnes Finnskog",60.686029,12.4402
+1859004,"Linnavegen 916, Åsnes Finnskog",60.686684,12.439556
+1859005,"Linnavegen 980, Åsnes Finnskog",60.687678,12.449448
+1859009,"Linnavegen 671, Åsnes Finnskog",60.693986,12.398091
+1859012,"Linnavegen 757, Åsnes Finnskog",60.689575,12.415085
+1859014,"Linnavegen 747, Åsnes Finnskog",60.691233,12.41528
+1859016,"Linnavegen 811, Åsnes Finnskog",60.684862,12.416308
+1859018,"Linnavegen 813, Åsnes Finnskog",60.684457,12.414715
+1861110,"Linnavegen 681, Åsnes Finnskog",60.69272,12.399216
+1861113,"Linnavegen 131, Åsnes Finnskog",60.694314,12.314151
+1861120,"Linnavegen 473, Åsnes Finnskog",60.705223,12.374958
+1862231,"Peistorpvegen 789, Åsnes Finnskog",60.622612,12.449148
+1862232,"Peistorpvegen 811, Åsnes Finnskog",60.620938,12.452023
+1862233,"Peistorpvegen 1000, Hof finnskog",60.607263,12.444254
+1862234,"Peistorpvegen 976, Åsnes Finnskog",60.609121,12.449224
+1862243,"Peistorpvegen 44, Åsnes Finnskog",60.68292,12.457641
+1862251,"Peistorpvegen 3, Åsnes Finnskog",60.687378,12.450731
+1862252,"Peistorpvegen 20, Åsnes Finnskog",60.686176,12.452311
+1862253,"Peistorpvegen 21, Åsnes Finnskog",60.68589,12.451525
+1862256,"Peistorpvegen 795, Åsnes Finnskog",60.621911,12.450918
+1862257,"Peistorpvegen 42, Åsnes Finnskog",60.684213,12.453475
+1862280,"Peistorpvegen 623, Åsnes Finnskog",60.636417,12.442848
+1862281,"Peistorpvegen 608, Åsnes Finnskog",60.638524,12.454528
+1862282,"Peistorpvegen 696, Åsnes Finnskog",60.634165,12.461124
+1862283,"Peistorpvegen 698, Åsnes Finnskog",60.634831,12.460738
+1862284,"Peistorpvegen 690, Åsnes Finnskog",60.631305,12.454073
+1862285,"Peistorpvegen 694, Åsnes Finnskog",60.632208,12.456914
+1862286,"Peistorpvegen 710, Åsnes Finnskog",60.629513,12.447782
+1862315,"Peistorpvegen 752, Åsnes Finnskog",60.625536,12.448674
+1862316,"Peistorpvegen 750, Åsnes Finnskog",60.625513,12.447849
+1862317,"Peistorpvegen 766, Åsnes Finnskog",60.6245,12.449478
+1862318,"Peistorpvegen 751, Åsnes Finnskog",60.624828,12.445123
+1862320,"Peistorpvegen 768, Åsnes Finnskog",60.624018,12.449353
+1862321,"Peistorpvegen 714, Åsnes Finnskog",60.628571,12.447736
+1862322,"Peistorpvegen 715, Åsnes Finnskog",60.627287,12.442459
+1862323,"Peistorpvegen 711, Åsnes Finnskog",60.627547,12.440731
+1862326,"Peistorpvegen 717, Åsnes Finnskog",60.626249,12.44158
+1862327,"Peistorpvegen 713, Åsnes Finnskog",60.626469,12.440725
+1862366,"Peistorpvegen 550, Åsnes Finnskog",60.642533,12.437221
+1862367,"Peistorpvegen 542, Åsnes Finnskog",60.643005,12.43689
+1862368,"Peistorpvegen 560, Åsnes Finnskog",60.642251,12.437541
+1862369,"Peistorpvegen 495, Åsnes Finnskog",60.6468,12.428605
+1862370,"Peistorpvegen 468, Åsnes Finnskog",60.648701,12.430303
+1862371,"Peistorpvegen 465, Åsnes Finnskog",60.649099,12.429138
+1862372,"Peistorpvegen 510, Åsnes Finnskog",60.645278,12.434094
+1862373,"Peistorpvegen 503, Åsnes Finnskog",60.645447,12.43208
+1862374,"Peistorpvegen 532, Åsnes Finnskog",60.643539,12.436013
+1862376,"Peistorpvegen 521, Åsnes Finnskog",60.644223,12.434238
+1862377,"Peistorpvegen 604, Åsnes Finnskog",60.639736,12.446569
+1862378,"Peistorpvegen 600, Åsnes Finnskog",60.638914,12.445347
+1862379,"Peistorpvegen 606, Åsnes Finnskog",60.6397,12.446932
+1862394,"Peistorpvegen 454, Åsnes Finnskog",60.649764,12.43124
+1862395,"Peistorpvegen 455, Åsnes Finnskog",60.649792,12.430145
+1862396,"Peistorpvegen 476, Åsnes Finnskog",60.648013,12.430816
+1862397,"Peistorpvegen 463, Åsnes Finnskog",60.649332,12.429876
+1862398,"Peistorpvegen 490, Åsnes Finnskog",60.647084,12.430955
+1862399,"Peistorpvegen 431, Åsnes Finnskog",60.652414,12.429875
+1862400,"Peistorpvegen 445, Åsnes Finnskog",60.651574,12.430389
+1862401,"Peistorpvegen 447, Åsnes Finnskog",60.651758,12.428835
+1862476,"Peistorpvegen 402, Åsnes Finnskog",60.654507,12.435368
+1862477,"Peistorpvegen 404, Åsnes Finnskog",60.654071,12.435708
+1862478,"Peistorpvegen 409, Åsnes Finnskog",60.653653,12.432386
+1862479,"Peistorpvegen 297, Åsnes Finnskog",60.664318,12.437002
+1862480,"Peistorpvegen 305, Åsnes Finnskog",60.659847,12.420531
+1862481,"Peistorpvegen 341, Åsnes Finnskog",60.659498,12.433284
+1862483,"Peistorpvegen 400, Åsnes Finnskog",60.655621,12.436221
+1862484,"Peistorpvegen 406, Åsnes Finnskog",60.654086,12.436881
+1862486,"Peistorpvegen 307, Åsnes Finnskog",60.660037,12.417989
+1862487,"Peistorpvegen 398, Åsnes Finnskog",60.654507,12.433384
+1862515,"Peistorpvegen 46, Åsnes Finnskog",60.682559,12.458392
+1862516,"Peistorpvegen 101, Åsnes Finnskog",60.679602,12.448986
+1862517,"Peistorpvegen 99, Åsnes Finnskog",60.679559,12.449521
+1862518,"Peistorpvegen 230, Åsnes Finnskog",60.670397,12.44071
+1862520,"Peistorpvegen 125, Åsnes Finnskog",60.678126,12.446629
+1862547,"Peistorpvegen 235, Åsnes Finnskog",60.669125,12.432863
+1862548,"Peistorpvegen 231, Åsnes Finnskog",60.669052,12.435713
+1862550,"Peistorpvegen 265, Åsnes Finnskog",60.666172,12.437255
+1862552,"Peistorpvegen 261, Åsnes Finnskog",60.666923,12.437079
+1862555,"Peistorpvegen 285, Åsnes Finnskog",60.665117,12.437033
+1864107,"Posåsvegen 315, Åsnes Finnskog",60.731916,12.384772
+1864109,"Posåsvegen 113, Åsnes Finnskog",60.715021,12.376231
+1864110,"Posåsvegen 111, Åsnes Finnskog",60.714866,12.375989
+1864111,"Posåsvegen 110, Åsnes Finnskog",60.716266,12.366881
+1864112,"Posåsvegen 77, Åsnes Finnskog",60.712607,12.374358
+1864113,"Posåsvegen 73, Åsnes Finnskog",60.711912,12.374468
+1864114,"Posåsvegen 32, Åsnes Finnskog",60.708407,12.373404
+1864115,"Posåsvegen 37, Åsnes Finnskog",60.708484,12.375337
+1864116,"Posåsvegen 316, Åsnes Finnskog",60.732046,12.383905
+1864118,"Posåsvegen 35, Åsnes Finnskog",60.708013,12.376186
+1864237,"Posåsvegen 22, Åsnes Finnskog",60.70835,12.371766
+1864238,"Posåsvegen 21, Åsnes Finnskog",60.707687,12.373805
+1864242,"Posåsvegen 33, Åsnes Finnskog",60.708129,12.374823
+1864270,"Posåsvegen 514, Åsnes Finnskog",60.749625,12.383132
+1864272,"Posåsvegen 506, Åsnes Finnskog",60.748794,12.384184
+1864273,"Posåsvegen 501, Åsnes Finnskog",60.748314,12.386299
+1864274,"Posåsvegen 486, Åsnes Finnskog",60.74717,12.384618
+1864275,"Posåsvegen 345, Åsnes Finnskog",60.733877,12.390044
+1864276,"Posåsvegen 537, Åsnes Finnskog",60.751611,12.385288
+1864277,"Posåsvegen 535, Åsnes Finnskog",60.751197,12.384583
+1864278,"Posåsvegen 539, Åsnes Finnskog",60.750571,12.385197
+1864279,"Posåsvegen 524, Åsnes Finnskog",60.750777,12.383052
+1864280,"Posåsvegen 515, Åsnes Finnskog",60.749594,12.384029
+1868059,"Strandgata 639, Åsnes Finnskog",60.689295,12.303408
+1868060,"Strandgata 469, Åsnes Finnskog",60.676051,12.302617
+1868061,"Strandgata 436, Åsnes Finnskog",60.674164,12.29898
+1868067,"Strandgata 228, Åsnes Finnskog",60.655737,12.299199
+1868068,"Strandgata 200, Åsnes Finnskog",60.653245,12.297497
+1868069,"Strandgata 181, Åsnes Finnskog",60.651714,12.300544
+1868070,"Strandgata 434, Åsnes Finnskog",60.673921,12.299953
+1868071,"Strandgata 366, Åsnes Finnskog",60.668287,12.293524
+1868072,"Strandgata 266, Åsnes Finnskog",60.659091,12.295129
+1868073,"Strandgata 264, Åsnes Finnskog",60.658992,12.295467
+1868081,"Strandgata 85, Åsnes Finnskog",60.643237,12.288623
+1868082,"Strandgata 81, Åsnes Finnskog",60.644645,12.286186
+1868083,"Strandgata 61, Åsnes Finnskog",60.644038,12.285649
+1868104,"Strandgata 125, Åsnes Finnskog",60.646877,12.299207
+1868105,"Strandgata 127, Åsnes Finnskog",60.644206,12.297085
+1868107,"Strandgata 123, Åsnes Finnskog",60.645808,12.291868
+1868108,"Strandgata 83, Åsnes Finnskog",60.644486,12.288659
+1868110,"Strandgata 179, Åsnes Finnskog",60.651271,12.300279
+1868111,"Strandgata 86, Åsnes Finnskog",60.647425,12.290075
+1868112,"Strandgata 121, Åsnes Finnskog",60.646392,12.292971
+1868333,"Strandgata 53, Åsnes Finnskog",60.643176,12.28492
+1868334,"Strandgata 51, Åsnes Finnskog",60.643791,12.283665
+1868344,"Strandgata 10, Åsnes Finnskog",60.642316,12.278208
+1868345,"Strandgata 8, Åsnes Finnskog",60.642169,12.277626
+1868346,"Strandgata 6, Åsnes Finnskog",60.641424,12.276471
+1868348,"Strandgata 43, Åsnes Finnskog",60.643097,12.281545
+1868350,"Strandgata 45, Åsnes Finnskog",60.643467,12.282571
+1868353,"Strandgata 29, Åsnes Finnskog",60.642553,12.280282
+1868355,"Strandgata 12, Åsnes Finnskog",60.642438,12.278733
+1872093,"Raukmoen 118, Åsnes Finnskog",60.630031,12.273568
+1877410,"Haukåsen 18, Åsnes Finnskog",60.676661,12.150636
+1877440,"Haukåsen 32, Åsnes Finnskog",60.677999,12.152196
+1877809,"Haukåsen 5, Åsnes Finnskog",60.675074,12.150847
+1877843,"Haukåsen 41, Åsnes Finnskog",60.678349,12.153714
+1877845,"Haukåsen 45, Åsnes Finnskog",60.67882,12.153943
+1877847,"Haukåsen 51, Åsnes Finnskog",60.679066,12.154187
+1877848,"Haukåsen 53, Åsnes Finnskog",60.679469,12.154227
+1877849,"Haukåsen 55, Åsnes Finnskog",60.679721,12.154215
+1877853,"Nyåvegen 2, Åsnes Finnskog",60.670366,12.17251
+1877854,"Nyåvegen 70, Åsnes Finnskog",60.673674,12.181921
+1877933,"Nyåvegen 5, Åsnes Finnskog",60.669662,12.174162
+1877934,"Nyåvegen 27, Åsnes Finnskog",60.670808,12.17737
+1877935,"Nyåvegen 9, Åsnes Finnskog",60.670288,12.174297
+1877936,"Nyåvegen 31, Åsnes Finnskog",60.670919,12.178389
+1877937,"Nyåvegen 30, Åsnes Finnskog",60.671239,12.177395
+1877939,"Nyåvegen 58, Åsnes Finnskog",60.672776,12.181154
+1877940,"Nyåvegen 41, Åsnes Finnskog",60.671258,12.179414
+1877942,"Nyåvegen 59, Åsnes Finnskog",60.672416,12.182128
+1877944,"Nyåvegen 69, Åsnes Finnskog",60.673315,12.182673
+1880324,"Peistorpvegen 48, Åsnes Finnskog",60.683298,12.459157
+1880326,"Kaptein Dreyers veg 1276, Åsnes Finnskog",60.673717,12.163364
+1885143,"Lindstadvegen 150, Åsnes Finnskog",60.715071,12.32614
+1885152,"Vermundsbergvegen 2, Åsnes Finnskog",60.704691,12.355356
+1885153,"Vermundsbergvegen 1, Åsnes Finnskog",60.704574,12.354281
+1885154,"Lindstadvegen 170, Åsnes Finnskog",60.716993,12.325458
+1885155,"Lindstadvegen 153, Åsnes Finnskog",60.715511,12.3258
+1885156,"Vermundsbergvegen 92, Åsnes Finnskog",60.700642,12.37045
+1885157,"Vermundsbergvegen 98, Åsnes Finnskog",60.699524,12.370015
+1885161,"Vermundsbergvegen 131, Åsnes Finnskog",60.694981,12.369869
+1885388,"Lindstadvegen 72, Åsnes Finnskog",60.711406,12.337644
+1885390,"Lindstadvegen 120, Åsnes Finnskog",60.713534,12.329429
+1885391,"Lindstadvegen 124, Åsnes Finnskog",60.713761,12.328939
+1885392,"Lindstadvegen 76, Åsnes Finnskog",60.709526,12.340838
+1885393,"Lindstadvegen 100, Åsnes Finnskog",60.712395,12.332613
+1885394,"Lindstadvegen 136, Åsnes Finnskog",60.71484,12.328922
+1885413,"Vermundsbergvegen 144, Åsnes Finnskog",60.69639,12.373482
+1885416,"Vermundsbergvegen 170, Åsnes Finnskog",60.694575,12.376316
+1885417,"Vermundsbergvegen 159, Åsnes Finnskog",60.69477,12.37465
+1885418,"Vermundsbergvegen 146, Åsnes Finnskog",60.696066,12.373869
+1885419,"Basbakkvegen 235, Åsnes Finnskog",60.690644,12.370714
+1885420,"Vermundsbergvegen 232, Åsnes Finnskog",60.684811,12.385059
+1885421,"Vermundsbergvegen 234, Åsnes Finnskog",60.684646,12.385554
+1885422,"Vermundsbergvegen 259, Åsnes Finnskog",60.688032,12.38811
+1885423,"Basbakkvegen 203, Åsnes Finnskog",60.692519,12.36875
+1885436,"Vermundsdamvegen 81, Åsnes Finnskog",60.704676,12.327137
+1885437,"Vermundsdamvegen 104, Åsnes Finnskog",60.706091,12.325174
+1885438,"Vermundsdamvegen 96, Åsnes Finnskog",60.706328,12.323218
+1885439,"Vermundsdamvegen 94, Åsnes Finnskog",60.705057,12.323747
+1885440,"Vermundsdamvegen 92, Åsnes Finnskog",60.704049,12.322726
+1885441,"Gamle Skuleveg 2, Åsnes Finnskog",60.668967,12.209714
+1885443,"Gamle Skuleveg 1, Åsnes Finnskog",60.668811,12.209094
+1885444,"Vermundsdamvegen 98, Åsnes Finnskog",60.705454,12.324951
+1885446,"Vermundsdamvegen 137, Åsnes Finnskog",60.707976,12.328114
+1885455,"Gamle Skuleveg 3, Åsnes Finnskog",60.668533,12.209433
+1885507,"Brattlivegen 12, Åsnes Finnskog",60.67393,12.18288
+1885508,"Brattlivegen 10, Åsnes Finnskog",60.673786,12.183635
+1885509,"Brattlivegen 13, Åsnes Finnskog",60.673811,12.184847
+1885510,"Brattlivegen 14, Åsnes Finnskog",60.674223,12.184155
+1885513,"Basbakkvegen 201, Åsnes Finnskog",60.692654,12.368398
+1885514,"Bring vegen 122, Åsnes Finnskog",60.710066,12.353599
+1885515,"Bring vegen 120, Åsnes Finnskog",60.709923,12.354224
+1885516,"Bring vegen 118, Åsnes Finnskog",60.709975,12.354642
+1885517,"Bring vegen 96, Åsnes Finnskog",60.710224,12.358318
+1885521,"Bring vegen 128, Åsnes Finnskog",60.710057,12.347426
+1885523,"Vintervikvegen 14, Åsnes Finnskog",60.705042,12.344463
+1885524,"Vintervikvegen 16, Åsnes Finnskog",60.705605,12.344325
+1885525,"Vintervikvegen 13, Åsnes Finnskog",60.705425,12.346833
+1885530,"Vintervikvegen 40, Åsnes Finnskog",60.704844,12.342147
+1885533,"Vintervikvegen 32, Åsnes Finnskog",60.704492,12.3428
+1885536,"Vintervikvegen 30, Åsnes Finnskog",60.705105,12.342766
+1885538,"Vintervikvegen 26, Åsnes Finnskog",60.705628,12.343756
+1885545,"Vintervikvegen 42, Åsnes Finnskog",60.704396,12.341281
+1885550,"Tendøgutua 8, Åsnes Finnskog",60.668105,12.205178
+1885551,"Tendøgutua 3, Åsnes Finnskog",60.667642,12.205747
+1885552,"Gamle Skuleveg 4, Åsnes Finnskog",60.668691,12.209961
+1885553,"Tendøgutua 32, Åsnes Finnskog",60.669295,12.208758
+1885554,"Tendøgutua 12, Åsnes Finnskog",60.668789,12.205503
+1885555,"Tendøgutua 6, Åsnes Finnskog",60.668437,12.204442
+1885556,"Tendøgutua 51, Åsnes Finnskog",60.669815,12.211795
+1885557,"Tendøgutua 41, Åsnes Finnskog",60.669199,12.210525
+1885558,"Tendøgutua 36, Åsnes Finnskog",60.66951,12.208779
+1885595,"Suomivegen 33, Åsnes Finnskog",60.702552,12.337037
+1885608,"Suomivegen 40, Åsnes Finnskog",60.701989,12.337602
+1885611,"Suomivegen 31, Åsnes Finnskog",60.702446,12.336586
+1885614,"Vermundsdamvegen 47, Åsnes Finnskog",60.701383,12.332021
+1885615,"Vermundsdamvegen 45, Åsnes Finnskog",60.70091,12.331862
+1885618,"Vermundsdamvegen 64, Åsnes Finnskog",60.70324,12.328528
+1885656,"Tendøgutua 133, Åsnes Finnskog",60.675017,12.222315
+1885657,"Finnebovegen 2, Åsnes Finnskog",60.668361,12.207158
+1885658,"Finnebovegen 4, Åsnes Finnskog",60.668104,12.207485
+1885660,"Tendøgutua 139, Åsnes Finnskog",60.675911,12.22213
+1885662,"Finnebovegen 15, Åsnes Finnskog",60.667622,12.206705
+1885663,"Finnebovegen 17, Åsnes Finnskog",60.667685,12.206544
+1885664,"Finnebovegen 19, Åsnes Finnskog",60.667766,12.206387
+1885665,"Finnebovegen 21, Åsnes Finnskog",60.667957,12.206182
+1885666,"Finnebovegen 13, Åsnes Finnskog",60.667539,12.206852
+1885688,"Vintervikvegen 44, Åsnes Finnskog",60.704065,12.34136
+1885693,"Suomivegen 16, Åsnes Finnskog",60.702858,12.333751
+1885694,"Bedehusvegen 12, Åsnes Finnskog",60.668018,12.186984
+1885695,"Suomivegen 24, Åsnes Finnskog",60.703026,12.334941
+1885697,"Vintervikvegen 48, Åsnes Finnskog",60.703365,12.341509
+1885698,"Bedehusvegen 15, Åsnes Finnskog",60.667659,12.187004
+1885699,"Suomivegen 22, Åsnes Finnskog",60.702398,12.334895
+1885700,"Suomivegen 12, Åsnes Finnskog",60.701881,12.334016
+1885701,"Suomivegen 14, Åsnes Finnskog",60.702429,12.333651
+1885702,"Suomivegen 18, Åsnes Finnskog",60.702684,12.334264
+1885703,"Suomivegen 11, Åsnes Finnskog",60.701854,12.335095
+1885725,"Tendøgutua 57, Åsnes Finnskog",60.669965,12.213037
+1885726,"Tendøgutua 66, Åsnes Finnskog",60.671764,12.212209
+1885727,"Tendøgutua 74, Åsnes Finnskog",60.671579,12.213546
+1885728,"Tendøgutua 64, Åsnes Finnskog",60.671218,12.212887
+1885729,"Tendøgutua 60, Åsnes Finnskog",60.670815,12.21281
+1885730,"Tendøgutua 107, Åsnes Finnskog",60.673216,12.219113
+1885731,"Tendøgutua 88, Åsnes Finnskog",60.672465,12.215961
+1885733,"Sagmoroa 50, Åsnes Finnskog",60.670527,12.18769
+1885734,"Tendøgutua 70, Åsnes Finnskog",60.67269,12.212576
+1885735,"Sagmoroa 49, Åsnes Finnskog",60.673073,12.189792
+1885736,"Tendøgutua 72, Åsnes Finnskog",60.672048,12.213117
+1885738,"Sagmoroa 47, Åsnes Finnskog",60.672366,12.189301
+1885739,"Tendøgutua 115, Åsnes Finnskog",60.673767,12.220102
+1885740,"Bedehusvegen 5, Åsnes Finnskog",60.667821,12.185097
+1885741,"Bedehusvegen 9, Åsnes Finnskog",60.667719,12.185966
+1885742,"Bedehusvegen 10, Åsnes Finnskog",60.668162,12.186248
+1885745,"Sagmoroa 45, Åsnes Finnskog",60.672342,12.188385
+1885747,"Sagmoroa 59, Åsnes Finnskog",60.672903,12.187523
+1885748,"Sagmoroa 56, Åsnes Finnskog",60.67137,12.186968
+1885749,"Bedehusvegen 1, Åsnes Finnskog",60.667948,12.184285
+1885778,"Kokkinjordet 2, Åsnes Finnskog",60.668677,12.208678
+1885779,"Kokkinjordet 1, Åsnes Finnskog",60.668514,12.208002
+1885780,"Kokkinjordet 9, Åsnes Finnskog",60.667225,12.208515
+1885781,"Kokkinjordet 6, Åsnes Finnskog",60.667929,12.209153
+1885782,"Kokkinjordet 4, Åsnes Finnskog",60.668402,12.208907
+1885783,"Brattlivegen 9, Åsnes Finnskog",60.673455,12.184472
+1885784,"Brattlivegen 7, Åsnes Finnskog",60.673262,12.183896
+1885785,"Brattlivegen 5, Åsnes Finnskog",60.672999,12.183466
+1885803,"Myrvoldsgutua 12, Åsnes Finnskog",60.669423,12.18271
+1885805,"Myrvoldsgutua 19, Åsnes Finnskog",60.669743,12.184738
+1885807,"Myrvoldsgutua 27, Åsnes Finnskog",60.670495,12.185251
+1885809,"Myrvoldsgutua 44, Åsnes Finnskog",60.671936,12.18587
+1885812,"Myrvoldsgutua 11, Åsnes Finnskog",60.669193,12.183713
+1885813,"Sagmoroa 48, Åsnes Finnskog",60.670695,12.18855
+1885814,"Sagmoroa 5, Åsnes Finnskog",60.66925,12.195256
+1885815,"Sagmoroa 23, Åsnes Finnskog",60.670722,12.193039
+1885816,"Sagmoroa 31, Åsnes Finnskog",60.670923,12.191411
+1885817,"Sagmoroa 37, Åsnes Finnskog",60.671017,12.190468
+1885820,"Finnebovegen 1, Åsnes Finnskog",60.668243,12.206657
+1885821,"Finnebovegen 9, Åsnes Finnskog",60.667839,12.207136
+1885824,"Finnebovegen 7, Åsnes Finnskog",60.667969,12.20699
+1885833,"Finnebovegen 5, Åsnes Finnskog",60.668031,12.206903
+1885835,"Finnebovegen 3, Åsnes Finnskog",60.668143,12.206785
+1885838,"Finnebovegen 6, Åsnes Finnskog",60.667712,12.208107
+1885842,"Finnebovegen 11, Åsnes Finnskog",60.667736,12.207266
+1886014,"Nyåvegen 39, Åsnes Finnskog",60.670719,12.180365
+1890294,"Bedehusvegen 21, Åsnes Finnskog",60.665457,12.18587
+1890296,"Bedehusvegen 23, Åsnes Finnskog",60.665315,12.186534
+1890297,"Krogsætra 47, Arneberg",60.647714,12.232443
+1890298,"Krogsætra 43, Arneberg",60.648153,12.232222
+1890299,"Krogsætra 11, Arneberg",60.647253,12.231143
+1890300,"Nyåvegen 353, Åsnes Finnskog",60.707271,12.164837
+1890302,"Gamle Skuleveg 14, Åsnes Finnskog",60.667626,12.209416
+1890304,"Krogsætra 38, Arneberg",60.648622,12.231042
+1890305,"Nyåvegen 585, Åsnes Finnskog",60.714519,12.14353
+1890306,"Dæsvegen 72, Åsnes Finnskog",60.647259,12.245017
+1890307,"Dæsvegen 74, Åsnes Finnskog",60.64716,12.246141
+1890308,"Dæsvegen 34, Åsnes Finnskog",60.644893,12.241429
+1890309,"Dæsvegen 70, Åsnes Finnskog",60.647144,12.244218
+1890310,"Trangenvegen 1265, Arneberg",60.651054,12.22261
+1890311,"Krogsætra 3, Arneberg",60.645601,12.228552
+1890313,"Dæsvegen 20, Åsnes Finnskog",60.643274,12.240754
+1890315,"Dæsvegen 35, Åsnes Finnskog",60.644038,12.24482
+1890316,"Dæsvegen 16, Åsnes Finnskog",60.642363,12.239784
+1890933,"Husubækkvegen 6, Åsnes Finnskog",60.625371,12.276615
+1890934,"Husubækkvegen 3, Åsnes Finnskog",60.625351,12.275625
+1890935,"Husubækkvegen 5, Åsnes Finnskog",60.625264,12.27514
+1890936,"Husubækkvegen 7, Åsnes Finnskog",60.624899,12.275744
+1890937,"Husubækkvegen 11, Åsnes Finnskog",60.624399,12.275949
+1890938,"Husubækkvegen 14, Åsnes Finnskog",60.623879,12.277359
+1890939,"Husubækkvegen 13, Åsnes Finnskog",60.623837,12.276148
+1890940,"Raukmoen 30, Åsnes Finnskog",60.63816,12.275096
+1890947,"Husubækkvegen 4, Åsnes Finnskog",60.625968,12.276108
+1890951,"Raukmoen 32, Åsnes Finnskog",60.638144,12.276101
+1891405,"Østjordet 25, Åsnes Finnskog",60.639855,12.269724
+1891406,"Østjordet 23, Åsnes Finnskog",60.639424,12.271162
+1891407,"Østjordet 34, Åsnes Finnskog",60.638263,12.270166
+1891408,"Storlundbenkvegen 85, Åsnes Finnskog",60.61638,12.300026
+1891409,"Østjordet 1, Åsnes Finnskog",60.640236,12.271428
+1891410,"Setervegen 131, Åsnes Finnskog",60.617615,12.311667
+1891411,"Østjordet 16, Åsnes Finnskog",60.63925,12.272059
+1891412,"Østjordet 12, Åsnes Finnskog",60.639459,12.272703
+1891461,"Setervegen 89, Åsnes Finnskog",60.618265,12.303422
+1891462,"Storlundbenkvegen 77, Åsnes Finnskog",60.618654,12.289808
+1891463,"Storlundbenkvegen 81, Åsnes Finnskog",60.618544,12.30101
+1891467,"Storlundbenkvegen 26, Åsnes Finnskog",60.622392,12.283792
+1891470,"Storlundbenkvegen 22, Åsnes Finnskog",60.62267,12.282723
+1891471,"Storlundbenkvegen 75, Åsnes Finnskog",60.619638,12.289437
+1891472,"Setervegen 11, Åsnes Finnskog",60.619899,12.292682
+1891812,"Raukmoen 34, Åsnes Finnskog",60.638453,12.276333
+1892850,"Skutarbanevegen 94, Åsnes Finnskog",60.676493,12.167999
+1892852,"Skutarbanevegen 96, Åsnes Finnskog",60.677235,12.17041
+1893207,"Storhøklingen 51, Åsnes Finnskog",60.70004,12.406095
+1893209,"Storhøklingen 79, Åsnes Finnskog",60.701417,12.411282
+1893210,"Storhøklingen 41, Åsnes Finnskog",60.700451,12.403718
+1893213,"Storhøklingen 53, Åsnes Finnskog",60.700038,12.406405
+1893215,"Storhøklingen 1, Åsnes Finnskog",60.698749,12.396773
+1893217,"Storhøklingen 11, Åsnes Finnskog",60.698591,12.39804
+1893219,"Storhøklingen 12, Åsnes Finnskog",60.699491,12.397622
+1893221,"Storhøklingen 8, Åsnes Finnskog",60.699187,12.396526
+1893223,"Storhøklingen 9, Åsnes Finnskog",60.699072,12.397495
+1893291,"Alunbekkvegen 12, Åsnes Finnskog",60.649728,12.300908
+1893292,"Alunbekkvegen 8, Åsnes Finnskog",60.650274,12.300635
+1893293,"Alunbekkvegen 2, Åsnes Finnskog",60.650852,12.300511
+1893297,"Alunbekkvegen 20, Åsnes Finnskog",60.649087,12.301026
+1893966,"Mattiashemvegen 64, Åsnes Finnskog",60.672565,12.445869
+1893967,"Mattiashemvegen 140, Åsnes Finnskog",60.676356,12.454647
+1893968,"Mattiashemvegen 88, Åsnes Finnskog",60.67355,12.448081
+1893969,"Mattiashemvegen 195, Åsnes Finnskog",60.677745,12.464507
+1893971,"Mattiashemvegen 181, Åsnes Finnskog",60.675739,12.462406
+1893973,"Mattiashemvegen 221, Åsnes Finnskog",60.678703,12.467787
+1893980,"Mattiashemvegen 62, Åsnes Finnskog",60.672093,12.445343
+1893981,"Mattiashemvegen 60, Åsnes Finnskog",60.671494,12.444509
+1894584,"Länsimävegen 175, Åsnes Finnskog",60.675296,12.426651
+1894586,"Länsimävegen 169, Åsnes Finnskog",60.675713,12.427923
+1894589,"Länsimävegen 150, Åsnes Finnskog",60.672729,12.432478
+1894600,"Länsimävegen 314, Åsnes Finnskog",60.666527,12.415334
+1894601,"Länsimävegen 309, Åsnes Finnskog",60.667247,12.41563
+1894602,"Länsimävegen 300, Åsnes Finnskog",60.667392,12.418063
+1894603,"Länsimävegen 301, Åsnes Finnskog",60.667836,12.416498
+1894604,"Länsimävegen 282, Åsnes Finnskog",60.668152,12.420323
+1894606,"Länsimävegen 210, Åsnes Finnskog",60.675916,12.41611
+1894607,"Länsimävegen 178, Åsnes Finnskog",60.67369,12.426434
+1894662,"Länsimävegen 317, Åsnes Finnskog",60.667498,12.413917
+1894663,"Länsimävegen 315, Åsnes Finnskog",60.66705,12.41451
+1894692,"Sandsundvegen 25, Åsnes Finnskog",60.691989,12.39934
+1894746,"Sandsundvegen 100, Åsnes Finnskog",60.689116,12.410895
+1894754,"Sandsundvegen 109, Åsnes Finnskog",60.685369,12.410168
+1894755,"Sandsundvegen 107, Åsnes Finnskog",60.685603,12.410482
+1894760,"Sandsundvegen 31, Åsnes Finnskog",60.691079,12.402268
+1894761,"Sandsundvegen 27, Åsnes Finnskog",60.691509,12.401251
+1894763,"Sandsundvegen 29, Åsnes Finnskog",60.691338,12.400555
+1894776,"Sandsundvegen 95, Åsnes Finnskog",60.688836,12.409681
+1894777,"Sandsundvegen 97, Åsnes Finnskog",60.688538,12.408506
+1894779,"Sandsundvegen 99, Åsnes Finnskog",60.688,12.40945
+1894780,"Sandsundvegen 88, Åsnes Finnskog",60.689309,12.408298
+1894781,"Sandsundvegen 78, Åsnes Finnskog",60.689077,12.407355
+1894782,"Sandsundvegen 73, Åsnes Finnskog",60.688133,12.406777
+1894783,"Sandsundvegen 59, Åsnes Finnskog",60.689456,12.404223
+1894989,"Vermundsbergvegen 260, Åsnes Finnskog",60.688381,12.397981
+1895027,"Tolvmilskogen 48, Åsnes Finnskog",60.634101,12.336393
+1895028,"Tolvmilskogen 42, Åsnes Finnskog",60.632875,12.338004
+1895030,"Tolvmilskogen 46, Åsnes Finnskog",60.63421,12.337777
+1895031,"Tolvmilskogen 86, Åsnes Finnskog",60.634355,12.3392
+1895460,"Dahlsvegen 996, Hof finnskog",60.636278,12.236502
+1895476,"Dahlsvegen 1008, Hof finnskog",60.634847,12.24031
+1895480,"Dahlsvegen 1006, Hof finnskog",60.634895,12.239437
+1895661,"Tolvmilskogen 736, Åsnes Finnskog",60.667,12.413681
+1895665,"Tolvmilskogen 721, Åsnes Finnskog",60.666826,12.409963
+1895667,"Tolvmilskogen 733, Åsnes Finnskog",60.665722,12.410963
+1895669,"Tolvmilskogen 171, Åsnes Finnskog",60.640921,12.34612
+1895671,"Tolvmilskogen 468, Åsnes Finnskog",60.663834,12.378752
+1895674,"Tolvmilskogen 169, Åsnes Finnskog",60.63982,12.34811
+1895676,"Tolvmilskogen 167, Åsnes Finnskog",60.640206,12.346705
+1895678,"Tolvmilskogen 163, Åsnes Finnskog",60.639745,12.345813
+1895689,"Tolvmilskogen 151, Åsnes Finnskog",60.639335,12.347035
+1895690,"Tolvmilskogen 147, Åsnes Finnskog",60.63892,12.345291
+1895691,"Tolvmilskogen 149, Åsnes Finnskog",60.639129,12.345916
+1895705,"Tolvmilskogen 141, Åsnes Finnskog",60.637769,12.343543
+1895706,"Tolvmilskogen 143, Åsnes Finnskog",60.63791,12.344344
+1895708,"Tolvmilskogen 52, Åsnes Finnskog",60.635666,12.334177
+1895709,"Tolvmilskogen 135, Åsnes Finnskog",60.637259,12.343819
+1895712,"Tolvmilskogen 56, Åsnes Finnskog",60.634767,12.3328
+1895718,"Tolvmilskogen 54, Åsnes Finnskog",60.63494,12.334833
+1895719,"Tolvmilskogen 50, Åsnes Finnskog",60.634425,12.335677
+1895782,"Bedehusvegen 25, Åsnes Finnskog",60.667554,12.187798
+1896242,"Tyskebergsvegen 255, Åsnes Finnskog",60.635636,12.371272
+1896244,"Tyskebergsvegen 257, Åsnes Finnskog",60.635416,12.371623
+1896248,"Tyskebergsvegen 260, Åsnes Finnskog",60.636401,12.369532
+1896249,"Tyskebergsvegen 254, Åsnes Finnskog",60.63578,12.370123
+1896250,"Tyskebergsvegen 250, Åsnes Finnskog",60.635206,12.370465
+1896286,"Tapio 261, Åsnes Finnskog",60.644165,12.362983
+1896355,"Tyskebergsvegen 195, Åsnes Finnskog",60.632269,12.379269
+1896358,"Tapio 95, Åsnes Finnskog",60.630909,12.357962
+1896359,"Tapio 56, Åsnes Finnskog",60.630403,12.347718
+1896361,"Tapio 40, Åsnes Finnskog",60.629224,12.347797
+1896363,"Tapio 54, Åsnes Finnskog",60.629621,12.341362
+1896367,"Tapio 91, Åsnes Finnskog",60.629723,12.35939
+1896368,"Tyskebergsvegen 89, Åsnes Finnskog",60.624505,12.368232
+1896369,"Tyskebergsvegen 70, Åsnes Finnskog",60.622524,12.368025
+1896370,"Tyskebergsvegen 72, Åsnes Finnskog",60.622392,12.366841
+1896372,"Tapio 60, Åsnes Finnskog",60.631326,12.350065
+1896390,"Tapio 263, Åsnes Finnskog",60.64503,12.363298
+1896396,"Tapio 165, Åsnes Finnskog",60.634994,12.359612
+1896399,"Tapio 93, Åsnes Finnskog",60.630788,12.359613
+1897035,"Linnavegen 260, Åsnes Finnskog",60.701623,12.336061
+1897039,"Linnavegen 236, Åsnes Finnskog",60.700861,12.332774
+1897952,"Damsbergvegen 96, Hof finnskog",60.605689,12.464816
+1897959,"Damsbergvegen 120, Hof finnskog",60.604991,12.470244
+1897960,"Damsbergvegen 112, Hof finnskog",60.605094,12.466983
+1897964,"Damsbergvegen 128, Hof finnskog",60.604778,12.471866
+1897965,"Damsbergvegen 124, Hof finnskog",60.604666,12.4703
+1898021,"Damsbergvegen 132, Hof finnskog",60.603503,12.475641
+1898232,"Gråbergsvegen 232, Hof finnskog",60.596106,12.514448
+1898233,"Gråbergsvegen 230, Hof finnskog",60.595785,12.514723
+1898234,"Gråbergsvegen 246, Hof finnskog",60.594764,12.515928
+1898236,"Gråbergsvegen 240, Hof finnskog",60.595637,12.515895
+1898237,"Gråbergsvegen 248, Hof finnskog",60.595258,12.515287
+1898279,"Damsbergvegen 215, Hof finnskog",60.598061,12.475024
+1898280,"Damsbergvegen 264, Hof finnskog",60.593687,12.475718
+1898309,"Gråbergsvegen 236, Hof finnskog",60.596236,12.516344
+1898310,"Damsbergvegen 136, Hof finnskog",60.602797,12.47445
+1898323,"Breisjøen 18, Hof finnskog",60.556185,12.543349
+1898324,"Breisjøen 14, Hof finnskog",60.556753,12.543412
+1898325,"Damsbergvegen 268, Hof finnskog",60.593616,12.474997
+1898326,"Breisjøen 12, Hof finnskog",60.557024,12.542526
+1898337,"Breisjøen 45, Hof finnskog",60.554481,12.535771
+1898340,"Breisjøen 41, Hof finnskog",60.555411,12.536299
+1898346,"Breisjøen 43, Hof finnskog",60.555004,12.535682
+1898352,"Breisjøen 30, Hof finnskog",60.556107,12.538504
+1898354,"Breisjøen 27, Hof finnskog",60.556434,12.537353
+1898357,"Breisjøen 7, Hof finnskog",60.557231,12.536108
+1898358,"Breisjøen 37, Hof finnskog",60.556145,12.536026
+1898361,"Breisjøen 39, Hof finnskog",60.555729,12.536144
+1898363,"Breisjøen 29, Hof finnskog",60.556706,12.536233
+1898365,"Breisjøen 33, Hof finnskog",60.556017,12.537125
+1898421,"Breisjøen 9, Hof finnskog",60.557221,12.537165
+1898422,"Gråbergsvegen 211, Hof finnskog",60.591008,12.522061
+1898423,"Breisjøen 3, Hof finnskog",60.557892,12.537604
+1898424,"Gråbergsvegen 207, Hof finnskog",60.593567,12.51567
+1898425,"Breisjøen 5, Hof finnskog",60.557713,12.53658
+1898426,"Gråbergsvegen 209, Hof finnskog",60.593866,12.518974
+1898427,"Breisjøen 8, Hof finnskog",60.557894,12.540252
+1898428,"Breisjøen 20, Hof finnskog",60.557071,12.539431
+1898429,"Breisjøen 10, Hof finnskog",60.55756,12.541328
+1898430,"Breisjøen 6, Hof finnskog",60.558237,12.54153
+1898431,"Gråbergsvegen 203, Hof finnskog",60.593846,12.513581
+1898432,"Breisjøen 1, Hof finnskog",60.558182,12.537003
+1898433,"Gråbergsvegen 205, Hof finnskog",60.593479,12.513559
+1898434,"Breisjøen 24, Hof finnskog",60.556269,12.540511
+1898435,"Breisjøen 16, Hof finnskog",60.556872,12.541572
+1898436,"Gråbergsvegen 201, Hof finnskog",60.594407,12.514153
+1898747,"Gombalambvegen 204, Hof finnskog",60.536831,12.518356
+1898750,"Gombalambvegen 210, Hof finnskog",60.536745,12.51654
+1898753,"Gombalambvegen 218, Hof finnskog",60.535668,12.515767
+1898756,"Gombalambvegen 220, Hof finnskog",60.535454,12.5164
+1898764,"Gombalambvegen 206, Hof finnskog",60.536383,12.517997
+1899077,"Gombalambvegen 174, Hof finnskog",60.535214,12.521737
+1899078,"Gombalambvegen 172, Hof finnskog",60.535023,12.52219
+1899079,"Gombalambvegen 176, Hof finnskog",60.535363,12.521206
+1899081,"Gombalambvegen 182, Hof finnskog",60.535626,12.521859
+1899083,"Gombalambvegen 180, Hof finnskog",60.535862,12.522738
+1899084,"Gombalambvegen 178, Hof finnskog",60.535951,12.523487
+1899127,"Gombalambvegen 69, Hof finnskog",60.539254,12.542974
+1899128,"Gombalambvegen 89, Hof finnskog",60.539184,12.539402
+1899129,"Gombalambvegen 87, Hof finnskog",60.538823,12.539898
+1899130,"Gombalambvegen 85, Hof finnskog",60.538668,12.539471
+1899132,"Gombalambvegen 73, Hof finnskog",60.539987,12.542434
+1899133,"Gombalambvegen 63, Hof finnskog",60.538632,12.543034
+1899134,"Gombalambvegen 83, Hof finnskog",60.538477,12.540061
+1899135,"Gombalambvegen 81, Hof finnskog",60.538549,12.540726
+1899136,"Gombalambvegen 65, Hof finnskog",60.538466,12.541501
+1899137,"Gombalambvegen 67, Hof finnskog",60.538801,12.541392
+1899138,"Gombalambvegen 61, Hof finnskog",60.538386,12.543171
+1899139,"Gombalambvegen 59, Hof finnskog",60.538382,12.544302
+1899140,"Gombalambvegen 186, Hof finnskog",60.536084,12.521501
+1899205,"Gombalambvegen 99, Hof finnskog",60.542306,12.53902
+1899209,"Gombalambvegen 79, Hof finnskog",60.540918,12.542919
+1899212,"Gombalambvegen 77, Hof finnskog",60.540541,12.542896
+1899214,"Torpvegen 1, Åsnes Finnskog",60.672879,12.217046
+1899215,"Flobergsetervegen 153, Åsnes Finnskog",60.689415,12.216591
+1899216,"Flobergsetervegen 150, Åsnes Finnskog",60.688465,12.215342
+1899218,"Flobergsetervegen 145, Åsnes Finnskog",60.687474,12.216232
+1899232,"Gombalambvegen 75, Hof finnskog",60.540245,12.543179
+1899319,"Torpvegen 160, Åsnes Finnskog",60.684656,12.209721
+1899331,"Gombalambvegen 170, Hof finnskog",60.535374,12.52283
+1899333,"Gombalambvegen 168, Hof finnskog",60.53551,12.523812
+1899335,"Gombalambvegen 184, Hof finnskog",60.536331,12.52276
+1899338,"Gombalambvegen 192, Hof finnskog",60.536727,12.519931
+1899340,"Gombalambvegen 202, Hof finnskog",60.535689,12.518067
+1899342,"Gombalambvegen 200, Hof finnskog",60.536069,12.518638
+1899345,"Gombalambvegen 190, Hof finnskog",60.536631,12.520486
+1899348,"Gombalambvegen 198, Hof finnskog",60.535742,12.519113
+1899350,"Gombalambvegen 196, Hof finnskog",60.535958,12.519446
+1899352,"Gombalambvegen 194, Hof finnskog",60.536369,12.519546
+1902885,"Dulpetorpsvegen 120, Hof finnskog",60.596362,12.33699
+1904244,"Fallvegen 78, Hof finnskog",60.560473,12.549059
+1904245,"Fallvegen 163, Hof finnskog",60.560072,12.563108
+1904246,"Fallvegen 160, Hof finnskog",60.560311,12.563244
+1904247,"Fallvegen 183, Hof finnskog",60.559035,12.568251
+1904248,"Fallvegen 181, Hof finnskog",60.559879,12.567255
+1904249,"Fallvegen 187, Hof finnskog",60.557974,12.564575
+1904250,"Fallvegen 185, Hof finnskog",60.558836,12.567992
+1904252,"Fallvegen 201, Hof finnskog",60.555787,12.572785
+1904253,"Fallvegen 188, Hof finnskog",60.560121,12.567877
+1904270,"Lindbergsvegen 475, Åsnes Finnskog",60.786474,12.239523
+1904271,"Lindbergsvegen 441, Åsnes Finnskog",60.784982,12.241929
+1904272,"Lindbergsvegen 362, Åsnes Finnskog",60.781528,12.2538
+1904273,"Lindbergsvegen 227, Åsnes Finnskog",60.785189,12.269463
+1904274,"Lindbergsvegen 355, Åsnes Finnskog",60.782138,12.259761
+1904339,"Faldaasen 40, Åsnes Finnskog",60.722122,12.246041
+1904341,"Faldaasen 56, Åsnes Finnskog",60.72094,12.24849
+1904342,"Kroksjøvegen 33, Åsnes Finnskog",60.735469,12.389625
+1904343,"Kroksjøvegen 10, Åsnes Finnskog",60.737519,12.388538
+1904345,"Kynndamsvegen 86, Åsnes Finnskog",60.682757,12.229631
+1904346,"Faldaasen 100, Åsnes Finnskog",60.723026,12.253232
+1904347,"Faldaasen 89, Åsnes Finnskog",60.721418,12.254684
+1904348,"Faldaasen 91, Åsnes Finnskog",60.72199,12.254467
+1904349,"Kynndamsvegen 830, Åsnes Finnskog",60.741069,12.207777
+1904354,"Kynndamsvegen 791, Åsnes Finnskog",60.739007,12.213224
+1904357,"Kynndamsvegen 720, Åsnes Finnskog",60.734257,12.218291
+1904359,"Kynndamsvegen 745, Åsnes Finnskog",60.736352,12.220116
+1904361,"Kynndamsvegen 220, Åsnes Finnskog",60.697963,12.230688
+1904363,"Kynndamsvegen 648, Åsnes Finnskog",60.72369,12.214184
+1904377,"Kynndamsvegen 818, Åsnes Finnskog",60.740246,12.209126
+1904379,"Kroksjøvegen 32, Åsnes Finnskog",60.736009,12.390139
+1904380,"Kroksjøvegen 37, Åsnes Finnskog",60.735138,12.389921
+1904522,"Kynndamsvegen 1045, Åsnes Finnskog",60.753612,12.182956
+1904614,"Rogberget vest 37, Åsnes Finnskog",60.757718,12.217576
+1904615,"Rogberget vest 39, Åsnes Finnskog",60.757923,12.218095
+1904616,"Rogberget vest 35, Åsnes Finnskog",60.757717,12.216896
+1904617,"Rogberget vest 57, Åsnes Finnskog",60.759654,12.221168
+1904618,"Rogberget vest 41, Åsnes Finnskog",60.758201,12.217762
+1904619,"Rogberget vest 55, Åsnes Finnskog",60.758934,12.221187
+1904620,"Rogberget vest 59, Åsnes Finnskog",60.760133,12.219828
+1904621,"Rogberget vest 53, Åsnes Finnskog",60.759263,12.220596
+1904622,"Rogberget vest 51, Åsnes Finnskog",60.759882,12.220225
+1904964,"Rogberget vest 68, Åsnes Finnskog",60.761928,12.208636
+1904965,"Rogberget vest 70, Åsnes Finnskog",60.762401,12.210006
+1905345,"Polhøgdvegen 71, Åsnes Finnskog",60.709844,12.394057
+1905346,"Polhøgdvegen 69, Åsnes Finnskog",60.708643,12.392152
+1905347,"Juvbergsvegen 10, Åsnes Finnskog",60.752617,12.382805
+1905551,"Lindsjøvegen 251, Åsnes Finnskog",60.804262,12.261571
+1905553,"Gjerdsjøvegen 494, Åsnes Finnskog",60.778191,12.20956
+1905554,"Lindsjøvegen 51, Åsnes Finnskog",60.785567,12.261228
+1905556,"Lindsjøvegen 145, Åsnes Finnskog",60.793878,12.257742
+1905631,"Juvbergsvegen 470, Åsnes Finnskog",60.804556,12.343079
+1905632,"Juvbergsvegen 582, Åsnes Finnskog",60.809544,12.342717
+1905633,"Juvbergsvegen 695, Åsnes Finnskog",60.814329,12.343603
+1905634,"Gjerdsjøvegen 397, Åsnes Finnskog",60.771938,12.221501
+1905731,"Juvbergsvegen 252, Åsnes Finnskog",60.776587,12.361609
+1905732,"Juvbergsvegen 374, Åsnes Finnskog",60.786736,12.352592
+1905734,"Juvbergsvegen 18, Åsnes Finnskog",60.753215,12.383327
+1905735,"Juvbergsvegen 39, Åsnes Finnskog",60.755239,12.383247
+1905736,"Juvbergsvegen 42, Åsnes Finnskog",60.755556,12.381021
+1905737,"Juvbergsvegen 52, Åsnes Finnskog",60.755998,12.381288
+1905990,"Lindbergsætra 105, Åsnes Finnskog",60.794775,12.226554
+1905992,"Lindbergsætra 103, Åsnes Finnskog",60.794659,12.226892
+1905994,"Lindbergsætra 101, Åsnes Finnskog",60.79418,12.226372
+1905997,"Lindbergsætra 104, Åsnes Finnskog",60.793393,12.22386
+1906000,"Lindbergsætra 102, Åsnes Finnskog",60.793407,12.224394
+1906002,"Lindbergsætra 100, Åsnes Finnskog",60.793528,12.22609
+1906004,"Lindbergsætra 99, Åsnes Finnskog",60.793871,12.226408
+1906006,"Lindbergsætra 81, Åsnes Finnskog",60.794854,12.228124
+1906008,"Lindbergsætra 83, Åsnes Finnskog",60.795315,12.22876
+1906011,"Lindbergsætra 85, Åsnes Finnskog",60.795616,12.228321
+1906026,"Lindbergsætra 117, Åsnes Finnskog",60.794339,12.225284
+1906028,"Lindbergsætra 121, Åsnes Finnskog",60.794626,12.225847
+1906029,"Kilbonvegen 270, Hof finnskog",60.619373,12.508001
+1906030,"Kilbonvegen 261, Hof finnskog",60.618263,12.506634
+1906031,"Kilbonvegen 210, Hof finnskog",60.617815,12.495747
+1906032,"Kilbonvegen 208, Hof finnskog",60.617917,12.495316
+1906033,"Kilbonvegen 206, Hof finnskog",60.617391,12.496539
+1906045,"Lindbergsætra 113, Åsnes Finnskog",60.7965,12.226068
+1906047,"Lindbergsætra 111, Åsnes Finnskog",60.79622,12.227012
+1906050,"Lindbergsætra 109, Åsnes Finnskog",60.796105,12.226173
+1906052,"Lindbergsætra 125, Åsnes Finnskog",60.79584,12.225614
+1906054,"Lindbergsætra 107, Åsnes Finnskog",60.795571,12.227076
+1906056,"Lindbergsætra 123, Åsnes Finnskog",60.794848,12.225385
+1906058,"Lindbergsætra 119, Åsnes Finnskog",60.79466,12.22498
+1906147,"Lindbergsætra 145, Åsnes Finnskog",60.796191,12.222983
+1906148,"Lindbergsætra 137, Åsnes Finnskog",60.795721,12.221226
+1906149,"Lindbergsætra 135, Åsnes Finnskog",60.795464,12.221807
+1906191,"Lindbergsætra 147, Åsnes Finnskog",60.79679,12.22308
+1906203,"Lindbergsætra 139, Åsnes Finnskog",60.795696,12.223393
+1906204,"Lindbergsætra 127, Åsnes Finnskog",60.795337,12.224864
+1906206,"Lindbergsætra 129, Åsnes Finnskog",60.795835,12.22394
+1906208,"Lindbergsætra 131, Åsnes Finnskog",60.79604,12.224034
+1906211,"Lindbergsætra 115, Åsnes Finnskog",60.797097,12.226402
+1906236,"Lindbergsætra 133, Åsnes Finnskog",60.796344,12.224375
+1908665,"Kynndalen 905, Åsnes Finnskog",60.762621,12.187982
+1908667,"Kynndalen 907, Åsnes Finnskog",60.763009,12.187543
+1908669,"Kynndalen 690, Åsnes Finnskog",60.749492,12.223016
+1908671,"Kynndalen 901, Åsnes Finnskog",60.761054,12.193168
+1908673,"Kynndalen 1060, Åsnes Finnskog",60.759123,12.172942
+1908675,"Kynndalen 967, Åsnes Finnskog",60.75736,12.184406
+1908677,"Kynndalen 1000, Åsnes Finnskog",60.756014,12.179025
+1908679,"Kynndalen 514, Åsnes Finnskog",60.735556,12.237941
+1908683,"Kynndalen 201, Åsnes Finnskog",60.7393,12.287568
+1908918,"Buråssætra 43, Åsnes Finnskog",60.725026,12.142683
+1908919,"Buråssætra 71, Åsnes Finnskog",60.722812,12.144616
+1908920,"Buråssætra 40, Åsnes Finnskog",60.726261,12.14027
+1908921,"Buråssætra 15, Åsnes Finnskog",60.723287,12.137558
+1908923,"Buråssætra 31, Åsnes Finnskog",60.723973,12.140487
+1908924,"Buråssætra 33, Åsnes Finnskog",60.723909,12.141691
+1908925,"Buråssætra 22, Åsnes Finnskog",60.724749,12.138049
+1908926,"Buråssætra 23, Åsnes Finnskog",60.724043,12.139411
+1908989,"Kynndalen 35, Åsnes Finnskog",60.729376,12.306592
+1908996,"Dulpetorpsvegen 116, Hof finnskog",60.598441,12.357655
+1912584,"Peistorpvegen 848, Åsnes Finnskog",60.620497,12.474947
+1912585,"Peistorpvegen 306, Åsnes Finnskog",60.65933,12.45967
+1912593,"Strandgata 197, Åsnes Finnskog",60.650912,12.317723
+1912599,"Finnskogvegen 860, Åsnes Finnskog",60.628268,12.41121
+1912600,"Strandgata 199, Åsnes Finnskog",60.650239,12.318386
+1912706,"Gravbergsvegen 1482, Åsnes Finnskog",60.8382,12.278214
+1912709,"Gravbergsvegen 1480, Åsnes Finnskog",60.836235,12.278493
+1912710,"Buråsvegen 539, Åsnes Finnskog",60.737453,12.136207
+1912716,"Bring vegen 461, Åsnes Finnskog",60.741932,12.312657
+1912718,"Bring vegen 465, Åsnes Finnskog",60.74516,12.310892
+1912719,"Posåsvegen 123, Åsnes Finnskog",60.7141,12.384296
+1912723,"Kynndalen 209, Åsnes Finnskog",60.755781,12.269702
+1912725,"Kynndalen 211, Åsnes Finnskog",60.756753,12.270075
+1912726,"Bring vegen 463, Åsnes Finnskog",60.742256,12.312287
+1912776,"Posåsvegen 182, Åsnes Finnskog",60.724345,12.364288
+1912777,"Mattiashemvegen 15, Åsnes Finnskog",60.662422,12.456193
+1912778,"Linnavegen 127, Åsnes Finnskog",60.683076,12.347203
+1912779,"Posåsvegen 121, Åsnes Finnskog",60.714022,12.382004
+1939443,"Kuralampi 80, Hof finnskog",60.62525,12.495267
+1942905,"Kaptein Dreyers veg 1533, Åsnes Finnskog",60.666025,12.205374
+1944449,"Nyåvegen 583, Åsnes Finnskog",60.714439,12.142815
+1954011,"Gravbergsvegen 2750, Åsnes Finnskog",60.853679,12.206725
+1954014,"Gravbergsvegen 1942, Åsnes Finnskog",60.845882,12.26515
+1961683,"Vintervikvegen 38, Åsnes Finnskog",60.704313,12.342137
+1972566,"Vermundsdamvegen 11, Åsnes Finnskog",60.70089,12.330765
+1980029,"Vermundsdamvegen 5, Åsnes Finnskog",60.700384,12.331678
+1980031,"Suomivegen 23, Åsnes Finnskog",60.702519,12.335787
+1980032,"Suomivegen 21, Åsnes Finnskog",60.702263,12.335435
+1980035,"Suomivegen 7, Åsnes Finnskog",60.701383,12.334754
+1980036,"Suomivegen 3, Åsnes Finnskog",60.70116,12.334846
+1980037,"Suomivegen 8, Åsnes Finnskog",60.701324,12.334121
+1980039,"Suomivegen 4, Åsnes Finnskog",60.70102,12.334217
+1980198,"Vermundsdamvegen 7, Åsnes Finnskog",60.700227,12.331098
+1980262,"Vermundsdamvegen 13, Åsnes Finnskog",60.701169,12.330891
+1980269,"Vermundsdamvegen 9, Åsnes Finnskog",60.700506,12.330644
+1989554,"Vintervikvegen 12, Åsnes Finnskog",60.704628,12.344958
+1996375,"Basbakkvegen 237, Åsnes Finnskog",60.690714,12.370094
+1996379,"Basbakkvegen 239, Åsnes Finnskog",60.690791,12.369661
+2007860,"Linnavegen 679, Åsnes Finnskog",60.693108,12.399142
+2007861,"Linnavegen 677, Åsnes Finnskog",60.693173,12.399488
+2007862,"Linnavegen 675, Åsnes Finnskog",60.693386,12.399015
+2050340,"Vintervikvegen 11, Åsnes Finnskog",60.70516,12.346052
+2057399,"Vintervikvegen 22, Åsnes Finnskog",60.70453,12.34377
+2064286,"Strandgata 195, Åsnes Finnskog",60.647552,12.30394
+2090206,"Suomivegen 34, Åsnes Finnskog",60.70246,12.337603
+2099649,"Tendøgutua 65, Åsnes Finnskog",60.67114,12.214541
+2100865,"Lindbergsætra 112, Åsnes Finnskog",60.796258,12.227652
+2110100,"Suomivegen 35, Åsnes Finnskog",60.702171,12.337083
+2117236,"Vermundsbergvegen 80, Åsnes Finnskog",60.700788,12.367609
+2117237,"Vermundsbergvegen 70, Åsnes Finnskog",60.701662,12.366133
+2117463,"Sandsundvegen 33, Åsnes Finnskog",60.691102,12.401633
+2120650,"Gråbergsvegen 238, Hof finnskog",60.596131,12.516918
+2166507,"Vintervikvegen 9, Åsnes Finnskog",60.705723,12.349074
+2183670,"Vermundsbergvegen 250, Åsnes Finnskog",60.689163,12.386726
+2242465,"Fallvegen 203, Hof finnskog",60.555516,12.57389
+2257285,"Vintervikvegen 36, Åsnes Finnskog",60.703938,12.342349
+2368263,"Vermundsdamvegen 3, Åsnes Finnskog",60.700552,12.332247
+2370092,"Juvbergsvegen 391, Åsnes Finnskog",60.78789,12.353329
+2450806,"Fallvegen 205, Hof finnskog",60.555265,12.573899
+2457805,"Gråbergsvegen 244, Hof finnskog",60.595235,12.516473
+2457844,"Gråbergsvegen 234, Hof finnskog",60.59628,12.51538
+2457849,"Gråbergsvegen 242, Hof finnskog",60.595578,12.517113
+2458482,"Gravbergsvegen 355, Åsnes Finnskog",60.717062,12.313928
+2496634,"Kroksjøvegen 28, Åsnes Finnskog",60.736157,12.38935

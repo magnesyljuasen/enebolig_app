@@ -1,0 +1,829 @@
+,Navn,Long,Lat
+611829,"Bekkefaret 4, Lillehammer",61.104825,10.466393
+611830,"Bekkefaret 2, Lillehammer",61.104681,10.46724
+611831,"Bekkefaret 1B, Lillehammer",61.105405,10.465882
+611833,"Bekkefaret 10, Lillehammer",61.104627,10.463953
+611834,"Bekkefaret 8, Lillehammer",61.104861,10.46389
+611835,"Bekkefaret 7, Lillehammer",61.105477,10.465087
+611836,"Bekkefaret 6, Lillehammer",61.105087,10.463808
+611837,"Bekkefaret 13, Lillehammer",61.105248,10.462201
+611838,"Bekkefaret 12, Lillehammer",61.104876,10.463334
+611839,"Bekkefaret 11B, Lillehammer",61.10516,10.462809
+611840,"Bekkefaret 11A, Lillehammer",61.105236,10.463295
+611841,"Bekkefaret 17A, Lillehammer",61.105583,10.463467
+611842,"Bekkefaret 15C, Lillehammer",61.106039,10.464028
+611843,"Bekkefaret 15B, Lillehammer",61.10582,10.463973
+611844,"Bekkefaret 15A, Lillehammer",61.105637,10.463958
+611845,"Bekkefaret 23A, Lillehammer",61.105951,10.462928
+611846,"Bekkefaret 21, Lillehammer",61.105671,10.462888
+611847,"Bekkefaret 19, Lillehammer",61.106016,10.463368
+611848,"Bekkefaret 17B, Lillehammer",61.105781,10.463448
+611852,"Bekkefaret 23B, Lillehammer",61.106138,10.462924
+612163,"Apalvegen 5, Lillehammer",61.107668,10.474151
+612169,"Apalvegen 7, Lillehammer",61.107943,10.474461
+612170,"Apalvegen 6, Lillehammer",61.108087,10.473632
+612526,"Breisethvegen 4, Lillehammer",61.106892,10.473651
+612527,"Breisethvegen 3, Lillehammer",61.107852,10.472935
+612530,"Breisethvegen 8, Lillehammer",61.106469,10.474633
+612531,"Apalvegen 3, Lillehammer",61.107486,10.474421
+612532,"Breisethvegen 6B, Lillehammer",61.106707,10.474199
+612533,"Apalvegen 2, Lillehammer",61.107621,10.473481
+612534,"Breisethvegen 12, Lillehammer",61.106049,10.475226
+612535,"Breisethvegen 11, Lillehammer",61.10711,10.474236
+612536,"Breisethvegen 10, Lillehammer",61.106259,10.474865
+612537,"Apalvegen 1, Lillehammer",61.107346,10.474043
+612538,"Breisethvegen 16, Lillehammer",61.105551,10.475611
+612539,"Breisethvegen 14, Lillehammer",61.10583,10.475513
+612540,"Breisethvegen 13B, Lillehammer",61.106762,10.475723
+612541,"Breisethvegen 13A, Lillehammer",61.106589,10.475158
+612542,"Breisethvegen 20, Lillehammer",61.104611,10.476142
+612543,"Breisethvegen 19, Lillehammer",61.105547,10.476761
+612544,"Breisethvegen 18, Lillehammer",61.105216,10.475836
+612545,"Breisethvegen 17, Lillehammer",61.105398,10.476439
+612546,"Breisethvegen 25, Lillehammer",61.104614,10.47668
+612547,"Breisethvegen 23, Lillehammer",61.105108,10.476666
+612548,"Breisethvegen 22, Lillehammer",61.104359,10.476223
+612549,"Breisethvegen 21, Lillehammer",61.105301,10.477139
+612550,"Breisetroa 5, Lillehammer",61.105262,10.479902
+612551,"Breisetroa 3, Lillehammer",61.10509,10.479987
+612552,"Breisetroa 2, Lillehammer",61.105332,10.478365
+612553,"Breisetroa 1, Lillehammer",61.105078,10.479485
+612554,"Breisetroa 9, Lillehammer",61.105242,10.479214
+612555,"Breisetroa 8, Lillehammer",61.106155,10.477884
+612556,"Breisetroa 7, Lillehammer",61.105479,10.479708
+612557,"Breisetroa 6, Lillehammer",61.105823,10.477869
+612559,"Breisetroa 13, Lillehammer",61.10575,10.478719
+612560,"Breisetroa 11B, Lillehammer",61.105666,10.479086
+612561,"Breisetroa 11A, Lillehammer",61.10547,10.478947
+612773,"Dr. Torps gate 4, Lillehammer",61.105688,10.467973
+612774,"Dr. Torps gate 3, Lillehammer",61.10669,10.466638
+612775,"Dr. Torps gate 2, Lillehammer",61.106,10.468154
+612776,"Dr. Torps gate 1, Lillehammer",61.106755,10.466584
+612777,"Dr. Torps gate 11, Lillehammer",61.106232,10.467012
+612778,"Dr. Torps gate 9, Lillehammer",61.106311,10.466947
+612779,"Dr. Torps gate 7, Lillehammer",61.106461,10.466821
+612780,"Dr. Torps gate 5, Lillehammer",61.106535,10.466755
+613003,"Elverhøivegen 1, Søre Ål",61.101451,10.472767
+613007,"Elverhøivegen 5, Søre Ål",61.101904,10.472417
+613008,"Elverhøivegen 4, Søre Ål",61.101493,10.471433
+613009,"Elverhøivegen 3, Søre Ål",61.101705,10.472538
+613010,"Elverhøivegen 2, Søre Ål",61.101414,10.47206
+613013,"Elverhøivegen 8, Søre Ål",61.101929,10.471787
+613014,"Elverhøivegen 7, Søre Ål",61.102203,10.472227
+613051,"Erik Vullums veg 1, Lillehammer",61.105446,10.474548
+613055,"Erik Vullums veg 5, Lillehammer",61.10506,10.475365
+613056,"Erik Vullums veg 4, Lillehammer",61.106114,10.474208
+613057,"Erik Vullums veg 3, Lillehammer",61.105262,10.474911
+613058,"Erik Vullums veg 2, Lillehammer",61.106325,10.47381
+613061,"Erik Vullums veg 8, Lillehammer",61.105756,10.474915
+613062,"Erik Vullums veg 6, Lillehammer",61.105949,10.474553
+613179,"Frederik Colletts veg 1A, Søre Ål",61.102608,10.484353
+613280,"Hamarvegen 131, Søre Ål",61.094478,10.475763
+613281,"Hamarvegen 128, Søre Ål",61.095388,10.474618
+613282,"Hamarvegen 126, Søre Ål",61.095511,10.474067
+613283,"Hamarvegen 124, Søre Ål",61.095741,10.474412
+613409,"Henrik Sørensens veg 1, Søre Ål",61.103624,10.48181
+613413,"Henrik Sørensens veg 5, Søre Ål",61.103973,10.48281
+613414,"Henrik Sørensens veg 4, Søre Ål",61.104054,10.48196
+613415,"Henrik Sørensens veg 2, Søre Ål",61.103969,10.481548
+613418,"Henrik Sørensens veg 7, Søre Ål",61.104281,10.482546
+613419,"Henrik Sørensens veg 6, Søre Ål",61.104298,10.481823
+613448,"Holtevegen 2, Søre Ål",61.103629,10.477321
+613449,"Holtevegen 1, Søre Ål",61.103405,10.477236
+613452,"Holtevegen 4C, Søre Ål",61.103619,10.479064
+613453,"Holtevegen 4B, Søre Ål",61.103588,10.478562
+613454,"Holtevegen 4A, Søre Ål",61.103659,10.477823
+613455,"Holtevegen 3, Søre Ål",61.103312,10.477566
+613456,"Holtevegen 9B, Søre Ål",61.102615,10.479659
+613457,"Holtevegen 9A, Søre Ål",61.1027,10.479337
+613458,"Holtevegen 7, Søre Ål",61.102884,10.478882
+613459,"Holtevegen 6, Søre Ål",61.103231,10.479176
+613460,"Holtevegen 14, Søre Ål",61.102266,10.482062
+613461,"Holtevegen 11, Søre Ål",61.102384,10.480324
+613623,"Gustaf Frødings veg 3A, Lillehammer",61.105918,10.466629
+613624,"Gustaf Frødings veg 2, Lillehammer",61.106767,10.469507
+613625,"Gustaf Frødings veg 1B, Lillehammer",61.106367,10.467503
+613626,"Gustaf Frødings veg 1A, Lillehammer",61.106959,10.469201
+613627,"Gustaf Frødings veg 7, Lillehammer",61.105371,10.466548
+613628,"Gustaf Frødings veg 6, Lillehammer",61.106123,10.467603
+613629,"Gustaf Frødings veg 5, Lillehammer",61.105677,10.466525
+613630,"Gustaf Frødings veg 4, Lillehammer",61.106219,10.467886
+613631,"Hagevegen 5, Søre Ål",61.101269,10.471386
+613632,"Hagevegen 4, Søre Ål",61.100485,10.470774
+613633,"Hagevegen 3, Søre Ål",61.102127,10.473411
+613634,"Hagevegen 1, Søre Ål",61.102024,10.474612
+613635,"Hagevegen 13A, Søre Ål",61.099662,10.47055
+613636,"Hagevegen 11, Søre Ål",61.099773,10.469405
+613637,"Hagevegen 8B, Søre Ål",61.09998,10.473478
+613638,"Hagevegen 8A, Søre Ål",61.100058,10.472888
+613639,"Hagesletta 3, Søre Ål",61.101019,10.473749
+613640,"Hagesletta 1, Søre Ål",61.101088,10.474012
+613641,"Hagevegen 13C, Søre Ål",61.099285,10.472184
+613642,"Hagevegen 13B, Søre Ål",61.099447,10.471301
+613643,"Hagesletta 8, Søre Ål",61.10083,10.474593
+613644,"Hagesletta 6, Søre Ål",61.100907,10.474912
+613645,"Hagesletta 5, Søre Ål",61.100904,10.473521
+613646,"Hagesletta 4, Søre Ål",61.10122,10.475094
+613647,"Hagehaugvegen 1, Søre Ål",61.097679,10.475374
+613648,"Hagesletta 14, Søre Ål",61.100638,10.473249
+613649,"Hagesletta 10, Søre Ål",61.100789,10.474202
+613650,"Hagesletta 9, Søre Ål",61.100742,10.47279
+613651,"Hagehaugvegen 7A, Søre Ål",61.097828,10.47731
+613652,"Hagehaugvegen 4, Søre Ål",61.098125,10.475599
+613653,"Hagehaugvegen 2B, Søre Ål",61.09805,10.475057
+613654,"Hagehaugvegen 2A, Søre Ål",61.097996,10.475129
+613655,"Hagehaugvegen 10B, Søre Ål",61.098218,10.47859
+613656,"Hagehaugvegen 10A, Søre Ål",61.098039,10.478544
+613657,"Hagehaugvegen 9, Søre Ål",61.097796,10.477791
+613658,"Hagehaugvegen 8, Søre Ål",61.098443,10.478544
+613659,"Hagehaugvegen 14, Søre Ål",61.098445,10.479157
+613660,"Hagehaugvegen 13, Søre Ål",61.097781,10.479181
+613661,"Hagehaugvegen 12A, Søre Ål",61.098062,10.479259
+613662,"Hagehaugvegen 11, Søre Ål",61.097742,10.478642
+613663,"Hagehaugvegen 18A, Søre Ål",61.098437,10.479954
+613664,"Hagehaugvegen 17, Søre Ål",61.097648,10.479861
+613665,"Hagehaugvegen 16, Søre Ål",61.098246,10.480112
+613666,"Hagehaugvegen 15, Søre Ål",61.097829,10.479666
+613667,"Hagehaugvegen 21, Søre Ål",61.098273,10.481783
+613668,"Hagehaugvegen 20, Søre Ål",61.098294,10.480652
+613669,"Hagehaugvegen 19, Søre Ål",61.098101,10.48107
+613670,"Hagehaugvegen 18B, Søre Ål",61.098582,10.479849
+613671,"Hagehaugvegen 26A, Søre Ål",61.0986,10.48177
+613672,"Hagehaugvegen 24B, Søre Ål",61.098695,10.480949
+613673,"Hagehaugvegen 24A, Søre Ål",61.098434,10.481048
+613674,"Hagehaugvegen 22, Søre Ål",61.098665,10.480447
+613677,"Hagehaugvegen 28, Søre Ål",61.098725,10.482286
+613686,"Hamarvegen 5, Lillehammer",61.107043,10.473046
+613690,"Hamarvegen 10, Lillehammer",61.106057,10.472833
+613691,"Hamarvegen 9, Lillehammer",61.106552,10.473579
+613692,"Hamarvegen 8, Lillehammer",61.106365,10.472587
+613693,"Hamarvegen 6, Lillehammer",61.106555,10.472429
+613694,"Hamarvegen 19, Lillehammer",61.104721,10.475183
+613695,"Hamarvegen 17, Lillehammer",61.104921,10.474914
+613696,"Hamarvegen 11, Lillehammer",61.105603,10.474129
+613697,"Hamarvegen 24, Lillehammer",61.104138,10.475081
+613698,"Hamarvegen 23, Lillehammer",61.104266,10.475736
+613699,"Kløvervegen 5, Lillehammer",61.104356,10.474832
+613700,"Hamarvegen 21, Lillehammer",61.104502,10.475432
+613702,"Hamarvegen 26C, Lillehammer",61.10364,10.47465
+613703,"Hamarvegen 26B, Lillehammer",61.103773,10.475416
+613704,"Hamarvegen 26A, Lillehammer",61.103816,10.47537
+613705,"Hamarvegen 25, Lillehammer",61.104022,10.475836
+613706,"Hamarvegen 28B, Lillehammer",61.103683,10.47556
+613707,"Hamarvegen 28A, Lillehammer",61.103728,10.475506
+613708,"Hamarvegen 27, Søre Ål",61.103437,10.476811
+613709,"Hamarvegen 26D, Lillehammer",61.103593,10.474674
+613710,"Hamarvegen 29B, Søre Ål",61.103101,10.477927
+613711,"Hamarvegen 29A, Søre Ål",61.103024,10.477608
+613712,"Hamarvegen 28D, Lillehammer",61.10349,10.47477
+613713,"Hamarvegen 28C, Lillehammer",61.103539,10.474746
+613714,"Hamarvegen 30D, Lillehammer",61.103391,10.474865
+613715,"Hamarvegen 30C, Lillehammer",61.10344,10.474839
+613716,"Hamarvegen 30B, Lillehammer",61.103595,10.475697
+613717,"Hamarvegen 30A, Lillehammer",61.10364,10.47565
+613718,"Hamarvegen 32D, Lillehammer",61.103212,10.475179
+613719,"Hamarvegen 32C, Lillehammer",61.103241,10.475126
+613720,"Hamarvegen 32B, Lillehammer",61.10342,10.475984
+613721,"Hamarvegen 32A, Lillehammer",61.103465,10.475929
+613722,"Hamarvegen 34D, Lillehammer",61.103136,10.475375
+613723,"Hamarvegen 34C, Lillehammer",61.103172,10.475306
+613724,"Hamarvegen 34B, Lillehammer",61.103334,10.476124
+613725,"Hamarvegen 34A, Lillehammer",61.103378,10.476072
+613726,"Hamarvegen 42, Søre Ål",61.102412,10.476095
+613727,"Hamarvegen 40, Søre Ål",61.102354,10.476427
+613728,"Hamarvegen 37, Søre Ål",61.102072,10.477638
+613729,"Hamarvegen 49, Søre Ål",61.101157,10.476742
+613730,"Hamarvegen 47, Søre Ål",61.1013,10.475932
+613731,"Hamarvegen 45, Søre Ål",61.101523,10.47611
+613732,"Hamarvegen 44, Søre Ål",61.102155,10.475787
+613733,"Hamarvegen 60, Søre Ål",61.100442,10.47233
+613734,"Hamarvegen 58, Søre Ål",61.100427,10.472886
+613735,"Hamarvegen 52, Søre Ål",61.100705,10.47455
+613736,"Hamarvegen 51, Søre Ål",61.100581,10.475973
+613737,"Hamarvegen 70, Søre Ål",61.100184,10.474563
+613738,"Hamarvegen 69, Søre Ål",61.098903,10.476767
+613739,"Hamarvegen 68B, Søre Ål",61.100459,10.474836
+613740,"Hamarvegen 66, Søre Ål",61.100421,10.474222
+613741,"Hamarvegen 77, Søre Ål",61.098902,10.475208
+613742,"Hamarvegen 73, Søre Ål",61.098961,10.475545
+613743,"Hamarvegen 71, Søre Ål",61.098909,10.476173
+613744,"Hamarvegen 83, Søre Ål",61.098496,10.474485
+613745,"Hamarvegen 82, Søre Ål",61.09863,10.473786
+613746,"Hamarvegen 81, Søre Ål",61.098554,10.475614
+613747,"Hamarvegen 79, Søre Ål",61.098783,10.474554
+613748,"Hamarvegen 108, Søre Ål",61.097086,10.474567
+613749,"Hamarvegen 106, Søre Ål",61.097227,10.474017
+613750,"Hamarvegen 87, Søre Ål",61.0981,10.474577
+613751,"Hamarvegen 85A, Søre Ål",61.098441,10.474562
+613752,"Hamarvegen 110C, Søre Ål",61.097005,10.473166
+613753,"Hamarvegen 110B, Søre Ål",61.097001,10.472946
+613754,"Hamarvegen 110A, Søre Ål",61.096829,10.47424
+613755,"Hamarvegen 109, Søre Ål",61.09695,10.475525
+613756,"Hamarvegen 113, Søre Ål",61.09658,10.475657
+613757,"Hamarvegen 112, Søre Ål",61.096751,10.474793
+613758,"Hamarvegen 110E, Søre Ål",61.096961,10.473167
+613759,"Hamarvegen 110D, Søre Ål",61.096942,10.472922
+613760,"Hamarvegen 120, Søre Ål",61.095995,10.474943
+613761,"Hamarvegen 119, Søre Ål",61.095835,10.475678
+613762,"Hamarvegen 116, Søre Ål",61.095418,10.470186
+613763,"Hamarvegen 114, Søre Ål",61.096174,10.470092
+613949,"Holtevegen 16, Søre Ål",61.102119,10.482371
+613950,"Holtevegen 15, Søre Ål",61.102085,10.48133
+613951,"Holtevegen 20, Søre Ål",61.101789,10.48293
+613952,"Holtevegen 19, Søre Ål",61.101764,10.481965
+613953,"Holtevegen 18, Søre Ål",61.101963,10.482679
+613954,"Holtevegen 17, Søre Ål",61.10192,10.481675
+613955,"Holtevegen 27, Søre Ål",61.10116,10.482975
+613956,"Holtevegen 25, Søre Ål",61.101316,10.482704
+613957,"Holtevegen 23, Søre Ål",61.101453,10.48247
+613958,"Holtevegen 21, Søre Ål",61.101618,10.482217
+613962,"Holtevegen 29, Søre Ål",61.101039,10.483396
+614398,"Majorvegen 3, Søre Ål",61.097851,10.481819
+614399,"Majorvegen 2B, Søre Ål",61.098263,10.482654
+614400,"Majorvegen 2A, Søre Ål",61.098317,10.482657
+614401,"Majorvegen 1, Søre Ål",61.098072,10.48207
+614404,"Majorvegen 6, Søre Ål",61.097135,10.482342
+614405,"Majorvegen 5, Søre Ål",61.097329,10.481924
+614463,"Kneiken 1, Søre Ål",61.097341,10.482463
+614467,"Kneiken 5, Søre Ål",61.097565,10.483308
+614468,"Kneiken 4, Søre Ål",61.097802,10.483003
+614469,"Kneiken 3, Søre Ål",61.097425,10.482949
+614470,"Kneiken 2, Søre Ål",61.097744,10.482574
+614471,"Kneiken 8, Søre Ål",61.097989,10.483921
+614472,"Kneiken 7B, Søre Ål",61.097623,10.483774
+614473,"Kneiken 7A, Søre Ål",61.097417,10.483672
+614474,"Kneiken 6, Søre Ål",61.097877,10.483489
+614477,"Kneiken 10, Søre Ål",61.098127,10.484429
+614478,"Kneiken 9, Søre Ål",61.097725,10.484261
+614662,"Langsethgutua 8, Lillehammer",61.104156,10.478347
+614663,"Langsethgutua 6, Lillehammer",61.104071,10.477954
+614664,"Langsethgutua 4, Lillehammer",61.104152,10.477086
+614666,"Langsethgutua 2, Lillehammer",61.103867,10.47685
+614667,"Langsethgutua 12, Lillehammer",61.10483,10.479919
+614668,"Langsethgutua 11, Søre Ål",61.10425,10.481246
+614669,"Langsethgutua 10, Lillehammer",61.10447,10.480032
+614670,"Langsethgutua 9, Søre Ål",61.104149,10.480666
+614673,"Langsethgutua 16, Lillehammer",61.104558,10.481038
+614674,"Langsethgutua 14, Lillehammer",61.104473,10.480533
+614949,"Markvegen 2, Søre Ål",61.097748,10.481313
+614950,"Markvegen 1B, Søre Ål",61.097741,10.480348
+614951,"Markvegen 1A, Søre Ål",61.097931,10.480209
+614953,"Markvegen 5A, Søre Ål",61.097049,10.480446
+614954,"Markvegen 4, Søre Ål",61.097526,10.48108
+614955,"Markvegen 3B, Søre Ål",61.097325,10.480644
+614956,"Markvegen 3A, Søre Ål",61.097229,10.480343
+614957,"Markvegen 9, Søre Ål",61.096781,10.481138
+614958,"Markvegen 7, Søre Ål",61.096858,10.480659
+614959,"Markvegen 6A, Søre Ål",61.097509,10.481747
+614960,"Markvegen 5B, Søre Ål",61.097005,10.480295
+614961,"Markvegen 13, Søre Ål",61.096616,10.479739
+614962,"Markvegen 12, Søre Ål",61.096523,10.481738
+614963,"Markvegen 11, Søre Ål",61.096728,10.480227
+614964,"Markvegen 10, Søre Ål",61.096818,10.481789
+614965,"Markvegen 18, Søre Ål",61.096221,10.482225
+614966,"Markvegen 17, Søre Ål",61.096475,10.481161
+614967,"Markvegen 16, Søre Ål",61.096244,10.481725
+614968,"Markvegen 15, Søre Ål",61.096401,10.480582
+614970,"Markvegen 21, Søre Ål",61.095917,10.481264
+614971,"Markvegen 19B, Søre Ål",61.096215,10.481093
+614972,"Markvegen 19A, Søre Ål",61.096211,10.480648
+615044,"Langsethgutua 20, Lillehammer",61.10487,10.481812
+615218,"Møinichens gate 1A, Lillehammer",61.106515,10.470331
+615222,"Møinichens gate 3A, Lillehammer",61.106011,10.470437
+615223,"Møinichens gate 2B, Lillehammer",61.106858,10.470996
+615224,"Møinichens gate 2A, Lillehammer",61.107049,10.470838
+615225,"Møinichens gate 1B, Lillehammer",61.106651,10.470263
+615226,"Møinichens gate 5, Lillehammer",61.105801,10.470817
+615227,"Møinichens gate 4B, Lillehammer",61.106568,10.471242
+615228,"Møinichens gate 4A, Lillehammer",61.106528,10.470832
+615229,"Møinichens gate 3B, Lillehammer",61.10628,10.470487
+615230,"Møinichens gate 9, Lillehammer",61.105246,10.471441
+615231,"Møinichens gate 8, Lillehammer",61.106112,10.47111
+615232,"Møinichens gate 7, Lillehammer",61.105537,10.471102
+615233,"Møinichens gate 6, Lillehammer",61.106414,10.471439
+615234,"Møinichens gate 13A, Lillehammer",61.104419,10.47222
+615235,"Møinichens gate 12, Lillehammer",61.105646,10.471812
+615236,"Møinichens gate 11, Lillehammer",61.104928,10.471815
+615237,"Møinichens gate 10, Lillehammer",61.105892,10.471545
+615238,"Kløvervegen 3B, Lillehammer",61.104193,10.474156
+615239,"Møinichens gate 14, Lillehammer",61.104758,10.472605
+615240,"Møinichens gate 13C, Lillehammer",61.104223,10.47234
+615241,"Møinichens gate 13B, Lillehammer",61.104312,10.472288
+615245,"Kløvervegen 1, Lillehammer",61.104103,10.473373
+615334,"Roavegen 5, Lillehammer",61.104797,10.477227
+615335,"Roavegen 4, Lillehammer",61.105465,10.477703
+615336,"Roavegen 3, Lillehammer",61.105136,10.47741
+615337,"Roavegen 2, Lillehammer",61.10576,10.477068
+615338,"Roavegen 7B, Lillehammer",61.104411,10.477228
+615339,"Roavegen 7A, Lillehammer",61.10437,10.477689
+615340,"Roavegen 6B, Lillehammer",61.105265,10.477954
+615341,"Roavegen 13, Søre Ål",61.103741,10.48022
+615342,"Roavegen 12, Lillehammer",61.104441,10.479437
+615343,"Roavegen 10, Lillehammer",61.104713,10.479171
+615344,"Roavegen 9, Lillehammer",61.104451,10.478491
+615345,"Roavegen 17, Søre Ål",61.103572,10.480843
+615346,"Roavegen 16, Søre Ål",61.10393,10.480971
+615347,"Roavegen 15, Søre Ål",61.103443,10.480336
+615348,"Roavegen 14, Søre Ål",61.104091,10.480181
+615349,"Roavegen 23, Søre Ål",61.102681,10.482657
+615350,"Roavegen 21, Søre Ål",61.103045,10.482284
+615351,"Roavegen 19, Søre Ål",61.103248,10.481774
+615352,"Roavegen 18, Søre Ål",61.103793,10.481169
+615353,"Roavegen 27, Søre Ål",61.102192,10.483061
+615354,"Roavegen 26, Søre Ål",61.10231,10.483753
+615355,"Roavegen 25, Søre Ål",61.102364,10.482939
+615356,"Roavegen 24, Søre Ål",61.102481,10.483686
+615357,"Roavegen 31, Søre Ål",61.101866,10.483287
+615358,"Roavegen 30, Søre Ål",61.101687,10.484076
+615359,"Roavegen 29, Søre Ål",61.102047,10.483184
+615360,"Roavegen 28, Søre Ål",61.10213,10.483837
+615361,"Roavegen 34, Søre Ål",61.101344,10.484264
+615362,"Roavegen 33B, Søre Ål",61.101624,10.483275
+615363,"Roavegen 33A, Søre Ål",61.101687,10.48326
+615364,"Roavegen 32, Søre Ål",61.101515,10.484179
+615365,"Roavegen 37, Søre Ål",61.100876,10.483518
+615366,"Roavegen 36, Søre Ål",61.101163,10.484385
+615367,"Roavegen 35B, Søre Ål",61.101443,10.483434
+615368,"Roavegen 35A, Søre Ål",61.101488,10.483399
+615369,"Roavegen 41, Søre Ål",61.100333,10.483864
+615370,"Roavegen 40, Søre Ål",61.100613,10.484526
+615371,"Roavegen 39, Søre Ål",61.100559,10.483763
+615372,"Roavegen 38, Søre Ål",61.100847,10.484482
+615373,"Rolf Lundes veg 1B, Søre Ål",61.103874,10.478705
+615374,"Rolf Lundes veg 1A, Søre Ål",61.10401,10.47938
+615375,"Roavegen 43, Søre Ål",61.100213,10.484211
+615376,"Roavegen 42, Søre Ål",61.100352,10.484626
+615377,"Rolf Lundes veg 5, Søre Ål",61.103037,10.479668
+615378,"Rolf Lundes veg 3B, Søre Ål",61.10329,10.47955
+615379,"Rolf Lundes veg 3A, Søre Ål",61.10356,10.479488
+615380,"Rolf Lundes veg 2, Søre Ål",61.103906,10.479876
+615382,"Rolf Lundes veg 10, Søre Ål",61.102842,10.480327
+615383,"Rolf Lundes veg 8, Søre Ål",61.102938,10.480535
+615384,"Rolf Lundes veg 6, Søre Ål",61.1032,10.480381
+615463,"Nyhusvegen 1, Lillehammer",61.106788,10.475001
+615467,"Nyhusvegen 5, Lillehammer",61.107348,10.475509
+615468,"Nyhusvegen 4, Lillehammer",61.107318,10.475007
+615469,"Nyhusvegen 3, Lillehammer",61.107069,10.475533
+615470,"Nyhusvegen 2, Lillehammer",61.107017,10.474603
+615471,"Nyhusvegen 9, Lillehammer",61.107566,10.476094
+615472,"Nyhusvegen 8, Lillehammer",61.107883,10.475052
+615473,"Nyhusvegen 7, Lillehammer",61.107642,10.475671
+615474,"Nyhusvegen 6, Lillehammer",61.107587,10.475001
+615839,"Solbakken 3, Søre Ål",61.098088,10.483128
+615840,"Solbakken 1, Søre Ål",61.097985,10.482678
+615843,"Solbakken 6, Søre Ål",61.098523,10.483538
+615844,"Solbakken 5, Søre Ål",61.098173,10.48354
+615845,"Solbakken 4A, Søre Ål",61.098402,10.483106
+615846,"Solbakken 4B, Søre Ål",61.098492,10.483073
+615850,"Solbakken 7, Søre Ål",61.098299,10.483928
+615894,"Rudolf Thygesens veg 3, Søre Ål",61.102977,10.481075
+615895,"Rudolf Thygesens veg 1, Søre Ål",61.103247,10.481014
+615900,"Rudolf Thygesens veg 5, Søre Ål",61.10271,10.480859
+615901,"Rudolf Thygesens veg 4, Søre Ål",61.102979,10.481743
+616228,"Skogvegen 1A, Søre Ål",61.096829,10.479137
+616234,"Skogvegen 3, Søre Ål",61.096893,10.4799
+616235,"Skogvegen 1B, Søre Ål",61.096915,10.479512
+616296,"Thorvald Erichsens veg 2, Søre Ål",61.103493,10.482361
+616297,"Thorvald Erichsens veg 1, Søre Ål",61.103254,10.482795
+616300,"Thorvald Erichsens veg 6, Søre Ål",61.103929,10.48355
+616301,"Thorvald Erichsens veg 5, Søre Ål",61.103014,10.483396
+616302,"Thorvald Erichsens veg 4, Søre Ål",61.10372,10.482891
+616303,"Thorvald Erichsens veg 3, Søre Ål",61.103357,10.483227
+616304,"Thorvald Erichsens veg 12, Søre Ål",61.103149,10.484256
+616305,"Thorvald Erichsens veg 10, Søre Ål",61.103411,10.48412
+616306,"Thorvald Erichsens veg 8, Søre Ål",61.103683,10.483836
+616307,"Thorvald Erichsens veg 7, Søre Ål",61.102752,10.483551
+616310,"Thorvald Erichsens veg 16, Søre Ål",61.102716,10.484421
+616311,"Thorvald Erichsens veg 14, Søre Ål",61.10294,10.484487
+616559,"Suttestadvegen 1, Lillehammer",61.107526,10.469914
+616563,"Suttestadvegen 3, Lillehammer",61.106682,10.469837
+616564,"Suttestadvegen 2C, Lillehammer",61.105935,10.470025
+616565,"Suttestadvegen 2B, Lillehammer",61.106195,10.470093
+616566,"Suttestadvegen 2A, Lillehammer",61.107356,10.470667
+616567,"Suttestadvegen 7, Lillehammer",61.106156,10.469469
+616568,"Suttestadvegen 6, Lillehammer",61.105291,10.469791
+616569,"Suttestadvegen 5, Lillehammer",61.10645,10.469401
+616570,"Suttestadvegen 4, Lillehammer",61.105562,10.469637
+616571,"Suttestadvegen 11B, Lillehammer",61.105172,10.468845
+616572,"Suttestadvegen 10, Lillehammer",61.104597,10.46924
+616573,"Suttestadvegen 14B, Lillehammer",61.104094,10.469466
+616574,"Suttestadvegen 14A, Lillehammer",61.104026,10.469525
+616575,"Suttestadvegen 13, Lillehammer",61.104616,10.468067
+616577,"Suttestadvegen 14C, Lillehammer",61.104203,10.469456
+616599,"Suttestadvegen 12F, Lillehammer",61.104521,10.470182
+616702,"Th. Engers veg 1A, Søre Ål",61.097643,10.477858
+616706,"Th. Engers veg 3, Søre Ål",61.09721,10.478023
+616707,"Th. Engers veg 2B, Søre Ål",61.097318,10.478752
+616708,"Th. Engers veg 2A, Søre Ål",61.097408,10.478737
+616709,"Th. Engers veg 1B, Søre Ål",61.097434,10.477997
+616710,"Th. Engers veg 7, Søre Ål",61.096689,10.47798
+616711,"Th. Engers veg 6, Søre Ål",61.097066,10.478851
+616712,"Th. Engers veg 5, Søre Ål",61.096895,10.478046
+616713,"Th. Engers veg 4B, Søre Ål",61.097339,10.479328
+616716,"Th. Engers veg 9, Søre Ål",61.096531,10.477713
+616717,"Th. Engers veg 8, Søre Ål",61.096475,10.478675
+616759,"Årettavegen 5C, Lillehammer",61.104206,10.465529
+616760,"Årettavegen 5B, Lillehammer",61.104269,10.465495
+616761,"Årettavegen 5A, Lillehammer",61.104332,10.465498
+616762,"Årettavegen 4B, Lillehammer",61.103672,10.466792
+616763,"Årettavegen 7C, Lillehammer",61.103873,10.465607
+616764,"Årettavegen 7B, Lillehammer",61.103936,10.465573
+616765,"Årettavegen 7A, Lillehammer",61.103999,10.465576
+616766,"Årettavegen 5D, Lillehammer",61.104143,10.465527
+616767,"Årettavegen 12B, Lillehammer",61.103679,10.46942
+616768,"Årettavegen 12A, Lillehammer",61.103588,10.469461
+616769,"Årettavegen 11, Lillehammer",61.10318,10.467411
+616770,"Årettavegen 7D, Lillehammer",61.103792,10.465603
+616771,"Årettavegen 14B, Lillehammer",61.103724,10.470182
+616772,"Årettavegen 14A, Lillehammer",61.103635,10.470239
+616773,"Årettavegen 13, Lillehammer",61.103174,10.467912
+616774,"Årettavegen 12C, Lillehammer",61.10378,10.469345
+616775,"Årettavegen 16B, Lillehammer",61.10377,10.470964
+616776,"Årettavegen 16A, Lillehammer",61.103692,10.470985
+616777,"Årettavegen 15, Lillehammer",61.103165,10.468802
+616778,"Årettavegen 14C, Lillehammer",61.103822,10.470126
+616779,"Årettavegen 18C, Lillehammer",61.103926,10.471678
+616780,"Årettavegen 18B, Lillehammer",61.103815,10.471764
+616781,"Årettavegen 18A, Lillehammer",61.103747,10.471817
+616782,"Årettavegen 16C, Lillehammer",61.103877,10.470913
+616783,"Årettavegen 20B, Lillehammer",61.10386,10.472564
+616784,"Årettavegen 20A, Lillehammer",61.103789,10.472571
+616785,"Årettavegen 19B, Lillehammer",61.103479,10.472898
+616786,"Årettavegen 19A, Lillehammer",61.10344,10.472414
+616787,"Årettavegen 23, Lillehammer",61.103504,10.473957
+616788,"Årettavegen 22, Lillehammer",61.103892,10.473734
+616789,"Årettavegen 21A, Lillehammer",61.103509,10.473493
+616790,"Årettavegen 20C, Lillehammer",61.103973,10.472507
+616791,"Årettavegen 26, Lillehammer",61.104018,10.474556
+616792,"Årettavegen 25, Lillehammer",61.103295,10.474151
+616793,"Årettavegen 24, Lillehammer",61.103806,10.474194
+616948,"Tvethes gate 3, Lillehammer",61.107893,10.468335
+616949,"Tvethes gate 2, Lillehammer",61.108305,10.468447
+616950,"Tvethes gate 1, Lillehammer",61.108104,10.467955
+616952,"Tvethes gate 6, Lillehammer",61.107757,10.469312
+616953,"Tvethes gate 5, Lillehammer",61.107646,10.468732
+616954,"Tvethes gate 4A, Lillehammer",61.108096,10.46866
+616955,"Tvethes gate 11, Lillehammer",61.107153,10.469544
+616956,"Tvethes gate 9, Lillehammer",61.10714,10.469042
+616957,"Tvethes gate 7B, Lillehammer",61.107277,10.468844
+616958,"Tvethes gate 7A, Lillehammer",61.107399,10.469184
+616962,"Tvethes gate 13, Lillehammer",61.106889,10.469791
+617166,"Weidemanns gate 3B, Lillehammer",61.107448,10.466653
+617167,"Weidemanns gate 3A, Lillehammer",61.107575,10.467058
+617168,"Weidemanns gate 1, Lillehammer",61.107813,10.466606
+617170,"Weidemanns gate 5A, Lillehammer",61.107053,10.466274
+617171,"Weidemanns gate 4C, Lillehammer",61.107552,10.467825
+617172,"Weidemanns gate 4B, Lillehammer",61.107659,10.467763
+617173,"Weidemanns gate 4A, Lillehammer",61.107728,10.467676
+617174,"Weidemanns gate 8, Lillehammer",61.107147,10.468375
+617175,"Weidemanns gate 7, Lillehammer",61.107056,10.467721
+617176,"Weidemanns gate 6, Lillehammer",61.107283,10.468232
+617177,"Weidemanns gate 5B, Lillehammer",61.106874,10.466284
+617178,"Weidemanns gate 12, Lillehammer",61.106783,10.46884
+617179,"Weidemanns gate 11, Lillehammer",61.10661,10.468275
+617180,"Weidemanns gate 10, Lillehammer",61.106974,10.468589
+617181,"Weidemanns gate 9, Lillehammer",61.106801,10.468043
+617182,"Weidemanns gate 16, Lillehammer",61.105691,10.4702
+617183,"Weidemanns gate 15, Lillehammer",61.105,10.47013
+617184,"Weidemanns gate 14, Lillehammer",61.106512,10.468976
+617185,"Weidemanns gate 13, Lillehammer",61.106346,10.468597
+617186,"Weidemanns gate 20, Lillehammer",61.105008,10.471077
+617187,"Weidemanns gate 18, Lillehammer",61.105336,10.470591
+617188,"Weidemanns gate 17, Lillehammer",61.104836,10.470345
+617217,"Åkervegen 1, Lillehammer",61.105993,10.472125
+617221,"Årettavegen 1B, Lillehammer",61.104927,10.465285
+617222,"Årettavegen 1A, Lillehammer",61.105008,10.465307
+617223,"Åkervegen 5, Lillehammer",61.106254,10.4721
+617224,"Åkervegen 3, Lillehammer",61.105731,10.472279
+617225,"Årettavegen 2B, Lillehammer",61.104103,10.466481
+617226,"Årettavegen 2A, Lillehammer",61.104224,10.466539
+617227,"Årettavegen 1D, Lillehammer",61.104801,10.465316
+617228,"Årettavegen 1C, Lillehammer",61.104864,10.4653
+617229,"Årettavegen 3C, Lillehammer",61.10453,10.465452
+617230,"Årettavegen 3B, Lillehammer",61.104602,10.465418
+617231,"Årettavegen 3A, Lillehammer",61.104656,10.46542
+617232,"Årettavegen 2C, Lillehammer",61.103984,10.466539
+617233,"Årettavegen 4A, Lillehammer",61.10379,10.466723
+617234,"Årettavegen 3D, Lillehammer",61.104476,10.465449
+617847,"Hamarvegen 55B, Søre Ål",61.099532,10.47585
+617849,"Hamarvegen 55A, Søre Ål",61.099532,10.47585
+617855,"Hamarvegen 55F, Søre Ål",61.099532,10.47585
+617857,"Hamarvegen 55E, Søre Ål",61.099532,10.47585
+617859,"Hamarvegen 55D, Søre Ål",61.099532,10.47585
+617861,"Hamarvegen 55C, Søre Ål",61.099532,10.47585
+617863,"Hamarvegen 55J, Søre Ål",61.099532,10.47585
+617865,"Hamarvegen 55I, Søre Ål",61.099532,10.47585
+617867,"Hamarvegen 55H, Søre Ål",61.099532,10.47585
+617869,"Hamarvegen 55G, Søre Ål",61.099532,10.47585
+617871,"Hamarvegen 55N, Søre Ål",61.099532,10.47585
+617873,"Hamarvegen 55M, Søre Ål",61.099532,10.47585
+617875,"Hamarvegen 55L, Søre Ål",61.099532,10.47585
+617877,"Hamarvegen 55K, Søre Ål",61.099532,10.47585
+617879,"Hamarvegen 55R, Søre Ål",61.099532,10.47585
+617881,"Hamarvegen 55Q, Søre Ål",61.099532,10.47585
+617883,"Hamarvegen 55P, Søre Ål",61.099532,10.47585
+617885,"Hamarvegen 55O, Søre Ål",61.099532,10.47585
+617889,"Hamarvegen 59A, Søre Ål",61.099511,10.476925
+617891,"Hamarvegen 57, Søre Ål",61.099543,10.476463
+618249,"Hamarvegen 59C, Søre Ål",61.099511,10.476925
+618251,"Hamarvegen 59B, Søre Ål",61.099511,10.476925
+618255,"Hamarvegen 59G, Søre Ål",61.099511,10.476925
+618257,"Hamarvegen 59F, Søre Ål",61.099511,10.476925
+618259,"Hamarvegen 59E, Søre Ål",61.099511,10.476925
+618260,"Hamarvegen 59D, Søre Ål",61.099511,10.476925
+618262,"Hamarvegen 59K, Søre Ål",61.099511,10.476925
+618264,"Hamarvegen 59J, Søre Ål",61.099511,10.476925
+618266,"Hamarvegen 59I, Søre Ål",61.099511,10.476925
+618268,"Hamarvegen 59H, Søre Ål",61.099511,10.476925
+618270,"Hamarvegen 59O, Søre Ål",61.099511,10.476925
+618272,"Hamarvegen 59N, Søre Ål",61.099511,10.476925
+618274,"Hamarvegen 59M, Søre Ål",61.099511,10.476925
+618276,"Hamarvegen 59L, Søre Ål",61.099511,10.476925
+618278,"Hamarvegen 59S, Søre Ål",61.099511,10.476925
+618280,"Hamarvegen 59R, Søre Ål",61.099511,10.476925
+618282,"Hamarvegen 59Q, Søre Ål",61.099511,10.476925
+618284,"Hamarvegen 59P, Søre Ål",61.099511,10.476925
+618288,"Hamarvegen 59V, Søre Ål",61.099511,10.476925
+618290,"Hamarvegen 59U, Søre Ål",61.099511,10.476925
+618292,"Hamarvegen 59T, Søre Ål",61.099511,10.476925
+618366,"Hagesletta 12, Søre Ål",61.100633,10.473749
+618546,"Hamarvegen 110G, Søre Ål",61.097247,10.473227
+618547,"Hamarvegen 110F, Søre Ål",61.097258,10.472891
+618552,"Hamarvegen 110I, Søre Ål",61.097196,10.473152
+618553,"Hamarvegen 110H, Søre Ål",61.097178,10.472922
+618554,"Gartnerløkka 1A, Søre Ål",61.098067,10.476248
+618555,"Gartnerløkka 1C, Søre Ål",61.098145,10.476268
+618556,"Gartnerløkka 1B, Søre Ål",61.098108,10.476156
+618559,"Gartnerløkka 2C, Søre Ål",61.09827,10.476335
+618560,"Gartnerløkka 2B, Søre Ål",61.098242,10.476217
+618561,"Gartnerløkka 2A, Søre Ål",61.098206,10.476307
+618562,"Gartnerløkka 1D, Søre Ål",61.098173,10.476161
+618563,"Gartnerløkka 3C, Søre Ål",61.098463,10.476215
+618564,"Gartnerløkka 3B, Søre Ål",61.098432,10.476117
+618565,"Gartnerløkka 3A, Søre Ål",61.098394,10.476213
+618566,"Gartnerløkka 2D, Søre Ål",61.098305,10.476212
+618567,"Gartnerløkka 4C, Søre Ål",61.098601,10.476277
+618568,"Gartnerløkka 4B, Søre Ål",61.09857,10.476179
+618569,"Gartnerløkka 4A, Søre Ål",61.098537,10.476276
+618570,"Gartnerløkka 3D, Søre Ål",61.098512,10.47613
+618571,"Gartnerløkka 7A, Søre Ål",61.098055,10.477242
+618572,"Gartnerløkka 6, Søre Ål",61.098572,10.476862
+618573,"Gartnerløkka 5, Søre Ål",61.098396,10.476772
+618574,"Gartnerløkka 4D, Søre Ål",61.098634,10.476184
+618575,"Gartnerløkka 8A, Søre Ål",61.098215,10.47731
+618576,"Gartnerløkka 7D, Søre Ål",61.098177,10.477162
+618577,"Gartnerløkka 7C, Søre Ål",61.098141,10.477268
+618578,"Gartnerløkka 7B, Søre Ål",61.098083,10.477137
+618579,"Gartnerløkka 9A, Søre Ål",61.098417,10.477462
+618580,"Gartnerløkka 8D, Søre Ål",61.098322,10.477212
+618581,"Gartnerløkka 8C, Søre Ål",61.098287,10.477324
+618582,"Gartnerløkka 8B, Søre Ål",61.098246,10.4772
+618584,"Gartnerløkka 10B, Søre Ål",61.098592,10.477544
+618585,"Gartnerløkka 10A, Søre Ål",61.098538,10.477527
+618586,"Gartnerløkka 9B, Søre Ål",61.098482,10.477452
+618643,"Holsjordet 47, Søre Ål",61.099658,10.481588
+618644,"Holsjordet 45, Søre Ål",61.099466,10.481931
+618645,"Holsjordet 43, Søre Ål",61.099257,10.482163
+618646,"Holsjordet 41, Søre Ål",61.099011,10.482485
+618647,"Christen Andersens veg 2, Søre Ål",61.099867,10.477936
+618650,"Holsjordet 49, Søre Ål",61.099867,10.481356
+618651,"Christen Andersens veg 10, Søre Ål",61.099475,10.47776
+618652,"Christen Andersens veg 8, Søre Ål",61.099608,10.477937
+618653,"Christen Andersens veg 6, Søre Ål",61.099669,10.477937
+618654,"Christen Andersens veg 4, Søre Ål",61.099808,10.477944
+618656,"Christen Andersens veg 18, Søre Ål",61.099083,10.477734
+618657,"Christen Andersens veg 16, Søre Ål",61.099214,10.477743
+618658,"Christen Andersens veg 14, Søre Ål",61.099278,10.477746
+618659,"Christen Andersens veg 12, Søre Ål",61.099418,10.477745
+618660,"Holsjordet 11, Søre Ål",61.099845,10.478406
+618661,"Christen Andersens veg 24, Søre Ål",61.098827,10.477737
+618662,"Christen Andersens veg 22, Søre Ål",61.098895,10.47774
+618663,"Christen Andersens veg 20, Søre Ål",61.099032,10.477719
+618664,"Holsjordet 19, Søre Ål",61.099217,10.478395
+618665,"Holsjordet 17, Søre Ål",61.099397,10.478403
+618666,"Holsjordet 15, Søre Ål",61.099525,10.478395
+618667,"Holsjordet 13, Søre Ål",61.099683,10.4784
+618668,"Holsjordet 12, Søre Ål",61.099844,10.479037
+618669,"Holsjordet 25, Søre Ål",61.09877,10.478263
+618670,"Holsjordet 23, Søre Ål",61.098921,10.478344
+618671,"Holsjordet 21, Søre Ål",61.099073,10.478407
+618672,"Holsjordet 20, Søre Ål",61.099571,10.47903
+618673,"Holsjordet 18, Søre Ål",61.099636,10.479025
+618674,"Holsjordet 16, Søre Ål",61.099733,10.479027
+618675,"Holsjordet 14, Søre Ål",61.099772,10.479024
+618676,"Holsjordet 28, Søre Ål",61.099233,10.479244
+618677,"Holsjordet 26, Søre Ål",61.099307,10.479235
+618678,"Holsjordet 24, Søre Ål",61.099348,10.479235
+618679,"Holsjordet 22, Søre Ål",61.099514,10.479034
+618680,"Holsjordet 31, Søre Ål",61.098875,10.480141
+618681,"Holsjordet 29, Søre Ål",61.098824,10.479805
+618682,"Holsjordet 27, Søre Ål",61.098758,10.479338
+618683,"Holsjordet 30, Søre Ål",61.099166,10.479241
+618684,"Holsjordet 39, Søre Ål",61.098984,10.481649
+618685,"Holsjordet 37, Søre Ål",61.09897,10.48124
+618686,"Holsjordet 35, Søre Ål",61.09892,10.480886
+618687,"Holsjordet 33, Søre Ål",61.098915,10.480514
+618688,"Holsjordet 40, Søre Ål",61.099376,10.480934
+618689,"Holsjordet 38, Søre Ål",61.099308,10.480929
+618690,"Holsjordet 36, Søre Ål",61.099274,10.480549
+618691,"Holsjordet 32, Søre Ål",61.099253,10.480066
+618693,"Holsjordet 46, Søre Ål",61.099527,10.480934
+618694,"Holsjordet 44, Søre Ål",61.099487,10.480923
+618695,"Holsjordet 42, Søre Ål",61.099431,10.480928
+618707,"Holsjordet 67, Søre Ål",61.10056,10.479959
+618708,"Holsjordet 69, Søre Ål",61.10047,10.479954
+618709,"Holsjordet 79, Søre Ål",61.1005,10.479823
+618718,"Holsjordet 81, Søre Ål",61.10058,10.479821
+618890,"Bekkefaret 1A, Lillehammer",61.105558,10.467559
+618903,"Holsjordet 48A, Søre Ål",61.099772,10.480542
+618906,"Hamarvegen 118, Søre Ål",61.095133,10.469988
+618907,"Holsjordet 50A, Søre Ål",61.099747,10.479912
+618908,"Holsjordet 48D, Søre Ål",61.099867,10.480404
+618909,"Holsjordet 48C, Søre Ål",61.099747,10.480405
+618910,"Holsjordet 48B, Søre Ål",61.099839,10.480527
+618911,"Hagevegen 15A, Søre Ål",61.09935,10.472836
+618912,"Holsjordet 50D, Søre Ål",61.099839,10.479782
+618914,"Holsjordet 50C, Søre Ål",61.099719,10.479783
+618915,"Holsjordet 50B, Søre Ål",61.09981,10.479926
+618922,"Hagevegen 15B, Søre Ål",61.099198,10.473534
+618925,"Holsjordet 87, Søre Ål",61.101167,10.479877
+618927,"Holsjordet 89, Søre Ål",61.101278,10.479604
+618933,"Holsjordet 83, Søre Ål",61.100895,10.480162
+618934,"Holsjordet 85, Søre Ål",61.101049,10.480057
+618991,"Holsjordet 76, Søre Ål",61.100436,10.479398
+618992,"Holsjordet 78, Søre Ål",61.100581,10.479312
+618993,"Holsjordet 80, Søre Ål",61.100725,10.4793
+618999,"Suttestadvegen 8B, Lillehammer",61.104822,10.469157
+619006,"Breisethvegen 2A, Lillehammer",61.107333,10.472762
+619019,"Suttestadvegen 8A, Lillehammer",61.104926,10.469552
+619036,"Holsjordet 82, Søre Ål",61.100902,10.478715
+619037,"Holsjordet 84, Søre Ål",61.101019,10.478683
+619038,"Holsjordet 86, Søre Ål",61.101154,10.478671
+619039,"Holsjordet 88, Søre Ål",61.101278,10.478751
+619107,"Holsjordet 51, Søre Ål",61.100103,10.481163
+619108,"Holsjordet 61, Søre Ål",61.100694,10.480446
+619120,"Holsjordet 59, Søre Ål",61.100614,10.480488
+619122,"Hagevegen 3B, Søre Ål",61.101513,10.473753
+619135,"Holsjordet 71, Søre Ål",61.10033,10.479952
+619136,"Holsjordet 73, Søre Ål",61.100264,10.479955
+619138,"Holsjordet 75, Søre Ål",61.100242,10.479842
+619140,"Holsjordet 77, Søre Ål",61.100346,10.479833
+619181,"Holsjordet 53, Søre Ål",61.100282,10.480957
+619182,"Holsjordet 63, Søre Ål",61.100102,10.48044
+619183,"Holsjordet 65, Søre Ål",61.100237,10.480372
+619184,"Holsjordet 57, Søre Ål",61.100512,10.480682
+619524,"Breisethvegen 24, Lillehammer",61.104072,10.476228
+619564,"Hagehaugvegen 5, Søre Ål",61.097808,10.47666
+619572,"Holtevegen 7A, Søre Ål",61.102852,10.478509
+619587,"Holsjordet 68, Søre Ål",61.10025,10.478878
+619588,"Holsjordet 66, Søre Ål",61.100349,10.478577
+619590,"Holsjordet 64, Søre Ål",61.100266,10.478537
+619591,"Holsjordet 62, Søre Ål",61.10015,10.478572
+619593,"Holsjordet 74, Søre Ål",61.100294,10.479096
+619594,"Holsjordet 72, Søre Ål",61.100206,10.478978
+619595,"Holsjordet 70, Søre Ål",61.100328,10.478973
+619600,"Holsjordet 60, Søre Ål",61.100317,10.478468
+619601,"Holsjordet 58, Søre Ål",61.100215,10.478466
+619602,"Holsjordet 56, Søre Ål",61.100112,10.478479
+620467,"Frødingfaret 5, Lillehammer",61.106014,10.465205
+620468,"Frødingfaret 6, Lillehammer",61.105737,10.465934
+620470,"Frødingfaret 1, Lillehammer",61.106382,10.466249
+620471,"Frødingfaret 3, Lillehammer",61.106302,10.466314
+620472,"Frødingfaret 4, Lillehammer",61.106051,10.466004
+620694,"Hamarvegen 111A, Søre Ål",61.096511,10.477007
+620695,"Hamarvegen 111B, Søre Ål",61.096545,10.477232
+620731,"Suttestadvegen 8C, Lillehammer",61.105086,10.469671
+620745,"Breisethvegen 2C, Lillehammer",61.107227,10.473407
+620746,"Breisethvegen 2B, Lillehammer",61.107412,10.47297
+620817,"Elverhøivegen 6, Søre Ål",61.101658,10.47196
+620831,"Frødingfaret 7, Lillehammer",61.105754,10.465211
+620832,"Frødingfaret 8, Lillehammer",61.105418,10.465511
+620881,"Hagevegen 13D, Søre Ål",61.095759,10.466901
+620882,"Hagevegen 13E, Søre Ål",61.094939,10.466418
+620884,"Hagevegen 7, Søre Ål",61.101169,10.470639
+621052,"Hagesletta 2A, Søre Ål",61.101179,10.474513
+621059,"Hagesletta 2B, Søre Ål",61.101099,10.474551
+621060,"Hagesletta 2C, Søre Ål",61.101045,10.474606
+621076,"Holsjordet 55, Søre Ål",61.100366,10.48086
+621136,"Holtevegen 5A, Søre Ål",61.103212,10.478452
+621144,"Holtevegen 5B, Søre Ål",61.103075,10.478649
+621171,"Holtevegen 12, Søre Ål",61.102519,10.481155
+621361,"Erik Vullums veg 9A, Lillehammer",61.104784,10.475919
+621366,"Erik Vullums veg 9B, Lillehammer",61.104727,10.475692
+621367,"Hagevegen 9A, Søre Ål",61.100991,10.469722
+621368,"Hagevegen 9B, Søre Ål",61.100609,10.469351
+621438,"Rolf Lundes veg 7, Søre Ål",61.10291,10.479773
+621532,"Hamarvegen 61, Søre Ål",61.099108,10.47609
+621537,"Solheimsvegen 23, Søre Ål",61.097357,10.476008
+621554,"Solheimsvegen 9, Søre Ål",61.096771,10.476222
+621555,"Solheimsvegen 11, Søre Ål",61.0967,10.4762
+621556,"Solheimsvegen 13, Søre Ål",61.096686,10.476663
+621557,"Solheimsvegen 15, Søre Ål",61.096767,10.476667
+621560,"Solheimsvegen 5, Søre Ål",61.096971,10.476009
+621561,"Solheimsvegen 7, Søre Ål",61.096899,10.476061
+621566,"Solheimsvegen 17, Søre Ål",61.096929,10.476619
+621567,"Solheimsvegen 19, Søre Ål",61.096992,10.476548
+621570,"Solheimsvegen 3D, Søre Ål",61.097087,10.475638
+621571,"Solheimsvegen 3E, Søre Ål",61.097156,10.47565
+621572,"Solheimsvegen 10, Søre Ål",61.097673,10.476691
+621573,"Solheimsvegen 12, Søre Ål",61.097557,10.477427
+621574,"Solheimsvegen 1, Søre Ål",61.097212,10.475352
+621575,"Solheimsvegen 3A, Søre Ål",61.097126,10.47569
+621576,"Solheimsvegen 3B, Søre Ål",61.097106,10.475683
+621577,"Solheimsvegen 3C, Søre Ål",61.097221,10.475668
+621578,"Solheimsvegen 22, Søre Ål",61.097161,10.477594
+621579,"Solheimsvegen 26, Søre Ål",61.096895,10.477248
+621582,"Solheimsvegen 14, Søre Ål",61.097482,10.476979
+621583,"Solheimsvegen 16, Søre Ål",61.097449,10.476662
+621584,"Solheimsvegen 18, Søre Ål",61.097276,10.476932
+621585,"Solheimsvegen 20, Søre Ål",61.097342,10.477436
+621607,"Hamarvegen 133, Søre Ål",61.093418,10.475825
+621766,"Hagevegen 2D, Søre Ål",61.100966,10.472002
+621775,"Hagevegen 2C, Søre Ål",61.100784,10.472198
+621776,"Hagevegen 2B, Søre Ål",61.100896,10.47263
+621777,"Hagevegen 2A, Søre Ål",61.100982,10.473042
+621797,"Markvegen 8A, Søre Ål",61.097144,10.481526
+621798,"Markvegen 8B, Søre Ål",61.097144,10.481526
+621831,"Solheimsvegen 3F, Søre Ål",61.0972,10.47567
+621901,"Rudolf Thygesens veg 6A, Søre Ål",61.102637,10.481801
+621903,"Rudolf Thygesens veg 6B, Søre Ål",61.1026,10.481892
+621994,"Langsethgutua 18, Lillehammer",61.104642,10.481506
+622070,"Erik Vullums veg 7A, Lillehammer",61.10491,10.475826
+622072,"Erik Vullums veg 7B, Lillehammer",61.104885,10.475723
+1299915,"Th. Engers veg 4A, Søre Ål",61.097513,10.479252
+1374789,"Weidemanns gate 19, Lillehammer",61.104744,10.469885
+1699887,"Suttestadvegen 9B, Lillehammer",61.105832,10.469029
+1699888,"Suttestadvegen 9C, Lillehammer",61.105758,10.468611
+1699889,"Suttestadvegen 9E, Lillehammer",61.105509,10.468697
+1699890,"Suttestadvegen 9D, Lillehammer",61.10545,10.468399
+1699891,"Suttestadvegen 9A, Lillehammer",61.105636,10.469117
+1732828,"Solbakken 9, Søre Ål",61.098226,10.483962
+1737014,"Hamarvegen 85B, Søre Ål",61.098346,10.474921
+1757513,"Årettavegen 17A, Lillehammer",61.103091,10.469666
+1760014,"Solbakken 11, Søre Ål",61.098421,10.484493
+1760016,"Solbakken 13, Søre Ål",61.098345,10.484493
+1763939,"Hamarvegen 68A, Søre Ål",61.100586,10.474856
+1854962,"Hagevegen 13F, Søre Ål",61.098506,10.470367
+1880647,"Hamarvegen 110J, Søre Ål",61.096858,10.47381
+1949299,"Hagehaugvegen 3A, Søre Ål",61.097799,10.475799
+1950951,"Hagehaugvegen 3I, Søre Ål",61.097752,10.476076
+1950953,"Hagehaugvegen 3E, Søre Ål",61.0977,10.476059
+1950954,"Hagehaugvegen 3F, Søre Ål",61.097726,10.47583
+1950955,"Hagehaugvegen 3G, Søre Ål",61.097738,10.475908
+1950960,"Hagehaugvegen 3H, Søre Ål",61.097743,10.475992
+1950961,"Hagehaugvegen 3B, Søre Ål",61.097806,10.475885
+1950962,"Hagehaugvegen 3C, Søre Ål",61.09781,10.475972
+1950963,"Hagehaugvegen 3D, Søre Ål",61.097814,10.476047
+1951277,"Hagehaugvegen 3J, Søre Ål",61.097634,10.476042
+1951484,"Kløvervegen 3A, Lillehammer",61.104257,10.474066
+1978921,"Suttestadvegen 11A, Lillehammer",61.105234,10.468643
+1986732,"Apalvegen 4, Lillehammer",61.107859,10.473597
+1991174,"Skogvegen 2A, Søre Ål",61.096609,10.479021
+1991175,"Skogvegen 2B, Søre Ål",61.096627,10.479137
+2000237,"Hamarvegen 36A, Lillehammer",61.103029,10.476234
+2000238,"Hamarvegen 36B, Lillehammer",61.103135,10.476563
+2004991,"Hagehaugvegen 12B, Søre Ål",61.09814,10.479065
+2028322,"Erik Vullums veg 10, Lillehammer",61.105504,10.475161
+2029058,"Årettavegen 21B, Lillehammer",61.10339,10.473616
+2048537,"Weidemanns gate 3C, Lillehammer",61.107344,10.467201
+2056793,"Markvegen 6B, Søre Ål",61.097543,10.48191
+2082580,"Dampsaglia 27, Lillehammer",61.10406,10.463661
+2097632,"Hagehaugvegen 26B, Søre Ål",61.0987,10.481702
+2103609,"Hagehaugvegen 7B, Søre Ål",61.097736,10.477491
+2103990,"Breisethvegen 6A, Lillehammer",61.106728,10.473884
+2103991,"Breisethvegen 6C, Lillehammer",61.106634,10.474251
+2228179,"Dampsaglia 23, Lillehammer",61.103755,10.464134
+2256004,"Weidemanns gate 27D, Lillehammer",61.104576,10.472017
+2256005,"Weidemanns gate 25F, Lillehammer",61.104414,10.471297
+2256006,"Suttestadvegen 12C, Lillehammer",61.104394,10.470107
+2256007,"Suttestadvegen 12B, Lillehammer",61.104355,10.470085
+2256008,"Suttestadvegen 17, Lillehammer",61.103807,10.467727
+2256021,"Weidemanns gate 25A, Lillehammer",61.10463,10.471399
+2256044,"Weidemanns gate 27B, Lillehammer",61.104587,10.471845
+2256045,"Weidemanns gate 25E, Lillehammer",61.104453,10.471325
+2256047,"Weidemanns gate 23A, Lillehammer",61.104571,10.470787
+2256048,"Weidemanns gate 23C, Lillehammer",61.104489,10.470737
+2256049,"Weidemanns gate 23B, Lillehammer",61.104527,10.47076
+2256050,"Suttestadvegen 12E, Lillehammer",61.104478,10.470157
+2256051,"Suttestadvegen 12D, Lillehammer",61.104439,10.470135
+2256052,"Suttestadvegen 12A, Lillehammer",61.104312,10.470062
+2256069,"Weidemanns gate 27A, Lillehammer",61.104606,10.471724
+2256070,"Weidemanns gate 25C, Lillehammer",61.104546,10.471345
+2256071,"Weidemanns gate 25B, Lillehammer",61.104586,10.471369
+2256073,"Weidemanns gate 25H, Lillehammer",61.104323,10.471239
+2256074,"Weidemanns gate 25D, Lillehammer",61.104504,10.471317
+2256076,"Weidemanns gate 23D, Lillehammer",61.104445,10.47071
+2256077,"Weidemanns gate 23F, Lillehammer",61.104362,10.470663
+2256104,"Weidemanns gate 27C, Lillehammer",61.10458,10.471892
+2256105,"Weidemanns gate 25G, Lillehammer",61.104373,10.471273
+2256106,"Weidemanns gate 23E, Lillehammer",61.104407,10.470687
+2256107,"Årettavegen 17B, Lillehammer",61.103023,10.469662
+2329177,"Tvethes gate 4B, Lillehammer",61.107951,10.469134
+2381339,"Roavegen 8A, Lillehammer",61.104954,10.478707
+2381340,"Roavegen 8B, Lillehammer",61.10488,10.478905
+2383349,"Henrik Sørensens veg 3A, Søre Ål",61.103785,10.482052
+2383350,"Henrik Sørensens veg 3B, Søre Ål",61.103834,10.48234
+2474994,"Hagehaugvegen 6B, Søre Ål",61.098381,10.475217
+2474995,"Hagehaugvegen 6C, Søre Ål",61.098379,10.475755
+2475165,"Hamarvegen 75, Søre Ål",61.099078,10.474535
+2476152,"Hagehaugvegen 6A, Søre Ål",61.098401,10.475215

@@ -1,0 +1,593 @@
+,Navn,Long,Lat
+798588,"Eikhaugen 40, Tangen og Strømsø",59.699542,10.252548
+798590,"Eikhaugen 44, Tangen og Strømsø",59.699304,10.252148
+798591,"Eikhaugen 48, Tangen og Strømsø",59.699025,10.251232
+798592,"Eikhaugen 50, Tangen og Strømsø",59.698933,10.251442
+798593,"Eikhaugen 52, Tangen og Strømsø",59.698639,10.251217
+798594,"Eikhaugen 54, Tangen og Strømsø",59.698832,10.250816
+798595,"Eikhaugen 56, Tangen og Strømsø",59.699022,10.250592
+798596,"Eikhaugen 58, Tangen og Strømsø",59.698293,10.250813
+798597,"Eikhaugen 59A, Tangen og Strømsø",59.697797,10.25099
+798598,"Eikhaugen 59B, Tangen og Strømsø",59.697613,10.251499
+798599,"Eikhaugen 59C, Tangen og Strømsø",59.697275,10.25209
+798600,"Eikhaugen 65A, Tangen og Strømsø",59.697632,10.25038
+798601,"Eikhaugen 66, Tangen og Strømsø",59.698096,10.249811
+798731,"Kobbervikdalen 64, Skoger",59.709125,10.236447
+798732,"Kobbervikdalen 64A, Skoger",59.708854,10.235673
+798733,"Kobbervikdalen 64B, Skoger",59.709154,10.235257
+798734,"Kobbervikdalen 66, Skoger",59.708838,10.236365
+798735,"Kobbervikdalen 67, Skoger",59.708251,10.238672
+798736,"Kobbervikdalen 68, Skoger",59.708495,10.23653
+798737,"Kobbervikdalen 69, Skoger",59.707526,10.239285
+798743,"Kobbervikdalen 48, Skoger",59.71096,10.234222
+798744,"Kobbervikdalen 48A, Skoger",59.710725,10.234355
+798745,"Kobbervikdalen 48B, Skoger",59.710479,10.233831
+798746,"Kobbervikdalen 48C, Skoger",59.710464,10.234434
+798747,"Kobbervikdalen 48D, Skoger",59.710648,10.234886
+798748,"Kobbervikdalen 54, Skoger",59.710598,10.23547
+798749,"Kobbervikdalen 58, Skoger",59.709786,10.234854
+798790,"Lerpeveien 5, Tangen og Strømsø",59.701593,10.25792
+798791,"Lerpeveien 19, Tangen og Strømsø",59.70051,10.258413
+798792,"Kniveveien 25, Tangen og Strømsø",59.700385,10.260267
+799093,"Trillingen 6, Skoger",59.69725,10.243312
+799094,"Trillingen 10, Skoger",59.697238,10.242707
+799095,"Trillingen 12, Skoger",59.696904,10.24289
+799096,"Trillingen 13, Skoger",59.69649,10.243959
+799097,"Trillingen 14, Skoger",59.696721,10.243221
+799098,"Trillingen 16, Skoger",59.696517,10.243018
+799203,"Kobbervikdalen 117C, Skoger",59.700749,10.243761
+799259,"Kobbervikdalen 46B, Skoger",59.711127,10.233606
+799317,"Lindumveien 48B, Skoger",59.687752,10.25614
+799338,"Eikringen 13, Tangen og Strømsø",59.699983,10.251552
+799339,"Eikringen 19, Tangen og Strømsø",59.700843,10.25082
+799358,"Eikhaugen 49, Tangen og Strømsø",59.697827,10.251667
+799370,"Lerpeveien 99E, Skoger",59.697053,10.275127
+799371,"Einar Haflans vei 29, Tangen og Strømsø",59.697461,10.265477
+799372,"Einar Haflans vei 31, Tangen og Strømsø",59.697447,10.265992
+799373,"Einar Haflans vei 33, Tangen og Strømsø",59.697532,10.26651
+799374,"Einar Haflans vei 60, Tangen og Strømsø",59.697177,10.265093
+799375,"Einar Haflans vei 58, Tangen og Strømsø",59.696887,10.265402
+799410,"Einar Haflans vei 5, Tangen og Strømsø",59.698622,10.265073
+799411,"Ryums vei 58, Tangen og Strømsø",59.699363,10.272033
+799412,"Einar Haflans vei 72B, Tangen og Strømsø",59.697101,10.268324
+799413,"Einar Haflans vei 74, Tangen og Strømsø",59.697249,10.268845
+799414,"Einar Haflans vei 76, Tangen og Strømsø",59.697442,10.269261
+799415,"Einar Haflans vei 19, Tangen og Strømsø",59.697655,10.264845
+799416,"Einar Haflans vei 21, Tangen og Strømsø",59.698246,10.265045
+799417,"Einar Haflans vei 23, Tangen og Strømsø",59.698076,10.265873
+799418,"Einar Haflans vei 25, Tangen og Strømsø",59.697849,10.266167
+799419,"Einar Haflans vei 27, Tangen og Strømsø",59.697666,10.265591
+799420,"Einar Haflans vei 35, Tangen og Strømsø",59.697725,10.266962
+799421,"Hans Bergs vei 12, Skoger",59.695864,10.244646
+799446,"Gulliksrudveien 2, Skoger",59.686174,10.252173
+799475,"Bjørkelunden 4, Tangen og Strømsø",59.700857,10.265955
+799476,"Bjørkelunden 6, Tangen og Strømsø",59.700985,10.265805
+799477,"Bjørkelunden 8, Tangen og Strømsø",59.701101,10.266094
+799478,"Bjørkelunden 10, Tangen og Strømsø",59.701336,10.266814
+799479,"Bjørkelunden 12, Tangen og Strømsø",59.701359,10.267277
+799480,"Bjørkelunden 14, Tangen og Strømsø",59.701495,10.267104
+799481,"Bjørkelunden 16, Tangen og Strømsø",59.701623,10.26686
+799482,"Bjørkelunden 18, Tangen og Strømsø",59.701492,10.266535
+799510,"Kniveåsen terrasse 23, Tangen og Strømsø",59.701834,10.273955
+799513,"Kniveåsen terrasse 19, Tangen og Strømsø",59.701763,10.272854
+799514,"Kniveåsen terrasse 32, Tangen og Strømsø",59.701298,10.273782
+799515,"Kniveåsen terrasse 34, Tangen og Strømsø",59.701194,10.273206
+799516,"Kniveåsen terrasse 44, Tangen og Strømsø",59.700433,10.27204
+799517,"Kniveåsen terrasse 42, Tangen og Strømsø",59.700639,10.272047
+799518,"Kniveåsen terrasse 40, Tangen og Strømsø",59.700864,10.271967
+799519,"Kniveåsen terrasse 38, Tangen og Strømsø",59.701104,10.272314
+799520,"Kniveåsen terrasse 16, Tangen og Strømsø",59.701217,10.272658
+799521,"Kniveåsen terrasse 67, Tangen og Strømsø",59.700323,10.272826
+799522,"Kniveåsen terrasse 65, Tangen og Strømsø",59.700632,10.272776
+799523,"Kniveåsen terrasse 63, Tangen og Strømsø",59.700866,10.272767
+799524,"Kniveåsen terrasse 61, Tangen og Strømsø",59.700879,10.273247
+799525,"Kniveåsen terrasse 59, Tangen og Strømsø",59.700798,10.273731
+799526,"Kniveåsen terrasse 55, Tangen og Strømsø",59.700981,10.274726
+799527,"Kniveåsen terrasse 29, Tangen og Strømsø",59.701595,10.275345
+799528,"Kniveåsen terrasse 31A, Tangen og Strømsø",59.701382,10.275836
+799529,"Kniveveien 72, Tangen og Strømsø",59.702087,10.273712
+799530,"Kniveåsen terrasse 8, Tangen og Strømsø",59.701443,10.270237
+799531,"Kniveåsen terrasse 12, Tangen og Strømsø",59.70079,10.271419
+799532,"Kniveåsen terrasse 18, Tangen og Strømsø",59.701415,10.273228
+799533,"Kniveåsen terrasse 20, Tangen og Strømsø",59.701527,10.273776
+799534,"Kniveåsen terrasse 3, Tangen og Strømsø",59.701858,10.272311
+799535,"Kniveåsen terrasse 15, Tangen og Strømsø",59.701659,10.271862
+799536,"Kniveåsen terrasse 7, Tangen og Strømsø",59.701591,10.271394
+799537,"Kniveåsen terrasse 9, Tangen og Strømsø",59.701466,10.271013
+799538,"Kniveåsen terrasse 11, Tangen og Strømsø",59.701264,10.271181
+799540,"Kniveåsen terrasse 13, Tangen og Strømsø",59.701305,10.271632
+799541,"Kniveåsen terrasse 15B, Tangen og Strømsø",59.701404,10.271917
+799542,"Kniveåsen terrasse 17, Tangen og Strømsø",59.701614,10.272422
+799543,"Leirelva 8T, Tangen og Strømsø",59.722547,10.229243
+799544,"Leirelva 6T, Tangen og Strømsø",59.723475,10.228868
+799553,"Kniveveien 29, Tangen og Strømsø",59.700637,10.261136
+799554,"Kniveveien 31, Tangen og Strømsø",59.700609,10.262184
+799555,"Kniveveien 60, Tangen og Strømsø",59.701658,10.269872
+799556,"Kniveveien 62, Tangen og Strømsø",59.701735,10.270406
+799557,"Kniveveien 64, Tangen og Strømsø",59.70189,10.270815
+1722534,"Dråpen 12, Skoger",59.692134,10.24365
+1738889,"Gråterudstubben 8, Tangen og Strømsø",59.700065,10.247962
+1783611,"Kniveveien 21, Tangen og Strømsø",59.700524,10.259352
+1783612,"Kniveveien 23, Tangen og Strømsø",59.700766,10.260431
+1890372,"Holmestrandsveien 132, Tangen og Strømsø",59.719477,10.231216
+1917009,"Dansrudveien 75, Tangen og Strømsø",59.710556,10.238412
+1951848,"Kniveåsen terrasse 10, Tangen og Strømsø",59.701034,10.27082
+1979646,"Einar Haflans vei 14B, Tangen og Strømsø",59.699011,10.263648
+1979647,"Einar Haflans vei 14A, Tangen og Strømsø",59.698982,10.263676
+1979681,"Einar Haflans vei 8B, Tangen og Strømsø",59.699153,10.26434
+1979755,"Einar Haflans vei 2B, Tangen og Strømsø",59.699584,10.26523
+1988348,"Kobbervikdalen 116B, Skoger",59.699817,10.242337
+2001901,"Kobbervikdalen 151, Skoger",59.696465,10.245964
+2002402,"Dansrudveien 46, Skoger",59.713041,10.235276
+2007002,"Kniveveien 98, Tangen og Strømsø",59.701175,10.277397
+2007003,"Kniveveien 94, Tangen og Strømsø",59.701484,10.27687
+2007004,"Kniveveien 96, Tangen og Strømsø",59.701366,10.277157
+2007036,"Kniveveien 91, Tangen og Strømsø",59.702225,10.275883
+2035986,"Dansrudveien 40, Skoger",59.713479,10.23537
+2044101,"Lerpeveien 93, Tangen og Strømsø",59.695012,10.269196
+2064053,"Gråterudstubben 1, Tangen og Strømsø",59.699048,10.247935
+2066885,"Gulliksrudveien 3, Skoger",59.685482,10.252418
+2088525,"Kobbervikdalen 159, Skoger",59.69508,10.247629
+2088817,"Kobbervikdalen 157, Skoger",59.695608,10.247483
+2088818,"Kobbervikdalen 153, Skoger",59.696892,10.246613
+2096108,"Dråpen 30, Skoger",59.687756,10.24128
+2100603,"Lindumveien 20A, Skoger",59.687858,10.254071
+2102823,"Gråterudstubben 6, Tangen og Strømsø",59.699872,10.249062
+2105451,"Lindumveien 20B, Skoger",59.687798,10.254037
+2105452,"Lindumveien 20C, Skoger",59.687905,10.253988
+2105453,"Holmestrandsveien 96, Tangen og Strømsø",59.722388,10.230464
+2108528,"Kniveveien 100B, Tangen og Strømsø",59.701072,10.277843
+2110756,"Eikhaugen 33A, Tangen og Strømsø",59.698037,10.252748
+2110801,"Eikhaugen 33B, Tangen og Strømsø",59.698107,10.252804
+2187697,"Hans Bergs vei 18, Skoger",59.695999,10.244039
+2189233,"Kobbervikdalen 118, Skoger",59.699232,10.242227
+2189969,"Kniveåsen terrasse 31B, Tangen og Strømsø",59.701254,10.276137
+2190006,"Kniveåsen terrasse 33, Tangen og Strømsø",59.701122,10.276471
+2210783,"Eikhaugen 18, Tangen og Strømsø",59.701073,10.254933
+2210784,"Eikhaugen 22, Tangen og Strømsø",59.7008,10.254408
+2210785,"Eikhaugen 34, Tangen og Strømsø",59.699995,10.25308
+2210786,"Eikhaugen 36, Tangen og Strømsø",59.699782,10.252895
+2211230,"E18 65, Tangen og Strømsø",59.703503,10.244041
+2211231,"E18 67, Tangen og Strømsø",59.702518,10.244662
+2211232,"E18 67B, Tangen og Strømsø",59.702545,10.245659
+2211287,"Fagerheimsletta 6, Skoger",59.68482,10.253757
+2211288,"Fagerheimsletta 23, Skoger",59.683858,10.260506
+2211289,"Fagerheimsletta 25, Skoger",59.683849,10.26047
+2211290,"Fagerheimsletta 27, Skoger",59.684194,10.26098
+2211291,"Fagerheimsletta 69, Skoger",59.682404,10.262245
+2211292,"Fagerheimsletta 71, Skoger",59.682328,10.262668
+2212178,"Gråterudveien 45, Tangen og Strømsø",59.698097,10.248763
+2212179,"Gulliksrudveien 5, Skoger",59.685745,10.251891
+2212180,"Gulliksrudveien 12, Skoger",59.686338,10.250048
+2212194,"Gråterudveien 1, Tangen og Strømsø",59.697863,10.24783
+2212195,"Gråterudveien 2, Tangen og Strømsø",59.697404,10.249821
+2212196,"Gråterudveien 5, Tangen og Strømsø",59.698403,10.247744
+2212197,"Gråterudveien 6, Tangen og Strømsø",59.696869,10.250334
+2212198,"Gråterudveien 7, Tangen og Strømsø",59.69839,10.247157
+2212199,"Gråterudveien 8, Tangen og Strømsø",59.696815,10.251327
+2212200,"Gråterudveien 15, Tangen og Strømsø",59.699003,10.246966
+2212201,"Gråterudveien 19, Tangen og Strømsø",59.700351,10.245879
+2212202,"Gråterudveien 20, Tangen og Strømsø",59.696906,10.249287
+2212203,"Gråterudveien 21, Tangen og Strømsø",59.700053,10.246081
+2212204,"Gråterudveien 26, Tangen og Strømsø",59.697191,10.248569
+2212205,"Gråterudstubben 2, Tangen og Strømsø",59.699247,10.248646
+2212206,"Gråterudveien 39, Tangen og Strømsø",59.698627,10.248729
+2212430,"Hans Bergs vei 24A, Skoger",59.695317,10.244502
+2212431,"Hans Bergs vei 24B, Skoger",59.695352,10.244627
+2212452,"Hans Bergs vei 10A, Skoger",59.695654,10.244941
+2212453,"Hans Bergs vei 10B, Skoger",59.695637,10.244833
+2212454,"Hans Bergs vei 14A, Skoger",59.696034,10.244635
+2212455,"Hans Bergs vei 14B, Skoger",59.696045,10.244458
+2212456,"Hans Bergs vei 16A, Skoger",59.696234,10.244447
+2212457,"Hans Bergs vei 16B, Skoger",59.69619,10.244339
+2212458,"Hans Bergs vei 20A, Skoger",59.695734,10.244126
+2212459,"Hans Bergs vei 20B, Skoger",59.695778,10.244252
+2212460,"Hans Bergs vei 22, Skoger",59.695576,10.244341
+2212954,"Holmestrandsveien 94, Tangen og Strømsø",59.722621,10.230846
+2212955,"Holmestrandsveien 98, Tangen og Strømsø",59.722172,10.230847
+2212956,"Holmestrandsveien 106, Tangen og Strømsø",59.721144,10.231325
+2212957,"Holmestrandsveien 116, Tangen og Strømsø",59.720613,10.231412
+2212958,"Holmestrandsveien 130B, Tangen og Strømsø",59.719821,10.230707
+2212959,"Holmestrandsveien 130E, Tangen og Strømsø",59.720865,10.230479
+2212967,"Holmestrandsveien 72, Tangen og Strømsø",59.724364,10.2289
+2212968,"Holmestrandsveien 75, Tangen og Strømsø",59.724506,10.230951
+2213424,"Kobbervikdalen 58A, Skoger",59.709534,10.234987
+2213425,"Kobbervikdalen 60, Skoger",59.709806,10.235637
+2213426,"Kobbervikdalen 62, Skoger",59.709597,10.235931
+2213427,"Kobbervikdalen 63, Skoger",59.708471,10.238182
+2213765,"Lerpeveien 91, Tangen og Strømsø",59.694935,10.268473
+2213766,"Lerpeveien 99B, Skoger",59.696766,10.274193
+2213767,"Lerpeveien 99C, Skoger",59.6971,10.275858
+2213768,"Lerpeveien 99D, Skoger",59.696911,10.275904
+2213769,"Lerpeveien 108, Skoger",59.694142,10.266951
+2213770,"Lerpeveien 136, Skoger",59.690224,10.26714
+2213771,"Lerpeveien 176, Skoger",59.689574,10.268413
+2213772,"Lerpeveien 192, Skoger",59.687357,10.268293
+2213773,"Lerpeveien 196, Skoger",59.686844,10.268451
+2213774,"Lerpeveien 222, Skoger",59.68473,10.265068
+2213775,"Lerpeveien 232, Skoger",59.683732,10.264231
+2213778,"Lerpeveien 66, Skoger",59.697033,10.260468
+2213779,"Lerpeveien 155, Skoger",59.68834,10.270711
+2214073,"Kobbervikdalen 120, Skoger",59.698606,10.24242
+2214074,"Kobbervikdalen 122, Skoger",59.698282,10.242497
+2214075,"Kobbervikdalen 122A, Skoger",59.697993,10.242682
+2214076,"Kobbervikdalen 122B, Skoger",59.697733,10.242655
+2214077,"Kobbervikdalen 128, Skoger",59.697533,10.243855
+2214078,"Kobbervikdalen 138, Skoger",59.696482,10.24474
+2214079,"Kobbervikdalen 140, Skoger",59.69628,10.245213
+2214080,"Kobbervikdalen 142, Skoger",59.695922,10.246052
+2214081,"Kobbervikdalen 142A, Skoger",59.696078,10.245667
+2214082,"Kobbervikdalen 144, Skoger",59.695803,10.246332
+2214083,"Kobbervikdalen 145, Skoger",59.697721,10.245728
+2214088,"Kobbervikdalen 96A, Skoger",59.704586,10.239727
+2214089,"Kobbervikdalen 96B, Skoger",59.704842,10.239168
+2214090,"Kobbervikdalen 96C, Skoger",59.704382,10.239418
+2214091,"Kobbervikdalen 98, Skoger",59.703551,10.239956
+2214092,"Kobbervikdalen 100, Skoger",59.702847,10.240267
+2214093,"Kobbervikdalen 104, Skoger",59.701916,10.240926
+2214094,"Kobbervikdalen 106, Skoger",59.701763,10.240956
+2214095,"Kobbervikdalen 110, Skoger",59.701013,10.241479
+2214096,"Kobbervikdalen 112, Skoger",59.700616,10.241589
+2214097,"Kobbervikdalen 114, Skoger",59.700083,10.241978
+2214098,"Kobbervikdalen 115, Skoger",59.701391,10.24327
+2214099,"Kobbervikdalen 116, Skoger",59.699688,10.241998
+2214100,"Kobbervikdalen 117, Skoger",59.700233,10.244187
+2214101,"Kobbervikdalen 117B, Skoger",59.700262,10.242979
+2214102,"Kobbervikdalen 119, Skoger",59.699591,10.243647
+2214103,"Kobbervikdalen 70, Skoger",59.708233,10.236716
+2214104,"Kobbervikdalen 71, Skoger",59.707023,10.239391
+2214105,"Kobbervikdalen 75, Skoger",59.706038,10.239941
+2214106,"Kobbervikdalen 78, Skoger",59.706948,10.237735
+2214107,"Kobbervikdalen 80, Skoger",59.706635,10.237635
+2214108,"Kobbervikdalen 86, Skoger",59.706124,10.238469
+2214109,"Kobbervikdalen 88, Skoger",59.705636,10.23886
+2214110,"Kobbervikdalen 90, Skoger",59.70534,10.238742
+2214111,"Kobbervikdalen 91, Skoger",59.703631,10.241949
+2214112,"Kobbervikdalen 92, Skoger",59.704751,10.240267
+2214113,"Kobbervikdalen 93, Skoger",59.704083,10.241575
+2214114,"Kobbervikdalen 93B, Skoger",59.70457,10.241397
+2214115,"Kobbervikdalen 94, Skoger",59.704123,10.240226
+2214116,"Kobbervikdalen 95, Skoger",59.702747,10.242361
+2214117,"Kobbervikdalen 96, Skoger",59.703819,10.24009
+2214142,"Lerpeveien 66B, Skoger",59.696828,10.261206
+2214172,"Leirelva 6, Tangen og Strømsø",59.723113,10.229139
+2214173,"Leirelva 8, Tangen og Strømsø",59.722641,10.229709
+2214565,"Lindumveien 21, Skoger",59.68773,10.254754
+2214583,"Lindumveien 12, Skoger",59.688512,10.253717
+2214584,"Lindumveien 13, Skoger",59.688659,10.254327
+2214585,"Lindumveien 15, Skoger",59.688389,10.254388
+2214586,"Lindumveien 17, Skoger",59.688144,10.254574
+2214587,"Lindumveien 18, Skoger",59.687672,10.254166
+2214588,"Lindumveien 16, Skoger",59.688079,10.253914
+2214589,"Lindumveien 26, Skoger",59.687305,10.254045
+2214590,"Lindumveien 48, Skoger",59.687382,10.256375
+2214594,"Lindumveien 1, Skoger",59.689186,10.252748
+2214595,"Lindumveien 2, Skoger",59.688861,10.252895
+2214596,"Lindumveien 5, Skoger",59.689187,10.253565
+2214598,"Lindumveien 8, Skoger",59.688774,10.253585
+2214599,"Lindumveien 9, Skoger",59.688975,10.254108
+2217825,"Trillingen 22, Skoger",59.695772,10.242955
+2217826,"Trillingen 23, Skoger",59.695695,10.243503
+2217827,"Trillingen 24, Skoger",59.695493,10.243034
+2217828,"Trillingen 26, Skoger",59.695204,10.243147
+2217829,"Trillingen 28, Skoger",59.694934,10.243191
+2217830,"Trillingen 30, Skoger",59.69476,10.24361
+2217831,"Trillingen 32, Skoger",59.694483,10.243458
+2217832,"Trillingen 34, Skoger",59.694759,10.242775
+2217833,"Trillingen 36, Skoger",59.694335,10.242937
+2217834,"Trillingen 38, Skoger",59.694117,10.243196
+2217842,"Trillingen 2, Skoger",59.696788,10.243739
+2217843,"Trillingen 4, Skoger",59.696972,10.243527
+2217844,"Trillingen 17, Skoger",59.696294,10.243738
+2217845,"Trillingen 18, Skoger",59.696283,10.24301
+2217846,"Trillingen 19, Skoger",59.69599,10.243621
+2217847,"Trillingen 20, Skoger",59.696032,10.243
+2219063,"Dansrudveien 55, Tangen og Strømsø",59.711811,10.237513
+2219064,"Dansrudveien 65, Tangen og Strømsø",59.711275,10.237984
+2219336,"Lerpeveien 203B, Skoger",59.685884,10.268273
+2219339,"Lerpeveien 203A, Skoger",59.687561,10.270432
+2219376,"Fagerheimsletta 15, Skoger",59.683444,10.260544
+2219502,"Kobbervikdalen 59, Skoger",59.708944,10.237489
+2219504,"Kobbervikdalen 99, Skoger",59.701978,10.242919
+2219511,"Kobbervikdalen 65, Skoger",59.707928,10.237611
+2219554,"Lindumveien 14, Skoger",59.688296,10.253763
+2219570,"Kobbervikdalen 87, Skoger",59.704036,10.240898
+2219757,"Holmestrandsveien 68, Tangen og Strømsø",59.725138,10.228715
+2219764,"Kobbervikdalen 48E, Skoger",59.710809,10.234038
+2219850,"Kobbervikdalen 112B, Skoger",59.700399,10.241776
+2219863,"Kobbervikdalen 122C, Skoger",59.697656,10.243185
+2219864,"Kobbervikdalen 122D, Skoger",59.698006,10.24318
+2219878,"Kobbervikdalen 96D, Skoger",59.704075,10.239566
+2219883,"Kobbervikdalen 108, Skoger",59.701555,10.241072
+2219980,"Kobbervikdalen 68B, Skoger",59.70859,10.236018
+2219982,"Eikringen 9, Tangen og Strømsø",59.701415,10.252067
+2220020,"Kobbervikdalen 61, Skoger",59.708469,10.237471
+2220097,"Hans Bergs vei 2, Skoger",59.695687,10.245804
+2220210,"Eikringen 3, Tangen og Strømsø",59.701342,10.253131
+2220280,"Eikhaugen 51, Tangen og Strømsø",59.698009,10.251407
+2220283,"Eikringen 20, Tangen og Strømsø",59.701477,10.249315
+2220295,"Eikhaugen 31, Tangen og Strømsø",59.698108,10.253241
+2220302,"Einar Haflans vei 2A, Tangen og Strømsø",59.699542,10.265229
+2220303,"Einar Haflans vei 1, Tangen og Strømsø",59.699387,10.265941
+2220304,"Einar Haflans vei 3, Tangen og Strømsø",59.699121,10.26554
+2220306,"Einar Haflans vei 7, Tangen og Strømsø",59.698956,10.265048
+2220307,"Einar Haflans vei 9, Tangen og Strømsø",59.698852,10.264641
+2220308,"Einar Haflans vei 11, Tangen og Strømsø",59.698628,10.26443
+2220309,"Einar Haflans vei 13, Tangen og Strømsø",59.698386,10.264428
+2220310,"Einar Haflans vei 15, Tangen og Strømsø",59.698079,10.264701
+2220314,"Einar Haflans vei 17, Tangen og Strømsø",59.697801,10.26469
+2220315,"Eikhaugen 41, Tangen og Strømsø",59.697653,10.252904
+2220316,"Einar Haflans vei 30A, Tangen og Strømsø",59.696832,10.264494
+2220317,"Einar Haflans vei 30B, Tangen og Strømsø",59.696787,10.264581
+2220318,"Einar Haflans vei 26, Tangen og Strømsø",59.697318,10.264423
+2220321,"Einar Haflans vei 24, Tangen og Strømsø",59.697545,10.264147
+2220322,"Einar Haflans vei 22, Tangen og Strømsø",59.697762,10.263978
+2220323,"Einar Haflans vei 20, Tangen og Strømsø",59.698057,10.263911
+2220324,"Einar Haflans vei 18, Tangen og Strømsø",59.69832,10.263928
+2220325,"Einar Haflans vei 16, Tangen og Strømsø",59.69859,10.263885
+2220326,"Einar Haflans vei 6A, Tangen og Strømsø",59.699295,10.265049
+2220330,"Eikhaugen 17, Tangen og Strømsø",59.698772,10.252395
+2220332,"Eikhaugen 19, Tangen og Strømsø",59.69893,10.252703
+2220334,"Eikhaugen 21, Tangen og Strømsø",59.699125,10.252977
+2220342,"Eikhaugen 25, Tangen og Strømsø",59.698845,10.253197
+2220344,"Eikhaugen 27, Tangen og Strømsø",59.698605,10.252869
+2220346,"Eikhaugen 29, Tangen og Strømsø",59.698495,10.253166
+2220348,"Eikhaugen 35, Tangen og Strømsø",59.698082,10.252227
+2220350,"Eikhaugen 37, Tangen og Strømsø",59.697953,10.252507
+2220351,"Eikhaugen 39, Tangen og Strømsø",59.697807,10.25275
+2220353,"Eikhaugen 53, Tangen og Strømsø",59.698186,10.251662
+2220354,"Eikhaugen 43, Tangen og Strømsø",59.697305,10.25266
+2220355,"Eikhaugen 45, Tangen og Strømsø",59.697479,10.252311
+2220356,"Eikhaugen 47, Tangen og Strømsø",59.697671,10.251963
+2220372,"Eikhaugen 55, Tangen og Strømsø",59.698417,10.251902
+2220375,"Einar Haflans vei 64, Tangen og Strømsø",59.697149,10.26614
+2220376,"Einar Haflans vei 66, Tangen og Strømsø",59.697215,10.266729
+2220377,"Einar Haflans vei 68, Tangen og Strømsø",59.697391,10.267145
+2220378,"Einar Haflans vei 32, Tangen og Strømsø",59.696658,10.264931
+2220379,"Einar Haflans vei 34, Tangen og Strømsø",59.696518,10.265406
+2220380,"Einar Haflans vei 36, Tangen og Strømsø",59.696406,10.265899
+2220381,"Einar Haflans vei 38, Tangen og Strømsø",59.696463,10.266452
+2220382,"Einar Haflans vei 40, Tangen og Strømsø",59.696557,10.266953
+2220383,"Einar Haflans vei 42, Tangen og Strømsø",59.696679,10.267384
+2220390,"Einar Haflans vei 44, Tangen og Strømsø",59.696829,10.267692
+2220392,"Kobbervikdalen 110A, Skoger",59.701319,10.241384
+2220393,"Kobbervikdalen 110B, Skoger",59.701274,10.241435
+2220394,"Kobbervikdalen 110C, Skoger",59.701228,10.241487
+2220395,"Kobbervikdalen 110D, Skoger",59.701165,10.241538
+2220396,"Einar Haflans vei 56, Tangen og Strømsø",59.696756,10.26593
+2220397,"Einar Haflans vei 54, Tangen og Strømsø",59.696795,10.266518
+2220398,"Einar Haflans vei 52, Tangen og Strømsø",59.696916,10.26702
+2220399,"Einar Haflans vei 50, Tangen og Strømsø",59.697118,10.267472
+2220400,"Einar Haflans vei 62, Tangen og Strømsø",59.697101,10.265611
+2220465,"Kniveveien 55, Tangen og Strømsø",59.701638,10.268105
+2220486,"Kniveveien 26, Tangen og Strømsø",59.699475,10.26143
+2220532,"Ryums vei 15, Tangen og Strømsø",59.700856,10.268253
+2220533,"Ryums vei 13, Tangen og Strømsø",59.700717,10.267961
+2220534,"Ryums vei 23, Tangen og Strømsø",59.700587,10.268715
+2220535,"Ryums vei 27, Tangen og Strømsø",59.700239,10.269301
+2220536,"Ryums vei 29, Tangen og Strømsø",59.699943,10.269519
+2220537,"Ryums vei 57, Tangen og Strømsø",59.700101,10.27022
+2220538,"Ryums vei 55, Tangen og Strømsø",59.699813,10.27015
+2220539,"Ryums vei 66, Tangen og Strømsø",59.700189,10.270875
+2220540,"Ryums vei 68, Tangen og Strømsø",59.700411,10.270527
+2220541,"Ryums vei 25, Tangen og Strømsø",59.700382,10.268892
+2220544,"Einar Haflans vei 63, Tangen og Strømsø",59.698026,10.267417
+2220548,"Ryums vei 33, Tangen og Strømsø",59.699705,10.268648
+2220549,"Ryums vei 17, Tangen og Strømsø",59.699932,10.267663
+2220550,"Ryums vei 19, Tangen og Strømsø",59.700075,10.267998
+2220551,"Ryums vei 21, Tangen og Strømsø",59.7003,10.268349
+2220552,"Ryums vei 31, Tangen og Strømsø",59.699733,10.269221
+2220553,"Ryums vei 53, Tangen og Strømsø",59.699635,10.269911
+2220554,"Ryums vei 78, Tangen og Strømsø",59.701352,10.268876
+2220555,"Ryums vei 76, Tangen og Strømsø",59.70117,10.269207
+2220556,"Ryums vei 74, Tangen og Strømsø",59.700978,10.269555
+2220557,"Ryums vei 72, Tangen og Strømsø",59.700786,10.269903
+2220558,"Ryums vei 70, Tangen og Strømsø",59.700585,10.270251
+2220559,"Ryums vei 67, Tangen og Strømsø",59.701072,10.268552
+2220560,"Ryums vei 65, Tangen og Strømsø",59.700846,10.268938
+2220561,"Ryums vei 63, Tangen og Strømsø",59.700644,10.269274
+2220562,"Ryums vei 61, Tangen og Strømsø",59.700471,10.269528
+2220563,"Ryums vei 59, Tangen og Strømsø",59.700285,10.26987
+2220564,"Ryums vei 41, Tangen og Strømsø",59.699177,10.268607
+2220565,"Ryums vei 47, Tangen og Strømsø",59.698938,10.26931
+2220566,"Ryums vei 49, Tangen og Strømsø",59.699228,10.26933
+2220567,"Ryums vei 51, Tangen og Strømsø",59.699446,10.269586
+2220568,"Ryums vei 8, Tangen og Strømsø",59.69932,10.267342
+2220569,"Ryums vei 6, Tangen og Strømsø",59.699395,10.266936
+2220570,"Ryums vei 4, Tangen og Strømsø",59.699409,10.266421
+2220571,"Ryums vei 1, Tangen og Strømsø",59.699719,10.265953
+2220572,"Ryums vei 3, Tangen og Strømsø",59.699777,10.266506
+2220573,"Ryums vei 5, Tangen og Strømsø",59.69972,10.267021
+2220574,"Ryums vei 7, Tangen og Strømsø",59.700059,10.26692
+2220575,"Ryums vei 37, Tangen og Strømsø",59.699491,10.268237
+2220576,"Ryums vei 39, Tangen og Strømsø",59.699605,10.267829
+2220577,"Ryums vei 9, Tangen og Strømsø",59.700296,10.267363
+2220578,"Ryums vei 11, Tangen og Strømsø",59.70051,10.267708
+2220579,"Ryums vei 35, Tangen og Strømsø",59.699538,10.268951
+2220580,"Ryums vei 60, Tangen og Strømsø",59.699563,10.271799
+2220581,"Ryums vei 62, Tangen og Strømsø",59.69977,10.27148
+2220582,"Ryums vei 64, Tangen og Strømsø",59.699935,10.271138
+2220583,"Ryums vei 28, Tangen og Strømsø",59.699487,10.271122
+2220584,"Ryums vei 26, Tangen og Strømsø",59.69963,10.270817
+2220585,"Ryums vei 24, Tangen og Strømsø",59.699434,10.27047
+2220586,"Ryums vei 22, Tangen og Strømsø",59.699202,10.270077
+2220587,"Ryums vei 20, Tangen og Strømsø",59.698984,10.270002
+2220588,"Ryums vei 12, Tangen og Strømsø",59.698918,10.268002
+2220589,"Ryums vei 10, Tangen og Strømsø",59.699154,10.26778
+2220590,"Ryums vei 45, Tangen og Strømsø",59.698729,10.268936
+2220591,"Ryums vei 43, Tangen og Strømsø",59.69895,10.26881
+2220592,"Ryums vei 46, Tangen og Strømsø",59.698353,10.270699
+2220594,"Ryums vei 48, Tangen og Strømsø",59.698125,10.271204
+2220595,"Ryums vei 44, Tangen og Strømsø",59.698511,10.271048
+2220597,"Ryums vei 50, Tangen og Strømsø",59.698317,10.271492
+2220599,"Ryums vei 52, Tangen og Strømsø",59.698513,10.271825
+2220600,"Ryums vei 54, Tangen og Strømsø",59.698839,10.272144
+2220602,"Ryums vei 34, Tangen og Strømsø",59.698781,10.271471
+2220603,"Ryums vei 32, Tangen og Strømsø",59.699015,10.271581
+2220604,"Ryums vei 30, Tangen og Strømsø",59.699236,10.27139
+2220605,"Ryums vei 40, Tangen og Strømsø",59.698734,10.270376
+2220606,"Ryums vei 38, Tangen og Strømsø",59.699012,10.270534
+2220607,"Ryums vei 36, Tangen og Strømsø",59.699232,10.27075
+2220608,"Ryums vei 56, Tangen og Strømsø",59.699104,10.272154
+2220612,"Einar Haflans vei 78, Tangen og Strømsø",59.697618,10.269641
+2220614,"Einar Haflans vei 80, Tangen og Strømsø",59.697783,10.270038
+2220616,"Einar Haflans vei 82, Tangen og Strømsø",59.698013,10.270146
+2220618,"Einar Haflans vei 84, Tangen og Strømsø",59.698149,10.269519
+2220620,"Einar Haflans vei 86, Tangen og Strømsø",59.698261,10.269061
+2220621,"Einar Haflans vei 88, Tangen og Strømsø",59.698251,10.268435
+2220622,"Einar Haflans vei 90, Tangen og Strømsø",59.698041,10.268091
+2220623,"Einar Haflans vei 65, Tangen og Strømsø",59.698355,10.267679
+2220624,"Einar Haflans vei 67, Tangen og Strømsø",59.698592,10.268006
+2220625,"Einar Haflans vei 69, Tangen og Strømsø",59.698591,10.26838
+2220626,"Ryums vei 16, Tangen og Strømsø",59.698513,10.269568
+2220627,"Ryums vei 18, Tangen og Strømsø",59.698749,10.269865
+2220628,"Ryums vei 42, Tangen og Strømsø",59.698466,10.270311
+2220629,"Einar Haflans vei 37, Tangen og Strømsø",59.69787,10.266789
+2220631,"Einar Haflans vei 70, Tangen og Strømsø",59.697549,10.267488
+2220633,"Einar Haflans vei 39, Tangen og Strømsø",59.698116,10.266443
+2220635,"Einar Haflans vei 41, Tangen og Strømsø",59.698216,10.266122
+2220637,"Einar Haflans vei 43, Tangen og Strømsø",59.698276,10.265632
+2220639,"Einar Haflans vei 45, Tangen og Strømsø",59.69859,10.265662
+2220641,"Einar Haflans vei 47, Tangen og Strømsø",59.69883,10.26592
+2220643,"Einar Haflans vei 49, Tangen og Strømsø",59.699006,10.266298
+2220645,"Einar Haflans vei 51, Tangen og Strømsø",59.699038,10.266763
+2220647,"Einar Haflans vei 53, Tangen og Strømsø",59.698971,10.267151
+2220649,"Einar Haflans vei 55, Tangen og Strømsø",59.698789,10.267393
+2220651,"Einar Haflans vei 57, Tangen og Strømsø",59.698549,10.267206
+2220653,"Einar Haflans vei 59, Tangen og Strømsø",59.698409,10.266849
+2220655,"Einar Haflans vei 61, Tangen og Strømsø",59.698226,10.267176
+2220657,"Einar Haflans vei 92, Tangen og Strømsø",59.697795,10.268013
+2220659,"Einar Haflans vei 72A, Tangen og Strømsø",59.697321,10.267888
+2220661,"Hans Bergs vei 8, Skoger",59.695456,10.244969
+2220710,"Bjørkelunden 20, Tangen og Strømsø",59.7013,10.265959
+2220711,"Bjørkelunden 22, Tangen og Strømsø",59.701214,10.265583
+2220712,"Bjørkelunden 24, Tangen og Strømsø",59.701117,10.265313
+2220713,"Bjørkelunden 26, Tangen og Strømsø",59.70103,10.265096
+2220718,"Bjørkelunden 3, Tangen og Strømsø",59.699961,10.265109
+2220719,"Bjørkelunden 5, Tangen og Strømsø",59.699961,10.264619
+2220720,"Bjørkelunden 7, Tangen og Strømsø",59.700101,10.264532
+2220721,"Bjørkelunden 9, Tangen og Strømsø",59.700432,10.264539
+2220722,"Bjørkelunden 11, Tangen og Strømsø",59.700589,10.264554
+2220723,"Bjørkelunden 13, Tangen og Strømsø",59.700541,10.265055
+2220764,"Einar Haflans vei 94, Tangen og Strømsø",59.697653,10.268771
+2220765,"Einar Haflans vei 96, Tangen og Strømsø",59.69794,10.2688
+2220766,"Einar Haflans vei 98, Tangen og Strømsø",59.697839,10.269315
+2220768,"Gulliksrudveien 10A, Skoger",59.686214,10.250807
+2220769,"Gulliksrudveien 10B, Skoger",59.68622,10.251092
+2220860,"Kniveveien 59, Tangen og Strømsø",59.701978,10.269242
+2220861,"Kniveåsen terrasse 22, Tangen og Strømsø",59.701608,10.274057
+2220865,"Dråpen 2, Skoger",59.69505,10.24618
+2220866,"Dråpen 9, Skoger",59.692756,10.246556
+2220867,"Dråpen 15, Skoger",59.691812,10.246663
+2220868,"Dråpen 19, Skoger",59.690812,10.24604
+2220869,"Dråpen 23, Skoger",59.690254,10.24522
+2220870,"Gamle Sørlandske 199, Skoger",59.691525,10.25319
+2220871,"Gamle Sørlandske 184, Skoger",59.692373,10.251872
+2220875,"Gamle Sørlandske 179, Skoger",59.694121,10.252257
+2220876,"Gamle Sørlandske 177, Skoger",59.694253,10.251533
+2220877,"Gamle Sørlandske 181, Skoger",59.693971,10.252003
+2220878,"Gamle Sørlandske 183, Skoger",59.694184,10.253183
+2220894,"Gamle Sørlandske 265, Skoger",59.685706,10.253186
+2220895,"Gulliksrudveien 1, Skoger",59.685658,10.252598
+2220897,"Gamle Sørlandske 252, Skoger",59.686504,10.252399
+2220898,"Gamle Sørlandske 248, Skoger",59.687215,10.252195
+2220900,"Gamle Sørlandske 246, Skoger",59.687368,10.252182
+2220901,"Gamle Sørlandske 232, Skoger",59.688406,10.251653
+2220902,"Gamle Sørlandske 228, Skoger",59.688894,10.251351
+2220903,"Gamle Sørlandske 224, Skoger",59.689436,10.251922
+2220904,"Gamle Sørlandske 226, Skoger",59.689452,10.251194
+2220905,"Gamle Sørlandske 219, Skoger",59.690536,10.255781
+2220920,"Kniveåsen terrasse 39, Tangen og Strømsø",59.700487,10.277717
+2220921,"Kniveåsen terrasse 35, Tangen og Strømsø",59.700904,10.277026
+2220922,"Kniveåsen terrasse 37, Tangen og Strømsø",59.700693,10.277413
+2220923,"Kniveåsen terrasse 41, Tangen og Strømsø",59.700896,10.276127
+2220924,"Kniveåsen terrasse 43, Tangen og Strømsø",59.700658,10.276544
+2220926,"Kniveåsen terrasse 45, Tangen og Strømsø",59.700448,10.276909
+2220928,"Kniveåsen terrasse 53, Tangen og Strømsø",59.700799,10.275082
+2220930,"Kniveåsen terrasse 51, Tangen og Strømsø",59.700721,10.275658
+2220932,"Kniveåsen terrasse 49, Tangen og Strømsø",59.700507,10.275939
+2220933,"Kniveåsen terrasse 47, Tangen og Strømsø",59.700281,10.276398
+2220934,"Kniveåsen terrasse 26, Tangen og Strømsø",59.701357,10.274882
+2220935,"Kniveåsen terrasse 28, Tangen og Strømsø",59.701182,10.275391
+2220936,"Kniveåsen terrasse 21, Tangen og Strømsø",59.70183,10.27339
+2220938,"Kniveveien 66, Tangen og Strømsø",59.701963,10.271582
+2220939,"Kniveveien 68, Tangen og Strømsø",59.702066,10.272542
+2220940,"Kniveveien 70, Tangen og Strømsø",59.702068,10.273113
+2220941,"Eikhaugen 58T, Tangen og Strømsø",59.698416,10.251031
+2220942,"Eikringen 9T, Tangen og Strømsø",59.701057,10.251947
+2220996,"Eikringen 11, Tangen og Strømsø",59.700822,10.252987
+2221009,"Gråterudveien 41, Tangen og Strømsø",59.698419,10.248846
+2221010,"Holmestrandsveien 138, Tangen og Strømsø",59.719107,10.231458
+2221021,"Eikringen 30C, Tangen og Strømsø",59.700611,10.247843
+2221023,"Eikringen 30B, Tangen og Strømsø",59.700704,10.248451
+2221024,"Eikringen 30A, Tangen og Strømsø",59.700698,10.249055
+2221396,"Kobbervikdalen 61T, Skoger",59.708156,10.237247
+2221398,"Kobbervikdalen 69T, Skoger",59.707762,10.239081
+2221439,"Kniveveien 27, Tangen og Strømsø",59.700089,10.260227
+2221441,"Kobbervikdalen 145T, Skoger",59.697217,10.245852
+2221443,"Kobbervikdalen 46, Skoger",59.711543,10.233283
+2223439,"Hans Bergs vei 4, Skoger",59.695656,10.245749
+2223592,"Dråpen 16, Skoger",59.691216,10.243385
+2224679,"Holmestrandsveien 130C, Tangen og Strømsø",59.720015,10.230631
+2224780,"Einar Haflans vei 6B, Tangen og Strømsø",59.699334,10.265068
+2224781,"Einar Haflans vei 4A, Tangen og Strømsø",59.699477,10.264734
+2224782,"Einar Haflans vei 4B, Tangen og Strømsø",59.699519,10.264748
+2224790,"Holmestrandsveien 136, Tangen og Strømsø",59.719259,10.231354
+2224792,"Holmestrandsveien 134, Tangen og Strømsø",59.71931,10.231272
+2224880,"Kniveveien 61, Tangen og Strømsø",59.702401,10.269461
+2224882,"Kniveveien 63, Tangen og Strømsø",59.702556,10.270148
+2224973,"Dråpen 20, Skoger",59.689758,10.243423
+2224974,"Dråpen 18, Skoger",59.690566,10.243325
+2225027,"Vardåsen 2, Skoger",59.684247,10.281282
+2225029,"Vardåsen 1, Skoger",59.684332,10.290239
+2225031,"Kniveveien 79, Tangen og Strømsø",59.702324,10.270811
+2225052,"Kniveveien 81, Tangen og Strømsø",59.702217,10.269977
+2225071,"Holmestrandsveien 102, Tangen og Strømsø",59.721751,10.231303
+2225177,"Dråpen 22, Skoger",59.689474,10.243567
+2225230,"Trillingen 25, Skoger",59.695325,10.24363
+2225278,"Kniveveien 95, Tangen og Strømsø",59.702018,10.276658
+2225279,"Kniveveien 93, Tangen og Strømsø",59.70213,10.276238
+2225280,"Kniveveien 97, Tangen og Strømsø",59.701905,10.276952
+2225281,"Kniveveien 104, Tangen og Strømsø",59.700763,10.278396
+2225284,"Kobbervikdalen 116C, Skoger",59.699746,10.242388
+2225287,"Kniveveien 100A, Tangen og Strømsø",59.701117,10.277731
+2225292,"Kobbervikdalen 116A, Skoger",59.699893,10.242276
+2225298,"Kniveveien 109, Tangen og Strømsø",59.701,10.278812
+2225299,"Kniveveien 111, Tangen og Strømsø",59.70088,10.279202
+2225451,"Gråterudveien 14, Tangen og Strømsø",59.695557,10.250516
+2376293,"Kobbervikdalen 155, Skoger",59.696148,10.24733
+2401180,"Kobbervikdalen 149, Skoger",59.696897,10.245482
+2401181,"Gulliksrudveien 35, Skoger",59.686372,10.246408
+2401374,"Lerpeveien 83, Tangen og Strømsø",59.695964,10.264212
+2403058,"Dansrudveien 45, Tangen og Strømsø",59.714114,10.235797
+2403613,"Holmestrandsveien 117, Tangen og Strømsø",59.720074,10.232758
+2403932,"Einar Haflans vei 12A, Tangen og Strømsø",59.699289,10.263977
+2403934,"Einar Haflans vei 10A, Tangen og Strømsø",59.699421,10.264316
+2403936,"Einar Haflans vei 8A, Tangen og Strømsø",59.699116,10.264329
+2406906,"Dråpen 6, Skoger",59.694325,10.24457
+2407315,"Kniveveien 73, Tangen og Strømsø",59.70247,10.273402
+2407318,"Kniveveien 69, Tangen og Strømsø",59.702817,10.272907
+2407320,"Kniveveien 71, Tangen og Strømsø",59.70274,10.273935
+2407322,"Kniveveien 65, Tangen og Strømsø",59.702687,10.271148
+2407323,"Kniveveien 67, Tangen og Strømsø",59.702764,10.271989
+2407430,"Kniveveien 77, Tangen og Strømsø",59.702375,10.271708
+2407431,"Kniveveien 75, Tangen og Strømsø",59.702444,10.272514
+2407669,"Holmestrandsveien 119, Tangen og Strømsø",59.720591,10.232148
+2407767,"Einar Haflans vei 14C, Tangen og Strømsø",59.698789,10.263773
+2407768,"Einar Haflans vei 14D, Tangen og Strømsø",59.698824,10.263739
+2407769,"Einar Haflans vei 12B, Tangen og Strømsø",59.699337,10.263956
+2407781,"Einar Haflans vei 10B, Tangen og Strømsø",59.699458,10.26431
+2408607,"Kniveveien 99, Tangen og Strømsø",59.701717,10.277228
+2408608,"Kniveveien 102, Tangen og Strømsø",59.7009,10.278019
+2408610,"Kniveveien 101, Tangen og Strømsø",59.70156,10.277574
+2408620,"Kniveveien 105, Tangen og Strømsø",59.70126,10.278108
+2408622,"Kniveveien 107, Tangen og Strømsø",59.70113,10.278453
+2408625,"Kniveveien 103, Tangen og Strømsø",59.701408,10.277838
+2408627,"Kniveveien 90, Tangen og Strømsø",59.701753,10.276236
+2408628,"Kniveveien 92, Tangen og Strømsø",59.701633,10.276569
+2409662,"Gråterudveien 12, Tangen og Strømsø",59.695903,10.251113
+2410377,"Dråpen 31, Skoger",59.687248,10.24325
+2447202,"Gråterudveien 18A, Tangen og Strømsø",59.696281,10.249346
+2447203,"Gråterudveien 18B, Tangen og Strømsø",59.696511,10.25031
+2447250,"Gråterudveien 16B, Tangen og Strømsø",59.696015,10.24981
+2447295,"Gråterudveien 16A, Tangen og Strømsø",59.69609,10.250585

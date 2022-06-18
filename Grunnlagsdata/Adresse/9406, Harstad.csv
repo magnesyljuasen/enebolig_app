@@ -1,0 +1,830 @@
+,Navn,Long,Lat
+755064,"St Olavs gate 86, Harstad",68.794395,16.5247
+755065,"St Olavs gate 88, Harstad",68.794092,16.524456
+755066,"St Olavs gate 82, Harstad",68.794804,16.525075
+755067,"St Olavs gate 83, Harstad",68.794776,16.526163
+755068,"St Olavs gate 99, Harstad",68.792843,16.524643
+755069,"St Olavs gate 100, Harstad",68.792389,16.523299
+755070,"St Olavs gate 91, Harstad",68.793852,16.525208
+755071,"St Olavs gate 98, Harstad",68.793025,16.523367
+755072,"St Olavs gate 105, Harstad",68.791844,16.524055
+755073,"St Olavs gate 106, Harstad",68.79168,16.5233
+755074,"St Olavs gate 102, Harstad",68.792166,16.523209
+755075,"St Olavs gate 104, Harstad",68.791833,16.523311
+755076,"St Olavs gate 108B, Harstad",68.791396,16.522959
+755077,"St Olavs gate 110A, Harstad",68.791231,16.523368
+755078,"St Olavs gate 108A, Harstad",68.791474,16.52336
+755079,"St Olavs gate 55, Harstad",68.797609,16.531364
+784677,"St Olavs gate 57, Harstad",68.797407,16.530929
+784678,"St Olavs gate 58A, Harstad",68.797147,16.528953
+784681,"St Olavs gate 59, Harstad",68.79723,16.530594
+784682,"St Olavs gate 60, Harstad",68.796989,16.528546
+784683,"St Olavs gate 58B, Harstad",68.797241,16.528414
+784684,"St Olavs gate 58C, Harstad",68.797083,16.528056
+784685,"St Olavs gate 65, Harstad",68.79672,16.529543
+784686,"St Olavs gate 70, Harstad",68.796273,16.525349
+784687,"St Olavs gate 61, Harstad",68.796975,16.530106
+784688,"St Olavs gate 61B, Harstad",68.796785,16.530291
+784689,"St Olavs gate 110B, Harstad",68.791271,16.522975
+784690,"St Olavs gate 113, Harstad",68.791045,16.524148
+784807,"Eineberggata 21B, Harstad",68.797805,16.52761
+784808,"Eineberggata 21C, Harstad",68.797884,16.52774
+784810,"Eineberggata 21A, Harstad",68.797689,16.527479
+784811,"Eineberggata 21F, Harstad",68.798035,16.528865
+784812,"Eineberggata 22, Harstad",68.798203,16.527241
+784813,"Eineberggata 21D, Harstad",68.79799,16.527896
+784814,"Eineberggata 21E, Harstad",68.798074,16.528546
+784817,"Eineberggata 24, Harstad",68.79785,16.526573
+785120,"St Olavs gate 116, Harstad",68.790735,16.523265
+785121,"St Olavs gate 117, Harstad",68.790517,16.524038
+785122,"St Olavs gate 114, Harstad",68.790918,16.523322
+785123,"St Olavs gate 115, Harstad",68.790719,16.524473
+785140,"St Olavs gate 120, Harstad",68.790333,16.523319
+785141,"St Olavs gate 121, Harstad",68.790119,16.524308
+785142,"St Olavs gate 118, Harstad",68.790459,16.523489
+785143,"St Olavs gate 119, Harstad",68.790346,16.524076
+785145,"Heggen alle 41, Harstad",68.790181,16.523396
+785168,"Fjordgata 30, Harstad",68.795866,16.538629
+785169,"Fjordgata 31, Harstad",68.795636,16.539232
+785170,"Fjordgata 28, Harstad",68.796171,16.538674
+785171,"Fjordgata 29, Harstad",68.795937,16.539699
+785172,"Fjordgata 34, Harstad",68.795484,16.538206
+785173,"Fjordgata 35, Harstad",68.795283,16.538613
+785174,"Fjordgata 32, Harstad",68.795626,16.538438
+785175,"Fjordgata 33, Harstad",68.795477,16.538973
+785176,"Fjordgata 38, Harstad",68.795184,16.537664
+785177,"Fjordgata 39, Harstad",68.794947,16.538045
+785178,"Fjordgata 36, Harstad",68.795334,16.537898
+785179,"Fjordgata 37, Harstad",68.795133,16.53838
+785182,"Fjordgata 41, Harstad",68.794753,16.537734
+785183,"Fjordgata 43, Harstad",68.794603,16.537451
+785188,"Fjordgata 16, Harstad",68.797267,16.540386
+785189,"Fjordgata 17, Harstad",68.79686,16.54125
+785192,"Fjordgata 20, Harstad",68.796956,16.540166
+785193,"Fjordgata 21, Harstad",68.796668,16.54022
+785194,"Fjordgata 18, Harstad",68.797061,16.540421
+785195,"Fjordgata 19, Harstad",68.7968,16.540477
+785196,"Fjordgata 24, Harstad",68.796568,16.539346
+785197,"Fjordgata 25, Harstad",68.79618,16.539641
+785198,"Fjordgata 22, Harstad",68.796815,16.539809
+785199,"Fjordgata 23, Harstad",68.796331,16.539825
+785262,"Storgata 77, Harstad",68.792548,16.532527
+785263,"Storgata 79, Harstad",68.792186,16.532874
+785276,"Storgata 53, Harstad",68.794593,16.535592
+785277,"Storgata 54, Harstad",68.794686,16.534186
+785278,"Storgata 50A, Harstad",68.795275,16.534598
+785279,"Storgata 51, Harstad",68.794756,16.535405
+785280,"Storgata 58, Harstad",68.794156,16.533257
+785281,"Storgata 59, Harstad",68.794253,16.534528
+785282,"Storgata 55, Harstad",68.794481,16.535014
+785283,"Storgata 56, Harstad",68.794323,16.533715
+785284,"Storgata 69, Harstad",68.793373,16.5336
+785285,"Storgata 71, Harstad",68.79309,16.533085
+785286,"Storgata 60, Harstad",68.793962,16.532897
+785287,"Storgata 61, Harstad",68.794119,16.534367
+785288,"Storgata 75, Harstad",68.792735,16.532688
+785289,"Storgata 76, Harstad",68.792182,16.531337
+785290,"Storgata 73, Harstad",68.792895,16.532873
+785291,"Storgata 74, Harstad",68.792441,16.531504
+785316,"Asbjørn Selsbanes gate 16, Harstad",68.798072,16.536749
+785317,"Asbjørn Selsbanes gate 17, Harstad",68.797546,16.53639
+785319,"Asbjørn Selsbanes gate 15, Harstad",68.797915,16.537259
+785322,"Asbjørn Selsbanes gate 23, Harstad",68.797021,16.534867
+785323,"Asbjørn Selsbanes gate 24, Harstad",68.796818,16.53354
+785324,"Hans Egedes gate 66B, Harstad",68.792716,16.526889
+785325,"Hans Egedes gate 67, Harstad",68.792135,16.527618
+785326,"Hans Egedes gate 66, Harstad",68.792575,16.527524
+785327,"Hans Egedes gate 69, Harstad",68.791942,16.527183
+785328,"Hans Egedes gate 71, Harstad",68.791623,16.52669
+785329,"Hans Egedes gate 68, Harstad",68.792372,16.527188
+785330,"Hans Egedes gate 68B, Harstad",68.792493,16.526676
+785331,"Hans Egedes gate 74A, Harstad",68.791728,16.526029
+785332,"Hans Egedes gate 74B, Harstad",68.791669,16.525603
+785333,"Hans Egedes gate 72, Harstad",68.791995,16.526171
+785334,"Hans Egedes gate 73, Harstad",68.791394,16.526229
+785335,"Hans Egedes gate 78, Harstad",68.791365,16.525409
+785337,"Hans Egedes gate 75, Harstad",68.791163,16.525916
+785338,"Hans Egedes gate 76, Harstad",68.791461,16.525713
+785339,"Storgata 27, Harstad",68.797037,16.539057
+785340,"Storgata 29, Harstad",68.796807,16.538718
+785341,"Storgata 23, Harstad",68.797301,16.53967
+785342,"Storgata 25, Harstad",68.797187,16.539389
+785343,"Storgata 33, Harstad",68.796435,16.538247
+785344,"Storgata 37, Harstad",68.796026,16.537847
+785345,"Storgata 30, Harstad",68.796788,16.53785
+785346,"Storgata 31, Harstad",68.796568,16.538404
+785347,"Storgata 40, Harstad",68.796144,16.536715
+785348,"Storgata 41, Harstad",68.795642,16.537622
+785349,"Storgata 37A, Harstad",68.79603,16.538318
+785350,"Storgata 48, Harstad",68.79526,16.535266
+785351,"Storgata 49, Harstad",68.794829,16.536228
+785352,"Storgata 45, Harstad",68.795355,16.536636
+785353,"Storgata 46, Harstad",68.79542,16.535351
+785367,"Storgata 21, Harstad",68.797415,16.53995
+785370,"Hans Egedes gate 60, Harstad",68.793274,16.528662
+785371,"Hans Egedes gate 62, Harstad",68.793123,16.528453
+785372,"Hans Egedes gate 57, Harstad",68.793364,16.52961
+785373,"Hans Egedes gate 58, Harstad",68.793654,16.529332
+785374,"Hans Egedes gate 64, Harstad",68.792798,16.527663
+785375,"Hans Egedes gate 65, Harstad",68.792347,16.527929
+785376,"Hans Egedes gate 43, Harstad",68.795059,16.532601
+785377,"Hans Egedes gate 44, Harstad",68.794909,16.531401
+785378,"Hans Egedes gate 41, Harstad",68.795217,16.533033
+785379,"Hans Egedes gate 42, Harstad",68.795103,16.531761
+785380,"Hans Egedes gate 47, Harstad",68.794689,16.531931
+785381,"Hans Egedes gate 48, Harstad",68.794527,16.530904
+785382,"Hans Egedes gate 45, Harstad",68.794892,16.532292
+785383,"Hans Egedes gate 46, Harstad",68.794723,16.531116
+785384,"Hans Egedes gate 52, Harstad",68.794289,16.530491
+785385,"Hans Egedes gate 53B, Harstad",68.793758,16.530702
+785386,"Hans Egedes gate 49, Harstad",68.794459,16.531544
+785387,"Hans Egedes gate 51, Harstad",68.794264,16.531233
+785388,"Hans Egedes gate 55, Harstad",68.793558,16.52997
+785389,"Hans Egedes gate 56, Harstad",68.793838,16.529717
+785390,"Hans Egedes gate 53C, Harstad",68.793684,16.53092
+785391,"Hans Egedes gate 54, Harstad",68.794149,16.530135
+785392,"Gullhauggata 15, Harstad",68.794907,16.530583
+785393,"Gullhauggata 16, Harstad",68.79473,16.529382
+785394,"Gullhauggata 12, Harstad",68.794905,16.52984
+785395,"Gullhauggata 14, Harstad",68.794894,16.529095
+785396,"Gullhauggata 20A, Harstad",68.794419,16.528989
+785397,"Gullhauggata 20B, Harstad",68.794583,16.528678
+785398,"Gullhauggata 17, Harstad",68.794739,16.530373
+785399,"Gullhauggata 19, Harstad",68.794554,16.529964
+785400,"Gullhauggata 25, Harstad",68.79403,16.529333
+785401,"Gullhauggata 26, Harstad",68.793881,16.52801
+785402,"Gullhauggata 23, Harstad",68.794154,16.52959
+785403,"Gullhauggata 24, Harstad",68.794057,16.528344
+785404,"Gullhauggata 33, Harstad",68.792928,16.527176
+785405,"Utsikten 1, Harstad",68.794175,16.521266
+785406,"Gullhauggata 27, Harstad",68.793827,16.528997
+785407,"Gullhauggata 29, Harstad",68.793579,16.528609
+785410,"Sykehusstien 4, Harstad",68.797397,16.524978
+785411,"Sykehusstien 6, Harstad",68.797172,16.523785
+785420,"Gullhauggata 3, Harstad",68.796251,16.531766
+785421,"Gullhauggata 8, Harstad",68.795526,16.530551
+785423,"Gullhauggata 2A, Harstad",68.796598,16.530055
+785425,"Hans Egedes gate 19, Harstad",68.79757,16.538722
+785427,"Hans Egedes gate 31, Harstad",68.796398,16.53532
+785428,"Hans Egedes gate 33, Harstad",68.796064,16.534553
+785429,"Hans Egedes gate 20, Harstad",68.79797,16.538154
+785430,"Hans Egedes gate 22, Harstad",68.7976,16.537311
+785431,"Hans Egedes gate 40B, Harstad",68.795467,16.532208
+785432,"Hans Egedes gate 40C, Harstad",68.795684,16.53195
+785433,"Hans Egedes gate 38, Harstad",68.795966,16.53249
+785434,"Hans Egedes gate 39, Harstad",68.795447,16.533396
+785435,"Utsikten 3, Harstad",68.793867,16.520526
+785436,"Utsikten 4, Harstad",68.794166,16.520175
+785437,"Utsikten 2, Harstad",68.794535,16.521067
+785438,"Utsikten 2B, Harstad",68.794423,16.520539
+785439,"Krokveien 2, Harstad",68.788292,16.534934
+785440,"Krokveien 3, Harstad",68.788714,16.534938
+785443,"Krokveien 6, Harstad",68.788583,16.536539
+785444,"Krokveien 7, Harstad",68.788998,16.53523
+785445,"Krokveien 4A, Harstad",68.788083,16.535204
+785446,"Krokveien 5, Harstad",68.788817,16.535391
+785447,"Båtbygger Danielsens vei 1, Harstad",68.789688,16.537359
+785448,"Båtbygger Danielsens vei 4, Harstad",68.789288,16.536935
+785449,"Krokveien 9, Harstad",68.789209,16.535716
+785450,"Krokveien 12, Harstad",68.788741,16.535931
+785451,"Båtbygger Danielsens vei 10, Harstad",68.78858,16.537852
+785452,"Båtbygger Danielsens vei 11, Harstad",68.788343,16.538257
+785453,"Båtbygger Danielsens vei 8, Harstad",68.788808,16.537447
+785454,"Båtbygger Danielsens vei 9, Harstad",68.788492,16.538589
+785455,"Margrethe Jørgensens vei 10, Harstad",68.791676,16.542675
+785456,"Margrethe Jørgensens vei 4, Harstad",68.792199,16.540357
+785457,"Parkveien 4, Harstad",68.793968,16.535251
+785458,"Parkveien 5, Harstad",68.793445,16.535587
+785459,"Klubbveien 12, Harstad",68.793508,16.538441
+785460,"Sara Hauges vei 4, Harstad",68.792698,16.534817
+785461,"Margrethe Jørgensens vei 2, Harstad",68.792771,16.538588
+785462,"Gate 10 4, Harstad",68.792746,16.533482
+785463,"Gate 10 5, Harstad",68.792454,16.534007
+785464,"Sara Hauges vei 6, Harstad",68.792527,16.53483
+785465,"Gate 10 3, Harstad",68.792695,16.534172
+785466,"Bårnakkveien 7, Harstad",68.789652,16.533393
+785467,"Bårnakkveien 9, Harstad",68.789559,16.532792
+785468,"Bårnakkveien 4, Harstad",68.791992,16.535511
+785469,"Bårnakkveien 5, Harstad",68.789772,16.53402
+785478,"6. Divisjons gate 1, Harstad",68.796348,16.536902
+785479,"6. Divisjons gate 3, Harstad",68.796419,16.536065
+785482,"6. Divisjons gate 10, Harstad",68.796855,16.531411
+785483,"6. Divisjons gate 12, Harstad",68.797181,16.532078
+785484,"6. Divisjons gate 7, Harstad",68.796425,16.532348
+785485,"6. Divisjons gate 8, Harstad",68.796696,16.532193
+785488,"Båtbygger Danielsens vei 12, Harstad",68.788344,16.537118
+785489,"Båtbygger Danielsens vei 15, Harstad",68.788009,16.536525
+785502,"Seljestadveien 55A, Harstad",68.78853,16.533489
+785503,"Seljestadveien 53B, Harstad",68.788894,16.533836
+785504,"Seljestadveien 53C, Harstad",68.789067,16.534517
+785505,"Seljestadveien 56, Harstad",68.788522,16.532324
+785506,"Seljestadveien 57, Harstad",68.788331,16.533673
+785507,"Seljestadveien 55B, Harstad",68.788695,16.53402
+785508,"Seljestadveien 55C, Harstad",68.788913,16.534754
+785509,"Seljestadveien 59, Harstad",68.78766,16.534444
+785510,"Seljestadveien 58, Harstad",68.788342,16.532411
+785514,"Seljestadveien 29, Harstad",68.791139,16.52968
+785515,"Seljestadveien 30, Harstad",68.791271,16.528946
+785516,"Seljestadveien 27, Harstad",68.791272,16.529838
+785517,"Seljestadveien 28, Harstad",68.791494,16.529011
+785518,"Seljestadveien 33, Harstad",68.79084,16.529907
+785519,"Seljestadveien 34, Harstad",68.790885,16.528919
+785520,"Seljestadveien 31, Harstad",68.79102,16.52987
+785521,"Seljestadveien 32, Harstad",68.791001,16.529051
+785522,"Seljestadveien 43, Harstad",68.790093,16.531169
+785523,"Seljestadveien 46, Harstad",68.789556,16.531082
+785524,"Seljestadveien 39, Harstad",68.790376,16.530693
+785525,"Seljestadveien 41, Harstad",68.790257,16.530932
+785526,"Seljestadveien 52, Harstad",68.78892,16.53193
+785527,"Seljestadveien 53A, Harstad",68.788747,16.533207
+785528,"Seljestadveien 47, Harstad",68.789446,16.532338
+785529,"Seljestadveien 49, Harstad",68.789275,16.532376
+785534,"Gamle Kirkevei 8, Harstad",68.794126,16.52763
+785535,"Gamle Kirkevei 10, Harstad",68.794318,16.527321
+785537,"Gamle Kirkevei 3, Harstad",68.792067,16.528232
+785538,"Alfons Johansens vei 3, Harstad",68.794084,16.53236
+785539,"Alfons Johansens vei 4, Harstad",68.7945,16.532934
+785540,"Alfons Johansens vei 1, Harstad",68.794198,16.532665
+785541,"Alfons Johansens vei 2, Harstad",68.794756,16.533447
+785542,"Parkveien 2B, Harstad",68.793963,16.535796
+785543,"Parkveien 2C, Harstad",68.794178,16.535786
+785544,"Alfons Johansens vei 6, Harstad",68.794437,16.532038
+785545,"Parkveien 2A, Harstad",68.793685,16.535826
+785562,"Sigurds gate 6, Harstad",68.796411,16.540897
+785563,"Sigurds gate 7, Harstad",68.796326,16.540296
+785564,"Sigurds gate 4, Harstad",68.79618,16.54155
+785565,"Sigurds gate 5, Harstad",68.796225,16.540611
+785566,"Andreas Linds gate 2B, Harstad",68.795914,16.540218
+785567,"Andreas Linds gate 3, Harstad",68.795623,16.540669
+785568,"Sigurds gate 8, Harstad",68.796512,16.540581
+785569,"Andreas Linds gate 2A, Harstad",68.796038,16.540425
+785570,"Andreas Linds gate 6, Harstad",68.79555,16.539821
+785571,"Andreas Linds gate 9, Harstad",68.795021,16.539834
+785572,"Andreas Linds gate 4, Harstad",68.795762,16.540158
+785573,"Andreas Linds gate 5, Harstad",68.795395,16.540132
+785574,"Andreas Linds gate 12, Harstad",68.794985,16.538815
+785575,"Andreas Linds gate 13, Harstad",68.794687,16.539018
+785576,"Andreas Linds gate 10, Harstad",68.795179,16.539176
+785577,"Andreas Linds gate 11, Harstad",68.794882,16.539329
+785580,"Granlundveien 5, Harstad",68.797986,16.525368
+785581,"Marineveien 2, Harstad",68.798078,16.535089
+785584,"Marineveien 5, Harstad",68.797506,16.534901
+785585,"Marineveien 8, Harstad",68.797533,16.533837
+785586,"Marineveien 3, Harstad",68.797866,16.535669
+785587,"Marineveien 4, Harstad",68.797911,16.53473
+785588,"Seljestadveien 10, Harstad",68.793119,16.530881
+785589,"Seljestadveien 11, Harstad",68.792571,16.530943
+785590,"Seljestadveien 8, Harstad",68.793295,16.53129
+785591,"Seljestadveien 9, Harstad",68.792865,16.531236
+785592,"Seljestadveien 14, Harstad",68.792748,16.530311
+785593,"Seljestadveien 15, Harstad",68.79226,16.530649
+785594,"Seljestadveien 12, Harstad",68.792933,16.530596
+785595,"Seljestadveien 13, Harstad",68.792467,16.530614
+785596,"Seljestadveien 18, Harstad",68.792322,16.529712
+785597,"Seljestadveien 20, Harstad",68.792135,16.529624
+785598,"Seljestadveien 16A, Harstad",68.792456,16.52982
+785599,"Seljestadveien 16B, Harstad",68.792603,16.529483
+785600,"Seljestadveien 23, Harstad",68.79172,16.529918
+785601,"Seljestadveien 24, Harstad",68.791859,16.529382
+785602,"Seljestadveien 21, Harstad",68.791853,16.530076
+785603,"Seljestadveien 22, Harstad",68.791992,16.529515
+785604,"Andreas Linds gate 16, Harstad",68.794632,16.538246
+785605,"Andreas Linds gate 17, Harstad",68.794316,16.538373
+785606,"Andreas Linds gate 14, Harstad",68.794826,16.538581
+785607,"Andreas Linds gate 15, Harstad",68.79452,16.538709
+785608,"Andreas Linds gate 20, Harstad",68.794234,16.537525
+785609,"Andreas Linds gate 21, Harstad",68.79389,16.537872
+785610,"Andreas Linds gate 18, Harstad",68.794482,16.537938
+785611,"Andreas Linds gate 19, Harstad",68.794122,16.538037
+785612,"Borggata 1, Harstad",68.795456,16.537361
+785613,"Borggata 10, Harstad",68.794164,16.53633
+785614,"Andreas Linds gate 23, Harstad",68.793695,16.537636
+785615,"Andreas Linds gate 25, Harstad",68.793464,16.537446
+785616,"Borggata 16, Harstad",68.79359,16.536365
+785617,"Seljestadveien 3, Harstad",68.793278,16.532181
+785618,"Borggata 12, Harstad",68.793976,16.536367
+785619,"Borggata 14, Harstad",68.79376,16.536377
+785698,"Skarveien 10, Harstad",68.796387,16.520599
+785699,"Skarveien 9, Harstad",68.79587,16.520316
+785700,"Skarveien 5, Harstad",68.795331,16.523377
+785701,"Skarveien 7, Harstad",68.795375,16.521447
+785702,"Skarveien 15A, Harstad",68.795473,16.518505
+785703,"Skarveien 15B, Harstad",68.795462,16.518702
+785704,"Skarveien 12, Harstad",68.796279,16.5197
+785705,"Skarveien 14, Harstad",68.796169,16.518949
+785708,"Heggen alle 38, Harstad",68.790794,16.522149
+785709,"Heggen alle 40, Harstad",68.790497,16.522253
+785722,"Skarveien 30B, Harstad",68.795728,16.512104
+785723,"Skarveien 31, Harstad",68.795339,16.51349
+785724,"Skarveien 29, Harstad",68.795451,16.513919
+785725,"Skarveien 30A, Harstad",68.795554,16.512489
+785726,"Skarveien 35, Harstad",68.795227,16.512863
+785727,"Skarveien 41, Harstad",68.794197,16.510761
+785728,"Skarveien 32, Harstad",68.795462,16.511764
+785729,"Skarveien 34, Harstad",68.795223,16.511376
+785730,"Heggenveien 17, Harstad",68.793857,16.52164
+785731,"Heggenveien 20, Harstad",68.793124,16.520351
+785732,"Heggenveien 4, Harstad",68.795172,16.518088
+785733,"Heggenveien 10, Harstad",68.794792,16.521456
+785734,"Heggenveien 23, Harstad",68.793056,16.520991
+785736,"Heggenveien 21, Harstad",68.79335,16.521184
+785737,"Heggenveien 22, Harstad",68.792867,16.520061
+785738,"Skarveien 18, Harstad",68.795932,16.517371
+785739,"Skarveien 19A, Harstad",68.795529,16.517294
+785740,"Skarveien 16, Harstad",68.796059,16.518223
+785741,"Skarveien 17, Harstad",68.79546,16.517983
+785742,"Skarveien 22A, Harstad",68.795801,16.514959
+785743,"Skarveien 22C, Harstad",68.79623,16.515112
+785744,"Skarveien 19B, Harstad",68.795312,16.517502
+785745,"Skarveien 20, Harstad",68.796061,16.515968
+785747,"Skarveien 24B, Harstad",68.795949,16.514448
+785748,"Skarveien 24C, Harstad",68.796125,16.513816
+785749,"Skarveien 22D, Harstad",68.796516,16.514214
+785750,"Skarveien 24A, Harstad",68.79578,16.514288
+785751,"Skarveien 28A, Harstad",68.795691,16.513167
+785752,"Skarveien 28B, Harstad",68.795885,16.512561
+785753,"Skarveien 26A, Harstad",68.796004,16.513312
+785754,"Skarveien 26B, Harstad",68.796215,16.512831
+785788,"Heggen alle 18, Harstad",68.793477,16.52206
+785789,"Heggen alle 20, Harstad",68.793218,16.521844
+785791,"Heggen alle 14, Harstad",68.793991,16.522715
+785792,"Heggen alle 16, Harstad",68.793663,16.522296
+785793,"Heggen alle 28, Harstad",68.792061,16.521889
+785794,"Heggen alle 29, Harstad",68.791651,16.52258
+785795,"Heggen alle 22, Harstad",68.792977,16.521778
+785796,"Heggen alle 27, Harstad",68.791848,16.522593
+785797,"Heggen alle 31, Harstad",68.791427,16.522589
+785798,"Heggen alle 32, Harstad",68.791504,16.521925
+785799,"Heggen alle 30A, Harstad",68.791728,16.521941
+785800,"Heggen alle 30B, Harstad",68.791688,16.521442
+785801,"Heggen alle 35, Harstad",68.790914,16.522752
+785802,"Heggen alle 36, Harstad",68.791,16.522089
+785803,"Heggen alle 33, Harstad",68.791202,16.522598
+785804,"Heggen alle 34B, Harstad",68.791172,16.521952
+785805,"Heggen alle 2C, Harstad",68.795093,16.522865
+785806,"Heggen alle 2D, Harstad",68.795169,16.522424
+785808,"Heggen alle 1, Harstad",68.795066,16.524944
+785809,"Heggen alle 4, Harstad",68.795074,16.524028
+785810,"Heggen alle 5, Harstad",68.794683,16.524596
+785811,"Heggen alle 2E, Harstad",68.794799,16.522671
+785812,"Heggen alle 3, Harstad",68.794853,16.524632
+785813,"Heggen alle 8, Harstad",68.794638,16.523552
+785814,"Heggen alle 9, Harstad",68.794205,16.52382
+785815,"Heggen alle 6, Harstad",68.794816,16.523812
+785816,"Heggen alle 7, Harstad",68.794525,16.524189
+785817,"Heggen alle 12, Harstad",68.794212,16.523052
+785818,"Heggen alle 13, Harstad",68.793673,16.523213
+785819,"Heggen alle 10, Harstad",68.794434,16.523315
+785820,"Heggen alle 11, Harstad",68.793961,16.523513
+785821,"Rollnesveien 7C, Harstad",68.790748,16.526209
+785822,"Rollnesveien 8, Harstad",68.791145,16.527004
+785823,"Rollnesveien 7A, Harstad",68.790886,16.526838
+785824,"Rollnesveien 7B, Harstad",68.790772,16.526582
+785825,"Rollnesveien 13, Harstad",68.790464,16.524877
+785827,"Rollnesveien 10, Harstad",68.791159,16.52646
+785828,"Rollnesveien 12, Harstad",68.791154,16.524949
+785837,"Smith Sundes vei 2, Harstad",68.795204,16.529489
+785838,"Arnt Arntsens vei 2, Harstad",68.793092,16.529963
+785839,"Gullhaugen alle 17B, Harstad",68.794606,16.527217
+785840,"Gullhaugen alle 19, Harstad",68.794455,16.527009
+785841,"Torgveien 1, Harstad",68.791618,16.530258
+785842,"Nicolai Seljestads vei 1B, Harstad",68.791511,16.528169
+785843,"Arnt Arntsens vei 4, Harstad",68.793268,16.530272
+785844,"Arnt Arntsens vei 6, Harstad",68.793455,16.530508
+785845,"Nicolai Seljestads vei 3B, Harstad",68.791497,16.527698
+785846,"Rollnesveien 1, Harstad",68.790998,16.528382
+785847,"Nicolai Seljestads vei 2, Harstad",68.7919,16.527824
+785848,"Nicolai Seljestads vei 3A, Harstad",68.791668,16.527635
+785849,"Rollnesveien 4B, Harstad",68.791364,16.527589
+785850,"Rollnesveien 5, Harstad",68.790978,16.527563
+785851,"Rollnesveien 3, Harstad",68.790982,16.528133
+785852,"Rollnesveien 4A, Harstad",68.791168,16.527452
+785869,"Bøhns gate 2, Harstad",68.790468,16.527453
+785870,"Bøhns gate 4, Harstad",68.790307,16.527286
+785872,"Bøhns gate 1, Harstad",68.790671,16.527765
+785873,"Bøhns gate 7, Harstad",68.790388,16.52834
+785874,"Bøhns gate 8, Harstad",68.789965,16.527493
+785875,"Bøhns gate 5A, Harstad",68.790731,16.528121
+785876,"Bøhns gate 6, Harstad",68.79012,16.527256
+785885,"Gullhaugen alle 13, Harstad",68.795208,16.529043
+785886,"Gullhaugen alle 16, Harstad",68.7947,16.526654
+785887,"Gullhaugen alle 6, Harstad",68.796013,16.529272
+785888,"Gullhaugen alle 7, Harstad",68.79567,16.52957
+785904,"Utsikten 21, Harstad",68.791355,16.518546
+785905,"Utsikten 22, Harstad",68.792007,16.516831
+785906,"Utsikten 19, Harstad",68.791609,16.518266
+785907,"Utsikten 20, Harstad",68.792233,16.516698
+785908,"Utsikten 26, Harstad",68.791626,16.51735
+785909,"Utsikten 28, Harstad",68.791383,16.517433
+785910,"Utsikten 23, Harstad",68.791184,16.518658
+785911,"Utsikten 24, Harstad",68.791801,16.516842
+785912,"Utsikten 34, Harstad",68.790652,16.517953
+785913,"Gullhaugen alle 1, Harstad",68.796216,16.530723
+785914,"Utsikten 30, Harstad",68.791174,16.517741
+785915,"Utsikten 32, Harstad",68.790905,16.517722
+785916,"Gullhaugen alle 5, Harstad",68.795798,16.530223
+785917,"Gullhaugen alle 2, Harstad",68.796311,16.530135
+785918,"Gullhaugen alle 3, Harstad",68.795991,16.530707
+785919,"Utsikten 7, Harstad",68.793418,16.519579
+785920,"Utsikten 8, Harstad",68.793717,16.519277
+785921,"Utsikten 5, Harstad",68.793656,16.520115
+785922,"Utsikten 6, Harstad",68.793919,16.519737
+785923,"Utsikten 12, Harstad",68.793338,16.518483
+785924,"Utsikten 14, Harstad",68.793152,16.518198
+785925,"Utsikten 9, Harstad",68.793056,16.518959
+785926,"Utsikten 11, Harstad",68.792858,16.51897
+785927,"Utsikten 17, Harstad",68.791817,16.518106
+785928,"Utsikten 18, Harstad",68.792426,16.517132
+785929,"Utsikten 15, Harstad",68.792117,16.517631
+785930,"Utsikten 16, Harstad",68.792861,16.517707
+786830,"Trillingen 5B, Harstad",68.796549,16.519545
+786831,"Trillingen 5A, Harstad",68.796593,16.519647
+786832,"Trillingen 4, Harstad",68.797083,16.521018
+786833,"Trillingen 3, Harstad",68.796694,16.520372
+786834,"Trillingen 14, Harstad",68.796495,16.516567
+786835,"Trillingen 11, Harstad",68.796248,16.517096
+786836,"Trillingen 8, Harstad",68.796911,16.519247
+786837,"Trillingen 6, Harstad",68.796967,16.519994
+786840,"Trillingen 16, Harstad",68.796358,16.515864
+786841,"Trillingen 14B, Harstad",68.796573,16.516919
+787809,"Fagerliveien 43, Harstad",68.790127,16.517421
+787810,"Fagerliveien 41, Harstad",68.78986,16.51718
+787811,"Fagerliveien 39, Harstad",68.78954,16.516886
+787896,"Fagerliveien 29, Harstad",68.788379,16.516262
+787897,"Fagerliveien 27, Harstad",68.788208,16.516349
+787898,"Fagerliveien 25, Harstad",68.788,16.516583
+787900,"Fagerliveien 37, Harstad",68.789327,16.516673
+787901,"Fagerliveien 35, Harstad",68.789015,16.516355
+787902,"Fagerliveien 33, Harstad",68.788721,16.516186
+787903,"Fagerliveien 31, Harstad",68.788551,16.516174
+787981,"Verkstedveien 11, Harstad",68.788933,16.541013
+787982,"Verkstedveien 9, Harstad",68.789206,16.541042
+787983,"Verkstedveien 14, Harstad",68.788737,16.539349
+787984,"Verkstedveien 12, Harstad",68.789143,16.540046
+787985,"Myrlundveien 4, Harstad",68.790013,16.536068
+787986,"Myrlundveien 2, Harstad",68.789856,16.536627
+787987,"Myrlundveien 1, Harstad",68.789654,16.536093
+787988,"Verkstedveien 16, Harstad",68.788589,16.539835
+787989,"Myrlundveien 10, Harstad",68.789583,16.534007
+787990,"Myrlundveien 9, Harstad",68.789084,16.533676
+787991,"Myrlundveien 8, Harstad",68.789687,16.534436
+787992,"Myrlundveien 5, Harstad",68.78943,16.535062
+787995,"Myrlundveien 14, Harstad",68.789367,16.533101
+787996,"Myrlundveien 12, Harstad",68.789372,16.533621
+788005,"Verkstedveien 4, Harstad",68.790088,16.538749
+788006,"Verkstedveien 5, Harstad",68.789998,16.539734
+788007,"Verkstedveien 2, Harstad",68.790565,16.53851
+788008,"Verkstedveien 1, Harstad",68.790447,16.539458
+788009,"Verkstedveien 10, Harstad",68.789212,16.539382
+788010,"Verkstedveien 7, Harstad",68.789431,16.540933
+788011,"Margrethe Jørgensens vei 19, Harstad",68.78997,16.542227
+788012,"Margrethe Jørgensens vei 17, Harstad",68.790667,16.542545
+788434,"Hestesletta 9, Harstad",68.78931,16.517564
+788435,"Hestesletta 8, Harstad",68.789133,16.51827
+788436,"Hestesletta 7, Harstad",68.789095,16.51745
+788439,"Hestesletta 12, Harstad",68.789717,16.518137
+788440,"Hestesletta 10, Harstad",68.789421,16.518191
+788562,"Novkollen 52, Harstad",68.786933,16.518492
+788563,"Novkollen 50, Harstad",68.786242,16.518544
+788933,"Klubbveien 9, Harstad",68.794242,16.539606
+788934,"Klubbveien 5, Harstad",68.794648,16.540378
+788935,"Klubbveien 3, Harstad",68.79516,16.541281
+789093,"Heggenveien 18, Harstad",68.793339,16.52044
+789114,"Heggenkollen 2, Harstad",68.789356,16.50736
+789120,"Utsikten 25, Harstad",68.790966,16.518891
+789128,"Bjørnebåsen 4, Harstad",68.795748,16.509776
+789131,"Gullhaugen alle 12, Harstad",68.795135,16.52822
+789144,"Gullhauggata 22, Harstad",68.794234,16.528654
+789157,"Nerheimveien 2, Harstad",68.790469,16.530327
+789160,"Heggenveien 13, Harstad",68.794372,16.522245
+789161,"Torgveien 6, Harstad",68.791071,16.531162
+789194,"Nerheimveien 16, Harstad",68.790336,16.533093
+789196,"Gate 10 6, Harstad",68.792507,16.533168
+789204,"Fjordgata 26B, Harstad",68.796438,16.538891
+789205,"Buveien 17, Harstad",68.788353,16.529166
+789258,"Marcus Pedersens vei 23, Harstad",68.789186,16.526325
+789259,"Marcus Pedersens vei 21, Harstad",68.789418,16.527431
+789260,"Marcus Pedersens vei 20, Harstad",68.789619,16.526132
+789261,"Marcus Pedersens vei 18, Harstad",68.78979,16.52602
+789262,"Bårnakkveien 8, Harstad",68.790096,16.532829
+789263,"Gate 10 2, Harstad",68.792995,16.533747
+789266,"Margrethe Jørgensens vei 13, Harstad",68.794328,16.544333
+789269,"Nerheimveien 14, Harstad",68.79056,16.533133
+789284,"Buveien 14, Harstad",68.789036,16.528049
+789320,"Buveien 23, Harstad",68.788853,16.528433
+789322,"Seljestadveien 40A, Harstad",68.790198,16.529491
+789323,"Seljestadveien 38B, Harstad",68.789904,16.528257
+789324,"Seljestadveien 38A, Harstad",68.790162,16.528547
+789325,"Bøhns gate 10, Harstad",68.789668,16.527572
+789326,"Seljestadveien 45C, Harstad",68.790445,16.531986
+789327,"Seljestadveien 45B, Harstad",68.790229,16.53207
+789328,"Seljestadveien 45A, Harstad",68.789903,16.531379
+789329,"Seljestadveien 40B, Harstad",68.78998,16.528857
+789334,"Nerheimveien 10, Harstad",68.790648,16.532396
+789335,"Nerheimveien 9, Harstad",68.790818,16.532432
+789336,"Nerheimveien 8, Harstad",68.790651,16.531975
+789337,"Nerheimveien 7, Harstad",68.790858,16.53194
+789339,"Nerheimveien 12, Harstad",68.790713,16.533069
+789340,"Seljestadveien 50, Harstad",68.788705,16.530974
+789341,"Seljestadveien 48, Harstad",68.789106,16.531249
+789342,"Marcus Pedersens vei 10, Harstad",68.789636,16.52814
+789343,"Marcus Pedersens vei 9, Harstad",68.789371,16.528716
+789344,"Marcus Pedersens vei 8, Harstad",68.789767,16.528595
+789345,"Marcus Pedersens vei 4, Harstad",68.789938,16.529473
+789346,"Marcus Pedersens vei 16, Harstad",68.789965,16.526478
+789347,"Marcus Pedersens vei 14, Harstad",68.789799,16.527011
+789348,"Marcus Pedersens vei 15, Harstad",68.789228,16.527715
+789349,"Marcus Pedersens vei 11, Harstad",68.789156,16.528676
+789362,"Nerheimveien 5, Harstad",68.790811,16.531169
+789363,"Nerheimveien 4, Harstad",68.790562,16.530953
+789364,"Nerheimveien 3, Harstad",68.790719,16.530394
+789366,"Torgveien 15, Harstad",68.79139,16.533636
+789367,"Torgveien 18, Harstad",68.791019,16.532967
+789368,"Torgveien 16, Harstad",68.7912,16.53283
+789369,"Torgveien 14, Harstad",68.791033,16.532398
+789370,"Buveien 3, Harstad",68.789291,16.530668
+789373,"Torgveien 20, Harstad",68.79113,16.533618
+789374,"Buveien 6, Harstad",68.789561,16.529547
+789376,"Buveien 5, Harstad",68.789349,16.530176
+789378,"Buveien 21, Harstad",68.788418,16.527982
+789379,"Buveien 13, Harstad",68.788955,16.529133
+789380,"Buveien 11, Harstad",68.789112,16.529565
+789381,"Buveien 7, Harstad",68.789116,16.530135
+789382,"Torgveien 12, Harstad",68.791243,16.532016
+789384,"Torgveien 10, Harstad",68.791082,16.53198
+789386,"Torgveien 13, Harstad",68.791432,16.532921
+789387,"Torgveien 5, Harstad",68.791556,16.531096
+789388,"Torgveien 8, Harstad",68.791296,16.531152
+789389,"Torgveien 9, Harstad",68.791503,16.532034
+789436,"Bårnakkveien 6, Harstad",68.79019,16.533355
+789443,"Krokveien 14, Harstad",68.788949,16.535722
+789445,"Krokveien 16, Harstad",68.789312,16.536268
+789447,"Bårnakkveien 12, Harstad",68.789805,16.532313
+789449,"Bårnakkveien 10, Harstad",68.789975,16.532325
+789501,"Heggenveien 15, Harstad",68.794069,16.522002
+789511,"Seljestadveien 6B, Harstad",68.793418,16.531521
+789512,"Seljestadveien 6A, Harstad",68.793497,16.531775
+789513,"Hans Egedes gate 53D, Harstad",68.793628,16.531164
+789514,"Hans Egedes gate 53A, Harstad",68.793752,16.53033
+789527,"Søsterstien 1, Harstad",68.798535,16.52714
+789534,"Søsterstien 4, Harstad",68.799232,16.527461
+789562,"Hans Egedes gate 40D, Harstad",68.795352,16.53101
+789649,"Heggenkollen 5, Harstad",68.788674,16.50833
+789746,"Heggenveien 19, Harstad",68.793664,16.521206
+789747,"Fjordgata 27, Harstad",68.796073,16.53956
+789760,"Granlundveien 14, Harstad",68.797799,16.524215
+789767,"Granlundveien 12, Harstad",68.798143,16.524908
+789768,"Granlundveien 10, Harstad",68.798344,16.525516
+789863,"Storgata 35, Harstad",68.796177,16.538006
+789875,"Myrlundveien 7, Harstad",68.789242,16.534083
+789919,"Folkeparken 2, Harstad",68.795168,16.508406
+789960,"Storgata 50B, Harstad",68.795231,16.534471
+789963,"Seljestadveien 35, Harstad",68.790705,16.529972
+789967,"Selje alle 1, Harstad",68.791809,16.524969
+789968,"St Olavs gate 109B, Harstad",68.791506,16.524725
+789974,"St Olavs gate 109A, Harstad",68.791646,16.525082
+789986,"Storgata 52A, Harstad",68.794871,16.534545
+790006,"Heggen alle 25B, Harstad",68.792037,16.522556
+790007,"Heggen alle 25A, Harstad",68.792244,16.522471
+790050,"Bårnakkveien 1B, Harstad",68.790196,16.536676
+790068,"Margrethe Jørgensens vei 15, Harstad",68.793056,16.543836
+790070,"Hans Egedes gate 40A, Harstad",68.795737,16.533019
+790071,"Skarveien 39, Harstad",68.794305,16.511735
+790082,"Utsikten 13A, Harstad",68.792538,16.51875
+790083,"Utsikten 13B, Harstad",68.792155,16.518427
+790103,"Storgata 50L, Harstad",68.795092,16.534932
+790104,"Storgata 50K, Harstad",68.795065,16.534906
+790105,"Storgata 50J, Harstad",68.795039,16.534854
+790106,"Storgata 50I, Harstad",68.795004,16.534802
+790107,"Storgata 50P, Harstad",68.795103,16.53476
+790108,"Storgata 50O, Harstad",68.795058,16.534682
+790109,"Storgata 50N, Harstad",68.795093,16.534833
+790110,"Storgata 50M, Harstad",68.795031,16.53473
+790111,"Storgata 50F, Harstad",68.794959,16.533833
+790112,"Storgata 50E, Harstad",68.795206,16.534197
+790113,"Storgata 50D, Harstad",68.795189,16.534171
+790114,"Storgata 50C, Harstad",68.795153,16.534119
+790116,"Skarveien 28C, Harstad",68.795989,16.511998
+790117,"Storgata 50H, Harstad",68.795048,16.533889
+790118,"Storgata 50G, Harstad",68.795003,16.533861
+790131,"Bårnakkveien 3, Harstad",68.790003,16.535201
+790155,"Marineveien 1, Harstad",68.79834,16.535875
+790159,"Heggen alle 23B, Harstad",68.792459,16.522511
+790160,"Heggen alle 23A, Harstad",68.792548,16.52247
+790161,"Fagerliveien 26, Harstad",68.788532,16.517288
+790162,"Fagerliveien 28, Harstad",68.7888,16.517331
+790230,"Gullhauggata 31A, Harstad",68.793175,16.527664
+790231,"Gullhauggata 31B, Harstad",68.793122,16.527561
+790234,"Heggen alle 34A, Harstad",68.791325,16.521888
+790235,"Fjordgata 26A, Harstad",68.796345,16.539256
+790242,"Sigurds gate 9D, Harstad",68.796392,16.540003
+790243,"Sigurds gate 9C, Harstad",68.796411,16.53988
+790244,"Sigurds gate 9B, Harstad",68.796428,16.540006
+790245,"Sigurds gate 9A, Harstad",68.796455,16.539908
+790246,"Trillingen 10A, Harstad",68.796786,16.518594
+790247,"Trillingen 12A, Harstad",68.796673,16.517925
+790248,"Sigurds gate 9F, Harstad",68.796408,16.540153
+790249,"Sigurds gate 9E, Harstad",68.796382,16.540077
+790250,"Alfons Johansens vei 7, Harstad",68.793698,16.532334
+790251,"Alfons Johansens vei 5, Harstad",68.79374,16.531717
+790254,"Alfons Johansens vei 15, Harstad",68.793759,16.532536
+790255,"Alfons Johansens vei 13, Harstad",68.793707,16.532309
+790256,"Alfons Johansens vei 11, Harstad",68.793647,16.532033
+790258,"Alfons Johansens vei 9, Harstad",68.79375,16.53256
+790261,"Trillingen 7A, Harstad",68.796475,16.518846
+790262,"Seljestadveien 7, Harstad",68.792989,16.531368
+790265,"Trillingen 9B, Harstad",68.796322,16.517844
+790266,"Trillingen 9A, Harstad",68.796366,16.517996
+790267,"Trillingen 7B, Harstad",68.796432,16.518669
+790270,"Skarveien 6, Harstad",68.796386,16.522805
+790283,"Sykehusstien 8, Harstad",68.796811,16.52442
+790284,"Skarveien 8, Harstad",68.797344,16.52292
+790287,"Alfons Johansens vei 23, Harstad",68.793675,16.531936
+790288,"Alfons Johansens vei 21, Harstad",68.793768,16.532512
+790289,"Alfons Johansens vei 19, Harstad",68.793717,16.532285
+790290,"Alfons Johansens vei 17, Harstad",68.793665,16.532009
+790293,"Alfons Johansens vei 27, Harstad",68.793778,16.532488
+790294,"Alfons Johansens vei 25, Harstad",68.793726,16.532261
+790300,"Heggen alle 2A, Harstad",68.795225,16.524212
+790319,"Heggen alle 26, Harstad",68.792285,16.52188
+790336,"Klubbveien 7, Harstad",68.794524,16.540221
+790337,"Klubbveien 11, Harstad",68.793906,16.539162
+790358,"Heggenveien 33, Harstad",68.791817,16.520089
+790359,"Heggenveien 32, Harstad",68.791473,16.519396
+790360,"Bakkelia 12, Harstad",68.792041,16.520079
+790361,"Bakkelia 13, Harstad",68.791316,16.520872
+790362,"Bakkelia 6, Harstad",68.792701,16.521487
+790363,"Heggenveien 28, Harstad",68.791925,16.519055
+790364,"Heggenveien 24, Harstad",68.792574,16.519694
+790365,"Bakkelia 17, Harstad",68.790938,16.52102
+790368,"Myrlundveien 6, Harstad",68.789772,16.534937
+790373,"Heggenveien 25, Harstad",68.792823,16.520876
+790374,"Bakkelia 16, Harstad",68.791547,16.520219
+790375,"Heggenveien 29, Harstad",68.792542,16.520212
+790376,"Bakkelia 9, Harstad",68.791971,16.520892
+790377,"Heggenveien 26, Harstad",68.792336,16.519257
+790378,"Bakkelia 7, Harstad",68.79224,16.52091
+790379,"Heggenveien 36, Harstad",68.791014,16.519538
+790380,"Heggenveien 34, Harstad",68.791266,16.519506
+790381,"Heggenveien 30, Harstad",68.791681,16.519212
+790382,"Bakkelia 23, Harstad",68.79048,16.520072
+790383,"Heggenveien 2, Harstad",68.795645,16.520301
+790384,"Bakkelia 24, Harstad",68.790791,16.519399
+790385,"Bakkelia 26, Harstad",68.790716,16.518799
+790386,"Bakkelia 15, Harstad",68.791127,16.520958
+790387,"Bakkelia 18, Harstad",68.791305,16.520177
+790388,"Bakkelia 19, Harstad",68.79075,16.521007
+790389,"Bakkelia 21, Harstad",68.790501,16.520742
+790398,"Rollnesveien 9D, Harstad",68.790893,16.526071
+790399,"Rollnesveien 9C, Harstad",68.790974,16.526076
+790400,"Rollnesveien 9B, Harstad",68.790993,16.525879
+790401,"Rollnesveien 9A, Harstad",68.790894,16.525922
+790402,"Rollnesveien 11A, Harstad",68.790682,16.525561
+790403,"Rollnesveien 11D, Harstad",68.79069,16.52571
+790404,"Rollnesveien 11C, Harstad",68.790788,16.525716
+790405,"Rollnesveien 11B, Harstad",68.790781,16.525518
+790420,"Bårnakkveien 1A, Harstad",68.790709,16.535547
+790432,"Storgata 52B, Harstad",68.79489,16.534472
+790436,"Fagerliveien 45, Harstad",68.790393,16.517786
+790472,"Fagerliveien 22, Harstad",68.787557,16.517915
+790478,"Båtbygger Danielsens vei 13, Harstad",68.788161,16.537575
+790489,"Fagerliveien 20, Harstad",68.78777,16.518251
+790490,"Fagerliveien 18, Harstad",68.78753,16.518929
+790492,"Fjordgata 40, Harstad",68.794955,16.537252
+790519,"Hans Egedes gate 24D, Harstad",68.797254,16.536891
+790520,"Hans Egedes gate 24C, Harstad",68.797351,16.537145
+790521,"Hans Egedes gate 24B, Harstad",68.7973,16.536844
+790522,"Hans Egedes gate 24A, Harstad",68.797396,16.537099
+790560,"Novkollen 55, Harstad",68.786727,16.516471
+790564,"Buveien 15A, Harstad",68.788766,16.52917
+790565,"Seljestadveien 36B, Harstad",68.790409,16.528961
+790571,"Buveien 15B, Harstad",68.788663,16.529633
+790592,"Trillingen 13, Harstad",68.796214,16.516969
+790666,"Heggenkollen 11, Harstad",68.790155,16.510313
+790667,"Rollnesveien 7E, Harstad",68.790643,16.526945
+790668,"Rollnesveien 7D, Harstad",68.790529,16.526665
+790670,"Seljestadveien 36A, Harstad",68.790739,16.529231
+790685,"St Olavs gate 111B, Harstad",68.791311,16.524439
+790686,"St Olavs gate 111A, Harstad",68.791374,16.524444
+790689,"Nicolai Iversens vei 8, Harstad",68.790042,16.524947
+790716,"Nicolai Iversens vei 18B, Harstad",68.790555,16.5258
+790717,"Nicolai Iversens vei 18A, Harstad",68.790583,16.525678
+790751,"Krokveien 8A, Harstad",68.788952,16.536515
+790813,"Kveldteigen 3, Harstad",68.795161,16.516253
+790814,"Kveldteigen 1, Harstad",68.795319,16.516735
+790816,"Skarveien 23, Harstad",68.795508,16.515799
+790817,"Kveldteigen 9, Harstad",68.794589,16.515025
+790818,"Kveldteigen 7, Harstad",68.794905,16.516855
+790819,"Kveldteigen 5, Harstad",68.794917,16.515468
+790820,"Kveldteigen 10, Harstad",68.79508,16.513299
+790821,"Kveldteigen 8, Harstad",68.794909,16.514353
+790822,"Kveldteigen 6, Harstad",68.795014,16.514707
+790823,"Kveldteigen 4, Harstad",68.795233,16.515267
+790825,"Kveldteigen 2, Harstad",68.795441,16.515826
+790826,"Kveldteigen 12, Harstad",68.794872,16.513483
+790828,"Gullhauggata 6, Harstad",68.795904,16.531445
+790829,"St Olavs gate 67C, Harstad",68.79651,16.528909
+790830,"St Olavs gate 67B, Harstad",68.796535,16.529134
+790831,"St Olavs gate 67A, Harstad",68.796465,16.52898
+790832,"St Olavs gate 69, Harstad",68.796254,16.529412
+790838,"St Olavs gate 67D, Harstad",68.796572,16.529037
+790979,"Margrethe Jørgensens vei 8, Harstad",68.790802,16.541127
+790982,"Nicolai Iversens vei 16B, Harstad",68.790324,16.525486
+790983,"Nicolai Iversens vei 16A, Harstad",68.790253,16.525382
+790987,"Nicolai Iversens vei 16D, Harstad",68.790352,16.525364
+790988,"Nicolai Iversens vei 16C, Harstad",68.790272,16.52526
+791009,"St Olavs gate 107A, Harstad",68.791683,16.524014
+791021,"Søsterstien 2C, Harstad",68.799485,16.528296
+791022,"Søsterstien 2A, Harstad",68.798889,16.527734
+791023,"Seljestadveien 36C, Harstad",68.790464,16.528865
+791025,"Søsterstien 2E, Harstad",68.799543,16.52882
+791026,"Søsterstien 2F, Harstad",68.799401,16.528637
+791027,"Søsterstien 2D, Harstad",68.799617,16.528602
+791127,"Hans Egedes gate 70B, Harstad",68.792107,16.526773
+791129,"Hans Egedes gate 70A, Harstad",68.792169,16.526852
+791143,"Myrlundveien 16, Harstad",68.789174,16.532691
+791146,"Torgveien 4A, Harstad",68.791041,16.53059
+791147,"Storgata 63H, Harstad",68.793887,16.534279
+791149,"Storgata 63G, Harstad",68.793898,16.534057
+791154,"Gullhaugen alle 17A, Harstad",68.794699,16.527769
+791155,"Gullhaugen alle 15A, Harstad",68.794793,16.52837
+791157,"Gullhaugen alle 15B, Harstad",68.794893,16.528179
+791162,"St Olavs gate 107B, Harstad",68.791683,16.524321
+791204,"Storgata 63D, Harstad",68.793959,16.53421
+791205,"Margrethe Jørgensens vei 6, Harstad",68.791868,16.540309
+791206,"Storgata 63C, Harstad",68.793986,16.534261
+791207,"Torgveien 4C, Harstad",68.791193,16.530575
+791208,"Storgata 63B, Harstad",68.79405,16.534068
+791209,"Torgveien 4B, Harstad",68.791121,16.530595
+791210,"Storgata 63A, Harstad",68.793997,16.533965
+791211,"Sara Hauges vei 1, Harstad",68.792973,16.535158
+791215,"Storgata 63F, Harstad",68.79394,16.534382
+791217,"Storgata 63E, Harstad",68.793933,16.534159
+791234,"Myrlundveien 11, Harstad",68.788991,16.533075
+791240,"Hans Egedes gate 26B, Harstad",68.797124,16.536436
+791241,"Hans Egedes gate 26A, Harstad",68.797167,16.536612
+791242,"Hans Egedes gate 30B, Harstad",68.796748,16.535319
+791243,"Hans Egedes gate 30A, Harstad",68.796783,16.535446
+791244,"Asbjørn Selsbanes gate 19B, Harstad",68.797363,16.535733
+791245,"Asbjørn Selsbanes gate 19A, Harstad",68.797407,16.535885
+791246,"Asbjørn Selsbanes gate 25B, Harstad",68.796783,16.53443
+791247,"Asbjørn Selsbanes gate 25A, Harstad",68.796863,16.534559
+791250,"Asbjørn Selsbanes gate 21, Harstad",68.79725,16.535379
+791251,"Hans Egedes gate 28, Harstad",68.796976,16.535955
+791268,"Søsterstien 2B, Harstad",68.799198,16.528301
+791278,"Storgata 24, Harstad",68.79752,16.539263
+791302,"6. Divisjons gate 5B, Harstad",68.796384,16.53294
+791303,"6. Divisjons gate 5A, Harstad",68.796385,16.533807
+791340,"Heggenkollen 1, Harstad",68.78935,16.504957
+1119460,"Rollnesveien 7F, Harstad",68.79078,16.527232
+1648509,"Nicolai Iversens vei 17A, Harstad",68.790338,16.526184
+1648513,"Nicolai Iversens vei 17B, Harstad",68.790239,16.525949
+1648516,"Nicolai Iversens vei 17C, Harstad",68.790313,16.526249
+1648518,"Nicolai Iversens vei 17D, Harstad",68.790213,16.526031
+1665606,"Krokveien 1, Harstad",68.788441,16.534176
+1674306,"Skarveien 13A, Harstad",68.795754,16.51953
+1674322,"Skarveien 11, Harstad",68.795506,16.519302
+1704419,"Bøhns gate 5B, Harstad",68.790633,16.528151
+1704420,"Bøhns gate 5C, Harstad",68.790642,16.52837
+1704422,"Bøhns gate 5D, Harstad",68.790727,16.528361
+1723159,"Heggenkollen 3, Harstad",68.787256,16.505858
+1816908,"Skarveien 13B, Harstad",68.795745,16.519239
+1937745,"Gullhaugen alle 14, Harstad",68.795063,16.526545
+1942539,"Trillingen 10B, Harstad",68.796742,16.518264
+1942540,"Trillingen 12B, Harstad",68.796617,16.517626
+1943780,"Fagerliveien 24, Harstad",68.788688,16.518376
+1964195,"Rollnesveien 4C, Harstad",68.791386,16.526934
+1977949,"Storgata 63I, Harstad",68.793967,16.534049
+1996106,"Gullhauggata 2B, Harstad",68.796498,16.529768
+1996107,"Gullhauggata 4, Harstad",68.796442,16.530272
+2003771,"Krokveien 8B, Harstad",68.788994,16.536652
+2051278,"Fjellveien 10, Harstad",68.793839,16.50901
+2053286,"Folkeparken 6, Harstad",68.793911,16.506584
+2058378,"Fjellveien 49, Harstad",68.792442,16.502728
+2059024,"Krokveien 4B, Harstad",68.788017,16.535391
+2059027,"Krokveien 4G, Harstad",68.788585,16.535507
+2059028,"Krokveien 4H, Harstad",68.788392,16.535892
+2059029,"Krokveien 4I, Harstad",68.788331,16.536074
+2059030,"Krokveien 4J, Harstad",68.788262,16.53626
+2059031,"Krokveien 4C, Harstad",68.787955,16.53557
+2059033,"Krokveien 4D, Harstad",68.788196,16.535725
+2059035,"Krokveien 4E, Harstad",68.788134,16.535916
+2059036,"Krokveien 4F, Harstad",68.788519,16.535321
+2066073,"6. Divisjons gate 3B, Harstad",68.796495,16.534425
+2072967,"Verkstedveien 3, Harstad",68.790223,16.539571
+2072968,"Margrethe Jørgensens vei 1, Harstad",68.793374,16.540577
+2072971,"Margrethe Jørgensens vei 3, Harstad",68.793899,16.539984
+2074519,"Margrethe Jørgensens vei 12, Harstad",68.79205,16.542876
+2102624,"Buveien 19C, Harstad",68.788546,16.528704
+2102625,"Buveien 19D, Harstad",68.788513,16.528756
+2102626,"Buveien 19E, Harstad",68.788433,16.528592
+2102627,"Buveien 19F, Harstad",68.788488,16.528507
+2102628,"Buveien 19A, Harstad",68.788651,16.528533
+2102629,"Buveien 19B, Harstad",68.788611,16.528584
+2102650,"Buveien 19G, Harstad",68.788536,16.528426
+2102652,"Buveien 19H, Harstad",68.788597,16.528328
+2330616,"Seljestadveien 54, Harstad",68.78881,16.532245
+2376063,"Buveien 8, Harstad",68.78938,16.529148
+2459196,"Storgata 39, Harstad",68.795802,16.537757
+2485136,"Klubbveien 14, Harstad",68.793251,16.538854
+2547188,"Fjordgata 33B, Harstad",68.795365,16.539511

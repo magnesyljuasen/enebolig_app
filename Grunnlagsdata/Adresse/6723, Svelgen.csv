@@ -1,0 +1,917 @@
+,Navn,Long,Lat
+7102,"42/32, Midtgulen",61.735738,5.163561
+7103,"41/1-1, Midtgulen",61.755022,5.15507
+7104,"41/6, Midtgulen",61.74369,5.150021
+7105,"41/5, Midtgulen",61.743296,5.149767
+7106,"37/14, Midtgulen",61.772045,5.297407
+7107,"37/12, Midtgulen",61.770624,5.29737
+7108,"37/8, Midtgulen",61.774945,5.292656
+7109,"37/5, Midtgulen",61.771756,5.298011
+7134,"44/5, Midtgulen",61.705872,5.270915
+7135,"38/240, Midtgulen",61.762826,5.266348
+33777,"41/1-4, Midtgulen",61.742867,5.149539
+33778,"37/196, Midtgulen",61.78244,5.319048
+34135,"37/7-1, Midtgulen",61.770818,5.299448
+35685,"38/264-1, Midtgulen",61.766749,5.281263
+36303,"10/26, Kinn",61.634538,5.009763
+36304,"10/29, Kinn",61.636044,5.00702
+36659,"44/4, Midtgulen",61.703677,5.238651
+36660,"44/1, Midtgulen",61.703072,5.23863
+36661,"42/12, Midtgulen",61.737186,5.166995
+36663,"44/3, Midtgulen",61.701109,5.238756
+38139,"36/40, Midtgulen",61.780206,5.180405
+40297,"41/18, Midtgulen",61.755521,5.156739
+395347,"Frøysjøvegen 3993, Kinn",61.662331,4.989063
+395348,"Frøysjøvegen 3977, Kinn",61.663465,4.988481
+395349,"Frøysjøvegen 3811, Kinn",61.674614,4.972836
+395350,"Frøysjøvegen 3900, Kinn",61.6681,4.979198
+395351,"Frøysjøvegen 4035, Kinn",61.658938,4.993833
+395352,"Frøysjøvegen 4077, Kinn",61.656559,5.000683
+395353,"Frøysjøvegen 4007, Kinn",61.659222,4.991849
+395354,"Frøysjøvegen 4075, Kinn",61.656802,4.999479
+395355,"Frøysjøvegen 4114, Kinn",61.65431,5.00553
+395356,"Frøysjøvegen 4100, Kinn",61.654923,5.004373
+395357,"Frøysjøvegen 4133, Kinn",61.652629,5.004311
+395358,"Frøysjøvegen 4120, Kinn",61.653769,5.005505
+395359,"Frøysjøvegen 4301, Kinn",61.64052,5.000585
+395360,"Køyrevika 1, Kinn",61.633039,5.014681
+395361,"Frøysjøvegen 4128, Kinn",61.653156,5.005413
+395362,"Frøysjøvegen 4255, Kinn",61.643434,5.005644
+395363,"Kyravika 2, Kinn",61.641304,5.000672
+395364,"Kyravika 10, Kinn",61.644564,5.00025
+395365,"Årebrotsneset 10, Kinn",61.628817,4.999094
+395366,"Kyravika 6, Kinn",61.643355,5.00103
+395367,"Sundet 2, Kinn",61.645661,5.000562
+395368,"Frøysjøvegen 4220, Kinn",61.644844,5.008
+395369,"Uravågen 1, Kinn",61.644541,5.004694
+395370,"Frøysjøvegen 4303, Kinn",61.640344,5.001042
+395371,"Uraholmen 1, Kinn",61.640475,4.995678
+395372,"Frøysjøvegen 4150, Kinn",61.653317,5.013106
+395373,"Kyravika 4, Kinn",61.64197,5.000699
+395375,"Frøysjøvegen 4160, Kinn",61.65167,5.009633
+395378,"Apalholmen 1, Kinn",61.630035,4.952563
+395385,"Frøysjøvegen 4154, Kinn",61.650761,5.016366
+395389,"Frøysjøvegen 4200, Kinn",61.647047,5.009549
+396125,"Frøysjøvegen 3565, Kinn",61.694314,4.983846
+396126,"Frøysjøvegen 3672, Kinn",61.68798,4.976325
+396127,"Frøysjøvegen 3680, Kinn",61.68667,4.975345
+396128,"Frøysjøvegen 3520, Kinn",61.695031,4.988069
+396129,"Frøysjøvegen 3670, Kinn",61.687633,4.974833
+397902,"Uraøya 2, Kinn",61.64642,4.998555
+397924,"Frøysjøvegen 3673, Kinn",61.687232,4.972883
+397934,"Frøysjøvegen 4277, Kinn",61.642579,5.00303
+397947,"Kyravika 8, Kinn",61.643618,5.000505
+398139,"Frøysjøvegen 4335, Kinn",61.637443,4.999887
+398143,"Frøysjøvegen 4305, Kinn",61.639857,5.000978
+398750,"Frøysjøvegen 4009, Kinn",61.659918,4.992213
+398779,"Sundet 1, Kinn",61.645512,5.000714
+398989,"Frøysjøvegen 4011, Kinn",61.660277,4.992626
+399185,"Frøysjøvegen 4291, Kinn",61.640661,5.001719
+399197,"Frøysjøvegen 4130, Kinn",61.653183,5.006018
+399202,"Frøysjøvegen 4257, Kinn",61.643131,5.00567
+399279,"Frøysjøvegen 3660, Kinn",61.687844,4.974431
+399293,"Frøysjøvegen 3662, Kinn",61.688305,4.974522
+399328,"Uraøya 3, Kinn",61.646599,4.996699
+399329,"Frøysjøvegen 4131, Kinn",61.652784,5.004385
+399330,"Uraholmen 2, Kinn",61.640987,4.995687
+399380,"Frøysjøvegen 4270, Kinn",61.641983,5.005441
+399382,"Frøysjøvegen 3815, Kinn",61.673902,4.972295
+602892,"Frøysjøvegen 2838, Midtgulen",61.725817,4.99607
+602893,"Frøysjøvegen 2754, Midtgulen",61.730509,4.986219
+602894,"Frøysjøvegen 2756, Midtgulen",61.730209,4.985099
+602895,"Frøysjøvegen 2766, Midtgulen",61.729163,4.985292
+602896,"Frøysjøvegen 2848, Midtgulen",61.725614,4.997103
+602897,"Frøysjøvegen 2820, Midtgulen",61.726452,4.992624
+602898,"Frøysjøvegen 2195, Midtgulen",61.756926,5.059774
+602899,"Frøysjøvegen 2069, Midtgulen",61.752969,5.082906
+602900,"Frøysjøvegen 3160, Midtgulen",61.721908,4.975798
+602901,"Frøysjøvegen 3172, Midtgulen",61.722851,4.974235
+602902,"Frøysjøvegen 3144, Midtgulen",61.721342,4.978297
+602903,"Frøysjøvegen 3152, Midtgulen",61.721705,4.977151
+602904,"Frøysjøvegen 2961, Midtgulen",61.719301,5.008118
+602905,"Frøysjøvegen 2962, Midtgulen",61.718172,5.013377
+602916,"Frøysjøvegen 3130, Midtgulen",61.720973,4.981907
+602917,"Frøysjøvegen 3134, Midtgulen",61.721095,4.980262
+602918,"Frøysjøvegen 3196, Midtgulen",61.722113,4.971193
+602934,"Frøysjøvegen 132, Midtgulen",61.721017,5.176134
+602935,"Frøysjøvegen 43, Midtgulen",61.721534,5.190915
+602936,"Frøysjøvegen 125, Midtgulen",61.721594,5.17718
+602937,"Frøysjøvegen 64, Midtgulen",61.721012,5.186269
+602938,"Frøysjøvegen 37, Midtgulen",61.721288,5.192334
+602939,"Frøysjøvegen 83, Midtgulen",61.722288,5.184027
+602940,"Gulevegen 1287, Midtgulen",61.720999,5.199779
+602941,"Frøysjøvegen 47, Midtgulen",61.721897,5.19
+602942,"Frøysjøvegen 649, Midtgulen",61.723153,5.156997
+602943,"Frøysjøvegen 736, Midtgulen",61.728125,5.146907
+602944,"Frøysjøvegen 593, Midtgulen",61.719585,5.163507
+602945,"Frøysjøvegen 543, Midtgulen",61.715128,5.165463
+602946,"Frøysjøvegen 565, Midtgulen",61.717516,5.165935
+602947,"Frøysjøvegen 130, Midtgulen",61.720441,5.176111
+602948,"Frøysjøvegen 78, Midtgulen",61.721638,5.183918
+602949,"Sørgulevegen 8, Midtgulen",61.707362,5.115096
+602950,"Kvennhusvegen 2, Midtgulen",61.705692,5.107903
+602951,"Frøysjøvegen 1448, Midtgulen",61.703429,5.11048
+602952,"Kvennhusvegen 1, Midtgulen",61.70592,5.107382
+602953,"Frøysjøvegen 995, Midtgulen",61.741759,5.118852
+602954,"Frøysjøvegen 999, Midtgulen",61.7411,5.118442
+602955,"Frøysjøvegen 615, Midtgulen",61.721112,5.161233
+602956,"Frøysjøvegen 688, Midtgulen",61.723789,5.149987
+602957,"Sørgulevegen 16, Midtgulen",61.706244,5.11408
+602958,"Sørgulevegen 14, Midtgulen",61.706455,5.11515
+602959,"Sagebøvegen 1, Midtgulen",61.717276,5.10591
+602960,"Sørgulevegen 10, Midtgulen",61.70711,5.114617
+602961,"Sørgulevegen 12, Midtgulen",61.706812,5.114427
+602962,"Sagebøvegen 11, Midtgulen",61.720447,5.10443
+602963,"Sagebøvegen 3, Midtgulen",61.718957,5.105823
+602964,"Sørgulevegen 2, Midtgulen",61.707317,5.116352
+602965,"Sandvika 25, Midtgulen",61.739899,5.167724
+602966,"Gulevegen 807, Midtgulen",61.737463,5.178603
+602967,"Sandvika 19, Midtgulen",61.739604,5.16905
+602968,"Sandvika 17, Midtgulen",61.73954,5.169664
+602969,"Sandvika 1, Midtgulen",61.739401,5.170478
+602970,"Gulevegen 772, Midtgulen",61.739409,5.171728
+602971,"Gulevegen 774, Midtgulen",61.739463,5.173332
+602972,"Gulevegen 735, Midtgulen",61.739016,5.164955
+602973,"Gulevegen 894, Midtgulen",61.737731,5.193448
+602974,"Ytrehusvegen 7, Midtgulen",61.736351,5.197144
+602975,"Gulevegen 945, Midtgulen",61.734025,5.201732
+602976,"Sandvika 7, Midtgulen",61.740379,5.169124
+602977,"Sandvika 3, Midtgulen",61.739765,5.170319
+602978,"Sandvika 23, Midtgulen",61.739968,5.168265
+602979,"Sandvika 21, Midtgulen",61.739949,5.168835
+602980,"Sandvika 27, Midtgulen",61.739524,5.167487
+602981,"Gulevegen 878, Midtgulen",61.737846,5.191103
+602982,"Gulevegen 874, Midtgulen",61.737481,5.190598
+602983,"Gulevegen 881, Midtgulen",61.737042,5.191278
+602984,"Gulevegen 875, Midtgulen",61.736794,5.189792
+602985,"Gulevegen 870, Midtgulen",61.737481,5.189086
+602986,"Gulevegen 872, Midtgulen",61.737491,5.18999
+602987,"Hesteberget 3, Midtgulen",61.736929,5.188828
+602988,"Ytrehusvegen 1, Midtgulen",61.736833,5.195416
+602989,"Gulevegen 988, Midtgulen",61.732614,5.208846
+602990,"Gulevegen 1018, Midtgulen",61.730866,5.212619
+602991,"Gulevegen 1036, Midtgulen",61.730534,5.215578
+602992,"Hesteberget 1, Midtgulen",61.736779,5.187956
+602993,"Gulevegen 876, Midtgulen",61.737579,5.191211
+602994,"Nesbøvegen 1020, Midtgulen",61.764151,5.112291
+602995,"Nesbøvegen 1094, Midtgulen",61.76213,5.099344
+602996,"Nesbøvegen 1095, Midtgulen",61.762767,5.098764
+602997,"Nesbøvegen 1056, Midtgulen",61.763186,5.10583
+602998,"Nesbøvegen 1067, Midtgulen",61.763664,5.103683
+602999,"Nesbøvegen 1078, Midtgulen",61.763029,5.102834
+603000,"Nesbøvegen 902, Midtgulen",61.76159,5.128794
+603002,"Nesbøvegen 977, Midtgulen",61.765468,5.119409
+603003,"Nesbøvegen 870, Midtgulen",61.760708,5.131959
+603004,"Nesbøvegen 869, Midtgulen",61.761498,5.131917
+603005,"Nesbøvegen 868, Midtgulen",61.760524,5.13405
+603006,"Nesbøvegen 615, Midtgulen",61.772928,5.170213
+603007,"Nesbøvegen 568, Midtgulen",61.772848,5.17773
+603008,"Nesbøvegen 904, Midtgulen",61.761717,5.126786
+603009,"Nesbøvegen 1090, Midtgulen",61.762197,5.100454
+603010,"Rise 6, Midtgulen",61.764333,5.284413
+603011,"Rise 9, Midtgulen",61.763916,5.284956
+603012,"Nesbøvegen 776, Midtgulen",61.766795,5.144777
+603013,"Nesbøvegen 514, Midtgulen",61.772174,5.186545
+603014,"Nesbøvegen 789, Midtgulen",61.766452,5.141276
+603015,"Nesbøvegen 778, Midtgulen",61.766348,5.143831
+603016,"Sandvik, Gulevegen 783, Midtgulen",61.738986,5.174671
+603017,"Gulevegen 693, Midtgulen",61.7398,5.15553
+603018,"Gulevegen 687, Midtgulen",61.74068,5.154226
+603019,"Gulevegen 144, Midtgulen",61.759082,5.20983
+603020,"Gulevegen 5, Midtgulen",61.761802,5.236857
+603021,"Gulevegen 31, Midtgulen",61.762228,5.231498
+603042,"Nesbøvegen 951, Midtgulen",61.766098,5.122934
+603043,"Nesbøvegen 961, Midtgulen",61.766261,5.122363
+603305,"Krunevegen 3A, Midtgulen",61.76753,5.290628
+603306,"Krunevegen 2, Midtgulen",61.767838,5.290705
+603307,"Krokvegen 24, Midtgulen",61.764274,5.251206
+603308,"Krokvegen 22, Midtgulen",61.764,5.251391
+603309,"Krokvegen 20, Midtgulen",61.76392,5.25142
+603310,"Krokvegen 19, Midtgulen",61.763976,5.250503
+603311,"Krokvegen 18, Midtgulen",61.763839,5.25143
+603312,"Krokvegen 17, Midtgulen",61.764149,5.250596
+603314,"Krunevegen 4B, Midtgulen",61.767654,5.290215
+603316,"Krunevegen 4A, Midtgulen",61.767684,5.290325
+603317,"Krunevegen 3F, Midtgulen",61.767312,5.290218
+603319,"Krunevegen 3E, Midtgulen",61.767351,5.290308
+603321,"Krunevegen 3D, Midtgulen",61.767397,5.290379
+603323,"Krunevegen 3C, Midtgulen",61.767436,5.290469
+603324,"Krunevegen 3B, Midtgulen",61.767481,5.290463
+603339,"Kringomvegen 30, Midtgulen",61.764023,5.253229
+603340,"Kringomvegen 28, Midtgulen",61.764098,5.253314
+603341,"Kringomvegen 26, Midtgulen",61.76417,5.253343
+603342,"Kringomvegen 24, Midtgulen",61.764262,5.253427
+603343,"Kringomvegen 22, Midtgulen",61.764344,5.253436
+603344,"Kringomvegen 20, Midtgulen",61.764341,5.252374
+603345,"Kringomvegen 18, Midtgulen",61.764551,5.252159
+603346,"Kringomvegen 16, Midtgulen",61.764742,5.252249
+603347,"Kringomvegen 42, Midtgulen",61.763513,5.252627
+603348,"Kringomvegen 41, Midtgulen",61.763438,5.253186
+603349,"Kringomvegen 40, Midtgulen",61.763606,5.252748
+603350,"Kringomvegen 39, Midtgulen",61.763672,5.253518
+603351,"Kringomvegen 38, Midtgulen",61.76369,5.252871
+603352,"Kringomvegen 36, Midtgulen",61.763775,5.253012
+603353,"Kringomvegen 34, Midtgulen",61.763849,5.253098
+603354,"Kringomvegen 32, Midtgulen",61.763932,5.253183
+603355,"Krokvegen 4, Midtgulen",61.763244,5.251009
+603356,"Krokvegen 3, Midtgulen",61.762839,5.251002
+603357,"Krokvegen 2, Midtgulen",61.763145,5.251002
+603358,"Krokvegen 1, Midtgulen",61.763441,5.251972
+603359,"Kringomvegen 48, Midtgulen",61.762946,5.251615
+603360,"Kringomvegen 46, Midtgulen",61.763114,5.251841
+603361,"Kringomvegen 44, Midtgulen",61.763258,5.252184
+603362,"Kringomvegen 43, Midtgulen",61.763211,5.252777
+603363,"Krokvegen 16, Midtgulen",61.763755,5.251289
+603364,"Krokvegen 14, Midtgulen",61.763655,5.251263
+603365,"Krokvegen 12, Midtgulen",61.763574,5.251254
+603366,"Krokvegen 10, Midtgulen",61.763509,5.251167
+603367,"Krokvegen 8, Midtgulen",61.763417,5.251102
+603368,"Krokvegen 7, Midtgulen",61.763065,5.250405
+603369,"Krokvegen 6, Midtgulen",61.763326,5.251056
+603370,"Krokvegen 5, Midtgulen",61.762816,5.250492
+603371,"Gunnar Schjelderups veg 200C, Midtgulen",61.765258,5.257972
+603372,"Gunnar Schjelderups veg 200B, Midtgulen",61.765422,5.25837
+603373,"Gunnar Schjelderups veg 200A, Midtgulen",61.76512,5.258501
+603374,"Gunnar Schjelderups veg 120B, Midtgulen",61.762606,5.267082
+603375,"Gunnar Schjelderups veg 120A, Midtgulen",61.762582,5.267241
+603376,"Gunnar Schjelderups veg 118B, Midtgulen",61.762512,5.267676
+603377,"Gunnar Schjelderups veg 118A, Midtgulen",61.76249,5.267849
+603378,"Gunnar Schjelderups veg 116, Midtgulen",61.762486,5.269026
+603379,"Hjortevegen 2, Midtgulen",61.775157,5.283219
+603380,"Haugane 3, Midtgulen",61.76679,5.281214
+603381,"Haugane 1, Midtgulen",61.767082,5.281709
+603382,"Gunnar Schjelderups veg 204C, Midtgulen",61.765772,5.255045
+603383,"Gunnar Schjelderups veg 204B, Midtgulen",61.765554,5.254655
+603384,"Gunnar Schjelderups veg 204A, Midtgulen",61.765324,5.254436
+603385,"Gunnar Schjelderups veg 202B, Midtgulen",61.765871,5.257025
+603386,"Gunnar Schjelderups veg 202A, Midtgulen",61.765499,5.256596
+603387,"Jølet 1, Midtgulen",61.769953,5.297147
+603388,"Hjortevegen 11, Midtgulen",61.775682,5.284351
+603389,"Hjortevegen 10, Midtgulen",61.775262,5.284098
+603390,"Hjortevegen 9, Midtgulen",61.775788,5.283598
+603391,"Hjortevegen 7, Midtgulen",61.775827,5.283062
+603392,"Hjortevegen 6, Midtgulen",61.775537,5.282964
+603393,"Hjortevegen 5, Midtgulen",61.775768,5.282215
+603394,"Hjortevegen 3, Midtgulen",61.775635,5.281605
+603395,"Kringomvegen 14, Midtgulen",61.764894,5.252516
+603396,"Kringomvegen 12, Midtgulen",61.764993,5.252883
+603397,"Kringomvegen 10, Midtgulen",61.765165,5.253241
+603398,"Kringomvegen 8, Midtgulen",61.765361,5.253521
+603399,"Kringomvegen 6, Midtgulen",61.765616,5.253945
+603400,"Kringomvegen 4, Midtgulen",61.765858,5.254257
+603401,"Kringomvegen 2, Midtgulen",61.766126,5.254547
+603402,"Kringomvegen 1, Midtgulen",61.766322,5.254808
+603403,"Gunnar Schjelderups veg 11A, Midtgulen",61.768256,5.291826
+603404,"Granden 2, Midtgulen",61.768326,5.289489
+603405,"Granden 5A, Midtgulen",61.768898,5.289805
+603406,"Gunnar Schjelderups veg 14A, Midtgulen",61.768815,5.290555
+603407,"Furuvegen 5, Midtgulen",61.775934,5.286332
+603408,"Furuvegen 3, Midtgulen",61.775929,5.28582
+603409,"Erlevegen 28, Midtgulen",61.766232,5.260377
+603410,"Erlevegen 27, Midtgulen",61.766083,5.259883
+603411,"Gunnar Schjelderups veg 20, Midtgulen",61.768108,5.289724
+603412,"Gunnar Schjelderups veg 19B, Midtgulen",61.767849,5.289992
+603413,"Gunnar Schjelderups veg 19A, Midtgulen",61.767945,5.290106
+603414,"Gunnar Schjelderups veg 18, Midtgulen",61.768189,5.290056
+603415,"Gunnar Schjelderups veg 17, Midtgulen",61.768037,5.290434
+603416,"Gunnar Schjelderups veg 16, Midtgulen",61.768278,5.290386
+603417,"Gunnar Schjelderups veg 15, Midtgulen",61.768186,5.290966
+603418,"Gunnar Schjelderups veg 13, Midtgulen",61.76825,5.291338
+603419,"Gunnar Schjelderups veg 103, Midtgulen",61.762255,5.27078
+603420,"Gunnar Schjelderups veg 102, Midtgulen",61.762577,5.271708
+603421,"Gunnar Schjelderups veg 101, Midtgulen",61.762251,5.271615
+603422,"Gunnar Schjelderups veg 100, Midtgulen",61.762565,5.27226
+603423,"Gunnar Schjelderups veg 23, Midtgulen",61.767669,5.289132
+603424,"Gunnar Schjelderups veg 22, Midtgulen",61.768009,5.289394
+603425,"Gunnar Schjelderups veg 114, Midtgulen",61.762527,5.269552
+603426,"Gunnar Schjelderups veg 112B, Midtgulen",61.762558,5.27011
+603427,"Gunnar Schjelderups veg 111, Midtgulen",61.76191,5.266757
+603428,"Gunnar Schjelderups veg 110, Midtgulen",61.762563,5.270553
+603429,"Gunnar Schjelderups veg 108, Midtgulen",61.762561,5.271122
+603430,"Gunnar Schjelderups veg 107, Midtgulen",61.762249,5.269889
+603431,"Gunnar Schjelderups veg 105, Midtgulen",61.762252,5.270344
+603432,"Gunnar Schjelderups veg 104, Midtgulen",61.762771,5.271571
+603433,"Elvavegen 10, Midtgulen",61.768853,5.294358
+603434,"Elvavegen 9, Midtgulen",61.76908,5.295431
+603435,"Elvavegen 7, Midtgulen",61.769276,5.295711
+603436,"Elvavegen 5, Midtgulen",61.769545,5.29602
+603437,"Elvavegen 3, Midtgulen",61.769776,5.296238
+603438,"Einebakken 11, Midtgulen",61.775917,5.281059
+603439,"Einebakken 9, Midtgulen",61.775926,5.281741
+603440,"Einebakken 8, Midtgulen",61.776249,5.281721
+603441,"Erlevegen 2, Midtgulen",61.763318,5.260636
+603442,"Elvavegen 19, Midtgulen",61.767865,5.293054
+603443,"Elvavegen 17, Midtgulen",61.768101,5.293784
+603444,"Elvavegen 15, Midtgulen",61.768377,5.294358
+603445,"Elvavegen 14, Midtgulen",61.768534,5.293846
+603446,"Elvavegen 13, Midtgulen",61.768604,5.294786
+603447,"Elvavegen 12, Midtgulen",61.768678,5.294189
+603448,"Elvavegen 11, Midtgulen",61.76881,5.295103
+603449,"Erlevegen 18, Midtgulen",61.764901,5.261354
+603450,"Erlevegen 17, Midtgulen",61.764834,5.260547
+603451,"Erlevegen 16, Midtgulen",61.764523,5.261343
+603452,"Erlevegen 15, Midtgulen",61.764606,5.260726
+603453,"Erlevegen 13, Midtgulen",61.764377,5.260602
+603454,"Erlevegen 11, Midtgulen",61.764149,5.260478
+603455,"Erlevegen 10, Midtgulen",61.763788,5.260731
+603456,"Erlevegen 9, Midtgulen",61.763924,5.260107
+603457,"Erlevegen 26, Midtgulen",61.766067,5.260605
+603458,"Erlevegen 25, Midtgulen",61.765875,5.260154
+603459,"Erlevegen 24, Midtgulen",61.765793,5.260753
+603460,"Erlevegen 23, Midtgulen",61.765628,5.260336
+603461,"Erlevegen 22, Midtgulen",61.765493,5.26096
+603462,"Erlevegen 21, Midtgulen",61.765382,5.260537
+603463,"Erlevegen 20, Midtgulen",61.765176,5.261226
+603464,"Erlevegen 19, Midtgulen",61.765106,5.260608
+603465,"Bakkevegen 2, Midtgulen",61.769698,5.297367
+603466,"Bakketunet 6, Midtgulen",61.767446,5.29318
+603467,"Bakketunet 5, Midtgulen",61.767243,5.2933
+603468,"Bakketunet 4, Midtgulen",61.767014,5.293498
+603469,"Bakketunet 3, Midtgulen",61.767314,5.293936
+603470,"Bakketunet 2, Midtgulen",61.767499,5.293819
+603473,"Bakkevegen 12, Midtgulen",61.768264,5.295491
+603474,"Bakkevegen 11, Midtgulen",61.768064,5.295743
+603475,"Bakkevegen 10, Midtgulen",61.76847,5.295827
+603476,"Bakkevegen 9, Midtgulen",61.768093,5.296157
+603477,"Bakkevegen 7, Midtgulen",61.769166,5.297602
+603478,"Bakkevegen 6, Midtgulen",61.768854,5.296368
+603479,"Bakkevegen 5, Midtgulen",61.769482,5.298
+603480,"Bakkevegen 4, Midtgulen",61.769452,5.297245
+603481,"Einebakken 3A, Midtgulen",61.776004,5.283629
+603482,"Einebakken 2, Midtgulen",61.776285,5.283709
+603483,"Einebakken 1, Midtgulen",61.775917,5.284076
+603484,"Bakkevegen 16, Midtgulen",61.767877,5.294817
+603485,"Bakkevegen 15, Midtgulen",61.767686,5.295048
+603486,"Bakkevegen 14, Midtgulen",61.768075,5.295153
+603487,"Bakkevegen 13, Midtgulen",61.767838,5.295371
+603488,"Einebakken 7A, Midtgulen",61.775998,5.282396
+603489,"Einebakken 6B, Midtgulen",61.776277,5.282201
+603490,"Einebakken 6A, Midtgulen",61.776303,5.282397
+603491,"Einebakken 5B, Midtgulen",61.776069,5.28299
+603492,"Einebakken 5A, Midtgulen",61.776081,5.283173
+603493,"Einebakken 4B, Midtgulen",61.776322,5.283078
+603494,"Einebakken 4A, Midtgulen",61.776309,5.283269
+603495,"Einebakken 3B, Midtgulen",61.776019,5.283494
+603560,"Tiurvegen 7B, Midtgulen",61.763243,5.256757
+603561,"Tiurvegen 7A, Midtgulen",61.763303,5.256806
+603562,"Tiurvegen 6, Midtgulen",61.764145,5.256021
+603563,"Tiurvegen 4, Midtgulen",61.764394,5.256275
+603564,"Tiurvegen 3, Midtgulen",61.764318,5.2571
+603565,"Tiurvegen 2, Midtgulen",61.764614,5.256419
+603566,"Strandvegen 45, Midtgulen",61.766257,5.260981
+603567,"Strandvegen 44, Midtgulen",61.766257,5.261645
+603568,"Tiurvegen 9C, Midtgulen",61.762664,5.256397
+603569,"Tiurvegen 9B, Midtgulen",61.76273,5.256425
+603570,"Tiurvegen 9A, Midtgulen",61.762799,5.25645
+603571,"Tiurvegen 8, Midtgulen",61.76365,5.256328
+603572,"Tiurvegen 7F, Midtgulen",61.76298,5.256552
+603573,"Tiurvegen 7E, Midtgulen",61.763046,5.2566
+603574,"Tiurvegen 7D, Midtgulen",61.76312,5.256677
+603575,"Tiurvegen 7C, Midtgulen",61.763179,5.256696
+603576,"Tiurvegen 11E, Midtgulen",61.761955,5.255956
+603577,"Tiurvegen 11D, Midtgulen",61.762032,5.256013
+603578,"Tiurvegen 11C, Midtgulen",61.762101,5.256064
+603579,"Tiurvegen 11B, Midtgulen",61.762167,5.256109
+603580,"Tiurvegen 11A, Midtgulen",61.762225,5.25616
+603581,"Tiurvegen 9F, Midtgulen",61.762453,5.256312
+603582,"Tiurvegen 9E, Midtgulen",61.762528,5.256354
+603583,"Tiurvegen 9D, Midtgulen",61.762591,5.256381
+603584,"Trostevegen 9, Midtgulen",61.764762,5.259209
+603585,"Trostevegen 8, Midtgulen",61.764479,5.259698
+603586,"Trostevegen 7B, Midtgulen",61.764472,5.25913
+603587,"Trostevegen 7A, Midtgulen",61.764383,5.259141
+603588,"Trostevegen 6, Midtgulen",61.764251,5.259593
+603589,"Trostevegen 4, Midtgulen",61.764043,5.259561
+603590,"Trostevegen 2, Midtgulen",61.763823,5.25938
+603591,"Tiurvegen 11F, Midtgulen",61.761885,5.255898
+603592,"Spettebakken 6B, Midtgulen",61.764317,5.261994
+603593,"Spettebakken 6A, Midtgulen",61.764069,5.262157
+603594,"Spettebakken 5, Midtgulen",61.763768,5.261966
+603595,"Solvegen 11, Midtgulen",61.775129,5.286144
+603596,"Solvegen 9, Midtgulen",61.774983,5.286409
+603597,"Solvegen 7, Midtgulen",61.774751,5.286475
+603598,"Solvegen 6, Midtgulen",61.774979,5.286922
+603599,"Solvegen 5, Midtgulen",61.774536,5.286482
+603600,"Strandvegen 8, Midtgulen",61.762718,5.273246
+603601,"Strandvegen 6, Midtgulen",61.762704,5.273722
+603602,"Strandvegen 4, Midtgulen",61.762679,5.274142
+603603,"Strandvegen 2, Midtgulen",61.762709,5.274594
+603604,"Spettebakken 9, Midtgulen",61.763994,5.261028
+603605,"Spettebakken 8, Midtgulen",61.764207,5.261609
+603606,"Spettebakken 7, Midtgulen",61.763853,5.261463
+603607,"Spettebakken 6C, Midtgulen",61.764626,5.261824
+603608,"Strandvegen 34, Midtgulen",61.765074,5.262756
+603609,"Strandvegen 33, Midtgulen",61.764679,5.262424
+603610,"Strandvegen 32, Midtgulen",61.764765,5.262964
+603611,"Strandvegen 31, Midtgulen",61.764387,5.262612
+603612,"Strandvegen 29, Midtgulen",61.764133,5.262832
+603613,"Strandvegen 27, Midtgulen",61.763879,5.263091
+603614,"Strandvegen 25, Midtgulen",61.763663,5.26342
+603615,"Strandvegen 23, Midtgulen",61.763503,5.2638
+603616,"Strandvegen 43, Midtgulen",61.765977,5.261242
+603617,"Strandvegen 42, Midtgulen",61.766009,5.26177
+603618,"Strandvegen 41, Midtgulen",61.765739,5.261423
+603619,"Strandvegen 40, Midtgulen",61.76578,5.261949
+603620,"Strandvegen 39, Midtgulen",61.765484,5.261647
+603621,"Strandvegen 38, Midtgulen",61.76557,5.262145
+603622,"Strandvegen 36, Midtgulen",61.765277,5.262617
+603623,"Strandvegen 35, Midtgulen",61.764971,5.262256
+603624,"Skulevegen 4H, Midtgulen",61.768306,5.284195
+603625,"Skulevegen 4G, Midtgulen",61.768232,5.284143
+603626,"Skulevegen 4F, Midtgulen",61.768176,5.2841
+603627,"Skulevegen 4E, Midtgulen",61.768105,5.284052
+603628,"Skulevegen 4D, Midtgulen",61.767681,5.283115
+603629,"Skulevegen 4C, Midtgulen",61.767661,5.283237
+603630,"Skulevegen 4B, Midtgulen",61.767627,5.283377
+603631,"Skulevegen 4A, Midtgulen",61.767598,5.283495
+603632,"Skulevegen 9B, Midtgulen",61.766991,5.283333
+603633,"Skulevegen 9A, Midtgulen",61.767055,5.283382
+603634,"Skulevegen 4L, Midtgulen",61.768341,5.283595
+603635,"Skulevegen 4K, Midtgulen",61.76826,5.283504
+603636,"Skulevegen 4J, Midtgulen",61.768252,5.283702
+603637,"Skulevegen 4I, Midtgulen",61.76838,5.283797
+603638,"Skulevegen 12, Midtgulen",61.766534,5.281738
+603639,"Skulevegen 11D, Midtgulen",61.766591,5.282907
+603640,"Skulevegen 11C, Midtgulen",61.766573,5.28281
+603641,"Skulevegen 5, Midtgulen",61.767599,5.284363
+603642,"Skulevegen 11B, Midtgulen",61.766517,5.282741
+603643,"Skulevegen 11A, Midtgulen",61.766473,5.282754
+603644,"Skulevegen 10, Midtgulen",61.766753,5.282167
+603645,"Skulevegen 9D, Midtgulen",61.766835,5.283219
+603646,"Skulevegen 9C, Midtgulen",61.766891,5.283288
+603647,"Solvegen 4, Midtgulen",61.774729,5.286971
+603648,"Solvegen 1, Midtgulen",61.774045,5.286294
+603649,"Skulevegen 19, Midtgulen",61.765896,5.281416
+603650,"Skulevegen 17, Midtgulen",61.766151,5.281841
+603651,"Skulevegen 16, Midtgulen",61.766034,5.28085
+603652,"Skulevegen 14, Midtgulen",61.766309,5.281404
+603653,"Sandevegen 61, Midtgulen",61.77553,5.275526
+603654,"Sandevegen 60, Midtgulen",61.776222,5.275443
+603655,"Sandevegen 59, Midtgulen",61.775646,5.276063
+603656,"Sandevegen 58, Midtgulen",61.776044,5.275806
+603657,"Sandevegen 55, Midtgulen",61.775891,5.277134
+603658,"Sandevegen 54D, Midtgulen",61.776203,5.276717
+603659,"Sandevegen 54C, Midtgulen",61.776125,5.276821
+603660,"Sandevegen 54B, Midtgulen",61.776165,5.276949
+603661,"Skinstølen 10, Midtgulen",61.777119,5.276701
+603662,"Skinstølen 8, Midtgulen",61.777146,5.277684
+603663,"Skinstølen 6, Midtgulen",61.777028,5.278306
+603664,"Skinstølen 5, Midtgulen",61.776659,5.276643
+603665,"Skinstølen 4, Midtgulen",61.77688,5.278817
+603666,"Skinstølen 3, Midtgulen",61.776565,5.278798
+603667,"Sandevegen 63, Midtgulen",61.775509,5.274979
+603668,"Sandevegen 62, Midtgulen",61.775956,5.27521
+603669,"Skogvegen 3, Midtgulen",61.775665,5.286706
+603670,"Skogvegen 2, Midtgulen",61.775242,5.286681
+603671,"Skogvegen 1, Midtgulen",61.775449,5.286353
+603672,"Skinstølen 21, Midtgulen",61.777819,5.277641
+603673,"Skinstølen 19, Midtgulen",61.777656,5.276939
+603674,"Skinstølen 17, Midtgulen",61.777416,5.276361
+603675,"Skinstølen 15, Midtgulen",61.777235,5.276004
+603676,"Skinstølen 13, Midtgulen",61.777049,5.27576
+603677,"Skulevegen 2, Midtgulen",61.767958,5.284544
+603678,"Skogvegen 8B, Midtgulen",61.775586,5.288423
+603679,"Skogvegen 8A, Midtgulen",61.775555,5.288275
+603680,"Skogvegen 7, Midtgulen",61.775684,5.287747
+603681,"Skulevegen 3, Midtgulen",61.767708,5.284887
+603682,"Skogvegen 5, Midtgulen",61.775654,5.287277
+603683,"Skogvegen 4B, Midtgulen",61.775353,5.287446
+603684,"Skogvegen 4A, Midtgulen",61.775312,5.287261
+603685,"Sandevegen 21, Midtgulen",61.773181,5.284919
+603686,"Sandevegen 18, Midtgulen",61.774946,5.287685
+603687,"Sandevegen 16, Midtgulen",61.775125,5.287986
+603688,"Sandevegen 14, Midtgulen",61.775286,5.288308
+603689,"Sandevegen 13, Midtgulen",61.774272,5.287348
+603690,"Sandevegen 12, Midtgulen",61.775414,5.288729
+603691,"Sandevegen 11, Midtgulen",61.774457,5.287573
+603692,"Sandevegen 35, Midtgulen",61.774493,5.282597
+603693,"Sandevegen 33, Midtgulen",61.774622,5.283037
+603694,"Sandevegen 32C, Midtgulen",61.773819,5.284557
+603695,"Sandevegen 32B, Midtgulen",61.773766,5.28462
+603696,"Sandevegen 32A, Midtgulen",61.773713,5.284646
+603697,"Sandevegen 28, Midtgulen",61.773522,5.285902
+603698,"Sandevegen 26, Midtgulen",61.773784,5.286269
+603699,"Sandevegen 42B, Midtgulen",61.775006,5.283939
+603700,"Sandevegen 42A, Midtgulen",61.774944,5.283985
+603701,"Sandevegen 40B, Midtgulen",61.774831,5.284112
+603702,"Sandevegen 40A, Midtgulen",61.77477,5.284177
+603703,"Sandevegen 38B, Midtgulen",61.774618,5.284195
+603704,"Sandevegen 38A, Midtgulen",61.774565,5.284258
+603705,"Sandevegen 36B, Midtgulen",61.774402,5.284183
+603706,"Sandevegen 36A, Midtgulen",61.77434,5.284247
+603707,"Sandevegen 54A, Midtgulen",61.776234,5.276865
+603708,"Sandevegen 53, Midtgulen",61.775921,5.277567
+603709,"Sandevegen 52, Midtgulen",61.776311,5.277387
+603711,"Sandevegen 50, Midtgulen",61.776234,5.279521
+603712,"Sandevegen 49B, Midtgulen",61.776081,5.278496
+603713,"Sandevegen 49A, Midtgulen",61.776076,5.278668
+603714,"Sandevegen 48, Midtgulen",61.7761,5.27986
+603715,"Sandevegen 47, Midtgulen",61.775942,5.279348
+603716,"Orrevegen 15B, Midtgulen",61.763456,5.258115
+603717,"Orrevegen 15A, Midtgulen",61.763556,5.25816
+603718,"Orrevegen 14F, Midtgulen",61.763685,5.257632
+603719,"Orrevegen 14E, Midtgulen",61.763749,5.257663
+603720,"Orrevegen 14D, Midtgulen",61.763812,5.257655
+603721,"Orrevegen 14C, Midtgulen",61.76393,5.257697
+603722,"Sandevegen 22, Midtgulen",61.774515,5.287053
+603723,"Orrevegen 14B, Midtgulen",61.763992,5.25769
+603724,"Orrevegen 14A, Midtgulen",61.764046,5.257683
+603725,"Orrevegen 18A, Midtgulen",61.762928,5.257231
+603726,"Orrevegen 16E, Midtgulen",61.763112,5.25738
+603727,"Orrevegen 16D, Midtgulen",61.763175,5.257391
+603728,"Orrevegen 16C, Midtgulen",61.763277,5.257492
+603729,"Orrevegen 16B, Midtgulen",61.763349,5.257503
+603730,"Orrevegen 16A, Midtgulen",61.763421,5.257513
+603731,"Orrevegen 15D, Midtgulen",61.763282,5.258023
+603732,"Orrevegen 15C, Midtgulen",61.763383,5.258067
+603733,"Rustadbakken 4, Midtgulen",61.768367,5.297319
+603734,"Rustadbakken 3, Midtgulen",61.768727,5.297332
+603735,"Rustadbakken 2, Midtgulen",61.768198,5.296713
+603736,"Rustadbakken 1, Midtgulen",61.768567,5.297067
+603737,"Orrevegen 18E, Midtgulen",61.762662,5.257017
+603738,"Orrevegen 18D, Midtgulen",61.762726,5.257047
+603739,"Orrevegen 18C, Midtgulen",61.762792,5.257172
+603740,"Orrevegen 18B, Midtgulen",61.762865,5.257201
+603741,"Sandevegen 9, Midtgulen",61.774635,5.287836
+603742,"Sandevegen 7, Midtgulen",61.774805,5.288119
+603743,"Sandevegen 5, Midtgulen",61.774983,5.288382
+603744,"Sagmyra 10A, Midtgulen",61.769263,5.299203
+603745,"Sagmyra 8, Midtgulen",61.768929,5.298845
+603746,"Sagmyra 7, Midtgulen",61.769359,5.298774
+603747,"Sagmyra 5, Midtgulen",61.769201,5.298584
+603748,"Sagmyra 3, Midtgulen",61.769053,5.298412
+603749,"Mevikvegen 10, Midtgulen",61.776816,5.273151
+603750,"Mevikvegen 8, Midtgulen",61.776657,5.273782
+603751,"Mevikvegen 4, Midtgulen",61.776336,5.27464
+603752,"Lyngblomvegen 6, Midtgulen",61.765018,5.251135
+603753,"Lyngblomvegen 4, Midtgulen",61.764768,5.250899
+603754,"Lyngblomvegen 2, Midtgulen",61.764509,5.250931
+603755,"Lyngblomvegen 1, Midtgulen",61.764523,5.250455
+603756,"Lunden 4, Midtgulen",61.764618,5.254939
+603757,"Ospekleiva 1, Midtgulen",61.774504,5.285328
+603758,"Naustvegen 5B, Midtgulen",61.768096,5.28466
+603759,"Naustvegen 1D, Midtgulen",61.768101,5.285153
+603760,"Naustvegen 1C, Midtgulen",61.768024,5.285314
+603761,"Naustvegen 1B, Midtgulen",61.767966,5.285473
+603762,"Naustvegen 1A, Midtgulen",61.767905,5.285575
+603763,"Mevikneset 4, Midtgulen",61.776635,5.271446
+603764,"Mevikneset 2, Midtgulen",61.776417,5.272023
+603765,"Orrevegen 2, Midtgulen",61.765075,5.256192
+603766,"Ospekleiva 20, Midtgulen",61.776679,5.280986
+603767,"Ospekleiva 18, Midtgulen",61.776739,5.281567
+603768,"Ospekleiva 16, Midtgulen",61.776801,5.282185
+603769,"Ospekleiva 11, Midtgulen",61.776371,5.280909
+603770,"Ospekleiva 6, Midtgulen",61.775388,5.285487
+603771,"Ospekleiva 5, Midtgulen",61.776511,5.283112
+603772,"Ospekleiva 3, Midtgulen",61.774972,5.285006
+603773,"Orrevegen 13, Midtgulen",61.763762,5.258154
+603774,"Orrevegen 11, Midtgulen",61.764033,5.258197
+603775,"Orrevegen 9, Midtgulen",61.764239,5.258172
+603776,"Orrevegen 8, Midtgulen",61.764301,5.257463
+603777,"Orrevegen 7, Midtgulen",61.764496,5.258046
+603778,"Orrevegen 5, Midtgulen",61.764706,5.257831
+603779,"Orrevegen 4, Midtgulen",61.764867,5.256161
+603780,"Orrevegen 3, Midtgulen",61.764878,5.257525
+603781,"Lunden 3, Midtgulen",61.764383,5.255537
+603782,"Lunden 2, Midtgulen",61.764805,5.255182
+603783,"Lunden 1, Midtgulen",61.764664,5.255673
+603784,"Lia 17, Midtgulen",61.767641,5.296382
+603785,"Kvelve 12, Midtgulen",61.766608,5.291081
+603786,"Kvelve 11, Midtgulen",61.766902,5.291349
+603787,"Kvelve 10, Midtgulen",61.766809,5.290867
+603788,"Kvelve 9, Midtgulen",61.767095,5.291174
+603789,"Kvelve 8B, Midtgulen",61.767106,5.290584
+603790,"Kvelve 8A, Midtgulen",61.76718,5.290651
+603791,"Kvelve 3, Midtgulen",61.767746,5.291304
+603792,"Kvelve 1, Midtgulen",61.767969,5.291258
+603793,"Kvisten 3, Midtgulen",61.76302,5.253028
+603794,"Kvisten 1, Midtgulen",61.762927,5.252565
+603795,"Kvelve 26, Midtgulen",61.766227,5.290292
+603796,"Kvelve 17, Midtgulen",61.766257,5.29209
+603797,"Kvelve 16, Midtgulen",61.766213,5.291432
+603798,"Kvelve 15, Midtgulen",61.766517,5.291737
+603799,"Kvelve 14, Midtgulen",61.766406,5.291257
+603800,"Kvelve 13, Midtgulen",61.766708,5.291486
+603801,"Lia 5A, Midtgulen",61.768525,5.299159
+603802,"Lia 3, Midtgulen",61.768731,5.299798
+603803,"Kyrkjebakken 4, Midtgulen",61.767472,5.284844
+603804,"Kvisten 9, Midtgulen",61.76362,5.253923
+603805,"Kvisten 7, Midtgulen",61.763404,5.253588
+603806,"Kvisten 5, Midtgulen",61.763209,5.253347
+603807,"Lia 15, Midtgulen",61.767937,5.296706
+603808,"Lia 13, Midtgulen",61.768048,5.297167
+603809,"Lia 11, Midtgulen",61.76815,5.29761
+603810,"Lia 10, Midtgulen",61.768462,5.297857
+603811,"Lia 9, Midtgulen",61.768243,5.298054
+603812,"Lia 7, Midtgulen",61.768337,5.298536
+603813,"Lia 5D, Midtgulen",61.768394,5.298985
+603814,"Lia 5B, Midtgulen",61.768487,5.299087
+603815,"Ytrehusvegen 11, Midtgulen",61.735181,5.198173
+603816,"Sandvika 5, Midtgulen",61.740074,5.170129
+603817,"Gulevegen 718, Midtgulen",61.740256,5.163453
+603818,"Krunevegen 4C, Midtgulen",61.767605,5.290088
+603819,"Frøysjøvegen 1967, Midtgulen",61.747245,5.095238
+603820,"Frøysjøvegen 1985, Midtgulen",61.747624,5.094337
+603821,"Frøysjøvegen 1407, Midtgulen",61.708341,5.115068
+603822,"Frøysjøvegen 1517, Midtgulen",61.709985,5.107153
+603823,"Frøysjøvegen 1397, Midtgulen",61.709617,5.116024
+603824,"Sørgulevegen 4, Midtgulen",61.707259,5.115904
+603825,"Frøysjøvegen 993, Midtgulen",61.741366,5.119628
+603826,"Frøysjøvegen 84, Midtgulen",61.722071,5.183012
+603827,"Krunevegen 6B, Midtgulen",61.767587,5.289749
+603828,"Krunevegen 6A, Midtgulen",61.767627,5.289877
+603829,"Krunevegen 5F, Midtgulen",61.766915,5.289811
+603830,"Krunevegen 5E, Midtgulen",61.766962,5.289881
+603831,"Krunevegen 5D, Midtgulen",61.767008,5.289951
+603832,"Krunevegen 5C, Midtgulen",61.767055,5.290003
+603833,"Krunevegen 5B, Midtgulen",61.76711,5.290053
+603834,"Frøysjøvegen 2832, Midtgulen",61.725799,4.99475
+603835,"Krunevegen 5A, Midtgulen",61.767165,5.290103
+603836,"Frøysjøvegen 2812, Midtgulen",61.726988,4.99145
+603837,"Krunevegen 10, Midtgulen",61.76707,5.289583
+603838,"Krunevegen 8D, Midtgulen",61.767217,5.289523
+603839,"Krunevegen 8B, Midtgulen",61.767323,5.28961
+603840,"Krunevegen 8A, Midtgulen",61.767366,5.289633
+603841,"Krunevegen 7, Midtgulen",61.766738,5.289244
+603842,"Krunevegen 6D, Midtgulen",61.767482,5.289534
+603843,"Krunevegen 6C, Midtgulen",61.76754,5.289659
+603844,"Nesbøvegen 1111, Midtgulen",61.76253,5.096049
+603852,"Nesbøvegen 542, Midtgulen",61.772071,5.180091
+603853,"Nesbøvegen 530, Midtgulen",61.772582,5.183252
+603854,"Nesbøvegen 792, Midtgulen",61.766084,5.141869
+603855,"Nesbøvegen 1055, Midtgulen",61.763697,5.106283
+603856,"Nesbøvegen 1054, Midtgulen",61.762635,5.106425
+603857,"Nesbøvegen 896, Midtgulen",61.761828,5.129276
+603858,"Nesbøvegen 885, Midtgulen",61.762465,5.12986
+603859,"Nesbøvegen 1053, Midtgulen",61.763667,5.107268
+603860,"Gunnar Schjelderups veg 1, Midtgulen",61.770967,5.296418
+603861,"Sandevegen 6, Midtgulen",61.771582,5.299569
+603862,"Gulevegen 689, Midtgulen",61.741235,5.155104
+603863,"Gulevegen 692, Midtgulen",61.741266,5.158778
+603864,"Kyrkjebakken 5, Midtgulen",61.766658,5.283999
+603972,"Gulevegen 651, Midtgulen",61.743965,5.156299
+603974,"Gulevegen 936, Midtgulen",61.736642,5.201808
+603975,"Nesbøvegen 543, Midtgulen",61.772436,5.179222
+603977,"Mevikvegen 15, Midtgulen",61.777242,5.273612
+603981,"Ospekleiva 4, Midtgulen",61.775053,5.285679
+603998,"Mevikvegen 18, Midtgulen",61.776732,5.274356
+603999,"Mevikvegen 16, Midtgulen",61.776907,5.273813
+604000,"Mevikvegen 20, Midtgulen",61.776559,5.274796
+604001,"Mevikneset 1, Midtgulen",61.776178,5.272149
+604002,"Mevikvegen 6, Midtgulen",61.776486,5.274207
+604003,"Mevikvegen 2, Midtgulen",61.776069,5.274532
+604005,"Mevikvegen 1, Midtgulen",61.776551,5.272993
+604006,"Mevikvegen 3, Midtgulen",61.776685,5.272617
+604007,"Frøysjøvegen 696, Midtgulen",61.724271,5.149226
+604008,"Mevikvegen 12, Midtgulen",61.777003,5.272749
+604009,"Einebakken 7B, Midtgulen",61.775994,5.282264
+604010,"Hjortevegen 1A, Midtgulen",61.775631,5.281131
+604011,"Hjortevegen 1B, Midtgulen",61.775752,5.280623
+604012,"Gunnar Schjelderups veg 60, Midtgulen",61.764408,5.279889
+604013,"Trostevegen 18, Midtgulen",61.765906,5.259316
+604015,"Trostevegen 16, Midtgulen",61.765678,5.259533
+604016,"Trostevegen 15, Midtgulen",61.765694,5.258773
+604017,"Trostevegen 14, Midtgulen",61.765362,5.2598
+604018,"Trostevegen 13, Midtgulen",61.765452,5.259125
+604019,"Trostevegen 12, Midtgulen",61.765058,5.259837
+604020,"Trostevegen 11, Midtgulen",61.765078,5.259284
+604021,"Trostevegen 10, Midtgulen",61.764796,5.259793
+604022,"Kvennhusvegen 3, Midtgulen",61.706636,5.106847
+604023,"Øyratunet 11, Midtgulen",61.766631,5.288289
+604024,"Øyratunet 7, Midtgulen",61.766945,5.288612
+604025,"Øyratunet 6, Midtgulen",61.766987,5.288171
+604026,"Øyratunet 4, Midtgulen",61.767178,5.288261
+604027,"Øyratunet 3, Midtgulen",61.767265,5.28882
+604028,"Øyratunet 2, Midtgulen",61.767379,5.28837
+604029,"Øyratunet 1, Midtgulen",61.767438,5.288894
+604070,"Frøysjøvegen 657, Midtgulen",61.723655,5.157709
+604073,"Bakketunet 1A, Midtgulen",61.767724,5.294133
+604074,"Gulevegen 1028, Midtgulen",61.730745,5.215224
+604075,"Gulevegen 1026, Midtgulen",61.731195,5.21381
+604076,"Gulevegen 934, Midtgulen",61.736503,5.200303
+604083,"Skulevegen 4M, Midtgulen",61.76842,5.283654
+604084,"Skogvegen 6, Midtgulen",61.775453,5.287813
+604085,"Mevikvegen 14, Midtgulen",61.777069,5.273331
+604086,"Mevikvegen 5, Midtgulen",61.776798,5.272166
+604087,"Krokvegen 28, Midtgulen",61.763885,5.249831
+604088,"Gunnar Schjelderups veg 21A, Midtgulen",61.767834,5.289755
+604090,"Strandvegen 22, Midtgulen",61.76327,5.266806
+604091,"Skulevegen 21, Midtgulen",61.765589,5.281017
+604092,"Skulevegen 20, Midtgulen",61.765572,5.280393
+604093,"Skulevegen 6E, Midtgulen",61.768082,5.283353
+604094,"Skulevegen 6D, Midtgulen",61.768022,5.283311
+604095,"Skulevegen 6C, Midtgulen",61.767964,5.283244
+604115,"Kyrkjebakken 6, Midtgulen",61.767303,5.284682
+604134,"Bakkevegen 8, Midtgulen",61.76858,5.296231
+604135,"Lia 2, Midtgulen",61.768882,5.299539
+604144,"Mevikvegen 7, Midtgulen",61.777058,5.271793
+604154,"Hamrane 12, Midtgulen",61.76603,5.280035
+604156,"Hamrane 6, Midtgulen",61.766568,5.280994
+604158,"Hamrane 8, Midtgulen",61.766405,5.280634
+604170,"Frøysjøvegen 1663, Midtgulen",61.722193,5.102722
+604177,"Skulevegen 18, Midtgulen",61.765825,5.280439
+604178,"Frøysjøvegen 27, Midtgulen",61.72039,5.193657
+604179,"Hamrane 16, Midtgulen",61.765423,5.279197
+604218,"Flotegrunnen 22, Midtgulen",61.761955,5.137607
+604234,"Gunnar Schjelderups veg 21B, Midtgulen",61.767799,5.289715
+604235,"Frøysjøvegen 3004, Midtgulen",61.71752,5.001528
+604269,"Frøysjøvegen 672, Midtgulen",61.723131,5.151831
+604272,"Gulevegen 3, Midtgulen",61.761783,5.237057
+604329,"Frøysjøvegen 3137, Midtgulen",61.724115,4.982369
+604331,"Frøysjøvegen 3180, Midtgulen",61.722623,4.972621
+604332,"Frøysjøvegen 2942, Midtgulen",61.719314,5.012169
+604333,"Frøysjøvegen 2752, Midtgulen",61.731242,4.986505
+604345,"Ytrehusvegen 3, Midtgulen",61.736479,5.195593
+604346,"Gulevegen 990, Midtgulen",61.732258,5.208999
+604347,"Frøysjøvegen 555, Midtgulen",61.716314,5.165126
+604348,"Frøysjøvegen 656, Midtgulen",61.72292,5.155192
+604349,"Eikeland, Gulevegen 61, Midtgulen",61.762142,5.22495
+604350,"Eikeland, Gulevegen 52, Midtgulen",61.761153,5.227537
+604351,"Gulevegen 790, Midtgulen",61.739202,5.175923
+604352,"Gulevegen 788, Midtgulen",61.73913,5.175591
+604353,"Gulevegen 234, Midtgulen",61.757506,5.197052
+604354,"Gulevegen 725, Midtgulen",61.739288,5.163555
+604355,"Gulevegen 896, Midtgulen",61.737614,5.194391
+604357,"Nesbøvegen 1101, Midtgulen",61.762641,5.098046
+604358,"Rise 7, Midtgulen",61.764134,5.28529
+604374,"Frøysjøvegen 2966, Midtgulen",61.718128,5.009102
+604375,"Frøysjøvegen 2960, Midtgulen",61.718209,5.014484
+604376,"Frøysjøvegen 3142, Midtgulen",61.721353,4.978921
+604378,"Sørgulevegen 6, Midtgulen",61.707466,5.115594
+604379,"Frøysjøvegen 1687, Midtgulen",61.724951,5.104297
+604380,"Sagebøvegen 5, Midtgulen",61.719043,5.10586
+604381,"Sagebøvegen 7, Midtgulen",61.720342,5.104993
+604382,"Sagebøvegen 13, Midtgulen",61.720844,5.10402
+604383,"Frøysjøvegen 2193, Midtgulen",61.75707,5.060033
+604384,"Frøysjøvegen 2826, Midtgulen",61.727071,4.995513
+604437,"Skulevegen 7, Midtgulen",61.767343,5.284068
+604438,"Skulevegen 6F, Midtgulen",61.768003,5.283472
+604439,"Skulevegen 6B, Midtgulen",61.767913,5.283163
+604440,"Skulevegen 6A, Midtgulen",61.767916,5.283373
+604441,"Sagmyra 10B, Midtgulen",61.769211,5.299304
+604442,"Hjortevegen 8, Midtgulen",61.775459,5.28341
+604443,"Gunnar Schjelderups veg 12C, Midtgulen",61.76896,5.291467
+604447,"Sagmyra 1, Midtgulen",61.768806,5.297949
+604461,"Krokvegen 30, Midtgulen",61.76363,5.24971
+604470,"Frøysjøvegen 45, Midtgulen",61.722051,5.191329
+604472,"Bakketunet 1B, Midtgulen",61.767665,5.29397
+604473,"Hamrane 10, Midtgulen",61.766262,5.280391
+604474,"Elvavegen 1B, Midtgulen",61.769996,5.296591
+604477,"Nesbøvegen 867, Midtgulen",61.761436,5.132374
+604478,"Nesbøvegen 1089, Midtgulen",61.763086,5.100027
+604480,"Frøysjøvegen 163, Midtgulen",61.718955,5.173757
+604481,"Gulevegen 345, Midtgulen",61.759293,5.178153
+604482,"Øyratunet 5, Midtgulen",61.76706,5.288883
+604501,"Frøysjøvegen 1447, Midtgulen",61.7055,5.11285
+604507,"Flotegrunnen 16, Midtgulen",61.76284,5.137907
+604514,"Nesbøvegen 998, Midtgulen",61.763901,5.115509
+604528,"Gulevegen 1285, Midtgulen",61.721514,5.200149
+604530,"Frøysjøvegen 3037, Midtgulen",61.720936,4.997523
+604540,"Hamrane 18, Midtgulen",61.765215,5.279488
+604541,"Frøysjøvegen 121, Midtgulen",61.721698,5.178
+604553,"Gulevegen 688, Midtgulen",61.74188,5.157058
+604557,"Frøysjøvegen 2964, Midtgulen",61.717817,5.010146
+604566,"Granden 3, Midtgulen",61.768879,5.287677
+604567,"Gunnar Schjelderups veg 10, Midtgulen",61.769491,5.291018
+604568,"Granden 8, Midtgulen",61.768512,5.290054
+604569,"Granden 4, Midtgulen",61.768539,5.289273
+604586,"Hesteberget 7, Midtgulen",61.736235,5.190786
+604590,"Gunnar Schjelderups veg 8, Midtgulen",61.770504,5.294891
+604809,"Lia 5C, Midtgulen",61.76845,5.299054
+604823,"Nesbøvegen 541, Midtgulen",61.773172,5.180903
+604824,"Frøysjøvegen 1538, Midtgulen",61.711688,5.10601
+604836,"Frøysjøvegen 102, Midtgulen",61.722116,5.181377
+604842,"Frøysjøvegen 2788, Midtgulen",61.727749,4.987353
+604854,"Gunnar Schjelderups veg 112A, Midtgulen",61.762504,5.270023
+604972,"Ivarplass 6, Midtgulen",61.774214,5.287887
+1107189,"Myrane 2, Midtgulen",61.721842,4.987272
+1107192,"Myrane 3, Midtgulen",61.721339,4.985879
+1107201,"Myrane 6, Midtgulen",61.721101,4.986718
+1107236,"Myrane 4, Midtgulen",61.721472,4.987035
+1649799,"Nesbøvegen 1008, Midtgulen",61.763784,5.114477
+1652392,"Ytrehusvegen 15, Midtgulen",61.735715,5.199341
+1653813,"Tiurvegen 10, Midtgulen",61.763359,5.25599
+1653814,"Tiurvegen 12, Midtgulen",61.763164,5.25578
+1660536,"Gulevegen 877, Midtgulen",61.736818,5.19068
+1667292,"Frøysjøvegen 1000, Midtgulen",61.738883,5.120138
+1679096,"Skinstølen 7, Midtgulen",61.776494,5.275945
+1683648,"Gunnar Schjelderups veg 66, Midtgulen",61.763878,5.278246
+1683649,"Gunnar Schjelderups veg 62, Midtgulen",61.764796,5.278692
+1688005,"Hamrane 14, Midtgulen",61.765823,5.279699
+1688016,"Meisebakken 1, Midtgulen",61.762525,5.265557
+1693054,"Gunnar Schjelderups veg 11B, Midtgulen",61.768182,5.29166
+1693056,"Gunnar Schjelderups veg 11D, Midtgulen",61.768155,5.291862
+1693057,"Gunnar Schjelderups veg 11C, Midtgulen",61.768146,5.291722
+1712987,"Frøysjøvegen 63, Midtgulen",61.721355,5.18747
+1750941,"Frøysjøvegen 3036, Midtgulen",61.719493,4.995384
+1756507,"Gunnar Schjelderups veg 5, Midtgulen",61.769208,5.294846
+1781030,"Flotegrunnen 8, Midtgulen",61.763689,5.138798
+1781031,"Flotegrunnen 10, Midtgulen",61.763418,5.138643
+1781032,"Flotegrunnen 12, Midtgulen",61.763201,5.138342
+1786268,"Gunnar Schjelderups veg 30, Midtgulen",61.767386,5.286419
+1810749,"Frøysjøvegen 2750, Midtgulen",61.730729,4.985741
+1817285,"Sagebøvegen 15, Midtgulen",61.721128,5.102317
+1819141,"Frøysjøvegen 161, Midtgulen",61.719599,5.173318
+1836600,"Kvennhusvegen 4, Midtgulen",61.70524,5.10834
+1836601,"Kvennhusvegen 6, Midtgulen",61.705374,5.108075
+1844087,"Kvennhusvegen 5, Midtgulen",61.704769,5.105541
+1844354,"Uraøya 1, Kinn",61.644965,4.998195
+1846936,"Sandvika 20, Midtgulen",61.739248,5.168055
+1847060,"Frøysjøvegen 79, Midtgulen",61.722288,5.185186
+1860401,"Frøysjøvegen 95, Midtgulen",61.722756,5.182717
+1860402,"Nesbøvegen 617, Midtgulen",61.773226,5.169626
+1871078,"Frøysjøvegen 3154, Midtgulen",61.721598,4.976313
+1876759,"Gunnar Schjelderups veg 64A, Midtgulen",61.76455,5.278495
+1877244,"Skulevegen 11E, Midtgulen",61.76649,5.282862
+1877873,"Rise 5, Midtgulen",61.765084,5.285086
+1895623,"Frøysjøvegen 567, Midtgulen",61.717852,5.16538
+1915165,"Gunnar Schjelderups veg 64B, Midtgulen",61.764474,5.278426
+1935924,"Gulevegen 1014, Midtgulen",61.731723,5.211367
+1949772,"Gunnar Schjelderups veg 14B, Midtgulen",61.768534,5.29111
+1949773,"Gunnar Schjelderups veg 14C, Midtgulen",61.768449,5.291026
+1949775,"Gunnar Schjelderups veg 14D, Midtgulen",61.768378,5.290695
+1949776,"Granden 7, Midtgulen",61.768458,5.29059
+1957821,"Granden 1, Midtgulen",61.76853,5.286843
+1959587,"Nesbøvegen 627, Midtgulen",61.773283,5.165371
+1963475,"Frøysjøvegen 3813, Kinn",61.67431,4.972423
+1966284,"Ytrehusvegen 13, Midtgulen",61.735789,5.197973
+1967736,"Frøysjøvegen 1450, Midtgulen",61.703432,5.109607
+1968560,"Elvavegen 1A, Midtgulen",61.770031,5.296416
+1982038,"Årebrotsneset 1, Kinn",61.634925,5.001215
+1985914,"Sagebøvegen 9, Midtgulen",61.721018,5.105356
+1991485,"Ytrehusvegen 5, Midtgulen",61.73548,5.19518
+1997336,"Gulevegen 1170, Midtgulen",61.721033,5.215612
+1997355,"Frøysjøvegen 1399, Midtgulen",61.709291,5.116175
+1997356,"Frøysjøvegen 77, Midtgulen",61.722019,5.186294
+1997357,"Frøysjøvegen 107, Midtgulen",61.722236,5.179385
+1997494,"Gulevegen 1168, Midtgulen",61.72158,5.215393
+1997550,"Gulevegen 1192, Midtgulen",61.720925,5.213456
+1997576,"Gulevegen 29, Midtgulen",61.762239,5.231616
+1997620,"Frøysjøvegen 2071, Midtgulen",61.752954,5.08222
+1997752,"Frøysjøvegen 3110, Midtgulen",61.721299,4.98518
+1997799,"Frøysjøvegen 2824, Midtgulen",61.726838,4.996476
+2000466,"Nesbøvegen 362, Midtgulen",61.772641,5.208729
+2000900,"Nesbøvegen 1009, Midtgulen",61.76498,5.114075
+2009654,"Gunnar Schjelderups veg 12B, Midtgulen",61.769004,5.291877
+2009656,"Gunnar Schjelderups veg 12D, Midtgulen",61.768887,5.291282
+2010614,"Frøysjøvegen 2748, Midtgulen",61.730654,4.985269
+2010805,"Gulevegen 1025, Midtgulen",61.730279,5.212821
+2010991,"Gulevegen 378, Midtgulen",61.757798,5.173601
+2011219,"Gulevegen 1104, Midtgulen",61.716887,5.235389
+2011625,"Gulevegen 1030, Midtgulen",61.730809,5.215529
+2011627,"Gulevegen 1038, Midtgulen",61.730846,5.216241
+2011628,"Nesbøvegen 963, Midtgulen",61.766353,5.122539
+2013157,"Frøysjøvegen 661, Midtgulen",61.723773,5.155175
+2016585,"Frøysjøvegen 4140, Kinn",61.652535,5.005914
+2021974,"Granden 6, Midtgulen",61.768443,5.289769
+2021975,"Granden 5B, Midtgulen",61.768969,5.290483
+2021976,"Granden 5C, Midtgulen",61.769065,5.290411
+2022077,"Gunnar Schjelderups veg 12F, Midtgulen",61.768789,5.291163
+2022078,"Gunnar Schjelderups veg 12E, Midtgulen",61.768742,5.291501
+2022080,"Gunnar Schjelderups veg 12G, Midtgulen",61.768974,5.291074
+2022081,"Gunnar Schjelderups veg 12A, Midtgulen",61.768821,5.292096
+2044141,"Gunnar Schjelderups veg 89, Midtgulen",61.762153,5.273545
+2048231,"Gunnar Schjelderups veg 85, Midtgulen",61.762123,5.273802
+2048232,"Gunnar Schjelderups veg 87, Midtgulen",61.762155,5.27366
+2054480,"Hornelsvegen 580, Midtgulen",61.792332,5.35432
+2061346,"Frøysjøvegen 3070, Midtgulen",61.72076,4.991597
+2063093,"Frøysjøvegen 3505, Kinn",61.695936,4.985587
+2063094,"Frøysjøvegen 3525, Kinn",61.694288,4.986986
+2068298,"Gulevegen 1283, Midtgulen",61.720897,5.200791
+2070797,"Nesbøvegen 1091, Midtgulen",61.763405,5.098897
+2072083,"Gulevegen 992, Midtgulen",61.732455,5.209214
+2078791,"Nesbøvegen 865, Midtgulen",61.761731,5.132587
+2078818,"Frøysjøvegen 3859, Kinn",61.669319,4.97349
+2079562,"Nesbøvegen 1001, Rugsund",61.795337,5.164625
+2082145,"Nesbøvegen 1013, Midtgulen",61.764343,5.113524
+2102777,"Gunnar Schjelderups veg 60B, Midtgulen",61.764853,5.280114
+2105293,"Rise 3, Midtgulen",61.765714,5.285606
+2107127,"Gunnar Schjelderups veg 59, Midtgulen",61.762572,5.281833
+2107128,"Gunnar Schjelderups veg 57, Midtgulen",61.762678,5.283012
+2107640,"Strandvegen 20, Midtgulen",61.762878,5.268616
+2114093,"Svelgen Panorama 1, Midtgulen",61.767562,5.282533
+2118971,"Gunnar Schjelderups veg 31, Midtgulen",61.766323,5.286437
+2120124,"Gulevegen 1102, Midtgulen",61.726138,5.224984
+2168267,"Nesbøvegen 973, Midtgulen",61.765641,5.12045
+2169140,"Lia 19, Midtgulen",61.767384,5.29554
+2169141,"Lia 21, Midtgulen",61.767116,5.29525
+2169185,"Lia 23, Midtgulen",61.766914,5.294781
+2180945,"Solvegen 3, Midtgulen",61.774298,5.28634
+2265726,"Frøysjøvegen 597, Midtgulen",61.720043,5.163116
+2367693,"Nesbøvegen 595, Midtgulen",61.772837,5.170993
+2369694,"Myrane 1, Midtgulen",61.721605,4.986453
+2383410,"Nesbøvegen 570, Midtgulen",61.772909,5.177105
+2433954,"Sandevegen 10, Midtgulen",61.775479,5.289138
+2439119,"Hornelsvegen 128, Midtgulen",61.771659,5.302595
+2439283,"Gunnar Schjelderups veg 83, Midtgulen",61.762165,5.273964
+2439864,"Gunnar Schjelderups veg 93, Midtgulen",61.762102,5.273275
+2439866,"Gunnar Schjelderups veg 91, Midtgulen",61.762106,5.273407
+2462786,"Svelgen Panorama 3, Midtgulen",61.767691,5.282647
+2462788,"Svelgen Panorama 5, Midtgulen",61.767756,5.2827
+2462873,"Svelgen Panorama 7, Midtgulen",61.767824,5.282755
+2462874,"Svelgen Panorama 9, Midtgulen",61.767896,5.282816
+2462887,"Svelgen Panorama 11, Midtgulen",61.767968,5.282875
+2478753,"Flotegrunnen 4, Midtgulen",61.764199,5.139357
+2496714,"Kyrkjebakken 1, Midtgulen",61.767704,5.285337
+2546345,"Kyrkjebakken 3B, Midtgulen",61.767427,5.285221
+2546349,"Kyrkjebakken 3A, Midtgulen",61.767456,5.285231

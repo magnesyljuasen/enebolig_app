@@ -1,0 +1,590 @@
+,Navn,Long,Lat
+1354613,"Einervegen 5A, Bakke",58.418683,6.662059
+1354616,"Einervegen 5B, Bakke",58.418659,6.662232
+1361639,"Bjørkmyra 14, Bakke",58.424808,6.664359
+1364293,"Bjørkmyra 12, Bakke",58.424783,6.664018
+1364294,"Bjørkmyra 17, Bakke",58.425316,6.666124
+1364295,"Bjørkmyra 16, Bakke",58.424824,6.664786
+1364296,"Bjørkmyra 5, Bakke",58.424109,6.661048
+1364297,"Bjørkmyra 10, Bakke",58.424685,6.663528
+1364298,"Bjørkmyra 8, Bakke",58.424605,6.663122
+1364299,"Bjørkmyra 2, Bakke",58.424293,6.661738
+1364300,"Bjørkmyra 1, Bakke",58.42317,6.661265
+1364301,"Bjørkmyra 4, Bakke",58.424417,6.662141
+1364302,"Bjørkmyra 3, Bakke",58.423363,6.661492
+1364308,"Bjørkmyra 36, Bakke",58.424606,6.66564
+1364309,"Bjørkmyra 34, Bakke",58.424541,6.666095
+1364312,"Bjørkmyra 30, Bakke",58.424674,6.666886
+1364313,"Bjørkmyra 29, Bakke",58.424112,6.667111
+1364314,"Bjørkmyra 32, Bakke",58.424636,6.666254
+1364315,"Bjørkmyra 31, Bakke",58.424037,6.666448
+1364316,"Bjørkmyra 25, Bakke",58.424515,6.667513
+1364317,"Bjørkmyra 23, Bakke",58.425213,6.666884
+1364319,"Bjørkmyra 27, Bakke",58.424318,6.667046
+1364320,"Bjørkmyra 26, Bakke",58.424887,6.666734
+1364321,"Bjørkmyra 19, Bakke",58.425497,6.66618
+1364322,"Bjørkmyra 18, Bakke",58.424862,6.665366
+1364323,"Bjørkmyra 21, Bakke",58.425533,6.666762
+1364325,"Bjørkmyra 20, Bakke",58.42494,6.665686
+1364508,"Einervegen 8, Bakke",58.419474,6.662075
+1364509,"Einervegen 7, Bakke",58.419034,6.662087
+1364510,"Ekornvegen 1, Bakke",58.421612,6.660067
+1364511,"Einervegen 10, Bakke",58.419284,6.661985
+1364512,"Einervegen 4A, Bakke",58.419375,6.661551
+1364513,"Einervegen 3, Bakke",58.418624,6.661789
+1364514,"Einervegen 6, Bakke",58.419729,6.661767
+1364515,"Einervegen 4B, Bakke",58.419642,6.66143
+1364518,"Einervegen 1, Bakke",58.418985,6.661161
+1364528,"Ekornvegen 14, Bakke",58.422043,6.663497
+1364529,"Ekornvegen 13, Bakke",58.421608,6.663783
+1364531,"Ekornvegen 16, Bakke",58.421934,6.66395
+1364532,"Ekornvegen 9, Bakke",58.421695,6.662664
+1364533,"Ekornvegen 7, Bakke",58.421722,6.6622
+1364534,"Ekornvegen 12, Bakke",58.422088,6.663049
+1364535,"Ekornvegen 11, Bakke",58.421658,6.663112
+1364536,"Ekornvegen 3, Bakke",58.421694,6.66066
+1364537,"Ekornvegen 2, Bakke",58.422063,6.660191
+1364538,"Ekornvegen 5, Bakke",58.421674,6.661039
+1364539,"Ekornvegen 4, Bakke",58.422044,6.660637
+1364662,"Furuvegen 8, Bakke",58.420578,6.662995
+1364665,"Furuvegen 5, Bakke",58.420139,6.662099
+1364666,"Furuvegen 4, Bakke",58.420457,6.661787
+1364667,"Furuvegen 7, Bakke",58.42024,6.662675
+1364668,"Furuvegen 6, Bakke",58.420435,6.662525
+1364669,"Furuvegen 1, Bakke",58.419978,6.660672
+1364671,"Furuvegen 3, Bakke",58.420063,6.661385
+1364672,"Furuvegen 2B, Bakke",58.420301,6.66113
+1364890,"Mosevegen 14, Bakke",58.422371,6.663767
+1364938,"Måltrostvegen 14, Bakke",58.421375,6.663816
+1364941,"Måltrostvegen 11, Bakke",58.420926,6.663383
+1364942,"Måltrostvegen 10, Bakke",58.421296,6.66293
+1364943,"Måltrostvegen 13, Bakke",58.421063,6.66399
+1364944,"Måltrostvegen 12, Bakke",58.421357,6.663372
+1364945,"Måltrostvegen 7, Bakke",58.42088,6.662324
+1364946,"Måltrostvegen 6, Bakke",58.421175,6.661722
+1364947,"Måltrostvegen 9, Bakke",58.420954,6.662936
+1364948,"Måltrostvegen 8, Bakke",58.421212,6.662302
+1364949,"Måltrostvegen 3, Bakke",58.420791,6.661371
+1364950,"Måltrostvegen 2, Bakke",58.421129,6.660833
+1364951,"Måltrostvegen 5, Bakke",58.420836,6.661865
+1364952,"Måltrostvegen 4, Bakke",58.421182,6.661321
+1365014,"Mosevegen 12, Bakke",58.422427,6.663386
+1365015,"Mosevegen 13, Bakke",58.423252,6.663777
+1365016,"Mosevegen 8B, Bakke",58.422134,6.662601
+1365017,"Mosevegen 8A, Bakke",58.422357,6.662535
+1365018,"Mosevegen 10, Bakke",58.42243,6.663078
+1365019,"Mosevegen 9, Bakke",58.423058,6.663036
+1365020,"Mosevegen 5, Bakke",58.422954,6.662255
+1365021,"Mosevegen 4, Bakke",58.422658,6.662737
+1365022,"Mosevegen 7, Bakke",58.423032,6.662593
+1365023,"Mosevegen 6, Bakke",58.422568,6.662743
+1365026,"Mosevegen 2, Bakke",58.422114,6.661523
+1365027,"Mosevegen 1, Bakke",58.422553,6.661408
+1365028,"Myran 1, Bakke",58.421656,6.661519
+1365029,"Måltrostvegen 1, Bakke",58.420694,6.660984
+1365030,"Myran 3, Bakke",58.421423,6.661552
+1365031,"Mosevegen 28, Bakke",58.422831,6.663856
+1365032,"Mosevegen 26, Bakke",58.422784,6.663611
+1365033,"Mosevegen 32, Bakke",58.422962,6.664618
+1365034,"Mosevegen 30, Bakke",58.422921,6.664347
+1365035,"Mosevegen 20, Bakke",58.422507,6.66434
+1365036,"Mosevegen 19, Bakke",58.423347,6.665038
+1365037,"Mosevegen 24, Bakke",58.422693,6.663197
+1365038,"Mosevegen 22, Bakke",58.422654,6.664485
+1365039,"Mosevegen 16, Bakke",58.422208,6.664172
+1365040,"Mosevegen 15, Bakke",58.423251,6.664257
+1365041,"Mosevegen 18, Bakke",58.422335,6.664249
+1365042,"Mosevegen 17, Bakke",58.423304,6.664664
+1365047,"Myran 2, Bakke",58.421451,6.662081
+1365065,"Tuedalen 18, Bakke",58.423711,6.665339
+1365066,"Prestmovegen 31, Bakke",58.42405,6.665694
+1365069,"Prestmovegen 28, Bakke",58.423327,6.66545
+1365070,"Prestmovegen 26, Bakke",58.422976,6.665422
+1365071,"Prestmovegen 30, Bakke",58.423562,6.665503
+1365072,"Prestmovegen 29, Bakke",58.423795,6.666002
+1365153,"Planteskogvegen 19, Bakke",58.421013,6.66026
+1365154,"Planteskogvegen 17, Bakke",58.420647,6.660421
+1365155,"Planteskogvegen 25, Bakke",58.422228,6.659872
+1365156,"Planteskogvegen 23, Bakke",58.422028,6.659765
+1365157,"Planteskogvegen 9A, Bakke",58.418702,6.66136
+1365158,"Planteskogvegen 7, Bakke",58.418336,6.661277
+1365159,"Furuvegen 2A, Bakke",58.420229,6.660604
+1365160,"Planteskogvegen 13, Bakke",58.419506,6.660857
+1365163,"Planteskogvegen 3, Bakke",58.418103,6.661643
+1365164,"Planteskogvegen 1, Bakke",58.417704,6.66161
+1365169,"Prestmovegen 18, Bakke",58.421898,6.664415
+1365170,"Prestmovegen 17, Bakke",58.419923,6.665025
+1365171,"Prestmovegen 24, Bakke",58.422706,6.664892
+1365172,"Prestmovegen 22, Bakke",58.422436,6.664876
+1365173,"Prestmovegen 13A, Bakke",58.419327,6.663403
+1365174,"Prestmovegen 11, Bakke",58.419019,6.663218
+1365175,"Prestmovegen 16, Bakke",58.421555,6.664335
+1365176,"Prestmovegen 13B, Bakke",58.419246,6.663854
+1365177,"Prestmovegen 7, Bakke",58.418275,6.662857
+1365178,"Prestmovegen 5, Bakke",58.417504,6.663918
+1365179,"Prestmovegen 9, Bakke",58.418693,6.66312
+1365180,"Prestmovegen 8, Bakke",58.419098,6.662648
+1365181,"Planteskogvegen 29, Bakke",58.422707,6.659531
+1365182,"Planteskogvegen 27, Bakke",58.42243,6.659635
+1365183,"Prestmovegen 4, Bakke",58.418627,6.662439
+1365184,"Prestmovegen 1, Bakke",58.417171,6.661902
+1365201,"Tuedalen 12, Bakke",58.423492,6.664121
+1365263,"Tuedalen 10, Bakke",58.423533,6.663766
+1365304,"Osenvegen 44, Bakke",58.426089,6.666124
+1365325,"Osenvegen 42, Bakke",58.426083,6.665799
+1365367,"Osenvegen 46, Bakke",58.426214,6.667075
+1365489,"Osenvegen 45, Bakke",58.426499,6.667416
+1365505,"Tuedalen 16, Bakke",58.423606,6.664952
+1365506,"Tuedalen 14, Bakke",58.423535,6.664512
+1365509,"Tuedalen 8, Bakke",58.42344,6.663251
+1365510,"Tuedalen 6, Bakke",58.423378,6.66281
+1365513,"Tuedalen 4, Bakke",58.423326,6.662419
+1365514,"Tuedalen 2, Bakke",58.423284,6.662079
+1365593,"Osenvegen 38, Bakke",58.425923,6.665018
+1365614,"Osenvegen 35, Bakke",58.426388,6.664323
+1365655,"Osenvegen 40, Bakke",58.42587,6.66528
+1365719,"Røsslyngen 9, Bakke",58.423282,6.660007
+1365720,"Røsslyngen 7, Bakke",58.423161,6.659775
+1365721,"Røsslyngen 15, Bakke",58.423903,6.661062
+1365722,"Røsslyngen 13, Bakke",58.423767,6.660506
+1365723,"Røsslyngen 4, Bakke",58.422732,6.660403
+1365724,"Røsslyngen 3, Bakke",58.422389,6.660323
+1365725,"Røsslyngen 6, Bakke",58.423278,6.660778
+1365726,"Røsslyngen 5, Bakke",58.422934,6.659688
+1365729,"Røsslyngen 2, Bakke",58.422542,6.660827
+1365730,"Røsslyngen 1, Bakke",58.42227,6.660708
+1365743,"Røsslyngen 27, Bakke",58.424359,6.663892
+1365744,"Røsslyngen 25, Bakke",58.42429,6.663537
+1365745,"Røsslyngen 31, Bakke",58.424464,6.664741
+1365746,"Røsslyngen 29, Bakke",58.424457,6.664331
+1365747,"Røsslyngen 19, Bakke",58.424085,6.662197
+1365748,"Røsslyngen 17, Bakke",58.424023,6.661739
+1365749,"Røsslyngen 23, Bakke",58.424191,6.663064
+1365750,"Røsslyngen 21, Bakke",58.42429,6.662688
+1365765,"Osenvegen 11, Bakke",58.419382,6.657029
+1365766,"Osenvegen 17, Bakke",58.420946,6.657542
+1365767,"Osenvegen 13, Bakke",58.420012,6.657587
+1365768,"Osenvegen 8J, Bakke",58.417983,6.659143
+1365769,"Osenvegen 8I, Bakke",58.417755,6.659466
+1365770,"Osenvegen 10, Bakke",58.41885,6.658931
+1365771,"Osenvegen 8K, Bakke",58.417977,6.659314
+1365772,"Osenvegen 8F, Bakke",58.417799,6.658898
+1365773,"Osenvegen 8E, Bakke",58.417962,6.658973
+1365774,"Osenvegen 8H, Bakke",58.417845,6.65946
+1365775,"Osenvegen 8G, Bakke",58.417691,6.658922
+1365776,"Osenvegen 8B, Bakke",58.41821,6.658785
+1365777,"Osenvegen 8A, Bakke",58.418389,6.658773
+1365778,"Osenvegen 8D, Bakke",58.417959,6.658802
+1365779,"Osenvegen 8C, Bakke",58.41812,6.658808
+1365780,"Osenvegen 29, Bakke",58.426442,6.665278
+1365781,"Osenvegen 27, Bakke",58.426738,6.664796
+1365782,"Osenvegen 33, Bakke",58.426248,6.664024
+1365783,"Osenvegen 32, Bakke",58.426056,6.663848
+1365784,"Osenvegen 23, Bakke",58.425957,6.662621
+1365785,"Osenvegen 20, Bakke",58.420661,6.659171
+1365786,"Osenvegen 26, Bakke",58.421709,6.658536
+1365787,"Osenvegen 24, Bakke",58.421229,6.65879
+1365788,"Prestevegen 13, Bakke",58.414617,6.662294
+1365789,"Prestevegen 5, Bakke",58.415698,6.660973
+1365790,"Birkeland, Prestevegen 4, Bakke",58.417747,6.660494
+1365791,"Birkeland, Prestevegen 9, Bakke",58.41589,6.663117
+1365792,"Birkeland, Prestevegen 7, Bakke",58.416193,6.662001
+1365793,"Prestevegen 1, Bakke",58.415785,6.660796
+1365794,"Osenvegen 56, Bakke",58.426778,6.668442
+1365795,"Birkeland, Prestevegen 3, Bakke",58.416214,6.660664
+1365796,"Prestevegen 2, Bakke",58.416667,6.659932
+1365823,"Lillevoll 5, Bakke",58.425029,6.663659
+1365844,"Osenvegen 1, Bakke",58.417242,6.656966
+1365984,"Birkeland, Prestevegen 31, Bakke",58.415292,6.665314
+1365985,"Birkeland, Prestevegen 29, Bakke",58.415251,6.665026
+1365986,"Birkeland, Prestevegen 33, Bakke",58.415601,6.665482
+1365987,"Birkeland, Prestevegen 32, Bakke",58.416024,6.667013
+1365988,"Birkeland, Prestevegen 26, Bakke",58.415848,6.665723
+1365989,"Birkeland, Prestevegen 24, Bakke",58.415902,6.665274
+1365990,"Birkeland, Prestevegen 27, Bakke",58.415808,6.665006
+1365991,"Birkeland, Prestevegen 20, Bakke",58.415945,6.664672
+1365992,"Birkeland, Prestevegen 23, Bakke",58.4158,6.664579
+1365993,"Birkeland, Prestevegen 21, Bakke",58.415791,6.66362
+1365994,"Birkeland, Prestevegen 15, Bakke",58.415442,6.662188
+1366007,"Birkeland, Prestevegen 36, Bakke",58.416114,6.668034
+1366008,"Birkeland, Prestevegen 34, Bakke",58.41609,6.667676
+1366009,"Birkeland, Prestevegen 47, Bakke",58.41588,6.667484
+1366010,"Birkeland, Prestevegen 41, Bakke",58.415715,6.666828
+1366086,"Lillevoll 3, Bakke",58.425183,6.664266
+1366157,"Øvrevoll 18, Bakke",58.42572,6.667587
+1366158,"Øvrevoll 16, Bakke",58.425799,6.667959
+1366160,"Øvrevoll 20, Bakke",58.42546,6.667125
+1366161,"Øvrevoll 10, Bakke",58.425301,6.668266
+1366162,"Øvrevoll 8, Bakke",58.425096,6.668348
+1366163,"Øvrevoll 14, Bakke",58.425616,6.668313
+1366164,"Øvrevoll 12, Bakke",58.425494,6.667979
+1366165,"Øvrevoll 4, Bakke",58.424673,6.668307
+1366166,"Øvrevoll 3, Bakke",58.425078,6.667835
+1366167,"Øvrevoll 6, Bakke",58.424881,6.668362
+1366168,"Øvrevoll 5, Bakke",58.425272,6.667634
+1366171,"Øvrevoll 2, Bakke",58.424514,6.667992
+1366503,"Osenvegen 41, Bakke",58.426337,6.665457
+1366638,"Lillevoll 10, Bakke",58.425385,6.663516
+1366639,"Lillevoll 8, Bakke",58.425545,6.663899
+1366642,"Lillevoll 2, Bakke",58.425507,6.665272
+1366643,"Lillevoll 1, Bakke",58.42523,6.664828
+1366688,"Prestmovegen 2, Bakke",58.418362,6.662183
+1366696,"Furuvegen 10, Bakke",58.42067,6.663623
+1366853,"Planteskogvegen 11, Bakke",58.419176,6.660999
+1366891,"Sirnesvegen 70, Bakke",58.40747,6.640992
+1366892,"Birkeland, Prestevegen 45, Bakke",58.415105,6.669044
+1366975,"Einervegen 12, Bakke",58.419627,6.662562
+1366976,"Tronåsen 70, Bakke",58.424847,6.64394
+1367051,"Sirnesvegen 100A, Bakke",58.410178,6.645588
+1367053,"Sirnesvegen 106, Bakke",58.410747,6.647707
+1367055,"Sirnesvegen 24, Bakke",58.407099,6.630626
+1367057,"Sirnesvegen 98A, Bakke",58.409903,6.645298
+1367059,"Sirnesvegen 126, Bakke",58.416163,6.659366
+1367063,"Sirnesvegen 128, Bakke",58.415376,6.659093
+1367065,"Sirnesvegen 122, Bakke",58.415431,6.660696
+1367066,"Kleiva, Sirnesvegen 114, Bakke",58.412286,6.655686
+1367068,"Sirnesvegen 124, Bakke",58.415685,6.660254
+1367069,"Sirnesvegen 109, Bakke",58.411637,6.649189
+1367070,"Sirnesvegen 108, Bakke",58.410854,6.648128
+1367071,"Kleiva, Sirnesvegen 113, Bakke",58.412538,6.65572
+1367072,"Sirnesvegen 112, Bakke",58.411504,6.649797
+1367089,"Sirnesvegen 14, Bakke",58.403581,6.624049
+1367111,"Sirnesvegen 52, Bakke",58.408218,6.636768
+1367121,"Furuvegen 9, Bakke",58.42,6.663342
+1367122,"Lillevoll 6, Bakke",58.425617,6.664408
+1367138,"Sirnesvegen 22, Bakke",58.40564,6.629491
+1367139,"Sirnesvegen 20, Bakke",58.4059,6.630912
+1367140,"Sirnesvegen 26, Bakke",58.406843,6.630369
+1367141,"Sirnesvegen 23, Bakke",58.406793,6.629602
+1367142,"Sirnesvegen 13, Bakke",58.404136,6.623481
+1367143,"Sirnesvegen 12, Bakke",58.4036,6.624596
+1367144,"Sirnesvegen 16, Bakke",58.404059,6.624171
+1367145,"Sirnesvegen 15, Bakke",58.404254,6.624483
+1367146,"Sirnesvegen 6, Bakke",58.403493,6.625596
+1367147,"Sirnesvegen 4, Bakke",58.403119,6.625809
+1367148,"Sirnesvegen 10, Bakke",58.404015,6.62616
+1367149,"Sirnesvegen 8, Bakke",58.403613,6.625759
+1367152,"Sirnesvegen 2, Bakke",58.402836,6.626496
+1367154,"Sirnesvegen 1, Bakke",58.402875,6.624285
+1367155,"Sirnesvegen 46, Bakke",58.408421,6.63456
+1367156,"Sirnesvegen 40, Bakke",58.408124,6.632594
+1367157,"Sirnesvegen 38, Bakke",58.407909,6.632181
+1367158,"Sirnesvegen 44, Bakke",58.408392,6.633997
+1367159,"Sirnesvegen 42, Bakke",58.408171,6.633721
+1367160,"Sirnesvegen 33, Bakke",58.40781,6.63116
+1367161,"Sirnesvegen 32, Bakke",58.407419,6.630929
+1367162,"Sirnesvegen 36, Bakke",58.407859,6.631859
+1367163,"Sirnesvegen 34, Bakke",58.40764,6.63124
+1367164,"Sirnesvegen 28, Bakke",58.406665,6.631425
+1367165,"Sirnesvegen 27, Bakke",58.407289,6.630236
+1367166,"Sirnesvegen 31, Bakke",58.407716,6.630927
+1367167,"Sirnesvegen 30, Bakke",58.406879,6.631359
+1367168,"Sirnesvegen 102, Bakke",58.4103,6.646367
+1367169,"Sirnesvegen 99, Bakke",58.410717,6.646528
+1367170,"Sirnesvegen 107, Bakke",58.411432,6.648791
+1367171,"Sirnesvegen 105, Bakke",58.411415,6.648347
+1367172,"Sirnesvegen 94, Bakke",58.409553,6.644328
+1367173,"Sirnesvegen 97, Bakke",58.410463,6.645449
+1367174,"Sirnesvegen 96, Bakke",58.409868,6.644855
+1367175,"Sirnesvegen 64, Bakke",58.407495,6.640408
+1367240,"Birkeland, Prestevegen 22A, Bakke",58.416622,6.663857
+1367241,"Birkeland, Prestevegen 22B, Bakke",58.417089,6.664802
+1367412,"Sirnesvegen 118B, Bakke",58.41392,6.659532
+1367413,"Sirnesvegen 116, Bakke",58.412498,6.657932
+1367415,"Sirnesvegen 118A, Bakke",58.413862,6.6588
+1367424,"Birkeland, Prestevegen 43B, Bakke",58.415654,6.667414
+1367425,"Birkeland, Prestevegen 43A, Bakke",58.415559,6.667129
+1367426,"Myran 15, Bakke",58.41972,6.662584
+1367427,"Myran 14, Bakke",58.419766,6.663289
+1367649,"Viraksvegen 103A, Bakke",58.560187,6.693021
+1367669,"Viraksvegen 103B, Bakke",58.560093,6.692305
+1367670,"Viraksvegen 101, Bakke",58.56146,6.692886
+1367743,"Ersdalsbakken 20, Bakke",58.42516,6.674355
+1367753,"Hafte, Sirnesvegen 68B, Bakke",58.405297,6.64742
+1367755,"Omdal, Sirnesvegen 66B, Bakke",58.404825,6.641306
+1367756,"Omdal, Sirnesvegen 66A, Bakke",58.405054,6.642489
+1367757,"Hafte, Sirnesvegen 68A, Bakke",58.405278,6.645384
+1367758,"Omdal, Sirnesvegen 66C, Bakke",58.404788,6.641736
+1367895,"Furuvegen 17, Bakke",58.420318,6.663509
+1367896,"Furuvegen 15, Bakke",58.420324,6.663372
+1367901,"Furuvegen 13, Bakke",58.420304,6.663253
+1367903,"Furuvegen 11, Bakke",58.420301,6.663082
+1368042,"Sirnesvegen 3, Bakke",58.40301,6.623814
+1368927,"Viraksveien 1196, Sirdal",58.576563,6.674449
+1368928,"Viraksveien 1198, Sirdal",58.576316,6.674672
+1368931,"Strondeveien 95, Sirdal",58.579071,6.690953
+1368932,"Strondeveien 49, Sirdal",58.578388,6.681966
+1368933,"Strondeveien 91, Sirdal",58.578634,6.689106
+1368934,"Strondeveien 45, Sirdal",58.579078,6.682351
+1368935,"Skogestadveien 106, Sirdal",58.576,6.660261
+1368936,"Skogestadveien 108, Sirdal",58.576047,6.65988
+1368937,"Strondeveien 84, Sirdal",58.578525,6.687582
+1368938,"Skogestadveien 4, Sirdal",58.57807,6.67478
+1368939,"Viraksveien 1158, Sirdal",58.578737,6.675406
+1368940,"Viraksveien 1154, Sirdal",58.579903,6.67483
+1368941,"Viraksveien 1146, Sirdal",58.580174,6.674915
+1368943,"Viraksveien 1144, Sirdal",58.580521,6.674686
+1368944,"Viraksveien 1108, Sirdal",58.583232,6.674575
+1369147,"Strondeveien 77, Sirdal",58.57866,6.686559
+1369166,"Viraksveien 894, Sirdal",58.601131,6.668721
+1369167,"Strondeveien 7, Sirdal",58.579916,6.679009
+1369218,"Strondeveien 66, Sirdal",58.578334,6.684963
+1369304,"Skogestadveien 226, Sirdal",58.572587,6.635756
+1369311,"Strondeveien 59, Sirdal",58.578365,6.683671
+1369312,"Viraksveien 783, Sirdal",58.608346,6.669205
+1369313,"Viraksveien 785, Sirdal",58.608347,6.669773
+1369315,"Viraksveien 1134, Sirdal",58.581269,6.674808
+1369316,"Strondeveien 105, Sirdal",58.581402,6.688184
+1369317,"Strondeveien 3, Sirdal",58.578531,6.675953
+1369318,"Strondeveien 35, Sirdal",58.57795,6.679587
+1369326,"Viraksveien 1084, Sirdal",58.58434,6.673262
+1369353,"Strondeveien 69, Sirdal",58.578546,6.685224
+1369589,"Strondeveien 82, Sirdal",58.578428,6.687193
+1369774,"Viraksveien 581, Sirdal",58.623375,6.66612
+1369901,"Skogestadveien 216, Sirdal",58.573114,6.641947
+1369903,"Skogestadveien 224, Sirdal",58.574608,6.634295
+1369905,"Skogestadveien 156, Sirdal",58.57381,6.653011
+1369908,"Skogestadveien 184, Sirdal",58.573193,6.647772
+1369910,"Skogestadveien 144, Sirdal",58.574101,6.654643
+1369918,"Skogestadveien 228, Sirdal",58.57161,6.63737
+1370171,"Viraksveien 928, Sirdal",58.597946,6.669432
+1370535,"Skogestadveien 78, Sirdal",58.575969,6.663497
+1370537,"Skogestadveien 150, Sirdal",58.574048,6.653718
+1370547,"Skogestadveien 222, Sirdal",58.573215,6.636728
+1370581,"Skogestadveien 146, Sirdal",58.574823,6.655799
+1370660,"Viraksveien 688, Sirdal",58.617735,6.659848
+1370712,"Viraksveien 623, Sirdal",58.622865,6.659333
+1371234,"Viraksveien 603, Sirdal",58.623873,6.663256
+1371235,"Viraksveien 781, Sirdal",58.610512,6.666862
+1371415,"Viraksveien 1143, Sirdal",58.580192,6.67586
+1636567,"Bjørkmyra 24, Bakke",58.425048,6.666403
+1636568,"Bjørkmyra 22, Bakke",58.424911,6.666378
+1646058,"Rannestad 1, Bakke",58.427764,6.66144
+1646060,"Rannestad 3, Bakke",58.428642,6.661775
+1646297,"Lende 9, Bakke",58.415239,6.651089
+1646363,"Sira gård 32, Bakke",58.412954,6.638246
+1646365,"Sira gård 34, Bakke",58.413251,6.638756
+1646369,"Sira gård 31, Bakke",58.412906,6.636622
+1646371,"Rannestad 8, Bakke",58.429125,6.662116
+1646389,"Rannestad 4, Bakke",58.428942,6.662441
+1646402,"Rannestad 6, Bakke",58.429233,6.663124
+1646403,"Rannestad 10, Bakke",58.429534,6.660945
+1646404,"Rannestad 13, Bakke",58.430839,6.661527
+1646405,"Rannestad 11, Bakke",58.43071,6.660884
+1646448,"Lende 11, Bakke",58.415157,6.650563
+1646450,"Lende 8, Bakke",58.417245,6.652986
+1646451,"Lende 10, Bakke",58.415835,6.651289
+1646452,"Lende 12, Bakke",58.416115,6.651802
+1646453,"Lende 7, Bakke",58.414957,6.651895
+1646454,"Lende 6, Bakke",58.416407,6.654059
+1646455,"Bakke 10, Bakke",58.409115,6.655229
+1646456,"Bakke 12, Bakke",58.409383,6.657936
+1646457,"Bakke 7, Bakke",58.411326,6.658711
+1646458,"Bakke 2, Bakke",58.410792,6.657018
+1646459,"Bakke 4, Bakke",58.411081,6.657581
+1646460,"Bakke 6B, Bakke",58.410849,6.658178
+1646461,"Bakke 8, Bakke",58.409266,6.656109
+1646462,"Bakke 1, Bakke",58.411447,6.656991
+1646463,"Bakke 9, Bakke",58.412259,6.659591
+1646515,"Bakke 11, Bakke",58.413423,6.661346
+1646516,"Sira gård 29, Bakke",58.412566,6.636696
+1646518,"Sira gård 25, Bakke",58.410836,6.633028
+1646519,"Sira gård 27, Bakke",58.412404,6.636211
+1646520,"Sira gård 13, Bakke",58.410397,6.633589
+1646522,"Sira gård 15, Bakke",58.410473,6.63283
+1646527,"Sira gård 21, Bakke",58.410475,6.630502
+1646529,"Sira gård 23, Bakke",58.410711,6.631616
+1646531,"Sira gård 17, Bakke",58.410264,6.63281
+1646533,"Sira gård 19, Bakke",58.410276,6.631405
+1646553,"Bakke 13, Bakke",58.412135,6.660182
+1646554,"Bakke 15, Bakke",58.411885,6.661277
+1646588,"Lende 2, Bakke",58.414349,6.653545
+1646589,"Lende 4, Bakke",58.414012,6.65427
+1646590,"Lende 5, Bakke",58.413372,6.652669
+1646592,"Bakke 17, Bakke",58.411919,6.662661
+1646593,"Bakke 19, Bakke",58.411297,6.661473
+1646594,"Bakke 20, Bakke",58.411098,6.661004
+1646595,"Bakke 22, Bakke",58.410874,6.660539
+1646643,"Skogen, Tronåsen 31, Bakke",58.425904,6.634004
+1646645,"Lende 19, Bakke",58.417423,6.647245
+1646646,"Skogen, Tronåsen 21, Bakke",58.423449,6.639752
+1646656,"Lende 16, Bakke",58.416841,6.651718
+1646657,"Lende 18, Bakke",58.416776,6.650644
+1646675,"Sira gård 4, Bakke",58.412121,6.645698
+1646676,"Sira gård 2, Bakke",58.41214,6.646731
+1646677,"Sira gård 8, Bakke",58.411624,6.643094
+1646678,"Sira gård 6A, Bakke",58.411968,6.645177
+1646679,"Sira gård 10, Bakke",58.411029,6.636149
+1646680,"Sira gård 9, Bakke",58.410565,6.640254
+1646681,"Sira gård 11, Bakke",58.410344,6.635082
+1647133,"Skjeggestad 4, Bakke",58.402511,6.629325
+1647134,"Skjeggestad 6, Bakke",58.402639,6.628957
+1647136,"Skjeggestad 2, Bakke",58.40237,6.630002
+1647313,"Lende 14, Bakke",58.416467,6.650442
+1647625,"Bjørkmyra 6, Bakke",58.424525,6.662665
+1655659,"Skregeli, Viraksvegen 102, Bakke",58.551341,6.674798
+1655683,"Skregeli, Viraksvegen 106, Bakke",58.551263,6.674477
+1655685,"Skregeli, Viraksvegen 104, Bakke",58.551501,6.674203
+1657595,"Ramsli, Viraksvegen 134, Bakke",58.538176,6.660789
+1657747,"Ramsli, Viraksvegen 111, Bakke",58.532456,6.684234
+1657748,"Ramsli, Viraksvegen 115, Bakke",58.53288,6.685882
+1657749,"Ramsli, Viraksvegen 113, Bakke",58.532767,6.683639
+1657751,"Ramsli, Viraksvegen 119, Bakke",58.532925,6.680399
+1657752,"Ramsli, Viraksvegen 117, Bakke",58.531993,6.684549
+1657754,"Ramsli, Viraksvegen 128, Bakke",58.532164,6.67612
+1657755,"Ramsli, Viraksvegen 121, Bakke",58.532817,6.678945
+1658115,"Ramsli, Viraksvegen 140, Bakke",58.538016,6.65647
+1658117,"Ramsli, Viraksvegen 138, Bakke",58.538332,6.658546
+1658357,"Jendal, Viraksvegen 154, Bakke",58.521739,6.681412
+1658358,"Jendal, Viraksvegen 152, Bakke",58.524018,6.678771
+1658366,"Ramsli, Viraksvegen 142A, Bakke",58.537783,6.655025
+1658367,"Jendal Indre, Viraksvegen 146, Bakke",58.547728,6.652023
+1658368,"Jendal Indre, Viraksvegen 144, Bakke",58.545719,6.652244
+1658369,"Jendal, Viraksvegen 150, Bakke",58.523516,6.644797
+1658370,"Jendal, Viraksvegen 148, Bakke",58.524178,6.647088
+1658386,"Lindeli, Viraksvegen 159, Bakke",58.505622,6.671094
+1658389,"Lindeli, Viraksvegen 157, Bakke",58.505493,6.672407
+1658404,"Espelund, Viraksvegen 155, Bakke",58.510658,6.67974
+1658531,"Ytre Sandsmark, Viraksvegen 205, Bakke",58.448617,6.661872
+1658545,"Ytre Sandsmark, Viraksvegen 200, Bakke",58.450109,6.658465
+1658546,"Ytre Sandsmark, Viraksvegen 202, Bakke",58.449423,6.658768
+1658548,"Ytre Sandsmark, Viraksvegen 203, Bakke",58.449599,6.661036
+1658549,"Konstali, Viraksvegen 194, Bakke",58.457684,6.659967
+1658550,"Konstali, Viraksvegen 196, Bakke",58.456269,6.659718
+1658551,"Konstali, Viraksvegen 198, Bakke",58.455722,6.659292
+1658552,"Ytre Sandsmark, Viraksvegen 199, Bakke",58.451384,6.661363
+1658553,"Indre Sandsmark, Viraksvegen 193, Bakke",58.463264,6.667878
+1658554,"Indre Sandsmark, Viraksvegen 195, Bakke",58.461993,6.668631
+1658661,"Berghøiden, Viraksvegen 161, Bakke",58.504094,6.663642
+1658663,"Brikland, Viraksvegen 169B, Bakke",58.482714,6.658406
+1658664,"Berghøiden, Viraksvegen 167, Bakke",58.501128,6.663582
+1658665,"Berghøiden, Viraksvegen 165, Bakke",58.501829,6.662608
+1658667,"Berghøiden, Viraksvegen 163, Bakke",58.503227,6.661493
+1658672,"Mjåsund, Viraksvegen 175, Bakke",58.475058,6.670716
+1658674,"Brikland, Viraksvegen 173, Bakke",58.478625,6.668249
+1658677,"Brikland, Viraksvegen 172, Bakke",58.480358,6.660295
+1658678,"Brikland, Viraksvegen 170, Bakke",58.48094,6.659158
+1658682,"Mjåsund, Viraksvegen 177, Bakke",58.477381,6.675416
+1658744,"Indre Sandsmark, Viraksvegen 183, Bakke",58.467765,6.667871
+1658747,"Mjåsund, Viraksvegen 181, Bakke",58.478592,6.676521
+1658751,"Mjåsund, Viraksvegen 179, Bakke",58.478024,6.674705
+1658753,"Indre Sandsmark, Viraksvegen 190A, Bakke",58.465209,6.665549
+1658758,"Indre Sandsmark, Viraksvegen 188, Bakke",58.465831,6.665547
+1658762,"Indtre Sandsmark, Viraksvegen 187, Bakke",58.466745,6.666636
+1658766,"Indre Sandsmark, Viraksvegen 185, Bakke",58.466884,6.666849
+1661462,"Planteskogvegen 21D, Bakke",58.421309,6.660448
+1661478,"Planteskogvegen 21A, Bakke",58.421281,6.660198
+1661480,"Planteskogvegen 21B, Bakke",58.421294,6.660307
+1661482,"Planteskogvegen 21C, Bakke",58.421299,6.660392
+1661626,"Planteskogvegen 21H, Bakke",58.421346,6.660764
+1661631,"Planteskogvegen 21E, Bakke",58.421314,6.660533
+1661632,"Planteskogvegen 21F, Bakke",58.421325,6.660603
+1661633,"Planteskogvegen 21G, Bakke",58.421338,6.660693
+1677075,"Planteskogvegen 21J, Bakke",58.421432,6.661226
+1677077,"Planteskogvegen 21K, Bakke",58.42148,6.661271
+1677080,"Planteskogvegen 21I, Bakke",58.42138,6.661315
+1677084,"Planteskogvegen 21L, Bakke",58.421502,6.661191
+1699680,"Viraksveien 1173, Sirdal",58.577543,6.67495
+1712010,"Konstali, Viraksvegen 192B, Bakke",58.458941,6.659927
+1712014,"Konstali, Viraksvegen 192A, Bakke",58.459446,6.65948
+1712018,"Konstali, Viraksvegen 192D, Bakke",58.458414,6.659483
+1712023,"Konstali, Viraksvegen 192C, Bakke",58.458901,6.659582
+1712030,"Konstali, Viraksvegen 192E, Bakke",58.458361,6.659737
+1721299,"Myran 16, Bakke",58.419587,6.663056
+1742946,"Sirneset 5, Bakke",58.40258,6.622716
+1742947,"Sirneset 11, Bakke",58.403119,6.621941
+1742948,"Sirneset 15, Bakke",58.405296,6.622068
+1742949,"Sirneset 17, Bakke",58.405381,6.621788
+1742950,"Sirneset 37, Bakke",58.405542,6.620305
+1742956,"Sirneset 41, Bakke",58.405987,6.620566
+1742957,"Sirneset 43, Bakke",58.406251,6.620771
+1742958,"Sirneset 45, Bakke",58.406593,6.621279
+1743305,"Sirneset 44, Bakke",58.406629,6.622697
+1743306,"Sirneset 30, Bakke",58.407201,6.626408
+1743307,"Sirneset 22, Bakke",58.406297,6.624168
+1743308,"Sirneset 20, Bakke",58.406029,6.623319
+1743309,"Sirneset 18, Bakke",58.405947,6.623753
+1760944,"Brikland, Viraksvegen 169A, Bakke",58.483593,6.657726
+1763751,"Ramsli, Viraksvegen 142B, Bakke",58.53732,6.653916
+1775821,"Sira gård 6B, Bakke",58.41219,6.644335
+1817117,"Røyåsen 8, Bakke",58.420691,6.664666
+1848080,"Røyåsen 12, Bakke",58.420375,6.665149
+1848082,"Røyåsen 10, Bakke",58.420551,6.664983
+1848084,"Røyåsen 6, Bakke",58.42098,6.664869
+1848109,"Røyåsen 4A, Bakke",58.421265,6.664884
+1927529,"Røyåsen 5, Bakke",58.422199,6.665523
+1927534,"Røyåsen 18, Bakke",58.420991,6.665622
+1927536,"Røyåsen 24, Bakke",58.420993,6.665937
+1927537,"Røyåsen 14, Bakke",58.420923,6.665234
+1927538,"Røyåsen 16, Bakke",58.421064,6.665241
+1927539,"Røyåsen 30, Bakke",58.421348,6.665376
+1927540,"Røyåsen 26, Bakke",58.421163,6.665676
+1927541,"Røyåsen 28, Bakke",58.421211,6.665358
+1938807,"Røyåsen 7, Bakke",58.422444,6.665771
+1938808,"Røyåsen 9, Bakke",58.422662,6.666053
+1938809,"Røyåsen 11, Bakke",58.422863,6.666387
+1950519,"Bakke 6A, Bakke",58.410105,6.657995
+1951192,"Sirnesvegen 100B, Bakke",58.410273,6.645929
+1951780,"Birkeland, Prestevegen 44, Bakke",58.413513,6.6656
+1968165,"Viraksveien 692, Sirdal",58.616972,6.659393
+1973590,"Viraksveien 1086, Sirdal",58.585186,6.674359
+1974212,"Viraksveien 956, Sirdal",58.596452,6.673346
+1974214,"Skogestadveien 19, Sirdal",58.577297,6.672968
+1974439,"Viraksveien 941, Sirdal",58.599873,6.67144
+1974440,"Viraksveien 943, Sirdal",58.599157,6.670966
+1977598,"Viraksveien 579, Sirdal",58.625161,6.666781
+1978201,"Viraksveien 920, Sirdal",58.598404,6.669006
+1978202,"Viraksveien 939, Sirdal",58.601474,6.670752
+1981250,"Myran 12, Bakke",58.419882,6.663281
+2008067,"Skogestadveien 272, Sirdal",58.571113,6.633815
+2008073,"Skogestadveien 138, Sirdal",58.574403,6.655461
+2008081,"Skogestadveien 204, Sirdal",58.573079,6.645878
+2022167,"Røyåsen 1B, Bakke",58.421779,6.66514
+2022168,"Røyåsen 1A, Bakke",58.421746,6.665341
+2033470,"Myran 13, Bakke",58.419901,6.662538
+2036574,"Røyåsen 2A, Bakke",58.421501,6.664986
+2036575,"Røyåsen 2B, Bakke",58.421387,6.664925
+2047063,"Indre Sandsmark, Viraksvegen 190B, Bakke",58.462858,6.665237
+2049035,"Sirnesvegen 98B, Bakke",58.409848,6.645779
+2101881,"Planteskogvegen 9B, Bakke",58.418724,6.661173
+2180157,"Mosevegen 11, Bakke",58.423119,6.663426
+2192389,"Osenvegen 39A, Bakke",58.426284,6.664518
+2192889,"Osenvegen 39B, Bakke",58.426318,6.664919
+2376486,"Sirnesvegen 25, Bakke",58.407037,6.629938
+2414729,"Birkeland, Prestevegen 50, Bakke",58.417607,6.670538
+2414830,"Sirnesvegen 88, Bakke",58.409093,6.642784
+2414831,"Sirnesvegen 120, Bakke",58.415212,6.660423
+2414833,"Sirnesvegen 90, Bakke",58.409254,6.643201
+2414835,"Sirnesvegen 76, Bakke",58.408889,6.640486
+2414848,"Sirnesvegen 84, Bakke",58.408907,6.642437
+2414857,"Sirnesvegen 78, Bakke",58.409132,6.641463
+2414859,"Sirnesvegen 74, Bakke",58.408759,6.640238
+2414885,"Sirnesvegen 48, Bakke",58.408363,6.635797
+2414886,"Sirnesvegen 54, Bakke",58.408454,6.637845
+2414892,"Sirnesvegen 92, Bakke",58.409529,6.643525
+2414893,"Sirnesvegen 72, Bakke",58.408143,6.640434
+2414894,"Sirnesvegen 82, Bakke",58.409235,6.642175
+2414895,"Sirnesvegen 80, Bakke",58.409201,6.641784
+2414896,"Sirnesvegen 58, Bakke",58.408576,6.639104
+2414897,"Sirnesvegen 56, Bakke",58.40848,6.638254
+2414898,"Sirnesvegen 62, Bakke",58.408143,6.639971
+2414899,"Sirnesvegen 60, Bakke",58.408601,6.639496
+2417073,"Røyåsen 3A, Bakke",58.421917,6.66531
+2417075,"Røyåsen 3B, Bakke",58.422025,6.665378
+2418242,"Røyåsen 4B, Bakke",58.421162,6.664834
+2494539,"Stuhaugkleivå 22, Sirdal",58.62259,6.648224
+2494540,"Stuhaugkleivå 20, Sirdal",58.621754,6.648194
+2494546,"Stuhaugkleivå 35, Sirdal",58.617462,6.655699
+2494547,"Stuhaugkleivå 33, Sirdal",58.618129,6.654845
+2494548,"Stuhaugkleivå 37, Sirdal",58.616951,6.654808
+2494549,"Stuhaugkleivå 84, Sirdal",58.619247,6.644712
+2494668,"Stuhaugkleivå 81, Sirdal",58.617799,6.644618
+2494695,"Stuhaugkleivå 71, Sirdal",58.617003,6.644346
+2494718,"Stuhaugkleivå 75, Sirdal",58.616222,6.643727
+2494719,"Stuhaugkleivå 73, Sirdal",58.616604,6.644096
+2494720,"Stuhaugkleivå 77, Sirdal",58.616676,6.643304
+2496692,"Skogestadveien 707, Sirdal",58.595812,6.606354
+2496722,"Skogestadveien 732, Sirdal",58.597283,6.614725
+2496725,"Skogestadveien 612, Sirdal",58.585915,6.612251
+2496727,"Skogestadveien 686, Sirdal",58.593579,6.614854
+2496728,"Skogestadveien 699, Sirdal",58.595158,6.606433

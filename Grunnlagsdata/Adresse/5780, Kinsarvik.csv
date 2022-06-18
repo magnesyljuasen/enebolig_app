@@ -1,0 +1,459 @@
+,Navn,Long,Lat
+15426,"Bråvoll, 238/1, Kinsarvik",60.374558,6.727254
+15427,"240/10, Kinsarvik",60.381314,6.701181
+15431,"232/3-1, Kinsarvik",60.440689,6.780731
+15439,"176/1/20, Ullensvang",60.318407,6.894981
+15454,"Ullensvang Statsallmenning, 255/1, Ullensvang",60.328602,6.834721
+29298,"238/2-1, Kinsarvik",60.378111,6.729111
+29299,"238/2, Kinsarvik",60.379068,6.730986
+30575,"232/37, Kinsarvik",60.444395,6.790468
+33446,"Grytingsvatnet, 240/8-1, Kinsarvik",60.37658,6.794124
+34433,"173/4-2, Ullensvang",60.286469,7.043231
+34435,"173/5-6, Ullensvang",60.286515,7.043117
+34908,"233/1-2, Kinsarvik",60.428986,6.751638
+35118,"180/1-2, Ullensvang",60.268493,7.10298
+35364,"239/3-2, Kinsarvik",60.346095,6.78991
+35844,"Gryting, 240/8-2, Kinsarvik",60.37878,6.836429
+35862,"Stavali, 176/1/20-1, Ullensvang",60.318371,6.895765
+44278,"230/8-1, Kinsarvik",60.41384,6.963825
+44279,"230/8, Kinsarvik",60.411318,6.966447
+53766,"Huse, 239/6, Kinsarvik",60.346181,6.788933
+824776,"Grytingsvegen 8, Kinsarvik",60.371578,6.728985
+824777,"Grytingsvegen 7, Kinsarvik",60.371147,6.728961
+824778,"Grytingsvegen 10, Kinsarvik",60.371251,6.729806
+824779,"Grytingsvegen 9, Kinsarvik",60.370965,6.729354
+824780,"Grytingsvegen 4, Kinsarvik",60.372177,6.728254
+824781,"Grytingsvegen 3, Kinsarvik",60.372397,6.728511
+824782,"Grytingsvegen 6, Kinsarvik",60.37183,6.728442
+824783,"Grytingsvegen 5, Kinsarvik",60.371991,6.727904
+824784,"Grytingsvegen 16, Kinsarvik",60.370732,6.730985
+824785,"Grytingsvegen 15, Kinsarvik",60.370465,6.730605
+824786,"Grytingsvegen 18, Kinsarvik",60.370524,6.731435
+824787,"Grytingsvegen 17, Kinsarvik",60.37032,6.731032
+824788,"Grytingsvegen 12, Kinsarvik",60.371078,6.730217
+824789,"Grytingsvegen 11, Kinsarvik",60.370802,6.729783
+824790,"Grytingsvegen 14, Kinsarvik",60.370879,6.730666
+824791,"Grytingsvegen 13, Kinsarvik",60.37063,6.73023
+824802,"Grytingsvegen 2, Kinsarvik",60.372501,6.727796
+824803,"Grytingsvegen 1, Kinsarvik",60.372289,6.727466
+824838,"Kvednavegen 28, Kinsarvik",60.369683,6.73162
+824839,"Kvednavegen 27, Kinsarvik",60.369659,6.730733
+824840,"Kvednavegen 30, Kinsarvik",60.369433,6.7322
+824841,"Kvednavegen 29, Kinsarvik",60.369471,6.731309
+824842,"Kvednavegen 23, Kinsarvik",60.37002,6.729801
+824843,"Kvednavegen 22, Kinsarvik",60.370253,6.730275
+824844,"Kvednavegen 26, Kinsarvik",60.369873,6.731154
+824845,"Kvednavegen 25, Kinsarvik",60.369841,6.73034
+824846,"Djupedalen 1, Kinsarvik",60.369847,6.726476
+824847,"Husevegen 46, Kinsarvik",60.370105,6.726313
+824848,"Djupedalen 3, Kinsarvik",60.369387,6.727433
+824849,"Djupedalen 2, Kinsarvik",60.369513,6.726934
+824850,"Kvednavegen 32, Kinsarvik",60.369204,6.732996
+824851,"Kvednavegen 31, Kinsarvik",60.36929,6.73172
+824852,"Kvednavegen 35, Kinsarvik",60.36891,6.732653
+824853,"Kvednavegen 33, Kinsarvik",60.369127,6.732167
+824854,"Kvednavegen 8, Kinsarvik",60.371357,6.727622
+824855,"Kvednavegen 7, Kinsarvik",60.370695,6.727251
+824856,"Kvednavegen 10, Kinsarvik",60.37131,6.72855
+824857,"Kvednavegen 9, Kinsarvik",60.371516,6.727974
+824858,"Kvednavegen 4, Kinsarvik",60.370603,6.72655
+824859,"Kvednavegen 3, Kinsarvik",60.370875,6.726731
+824860,"Kvednavegen 6, Kinsarvik",60.370501,6.727446
+824861,"Kvednavegen 5, Kinsarvik",60.370436,6.726761
+824862,"Kvednavegen 19, Kinsarvik",60.370348,6.729016
+824863,"Kvednavegen 18, Kinsarvik",60.370598,6.729416
+824864,"Kvednavegen 21, Kinsarvik",60.370148,6.729393
+824865,"Kvednavegen 20, Kinsarvik",60.370425,6.729846
+824866,"Kvednavegen 14, Kinsarvik",60.370969,6.728538
+824867,"Kvednavegen 11, Kinsarvik",60.371115,6.728147
+824868,"Kvednavegen 17, Kinsarvik",60.370521,6.728605
+824869,"Kvednavegen 15, Kinsarvik",60.370693,6.728176
+824870,"Sjursledvegen 9B, Kinsarvik",60.371294,6.730509
+824871,"Sjursledvegen 8, Kinsarvik",60.371647,6.730395
+824872,"Sjursledvegen 11, Kinsarvik",60.371081,6.730924
+824873,"Sjursledvegen 10, Kinsarvik",60.371431,6.730864
+824874,"Sjursledvegen 5, Kinsarvik",60.37173,6.729459
+824875,"Sjursledvegen 4, Kinsarvik",60.372113,6.729238
+824876,"Sjursledvegen 7, Kinsarvik",60.371468,6.729882
+824877,"Sjursledvegen 6, Kinsarvik",60.371898,6.729816
+824878,"Sjursledvegen 18, Kinsarvik",60.370759,6.732561
+824879,"Sjursledvegen 16, Kinsarvik",60.370948,6.732076
+824880,"Kvednavegen 2, Kinsarvik",60.371005,6.726975
+824881,"Kvednavegen 1, Kinsarvik",60.371117,6.727204
+824882,"Sjursledvegen 13, Kinsarvik",60.3709,6.731318
+824883,"Sjursledvegen 12, Kinsarvik",60.371303,6.73129
+824884,"Sjursledvegen 15, Kinsarvik",60.370744,6.731692
+824885,"Sjursledvegen 14, Kinsarvik",60.371112,6.731684
+824886,"Grytingsvegen 26, Kinsarvik",60.370324,6.733408
+824887,"Grytingsvegen 24, Kinsarvik",60.369923,6.733055
+824888,"Grytingsvegen 28, Kinsarvik",60.369734,6.733539
+824889,"Grytingsvegen 27, Kinsarvik",60.36945,6.733251
+824890,"Grytingsvegen 20, Kinsarvik",60.370389,6.731934
+824891,"Grytingsvegen 19, Kinsarvik",60.370087,6.731574
+824892,"Grytingsvegen 23, Kinsarvik",60.369664,6.732583
+824893,"Grytingsvegen 21, Kinsarvik",60.369827,6.732136
+824894,"Grytingsvegen 34, Kinsarvik",60.369935,6.734305
+824895,"Grytingsvegen 33, Kinsarvik",60.36925,6.734643
+824896,"Sjursledvegen 2, Kinsarvik",60.37199,6.728902
+824897,"Grytingsvegen 35, Kinsarvik",60.369421,6.735212
+824898,"Grytingsvegen 30, Kinsarvik",60.369862,6.733712
+824899,"Grytingsvegen 29, Kinsarvik",60.369233,6.733665
+824900,"Grytingsvegen 32, Kinsarvik",60.369725,6.734102
+824901,"Grytingsvegen 31, Kinsarvik",60.369031,6.734967
+824907,"Kinsarvikvegen 25, Kinsarvik",60.375219,6.718921
+824915,"Tjødnahaugane 42, Kinsarvik",60.369074,6.729631
+824916,"Tjødnahaugane 41, Kinsarvik",60.36939,6.729736
+824917,"Tjødnahaugane 43, Kinsarvik",60.368807,6.729759
+824918,"Tjødnahaugane 38, Kinsarvik",60.368775,6.728437
+824919,"Tjødnahaugane 37, Kinsarvik",60.368652,6.728028
+824920,"Tjødnahaugane 40, Kinsarvik",60.368937,6.728933
+824921,"Tjødnahaugane 39, Kinsarvik",60.36867,6.729115
+824922,"Tjødnahaugane 52, Kinsarvik",60.369035,6.730504
+824923,"Tjødnahaugane 51, Kinsarvik",60.368809,6.730393
+824925,"Tjødnahaugane 46, Kinsarvik",60.367858,6.730915
+824926,"Tjødnahaugane 45, Kinsarvik",60.367976,6.73056
+824927,"Tjødnahaugane 50, Kinsarvik",60.369215,6.731018
+824928,"Tjødnahaugane 47, Kinsarvik",60.367632,6.731455
+824929,"Tjødnahaugane 11A, Kinsarvik",60.368272,6.732048
+824930,"Tjødnahaugane 10, Kinsarvik",60.368619,6.732456
+824931,"Tjødnahaugane 13, Kinsarvik",60.36823,6.733299
+824932,"Tjødnahaugane 12A, Kinsarvik",60.368267,6.73258
+824933,"Tjødnahaugane 7, Kinsarvik",60.368333,6.730916
+824934,"Tjødnahaugane 6, Kinsarvik",60.368559,6.729957
+824935,"Tjødnahaugane 9, Kinsarvik",60.368272,6.731591
+824936,"Tjødnahaugane 8, Kinsarvik",60.36869,6.730782
+824937,"Tjødnahaugane 34, Kinsarvik",60.368465,6.729202
+824938,"Tjødnahaugane 19, Kinsarvik",60.367656,6.729168
+824939,"Tjødnahaugane 36, Kinsarvik",60.3684,6.727991
+824940,"Tjødnahaugane 35, Kinsarvik",60.368389,6.728409
+824941,"Tjødnahaugane 14, Kinsarvik",60.36795,6.733246
+824942,"Tjødnahaugane 17, Kinsarvik",60.367439,6.732756
+824943,"Tjødnahaugane 16, Kinsarvik",60.367677,6.733029
+824944,"Djupedalen 9, Kinsarvik",60.369854,6.727418
+824945,"Djupedalen 8, Kinsarvik",60.37002,6.728731
+824946,"Djupedalen 11, Kinsarvik",60.370092,6.728182
+824947,"Djupedalen 10, Kinsarvik",60.369977,6.727809
+824948,"Djupedalen 5, Kinsarvik",60.369622,6.728577
+824949,"Djupedalen 4, Kinsarvik",60.369418,6.728174
+824950,"Djupedalen 7, Kinsarvik",60.369843,6.729414
+824951,"Djupedalen 6, Kinsarvik",60.369651,6.72921
+824952,"Tjødnahaugane 3, Kinsarvik",60.368097,6.729754
+824953,"Tjødnahaugane 2, Kinsarvik",60.368115,6.728682
+824954,"Tjødnahaugane 5, Kinsarvik",60.368258,6.730214
+824955,"Tjødnahaugane 4, Kinsarvik",60.368241,6.729199
+824956,"Djupedalen 13, Kinsarvik",60.37025,6.727445
+824957,"Djupedalen 12, Kinsarvik",60.370351,6.728109
+824958,"Tjødnahaugane 1, Kinsarvik",60.367805,6.72894
+824959,"Djupedalen 14, Kinsarvik",60.370177,6.726852
+824993,"Årsnes, Kinsarvikvegen 1085, Kinsarvik",60.445789,6.792
+824996,"Kinsarvikvegen 64, Kinsarvik",60.376149,6.724201
+825045,"Ringøy, Kinsarvikvegen 1123, Kinsarvik",60.447417,6.79589
+825046,"Ringøy, Kinsarvikvegen 1057, Kinsarvik",60.444119,6.789841
+825047,"Ulsnes, Kinsarvikvegen 771, Kinsarvik",60.428654,6.751352
+825051,"Årsnes, Kinsarvikvegen 1098, Kinsarvik",60.446659,6.792414
+825060,"Bjotveit, Kinsarvikvegen 1172, Kinsarvik",60.449827,6.802618
+825061,"Bjotveit, Kinsarvikvegen 1171, Kinsarvik",60.449102,6.804376
+825062,"Ringøy, Kinsarvikvegen 1014, Kinsarvik",60.442514,6.781352
+825063,"Ringøy, Kinsarvikvegen 1021, Kinsarvik",60.442196,6.782792
+825064,"Bjotveit, Kinsarvikvegen 1197, Kinsarvik",60.449758,6.806041
+825065,"Bjotveit, Kinsarvikvegen 1174, Kinsarvik",60.449395,6.80312
+825066,"Bjotveit, Kinsarvikvegen 1173, Kinsarvik",60.448501,6.803871
+825067,"Ringøy, Kinsarvikvegen 1023, Kinsarvik",60.442159,6.783267
+825068,"Ringøy, Kinsarvikvegen 991, Kinsarvik",60.439574,6.780135
+825069,"Ringøy, Kinsarvikvegen 1041, Kinsarvik",60.443123,6.785937
+825070,"Ringøy, Kinsarvikvegen 981, Kinsarvik",60.439088,6.778388
+825071,"Ringøy, Kinsarvikvegen 1068, Kinsarvik",60.445089,6.788739
+825072,"Ringøy, Kinsarvikvegen 1001, Kinsarvik",60.440856,6.780396
+825073,"Årsnes, Kinsarvikvegen 1103, Kinsarvik",60.446356,6.793671
+825074,"Ringøy, Kinsarvikvegen 995, Kinsarvik",60.440548,6.780377
+825088,"Husevegen 79, Kinsarvik",60.370114,6.736361
+825091,"Sandvikevegen 14, Kinsarvik",60.373946,6.721419
+825095,"Sandvikevegen 12, Kinsarvik",60.374442,6.722074
+825098,"Nykkjesøyvegen 1, Kinsarvik",60.351878,6.757965
+825106,"Kinsarvikvegen 49, Kinsarvik",60.37564,6.721667
+825110,"Sandvikevegen 1, Kinsarvik",60.375517,6.720408
+825112,"Kinsarvikvegen 36A, Kinsarvik",60.377062,6.720294
+825113,"Husevegen 20, Kinsarvik",60.37407,6.728159
+825118,"Salthella, Ullensvangvegen 106, Kinsarvik",60.380888,6.699941
+825126,"Bjotveit, Kinsarvikvegen 1170, Kinsarvik",60.448857,6.800447
+825127,"Salthella, Ullensvangvegen 83, Kinsarvik",60.380067,6.702847
+825128,"Kinsarvikvegen 39, Kinsarvik",60.375507,6.719411
+825129,"Salthella, Ullensvangvegen 85, Kinsarvik",60.380477,6.702637
+825130,"Salthella, Ullensvangvegen 101, Kinsarvik",60.381228,6.70037
+825131,"Sandvikevegen 16, Kinsarvik",60.373709,6.71964
+825132,"Sandvikevegen 22, Kinsarvik",60.373081,6.716981
+825133,"Salthella, Ullensvangvegen 89, Kinsarvik",60.380481,6.701856
+825138,"Kinsarvikvegen 61, Kinsarvik",60.375583,6.722832
+825139,"Sandvikevegen 3, Kinsarvik",60.375583,6.71992
+825142,"Husevegen 22, Kinsarvik",60.374006,6.727546
+825143,"Husevegen 157, Kinsarvik",60.373091,6.728405
+825144,"Husemoen 34, Kinsarvik",60.364384,6.742986
+825145,"Husevegen 162, Kinsarvik",60.372833,6.727737
+825146,"Husevegen 161, Kinsarvik",60.3732,6.727198
+825147,"Husevegen 96, Kinsarvik",60.372105,6.73566
+825148,"Husevegen 77, Kinsarvik",60.369776,6.736547
+825150,"Husemoen 17, Kinsarvik",60.364951,6.740183
+825151,"Husemoen 7, Kinsarvik",60.366511,6.739476
+825152,"Husemoen 3, Kinsarvik",60.366131,6.739055
+825153,"Husemoen 13, Kinsarvik",60.365684,6.73924
+825154,"Husemoen 38, Kinsarvik",60.364794,6.744673
+825155,"Husemoen 9, Kinsarvik",60.365553,6.740195
+825156,"Husemoen 51, Kinsarvik",60.361367,6.742244
+825157,"Husevegen 3, Kinsarvik",60.375476,6.724229
+825158,"Husevegen 115, Kinsarvik",60.373651,6.738891
+825159,"Husevegen 107, Kinsarvik",60.372727,6.737359
+825160,"Kinsarvikvegen 569, Kinsarvik",60.411619,6.740433
+825161,"Husevegen 7, Kinsarvik",60.374949,6.725413
+825164,"Husevegen 103, Kinsarvik",60.372643,6.736621
+825165,"Husevegen 127, Kinsarvik",60.373198,6.736546
+825166,"Husevegen 87, Kinsarvik",60.371165,6.736157
+825167,"Husevegen 137, Kinsarvik",60.372515,6.732904
+825168,"Ringøy, Kinsarvikvegen 1118, Kinsarvik",60.447642,6.795384
+825169,"Ringøy, Kinsarvikvegen 1120, Kinsarvik",60.447693,6.796871
+825170,"Årsnes, Kinsarvikvegen 1087, Kinsarvik",60.445293,6.791325
+825171,"Årsnes, Kinsarvikvegen 1082, Kinsarvik",60.446017,6.791076
+825172,"Ringøy, Kinsarvikvegen 979, Kinsarvik",60.438906,6.778168
+825173,"Ringøy, Kinsarvikvegen 987, Kinsarvik",60.439799,6.779083
+825174,"Årsnes, Kinsarvikvegen 1096, Kinsarvik",60.4465,6.792061
+825175,"Tveisme, Kinsarvikvegen 709, Kinsarvik",60.423625,6.750497
+825176,"Tveisme, Kinsarvikvegen 743, Kinsarvik",60.42591,6.751596
+825177,"Tveisme, Kinsarvikvegen 630, Kinsarvik",60.415609,6.742172
+825178,"Tveisme, Kinsarvikvegen 606, Kinsarvik",60.415796,6.742559
+825179,"Ringøy, Kinsarvikvegen 977, Kinsarvik",60.438684,6.779014
+825180,"Ringøy, Kinsarvikvegen 1002, Kinsarvik",60.440483,6.778055
+825181,"Tveisme, Kinsarvikvegen 722, Kinsarvik",60.42488,6.750157
+825182,"Ulsnes, Kinsarvikvegen 777, Kinsarvik",60.42954,6.752559
+825230,"Ystanes, Ullensvangvegen 166, Kinsarvik",60.3852,6.691576
+825377,"Sandvikevegen 17, Kinsarvik",60.374369,6.71885
+825394,"Bjotveit, Kinsarvikvegen 1199, Kinsarvik",60.450231,6.806409
+825401,"Husevegen 97, Kinsarvik",60.372402,6.736202
+825402,"Husevegen 113, Kinsarvik",60.374434,6.738563
+825403,"Husevegen 123, Kinsarvik",60.373952,6.736494
+825404,"Husevegen 121, Kinsarvik",60.373611,6.736535
+825405,"Tveisme, Kinsarvikvegen 741, Kinsarvik",60.42563,6.750961
+825406,"Ulsnes, Kinsarvikvegen 775, Kinsarvik",60.42925,6.75203
+825407,"Husevegen 101, Kinsarvik",60.37277,6.736739
+825408,"Tveisme, Kinsarvikvegen 714, Kinsarvik",60.424562,6.749945
+825410,"Husevegen 131, Kinsarvik",60.372831,6.735537
+825418,"Ringøy, Kinsarvikvegen 1065, Kinsarvik",60.44444,6.791636
+825461,"Kalhagen 7, Kinsarvik",60.375379,6.728539
+825462,"Kalhagen 5, Kinsarvik",60.375484,6.728369
+825463,"Kalhagen 4, Kinsarvik",60.375143,6.72896
+825464,"Kalhagen 2, Kinsarvik",60.375164,6.72908
+825465,"Kalhagen 1, Kinsarvik",60.375184,6.728172
+825467,"Kalhagen 3, Kinsarvik",60.375303,6.728254
+825469,"Røysane 7, Kinsarvik",60.376275,6.728912
+825470,"Røysane 5, Kinsarvik",60.376248,6.728914
+825471,"Røysane 11, Kinsarvik",60.376386,6.729104
+825472,"Røysane 9, Kinsarvik",60.376342,6.729162
+825473,"Kalhagen 8, Kinsarvik",60.375024,6.7288
+825474,"Kalhagen 6, Kinsarvik",60.375089,6.728904
+825475,"Røysane 3, Kinsarvik",60.375791,6.72869
+825476,"Kalhagen 10, Kinsarvik",60.374999,6.728874
+825477,"Tjødnahaugane 18B, Kinsarvik",60.367936,6.730031
+825479,"Grytingsvegen 22B, Kinsarvik",60.370423,6.732367
+825480,"Grytingsvegen 22A, Kinsarvik",60.370351,6.732318
+825483,"Tjødnahaugane 18A, Kinsarvik",60.367884,6.729877
+825484,"Kvednavegen 13B, Kinsarvik",60.370871,6.727511
+825485,"Kvednavegen 13A, Kinsarvik",60.370955,6.727723
+825486,"Kvednavegen 13D, Kinsarvik",60.370774,6.727645
+825487,"Kvednavegen 13C, Kinsarvik",60.370868,6.727874
+825488,"Tjødnahaugane 49B, Kinsarvik",60.36906,6.731428
+825489,"Tjødnahaugane 49A, Kinsarvik",60.368977,6.731288
+825524,"Sandvikevegen 11, Kinsarvik",60.375021,6.720896
+825532,"Kinsarvikvegen 117, Kinsarvik",60.384025,6.720388
+825534,"Bråvoll, Husevegen 10, Kinsarvik",60.374728,6.727732
+825550,"Sandvikevegen 10, Kinsarvik",60.374489,6.721653
+825553,"Ringøy, Kinsarvikvegen 1046, Kinsarvik",60.443655,6.785728
+825557,"Ringøy, Kinsarvikvegen 996, Kinsarvik",60.440756,6.779382
+825563,"Kalhagen 22, Kinsarvik",60.374618,6.731313
+825564,"Kalhagen 23, Kinsarvik",60.375241,6.731506
+825565,"Kalhagen 11, Kinsarvik",60.375708,6.729895
+825566,"Kalhagen 20, Kinsarvik",60.374838,6.731062
+825567,"Kalhagen 18, Kinsarvik",60.37507,6.730955
+825568,"Kalhagen 21, Kinsarvik",60.375466,6.731527
+825569,"Kalhagen 19, Kinsarvik",60.375735,6.731508
+825570,"Marenhus 2, Kinsarvik",60.375074,6.729595
+825571,"Marenhus 3, Kinsarvik",60.374786,6.730104
+825572,"Bråvoll 1, Kinsarvik",60.375643,6.72765
+825573,"Kalhagen 15, Kinsarvik",60.376017,6.730109
+825574,"Kalhagen 13, Kinsarvik",60.375864,6.730102
+825575,"Marenhus 1A, Kinsarvik",60.375113,6.730299
+825576,"Kalhagen 17, Kinsarvik",60.376208,6.730259
+825577,"Røysane 23, Kinsarvik",60.376238,6.72886
+825578,"Kalhagen 9, Kinsarvik",60.375535,6.729559
+825579,"Røysane 21, Kinsarvik",60.376238,6.728879
+825580,"Røysane 6, Kinsarvik",60.37588,6.72943
+825581,"Røysane 4, Kinsarvik",60.375673,6.729215
+825582,"Røysane 15, Kinsarvik",60.376496,6.72926
+825583,"Røysane 13, Kinsarvik",60.376468,6.729189
+825584,"Røysane 19, Kinsarvik",60.376367,6.729033
+825585,"Røysane 17, Kinsarvik",60.376485,6.729115
+825586,"Røysane 1, Kinsarvik",60.375426,6.728556
+825587,"Røysane 16, Kinsarvik",60.376684,6.730263
+825588,"Kalhagen 16, Kinsarvik",60.375353,6.730682
+825589,"Kalhagen 14, Kinsarvik",60.37557,6.730739
+825590,"Røysane 10, Kinsarvik",60.376135,6.729666
+825591,"Røysane 8, Kinsarvik",60.376026,6.729619
+825592,"Røysane 14, Kinsarvik",60.376529,6.730092
+825593,"Røysane 12, Kinsarvik",60.376326,6.729816
+825602,"Kinsarvikvegen 254, Kinsarvik",60.39103,6.713528
+825603,"Kinsarvikvegen 490, Kinsarvik",60.40636,6.733334
+825606,"Kinsarvikvegen 567, Kinsarvik",60.411508,6.740277
+825609,"Kinsarvikvegen 495, Kinsarvik",60.406623,6.734496
+825658,"Husevegen 83, Kinsarvik",60.370565,6.73593
+825659,"Kinsarvikvegen 45, Kinsarvik",60.375658,6.720692
+825669,"Husemoen 28, Kinsarvik",60.365132,6.743359
+825676,"Bjotveit, Kinsarvikvegen 1195, Kinsarvik",60.45018,6.80603
+825682,"Husemoen 1, Kinsarvik",60.36671,6.738465
+825683,"Tveisme, Kinsarvikvegen 632, Kinsarvik",60.41652,6.74289
+825684,"Tveisme, Kinsarvikvegen 636, Kinsarvik",60.41747,6.743823
+825685,"Ringøy, Kinsarvikvegen 1066, Kinsarvik",60.444965,6.788348
+825686,"Årsnes, Kinsarvikvegen 1094, Kinsarvik",60.446295,6.791639
+825695,"Ringøy, Kinsarvikvegen 983, Kinsarvik",60.439218,6.778669
+825696,"Ringøy, Kinsarvikvegen 1126, Kinsarvik",60.447668,6.798036
+825703,"Husevegen 24, Kinsarvik",60.373554,6.726602
+825707,"Husemoen 40, Kinsarvik",60.36488,6.745102
+825711,"Ringøy, Kinsarvikvegen 1012, Kinsarvik",60.441925,6.781083
+825717,"Broto 17, Kinsarvik",60.374498,6.729
+825718,"Broto 28, Kinsarvik",60.374198,6.729347
+825719,"Broto 15, Kinsarvik",60.374425,6.728424
+825720,"Broto 30, Kinsarvik",60.374142,6.728698
+825722,"Broto 13, Kinsarvik",60.374688,6.728587
+825723,"Broto 26, Kinsarvik",60.374431,6.729803
+825731,"Husevegen 81, Kinsarvik",60.370254,6.736641
+825733,"Husevegen 63, Kinsarvik",60.368209,6.749026
+825735,"Kalhagen 25, Kinsarvik",60.375001,6.731631
+825737,"Husevegen 31, Kinsarvik",60.372475,6.725748
+825738,"Kalhagen 12, Kinsarvik",60.375837,6.73063
+825741,"Husevegen 61, Kinsarvik",60.368037,6.747877
+825747,"Kinsarvikvegen 1, Kinsarvik",60.374235,6.714687
+825784,"Røysane 2, Kinsarvik",60.375507,6.729165
+826020,"Kinsarvikvegen 527, Kinsarvik",60.405211,6.736537
+826028,"Husevegen 89, Kinsarvik",60.371427,6.737314
+826036,"Årsnes, Kinsarvikvegen 1075, Kinsarvik",60.445141,6.790826
+826038,"Ringøy, Kinsarvikvegen 1055, Kinsarvik",60.444625,6.78948
+826088,"Bjotveit, Kinsarvikvegen 1175, Kinsarvik",60.448346,6.803772
+826127,"Kinsarvikvegen 477, Kinsarvik",60.405757,6.731687
+826129,"Kinsarvikvegen 529, Kinsarvik",60.405299,6.73644
+826136,"Grytingsvegen 36, Kinsarvik",60.369835,6.734711
+1639314,"Tjødnahaugane 15B, Kinsarvik",60.367972,6.73241
+1639315,"Tjødnahaugane 15A, Kinsarvik",60.367976,6.732138
+1639316,"Tjødnahaugane 15C, Kinsarvik",60.367977,6.732682
+1639435,"Tjødnahaugane 15D, Kinsarvik",60.368032,6.732787
+1665241,"Kinsarvikvegen 115, Kinsarvik",60.383304,6.72238
+1665242,"Husemoen 26, Kinsarvik",60.364991,6.743921
+1665843,"Husemoen 19, Kinsarvik",60.364808,6.740704
+1665848,"Husemoen 20, Kinsarvik",60.365164,6.742254
+1673408,"Husevegen 164, Kinsarvik",60.372581,6.727296
+1687672,"Røysane 26, Kinsarvik",60.376743,6.72897
+1722002,"Kalhagen 35, Kinsarvik",60.375065,6.732244
+1722003,"Kalhagen 37, Kinsarvik",60.375301,6.732329
+1722004,"Kalhagen 27, Kinsarvik",60.374727,6.731865
+1722005,"Kalhagen 39, Kinsarvik",60.375559,6.732228
+1722181,"Kalhagen 38A, Kinsarvik",60.375495,6.733048
+1722182,"Kalhagen 34, Kinsarvik",60.374926,6.733239
+1722183,"Kalhagen 36, Kinsarvik",60.375173,6.733011
+1722184,"Kalhagen 32, Kinsarvik",60.374647,6.733017
+1722185,"Kalhagen 29, Kinsarvik",60.374432,6.731979
+1722187,"Kalhagen 28, Kinsarvik",60.374117,6.732981
+1808234,"Kalhagen 26, Kinsarvik",60.374032,6.731461
+1808235,"Kalhagen 24, Kinsarvik",60.374293,6.73157
+1847298,"Kalhagen 30B, Kinsarvik",60.374422,6.733061
+1847309,"Kalhagen 30A, Kinsarvik",60.37434,6.733049
+1848163,"Kalhagen 33B, Kinsarvik",60.374494,6.732458
+1848171,"Kalhagen 33A, Kinsarvik",60.374416,6.732452
+1875470,"Kalhagen 31B, Kinsarvik",60.374164,6.73221
+1875471,"Kalhagen 31A, Kinsarvik",60.374073,6.732197
+1945025,"Kinsarvikvegen 78, Kinsarvik",60.377117,6.724472
+1945027,"Kinsarvikvegen 70, Kinsarvik",60.376973,6.724368
+1945028,"Kinsarvikvegen 66, Kinsarvik",60.37686,6.724289
+1945029,"Kinsarvikvegen 68, Kinsarvik",60.376841,6.724359
+1945030,"Kinsarvikvegen 76, Kinsarvik",60.37711,6.724558
+1945031,"Kinsarvikvegen 74, Kinsarvik",60.37698,6.724447
+1945032,"Kinsarvikvegen 72, Kinsarvik",60.377,6.72439
+1945046,"Husevegen 6, Kinsarvik",60.376911,6.726372
+1945047,"Kinsarvikvegen 51, Kinsarvik",60.375633,6.721898
+1946872,"Tveisme, Kinsarvikvegen 751, Kinsarvik",60.427275,6.750993
+1946890,"Ringøy, Kinsarvikvegen 1005, Kinsarvik",60.440689,6.78072
+1947236,"Ystanes, Ullensvangvegen 168, Kinsarvik",60.385155,6.69159
+1947716,"Ystanes, Ullensvangvegen 162, Kinsarvik",60.385148,6.691946
+1948141,"Bråvoll, Husevegen 14, Kinsarvik",60.374474,6.727057
+1950388,"Ringøy, Kinsarvikvegen 1059, Kinsarvik",60.444407,6.790164
+1950393,"Kinsarvikvegen 55, Kinsarvik",60.375089,6.722021
+1952792,"Grytingsvegen 22C, Kinsarvik",60.370321,6.732512
+1952997,"Grytingsvegen 22D, Kinsarvik",60.370377,6.732546
+1954676,"Bjotveit, Kinsarvikvegen 1138, Kinsarvik",60.447947,6.799181
+1963255,"Kalhagen 38B, Kinsarvik",60.375538,6.732967
+1975856,"Husemoen 11, Kinsarvik",60.365716,6.739345
+2017594,"Tjødnahaugane 12B, Kinsarvik",60.368267,6.73284
+2017596,"Tjødnahaugane 11B, Kinsarvik",60.368267,6.732312
+2022825,"Husemoen 52, Kinsarvik",60.360802,6.743034
+2022826,"Husemoen 54, Kinsarvik",60.360778,6.743034
+2022827,"Husemoen 56, Kinsarvik",60.360754,6.743034
+2022828,"Husemoen 58, Kinsarvik",60.360734,6.743035
+2022829,"Husemoen 60, Kinsarvik",60.360713,6.743035
+2022830,"Husemoen 62, Kinsarvik",60.360695,6.743034
+2035295,"Sandvikevegen 18, Kinsarvik",60.373696,6.717932
+2037283,"Ringøy, Kinsarvikvegen 1067, Kinsarvik",60.444391,6.791503
+2037284,"Ringøy, Kinsarvikvegen 1063, Kinsarvik",60.444452,6.791506
+2040744,"Sandvikevegen 20, Kinsarvik",60.373162,6.716665
+2040757,"Sandvikevegen 7, Kinsarvik",60.375423,6.719937
+2040758,"Sandvikevegen 9, Kinsarvik",60.374955,6.71884
+2040759,"Sandvikevegen 2, Kinsarvik",60.375437,6.721315
+2040760,"Nykkjesøyvegen 3, Kinsarvik",60.349995,6.762525
+2040761,"Sandvikevegen 24, Kinsarvik",60.372993,6.717266
+2040933,"Kinsarvikvegen 34, Kinsarvik",60.375951,6.719144
+2043273,"Kinsarvikvegen 37, Kinsarvik",60.37547,6.719333
+2043279,"Ringøy, Kinsarvikvegen 1004, Kinsarvik",60.441044,6.778722
+2043282,"Kinsarvikvegen 330, Kinsarvik",60.398907,6.713129
+2043285,"Ringøy, Kinsarvikvegen 1061, Kinsarvik",60.444401,6.790466
+2043288,"Ringøy, Kinsarvikvegen 1026, Kinsarvik",60.443049,6.783468
+2043289,"Kinsarvikvegen 27, Kinsarvik",60.375184,6.719023
+2043290,"Kinsarvikvegen 53, Kinsarvik",60.375521,6.721997
+2043291,"Kinsarvikvegen 269, Kinsarvik",60.391771,6.713829
+2043292,"Kinsarvikvegen 41, Kinsarvik",60.375526,6.719431
+2043300,"Kinsarvikvegen 86, Kinsarvik",60.377581,6.725938
+2043314,"Husemoen 29, Kinsarvik",60.363603,6.741239
+2043316,"Husemoen 31, Kinsarvik",60.363618,6.741722
+2043317,"Husemoen 15, Kinsarvik",60.365224,6.73956
+2043319,"Husemoen 44, Kinsarvik",60.363629,6.74446
+2043419,"Kinsarvikvegen 2, Kinsarvik",60.374514,6.714114
+2043421,"Kinsarvikvegen 38, Kinsarvik",60.375947,6.719677
+2043423,"Kinsarvikvegen 35, Kinsarvik",60.375455,6.719302
+2043511,"Kinsarvikvegen 56, Kinsarvik",60.376263,6.722021
+2043552,"Ringøy, Kinsarvikvegen 1003, Kinsarvik",60.440801,6.780382
+2043553,"Kinsarvikvegen 59B, Kinsarvik",60.375483,6.722748
+2043554,"Ringøy, Kinsarvikvegen 1037, Kinsarvik",60.44273,6.784764
+2048834,"Husevegen 98, Kinsarvik",60.37229,6.735754
+2048928,"Sandvikevegen 13, Kinsarvik",60.374788,6.721135
+2049030,"Husevegen 43, Kinsarvik",60.370207,6.724383
+2049032,"Ystanes, Ullensvangvegen 164, Kinsarvik",60.38521,6.691762
+2049301,"Husevegen 159, Kinsarvik",60.373183,6.727261
+2049691,"Kinsarvikvegen 720, Kinsarvik",60.424782,6.750153
+2050195,"Kinsarvikvegen 33, Kinsarvik",60.375446,6.719616
+2050792,"Husevegen 141, Kinsarvik",60.372654,6.732435
+2050795,"Husevegen 139, Kinsarvik",60.372641,6.73253
+2050799,"Husevegen 147, Kinsarvik",60.373509,6.732767
+2050800,"Husevegen 145, Kinsarvik",60.37341,6.732974
+2054356,"Husevegen 71, Kinsarvik",60.368493,6.738668
+2054359,"Husevegen 65, Kinsarvik",60.368315,6.74939
+2071311,"Kinsarvikvegen 59A, Kinsarvik",60.375198,6.722872
+2073161,"Husemoen 18, Kinsarvik",60.365278,6.741742
+2092905,"Kinsarvikvegen 36B, Kinsarvik",60.377491,6.720457
+2105300,"Marenhus 1B, Kinsarvik",60.375028,6.73034
+2105555,"Sjursledvegen 9A, Kinsarvik",60.371205,6.730403
+2165340,"Kinsarvikvegen 57A, Kinsarvik",60.374448,6.723639
+2165342,"Kinsarvikvegen 57B, Kinsarvik",60.374716,6.722896
+2329766,"Sandvikevegen 28, Kinsarvik",60.372632,6.716805
+2353056,"Broto 2, Kinsarvik",60.374889,6.729045
+2353077,"Broto 6, Kinsarvik",60.374859,6.729185
+2353079,"Broto 8, Kinsarvik",60.374843,6.729242
+2353101,"Broto 20, Kinsarvik",60.374795,6.729384
+2353104,"Broto 4, Kinsarvik",60.374885,6.729114
+2354098,"Sandvikevegen 30, Kinsarvik",60.372724,6.716124
+2355082,"Sandvikevegen 26, Kinsarvik",60.372791,6.71736
+2361721,"Tjødnahaugane 44A, Kinsarvik",60.3681,6.731215
+2361722,"Tjødnahaugane 44B, Kinsarvik",60.368073,6.731433
+2438175,"Husevegen 74, Kinsarvik",60.3689,6.736396
+2466117,"Kinsarvikvegen 1192, Eidfjord",60.455947,6.80974

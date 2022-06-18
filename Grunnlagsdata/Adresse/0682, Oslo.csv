@@ -1,0 +1,640 @@
+,Navn,Long,Lat
+1544454,"Axel Brinchs vei 1, Oppsal",59.900182,10.831701
+1544462,"Axel Brinchs vei 8, Oppsal",59.900551,10.831024
+1544463,"Axel Brinchs vei 9, Oppsal",59.900318,10.832263
+1544464,"Axel Brinchs vei 6, Oppsal",59.900532,10.831113
+1544465,"Axel Brinchs vei 7, Oppsal",59.900193,10.83222
+1544466,"Axel Brinchs vei 4, Oppsal",59.900494,10.8312
+1544467,"Axel Brinchs vei 5, Oppsal",59.900059,10.832159
+1544468,"Axel Brinchs vei 2, Oppsal",59.900466,10.831288
+1544469,"Axel Brinchs vei 3, Oppsal",59.900316,10.831762
+1544470,"Axel Brinchs vei 16, Oppsal",59.900817,10.831289
+1544471,"Axel Brinchs vei 17, Oppsal",59.90106,10.832536
+1544472,"Axel Brinchs vei 14, Oppsal",59.900779,10.831377
+1544473,"Axel Brinchs vei 15, Oppsal",59.900926,10.832493
+1544474,"Axel Brinchs vei 12, Oppsal",59.900742,10.831464
+1544475,"Axel Brinchs vei 13, Oppsal",59.900577,10.832402
+1544476,"Axel Brinchs vei 10, Oppsal",59.900714,10.831552
+1544477,"Axel Brinchs vei 11, Oppsal",59.900434,10.832323
+1544478,"Axel Brinchs vei 28, Oppsal",59.901264,10.832029
+1544479,"Axel Brinchs vei 30, Oppsal",59.901302,10.831942
+1544480,"Axel Brinchs vei 24, Oppsal",59.901073,10.831572
+1544481,"Axel Brinchs vei 26, Oppsal",59.901236,10.832117
+1544482,"Axel Brinchs vei 20, Oppsal",59.901017,10.831729
+1544483,"Axel Brinchs vei 22, Oppsal",59.901036,10.831641
+1544484,"Axel Brinchs vei 18, Oppsal",59.90098,10.831835
+1544490,"Axel Brinchs vei 32, Oppsal",59.90133,10.831836
+1544894,"Baneveien 1, Oppsal",59.909766,10.833624
+1544895,"Baneveien 3, Oppsal",59.909624,10.834099
+1544902,"Baneveien 11A, Oppsal",59.908659,10.835065
+1544903,"Baneveien 9, Oppsal",59.908939,10.834974
+1544904,"Baneveien 9B, Oppsal",59.908782,10.834625
+1544905,"Baneveien 7, Oppsal",59.90921,10.83481
+1544906,"Baneveien 7B, Oppsal",59.909057,10.834891
+1544907,"Baneveien 5A, Oppsal",59.909395,10.834444
+1544908,"Baneveien 5B, Oppsal",59.909297,10.834241
+1544915,"Baneveien 13A, Oppsal",59.908443,10.835107
+1544916,"Baneveien 13B, Oppsal",59.908316,10.835154
+1549950,"Dalbakkveien 2A, Oppsal",59.908648,10.832633
+1549957,"Dalbakkveien 9D, Oppsal",59.90808,10.831511
+1549958,"Dalbakkveien 7B, Oppsal",59.908379,10.831312
+1549960,"Dalbakkveien 7, Oppsal",59.908409,10.831725
+1549961,"Dalbakkveien 6B, Oppsal",59.907979,10.832936
+1549962,"Dalbakkveien 6, Oppsal",59.908123,10.832282
+1549963,"Dalbakkveien 5B, Oppsal",59.908611,10.832058
+1549964,"Dalbakkveien 5, Oppsal",59.908706,10.831652
+1549965,"Dalbakkveien 2B, Oppsal",59.908542,10.832484
+1549966,"Dalbakkveien 14B, Oppsal",59.907103,10.831349
+1549967,"Dalbakkveien 14, Oppsal",59.907161,10.83171
+1549968,"Dalbakkveien 13B, Oppsal",59.907704,10.830774
+1549969,"Dalbakkveien 13, Oppsal",59.907644,10.831165
+1549970,"Dalbakkveien 12B, Oppsal",59.907432,10.831582
+1549971,"Dalbakkveien 12, Oppsal",59.907356,10.831864
+1549972,"Dalbakkveien 11B, Oppsal",59.907873,10.830837
+1549973,"Dalbakkveien 11, Oppsal",59.907804,10.831316
+1549974,"Dalbakkveien 21A, Oppsal",59.906513,10.830852
+1549975,"Dalbakkveien 18B, Oppsal",59.906613,10.83168
+1549976,"Dalbakkveien 18A, Oppsal",59.906628,10.831252
+1549977,"Dalbakkveien 17C, Oppsal",59.906962,10.830483
+1549978,"Dalbakkveien 17B, Oppsal",59.907168,10.830566
+1549979,"Dalbakkveien 17E, Oppsal",59.906996,10.830895
+1549980,"Dalbakkveien 16B, Oppsal",59.906864,10.83173
+1549981,"Dalbakkveien 16A, Oppsal",59.906906,10.831303
+1549982,"Dalbakkveien 26B, Oppsal",59.905272,10.83191
+1549983,"Dalbakkveien 26, Oppsal",59.905408,10.831649
+1549984,"Dalbakkveien 25, Oppsal",59.905933,10.830892
+1549985,"Dalbakkveien 24, Oppsal",59.905663,10.831556
+1549986,"Dalbakkveien 23B, Oppsal",59.906219,10.830299
+1549987,"Dalbakkveien 23, Oppsal",59.906248,10.830837
+1549988,"Promenaden 12A, Oppsal",59.905938,10.831499
+1549989,"Dalbakkveien 21B, Oppsal",59.9065,10.830259
+1549990,"Dalbakkveien 33, Oppsal",59.904693,10.830895
+1549991,"Dalbakkveien 32, Oppsal",59.904484,10.831759
+1549992,"Dalbakkveien 31, Oppsal",59.905104,10.831096
+1549993,"Dalbakkveien 30, Oppsal",59.904824,10.831832
+1549994,"Dalbakkveien 29B, Oppsal",59.905337,10.830447
+1549995,"Dalbakkveien 29, Oppsal",59.905302,10.831054
+1549996,"Dalbakkveien 28, Oppsal",59.905043,10.831576
+1549997,"Dalbakkveien 27, Oppsal",59.905545,10.830995
+1549998,"Dalbakkveien 42, Oppsal",59.903684,10.831769
+1549999,"Dalbakkveien 40, Oppsal",59.903846,10.83176
+1550000,"Dalbakkveien 39, Oppsal",59.904388,10.830216
+1550001,"Dalbakkveien 38, Oppsal",59.904007,10.831769
+1550002,"Dalbakkveien 37, Oppsal",59.9047,10.829143
+1550003,"Dalbakkveien 36, Oppsal",59.904169,10.831742
+1550004,"Dalbakkveien 35, Oppsal",59.904753,10.830451
+1550005,"Dalbakkveien 34, Oppsal",59.904322,10.831768
+1550006,"Dalbakkveien 50, Oppsal",59.904134,10.832348
+1550007,"Dalbakkveien 49, Oppsal",59.903755,10.830539
+1550008,"Dalbakkveien 48, Oppsal",59.904296,10.832339
+1550009,"Dalbakkveien 47, Oppsal",59.903759,10.830897
+1550010,"Dalbakkveien 46, Oppsal",59.904457,10.832348
+1550011,"Dalbakkveien 45, Oppsal",59.903977,10.830087
+1550012,"Dalbakkveien 44, Oppsal",59.903523,10.83176
+1550013,"Dalbakkveien 43, Oppsal",59.90398,10.830534
+1550014,"Dalbakkveien 58, Oppsal",59.903505,10.832367
+1550015,"Dalbakkveien 57, Oppsal",59.9028,10.831381
+1550016,"Dalbakkveien 56, Oppsal",59.903649,10.832375
+1550017,"Dalbakkveien 55, Oppsal",59.903036,10.831233
+1550018,"Dalbakkveien 54, Oppsal",59.903811,10.832348
+1550019,"Dalbakkveien 53, Oppsal",59.903289,10.831121
+1550020,"Dalbakkveien 52, Oppsal",59.903972,10.832357
+1550021,"Dalbakkveien 51, Oppsal",59.903751,10.830163
+1550022,"Dalbakkveien 74, Oppsal",59.903499,10.832778
+1550023,"Dalbakkveien 72, Oppsal",59.903625,10.832785
+1550024,"Dalbakkveien 70, Oppsal",59.903785,10.832883
+1550025,"Dalbakkveien 68, Oppsal",59.90392,10.832891
+1550026,"Dalbakkveien 66, Oppsal",59.904082,10.832864
+1550027,"Dalbakkveien 64, Oppsal",59.904208,10.832871
+1550028,"Dalbakkveien 62, Oppsal",59.904379,10.832827
+1550029,"Dalbakkveien 60, Oppsal",59.904505,10.832816
+1550030,"Dalbakkveien 88, Oppsal",59.904497,10.833995
+1550031,"Dalbakkveien 86, Oppsal",59.904352,10.834095
+1550032,"Dalbakkveien 84, Oppsal",59.904226,10.834159
+1550033,"Dalbakkveien 82, Oppsal",59.904091,10.834152
+1550034,"Dalbakkveien 80, Oppsal",59.903042,10.832073
+1550035,"Dalbakkveien 78, Oppsal",59.903269,10.831907
+1550036,"Dalbakkveien 76, Oppsal",59.90327,10.832497
+1550037,"Dalbakkveien 75, Oppsal",59.902691,10.834057
+1550038,"Dalbakkveien 104, Oppsal",59.903573,10.834606
+1550039,"Dalbakkveien 102, Oppsal",59.903689,10.834612
+1550040,"Dalbakkveien 100, Oppsal",59.903868,10.834676
+1550041,"Dalbakkveien 98, Oppsal",59.903985,10.834682
+1550042,"Dalbakkveien 96, Oppsal",59.904148,10.834584
+1550043,"Dalbakkveien 94, Oppsal",59.904273,10.834609
+1550044,"Dalbakkveien 92, Oppsal",59.904443,10.834654
+1550045,"Dalbakkveien 90, Oppsal",59.904578,10.834661
+1550053,"Dalbakkveien 106, Oppsal",59.903493,10.834512
+1550364,"Damfaret 34A, Oppsal",59.906328,10.837315
+1550365,"Damfaret 33B, Oppsal",59.90563,10.836543
+1550366,"Damfaret 33A, Oppsal",59.905653,10.836777
+1550367,"Damfaret 31B, Oppsal",59.905841,10.836823
+1550368,"Damfaret 31A, Oppsal",59.906003,10.836797
+1550369,"Damfaret 29B, Oppsal",59.906165,10.83677
+1550370,"Damfaret 29A, Oppsal",59.906291,10.836741
+1550372,"Damfaret 37B, Oppsal",59.904645,10.836918
+1550373,"Damfaret 37, Oppsal",59.904775,10.837283
+1550374,"Damfaret 36B, Oppsal",59.905905,10.837399
+1550375,"Damfaret 36A, Oppsal",59.906058,10.83739
+1550376,"Damfaret 35C, Oppsal",59.904982,10.837241
+1550377,"Damfaret 35B, Oppsal",59.905153,10.837215
+1550378,"Damfaret 34B, Oppsal",59.906202,10.837326
+1550379,"Damfaret 44, Oppsal",59.904935,10.838007
+1550380,"Damfaret 43, Oppsal",59.903868,10.837269
+1550381,"Damfaret 41, Oppsal",59.904261,10.837416
+1550382,"Damfaret 40, Oppsal",59.90546,10.837786
+1550383,"Damfaret 39B, Oppsal",59.904379,10.837351
+1550384,"Damfaret 39, Oppsal",59.904487,10.837321
+1550385,"Damfaret 38B, Oppsal",59.905608,10.837472
+1550386,"Damfaret 38A, Oppsal",59.905725,10.837443
+1550387,"Damfaret 49, Oppsal",59.903139,10.837354
+1550388,"Damfaret 48B, Oppsal",59.904083,10.837978
+1550389,"Damfaret 48A, Oppsal",59.904118,10.838016
+1550390,"Damfaret 48, Oppsal",59.904444,10.837837
+1550391,"Damfaret 47, Oppsal",59.90332,10.837292
+1550392,"Damfaret 46, Oppsal",59.904747,10.837997
+1550393,"Damfaret 45B, Oppsal",59.903517,10.837285
+1550394,"Damfaret 45, Oppsal",59.903634,10.837309
+1550395,"Damfaret 56A, Oppsal",59.903015,10.837901
+1550396,"Damfaret 55, Oppsal",59.902293,10.837504
+1550397,"Damfaret 54B, Oppsal",59.903283,10.838023
+1550398,"Damfaret 54A, Oppsal",59.903268,10.837754
+1550399,"Damfaret 53B, Oppsal",59.902383,10.837491
+1550400,"Damfaret 53, Oppsal",59.902635,10.837433
+1550401,"Damfaret 52, Oppsal",59.903525,10.838001
+1550402,"Damfaret 51, Oppsal",59.90286,10.837445
+1550403,"Damfaret 63, Oppsal",59.901059,10.837775
+1550404,"Damfaret 62, Oppsal",59.901917,10.838037
+1550405,"Damfaret 61, Oppsal",59.901212,10.837712
+1550406,"Damfaret 60B, Oppsal",59.902151,10.838032
+1550407,"Damfaret 60, Oppsal",59.902304,10.838023
+1550408,"Damfaret 58, Oppsal",59.902808,10.837943
+1550409,"Damfaret 57, Oppsal",59.901978,10.837558
+1550410,"Damfaret 56B, Oppsal",59.902888,10.838001
+1550413,"Damfaret 70, Oppsal",59.900654,10.83845
+1550414,"Damfaret 68, Oppsal",59.901078,10.838312
+1550415,"Damfaret 66, Oppsal",59.901358,10.838185
+1550416,"Damfaret 65, Oppsal",59.900734,10.837846
+1550417,"Damfaret 64, Oppsal",59.901592,10.838144
+1550418,"Damfaret 63B, Oppsal",59.900915,10.837803
+1555380,"Fugleliveien 31B, Oppsal",59.9003,10.829044
+1555381,"Fugleliveien 31, Oppsal",59.900483,10.829412
+1555382,"Fugleliveien 29B, Oppsal",59.900587,10.829042
+1555383,"Fugleliveien 29, Oppsal",59.900716,10.828852
+1555384,"Fugleliveien 25B, Oppsal",59.901087,10.827996
+1555385,"Fugleliveien 25, Oppsal",59.901296,10.827776
+1555386,"Fugleliveien 24, Oppsal",59.901476,10.828429
+1555392,"Fugleliveien 35A, Oppsal",59.900106,10.829459
+1555393,"Fugleliveien 33A, Oppsal",59.900333,10.829904
+1555394,"Fugleliveien 31C, Oppsal",59.900355,10.82894
+1557169,"Granhekkveien 1, Manglerud",59.900686,10.825132
+1557185,"Granhekkveien 9B, Manglerud",59.899815,10.826443
+1557187,"Granhekkveien 9A, Manglerud",59.899861,10.826374
+1557189,"Granhekkveien 7B, Manglerud",59.899979,10.826273
+1557191,"Granhekkveien 7, Manglerud",59.900008,10.825783
+1557193,"Granhekkveien 5B, Manglerud",59.900235,10.825965
+1557195,"Granhekkveien 5, Manglerud",59.900161,10.82546
+1557197,"Granhekkveien 3B, Manglerud",59.900369,10.825329
+1557199,"Granhekkveien 3A, Manglerud",59.900491,10.825657
+1557211,"Granhekkveien 11, Manglerud",59.899587,10.826743
+1557213,"Granhekkveien 9D, Manglerud",59.899733,10.826545
+1557215,"Granhekkveien 9C, Manglerud",59.899769,10.826494
+1557482,"Godliaveien 1A, Oppsal",59.906565,10.83647
+1557483,"Godliasvingen 4, Oppsal",59.904828,10.836052
+1557484,"Godliasvingen 3, Oppsal",59.904977,10.835649
+1557485,"Godliasvingen 1, Oppsal",59.905145,10.835891
+1557490,"Godliaveien 5, Oppsal",59.906636,10.837815
+1557491,"Godliaveien 4, Oppsal",59.906661,10.838603
+1557492,"Godliaveien 3B, Oppsal",59.906614,10.837438
+1557493,"Godliaveien 3A, Oppsal",59.9066,10.837187
+1557494,"Godliaveien 2C, Oppsal",59.906837,10.838845
+1557495,"Godliaveien 2B, Oppsal",59.906988,10.837638
+1557496,"Godliaveien 2A, Oppsal",59.906881,10.83765
+1557497,"Godliaveien 1B, Oppsal",59.90658,10.836685
+1557498,"Godliaveien 13, Oppsal",59.905233,10.838578
+1557499,"Godliaveien 12, Oppsal",59.905535,10.838809
+1557500,"Godliaveien 10, Oppsal",59.905634,10.838797
+1557501,"Godliaveien 9B, Oppsal",59.905732,10.838248
+1557502,"Godliaveien 9, Oppsal",59.906003,10.83812
+1557503,"Godliaveien 8, Oppsal",59.905922,10.838741
+1557504,"Godliaveien 7, Oppsal",59.906257,10.837901
+1557505,"Godliaveien 6, Oppsal",59.906327,10.838674
+1557509,"Godliaveien 17D, Oppsal",59.904184,10.838413
+1557510,"Godliaveien 17C, Oppsal",59.904256,10.838435
+1557511,"Godliaveien 17B, Oppsal",59.904301,10.838455
+1557512,"Godliaveien 17A, Oppsal",59.904372,10.838495
+1557513,"Godliaveien 14, Oppsal",59.905226,10.839096
+1558727,"Grønlibakken 24, Oppsal",59.898402,10.83441
+1558728,"Grønlibakken 22, Oppsal",59.898232,10.834329
+1558729,"Grønlibakken 17B, Oppsal",59.89842,10.835073
+1558944,"Grønlibakken 7, Oppsal",59.896752,10.834855
+1558946,"Grønlibakken 6, Oppsal",59.896934,10.834061
+1558947,"Grønlibakken 5, Oppsal",59.89667,10.834315
+1558948,"Grønlibakken 4, Oppsal",59.896833,10.833555
+1558949,"Grønlibakken 3, Oppsal",59.896622,10.833901
+1558950,"Grønlibakken 2, Oppsal",59.896883,10.8332
+1558951,"Grønlibakken 1, Oppsal",59.89651,10.833555
+1558953,"Grønlibakken 13C, Oppsal",59.897683,10.835068
+1558954,"Grønlibakken 13B, Oppsal",59.897848,10.834862
+1558955,"Grønlibakken 13A, Oppsal",59.897651,10.834798
+1558956,"Grønlibakken 12, Oppsal",59.897391,10.834158
+1558957,"Grønlibakken 11A, Oppsal",59.897408,10.834874
+1558958,"Grønlibakken 10, Oppsal",59.89731,10.834153
+1558959,"Grønlibakken 9, Oppsal",59.896934,10.834669
+1558960,"Grønlibakken 8, Oppsal",59.897104,10.834124
+1558961,"Grønlibakken 17, Oppsal",59.898466,10.83495
+1558962,"Grønlibakken 15C, Oppsal",59.89811,10.835395
+1558963,"Grønlibakken 15B, Oppsal",59.898158,10.835183
+1558964,"Grønlibakken 15A, Oppsal",59.898188,10.834953
+1558965,"Grønlibakken 14, Oppsal",59.897669,10.834137
+1558966,"Grønlibakken 13D, Oppsal",59.897853,10.835166
+1564130,"Haakon Tveters vei 5, Oppsal",59.898747,10.832194
+1564149,"Haakon Tveters vei 7A, Oppsal",59.899123,10.833556
+1564150,"Haakon Tveters vei 5B, Oppsal",59.89888,10.832309
+1564151,"Haakon Tveters vei 3, Oppsal",59.898541,10.832147
+1564152,"Haakon Tveters vei 1, Oppsal",59.898419,10.831872
+1564156,"Haakon Tveters vei 10B, Oppsal",59.901325,10.835412
+1564157,"Haakon Tveters vei 10A, Oppsal",59.901162,10.835492
+1564158,"Haakon Tveters vei 9C, Oppsal",59.899815,10.834238
+1564159,"Haakon Tveters vei 9B, Oppsal",59.899678,10.834338
+1564160,"Haakon Tveters vei 9A, Oppsal",59.899534,10.834419
+1564161,"Haakon Tveters vei 8, Oppsal",59.900715,10.834734
+1564162,"Haakon Tveters vei 7C, Oppsal",59.89945,10.833359
+1564163,"Haakon Tveters vei 7B, Oppsal",59.899287,10.833458
+1564164,"Haakon Tveters vei 14, Oppsal",59.901111,10.83658
+1564165,"Haakon Tveters vei 13, Oppsal",59.900036,10.835752
+1564166,"Haakon Tveters vei 12, Oppsal",59.901004,10.835913
+1564167,"Haakon Tveters vei 11C, Oppsal",59.899273,10.834405
+1564168,"Haakon Tveters vei 11B, Oppsal",59.899137,10.834522
+1564169,"Haakon Tveters vei 11A, Oppsal",59.898983,10.834585
+1564170,"Haakon Tveters vei 10D, Oppsal",59.901651,10.835251
+1564171,"Haakon Tveters vei 10C, Oppsal",59.901479,10.835331
+1564172,"Haakon Tveters vei 24B, Oppsal",59.899396,10.838506
+1564173,"Haakon Tveters vei 24, Oppsal",59.899333,10.83911
+1564174,"Haakon Tveters vei 23, Oppsal",59.899638,10.837875
+1564175,"Haakon Tveters vei 21, Oppsal",59.899895,10.838172
+1564176,"Haakon Tveters vei 20, Oppsal",59.899647,10.838555
+1564177,"Haakon Tveters vei 19, Oppsal",59.900076,10.838025
+1564178,"Haakon Tveters vei 18, Oppsal",59.900374,10.838577
+1564179,"Haakon Tveters vei 15, Oppsal",59.899069,10.835502
+1564180,"Haakon Tveters vei 32, Oppsal",59.898356,10.838341
+1564181,"Haakon Tveters vei 28, Oppsal",59.898756,10.837987
+1564182,"Haakon Tveters vei 27, Oppsal",59.899203,10.837547
+1564183,"Haakon Tveters vei 26D, Oppsal",59.898534,10.839102
+1564184,"Haakon Tveters vei 26B, Oppsal",59.899056,10.839059
+1564185,"Haakon Tveters vei 26A, Oppsal",59.899037,10.838468
+1564186,"Haakon Tveters vei 25, Oppsal",59.899442,10.837775
+1564187,"Haakon Tveters vei 37B, Oppsal",59.897295,10.837782
+1564188,"Haakon Tveters vei 37, Oppsal",59.897505,10.837561
+1564190,"Haakon Tveters vei 35B, Oppsal",59.897748,10.837521
+1564191,"Haakon Tveters vei 35, Oppsal",59.897901,10.837493
+1564193,"Haakon Tveters vei 33, Oppsal",59.898064,10.837413
+1564194,"Haakon Tveters vei 32B, Oppsal",59.898329,10.838357
+1564202,"Haakon Tveters vei 37C, Oppsal",59.897239,10.837314
+1574220,"Låveveien 3C, Oppsal",59.909251,10.831879
+1574221,"Låveveien 3B, Oppsal",59.909332,10.831866
+1574222,"Låveveien 3, Oppsal",59.909308,10.832329
+1574223,"Låveveien 2, Oppsal",59.909803,10.832857
+1574224,"Låveveien 1C, Oppsal",59.909499,10.832107
+1574225,"Låveveien 1B, Oppsal",59.909731,10.831601
+1574226,"Låveveien 1, Oppsal",59.909671,10.832045
+1574227,"Låveveien 11, Oppsal",59.908189,10.833984
+1574228,"Låveveien 9C, Oppsal",59.908252,10.833344
+1574229,"Låveveien 9B, Oppsal",59.908343,10.833886
+1574230,"Låveveien 9, Oppsal",59.908471,10.833732
+1574231,"Låveveien 8, Oppsal",59.909179,10.833644
+1574232,"Låveveien 7, Oppsal",59.908636,10.833473
+1574233,"Låveveien 4B, Oppsal",59.909475,10.833251
+1574234,"Låveveien 4, Oppsal",59.909619,10.833169
+1574238,"Låveveien 12, Oppsal",59.908617,10.834223
+1574239,"Låveveien 11B, Oppsal",59.908105,10.833586
+1574488,"Låveveien 21, Oppsal",59.906141,10.834658
+1574489,"Låveveien 20A, Oppsal",59.907358,10.834994
+1574490,"Låveveien 19B, Oppsal",59.906327,10.834204
+1574491,"Låveveien 19, Oppsal",59.906419,10.834638
+1574492,"Låveveien 17B, Oppsal",59.906602,10.834433
+1574493,"Låveveien 17, Oppsal",59.906753,10.834567
+1574494,"Låveveien 16B, Oppsal",59.907971,10.835421
+1574495,"Låveveien 16A, Oppsal",59.9078,10.834857
+1574496,"Låveveien 25B, Oppsal",59.90581,10.833871
+1574497,"Låveveien 25, Oppsal",59.905833,10.833568
+1574498,"Låveveien 24, Oppsal",59.906798,10.83516
+1574499,"Låveveien 23B, Oppsal",59.905951,10.833432
+1574500,"Låveveien 23A, Oppsal",59.906034,10.833937
+1574501,"Låveveien 21B, Oppsal",59.906083,10.83428
+1574502,"Låveveien 30B, Oppsal",59.90569,10.835402
+1574503,"Låveveien 30, Oppsal",59.905903,10.835629
+1574504,"Låveveien 29B, Oppsal",59.905434,10.834458
+1574505,"Låveveien 29, Oppsal",59.905591,10.834771
+1574506,"Låveveien 28, Oppsal",59.906264,10.835488
+1574507,"Låveveien 27B, Oppsal",59.905821,10.834372
+1574508,"Låveveien 27A, Oppsal",59.905854,10.834625
+1574509,"Låveveien 36B, Oppsal",59.904691,10.83558
+1574510,"Låveveien 36, Oppsal",59.904781,10.835567
+1574511,"Låveveien 34, Oppsal",59.905177,10.835481
+1574512,"Låveveien 33, Oppsal",59.904899,10.834804
+1574513,"Låveveien 32B, Oppsal",59.905553,10.835574
+1574514,"Låveveien 32, Oppsal",59.905381,10.835707
+1574515,"Låveveien 31B, Oppsal",59.905111,10.834423
+1574516,"Låveveien 31A, Oppsal",59.905231,10.834841
+1574517,"Låveveien 44B, Oppsal",59.903713,10.836169
+1574518,"Låveveien 44A, Oppsal",59.903623,10.835539
+1574519,"Låveveien 42B, Oppsal",59.903989,10.83631
+1574520,"Låveveien 42, Oppsal",59.903977,10.835862
+1574521,"Låveveien 40, Oppsal",59.904237,10.835912
+1574522,"Låveveien 38C, Oppsal",59.904378,10.835473
+1574523,"Låveveien 38B, Oppsal",59.904506,10.835963
+1574524,"Låveveien 38, Oppsal",59.904537,10.835643
+1574529,"Låveveien 70, Oppsal",59.900693,10.833732
+1574530,"Låveveien 55, Oppsal",59.901706,10.83318
+1574531,"Låveveien 50, Oppsal",59.901929,10.83591
+1574532,"Låveveien 48, Oppsal",59.902813,10.835655
+1574718,"Låveveien 15B, Oppsal",59.906951,10.834542
+1574719,"Låveveien 15, Oppsal",59.907113,10.834497
+1574720,"Låveveien 13B, Oppsal",59.90743,10.834318
+1574721,"Låveveien 13, Oppsal",59.907538,10.834324
+1574723,"Låveveien 12B, Oppsal",59.908379,10.834549
+1574752,"Låveveien 14, Oppsal",59.908256,10.834854
+1583590,"Promenaden 12C, Oppsal",59.905984,10.831843
+1583591,"Promenaden 13, Oppsal",59.906348,10.833311
+1583592,"Promenaden 14, Oppsal",59.906412,10.832563
+1583593,"Promenaden 14B, Oppsal",59.906463,10.832155
+1583594,"Promenaden 15A, Oppsal",59.906596,10.833539
+1583595,"Promenaden 16, Oppsal",59.906669,10.832846
+1583596,"Promenaden 5, Oppsal",59.905593,10.830104
+1583597,"Promenaden 7, Oppsal",59.905597,10.830462
+1583598,"Promenaden 8, Oppsal",59.905901,10.829924
+1583599,"Promenaden 9, Oppsal",59.905668,10.831843
+1583600,"Promenaden 9B, Oppsal",59.905475,10.832172
+1583601,"Promenaden 10, Oppsal",59.905886,10.830388
+1583602,"Promenaden 11, Oppsal",59.905815,10.832906
+1583603,"Promenaden 11B, Oppsal",59.906074,10.832992
+1583604,"Promenaden 28, Oppsal",59.907812,10.833982
+1583611,"Promenaden 16B, Oppsal",59.906718,10.832526
+1583612,"Promenaden 20, Oppsal",59.907192,10.833339
+1583613,"Promenaden 22, Oppsal",59.907444,10.833046
+1583614,"Promenaden 22B, Oppsal",59.907331,10.833669
+1583615,"Promenaden 24, Oppsal",59.907705,10.833242
+1583616,"Promenaden 24B, Oppsal",59.907545,10.833824
+1583617,"Promenaden 26, Oppsal",59.907911,10.833343
+1583621,"Promenaden 15C, Oppsal",59.906764,10.833727
+1588582,"Skappels vei 5B, Oppsal",59.898554,10.833829
+1588583,"Skappels vei 5C, Oppsal",59.898491,10.833843
+1588585,"Skappels vei 7, Oppsal",59.89868,10.834461
+1588586,"Skappels vei 9, Oppsal",59.898674,10.835498
+1588587,"Skappels vei 11, Oppsal",59.898437,10.835789
+1588595,"Skappels vei 1, Oppsal",59.898525,10.832701
+1588596,"Skappels vei 3, Oppsal",59.898904,10.833222
+1588597,"Skappels vei 3B, Oppsal",59.898446,10.833179
+1588598,"Skappels vei 5, Oppsal",59.898742,10.833875
+1589407,"Skøyen allé 25, Oppsal",59.901526,10.828718
+1595948,"Terrasseveien 1A, Oppsal",59.905606,10.832411
+1595949,"Terrasseveien 1B, Oppsal",59.905605,10.832465
+1595950,"Terrasseveien 2, Oppsal",59.905578,10.833769
+1595951,"Terrasseveien 2B, Oppsal",59.905469,10.833209
+1595959,"Terrasseveien 7, Oppsal",59.904867,10.832603
+1595960,"Terrasseveien 7B, Oppsal",59.904753,10.833062
+1595961,"Terrasseveien 8, Oppsal",59.904873,10.83348
+1595962,"Terrasseveien 10, Oppsal",59.903919,10.83357
+1595963,"Terrasseveien 12, Oppsal",59.903794,10.833563
+1595964,"Terrasseveien 14, Oppsal",59.903722,10.833559
+1595965,"Terrasseveien 15, Oppsal",59.902522,10.831383
+1595966,"Terrasseveien 16, Oppsal",59.903587,10.833552
+1595967,"Terrasseveien 3A, Oppsal",59.905289,10.832675
+1595968,"Terrasseveien 4, Oppsal",59.905306,10.833325
+1595969,"Terrasseveien 4B, Oppsal",59.905363,10.834138
+1595970,"Terrasseveien 5, Oppsal",59.905087,10.832937
+1595971,"Terrasseveien 6, Oppsal",59.905071,10.833419
+1595972,"Terrasseveien 6B, Oppsal",59.905008,10.833451
+1595973,"Terrasseveien 6C, Oppsal",59.905142,10.834174
+1595974,"Terrasseveien 6D, Oppsal",59.905006,10.834202
+1595975,"Terrasseveien 26, Oppsal",59.902774,10.833239
+1595976,"Terrasseveien 27, Oppsal",59.901478,10.830217
+1595977,"Terrasseveien 28, Oppsal",59.902719,10.832681
+1595978,"Terrasseveien 29, Oppsal",59.901194,10.830005
+1595979,"Terrasseveien 31, Oppsal",59.90107,10.829855
+1595980,"Terrasseveien 50, Oppsal",59.902362,10.831875
+1595981,"Terrasseveien 52, Oppsal",59.902325,10.83198
+1595982,"Terrasseveien 54, Oppsal",59.902288,10.83205
+1595983,"Terrasseveien 17, Oppsal",59.902273,10.831191
+1595984,"Terrasseveien 18, Oppsal",59.903428,10.833364
+1595985,"Terrasseveien 19, Oppsal",59.90214,10.83104
+1595986,"Terrasseveien 20, Oppsal",59.903302,10.833393
+1595987,"Terrasseveien 22, Oppsal",59.903049,10.833522
+1595988,"Terrasseveien 23, Oppsal",59.901876,10.830668
+1595989,"Terrasseveien 24, Oppsal",59.902958,10.832963
+1595990,"Terrasseveien 25, Oppsal",59.901699,10.830462
+1595991,"Terrasseveien 72, Oppsal",59.901929,10.832048
+1595992,"Terrasseveien 74, Oppsal",59.90184,10.831346
+1595993,"Terrasseveien 56, Oppsal",59.902251,10.832137
+1595994,"Terrasseveien 58, Oppsal",59.902214,10.832224
+1595995,"Terrasseveien 60, Oppsal",59.902186,10.832312
+1595996,"Terrasseveien 62, Oppsal",59.902088,10.83161
+1595997,"Terrasseveien 64, Oppsal",59.90205,10.831697
+1595998,"Terrasseveien 66, Oppsal",59.902031,10.831803
+1595999,"Terrasseveien 68, Oppsal",59.901985,10.831872
+1596000,"Terrasseveien 70, Oppsal",59.901957,10.83196
+1596250,"Terrasseveien 76, Oppsal",59.901803,10.831433
+1596251,"Terrasseveien 78, Oppsal",59.901765,10.83152
+1596252,"Terrasseveien 80, Oppsal",59.901719,10.831607
+1596253,"Terrasseveien 98, Oppsal",59.901317,10.830798
+1596254,"Terrasseveien 100, Oppsal",59.901289,10.830886
+1596255,"Terrasseveien 102, Oppsal",59.901252,10.830956
+1596256,"Terrasseveien 104, Oppsal",59.901215,10.831043
+1596257,"Terrasseveien 106, Oppsal",59.901187,10.831131
+1596258,"Terrasseveien 108, Oppsal",59.901159,10.831219
+1596259,"Terrasseveien 110, Oppsal",59.90107,10.830517
+1596260,"Terrasseveien 112, Oppsal",59.901024,10.830603
+1596261,"Terrasseveien 82, Oppsal",59.901691,10.831713
+1596262,"Terrasseveien 84, Oppsal",59.901663,10.831765
+1596263,"Terrasseveien 86, Oppsal",59.901565,10.831062
+1596264,"Terrasseveien 88, Oppsal",59.901546,10.831151
+1596265,"Terrasseveien 90, Oppsal",59.901509,10.831256
+1596266,"Terrasseveien 92, Oppsal",59.901472,10.831308
+1596267,"Terrasseveien 94, Oppsal",59.901435,10.831413
+1596268,"Terrasseveien 96, Oppsal",59.901415,10.831501
+1596269,"Terrasseveien 130, Oppsal",59.900664,10.830602
+1596270,"Terrasseveien 132, Oppsal",59.900637,10.830671
+1596277,"Terrasseveien 114, Oppsal",59.900996,10.830691
+1596278,"Terrasseveien 116, Oppsal",59.90095,10.83076
+1596279,"Terrasseveien 118, Oppsal",59.900921,10.830866
+1596280,"Terrasseveien 120, Oppsal",59.900893,10.830936
+1596281,"Terrasseveien 122, Oppsal",59.900804,10.830234
+1596282,"Terrasseveien 124, Oppsal",59.900767,10.830321
+1596283,"Terrasseveien 126, Oppsal",59.900739,10.830409
+1596284,"Terrasseveien 128, Oppsal",59.900702,10.830496
+1603108,"Østensjøveien 95, Oppsal",59.900263,10.826539
+1603111,"Østensjøveien 98A, Oppsal",59.900614,10.827756
+1603123,"Karsten Kjelbergs vei 8, Oppsal",59.897992,10.833565
+1603128,"Østensjøveien 120C, Oppsal",59.897428,10.833373
+1603130,"Østensjøveien 122, Oppsal",59.897115,10.83332
+1603132,"Østensjøveien 122C, Oppsal",59.896551,10.8332
+1603134,"Østensjøveien 124, Oppsal",59.896518,10.834896
+1603136,"Østensjøveien 130, Oppsal",59.896178,10.834145
+1603139,"Østensjøveien 102, Oppsal",59.900049,10.828386
+1603141,"Østensjøveien 102B, Oppsal",59.899919,10.828647
+1603143,"Østensjøveien 104, Oppsal",59.899808,10.828892
+1603145,"Østensjøveien 106, Oppsal",59.899761,10.829032
+1603147,"Østensjøveien 112, Oppsal",59.899756,10.830712
+1603160,"Karsten Kjelbergs vei 3, Oppsal",59.897671,10.833351
+1603161,"Karsten Kjelbergs vei 4, Oppsal",59.898186,10.833129
+1606764,"Dalbakkveien 20A, Oppsal",59.906277,10.831358
+1606861,"Dalbakkveien 20B, Oppsal",59.906217,10.83173
+1606976,"Dalbakkveien 4B, Oppsal",59.908219,10.832781
+1607057,"Dalbakkveien 4A, Oppsal",59.908382,10.832386
+1607601,"Dalbakkveien 8B, Oppsal",59.907835,10.832302
+1607603,"Dalbakkveien 8D, Oppsal",59.907749,10.832673
+1607604,"Dalbakkveien 8C, Oppsal",59.907788,10.83246
+1607606,"Dalbakkveien 8A, Oppsal",59.907938,10.831986
+1607610,"Østensjøveien 126A, Oppsal",59.896275,10.834954
+1607769,"Dalbakkveien 41C, Oppsal",59.904053,10.831074
+1607770,"Dalbakkveien 41A, Oppsal",59.904376,10.831074
+1607783,"Dalbakkveien 41B, Oppsal",59.904215,10.831047
+1607896,"Østensjøveien 126D, Oppsal",59.895939,10.834578
+1607897,"Østensjøveien 126C, Oppsal",59.89608,10.834747
+1607899,"Østensjøveien 126B, Oppsal",59.895978,10.834933
+1609089,"Låveveien 33C, Oppsal",59.90483,10.833996
+1609910,"Haakon Tveters vei 26E, Oppsal",59.898786,10.839115
+1610080,"Godliaveien 11B, Oppsal",59.90537,10.838425
+1610132,"Godliaveien 11A, Oppsal",59.905551,10.838327
+1610318,"Dalbakkveien 3B, Oppsal",59.908867,10.831697
+1610635,"Dalbakkveien 3A, Oppsal",59.90885,10.832304
+1611106,"Damfaret 42A, Oppsal",59.905189,10.837842
+1611108,"Damfaret 42C, Oppsal",59.905144,10.83784
+1611109,"Damfaret 42B, Oppsal",59.905195,10.838057
+1611111,"Damfaret 42D, Oppsal",59.90515,10.838073
+1611188,"Haakon Tveters vei 26C, Oppsal",59.898816,10.838831
+1611438,"Damfaret 59A, Oppsal",59.901746,10.837634
+1611456,"Damfaret 59B, Oppsal",59.901527,10.837676
+1611458,"Promenaden 12E, Oppsal",59.906076,10.832223
+1611461,"Promenaden 12D, Oppsal",59.906159,10.832084
+1611638,"Terrasseveien 21G, Oppsal",59.901407,10.829534
+1611639,"Terrasseveien 21F, Oppsal",59.901576,10.82965
+1611648,"Terrasseveien 21A, Oppsal",59.902036,10.830141
+1611650,"Terrasseveien 21C, Oppsal",59.901998,10.829638
+1611651,"Terrasseveien 21B, Oppsal",59.901912,10.830009
+1611652,"Terrasseveien 21E, Oppsal",59.901735,10.829802
+1611653,"Terrasseveien 21D, Oppsal",59.901839,10.82945
+1613386,"Låveveien 5B, Oppsal",59.908956,10.833097
+1613387,"Låveveien 5A, Oppsal",59.909047,10.832977
+1617679,"Skrabben 1A, Oppsal",59.897024,10.835943
+1617680,"Skrabben 1D, Oppsal",59.897777,10.836074
+1617681,"Låveveien 52C, Oppsal",59.902396,10.835292
+1617682,"Låveveien 52B, Oppsal",59.90225,10.835391
+1617684,"Låveveien 52A, Oppsal",59.902079,10.835453
+1617693,"Skrabben 1C, Oppsal",59.897526,10.836024
+1617694,"Skrabben 1B, Oppsal",59.897266,10.835992
+1618273,"Damfaret 50B, Oppsal",59.903882,10.838217
+1618275,"Damfaret 50D, Oppsal",59.903757,10.838157
+1618276,"Damfaret 50C, Oppsal",59.903819,10.838214
+1618277,"Damfaret 50F, Oppsal",59.903766,10.838121
+1618278,"Damfaret 50E, Oppsal",59.903829,10.838161
+1618279,"Damfaret 50A, Oppsal",59.903881,10.838235
+1618805,"Låveveien 6B, Oppsal",59.909335,10.833618
+1618806,"Låveveien 6A, Oppsal",59.909381,10.833514
+1618808,"Låveveien 10B, Oppsal",59.908968,10.834135
+1618830,"Låveveien 27C, Oppsal",59.905814,10.834229
+1619214,"Låveveien 10A, Oppsal",59.908951,10.834098
+1619522,"Låveveien 46B, Oppsal",59.903352,10.836257
+1619821,"Låveveien 46A, Oppsal",59.903199,10.83632
+1622194,"Haakon Tveters vei 29A, Oppsal",59.898747,10.837379
+1622195,"Haakon Tveters vei 29B, Oppsal",59.898577,10.837334
+1622518,"Østensjøveien 128A, Oppsal",59.896008,10.834117
+1622519,"Østensjøveien 128B, Oppsal",59.89598,10.834169
+1624149,"Fugleliveien 27C, Oppsal",59.900803,10.828374
+1624151,"Fugleliveien 27A, Oppsal",59.900877,10.828217
+1624152,"Fugleliveien 27B, Oppsal",59.90082,10.828447
+1624278,"Østensjøveien 99A, Oppsal",59.899911,10.82727
+1624279,"Østensjøveien 101, Oppsal",59.899721,10.827403
+1624281,"Østensjøveien 99B, Oppsal",59.899813,10.827093
+1624673,"Låveveien 18B, Oppsal",59.907624,10.835241
+1624675,"Låveveien 18A, Oppsal",59.907619,10.834937
+1624704,"Låveveien 18C, Oppsal",59.907603,10.835419
+1624872,"Østensjøveien 122D, Oppsal",59.896471,10.834375
+1626434,"Godliaveien 15B, Oppsal",59.904915,10.838829
+1626523,"Godliaveien 15F, Oppsal",59.904687,10.838616
+1626524,"Godliaveien 15E, Oppsal",59.90471,10.83871
+1626535,"Godliaveien 15A, Oppsal",59.904988,10.838761
+1626536,"Godliaveien 15D, Oppsal",59.904737,10.838787
+1626537,"Godliaveien 15C, Oppsal",59.904839,10.83852
+1627635,"Dalbakkveien 15B, Oppsal",59.907266,10.830572
+1627637,"Dalbakkveien 15A, Oppsal",59.907343,10.830862
+1627639,"Dalbakkveien 15D, Oppsal",59.907391,10.83065
+1627641,"Dalbakkveien 15C, Oppsal",59.907329,10.830611
+1627757,"Låveveien 16C, Oppsal",59.907977,10.834992
+1627935,"Dalbakkveien 10B, Oppsal",59.907576,10.832216
+1627937,"Dalbakkveien 10A, Oppsal",59.907658,10.831915
+1627970,"Dalbakkveien 10C, Oppsal",59.907508,10.832552
+1628004,"Dalbakkveien 19B, Oppsal",59.906793,10.830367
+1628006,"Dalbakkveien 19A, Oppsal",59.90685,10.830817
+1628110,"Østensjøveien 116A, Oppsal",59.898161,10.832359
+1628586,"Østensjøveien 100A, Oppsal",59.900197,10.828055
+1628588,"Østensjøveien 100B, Oppsal",59.900092,10.827852
+1629509,"Fugleliveien 32, Oppsal",59.901121,10.828803
+1629516,"Fugleliveien 28, Oppsal",59.901245,10.828863
+1629517,"Fugleliveien 26, Oppsal",59.901215,10.828504
+1629520,"Fugleliveien 30, Oppsal",59.90129,10.828866
+1629826,"Fugleliveien 34, Oppsal",59.90113,10.828768
+1630562,"Promenaden 17A, Oppsal",59.906966,10.834001
+1630563,"Promenaden 19, Oppsal",59.9072,10.834037
+1630565,"Promenaden 17B, Oppsal",59.906939,10.834068
+1710095,"Promenaden 12B, Oppsal",59.906032,10.831495
+1895468,"Terrasseveien 4C, Oppsal",59.905319,10.834026
+1934818,"Dalbakkveien 9C, Oppsal",59.908121,10.831078
+1934819,"Dalbakkveien 9B, Oppsal",59.908174,10.831129
+1934820,"Dalbakkveien 9A, Oppsal",59.90821,10.831171
+1945943,"Grønlibakken 18, Oppsal",59.898061,10.833989
+1945944,"Grønlibakken 16, Oppsal",59.898046,10.83411
+1948384,"Låveveien 26C, Oppsal",59.90648,10.835671
+1948386,"Låveveien 26A, Oppsal",59.906471,10.835333
+1948387,"Låveveien 26B, Oppsal",59.906372,10.835283
+1948528,"Låveveien 26D, Oppsal",59.906385,10.835761
+1953886,"Baneveien 11B, Oppsal",59.908547,10.834796
+1955190,"Karsten Kjelbergs vei 1, Oppsal",59.8977,10.833122
+1967504,"Fugleliveien 35B, Oppsal",59.900044,10.829387
+1971310,"Promenaden 18B, Oppsal",59.906899,10.832873
+1976011,"Grønlibakken 11C, Oppsal",59.897393,10.834714
+1976012,"Grønlibakken 11D, Oppsal",59.897283,10.834727
+1976014,"Grønlibakken 11E, Oppsal",59.897208,10.834727
+1976015,"Grønlibakken 11F, Oppsal",59.89714,10.834736
+1976020,"Grønlibakken 11B, Oppsal",59.897447,10.834719
+1986608,"Dalbakkveien 17D, Oppsal",59.907124,10.830857
+1988162,"Terrasseveien 3B, Oppsal",59.90526,10.832873
+2003809,"Promenaden 30, Oppsal",59.907874,10.834062
+2006162,"Østensjøveien 98D, Oppsal",59.900372,10.827889
+2006163,"Østensjøveien 98C, Oppsal",59.900412,10.827802
+2006164,"Østensjøveien 98B, Oppsal",59.900424,10.827771
+2006178,"Østensjøveien 96F, Oppsal",59.900616,10.827295
+2006179,"Østensjøveien 96E, Oppsal",59.900601,10.827333
+2006180,"Østensjøveien 96B, Oppsal",59.900401,10.827113
+2006189,"Østensjøveien 96D, Oppsal",59.900514,10.827509
+2006190,"Østensjøveien 96C, Oppsal",59.900499,10.827551
+2006191,"Østensjøveien 96A, Oppsal",59.900392,10.827145
+2028166,"Fugleliveien 33B, Oppsal",59.900325,10.829481
+2062739,"Granhekkveien 13, Manglerud",59.899409,10.826567
+2070483,"Dalbakkveien 21D, Oppsal",59.906412,10.830689
+2070502,"Dalbakkveien 21C, Oppsal",59.9064,10.830261
+2095054,"Låveveien 20B, Oppsal",59.907361,10.835466
+2095055,"Låveveien 20C, Oppsal",59.907242,10.83549
+2114454,"Promenaden 18A, Oppsal",59.906825,10.833248
+2196668,"Grønlibakken 20, Oppsal",59.898249,10.834084
+2199291,"Østensjøveien 97B, Oppsal",59.90014,10.826843
+2199292,"Østensjøveien 97D, Oppsal",59.900021,10.827055
+2199327,"Østensjøveien 97A, Oppsal",59.900158,10.826808
+2199355,"Østensjøveien 97C, Oppsal",59.900071,10.826988
+2199356,"Østensjøveien 97E, Oppsal",59.899995,10.82708
+2241232,"Promenaden 15B, Oppsal",59.906522,10.833842
+2258039,"Låveveien 22, Oppsal",59.907017,10.835182
+2258153,"Dalbakkveien 1C, Oppsal",59.909056,10.832369
+2258155,"Dalbakkveien 1D, Oppsal",59.909,10.832404
+2258175,"Dalbakkveien 1A, Oppsal",59.909092,10.83167
+2258176,"Dalbakkveien 1B, Oppsal",59.909083,10.831965
+2354550,"Karsten Kjelbergs vei 5, Oppsal",59.897781,10.83384
+2354555,"Karsten Kjelbergs vei 2, Oppsal",59.897966,10.832831
+2354659,"Karsten Kjelbergs vei 6, Oppsal",59.898253,10.833508
+2452162,"Damfaret 33C, Oppsal",59.90536,10.837208
+2452163,"Damfaret 33D, Oppsal",59.905319,10.837267
+2452182,"Damfaret 33E, Oppsal",59.905225,10.837183
+2485672,"Dalbakkveien 1, Oppsal",59.90908,10.832469
+2495335,"Haakon Tveters vei 31A, Oppsal",59.898406,10.83736
+2495433,"Haakon Tveters vei 31B, Oppsal",59.898286,10.837323

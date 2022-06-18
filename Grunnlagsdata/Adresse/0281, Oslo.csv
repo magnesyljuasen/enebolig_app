@@ -1,0 +1,721 @@
+,Navn,Long,Lat
+1541933,"Adventveien 11, Ullern",59.92329,10.665962
+1541937,"Adventveien 12, Ullern",59.922839,10.666082
+1541939,"Adventveien 6B, Ullern",59.922135,10.665689
+1541940,"Adventveien 10, Ullern",59.922557,10.665657
+1541941,"Adventveien 4A, Ullern",59.922635,10.666591
+1541942,"Adventveien 6A, Ullern",59.922313,10.665927
+1541943,"Adventveien 2, Ullern",59.92224,10.667323
+1541944,"Adventveien 2B, Ullern",59.922369,10.667025
+1541946,"Adventveien 16B, Ullern",59.92322,10.664384
+1541948,"Adventveien 17, Ullern",59.924235,10.665043
+1541949,"Adventveien 15, Ullern",59.924081,10.665196
+1541950,"Adventveien 16, Ullern",59.923279,10.664673
+1541951,"Adventveien 14B, Ullern",59.923157,10.665079
+1541952,"Adventveien 14C, Ullern",59.922856,10.664759
+1541953,"Adventveien 13, Ullern",59.923774,10.665324
+1541954,"Adventveien 14A, Ullern",59.92307,10.665575
+1541958,"Adventveien 26, Ullern",59.924326,10.664296
+1541960,"Adventveien 22, Ullern",59.923651,10.664388
+1541961,"Adventveien 24, Ullern",59.923953,10.664689
+1541962,"Adventveien 18, Ullern",59.923376,10.664141
+1541963,"Adventveien 20, Ullern",59.923563,10.664258
+1544864,"Bakkeveien 4, Ullern",59.920454,10.657913
+1544866,"Bakkeveien 9, Ullern",59.920909,10.657508
+1544867,"Bakkeveien 15, Ullern",59.920171,10.656861
+1544869,"Bakkeveien 3, Ullern",59.921124,10.657624
+1545997,"Bestumåsen 6, Ullern",59.920176,10.65438
+1545998,"Bestumåsen 2, Ullern",59.921068,10.654813
+1546021,"Bestumveien 2T, Ullern",59.919472,10.665287
+1546052,"Bestumveien 2P, Ullern",59.919329,10.665245
+1546053,"Bestumveien 2O, Ullern",59.919276,10.665224
+1546054,"Bestumveien 2N, Ullern",59.919231,10.665222
+1546055,"Bestumveien 2M, Ullern",59.919186,10.665219
+1546056,"Bestumveien 2L, Ullern",59.919148,10.665361
+1546057,"Bestumveien 2K, Ullern",59.919112,10.665341
+1546058,"Bestumveien 2J, Ullern",59.919077,10.665339
+1546059,"Bestumveien 2I, Ullern",59.919041,10.66532
+1546060,"Bestumveien 4B, Ullern",59.919272,10.664777
+1546061,"Bestumveien 4A, Ullern",59.919271,10.664848
+1546062,"Bestumveien 3, Ullern",59.919192,10.666848
+1546063,"Bestumveien 2S, Ullern",59.919445,10.665286
+1546064,"Bestumveien 2R, Ullern",59.91941,10.665284
+1546065,"Bestumveien 2Q, Ullern",59.919365,10.665264
+1546066,"Bestumveien 6B, Ullern",59.919409,10.664622
+1546067,"Bestumveien 6A, Ullern",59.919373,10.664603
+1546068,"Bestumveien 4H, Ullern",59.919269,10.664311
+1546069,"Bestumveien 4G, Ullern",59.919277,10.664383
+1546070,"Bestumveien 4F, Ullern",59.919276,10.664455
+1546071,"Bestumveien 4E, Ullern",59.919275,10.664526
+1546072,"Bestumveien 4D, Ullern",59.919274,10.664616
+1546073,"Bestumveien 4C, Ullern",59.919273,10.664687
+1546074,"Bestumveien 7B, Ullern",59.920211,10.66511
+1546075,"Bestumveien 7, Ullern",59.920115,10.665588
+1546076,"Bestumveien 6H, Ullern",59.919659,10.664707
+1546077,"Bestumveien 6G, Ullern",59.919624,10.664687
+1546078,"Bestumveien 6F, Ullern",59.919579,10.664685
+1546079,"Bestumveien 6E, Ullern",59.919534,10.664664
+1546080,"Bestumveien 6D, Ullern",59.919489,10.664662
+1546081,"Bestumveien 6C, Ullern",59.919454,10.664625
+1546082,"Bestumveien 12, Ullern",59.92059,10.663519
+1546083,"Bestumveien 11, Ullern",59.920811,10.66455
+1546084,"Bestumveien 10, Ullern",59.920421,10.664119
+1546085,"Bestumveien 8D, Ullern",59.919754,10.665051
+1546086,"Bestumveien 8C, Ullern",59.919717,10.665085
+1546087,"Bestumveien 8B, Ullern",59.919672,10.665136
+1546088,"Bestumveien 8A, Ullern",59.919635,10.66517
+1546089,"Bestumveien 14I, Ullern",59.920471,10.662279
+1546090,"Bestumveien 14H, Ullern",59.920426,10.662348
+1546091,"Bestumveien 14G, Ullern",59.92038,10.662435
+1546092,"Bestumveien 14F, Ullern",59.920514,10.662765
+1546093,"Bestumveien 14E, Ullern",59.92047,10.662847
+1546094,"Bestumveien 14D, Ullern",59.920428,10.662902
+1546095,"Bestumveien 14, Ullern",59.920249,10.66284
+1546096,"Bestumveien 18B, Ullern",59.921027,10.663093
+1546097,"Bestumveien 18A, Ullern",59.920818,10.663262
+1546098,"Bestumveien 16, Ullern",59.920777,10.663653
+1546099,"Bestumveien 14M, Ullern",59.920261,10.663306
+1546100,"Bestumveien 14L, Ullern",59.920295,10.663468
+1546101,"Bestumveien 14K, Ullern",59.920302,10.663594
+1546102,"Bestumveien 20A, Ullern",59.921007,10.662538
+1546103,"Bestumveien 26, Ullern",59.920784,10.661024
+1546104,"Bestumveien 24, Ullern",59.920934,10.661872
+1546105,"Bestumveien 22, Ullern",59.92076,10.66215
+1546106,"Bestumveien 21D, Ullern",59.921418,10.662771
+1546107,"Bestumveien 19B, Ullern",59.921379,10.663338
+1546108,"Bestumveien 21C, Ullern",59.921426,10.662673
+1546109,"Bestumveien 21B, Ullern",59.921435,10.662599
+1546110,"Bestumveien 20C, Ullern",59.920783,10.662455
+1546111,"Bestumveien 36B, Ullern",59.921142,10.658233
+1546112,"Bestumveien 36, Ullern",59.921077,10.658391
+1546113,"Bestumveien 33B, Ullern",59.921868,10.658382
+1546114,"Bestumveien 32, Ullern",59.920919,10.658795
+1546115,"Bestumveien 30, Ullern",59.92054,10.658972
+1546116,"Bestumveien 27, Ullern",59.921103,10.659215
+1546117,"Bestumveien 26B, Ullern",59.920852,10.661296
+1546118,"Bestumveien 42C, Ullern",59.921763,10.65669
+1546119,"Bestumveien 42B, Ullern",59.921729,10.656563
+1546120,"Bestumveien 42A, Ullern",59.921703,10.656454
+1546121,"Bestumveien 41C, Ullern",59.922417,10.65615
+1546122,"Bestumveien 41B, Ullern",59.922694,10.656253
+1546123,"Bestumveien 41A, Ullern",59.922726,10.656577
+1546124,"Bestumveien 39A, Ullern",59.922289,10.656985
+1546125,"Bestumveien 38, Ullern",59.921314,10.6578
+1546126,"Bestumveien 45, Ullern",59.921963,10.655752
+1546127,"Bestumveien 43, Ullern",59.922123,10.655956
+1546128,"Bestumveien 42I, Ullern",59.921509,10.656892
+1546129,"Bestumveien 42H, Ullern",59.921652,10.656917
+1546130,"Bestumveien 42G, Ullern",59.921706,10.656938
+1546131,"Bestumveien 42F, Ullern",59.92176,10.65694
+1546132,"Bestumveien 42E, Ullern",59.921814,10.656943
+1546133,"Bestumveien 42D, Ullern",59.921868,10.656946
+1546139,"Bestumveien 50, Ullern",59.921013,10.653468
+1546140,"Bestumveien 48, Ullern",59.921212,10.654122
+1546141,"Bestumveien 46, Ullern",59.92142,10.654687
+1546262,"Bestumstubben 13F, Ullern",59.918684,10.66371
+1546264,"Bestumstubben 13E, Ullern",59.918648,10.663726
+1546266,"Bestumstubben 13D, Ullern",59.918603,10.663741
+1546268,"Bestumstubben 13C, Ullern",59.918566,10.663775
+1546270,"Bestumstubben 13B, Ullern",59.918521,10.663791
+1546272,"Bestumstubben 13A, Ullern",59.918485,10.663807
+1546274,"Bestum tverrvei 1, Ullern",59.91922,10.655365
+1546277,"Bestumveien 1, Ullern",59.91902,10.665692
+1546278,"Bestumstubben 23, Ullern",59.918919,10.662898
+1546279,"Bestumstubben 21, Ullern",59.919152,10.663608
+1546280,"Bestumstubben 19, Ullern",59.919229,10.663898
+1546281,"Bestumstubben 17, Ullern",59.919007,10.663708
+1546282,"Bestumstubben 15, Ullern",59.918918,10.663703
+1546283,"Bestumstubben 13H, Ullern",59.918765,10.663696
+1546284,"Bestumstubben 13G, Ullern",59.918729,10.663694
+1546286,"Bestumveien 2H, Ullern",59.918996,10.665299
+1546287,"Bestumveien 2G, Ullern",59.918952,10.665279
+1546288,"Bestumveien 2F, Ullern",59.918906,10.665295
+1546289,"Bestumveien 2E, Ullern",59.918862,10.665275
+1546290,"Bestumveien 2D, Ullern",59.918817,10.665255
+1546291,"Bestumveien 2C, Ullern",59.918772,10.665252
+1546292,"Bestumveien 2B, Ullern",59.918728,10.665232
+1546293,"Bestumveien 2A, Ullern",59.918692,10.665213
+1551143,"Drammensveien 207, Ullern",59.918467,10.663085
+1551144,"Bestumstubben 11, Ullern",59.918833,10.664021
+1551150,"Drammensveien 215, Ullern",59.917863,10.660431
+1551152,"Drammensveien 213, Ullern",59.918197,10.660913
+1551154,"Drammensveien 211, Ullern",59.918195,10.661621
+1551156,"Drammensveien 209, Ullern",59.918226,10.662256
+1551163,"Drammensveien 229, Ullern",59.916977,10.657346
+1551164,"Drammensveien 227, Ullern",59.917306,10.65831
+1551165,"Drammensveien 225, Ullern",59.917611,10.659041
+1552569,"Elmholtveien 5B, Ullern",59.924797,10.666825
+1552570,"Elmholtveien 5, Ullern",59.924648,10.667193
+1552571,"Elmholtveien 4, Ullern",59.924826,10.668078
+1552572,"Elmholtveien 3A, Ullern",59.924834,10.667453
+1552573,"Elmholtveien 2B, Ullern",59.925013,10.668299
+1552574,"Elmholtveien 2, Ullern",59.925032,10.668327
+1552575,"Elmholtveien 1, Ullern",59.925127,10.6677
+1552577,"Elmholtveien 9D, Ullern",59.924493,10.665951
+1552578,"Elmholtveien 9C, Ullern",59.924393,10.666089
+1552579,"Elmholtveien 9B, Ullern",59.924303,10.66612
+1552580,"Elmholtveien 9A, Ullern",59.924236,10.666457
+1552581,"Elmholtveien 8, Ullern",59.924456,10.667505
+1552582,"Elmholtveien 7B, Ullern",59.92465,10.666273
+1552583,"Elmholtveien 7, Ullern",59.924375,10.666786
+1552584,"Elmholtveien 6, Ullern",59.92457,10.667744
+1552585,"Elmholtveien 16, Ullern",59.923649,10.665962
+1552586,"Elmholtveien 14A, Ullern",59.923833,10.666365
+1552587,"Elmholtveien 12, Ullern",59.924017,10.666714
+1552588,"Elmholtveien 11C, Ullern",59.924516,10.665558
+1552589,"Elmholtveien 11B, Ullern",59.924271,10.665796
+1552590,"Elmholtveien 11A, Ullern",59.924043,10.666071
+1552591,"Elmholtveien 10, Ullern",59.924202,10.666956
+1552592,"Elmholtveien 9E, Ullern",59.924586,10.665741
+1552599,"Elmholtveien 18, Ullern",59.923465,10.665577
+1553793,"Fagertunveien 2C, Ullern",59.922106,10.662271
+1553794,"Fagertunveien 2B, Ullern",59.922134,10.661485
+1553795,"Fagertunveien 2, Ullern",59.921794,10.662094
+1553796,"Fagertunveien 1D, Ullern",59.921752,10.662557
+1553797,"Fagertunveien 1C, Ullern",59.921777,10.66272
+1553798,"Fagertunveien 1, Ullern",59.921925,10.663067
+1553799,"Fagertunveien 5A, Ullern",59.922767,10.663234
+1553800,"Fagertunveien 4B, Ullern",59.92241,10.662375
+1553801,"Fagertunveien 3D, Ullern",59.922476,10.664293
+1553802,"Fagertunveien 3C, Ullern",59.922472,10.663846
+1553803,"Fagertunveien 3B, Ullern",59.922421,10.662949
+1553804,"Fagertunveien 3A, Ullern",59.922242,10.66285
+1553805,"Fagertunveien 2D, Ullern",59.921985,10.661925
+1553806,"Fagertunveien 6E, Ullern",59.923252,10.661428
+1553807,"Fagertunveien 6A, Ullern",59.92305,10.661933
+1553808,"Fagertunveien 5G, Ullern",59.922642,10.66389
+1553809,"Fagertunveien 5F, Ullern",59.922697,10.663839
+1553810,"Fagertunveien 5E, Ullern",59.922751,10.663806
+1553811,"Fagertunveien 5D, Ullern",59.922718,10.663572
+1553812,"Fagertunveien 5C, Ullern",59.922738,10.663447
+1553813,"Fagertunveien 5B, Ullern",59.922748,10.663341
+1553814,"Fagertunveien 8F, Ullern",59.923688,10.662135
+1553815,"Fagertunveien 8E, Ullern",59.923719,10.662548
+1553816,"Fagertunveien 8D, Ullern",59.923686,10.66235
+1553817,"Fagertunveien 8C, Ullern",59.923825,10.662697
+1553818,"Fagertunveien 8B, Ullern",59.92381,10.662481
+1553819,"Fagertunveien 8A, Ullern",59.923794,10.662302
+1553820,"Fagertunveien 7, Ullern",59.922871,10.663597
+1553821,"Fagertunveien 6H, Ullern",59.923218,10.660949
+1553828,"Fagertunveien 10B, Ullern",59.923469,10.663162
+1553829,"Fagertunveien 10, Ullern",59.923431,10.662588
+1562077,"Hoffsbakken 4, Ullern",59.921741,10.6727
+1562078,"Hoffsbakken 2, Ullern",59.921546,10.673138
+1570288,"Sigurd Iversens vei 37B, Ullern",59.921695,10.666383
+1570289,"Sigurd Iversens vei 39A, Ullern",59.921592,10.666002
+1570290,"Sigurd Iversens vei 39B, Ullern",59.921531,10.66582
+1570291,"Sigurd Iversens vei 39C, Ullern",59.921497,10.665693
+1570292,"Sigurd Iversens vei 39D, Ullern",59.921488,10.665675
+1570301,"Sigurd Iversens vei 43A, Ullern",59.921322,10.665327
+1570302,"Sigurd Iversens vei 43B, Ullern",59.921349,10.665292
+1578025,"Nedre Skogvei 4F, Ullern",59.91942,10.659063
+1578026,"Nedre Skogvei 4G, Ullern",59.919371,10.659075
+1578027,"Nedre Skogvei 4H, Ullern",59.919335,10.659073
+1578028,"Nedre Skogvei 4I, Ullern",59.919299,10.659054
+1578029,"Nedre Skogvei 4J, Ullern",59.919264,10.659034
+1578030,"Nedre Skogvei 4K, Ullern",59.919227,10.659068
+1578031,"Nedre Skogvei 4L, Ullern",59.919192,10.65903
+1578032,"Nedre Skogvei 4M, Ullern",59.919156,10.659011
+1578033,"Nedre Skogvei 1, Ullern",59.920266,10.658619
+1578034,"Nedre Skogvei 1B, Ullern",59.920153,10.658989
+1578035,"Nedre Skogvei 3A, Ullern",59.919904,10.658833
+1578036,"Nedre Skogvei 4A, Ullern",59.919602,10.659246
+1578037,"Nedre Skogvei 4B, Ullern",59.919577,10.659139
+1578038,"Nedre Skogvei 4C, Ullern",59.919532,10.659119
+1578039,"Nedre Skogvei 4D, Ullern",59.919488,10.659081
+1578040,"Nedre Skogvei 4E, Ullern",59.919443,10.659097
+1578041,"Nedre Skogvei 6D, Ullern",59.919264,10.658265
+1578042,"Nedre Skogvei 6E, Ullern",59.919238,10.658192
+1578043,"Nedre Skogvei 8C, Ullern",59.918902,10.657799
+1578044,"Nedre Skogvei 8D, Ullern",59.918892,10.657888
+1578045,"Nedre Skogvei 8E, Ullern",59.918686,10.657878
+1578046,"Nedre Skogvei 4N, Ullern",59.919112,10.658991
+1578047,"Nedre Skogvei 4O, Ullern",59.919056,10.659061
+1578048,"Nedre Skogvei 4P, Ullern",59.919032,10.658933
+1578049,"Nedre Skogvei 5, Ullern",59.920107,10.657699
+1578050,"Nedre Skogvei 6A, Ullern",59.919334,10.658429
+1578051,"Nedre Skogvei 6B, Ullern",59.919317,10.658393
+1578052,"Nedre Skogvei 6C, Ullern",59.919291,10.65832
+1578053,"Nedre Skogvei 10F, Ullern",59.918074,10.657919
+1578054,"Nedre Skogvei 10G, Ullern",59.918075,10.657848
+1578055,"Nedre Skogvei 10H, Ullern",59.91807,10.657525
+1578056,"Nedre Skogvei 10J, Ullern",59.918062,10.657454
+1578057,"Nedre Skogvei 10K, Ullern",59.918063,10.657364
+1578058,"Nedre Skogvei 10L, Ullern",59.918064,10.657293
+1578059,"Bestum tverrvei 6, Ullern",59.919412,10.65629
+1578060,"Nedre Skogvei 8F, Ullern",59.918702,10.657968
+1578061,"Nedre Skogvei 8G, Ullern",59.918719,10.658059
+1578062,"Nedre Skogvei 8H, Ullern",59.918727,10.658131
+1578063,"Nedre Skogvei 8I, Ullern",59.918915,10.658176
+1578064,"Nedre Skogvei 8J, Ullern",59.918923,10.658266
+1578065,"Nedre Skogvei 8K, Ullern",59.918931,10.658338
+1578066,"Nedre Skogvei 8L, Ullern",59.918939,10.658427
+1578067,"Nedre Skogvei 10E, Ullern",59.918091,10.658045
+1578068,"Nedre Skogvei 15A, Ullern",59.918515,10.655734
+1578069,"Nedre Skogvei 15B, Ullern",59.918719,10.655619
+1578070,"Nedre Skogvei 15C, Ullern",59.918801,10.655397
+1578071,"Nedre Skogvei 16A, Ullern",59.917915,10.655586
+1578072,"Nedre Skogvei 16B, Ullern",59.917814,10.655778
+1578073,"Nedre Skogvei 16C, Ullern",59.917693,10.656129
+1578074,"Nedre Skogvei 23, Ullern",59.918446,10.655102
+1578075,"Nedre Skogvei 18, Ullern",59.917623,10.656698
+1578076,"Nedre Skogvei 12A, Ullern",59.9188,10.65726
+1578077,"Nedre Skogvei 12B, Ullern",59.91851,10.656832
+1578078,"Nedre Skogvei 12C, Ullern",59.918314,10.656675
+1578079,"Nedre Skogvei 12D, Ullern",59.918314,10.656824
+1578080,"Nedre Skogvei 13, Ullern",59.91888,10.656317
+1578081,"Nedre Skogvei 14A, Ullern",59.918086,10.656292
+1578082,"Nedre Skogvei 14D, Ullern",59.918054,10.655951
+1578083,"Nedre Skogvei 14C, Ullern",59.917818,10.656905
+1578092,"Nedre Skogvei 20, Ullern",59.917456,10.656386
+1578093,"Nedre Skogvei 22, Ullern",59.917482,10.657156
+1578094,"Nedre Skogvei 24, Ullern",59.917298,10.656771
+1588031,"Sigurd Iversens vei 43C, Ullern",59.921404,10.665205
+1588032,"Sigurd Iversens vei 43D, Ullern",59.921468,10.665173
+1588033,"Sigurd Iversens vei 45A, Ullern",59.921588,10.664893
+1588034,"Sigurd Iversens vei 45B, Ullern",59.921594,10.665108
+1588035,"Sigurd Iversens vei 45C, Ullern",59.921696,10.66488
+1588036,"Sigurd Iversens vei 45D, Ullern",59.921711,10.665078
+1588037,"Sigurd Iversens vei 39E, Ullern",59.921436,10.665583
+1588038,"Sigurd Iversens vei 41A, Ullern",59.921609,10.665377
+1588039,"Sigurd Iversens vei 41B, Ullern",59.921627,10.665378
+1588040,"Sigurd Iversens vei 41C, Ullern",59.921744,10.66533
+1588041,"Sigurd Iversens vei 41D, Ullern",59.921807,10.665351
+1588042,"Sigurd Iversens vei 41E, Ullern",59.921834,10.665352
+1588043,"Sigurd Iversens vei 42A, Ullern",59.921,10.665221
+1588044,"Sigurd Iversens vei 42B, Ullern",59.921002,10.665042
+1588045,"Sigurd Iversens vei 51A, Ullern",59.921652,10.664073
+1588046,"Sigurd Iversens vei 51B, Ullern",59.92167,10.664056
+1588047,"Sigurd Iversens vei 51C, Ullern",59.921736,10.664002
+1588048,"Sigurd Iversens vei 53A, Ullern",59.921277,10.663911
+1588049,"Sigurd Iversens vei 53B, Ullern",59.921349,10.663932
+1588050,"Sigurd Iversens vei 53C, Ullern",59.92142,10.663936
+1588051,"Sigurd Iversens vei 53D, Ullern",59.921492,10.663958
+1588053,"Sigurd Iversens vei 47A, Ullern",59.921777,10.664884
+1588054,"Sigurd Iversens vei 47B, Ullern",59.921774,10.665081
+1588055,"Sigurd Iversens vei 47C, Ullern",59.921875,10.664889
+1588056,"Sigurd Iversens vei 47D, Ullern",59.921891,10.665087
+1588057,"Sigurd Iversens vei 49A, Ullern",59.921317,10.664121
+1588058,"Sigurd Iversens vei 49B, Ullern",59.921337,10.664129
+1588059,"Sigurd Iversens vei 49C, Ullern",59.921409,10.664114
+1588060,"Sigurd Iversens vei 49D, Ullern",59.921474,10.664132
+1595883,"Tingstuveien 3I, Ullern",59.919875,10.667544
+1595884,"Tingstuveien 3K, Ullern",59.919927,10.667725
+1595885,"Tingstuveien 3L, Ullern",59.919943,10.667851
+1595886,"Tingstuveien 3M, Ullern",59.919968,10.66796
+1595887,"Tingstuveien 4, Ullern",59.920092,10.666678
+1595888,"Tingstuveien 5A, Ullern",59.919705,10.667499
+1595889,"Tingstuveien 5B, Ullern",59.919633,10.66746
+1595890,"Tingstuveien 5C, Ullern",59.919571,10.667439
+1595891,"Tingstuveien 3A, Ullern",59.919879,10.66724
+1595892,"Tingstuveien 3B, Ullern",59.919895,10.667348
+1595893,"Tingstuveien 3C, Ullern",59.919921,10.667475
+1595894,"Tingstuveien 3D, Ullern",59.919972,10.667674
+1595895,"Tingstuveien 3E, Ullern",59.919989,10.667782
+1595896,"Tingstuveien 3F, Ullern",59.920005,10.66789
+1595897,"Tingstuveien 3G, Ullern",59.919833,10.667291
+1595898,"Tingstuveien 3H, Ullern",59.919859,10.667418
+1595899,"Tingstuveien 5M, Ullern",59.919283,10.667514
+1595905,"Tingstuveien 5D, Ullern",59.9195,10.6674
+1595906,"Tingstuveien 5E, Ullern",59.919833,10.668025
+1595907,"Tingstuveien 5F, Ullern",59.919787,10.66813
+1595908,"Tingstuveien 5G, Ullern",59.919731,10.668252
+1595909,"Tingstuveien 5H, Ullern",59.919565,10.667904
+1595910,"Tingstuveien 5I, Ullern",59.919494,10.667811
+1595911,"Tingstuveien 5K, Ullern",59.919433,10.6677
+1595912,"Tingstuveien 5L, Ullern",59.919353,10.667607
+1596406,"Tingstuveien 5N, Ullern",59.919212,10.667421
+1596407,"Tingstuveien 5P, Ullern",59.919629,10.668551
+1596408,"Tingstuveien 5Q, Ullern",59.919567,10.668441
+1596409,"Tingstuveien 5R, Ullern",59.919479,10.668347
+1596410,"Tingstuveien 5S, Ullern",59.919408,10.668236
+1596411,"Tingstuveien 5T, Ullern",59.919347,10.668125
+1596412,"Tingstuveien 8C, Ullern",59.920977,10.667742
+1596413,"Tingstuveien 8D, Ullern",59.920925,10.667632
+1596414,"Tingstuveien 8E, Ullern",59.920881,10.667523
+1596415,"Tingstuveien 8F, Ullern",59.920829,10.667395
+1596416,"Tingstuveien 10C, Ullern",59.921231,10.668274
+1596417,"Tingstuveien 11, Ullern",59.920856,10.670187
+1596418,"Tingstuveien 6A, Ullern",59.920244,10.667416
+1596419,"Tingstuveien 6B, Ullern",59.92043,10.667121
+1596420,"Tingstuveien 6C, Ullern",59.920578,10.667669
+1596421,"Tingstuveien 6D, Ullern",59.920336,10.668032
+1596422,"Tingstuveien 7D, Ullern",59.920278,10.669013
+1596423,"Tingstuveien 8, Ullern",59.920472,10.668611
+1596424,"Tingstuveien 8A, Ullern",59.920663,10.668424
+1596425,"Tingstuveien 8B, Ullern",59.920824,10.667806
+1596426,"Tingstuveien 13, Ullern",59.920768,10.670791
+1596427,"Tingstuveien 14, Ullern",59.921138,10.669969
+1596428,"Tingstuveien 14B, Ullern",59.921445,10.669107
+1596429,"Tingstuveien 15, Ullern",59.921023,10.671197
+1596430,"Tingstuveien 16A, Ullern",59.921396,10.670107
+1596431,"Tingstuveien 16B, Ullern",59.921527,10.669684
+1596432,"Tingstuveien 16C, Ullern",59.921722,10.66947
+1596433,"Tingstuveien 11B, Ullern",59.921007,10.670373
+1596434,"Tingstuveien 12, Ullern",59.921008,10.669551
+1596435,"Tingstuveien 12B, Ullern",59.921193,10.669166
+1596436,"Tingstuveien 12C, Ullern",59.921248,10.669062
+1596437,"Tingstuveien 12D, Ullern",59.921294,10.668939
+1596438,"Tingstuveien 12E, Ullern",59.921359,10.668817
+1596439,"Tingstuveien 12F, Ullern",59.921405,10.66873
+1596440,"Tingstuveien 12G, Ullern",59.921442,10.668642
+1596441,"Tingstuveien 18G, Ullern",59.922243,10.671364
+1596442,"Tingstuveien 19A, Ullern",59.921443,10.671361
+1596443,"Tingstuveien 19B, Ullern",59.921715,10.671912
+1596444,"Tingstuveien 19C, Ullern",59.921496,10.672169
+1596445,"Tingstuveien 19D, Ullern",59.921384,10.672485
+1596446,"Tingstuveien 19E, Ullern",59.921319,10.671963
+1596447,"Tingstuveien 20, Ullern",59.921823,10.671166
+1596448,"Tingstuveien 21, Ullern",59.921843,10.672419
+1596449,"Tingstuveien 17B, Ullern",59.921269,10.670959
+1596450,"Tingstuveien 18, Ullern",59.921621,10.670118
+1596451,"Tingstuveien 18A, Ullern",59.921409,10.670537
+1596452,"Tingstuveien 18B, Ullern",59.921602,10.670886
+1596453,"Tingstuveien 18C, Ullern",59.921941,10.670331
+1596454,"Tingstuveien 18D, Ullern",59.921977,10.670369
+1596455,"Tingstuveien 18E, Ullern",59.922079,10.670785
+1596456,"Tingstuveien 18F, Ullern",59.922106,10.670822
+1596457,"Tingstuveien 30, Ullern",59.922175,10.673134
+1596458,"Tingstuveien 30B, Ullern",59.922299,10.673265
+1596459,"Tingstuveien 32, Ullern",59.922485,10.673507
+1596460,"Tingstuveien 32B, Ullern",59.92252,10.673545
+1596461,"Tingstuveien 32C, Ullern",59.922564,10.6736
+1596462,"Tingstuveien 32D, Ullern",59.9226,10.673638
+1596463,"Tingstuveien 22, Ullern",59.921944,10.671512
+1596464,"Tingstuveien 23, Ullern",59.922001,10.673375
+1596465,"Tingstuveien 24, Ullern",59.922137,10.671879
+1596466,"Tingstuveien 25, Ullern",59.922471,10.673864
+1596467,"Tingstuveien 26A, Ullern",59.922392,10.672339
+1596468,"Tingstuveien 26B, Ullern",59.922489,10.672487
+1596469,"Tingstuveien 27, Ullern",59.92279,10.674238
+1596470,"Tingstuveien 28, Ullern",59.921999,10.672874
+1596478,"Tingstuveien 34, Ullern",59.922772,10.673486
+1596479,"Tingstuveien 36, Ullern",59.922911,10.673922
+1597866,"Tunveien 2, Ullern",59.920633,10.666526
+1597867,"Tunveien 5, Ullern",59.92023,10.666452
+1599073,"Ullernfaret 6F, Ullern",59.922449,10.657887
+1599074,"Ullernfaret 7, Ullern",59.921996,10.659582
+1599075,"Ullernfaret 8A, Ullern",59.922544,10.657462
+1599076,"Ullernfaret 8B, Ullern",59.922605,10.657555
+1599077,"Ullernfaret 8C, Ullern",59.922649,10.657664
+1599078,"Ullernfaret 8D, Ullern",59.922702,10.657739
+1599079,"Ullernfaret 8E, Ullern",59.922745,10.657848
+1599080,"Ullernfaret 8F, Ullern",59.922798,10.657922
+1599081,"Ullernfaret 2, Ullern",59.92178,10.658945
+1599082,"Ullernfaret 4, Ullern",59.921854,10.658734
+1599083,"Ullernfaret 5, Ullern",59.921826,10.659555
+1599084,"Ullernfaret 6A, Ullern",59.922235,10.658449
+1599085,"Ullernfaret 6B, Ullern",59.922291,10.658308
+1599086,"Ullernfaret 6C, Ullern",59.922337,10.658203
+1599088,"Ullernfaret 6D, Ullern",59.922365,10.658097
+1599089,"Ullernfaret 6E, Ullern",59.922402,10.657992
+1599090,"Ullernfaret 14A, Ullern",59.92223,10.658806
+1599091,"Ullernfaret 14B, Ullern",59.922304,10.658649
+1599092,"Ullernfaret 14C, Ullern",59.922359,10.658562
+1599093,"Ullernfaret 14D, Ullern",59.922397,10.658457
+1599094,"Ullernfaret 14E, Ullern",59.922443,10.658352
+1599095,"Ullernfaret 16A, Ullern",59.922189,10.659216
+1599096,"Ullernfaret 16B, Ullern",59.922252,10.659255
+1599097,"Ullernfaret 16C, Ullern",59.922314,10.659311
+1599098,"Ullernfaret 9, Ullern",59.922264,10.659672
+1599099,"Ullernfaret 10A, Ullern",59.922927,10.657678
+1599100,"Ullernfaret 10B, Ullern",59.922865,10.657604
+1599101,"Ullernfaret 10C, Ullern",59.922803,10.657547
+1599102,"Ullernfaret 12A, Ullern",59.922563,10.658072
+1599103,"Ullernfaret 12B, Ullern",59.922616,10.658146
+1599104,"Ullernfaret 12C, Ullern",59.922668,10.658256
+1599105,"Ullernfaret 12D, Ullern",59.922721,10.658348
+1599108,"Ullernfaret 16D, Ullern",59.922376,10.659368
+1599109,"Ullernfaret 16E, Ullern",59.922438,10.659407
+1599110,"Ullernfaret 18, Ullern",59.922579,10.658967
+1600659,"Vennersborgveien 2, Ullern",59.917702,10.657525
+1600660,"Vennersborgveien 2B, Ullern",59.917776,10.658065
+1600661,"Vennersborgveien 2C, Ullern",59.917845,10.65755
+1600662,"Vennersborgveien 3A, Ullern",59.918677,10.660006
+1600663,"Vennersborgveien 3B, Ullern",59.918801,10.660138
+1600664,"Vennersborgveien 4, Ullern",59.917958,10.658629
+1600673,"Vennersborgveien 7D, Ullern",59.91931,10.66036
+1600674,"Vennersborgveien 8A, Ullern",59.918576,10.659483
+1600675,"Vennersborgveien 8B, Ullern",59.918595,10.659394
+1600676,"Vennersborgveien 8C, Ullern",59.918605,10.659323
+1600677,"Vennersborgveien 8D, Ullern",59.918615,10.659234
+1600678,"Vennersborgveien 8E, Ullern",59.918633,10.659181
+1600679,"Vennersborgveien 8F, Ullern",59.918643,10.659092
+1600680,"Vennersborgveien 4B, Ullern",59.918103,10.658529
+1600681,"Vennersborgveien 4C, Ullern",59.918309,10.658503
+1600682,"Vennersborgveien 5, Ullern",59.919004,10.660381
+1600683,"Vennersborgveien 6B, Ullern",59.918485,10.658798
+1600684,"Vennersborgveien 7, Ullern",59.919324,10.660683
+1600685,"Vennersborgveien 7B, Ullern",59.919204,10.660963
+1600686,"Vennersborgveien 7C, Ullern",59.919236,10.661251
+1600687,"Vennersborgveien 13C, Ullern",59.919698,10.662329
+1600688,"Vennersborgveien 13D, Ullern",59.919638,10.662129
+1600689,"Vennersborgveien 15, Ullern",59.920128,10.661743
+1600690,"Vennersborgveien 16, Ullern",59.919753,10.660132
+1600691,"Vennersborgveien 17, Ullern",59.920163,10.661082
+1600692,"Vennersborgveien 17B, Ullern",59.920044,10.661255
+1600693,"Vennersborgveien 18, Ullern",59.919913,10.660247
+1600694,"Vennersborgveien 19, Ullern",59.920417,10.660916
+1600695,"Vennersborgveien 8G, Ullern",59.918689,10.659023
+1600696,"Vennersborgveien 8H, Ullern",59.918699,10.658952
+1600697,"Vennersborgveien 8I, Ullern",59.918718,10.658881
+1600698,"Vennersborgveien 8J, Ullern",59.918737,10.658811
+1600699,"Vennersborgveien 9B, Ullern",59.919675,10.661308
+1600700,"Vennersborgveien 11, Ullern",59.919501,10.661604
+1600701,"Vennersborgveien 13A, Ullern",59.919812,10.661852
+1600702,"Vennersborgveien 13B, Ullern",59.919816,10.662264
+1600711,"Vennersborgveien 20, Ullern",59.920074,10.660327
+1600712,"Vennersborgveien 22, Ullern",59.920246,10.660308
+1600713,"Vennersborgveien 24, Ullern",59.920388,10.660342
+1600714,"Vennersborgveien 26, Ullern",59.920513,10.660366
+1600715,"Vennersborgveien 28, Ullern",59.920648,10.660373
+1600716,"Vennersborgveien 30, Ullern",59.920774,10.660379
+1601377,"Vækerøveien 3, Ullern",59.917241,10.655747
+1601378,"Nedre Skogvei 27, Ullern",59.918184,10.655005
+1603329,"Øvre Skogvei 1, Ullern",59.921299,10.655754
+1603330,"Øvre Skogvei 1A, Ullern",59.921077,10.655511
+1603331,"Øvre Skogvei 1B, Ullern",59.921321,10.655416
+1603332,"Øvre Skogvei 2A, Ullern",59.921301,10.656327
+1603333,"Øvre Skogvei 2B, Ullern",59.921079,10.656835
+1603334,"Øvre Skogvei 4, Ullern",59.92061,10.656972
+1603343,"Øvre Skogvei 11, Ullern",59.91959,10.654524
+1603344,"Øvre Skogvei 12A, Ullern",59.919288,10.654974
+1603345,"Øvre Skogvei 13A, Ullern",59.919613,10.653416
+1603346,"Øvre Skogvei 13B, Ullern",59.919639,10.653454
+1603347,"Øvre Skogvei 13C, Ullern",59.919667,10.653401
+1603348,"Øvre Skogvei 13D, Ullern",59.919632,10.653346
+1603349,"Øvre Skogvei 14, Ullern",59.918893,10.654239
+1603350,"Øvre Skogvei 14B, Ullern",59.918858,10.654846
+1603351,"Øvre Skogvei 6, Ullern",59.92078,10.656265
+1603352,"Øvre Skogvei 8, Ullern",59.920361,10.656083
+1603353,"Øvre Skogvei 8D, Ullern",59.919996,10.655761
+1603354,"Øvre Skogvei 8E, Ullern",59.919939,10.656009
+1603355,"Øvre Skogvei 8F, Ullern",59.919736,10.655802
+1603356,"Øvre Skogvei 8G, Ullern",59.919793,10.655554
+1603357,"Øvre Skogvei 9, Ullern",59.919873,10.654878
+1603358,"Øvre Skogvei 10A, Ullern",59.919612,10.655468
+1603359,"Øvre Skogvei 18, Ullern",59.918532,10.653631
+1603360,"Øvre Skogvei 19, Ullern",59.919409,10.653854
+1603361,"Øvre Skogvei 21, Ullern",59.919321,10.653692
+1603362,"Øvre Skogvei 23, Ullern",59.919258,10.653832
+1603363,"Øvre Skogvei 25, Ullern",59.919187,10.653969
+1603367,"Øvre Skogvei 14C, Ullern",59.918741,10.654178
+1603368,"Øvre Skogvei 15A, Ullern",59.919435,10.653264
+1603369,"Øvre Skogvei 15B, Ullern",59.919461,10.653337
+1603370,"Øvre Skogvei 15C, Ullern",59.919479,10.65332
+1603371,"Øvre Skogvei 15D, Ullern",59.919489,10.653267
+1603372,"Øvre Skogvei 15E, Ullern",59.91948,10.653231
+1603373,"Øvre Skogvei 15F, Ullern",59.919453,10.65323
+1603374,"Øvre Skogvei 17, Ullern",59.9193,10.654118
+1607557,"Fagertunveien 12A, Ullern",59.922963,10.662654
+1607933,"Olsens Enkes vei 1, Ullern",59.924457,10.668096
+1607946,"Olsens Enkes vei 3, Ullern",59.92423,10.667601
+1607947,"Olsens Enkes vei 2, Ullern",59.924336,10.667786
+1607948,"Olsens Enkes vei 5, Ullern",59.924293,10.668284
+1607949,"Olsens Enkes vei 4, Ullern",59.92407,10.66745
+1608593,"Fagertunveien 4D, Ullern",59.922693,10.662694
+1608596,"Fagertunveien 4C, Ullern",59.922543,10.662543
+1608597,"Fagertunveien 4A, Ullern",59.922241,10.662242
+1608877,"Adventveien 8C, Ullern",59.922213,10.664441
+1608879,"Adventveien 8A, Ullern",59.922194,10.66544
+1608880,"Adventveien 8D, Ullern",59.922059,10.664576
+1608882,"Adventveien 8B, Ullern",59.922243,10.664943
+1609291,"Øvre Skogvei 27, Ullern",59.919176,10.65318
+1609722,"Bestumveien 51, Ullern",59.921924,10.654569
+1611359,"Tingstuveien 9C, Ullern",59.920497,10.670223
+1613132,"Bestumveien 35B, Ullern",59.921611,10.658096
+1613137,"Bestumveien 35A, Ullern",59.921567,10.658022
+1613177,"Bestumveien 35C, Ullern",59.921758,10.657817
+1613253,"Øvre Skogvei 29, Ullern",59.918931,10.653329
+1613484,"Bestumåsen 4A, Ullern",59.920737,10.654743
+1613487,"Bestumåsen 4B, Ullern",59.920558,10.65468
+1615677,"Bestumveien 37E, Ullern",59.92203,10.657598
+1615705,"Bestumveien 37F, Ullern",59.922101,10.657709
+1615707,"Bestumveien 37B, Ullern",59.922139,10.657496
+1615709,"Bestumveien 37D, Ullern",59.922227,10.657643
+1615711,"Bestumveien 37C, Ullern",59.922201,10.657606
+1615713,"Bestumveien 37A, Ullern",59.922112,10.657477
+1615715,"Bestumveien 37H, Ullern",59.922198,10.657821
+1615884,"Bestumveien 33F, Ullern",59.922062,10.657903
+1615887,"Bestumveien 33E, Ullern",59.922007,10.658044
+1615898,"Bestumveien 33D, Ullern",59.921998,10.65839
+1615899,"Bestumveien 33C, Ullern",59.921992,10.658455
+1619940,"Bestumveien 37G, Ullern",59.922127,10.657728
+1620448,"Øvre Skogvei 7C, Ullern",59.920222,10.654949
+1620450,"Øvre Skogvei 7A, Ullern",59.920172,10.655341
+1620452,"Øvre Skogvei 7B, Ullern",59.920192,10.655198
+1620454,"Øvre Skogvei 7E, Ullern",59.920048,10.655245
+1620487,"Øvre Skogvei 7F, Ullern",59.919985,10.655206
+1620489,"Øvre Skogvei 7D, Ullern",59.920233,10.654825
+1620614,"Øvre Skogvei 5A, Ullern",59.920609,10.655641
+1620616,"Øvre Skogvei 5C, Ullern",59.92064,10.655439
+1620617,"Øvre Skogvei 5B, Ullern",59.920617,10.655586
+1620634,"Øvre Skogvei 5E, Ullern",59.920424,10.655491
+1620635,"Øvre Skogvei 5D, Ullern",59.920646,10.655377
+1620636,"Øvre Skogvei 5G, Ullern",59.920463,10.655298
+1620637,"Øvre Skogvei 5F, Ullern",59.920432,10.655443
+1620640,"Øvre Skogvei 5H, Ullern",59.92047,10.655248
+1620928,"Vennersborgveien 10C, Ullern",59.918988,10.659557
+1620930,"Vennersborgveien 10B, Ullern",59.918969,10.659645
+1620932,"Vennersborgveien 10E, Ullern",59.919016,10.659415
+1620934,"Vennersborgveien 10D, Ullern",59.918998,10.659486
+1620936,"Vennersborgveien 10A, Ullern",59.91895,10.659734
+1620938,"Vennersborgveien 10F, Ullern",59.919017,10.659344
+1621223,"Nedre Skogvei 6F, Ullern",59.919212,10.658137
+1621806,"Bestumåsen 1A, Ullern",59.920904,10.654286
+1621807,"Bestumåsen 1C, Ullern",59.920881,10.653945
+1621808,"Bestumåsen 1B, Ullern",59.920905,10.654214
+1621824,"Bestumåsen 1E, Ullern",59.920704,10.653811
+1621825,"Bestumåsen 1D, Ullern",59.920882,10.653873
+1621826,"Bestumåsen 1G, Ullern",59.920681,10.654167
+1621827,"Bestumåsen 1F, Ullern",59.920694,10.653882
+1621829,"Bestumåsen 1H, Ullern",59.92068,10.654239
+1621970,"Tingstuveien 7A, Ullern",59.920194,10.668562
+1621972,"Tingstuveien 7F, Ullern",59.920042,10.669497
+1621973,"Tingstuveien 7C, Ullern",59.91989,10.669226
+1622623,"Fagertunveien 4F, Ullern",59.922533,10.661899
+1622624,"Fagertunveien 4E, Ullern",59.922738,10.662732
+1622625,"Fagertunveien 4G, Ullern",59.922528,10.661594
+1622915,"Bakkeveien 19, Ullern",59.919863,10.656381
+1622933,"Bakkeveien 21, Ullern",59.919717,10.65657
+1622934,"Bakkeveien 17, Ullern",59.920282,10.656616
+1623684,"Drammensveien 217, Ullern",59.917693,10.659707
+1623923,"Bakkeveien 11, Ullern",59.920606,10.657312
+1624429,"Vennersborgveien 21A, Ullern",59.920508,10.661493
+1624432,"Vennersborgveien 21B, Ullern",59.920489,10.6616
+1624509,"Øvre Skogvei 16A, Ullern",59.918338,10.654051
+1625243,"Vennersborgveien 12A, Ullern",59.919103,10.659706
+1625244,"Vennersborgveien 12C, Ullern",59.919173,10.659799
+1625245,"Vennersborgveien 12B, Ullern",59.919147,10.659779
+1625246,"Vennersborgveien 12E, Ullern",59.919254,10.659838
+1625247,"Vennersborgveien 12D, Ullern",59.919218,10.659819
+1625256,"Vennersborgveien 14B, Ullern",59.919505,10.659869
+1625257,"Vennersborgveien 12F, Ullern",59.919298,10.659859
+1625258,"Vennersborgveien 14D, Ullern",59.919525,10.659709
+1625259,"Vennersborgveien 14C, Ullern",59.919514,10.659816
+1625260,"Vennersborgveien 14E, Ullern",59.919534,10.659656
+1626279,"Bakkeveien 2B, Ullern",59.920791,10.658269
+1626281,"Bakkeveien 2A, Ullern",59.920903,10.657971
+1626368,"Øvre Skogvei 12B, Ullern",59.919298,10.654921
+1626568,"Bestumåsen 3B, Ullern",59.920336,10.653739
+1626569,"Bestumåsen 3A, Ullern",59.920511,10.654087
+1627243,"Nedre Skogvei 10A, Ullern",59.918416,10.657918
+1627245,"Nedre Skogvei 10B, Ullern",59.918444,10.657812
+1627262,"Nedre Skogvei 10C, Ullern",59.918463,10.657724
+1627448,"Bakkeveien 13, Ullern",59.920499,10.657253
+1628003,"Tingstuveien 9B, Ullern",59.920486,10.669632
+1628005,"Tingstuveien 9D, Ullern",59.920709,10.669768
+1628009,"Tingstuveien 9A, Ullern",59.920354,10.66941
+1628056,"Bestumveien 5B, Ullern",59.919913,10.665918
+1628060,"Bestumveien 5D, Ullern",59.919856,10.666237
+1628062,"Bestumveien 5C, Ullern",59.919975,10.666046
+1628093,"Bestumveien 5E, Ullern",59.919803,10.666109
+1628441,"Øvre Skogvei 16B, Ullern",59.91831,10.65421
+1628479,"Fagertunveien 12B, Ullern",59.923098,10.662642
+1628481,"Fagertunveien 12C, Ullern",59.923163,10.663218
+1628485,"Fagertunveien 12D, Ullern",59.923143,10.66336
+1628874,"Bestumveien 5A, Ullern",59.919718,10.665765
+1629204,"Øvre Skogvei 14D, Ullern",59.918695,10.654283
+1629206,"Øvre Skogvei 14E, Ullern",59.918657,10.654442
+1629590,"Bestumveien 31A, Ullern",59.921479,10.658608
+1629593,"Bestumveien 31B, Ullern",59.921378,10.658746
+1629651,"Bestumåsen 5A, Ullern",59.920049,10.653689
+1629653,"Bestumåsen 5B, Ullern",59.920031,10.653741
+1629803,"Øvre Skogvei 16C, Ullern",59.918432,10.654449
+1629806,"Øvre Skogvei 16D, Ullern",59.918404,10.654555
+1630086,"Øvre Skogvei 3A, Ullern",59.920906,10.655543
+1630087,"Øvre Skogvei 3B, Ullern",59.920975,10.655559
+1630280,"Ullernfaret 1A, Ullern",59.921442,10.659375
+1630282,"Ullernfaret 3A, Ullern",59.921468,10.659412
+1630283,"Ullernfaret 1B, Ullern",59.921389,10.659337
+1630284,"Ullernfaret 3C, Ullern",59.921566,10.659489
+1630285,"Ullernfaret 3B, Ullern",59.921551,10.659309
+1630380,"Bestumveien 25B, Ullern",59.921365,10.659765
+1630381,"Bestumveien 25A, Ullern",59.921254,10.66001
+1630612,"Vennersborgveien 9C, Ullern",59.919659,10.661147
+1630613,"Vennersborgveien 9A, Ullern",59.919656,10.660817
+1630645,"Bestumveien 17C, Ullern",59.922321,10.663766
+1630656,"Bestumveien 17B, Ullern",59.92226,10.663602
+1630657,"Bestumveien 17A, Ullern",59.921923,10.663943
+1631122,"Nedre Skogvei 7A, Ullern",59.919716,10.657393
+1631124,"Nedre Skogvei 7B, Ullern",59.919741,10.657519
+1658086,"Øvre Skogvei 10B, Ullern",59.919566,10.655423
+1748411,"Bestumveien 39B, Ullern",59.922363,10.657158
+1748678,"Elmholtveien 3C, Ullern",59.924975,10.667138
+1748679,"Elmholtveien 3B, Ullern",59.924896,10.667248
+1748682,"Elmholtveien 3D, Ullern",59.925001,10.666967
+1774086,"Bestum tverrvei 7, Ullern",59.918968,10.655631
+1774088,"Bestum tverrvei 5, Ullern",59.919099,10.655788
+1774134,"Bestum tverrvei 9, Ullern",59.918868,10.65581
+1774137,"Bestum tverrvei 13, Ullern",59.918696,10.656154
+1774138,"Bestum tverrvei 11, Ullern",59.918771,10.655952
+1781431,"Bestumveien 41D, Ullern",59.922378,10.656422
+1825769,"Bestumveien 17E, Ullern",59.921842,10.663463
+1825770,"Bestumveien 17D, Ullern",59.921935,10.663464
+1834374,"Adventveien 4B, Ullern",59.922678,10.666445
+1864580,"Bakkeveien 7, Ullern",59.921178,10.657316
+1864582,"Bakkeveien 5, Ullern",59.921138,10.657541
+1957629,"Nedre Skogvei 3C, Ullern",59.919753,10.65823
+1957630,"Nedre Skogvei 3B, Ullern",59.919809,10.658247
+1957724,"Nedre Skogvei 3E, Ullern",59.919775,10.658594
+1957725,"Nedre Skogvei 3D, Ullern",59.919785,10.658475
+1969755,"Adventveien 4C, Ullern",59.922497,10.66618
+1989633,"Bestumveien 40, Ullern",59.921404,10.657395
+1994851,"Nedre Skogvei 3F, Ullern",59.920065,10.658609
+1996357,"Elmholtveien 14E, Ullern",59.923663,10.666676
+1996365,"Elmholtveien 14D, Ullern",59.923621,10.666445
+1996367,"Elmholtveien 14C, Ullern",59.923597,10.666389
+1996370,"Elmholtveien 14B, Ullern",59.923463,10.666369
+1997150,"Bestum tverrvei 10, Ullern",59.919213,10.657067
+1997155,"Bestum tverrvei 8, Ullern",59.919193,10.656739
+1997158,"Bestum tverrvei 12, Ullern",59.919289,10.657196
+2005892,"Vennersborgveien 6A, Ullern",59.918441,10.6592
+2005894,"Vennersborgveien 6C, Ullern",59.918505,10.658415
+2005896,"Vennersborgveien 6D, Ullern",59.918558,10.658464
+2005897,"Vennersborgveien 6E, Ullern",59.918614,10.658519
+2013713,"Tingstuveien 7B, Ullern",59.919999,10.668452
+2046565,"Tingstuveien 17A, Ullern",59.921188,10.670798
+2050299,"Fagertunveien 6G, Ullern",59.923344,10.661549
+2050919,"Fagertunveien 6D, Ullern",59.923134,10.662006
+2050920,"Fagertunveien 6C, Ullern",59.923109,10.661965
+2050922,"Fagertunveien 6F, Ullern",59.92319,10.661384
+2051026,"Fagertunveien 6B, Ullern",59.923089,10.661935
+2053966,"Nedre Skogvei 14B, Ullern",59.917964,10.656501
+2070035,"Nedre Skogvei 29, Ullern",59.918209,10.654661
+2070036,"Nedre Skogvei 31, Ullern",59.918131,10.654575
+2070037,"Nedre Skogvei 25, Ullern",59.918508,10.654778
+2070038,"Nedre Skogvei 21, Ullern",59.91835,10.655278
+2070040,"Nedre Skogvei 19, Ullern",59.918298,10.65538
+2070225,"Nedre Skogvei 17, Ullern",59.918256,10.655447
+2189498,"Sigurd Iversens vei 31, Ullern",59.921999,10.666516
+2189504,"Sigurd Iversens vei 27, Ullern",59.922134,10.666702
+2189508,"Sigurd Iversens vei 33, Ullern",59.921962,10.66631
+2189509,"Sigurd Iversens vei 35, Ullern",59.921927,10.666386
+2196508,"Vennersborgveien 14F, Ullern",59.919557,10.659512
+2196582,"Vennersborgveien 14A, Ullern",59.919467,10.660003
+2264882,"Bestumveien 33A, Ullern",59.921801,10.658304
+2358326,"Bestumveien 44A, Ullern",59.921552,10.655588
+2358327,"Bestumveien 44B, Ullern",59.921501,10.655353
+2387678,"Tingstuveien 16E, Ullern",59.921852,10.669895
+2387680,"Tingstuveien 16D, Ullern",59.921921,10.669754
+2455258,"Tingstuveien 10F, Ullern",59.92069,10.669159
+2455263,"Tingstuveien 10E, Ullern",59.921038,10.66877
+2455311,"Tingstuveien 10D, Ullern",59.921103,10.668639
+2462661,"Bestumveien 20B, Ullern",59.920787,10.662811
+2466293,"Nedre Skogvei 33, Ullern",59.918154,10.654857
+2475438,"Fagertunveien 1B, Ullern",59.921775,10.662769
+2475439,"Fagertunveien 1A, Ullern",59.92177,10.662898
+2475509,"Bestumveien 19A, Ullern",59.921358,10.663334
+2475511,"Bestumveien 19H, Ullern",59.921613,10.663416
+2475512,"Bestumveien 19G, Ullern",59.921592,10.663406
+2475513,"Bestumveien 19F, Ullern",59.921535,10.663387
+2475514,"Bestumveien 19E, Ullern",59.921512,10.663381
+2475515,"Bestumveien 19D, Ullern",59.921458,10.663369
+2475516,"Bestumveien 19C, Ullern",59.921434,10.663359
+2475517,"Bestumveien 21A, Ullern",59.92141,10.662451
+2475719,"Nedre Skogvei 8A, Ullern",59.918943,10.657735
+2475720,"Nedre Skogvei 8B, Ullern",59.918888,10.657625
+2476179,"Nedre Skogvei 1E, Ullern",59.920181,10.65848
+2476189,"Nedre Skogvei 1A, Ullern",59.920158,10.659147
+2476191,"Nedre Skogvei 1D, Ullern",59.920284,10.658532
+2476193,"Nedre Skogvei 1C, Ullern",59.920392,10.658566

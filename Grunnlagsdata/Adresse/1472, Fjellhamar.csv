@@ -1,0 +1,646 @@
+,Navn,Long,Lat
+569753,"Blåkollveien 3, Fjellhamar",59.937681,10.99211
+569754,"Blåkollveien 2, Fjellhamar",59.93772,10.991306
+569755,"Blåkollveien 4, Fjellhamar",59.937942,10.992107
+569756,"Blåkollveien 3B, Fjellhamar",59.937482,10.992223
+569759,"Blåkollveien 1, Fjellhamar",59.937501,10.991562
+569777,"Blåkollveien 10, Fjellhamar",59.938475,10.993679
+569778,"Blåkollveien 9, Fjellhamar",59.938092,10.993441
+569780,"Blåkollveien 11, Fjellhamar",59.938211,10.993896
+569781,"Blåkollveien 6, Fjellhamar",59.938114,10.992637
+569782,"Blåkollveien 5, Fjellhamar",59.937801,10.992528
+569783,"Blåkollveien 8, Fjellhamar",59.938303,10.993167
+569784,"Blåkollveien 7A, Fjellhamar",59.93793,10.992912
+570109,"Edvard Griegs vei 2, Fjellhamar",59.938881,10.984645
+570110,"Edvard Griegs vei 1, Fjellhamar",59.938952,10.984095
+570123,"Edvard Griegs vei 13, Fjellhamar",59.937721,10.981121
+570124,"Edvard Griegs vei 12, Fjellhamar",59.937566,10.981291
+570125,"Edvard Griegs vei 14B, Fjellhamar",59.93708,10.980743
+570126,"Edvard Griegs vei 14, Fjellhamar",59.937148,10.981016
+570127,"Edvard Griegs vei 8B, Fjellhamar",59.93814,10.983044
+570128,"Edvard Griegs vei 8, Fjellhamar",59.938298,10.983411
+570129,"Edvard Griegs vei 10, Fjellhamar",59.93802,10.982732
+570130,"Edvard Griegs vei 9, Fjellhamar",59.938211,10.981992
+570131,"Edvard Griegs vei 5B, Fjellhamar",59.938546,10.983032
+570132,"Edvard Griegs vei 5, Fjellhamar",59.938704,10.983239
+570133,"Edvard Griegs vei 6, Fjellhamar",59.938472,10.983762
+570134,"Edvard Griegs vei 5C, Fjellhamar",59.938443,10.982668
+570135,"Edvard Griegs vei 3B, Fjellhamar",59.938745,10.983527
+570136,"Edvard Griegs vei 3, Fjellhamar",59.938929,10.98361
+570137,"Edvard Griegs vei 4, Fjellhamar",59.938646,10.984148
+570138,"Edvard Griegs vei 3C, Fjellhamar",59.938811,10.983299
+570139,"Edvard Griegs vei 22, Fjellhamar",59.936036,10.980323
+570140,"Edvard Griegs vei 21C, Fjellhamar",59.936377,10.979717
+570141,"Edvard Griegs vei 25, Fjellhamar",59.935953,10.97987
+570142,"Edvard Griegs vei 23, Fjellhamar",59.936088,10.979789
+570143,"Edvard Griegs vei 20B, Fjellhamar",59.9363,10.980643
+570144,"Edvard Griegs vei 20, Fjellhamar",59.936235,10.980191
+570145,"Edvard Griegs vei 21B, Fjellhamar",59.936448,10.979757
+570146,"Edvard Griegs vei 21, Fjellhamar",59.936629,10.979714
+570147,"Edvard Griegs vei 17B, Fjellhamar",59.936905,10.979873
+570148,"Edvard Griegs vei 17, Fjellhamar",59.937159,10.980264
+570149,"Edvard Griegs vei 19, Fjellhamar",59.936779,10.97983
+570150,"Edvard Griegs vei 18, Fjellhamar",59.936548,10.980317
+570151,"Edvard Griegs vei 15B, Fjellhamar",59.937596,10.980487
+570152,"Edvard Griegs vei 15, Fjellhamar",59.937458,10.980712
+570153,"Edvard Griegs vei 16B, Fjellhamar",59.936854,10.980873
+570154,"Edvard Griegs vei 16, Fjellhamar",59.936772,10.980313
+570458,"Fjellhamarveien 49, Fjellhamar",59.940438,10.990986
+570459,"Fjellhamarveien 46, Fjellhamar",59.941367,10.989502
+570460,"Fjellhamarveien 39, Fjellhamar",59.941968,10.993172
+570461,"Fjellhamarveien 38A, Fjellhamar",59.943838,10.993034
+570462,"Fjellhamarveien 43, Fjellhamar",59.941512,10.992447
+570463,"Bråtaveien 56, Fjellhamar",59.941627,10.992508
+570464,"Fjellhamarveien 33, Fjellhamar",59.942792,10.994475
+570465,"Fjellhamarveien 31B, Fjellhamar",59.943163,10.994927
+570466,"Fjellhamarveien 38, Fjellhamar",59.944089,10.993676
+570467,"Fjellhamarveien 37, Fjellhamar",59.942222,10.993564
+570468,"Fjellhamarveien 27, Fjellhamar",59.944326,10.994639
+570470,"Fjellhamarveien 31, Fjellhamar",59.942961,10.994628
+570471,"Fjellhamarveien 29, Fjellhamar",59.943355,10.994652
+570480,"Fjellhamarveien 56C, Fjellhamar",59.940464,10.985098
+570481,"Fjellhamarveien 55, Fjellhamar",59.939734,10.985429
+570483,"Fjellhamarveien 58, Fjellhamar",59.940544,10.983921
+570484,"Fjellhamarveien 51, Fjellhamar",59.940041,10.991106
+570485,"Fjellhamarveien 50, Fjellhamar",59.940492,10.986782
+570486,"Fjellhamarveien 53, Fjellhamar",59.939885,10.990559
+570487,"Fjellhamarveien 52, Fjellhamar",59.941108,10.987625
+570982,"Halfdan Kjerulfs vei 9, Fjellhamar",59.937164,10.985903
+570983,"Halfdan Kjerulfs vei 8, Fjellhamar",59.937315,10.98602
+570986,"Halfdan Kjerulfs vei 5, Fjellhamar",59.937333,10.984821
+570987,"Halfdan Kjerulfs vei 4, Fjellhamar",59.937534,10.985209
+570988,"Halfdan Kjerulfs vei 7, Fjellhamar",59.937284,10.985123
+570989,"Halfdan Kjerulfs vei 6, Fjellhamar",59.937466,10.985527
+570990,"Halfdan Kjerulfs vei 2, Fjellhamar",59.937897,10.98319
+570991,"Halfdan Kjerulfs vei 1, Fjellhamar",59.937657,10.983015
+570992,"Halfdan Kjerulfs vei 3, Fjellhamar",59.937578,10.983458
+570993,"Halfdan Kjerulfs vei 2A, Fjellhamar",59.937821,10.983472
+571075,"Gamleveien 261, Fjellhamar",59.936943,11.008193
+571076,"Gamleveien 258, Fjellhamar",59.939185,11.00729
+571077,"Gamleveien 264, Fjellhamar",59.939671,11.008412
+571078,"Gamleveien 252, Fjellhamar",59.938747,11.007121
+571080,"Gamleveien 256, Fjellhamar",59.939042,11.007246
+571081,"Gamleveien 254, Fjellhamar",59.93889,11.007201
+571986,"Kloppaveien 10, Fjellhamar",59.934138,10.979279
+572003,"Kloppaveien 30, Fjellhamar",59.93478,10.979586
+572004,"Kloppaveien 20, Fjellhamar",59.933175,10.977646
+572203,"Johan Svendsens vei 1, Fjellhamar",59.937708,10.982571
+572205,"Johan Selmers vei 3A, Fjellhamar",59.937761,10.986261
+572206,"Johan Selmers vei 5B, Fjellhamar",59.937869,10.98684
+572207,"Johan Selmers vei 5, Fjellhamar",59.937754,10.986726
+572208,"Johan Selmers vei 1, Fjellhamar",59.937874,10.985319
+572210,"Johan Selmers vei 4, Fjellhamar",59.938102,10.986727
+572211,"Johan Selmers vei 3, Fjellhamar",59.937902,10.985822
+572212,"Johan Selmers vei 2, Fjellhamar",59.938041,10.986152
+572827,"Lørdagsrudveien 12B, Fjellhamar",59.938639,10.989947
+572828,"Lørdagsrudveien 12, Fjellhamar",59.938444,10.989775
+572829,"Lørdagsrudveien 18, Fjellhamar",59.937806,10.990417
+572830,"Lørdagsrudveien 16, Fjellhamar",59.937978,10.990284
+572831,"Lørdagsrudveien 2, Fjellhamar",59.939347,10.989489
+572833,"Lørdagsrudveien 10, Fjellhamar",59.938549,10.989387
+572834,"Lørdagsrudveien 8, Fjellhamar",59.938811,10.989295
+572849,"Lørdagsrudveien 27, Fjellhamar",59.936405,10.988578
+572850,"Lørdagsrudveien 26, Fjellhamar",59.937181,10.991936
+572852,"Lørdagsrudveien 28, Fjellhamar",59.937281,10.992461
+572853,"Lørdagsrudveien 20, Fjellhamar",59.937595,10.990708
+572854,"Lørdagsrudveien 18B, Fjellhamar",59.937742,10.990449
+572855,"Lørdagsrudveien 25, Fjellhamar",59.936651,10.988969
+572856,"Lørdagsrudveien 24, Fjellhamar",59.937195,10.991042
+573204,"Oscar Borgs vei 27, Fjellhamar",59.937306,10.98661
+573206,"Oscar Borgs vei 19, Fjellhamar",59.936478,10.986757
+573207,"Oscar Borgs vei 21, Fjellhamar",59.936626,10.986462
+573208,"Oscar Borgs vei 13, Fjellhamar",59.936682,10.985749
+573209,"Oscar Borgs vei 15, Fjellhamar",59.936387,10.986197
+573210,"Oscar Borgs vei 8, Fjellhamar",59.93709,10.985487
+573211,"Oscar Borgs vei 11, Fjellhamar",59.936588,10.985368
+573212,"Oscar Borgs vei 5, Fjellhamar",59.936072,10.985068
+573213,"Oscar Borgs vei 7, Fjellhamar",59.936163,10.985557
+573228,"Marcus Thranes vei 93, Fjellhamar",59.938229,10.981384
+573231,"Marcus Thranes vei 91, Fjellhamar",59.938027,10.981122
+573236,"Marcus Thranes vei 89, Fjellhamar",59.937844,10.980735
+573237,"Marcus Thranes vei 83, Fjellhamar",59.936853,10.976094
+573242,"Marcus Thranes vei 110A, Fjellhamar",59.939622,10.980143
+573245,"Marcus Thranes vei 103, Fjellhamar",59.939623,10.983097
+573246,"Marcus Thranes vei 101B, Fjellhamar",59.939216,10.983287
+573247,"Marcus Thranes vei 110, Fjellhamar",59.939916,10.982684
+573248,"Marcus Thranes vei 103B, Fjellhamar",59.939451,10.983749
+573249,"Marcus Thranes vei 99B, Fjellhamar",59.938925,10.982894
+573250,"Marcus Thranes vei 99, Fjellhamar",59.939065,10.982562
+573251,"Marcus Thranes vei 101, Fjellhamar",59.939302,10.982898
+573252,"Marcus Thranes vei 100, Fjellhamar",59.9388,10.979761
+573253,"Marcus Thranes vei 95, Fjellhamar",59.93843,10.981772
+573255,"Marcus Thranes vei 97B, Fjellhamar",59.938796,10.98251
+573256,"Marcus Thranes vei 95B, Fjellhamar",59.938684,10.982199
+573363,"Ole Bulls vei 2, Fjellhamar",59.936423,10.982619
+573392,"Ole Bulls vei 4A, Fjellhamar",59.936346,10.982972
+573393,"Ringveien 12, Fjellhamar",59.939222,10.990627
+573394,"Ringveien 13, Fjellhamar",59.93952,10.992309
+573395,"Ringveien 11, Fjellhamar",59.939513,10.991557
+573396,"Ringveien 30, Fjellhamar",59.938522,10.994165
+573397,"Ringveien 32, Fjellhamar",59.938355,10.994477
+573398,"Ringveien 26, Fjellhamar",59.938896,10.993776
+573399,"Ringveien 28, Fjellhamar",59.938686,10.993996
+573400,"Ringveien 24, Fjellhamar",59.939124,10.993539
+573401,"Ringveien 25, Fjellhamar",59.937891,10.99427
+573402,"Ringveien 21, Fjellhamar",59.93811,10.994086
+573403,"Ringveien 22, Fjellhamar",59.939288,10.993352
+573404,"Ringveien 19B, Fjellhamar",59.93859,10.993184
+573405,"Ringveien 20, Fjellhamar",59.939777,10.991895
+573406,"Ringveien 18, Fjellhamar",59.93968,10.991209
+573407,"Ringveien 19, Fjellhamar",59.938739,10.99348
+573408,"Ringveien 15, Fjellhamar",59.939177,10.993023
+573409,"Ringveien 17, Fjellhamar",59.938976,10.993243
+573410,"Ringveien 13B, Fjellhamar",59.939351,10.992765
+573411,"Ringveien 14, Fjellhamar",59.939391,10.990691
+573476,"Rikard Nordraaks vei 7B, Fjellhamar",59.938063,10.984042
+573477,"Rikard Nordraaks vei 8, Fjellhamar",59.938872,10.985844
+573478,"Rikard Nordraaks vei 6, Fjellhamar",59.938867,10.986775
+573479,"Rikard Nordraaks vei 7, Fjellhamar",59.93812,10.984475
+573480,"Rikard Nordraaks vei 5, Fjellhamar",59.938483,10.984836
+573481,"Rikard Nordraaks vei 5B, Fjellhamar",59.938342,10.984667
+573482,"Rikard Nordraaks vei 2B, Fjellhamar",59.939393,10.986985
+573483,"Rikard Nordraaks vei 4A, Fjellhamar",59.939294,10.98646
+573485,"Rikard Nordraaks vei 2, Fjellhamar",59.939755,10.98681
+573492,"Rikard Nordraaks vei 19, Fjellhamar",59.935905,10.984217
+573493,"Rikard Nordraaks vei 20, Fjellhamar",59.937287,10.984317
+573494,"Rikard Nordraaks vei 17B, Fjellhamar",59.936606,10.984205
+573495,"Rikard Nordraaks vei 18, Fjellhamar",59.937624,10.98457
+573496,"Rikard Nordraaks vei 15B, Fjellhamar",59.936916,10.983329
+573497,"Rikard Nordraaks vei 14B, Fjellhamar",59.938205,10.985393
+573498,"Rikard Nordraaks vei 15D, Fjellhamar",59.936805,10.9838
+573499,"Rikard Nordraaks vei 13C, Fjellhamar",59.937232,10.983204
+573500,"Rikard Nordraaks vei 14, Fjellhamar",59.938254,10.985109
+573501,"Rikard Nordraaks vei 13, Fjellhamar",59.937143,10.983718
+573502,"Rikard Nordraaks vei 13A, Fjellhamar",59.937229,10.983365
+573503,"Rikard Nordraaks vei 11, Fjellhamar",59.9375,10.983883
+573504,"Rikard Nordraaks vei 9, Fjellhamar",59.937741,10.984004
+573505,"Rikard Nordraaks vei 10, Fjellhamar",59.938436,10.986713
+573506,"Ringveien 7A, Fjellhamar",59.938964,10.991023
+573507,"Ringveien 8, Fjellhamar",59.938799,10.990673
+573508,"Ringveien 6, Fjellhamar",59.938554,10.990837
+573509,"Ringveien 6A, Fjellhamar",59.938498,10.990386
+573510,"Rikard Nordraaks vei 16, Fjellhamar",59.937953,10.984887
+573511,"Ringveien 4A, Fjellhamar",59.938317,10.991038
+573512,"Ringveien 5, Fjellhamar",59.938638,10.991218
+573513,"Ringveien 2, Fjellhamar",59.938063,10.991255
+573514,"Ringveien 3, Fjellhamar",59.938392,10.991472
+573515,"Rikard Nordraaks vei 34, Fjellhamar",59.935189,10.984554
+573516,"Ringveien 1, Fjellhamar",59.938219,10.991587
+573517,"Rikard Nordraaks vei 24, Fjellhamar",59.936236,10.984906
+573518,"Rikard Nordraaks vei 32, Fjellhamar",59.935541,10.984972
+573519,"Rikard Nordraaks vei 22, Fjellhamar",59.936891,10.984383
+573520,"Oscar Borgs vei 1, Fjellhamar",59.936504,10.984895
+573521,"Rikard Nordraaks vei 21, Fjellhamar",59.935693,10.983417
+573522,"Rikard Nordraaks vei 21B, Fjellhamar",59.935742,10.983742
+573523,"Ringveien 10, Fjellhamar",59.939052,10.990545
+573524,"Ringveien 9, Fjellhamar",59.939198,10.991037
+573525,"Ringveien 9B, Fjellhamar",59.939304,10.991115
+573770,"Ringveien 34, Fjellhamar",59.938264,10.994597
+574375,"Strømsveien 230B, Fjellhamar",59.939556,11.000582
+574376,"Strømsveien 230C, Fjellhamar",59.939734,10.999501
+574377,"Strømsveien 230A, Fjellhamar",59.939674,10.999891
+574390,"Strømsveien 235, Fjellhamar",59.939347,11.001375
+574391,"Strømsveien 239, Fjellhamar",59.939065,11.001573
+574392,"Strømsveien 233, Fjellhamar",59.939262,11.001047
+574487,"Strømsveien 224B, Fjellhamar",59.93905,10.997848
+574488,"Vittenbergveien 71, Fjellhamar",59.93796,10.998526
+574489,"Strømsveien 224, Fjellhamar",59.93874,10.997543
+574490,"Strømsveien 224A, Fjellhamar",59.938743,10.997919
+574491,"Strømsveien 223, Fjellhamar",59.938349,10.997824
+574492,"Strømsveien 223B, Fjellhamar",59.938488,10.998391
+574493,"Strømsveien 221A, Fjellhamar",59.938081,10.997421
+574494,"Strømsveien 222, Fjellhamar",59.939093,10.997386
+574495,"Strømsveien 220A, Fjellhamar",59.938849,10.99687
+574496,"Strømsveien 220B, Fjellhamar",59.939116,10.997047
+574497,"Strømsveien 220, Fjellhamar",59.938638,10.997179
+574500,"Strømsveien 230, Fjellhamar",59.939561,11.00026
+574501,"Strømsveien 228B, Fjellhamar",59.939282,10.999688
+574519,"Sparre Olsens vei 10, Fjellhamar",59.935469,10.982759
+574520,"Sparre Olsens vei 12, Fjellhamar",59.935359,10.982468
+574521,"Sparre Olsens vei 7, Fjellhamar",59.935559,10.982156
+574522,"Sparre Olsens vei 8, Fjellhamar",59.935521,10.982905
+574523,"Sparre Olsens vei 4, Fjellhamar",59.93583,10.982655
+574524,"Sparre Olsens vei 6, Fjellhamar",59.935843,10.982996
+574526,"Sparre Olsens vei 3, Fjellhamar",59.935853,10.982281
+575486,"Vittenbergveien 65, Fjellhamar",59.938513,10.999445
+575487,"Vittenbergveien 63, Fjellhamar",59.938739,10.99996
+575489,"Vittenbergveien 100, Fjellhamar",59.937854,11.004435
+575490,"Vittenbergveien 52, Fjellhamar",59.939852,10.997277
+575491,"Vittenbergveien 46, Fjellhamar",59.94005,10.996441
+575492,"Vittenbergveien 39, Fjellhamar",59.939562,10.997235
+575493,"Vittenbergveien 45, Fjellhamar",59.93929,10.997988
+575494,"Vittenbergveien 44, Fjellhamar",59.940215,10.996218
+575495,"Vittenbergveien 42, Fjellhamar",59.940374,10.996424
+575651,"Viggo Hansteens vei 6, Fjellhamar",59.939549,10.996321
+575652,"Vittenbergveien 1, Fjellhamar",59.940744,10.992096
+575653,"Viggo Hansteens vei 2, Fjellhamar",59.939554,10.995408
+575654,"Viggo Hansteens vei 4, Fjellhamar",59.939512,10.9958
+575665,"Vittenbergveien 22, Fjellhamar",59.940295,10.995113
+575666,"Vittenbergveien 18, Fjellhamar",59.940274,10.9947
+575667,"Vittenbergveien 14, Fjellhamar",59.940525,10.993515
+575668,"Vittenbergveien 16, Fjellhamar",59.940395,10.993848
+575907,"Rikard Nordraaks vei 22B, Fjellhamar",59.936985,10.984657
+575908,"Rikard Nordraaks vei 22C, Fjellhamar",59.936703,10.984583
+576039,"Marcus Thranes vei 105, Fjellhamar",59.939995,10.983912
+576047,"Rikard Nordraaks vei 11B, Fjellhamar",59.937384,10.98384
+576190,"Edvard Griegs vei 7A, Fjellhamar",59.938313,10.98241
+576191,"Edvard Griegs vei 7B, Fjellhamar",59.938161,10.982347
+576303,"Oscar Borgs vei 9A, Fjellhamar",59.936291,10.986066
+576304,"Oscar Borgs vei 9B, Fjellhamar",59.936248,10.98592
+576325,"Vittenbergveien 80, Fjellhamar",59.93886,11.000937
+576380,"Fjellhamarveien 44B, Fjellhamar",59.941429,10.990813
+576428,"Blåkollveien 8B, Fjellhamar",59.938352,10.99292
+576467,"Fjellhamarveien 31C, Fjellhamar",59.943037,10.994329
+576468,"Kloppaveien 16, Fjellhamar",59.933507,10.980011
+576595,"Strømsveien 224C, Fjellhamar",59.939055,10.998117
+576623,"Rikard Nordraaks vei 15A, Fjellhamar",59.936835,10.983324
+576679,"Ringveien 36, Fjellhamar",59.938101,10.994875
+576680,"Ringveien 38, Fjellhamar",59.937998,10.994993
+576719,"Strømsveien 241, Fjellhamar",59.939097,11.001825
+576721,"Strømsveien 237, Fjellhamar",59.939198,11.001706
+576722,"Strømsveien 243, Fjellhamar",59.939156,11.002097
+576813,"Fjellhamarveien 44C, Fjellhamar",59.942262,10.989735
+576814,"Fjellhamarveien 40, Fjellhamar",59.942996,10.992894
+576827,"Rolf Wickstrøms vei 17, Fjellhamar",59.942124,10.995939
+576828,"Rolf Wickstrøms vei 13, Fjellhamar",59.941926,10.995318
+576829,"Rolf Wickstrøms vei 23, Fjellhamar",59.942275,10.995429
+576830,"Rolf Wickstrøms vei 19, Fjellhamar",59.942403,10.995866
+576831,"Rolf Wickstrøms vei 39, Fjellhamar",59.94282,10.995623
+576832,"Rolf Wickstrøms vei 25, Fjellhamar",59.942235,10.995068
+576833,"Rolf Wickstrøms vei 33, Fjellhamar",59.943032,10.995868
+576834,"Rolf Wickstrøms vei 37, Fjellhamar",59.942857,10.995535
+576835,"Rolf Wickstrøms vei 41, Fjellhamar",59.942643,10.995415
+576836,"Rolf Wickstrøms vei 35, Fjellhamar",59.942875,10.996127
+576837,"Rolf Wickstrøms vei 21, Fjellhamar",59.942299,10.995591
+576838,"Rolf Wickstrøms vei 43, Fjellhamar",59.942522,10.995139
+576839,"Rolf Wickstrøms vei 51, Fjellhamar",59.942619,10.994071
+576840,"Rolf Wickstrøms vei 11, Fjellhamar",59.941855,10.995869
+576841,"Fjellhamarveien 44A, Fjellhamar",59.941833,10.990193
+576842,"Rolf Wickstrøms vei 45, Fjellhamar",59.942483,10.994707
+576845,"Rolf Wickstrøms vei 50, Fjellhamar",59.942425,10.993791
+576847,"Rolf Wickstrøms vei 1, Fjellhamar",59.941273,10.995762
+576848,"Rolf Wickstrøms vei 2, Fjellhamar",59.941199,10.995328
+576849,"Rolf Wickstrøms vei 4, Fjellhamar",59.94148,10.99513
+576850,"Rolf Wickstrøms vei 3, Fjellhamar",59.941346,10.995677
+576851,"Rolf Wickstrøms vei 7, Fjellhamar",59.941613,10.995854
+576852,"Rolf Wickstrøms vei 8, Fjellhamar",59.941662,10.994998
+576853,"Rolf Wickstrøms vei 5, Fjellhamar",59.941572,10.995565
+576854,"Rolf Wickstrøms vei 6, Fjellhamar",59.941513,10.994721
+576855,"Rolf Wickstrøms vei 12, Fjellhamar",59.941843,10.994866
+576856,"Rolf Wickstrøms vei 9, Fjellhamar",59.941718,10.995449
+576857,"Rolf Wickstrøms vei 32, Fjellhamar",59.942088,10.994128
+576858,"Rolf Wickstrøms vei 26, Fjellhamar",59.942061,10.9947
+576956,"Gamleveien 259, Fjellhamar",59.937655,11.007899
+577016,"Strømsveien 222B, Fjellhamar",59.938902,10.997535
+577020,"Bråtaveien 51, Fjellhamar",59.941703,10.99407
+577021,"Bråtaveien 49, Fjellhamar",59.941618,10.99376
+577022,"Bråtaveien 42, Fjellhamar",59.940932,10.993379
+577023,"Bråtaveien 40, Fjellhamar",59.941069,10.993817
+577024,"Bråtaveien 46, Fjellhamar",59.941215,10.993664
+577025,"Bråtaveien 53, Fjellhamar",59.941765,10.993536
+577026,"Bråtaveien 48, Fjellhamar",59.941388,10.993478
+577027,"Bråtaveien 44, Fjellhamar",59.941033,10.993224
+577028,"Bråtaveien 52, Fjellhamar",59.941544,10.993254
+577029,"Bråtaveien 50, Fjellhamar",59.941325,10.992919
+577113,"Viggo Hansteens vei 39, Fjellhamar",59.941715,10.996845
+577114,"Viggo Hansteens vei 37, Fjellhamar",59.941454,10.996865
+577115,"Viggo Hansteens vei 45, Fjellhamar",59.941398,10.996379
+577116,"Viggo Hansteens vei 41, Fjellhamar",59.941802,10.996385
+577118,"Viggo Hansteens vei 47, Fjellhamar",59.94109,10.99482
+577127,"Viggo Hansteens vei 26, Fjellhamar",59.940702,10.996713
+577128,"Viggo Hansteens vei 32, Fjellhamar",59.940949,10.995797
+577129,"Viggo Hansteens vei 13, Fjellhamar",59.939051,10.996577
+577130,"Viggo Hansteens vei 36, Fjellhamar",59.940799,10.995
+577131,"Viggo Hansteens vei 19, Fjellhamar",59.940255,10.997724
+577132,"Viggo Hansteens vei 15, Fjellhamar",59.93923,10.996588
+577133,"Viggo Hansteens vei 23, Fjellhamar",59.940417,10.99768
+577134,"Viggo Hansteens vei 21, Fjellhamar",59.940327,10.99771
+577135,"Viggo Hansteens vei 27, Fjellhamar",59.94058,10.997636
+577136,"Viggo Hansteens vei 25, Fjellhamar",59.94049,10.997666
+577137,"Viggo Hansteens vei 35, Fjellhamar",59.94104,10.99693
+577138,"Viggo Hansteens vei 29, Fjellhamar",59.940747,10.99727
+577139,"Viggo Hansteens vei 31, Fjellhamar",59.940966,10.997051
+577140,"Viggo Hansteens vei 33, Fjellhamar",59.941021,10.996982
+577147,"Viggo Hansteens vei 9, Fjellhamar",59.938665,10.995946
+577149,"Viggo Hansteens vei 1, Fjellhamar",59.939156,10.995546
+577150,"Viggo Hansteens vei 5, Fjellhamar",59.938919,10.995782
+577151,"Viggo Hansteens vei 11, Fjellhamar",59.938661,10.996214
+577152,"Viggo Hansteens vei 3, Fjellhamar",59.939136,10.995688
+577153,"Viggo Hansteens vei 20, Fjellhamar",59.94033,10.996959
+577154,"Viggo Hansteens vei 17, Fjellhamar",59.939443,10.996762
+577155,"Viggo Hansteens vei 24, Fjellhamar",59.940619,10.996833
+577156,"Viggo Hansteens vei 22, Fjellhamar",59.940447,10.996948
+577505,"Gamleveien 260A, Fjellhamar",59.939314,11.007638
+577506,"Gamleveien 262, Fjellhamar",59.939307,11.008103
+577581,"Edvard Griegs vei 11B, Fjellhamar",59.937903,10.981544
+577584,"Edvard Griegs vei 11A, Fjellhamar",59.93799,10.981728
+577587,"Ringveien 1B, Fjellhamar",59.938262,10.991915
+577590,"Ringveien 1C, Fjellhamar",59.938286,10.991895
+577630,"Fjellhamarveien 31A, Fjellhamar",59.943224,10.994412
+577634,"Bråtaveien 36, Fjellhamar",59.940589,10.994056
+577635,"Bråtaveien 45, Fjellhamar",59.94128,10.994134
+577636,"Bråtaveien 38, Fjellhamar",59.940816,10.993927
+577637,"Bråtaveien 47, Fjellhamar",59.941436,10.993892
+577638,"Bråtaveien 8, Fjellhamar",59.938221,10.99565
+577639,"Bråtaveien 1, Fjellhamar",59.938356,10.996226
+577641,"Bråtaveien 4, Fjellhamar",59.937527,10.993425
+577642,"Bråtaveien 6, Fjellhamar",59.937681,10.993918
+577643,"Bråtaveien 31, Fjellhamar",59.939996,10.994701
+577644,"Bråtaveien 2B, Fjellhamar",59.93746,10.992947
+577645,"Bråtaveien 16, Fjellhamar",59.938967,10.995033
+577646,"Bråtaveien 12, Fjellhamar",59.938592,10.99544
+577647,"Bråtaveien 22, Fjellhamar",59.939277,10.994711
+577648,"Bråtaveien 20, Fjellhamar",59.939203,10.994814
+577649,"Bråtaveien 26, Fjellhamar",59.939477,10.994527
+577650,"Bråtaveien 24, Fjellhamar",59.939395,10.994593
+577651,"Bråtaveien 28, Fjellhamar",59.939632,10.994357
+577652,"Bråtaveien 37, Fjellhamar",59.940654,10.994544
+577653,"Bråtaveien 43, Fjellhamar",59.941052,10.994335
+577654,"Bråtaveien 30, Fjellhamar",59.939669,10.994305
+577662,"Bråtaveien 29, Fjellhamar",59.939643,10.994859
+577663,"Viggo Hansteens vei 7, Fjellhamar",59.938899,10.99596
+577825,"Edvard Griegs vei 2B, Fjellhamar",59.938742,10.984941
+577846,"Vittenbergveien 97, Fjellhamar",59.937968,11.001077
+577885,"Halfdan Kjerulfs vei 11, Fjellhamar",59.93706,10.985682
+577889,"Vittenbergveien 113, Fjellhamar",59.937768,11.00298
+577895,"Johan Svendsens vei 23, Fjellhamar",59.935906,10.981765
+577896,"Johan Svendsens vei 24, Fjellhamar",59.936184,10.981173
+577897,"Johan Svendsens vei 30, Fjellhamar",59.935788,10.980666
+577898,"Johan Svendsens vei 25, Fjellhamar",59.935944,10.981624
+577899,"Johan Svendsens vei 27, Fjellhamar",59.935639,10.981624
+577900,"Johan Svendsens vei 32, Fjellhamar",59.935715,10.980751
+577901,"Johan Svendsens vei 40, Fjellhamar",59.935405,10.981055
+577902,"Johan Svendsens vei 29, Fjellhamar",59.935632,10.981444
+577903,"Johan Svendsens vei 42, Fjellhamar",59.935163,10.980987
+577904,"Johan Svendsens vei 39, Fjellhamar",59.935166,10.981416
+577905,"Johan Svendsens vei 44, Fjellhamar",59.93495,10.980831
+577906,"Johan Svendsens vei 38, Fjellhamar",59.935078,10.980677
+577908,"Johan Svendsens vei 46, Fjellhamar",59.934882,10.980594
+577911,"Johan Svendsens vei 6, Fjellhamar",59.937311,10.981491
+577912,"Johan Svendsens vei 8, Fjellhamar",59.937152,10.981929
+577913,"Johan Svendsens vei 3, Fjellhamar",59.937567,10.982401
+577914,"Johan Svendsens vei 4, Fjellhamar",59.937395,10.981907
+577915,"Johan Svendsens vei 7, Fjellhamar",59.937423,10.982464
+577916,"Johan Svendsens vei 5, Fjellhamar",59.937308,10.982905
+577917,"Johan Svendsens vei 11, Fjellhamar",59.936996,10.982725
+577918,"Johan Svendsens vei 9, Fjellhamar",59.937281,10.98233
+577919,"Johan Svendsens vei 15, Fjellhamar",59.936619,10.982738
+577920,"Johan Svendsens vei 13, Fjellhamar",59.936975,10.98233
+577922,"Johan Svendsens vei 19, Fjellhamar",59.936508,10.982356
+577923,"Johan Svendsens vei 17, Fjellhamar",59.936636,10.982238
+577924,"Johan Svendsens vei 22, Fjellhamar",59.936482,10.981083
+577925,"Johan Svendsens vei 18, Fjellhamar",59.93668,10.981668
+577926,"Johan Svendsens vei 21, Fjellhamar",59.936181,10.982014
+577927,"Johan Svendsens vei 20, Fjellhamar",59.936493,10.981585
+577932,"Sparre Olsens vei 2, Fjellhamar",59.936034,10.982793
+577933,"Ole Bulls vei 1, Fjellhamar",59.93614,10.982316
+577934,"Ole Bulls vei 3, Fjellhamar",59.936105,10.982886
+577935,"Ole Bulls vei 7, Fjellhamar",59.936027,10.98356
+577936,"Ole Bulls vei 5, Fjellhamar",59.936135,10.983246
+577937,"Ole Bulls vei 11, Fjellhamar",59.935918,10.983985
+577938,"Ole Bulls vei 9, Fjellhamar",59.935937,10.983879
+577939,"Johan Svendsens vei 14, Fjellhamar",59.936919,10.981897
+577940,"Ole Bulls vei 12, Fjellhamar",59.936271,10.983791
+577941,"Johan Svendsens vei 10, Fjellhamar",59.937157,10.981589
+577942,"Johan Svendsens vei 12, Fjellhamar",59.93697,10.981506
+577980,"Gamleveien 260B, Fjellhamar",59.939376,11.007696
+577990,"Vittenbergveien 40, Fjellhamar",59.940345,10.99653
+577991,"Vittenbergveien 38, Fjellhamar",59.940491,10.996396
+578013,"Fjellhamarveien 31D, Fjellhamar",59.943375,10.995173
+578018,"Fjellhamarveien 56F, Fjellhamar",59.940591,10.984425
+578020,"Fjellhamarveien 56B, Fjellhamar",59.940433,10.985347
+578021,"Fjellhamarveien 56E, Fjellhamar",59.940515,10.984654
+578022,"Fjellhamarveien 56A, Fjellhamar",59.940412,10.98556
+578023,"Fjellhamarveien 56D, Fjellhamar",59.940485,10.984884
+578040,"Strømsveien 223A, Fjellhamar",59.938451,10.998242
+578066,"Edvard Griegs vei 17A, Fjellhamar",59.937223,10.97984
+578095,"Rolf Wickstrøms vei 15, Fjellhamar",59.942005,10.995683
+1660439,"Rikard Nordraaks vei 17A, Fjellhamar",59.936608,10.984026
+1679287,"Strømsveien 228A, Fjellhamar",59.939364,11.000015
+1711643,"Marcus Thranes vei 97, Fjellhamar",59.93896,10.982339
+1777806,"Rikard Nordraaks vei 28, Fjellhamar",59.935829,10.984561
+1797017,"Sparre Olsens vei 14, Fjellhamar",59.935389,10.982428
+1844942,"Marcus Thranes vei 85, Fjellhamar",59.93604,10.976679
+1878971,"Rikard Nordraaks vei 4C, Fjellhamar",59.939158,10.986203
+1878980,"Rikard Nordraaks vei 4B, Fjellhamar",59.939099,10.986402
+1911612,"Bråtaveien 2A, Fjellhamar",59.937416,10.992797
+1927876,"Johan Svendsens vei 16, Fjellhamar",59.936797,10.981276
+1940658,"Bråtaveien 7, Fjellhamar",59.938489,10.996891
+1940660,"Bråtaveien 5, Fjellhamar",59.938422,10.996656
+1940662,"Bråtaveien 3, Fjellhamar",59.938357,10.996421
+1940664,"Blåkollveien 7B, Fjellhamar",59.937778,10.993121
+1953685,"Vittenbergveien 34, Fjellhamar",59.940722,10.995663
+1953714,"Vittenbergveien 36, Fjellhamar",59.940755,10.995495
+1953888,"Viggo Hansteens vei 28A, Fjellhamar",59.940988,10.996467
+1953889,"Viggo Hansteens vei 28B, Fjellhamar",59.940893,10.996389
+1953890,"Viggo Hansteens vei 28C, Fjellhamar",59.940791,10.996306
+1954018,"Bråtaveien 54, Fjellhamar",59.941672,10.992986
+1956218,"Nordbygrenda 41, Fjellhamar",59.937479,10.996087
+1956219,"Nordbygrenda 43, Fjellhamar",59.937488,10.995955
+1956220,"Nordbygrenda 45, Fjellhamar",59.937449,10.995847
+1956229,"Nordbygrenda 50, Fjellhamar",59.937375,10.998131
+1956230,"Nordbygrenda 52, Fjellhamar",59.937428,10.998218
+1956231,"Nordbygrenda 54, Fjellhamar",59.937546,10.998256
+1956232,"Nordbygrenda 56, Fjellhamar",59.937609,10.998297
+1956233,"Nordbygrenda 150, Fjellhamar",59.937289,10.998602
+1956234,"Nordbygrenda 152, Fjellhamar",59.937351,10.99865
+1956262,"Nordbygrenda 1, Fjellhamar",59.93749,10.996405
+1956267,"Nordbygrenda 19, Fjellhamar",59.937654,10.995837
+1956268,"Nordbygrenda 17, Fjellhamar",59.937685,10.995912
+1956269,"Nordbygrenda 15, Fjellhamar",59.937712,10.995992
+1956270,"Nordbygrenda 13, Fjellhamar",59.937745,10.996073
+1956271,"Nordbygrenda 11, Fjellhamar",59.937779,10.996145
+1956272,"Nordbygrenda 9, Fjellhamar",59.93765,10.99621
+1956273,"Nordbygrenda 7, Fjellhamar",59.937607,10.996262
+1956275,"Nordbygrenda 5, Fjellhamar",59.937568,10.996309
+1956276,"Nordbygrenda 3, Fjellhamar",59.93753,10.996352
+1956354,"Nordbygrenda 138, Fjellhamar",59.937282,10.999489
+1956373,"Nordbygrenda 156, Fjellhamar",59.93747,10.998724
+1956374,"Nordbygrenda 140, Fjellhamar",59.937226,10.998983
+1956375,"Nordbygrenda 142, Fjellhamar",59.937286,10.999022
+1956376,"Nordbygrenda 144, Fjellhamar",59.937344,10.999061
+1956377,"Nordbygrenda 146, Fjellhamar",59.937403,10.999108
+1956378,"Nordbygrenda 148, Fjellhamar",59.937466,10.999151
+1956379,"Nordbygrenda 136, Fjellhamar",59.93722,10.999457
+1956413,"Nordbygrenda 80, Fjellhamar",59.937573,10.99984
+1956414,"Nordbygrenda 78, Fjellhamar",59.937609,10.999775
+1956442,"Nordbygrenda 114, Fjellhamar",59.937636,10.998789
+1956461,"Nordbygrenda 86, Fjellhamar",59.937465,11.000053
+1956462,"Nordbygrenda 84, Fjellhamar",59.937504,10.999984
+1956463,"Nordbygrenda 82, Fjellhamar",59.937537,10.999911
+1956464,"Nordbygrenda 104, Fjellhamar",59.937296,10.999968
+1956465,"Nordbygrenda 98, Fjellhamar",59.937112,11.000163
+1956466,"Nordbygrenda 96, Fjellhamar",59.937154,11.000192
+1956467,"Nordbygrenda 94, Fjellhamar",59.937208,11.000224
+1956468,"Nordbygrenda 92, Fjellhamar",59.937266,11.000258
+1956469,"Nordbygrenda 90, Fjellhamar",59.937329,11.000301
+1956482,"Nordbygrenda 35, Fjellhamar",59.937384,10.995146
+1956483,"Nordbygrenda 33, Fjellhamar",59.937413,10.995228
+1956484,"Nordbygrenda 31, Fjellhamar",59.937446,10.995307
+1956485,"Nordbygrenda 29, Fjellhamar",59.937476,10.995385
+1956486,"Nordbygrenda 27, Fjellhamar",59.937502,10.99546
+1956487,"Nordbygrenda 25, Fjellhamar",59.937532,10.995541
+1956488,"Nordbygrenda 23, Fjellhamar",59.937597,10.995674
+1956489,"Nordbygrenda 21, Fjellhamar",59.937624,10.995758
+1956498,"Nordbygrenda 116, Fjellhamar",59.937645,10.998892
+1956499,"Nordbygrenda 118, Fjellhamar",59.937635,10.998973
+1956530,"Nordbygrenda 70, Fjellhamar",59.937768,10.999418
+1956923,"Viggo Hansteens vei 43, Fjellhamar",59.941601,10.996477
+1981134,"Ringveien 4B, Fjellhamar",59.938206,10.990695
+2036997,"Nordbygrenda 34, Fjellhamar",59.937853,10.997934
+2036998,"Nordbygrenda 36, Fjellhamar",59.937896,10.997935
+2036999,"Nordbygrenda 38, Fjellhamar",59.937942,10.997939
+2037000,"Nordbygrenda 40, Fjellhamar",59.937984,10.997967
+2037010,"Nordbygrenda 26, Fjellhamar",59.937644,10.99792
+2037012,"Nordbygrenda 28, Fjellhamar",59.937695,10.997924
+2037014,"Nordbygrenda 30, Fjellhamar",59.937761,10.997925
+2037016,"Nordbygrenda 32, Fjellhamar",59.93781,10.99793
+2037042,"Nordbygrenda 24, Fjellhamar",59.937589,10.997898
+2037101,"Nordbygrenda 10, Fjellhamar",59.937669,10.997116
+2037102,"Nordbygrenda 20, Fjellhamar",59.937796,10.997538
+2037103,"Nordbygrenda 22, Fjellhamar",59.93785,10.99756
+2037105,"Nordbygrenda 12, Fjellhamar",59.937695,10.997137
+2037110,"Nordbygrenda 14, Fjellhamar",59.937748,10.997163
+2037111,"Nordbygrenda 16, Fjellhamar",59.937798,10.997186
+2037112,"Nordbygrenda 18, Fjellhamar",59.937851,10.997212
+2039470,"Vittenbergveien 50, Fjellhamar",59.940066,10.996925
+2039480,"Vittenbergveien 48, Fjellhamar",59.939974,10.996866
+2042451,"Rikard Nordraaks vei 30, Fjellhamar",59.935769,10.984556
+2042453,"Rikard Nordraaks vei 26, Fjellhamar",59.935898,10.984775
+2046914,"Lørdagsrudveien 14B, Fjellhamar",59.938242,10.990308
+2046916,"Lørdagsrudveien 14A, Fjellhamar",59.938209,10.990292
+2048948,"Strømsveien 221B, Fjellhamar",59.938061,10.997588
+2054135,"Edvard Griegs vei 14C, Fjellhamar",59.936961,10.980571
+2070781,"Vittenbergveien 127, Fjellhamar",59.937071,11.001891
+2070782,"Vittenbergveien 125, Fjellhamar",59.937302,11.0019
+2074422,"Rikard Nordraaks vei 15C, Fjellhamar",59.936868,10.98377
+2074783,"Ringveien 7B, Fjellhamar",59.938956,10.991295
+2074785,"Ringveien 7C, Fjellhamar",59.938953,10.991497
+2077204,"Vittenbergveien 15, Fjellhamar",59.940209,10.993527
+2077205,"Vittenbergveien 13, Fjellhamar",59.940268,10.993495
+2099533,"Ole Bulls vei 4B, Fjellhamar",59.936588,10.98315
+2099575,"Ole Bulls vei 10, Fjellhamar",59.936574,10.983552
+2099923,"Ole Bulls vei 8, Fjellhamar",59.936484,10.983519
+2099924,"Ole Bulls vei 6, Fjellhamar",59.936315,10.983445
+2118966,"Oscar Borgs vei 4, Fjellhamar",59.936856,10.985294
+2118967,"Oscar Borgs vei 2, Fjellhamar",59.936826,10.985074
+2183482,"Kloppaveien 18, Fjellhamar",59.933134,10.97916
+2187345,"Marcus Thranes vei 98, Fjellhamar",59.93819,10.978987
+2187346,"Marcus Thranes vei 96, Fjellhamar",59.938755,10.978208
+2370366,"Forsetveien 31, Fjellhamar",59.939762,11.008489
+2370367,"Forsetveien 33, Fjellhamar",59.939635,11.008381
+2370368,"Forsetveien 39, Fjellhamar",59.939706,11.008106
+2370369,"Forsetveien 41, Fjellhamar",59.939826,11.008206
+2370370,"Forsetveien 37, Fjellhamar",59.939541,11.008064
+2370371,"Forsetveien 35, Fjellhamar",59.939489,11.008277
+2385601,"Bråtaveien 55, Fjellhamar",59.941859,10.993769
+2398812,"Nordbygrenda 154, Fjellhamar",59.937411,10.998693
+2399275,"Nordbygrenda 100, Fjellhamar",59.93718,10.999895
+2399276,"Nordbygrenda 102, Fjellhamar",59.937241,10.999925
+2399339,"Nordbygrenda 134, Fjellhamar",59.937405,10.999667
+2399340,"Nordbygrenda 132, Fjellhamar",59.937441,10.999595
+2399341,"Nordbygrenda 130, Fjellhamar",59.937473,10.999515
+2399342,"Nordbygrenda 128, Fjellhamar",59.937509,10.999445
+2399343,"Nordbygrenda 126, Fjellhamar",59.937542,10.999374
+2399346,"Nordbygrenda 110, Fjellhamar",59.937647,10.998602
+2399348,"Nordbygrenda 112, Fjellhamar",59.937636,10.998698
+2399381,"Nordbygrenda 88, Fjellhamar",59.937425,11.000121
+2399389,"Nordbygrenda 120, Fjellhamar",59.937631,10.99907
+2399390,"Nordbygrenda 122, Fjellhamar",59.937624,10.999157
+2399391,"Nordbygrenda 124, Fjellhamar",59.937596,10.999234
+2399392,"Nordbygrenda 60, Fjellhamar",59.93788,10.999015
+2399393,"Nordbygrenda 62, Fjellhamar",59.937859,10.9991
+2399394,"Nordbygrenda 64, Fjellhamar",59.937851,10.999187
+2399396,"Nordbygrenda 66, Fjellhamar",59.937824,10.999267
+2399398,"Nordbygrenda 68, Fjellhamar",59.937798,10.999345
+2399403,"Nordbygrenda 72, Fjellhamar",59.937735,10.999495
+2399404,"Nordbygrenda 74, Fjellhamar",59.937702,10.999566
+2399405,"Nordbygrenda 76, Fjellhamar",59.937672,10.999643
+2450398,"Rikard Nordraaks vei 12, Fjellhamar",59.938687,10.985626
+2450634,"Rikard Nordraaks vei 12C, Fjellhamar",59.938512,10.985438
+2450635,"Rikard Nordraaks vei 12B, Fjellhamar",59.938613,10.98558
+2450636,"Rikard Nordraaks vei 12A, Fjellhamar",59.938414,10.985905
+2467592,"Marcus Thranes vei 87, Fjellhamar",59.935536,10.977664
+2474932,"Strømsveien 219A, Fjellhamar",59.937936,10.996636
+2476679,"Strømsveien 219B, Fjellhamar",59.938026,10.996852
+2477671,"Strømsveien 229, Fjellhamar",59.938909,10.999415
+2477675,"Vittenbergveien 72, Fjellhamar",59.939518,10.998933
+2486208,"Vittenbergveien 123, Fjellhamar",59.937148,11.002406
+2486209,"Vittenbergveien 121, Fjellhamar",59.937265,11.002413
+2486211,"Vittenbergveien 117, Fjellhamar",59.93757,11.002413
+2486212,"Vittenbergveien 115, Fjellhamar",59.937576,11.003237
+2486213,"Vittenbergveien 119, Fjellhamar",59.937408,11.002422
+2486218,"Vittenbergveien 111, Fjellhamar",59.937842,11.002859
+2486220,"Vittenbergveien 99, Fjellhamar",59.937895,11.001144
+2486221,"Vittenbergveien 95, Fjellhamar",59.938118,11.001802
+2486257,"Vittenbergveien 105, Fjellhamar",59.937814,11.001766
+2486261,"Vittenbergveien 81, Fjellhamar",59.938398,10.999939
+2486274,"Vittenbergveien 75, Fjellhamar",59.938042,10.998815
+2486277,"Vittenbergveien 102, Fjellhamar",59.938023,11.004535
+2486284,"Vittenbergveien 92, Fjellhamar",59.938598,11.001623
+2486291,"Vittenbergveien 93, Fjellhamar",59.938278,11.001328
+2486292,"Vittenbergveien 91, Fjellhamar",59.938089,11.00078
+2486293,"Vittenbergveien 87, Fjellhamar",59.938393,11.00087
+2486294,"Vittenbergveien 89, Fjellhamar",59.938247,11.000414
+2486312,"Vittenbergveien 69, Fjellhamar",59.938144,10.998313
+2486313,"Vittenbergveien 66, Fjellhamar",59.939564,10.998108
+2486314,"Vittenbergveien 68, Fjellhamar",59.939539,10.998264
+2486315,"Vittenbergveien 64, Fjellhamar",59.939595,10.998028
+2486316,"Vittenbergveien 30, Fjellhamar",59.940413,10.995805
+2486317,"Vittenbergveien 28, Fjellhamar",59.940457,10.995336
+2486318,"Vittenbergveien 8, Fjellhamar",59.941032,10.992704
+2486319,"Vittenbergveien 6, Fjellhamar",59.941083,10.992591
+2486323,"Vittenbergveien 101, Fjellhamar",59.937717,11.001355
+2486328,"Vittenbergveien 83, Fjellhamar",59.938571,11.000397
+2486330,"Vittenbergveien 85, Fjellhamar",59.938488,11.000399
+2486331,"Vittenbergveien 79, Fjellhamar",59.938454,10.999817
+2486345,"Vittenbergveien 77, Fjellhamar",59.938066,10.998924
+2486439,"Vittenbergveien 73, Fjellhamar",59.937905,10.998576
+2486440,"Vittenbergveien 61, Fjellhamar",59.938869,10.999547
+2486457,"Vittenbergveien 116, Fjellhamar",59.938832,11.005676
+2486458,"Vittenbergveien 118, Fjellhamar",59.938984,11.005739
+2486459,"Vittenbergveien 120, Fjellhamar",59.939136,11.005748
+2486460,"Vittenbergveien 122, Fjellhamar",59.939297,11.005829
+2486467,"Vittenbergveien 76, Fjellhamar",59.939022,11.000528
+2486476,"Vittenbergveien 106, Fjellhamar",59.938318,11.004624
+2486477,"Vittenbergveien 104, Fjellhamar",59.938167,11.004544
+2486478,"Vittenbergveien 108, Fjellhamar",59.93818,11.005422
+2486479,"Vittenbergveien 110, Fjellhamar",59.938341,11.005503
+2486480,"Vittenbergveien 112, Fjellhamar",59.93844,11.005491
+2486481,"Vittenbergveien 114, Fjellhamar",59.938635,11.00561
+2486486,"Vittenbergveien 86, Fjellhamar",59.939052,11.000956
+2486487,"Vittenbergveien 82, Fjellhamar",59.938915,11.000774
+2486488,"Vittenbergveien 94, Fjellhamar",59.938721,11.001751
+2486489,"Vittenbergveien 96, Fjellhamar",59.938636,11.001984
+2486491,"Vittenbergveien 33, Fjellhamar",59.939876,10.996072
+2486492,"Vittenbergveien 35, Fjellhamar",59.939837,10.996267
+2486494,"Vittenbergveien 31, Fjellhamar",59.939924,10.99586
+2486499,"Vittenbergveien 70, Fjellhamar",59.939561,10.99847
+2486500,"Vittenbergveien 62, Fjellhamar",59.93967,10.997959
+2486502,"Vittenbergveien 78, Fjellhamar",59.939078,11.000632
+2486510,"Vittenbergveien 98, Fjellhamar",59.938575,11.001883
+2486512,"Vittenbergveien 49, Fjellhamar",59.939134,10.998784
+2486513,"Vittenbergveien 41, Fjellhamar",59.939324,10.997543
+2486514,"Vittenbergveien 43, Fjellhamar",59.939328,10.997865
+2486517,"Vittenbergveien 29, Fjellhamar",59.939944,10.9957
+2486518,"Vittenbergveien 27, Fjellhamar",59.939978,10.995255
+2486519,"Vittenbergveien 25, Fjellhamar",59.94001,10.994935
+2486520,"Vittenbergveien 11, Fjellhamar",59.940471,10.992975
+2486523,"Vittenbergveien 54, Fjellhamar",59.939991,10.997386
+2486527,"Vittenbergveien 20, Fjellhamar",59.940368,10.99477
+2486544,"Vittenbergveien 90, Fjellhamar",59.938892,11.001471
+2486545,"Vittenbergveien 84, Fjellhamar",59.939001,11.001077
+2486546,"Vittenbergveien 88, Fjellhamar",59.938942,11.001361
+2486553,"Vittenbergveien 24, Fjellhamar",59.940208,10.995483
+2486554,"Vittenbergveien 37, Fjellhamar",59.939789,10.996497
+2486562,"Vittenbergveien 60, Fjellhamar",59.939697,10.997982
+2486565,"Vittenbergveien 58, Fjellhamar",59.939714,10.998006
+2486567,"Vittenbergveien 32, Fjellhamar",59.940619,10.996056
+2486568,"Vittenbergveien 10, Fjellhamar",59.940815,10.992799
+2486573,"Vittenbergveien 74, Fjellhamar",59.939544,10.999267
+2486577,"Vittenbergveien 56, Fjellhamar",59.939905,10.997703
+2486578,"Vittenbergveien 26, Fjellhamar",59.940467,10.995209
+2486584,"Vittenbergveien 2, Fjellhamar",59.94105,10.99219
+2486585,"Vittenbergveien 4, Fjellhamar",59.941167,10.992276
+2534367,"Vittenbergveien 109, Fjellhamar",59.937929,11.00238
+2534368,"Vittenbergveien 107, Fjellhamar",59.93801,11.002263

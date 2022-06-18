@@ -1,0 +1,733 @@
+,Navn,Long,Lat
+1059926,"Beitovegen 444, Lidar",61.228836,8.896138
+1060024,"Beitovegen 453, Lidar",61.230685,8.896355
+1060356,"Bygdinvegen 2932, Lidar",61.189563,8.995164
+1060357,"Bygdinvegen 2893, Lidar",61.189042,8.99987
+1060358,"Kjøkvegen 66, Lidar",61.188655,8.983763
+1060359,"Røsshaugen 2, Lidar",61.190432,8.980488
+1060360,"Brennevegen 20, Lidar",61.18256,8.996634
+1060361,"Brennevegen 1, Lidar",61.18265,9.002603
+1060362,"Bygdinvegen 2841, Lidar",61.188386,9.010732
+1060363,"Bygdinvegen 3125, Lidar",61.202794,8.976312
+1060364,"Vinstervegen 49, Lidar",61.196152,8.989638
+1060365,"Vinstervegen 35, Lidar",61.19634,8.986549
+1060366,"Vinstervegen 13, Lidar",61.196528,8.982828
+1060367,"Kjøkvegen 50, Lidar",61.189158,8.986552
+1060368,"Skøltevegen 144, Lidar",61.186239,8.97824
+1060369,"Bygdinvegen 2965, Lidar",61.19301,8.992485
+1060370,"Skøltevegen 19, Lidar",61.196878,8.979814
+1060371,"Nordheimvegen 60, Lidar",61.21419,8.955586
+1060372,"Sagastogovegen 41, Lidar",61.205696,8.951727
+1060373,"Sagastogovegen 45, Lidar",61.205426,8.951355
+1060374,"Nordheimvegen 62, Lidar",61.214343,8.9562
+1060375,"Bygdinvegen 3150, Lidar",61.2029,8.969669
+1060376,"Vinstervegen 4, Lidar",61.196313,8.981917
+1060377,"Sagastogovegen 51, Lidar",61.204618,8.951524
+1060378,"Sagastogovegen 42, Lidar",61.205463,8.952378
+1060379,"Bygdinvegen 3180, Lidar",61.204218,8.96228
+1060380,"Nordheimvegen 12, Lidar",61.210186,8.954679
+1060381,"Bygdinvegen 3286, Lidar",61.208218,8.950197
+1060382,"Sagastogovegen 196, Lidar",61.194592,8.955743
+1060383,"Bygdinvegen 3221, Lidar",61.206418,8.962519
+1060384,"Beitovegen 45, Lidar",61.217488,8.940744
+1060385,"Nordheimvegen 47, Lidar",61.213122,8.955866
+1060386,"Nordheimvegen 21, Lidar",61.210411,8.957285
+1060405,"Bygdinvegen 2860, Lidar",61.186483,9.00186
+1060406,"Brennevegen 3, Lidar",61.182811,9.002046
+1060407,"Brennevegen 22, Lidar",61.182829,8.999014
+1060408,"Brennevegen 16, Lidar",61.181977,8.998791
+1060411,"Bygdinvegen 2851, Lidar",61.184688,9.005598
+1060412,"Brennevegen 26, Lidar",61.183171,8.998959
+1060423,"Bygdinvegen 2745, Hegge",61.176455,8.99617
+1060424,"Bygdinvegen 2797, Hegge",61.180181,9.001432
+1060430,"Bygdinvegen 2744, Hegge",61.175566,8.994646
+1060431,"Bygdinvegen 2720, Hegge",61.174238,8.994162
+1060433,"Bygdinvegen 2721, Hegge",61.174507,8.995482
+1060434,"Bygdinvegen 2743, Hegge",61.17606,8.995966
+1060435,"Bygdinvegen 2717, Hegge",61.173169,8.994553
+1060436,"Bygdinvegen 2718, Hegge",61.173762,8.993977
+1060437,"Lidarvegen 4, Lidar",61.202385,8.980689
+1060441,"Lidarvegen 1, Lidar",61.200166,8.980531
+1060442,"Lidarvegen 16, Lidar",61.201306,8.981638
+1060444,"Skøltevegen 152, Lidar",61.178509,8.973839
+1060686,"Sagastogovegen 69, Lidar",61.201255,8.936532
+1060687,"Beitovegen 84, Lidar",61.216758,8.933969
+1060721,"Sagastogovegen 61, Lidar",61.200812,8.930188
+1060722,"Beitovegen 19, Lidar",61.215551,8.945196
+1060723,"Sagastogovegen 68, Lidar",61.202618,8.956067
+1060724,"Beitovegen 118, Lidar",61.215806,8.932835
+1060725,"Beitovegen 72, Lidar",61.214416,8.937752
+1060727,"Beitovegen 200, Lidar",61.209815,8.911853
+1060791,"Beitovegen 343, Lidar",61.222809,8.904071
+1060797,"Beitovegen 330, Lidar",61.221391,8.905602
+1060798,"Beitovegen 398, Lidar",61.226487,8.89987
+1060815,"Beitovegen 244, Lidar",61.214627,8.91292
+1060816,"Beitovegen 178, Lidar",61.210164,8.925272
+1060829,"Beitovegen 403, Lidar",61.227716,8.899736
+1060830,"Beitovegen 401, Lidar",61.227412,8.900407
+1060831,"Beitovegen 408, Lidar",61.227572,8.898451
+1060832,"Beitovegen 382, Lidar",61.223262,8.897236
+1060833,"Beitovegen 459A, Lidar",61.231362,8.895087
+1060834,"Beitovegen 457, Lidar",61.231107,8.895423
+1060835,"Beitovegen 455, Lidar",61.231062,8.895907
+1060836,"Beitovegen 451, Lidar",61.230649,8.895387
+1060837,"Beitovegen 362, Lidar",61.223086,8.901817
+1060838,"Beitovegen 350, Lidar",61.22235,8.902974
+1060839,"Beitovegen 304, Lidar",61.218413,8.908162
+1060840,"Beitovegen 331, Lidar",61.221517,8.905993
+1060841,"Beitovegen 380, Lidar",61.223094,8.898298
+1060842,"Beitovegen 357, Lidar",61.223293,8.902897
+1060843,"Liagrende 5, Lidar",61.223692,8.903213
+1060844,"Liagrende 3, Lidar",61.223816,8.902391
+1060845,"Beitovegen 176, Lidar",61.212317,8.923536
+1060846,"Beitovegen 160, Lidar",61.213045,8.924725
+1060847,"Beitovegen 171, Lidar",61.215844,8.92053
+1060848,"Beitovegen 169, Lidar",61.218898,8.923557
+1060849,"Beitovegen 319, Lidar",61.220334,8.908063
+1060850,"Beitovegen 196, Lidar",61.209204,8.911855
+1060851,"Beitovegen 192, Lidar",61.209286,8.913362
+1060852,"Beitovegen 18, Lidar",61.214886,8.943932
+1060853,"Beitovegen 7, Lidar",61.215111,8.94637
+1060856,"Beitovegen 130, Lidar",61.21311,8.928429
+1060858,"Beitovegen 116, Lidar",61.215922,8.931792
+1060859,"Beitovegen 114, Lidar",61.21656,8.933038
+1060860,"Beitovegen 82, Lidar",61.216363,8.933727
+1060887,"Beitovegen 466, Lidar",61.231895,8.893222
+1060888,"Beitovegen 461, Lidar",61.232103,8.894581
+1060938,"Bygdinvegen 2681, Hegge",61.169722,8.995483
+1060939,"Bygdinvegen 2650, Hegge",61.167935,8.995204
+1060942,"Bygdinvegen 2719, Hegge",61.173852,8.995166
+1060943,"Bygdinvegen 2698, Hegge",61.172604,8.993772
+1060944,"Bygdinvegen 2685, Hegge",61.171975,8.994999
+1060945,"Bygdinvegen 2683, Hegge",61.170252,8.995316
+1060970,"Bygdinvegen 2967, Lidar",61.192947,8.995201
+1060971,"Bygdinvegen 2935, Lidar",61.1931,9.000725
+1060972,"Bygdinvegen 2934, Lidar",61.190972,8.99574
+1060973,"Bygdinvegen 2930, Lidar",61.18932,8.995424
+1060974,"Bygdinvegen 2981, Lidar",61.193755,8.991313
+1060975,"Bygdinvegen 2975, Lidar",61.194967,8.99241
+1060976,"Bygdinvegen 2971, Lidar",61.193881,8.993396
+1060977,"Bygdinvegen 2969, Lidar",61.193468,8.994159
+1060978,"Bygdinvegen 2877, Lidar",61.187632,9.003571
+1060979,"Bygdinvegen 2859, Lidar",61.186133,9.004054
+1060980,"Bygdinvegen 2853, Lidar",61.184778,9.003943
+1060981,"Bygdinvegen 2911, Lidar",61.190514,8.998047
+1060982,"Bygdinvegen 2909, Lidar",61.190056,8.997787
+1060983,"Bygdinvegen 2907, Lidar",61.1902,9.000558
+1060984,"Bygdinvegen 2891, Lidar",61.188979,9.000019
+1060985,"Bygdinvegen 2838, Lidar",61.184014,9.001971
+1060986,"Bygdinvegen 2819, Lidar",61.181806,9.002994
+1060987,"Bygdinvegen 2805, Lidar",61.181133,9.002603
+1060988,"Bygdinvegen 2803, Hegge",61.180675,9.002715
+1060989,"Bygdinvegen 2849, Lidar",61.18458,9.004724
+1060990,"Bygdinvegen 2847, Lidar",61.184427,9.003831
+1060991,"Bygdinvegen 2848, Lidar",61.184454,9.002678
+1060992,"Bygdinvegen 2839, Lidar",61.188234,9.01129
+1060993,"Bygdinvegen 2798, Hegge",61.180127,8.999293
+1060994,"Bygdinvegen 2742, Hegge",61.175324,8.994515
+1060995,"Bygdinvegen 2741, Hegge",61.175144,8.995668
+1060996,"Bygdinvegen 2722, Hegge",61.174354,8.994181
+1060997,"Bygdinvegen 2801, Hegge",61.180136,9.002882
+1060998,"Bygdinvegen 2799, Hegge",61.180432,9.001748
+1060999,"Bygdinvegen 2802, Lidar",61.181662,9.000167
+1061000,"Bygdinvegen 2800, Lidar",61.180343,8.997787
+1061001,"Bygdinvegen 3146, Lidar",61.202649,8.970172
+1061002,"Bygdinvegen 3147, Lidar",61.204812,8.966801
+1061003,"Bygdinvegen 3149, Lidar",61.20474,8.967304
+1061004,"Bygdinvegen 3151, Lidar",61.203735,8.969631
+1061005,"Bygdinvegen 3176, Lidar",61.203186,8.966003
+1061006,"Bygdinvegen 3174, Lidar",61.203357,8.965705
+1061007,"Bygdinvegen 3184, Lidar",61.204443,8.964904
+1061008,"Bygdinvegen 3172, Lidar",61.204039,8.966188
+1061009,"Bygdinvegen 3107, Lidar",61.201878,8.978267
+1061010,"Lidarvegen 2, Lidar",61.201273,8.979151
+1061011,"Lidarvegen 8, Lidar",61.2009,8.979977
+1061012,"Lidarvegen 13, Lidar",61.201062,8.980988
+1061013,"Bygdinvegen 3148, Lidar",61.203152,8.970357
+1061014,"Bygdinvegen 3129, Lidar",61.20353,8.976107
+1061015,"Bygdinvegen 3114, Lidar",61.202093,8.975345
+1061016,"Bygdinvegen 3076, Lidar",61.197128,8.972279
+1061017,"Bygdinvegen 3074, Lidar",61.199357,8.980491
+1061018,"Bygdinvegen 3061, Lidar",61.199742,8.982715
+1061019,"Bygdinvegen 3057, Lidar",61.198611,8.982343
+1061020,"Bygdinvegen 3071, Lidar",61.199751,8.980947
+1061021,"Bygdinvegen 3088, Lidar",61.200684,8.978807
+1061022,"Bygdinvegen 3080, Lidar",61.199948,8.979849
+1061023,"Bygdinvegen 3078, Lidar",61.198664,8.974064
+1061024,"Bygdinvegen 2997, Lidar",61.195334,8.984931
+1061025,"Bygdinvegen 2995, Lidar",61.195523,8.985433
+1061026,"Bygdinvegen 2970, Lidar",61.193306,8.990996
+1061027,"Bygdinvegen 2968, Lidar",61.192633,8.99202
+1061028,"Bygdinvegen 3055, Lidar",61.197731,8.982753
+1061029,"Bygdinvegen 3040, Lidar",61.196564,8.980893
+1061030,"Bygdinvegen 3036, Lidar",61.195801,8.980187
+1061031,"Bygdinvegen 3030, Lidar",61.195235,8.98242
+1061044,"Bygdinvegen 3296, Lidar",61.210445,8.951236
+1061045,"Bygdinvegen 3294, Lidar",61.210319,8.949858
+1061046,"Bygdinvegen 3292, Lidar",61.209142,8.948464
+1061047,"Bygdinvegen 3290, Lidar",61.20665,8.935292
+1061049,"Bygdinvegen 3342, Lidar",61.214412,8.947544
+1061050,"Bygdinvegen 3344, Lidar",61.214259,8.947023
+1061051,"Bygdinvegen 3304, Lidar",61.210921,8.951011
+1061052,"Bygdinvegen 3223, Lidar",61.206308,8.956211
+1061053,"Bygdinvegen 3220, Lidar",61.20506,8.957143
+1061054,"Bygdinvegen 3182, Lidar",61.204406,8.962243
+1061055,"Bygdinvegen 3178, Lidar",61.203967,8.963136
+1061056,"Bygdinvegen 3288, Lidar",61.207179,8.935608
+1061057,"Bygdinvegen 3252, Lidar",61.208067,8.954422
+1061058,"Bygdinvegen 3265, Lidar",61.208732,8.95537
+1061059,"Bygdinvegen 3253, Lidar",61.207744,8.956097
+1061120,"Sagastogovegen 44, Lidar",61.205274,8.952248
+1061121,"Sagastogovegen 2, Lidar",61.208641,8.953769
+1061122,"Olevegen 3, Lidar",61.215238,8.948138
+1061144,"Hagajordet 10, Lidar",61.197632,8.980111
+1061145,"Hagajordet 12, Lidar",61.19791,8.980037
+1061146,"Brennevegen 18, Lidar",61.180809,8.994329
+1061147,"Brennevegen 30, Lidar",61.183637,8.998698
+1061148,"Røsshaugen 4, Lidar",61.190675,8.98099
+1061149,"Røsshaugen 13, Lidar",61.191626,8.980543
+1061150,"Hagajordet 6, Lidar",61.197425,8.978251
+1061151,"Hagajordet 1, Lidar",61.19792,8.980893
+1061152,"Vinstervegen 147, Lidar",61.201449,8.997469
+1061153,"Vinstervegen 122, Lidar",61.202068,8.993357
+1061154,"Vinstervegen 69, Lidar",61.196574,8.992075
+1061155,"Vinstervegen 31, Lidar",61.19651,8.984298
+1061156,"Brennevegen 40, Lidar",61.184356,8.997899
+1061157,"Brennevegen 51, Lidar",61.18528,8.998512
+1061158,"Brennevegen 11, Lidar",61.182874,9.000037
+1061159,"Brennevegen 9, Lidar",61.183081,9.000409
+1061160,"Nordheimvegen 11, Lidar",61.209854,8.955406
+1061161,"Sagastogovegen 63, Lidar",61.200892,8.929685
+1061162,"Sagastogovegen 71, Lidar",61.200978,8.936655
+1061163,"Sagastogovegen 59, Lidar",61.202744,8.934873
+1061164,"Vinstervegen 2, Lidar",61.196016,8.982345
+1061165,"Nordheimvegen 45, Lidar",61.212772,8.955885
+1061166,"Nordheimvegen 31, Lidar",61.211524,8.956427
+1061167,"Nordheimvegen 23, Lidar",61.209514,8.959501
+1061169,"Sagastogovegen 88, Lidar",61.202213,8.9527
+1061170,"Sagastogovegen 84, Lidar",61.202554,8.952867
+1061171,"Sagastogovegen 70, Lidar",61.203309,8.954038
+1061172,"Sagastogovegen 40, Lidar",61.205023,8.953384
+1061173,"Sagastogovegen 49, Lidar",61.204843,8.950463
+1061174,"Sagastogovegen 198, Lidar",61.194403,8.955037
+1061175,"Sagastogovegen 194, Lidar",61.194511,8.955948
+1061176,"Sagastogovegen 92, Lidar",61.201477,8.952384
+1061185,"Skøltevegen 199, Lidar",61.185213,8.966766
+1061186,"Skøltevegen 182, Lidar",61.184675,8.96911
+1061187,"Skøltevegen 172, Lidar",61.185196,8.970709
+1061188,"Skøltevegen 160, Lidar",61.185753,8.971954
+1061191,"Skøltevegen 203, Lidar",61.186047,8.961465
+1061192,"Skøltevegen 201, Lidar",61.185087,8.962712
+1061193,"Skøltevegen 142, Lidar",61.186437,8.979877
+1061194,"Skøltevegen 159, Lidar",61.186965,8.973218
+1061195,"Skøltevegen 21, Lidar",61.197013,8.979498
+1061196,"Skøltevegen 150, Lidar",61.182118,8.973092
+1061197,"Skøltevegen 148, Lidar",61.181929,8.972144
+1061198,"Skøltevegen 146, Lidar",61.18473,8.973889
+1061199,"Skøltevegen 154, Lidar",61.185215,8.973554
+1061200,"Kjøkvegen 37, Lidar",61.189822,8.987296
+1061201,"Kjøkvegen 8, Lidar",61.191196,8.992913
+1061202,"Røsshaugen 3, Lidar",61.190028,8.981251
+1061203,"Røsshaugen 1, Lidar",61.18992,8.9806
+1061204,"Skøltevegen 17, Lidar",61.197049,8.980261
+1061205,"Skøltevegen 39, Lidar",61.195064,8.978904
+1061206,"Skøltevegen 36, Lidar",61.195208,8.980039
+1061207,"Skøltevegen 12, Lidar",61.197192,8.981377
+1062208,"Bygdinvegen 3068, Lidar",61.198462,8.981448
+1062543,"Bygdinvegen 2821, Lidar",61.182452,9.003347
+1062545,"Bygdinvegen 3063, Lidar",61.199293,8.983887
+1062546,"Bygdinvegen 3038, Lidar",61.196259,8.980912
+1062547,"Bygdinvegen 2973, Lidar",61.194105,8.992503
+1062548,"Bygdinvegen 2937, Lidar",61.193378,9.001284
+1062589,"Hagajordet 5, Lidar",61.198727,8.979869
+1062590,"Sagastogovegen 65, Lidar",61.201904,8.925217
+1062593,"Hagajordet 3, Lidar",61.198288,8.980371
+1062600,"Beitovegen 194, Lidar",61.209366,8.912767
+1062601,"Beitovegen 128, Lidar",61.213407,8.929601
+1373802,"Nordheimvegen 25, Lidar",61.210587,8.958404
+1639868,"Liagrende 7, Lidar",61.223928,8.903131
+1658848,"Beitovegen 190, Lidar",61.209375,8.914492
+1660688,"Liagrende 36, Lidar",61.227062,8.903375
+1660690,"Liagrende 35, Lidar",61.226328,8.903908
+1660691,"Liagrende 37, Lidar",61.227046,8.903919
+1663551,"Vinstervegen 149, Lidar",61.200108,8.999243
+1732718,"Olevegen 52, Lidar",61.218919,8.949044
+1732722,"Beitovegen 208, Lidar",61.211991,8.916806
+1732727,"Beitovegen 459B, Lidar",61.231585,8.894854
+1732750,"Skøltevegen 8, Lidar",61.197561,8.981805
+1732817,"Olevegen 38, Lidar",61.218434,8.948877
+1732819,"Olevegen 36, Lidar",61.218269,8.949481
+1732821,"Olevegen 50, Lidar",61.218686,8.949584
+1743836,"Javnstølen 12, Lidar",61.230248,9.004037
+1743837,"Javnstølen 11, Lidar",61.229962,9.004252
+1743840,"Javnstølen 13, Lidar",61.230549,9.004403
+1743842,"Javnstølen 8, Lidar",61.229027,9.005642
+1743844,"Javnstølen 7, Lidar",61.228944,9.005319
+1743846,"Javnstølen 10, Lidar",61.229546,9.00478
+1743847,"Javnstølen 9, Lidar",61.229178,9.004442
+1743849,"Javnstølen 4, Lidar",61.224284,9.013398
+1743850,"Javnstølen 6, Lidar",61.22724,9.009887
+1743852,"Javnstølen 5, Lidar",61.227027,9.010997
+1743858,"Øystre Mørstadstølen 3, Lidar",61.212296,9.012593
+1743859,"Øystre Mørstadstølen 2, Lidar",61.212586,9.010027
+1743861,"Øystre Mørstadstølen 5, Lidar",61.212655,9.019983
+1743862,"Øystre Mørstadstølen 4, Lidar",61.212085,9.014344
+1743863,"Øystre Mørstadstølen 1, Lidar",61.211725,9.005736
+1743865,"Liheimstølen 3, Lidar",61.204175,8.988877
+1743994,"Nørre Vindin 4, Lidar",61.202402,9.026666
+1743996,"Nørre Vindin 3, Lidar",61.201825,9.019395
+1743999,"Liheimstølen 1, Lidar",61.203714,8.990884
+1744007,"Nørre Vindin 2, Lidar",61.198015,9.018443
+1744009,"Nørre Vindin 1, Lidar",61.197444,9.014326
+1744053,"Javnstølen 41, Lidar",61.235634,9.002766
+1744055,"Javnstølen 40, Lidar",61.234772,9.001009
+1744058,"Javnstølen 29, Lidar",61.235223,8.996386
+1744059,"Javnstølen 37, Lidar",61.235473,8.998541
+1744060,"Javnstølen 36, Lidar",61.236517,8.99631
+1744062,"Javnstølen 39, Lidar",61.233982,9.000804
+1744063,"Javnstølen 38, Lidar",61.234741,8.999522
+1744067,"Javnstølen 43, Lidar",61.237563,9.004304
+1744071,"Javnstølen 26, Lidar",61.23257,9.000292
+1744074,"Javnstølen 15, Lidar",61.231058,9.004069
+1744115,"Javnstølen 35, Lidar",61.237722,8.993842
+1744240,"Javnstølen 27, Lidar",61.232782,8.999662
+1744241,"Javnstølen 25, Lidar",61.231842,8.998293
+1744242,"Javnstølen 28, Lidar",61.23246,8.997992
+1744243,"Javnstølen 24, Lidar",61.231842,9.000028
+1744245,"Javnstølen 34, Lidar",61.238636,8.995221
+1744248,"Javnstølen 31, Lidar",61.236834,8.991924
+1744249,"Javnstølen 30, Lidar",61.236382,8.994219
+1744250,"Javnstølen 33, Lidar",61.238314,8.991945
+1744251,"Javnstølen 32, Lidar",61.238142,8.98966
+1744252,"Svartetjednhøgde 10, Lidar",61.223984,9.006938
+1744254,"Svartetjednhøgde 13, Lidar",61.218331,9.001844
+1744255,"Svartetjednhøgde 12, Lidar",61.225031,9.007131
+1744256,"Svartetjednhøgde 11, Lidar",61.224692,9.006203
+1744257,"Svartetjednhøgde 5, Lidar",61.213489,9.013768
+1744258,"Svartetjednhøgde 7, Lidar",61.21895,9.009284
+1744260,"Svartetjednhøgde 6, Lidar",61.214839,9.015145
+1744267,"Svartetjednhøgde 1, Lidar",61.216295,9.006298
+1744268,"Øystre Mørstadstølen 6, Lidar",61.213289,9.018507
+1744270,"Svartetjednhøgde 3, Lidar",61.217354,9.007056
+1744271,"Javnstølen 22, Lidar",61.23312,9.00186
+1744272,"Javnstølen 21, Lidar",61.232273,9.002054
+1744273,"Javnstølen 23, Lidar",61.232351,9.000783
+1744274,"Javnstølen 18, Lidar",61.234512,9.004253
+1744275,"Javnstølen 17, Lidar",61.231588,9.005309
+1744276,"Javnstølen 20, Lidar",61.230414,9.000621
+1744277,"Javnstølen 19, Lidar",61.235265,9.003757
+1744278,"Javnstølen 2, Lidar",61.226326,9.007603
+1744279,"Javnstølen 14, Lidar",61.230715,9.003433
+1744280,"Javnstølen 1, Lidar",61.225837,9.008238
+1744281,"Javnstølen 16, Lidar",61.231484,9.00422
+1744282,"Javnstølen 3, Lidar",61.223609,9.012504
+1744300,"Midtre Javnlie 137, Lidar",61.23381,9.037234
+1744301,"Midtre Javnlie 136, Lidar",61.234373,9.036606
+1744302,"Midtre Javnlie 135, Lidar",61.233975,9.036066
+1744303,"Midtre Javnlie 134, Lidar",61.234452,9.035239
+1744304,"Midtre Javnlie 133, Lidar",61.234955,9.03328
+1744305,"Midtre Javnlie 131, Lidar",61.234591,9.03425
+1744306,"Midtre Javnlie 129, Lidar",61.235552,9.036068
+1744307,"Midtre Javnlie 128, Lidar",61.234711,9.037289
+1744308,"Midtre Javnlie 127, Lidar",61.234641,9.038908
+1744322,"Midtre Javnlie 126, Lidar",61.23498,9.038135
+1744323,"Midtre Javnlie 125, Lidar",61.23543,9.037704
+1744324,"Midtre Javnlie 124, Lidar",61.236055,9.036824
+1744326,"Midtre Javnlie 123, Lidar",61.236817,9.038695
+1744367,"Midtre Javnlie 121, Lidar",61.237744,9.03866
+1744368,"Midtre Javnlie 120, Lidar",61.23855,9.037977
+1744369,"Midtre Javnlie 119, Lidar",61.237952,9.037635
+1744370,"Midtre Javnlie 118, Lidar",61.237025,9.036303
+1744371,"Midtre Javnlie 117, Lidar",61.236744,9.035153
+1744383,"Midtre Javnlie 95, Lidar",61.238074,9.034644
+1744384,"Midtre Javnlie 104, Lidar",61.234938,9.026262
+1744385,"Midtre Javnlie 103, Lidar",61.235006,9.024884
+1744386,"Midtre Javnlie 102, Lidar",61.235413,9.02525
+1744387,"Midtre Javnlie 101, Lidar",61.235433,9.02726
+1744388,"Midtre Javnlie 60, Lidar",61.235284,9.018143
+1744389,"Midtre Javnlie 99, Lidar",61.237811,9.03006
+1744391,"Midtre Javnlie 98, Lidar",61.238325,9.030694
+1744392,"Midtre Javnlie 97, Lidar",61.238603,9.031242
+1744393,"Midtre Javnlie 96, Lidar",61.238481,9.032311
+1744395,"Midtre Javnlie 55, Lidar",61.237121,9.018811
+1744396,"Midtre Javnlie 91, Lidar",61.238915,9.031805
+1744397,"Midtre Javnlie 188, Lidar",61.231848,9.031606
+1744398,"Midtre Javnlie 90, Lidar",61.239559,9.030793
+1744399,"Midtre Javnlie 184, Lidar",61.230497,9.03303
+1744400,"Midtre Javnlie 89, Lidar",61.239572,9.031609
+1744401,"Midtre Javnlie 183, Lidar",61.227405,9.034927
+1744402,"Midtre Javnlie 88, Lidar",61.240277,9.030963
+1744403,"Midtre Javnlie 182, Lidar",61.225968,9.038917
+1744404,"Midtre Javnlie 86, Lidar",61.240054,9.029739
+1744405,"Midtre Javnlie 181, Lidar",61.225159,9.039552
+1744406,"Midtre Javnlie 85, Lidar",61.23924,9.029359
+1744407,"Midtre Javnlie 180, Lidar",61.225213,9.041204
+1744408,"Midtre Javnlie 84, Lidar",61.239783,9.028403
+1744409,"Midtre Javnlie 178, Lidar",61.225663,9.041724
+1744410,"Midtre Javnlie 94, Lidar",61.238927,9.035545
+1744411,"Midtre Javnlie 93, Lidar",61.239293,9.03511
+1744412,"Midtre Javnlie 170, Lidar",61.226536,9.038883
+1744413,"Midtre Javnlie 92, Lidar",61.23924,9.032438
+1744421,"Sørre Javnlie 9, Lidar",61.232791,9.011972
+1744423,"Sørre Javnlie 10, Lidar",61.232377,9.012558
+1744424,"Midtre Javnlie 42, Lidar",61.24303,9.022317
+1744426,"Sørre Javnlie 7, Lidar",61.23368,9.010842
+1744427,"Midtre Javnlie 41, Lidar",61.242122,9.023328
+1744429,"Sørre Javnlie 8, Lidar",61.233108,9.010885
+1744430,"Midtre Javnlie 39, Lidar",61.241091,9.024087
+1744432,"Sørre Javnlie 5, Lidar",61.234363,9.012216
+1744433,"Midtre Javnlie 38, Lidar",61.241152,9.025451
+1744435,"Sørre Javnlie 6, Lidar",61.23406,9.010384
+1744436,"Midtre Javnlie 36, Lidar",61.240359,9.024776
+1744438,"Sørre Javnlie 3, Lidar",61.23548,9.009769
+1744439,"Midtre Javnlie 35, Lidar",61.240529,9.02223
+1744441,"Sørre Javnlie 4, Lidar",61.234846,9.012116
+1744442,"Midtre Javnlie 34, Lidar",61.240753,9.020951
+1744444,"Midtre Javnlie 31, Lidar",61.238822,9.02192
+1744446,"Javnstølen 42, Lidar",61.237315,9.003989
+1744447,"Midtre Javnlie 30, Lidar",61.239527,9.020753
+1744448,"Midtre Javnlie 29, Lidar",61.24015,9.020501
+1744449,"Midtre Javnlie 73, Lidar",61.23645,9.024477
+1744450,"Midtre Javnlie 72, Lidar",61.236822,9.023676
+1744451,"Midtre Javnlie 71, Lidar",61.237351,9.025012
+1744452,"Vestre Javnlie 1, Lidar",61.239571,9.003756
+1744454,"Midtre Javnlie 175, Lidar",61.226648,9.040773
+1744457,"Midtre Javnlie 174, Lidar",61.227031,9.041137
+1744460,"Midtre Javnlie 169, Lidar",61.226924,9.039337
+1744463,"Midtre Javnlie 168, Lidar",61.226941,9.037572
+1744465,"Midtre Javnlie 167, Lidar",61.227233,9.036897
+1744468,"Midtre Javnlie 164, Lidar",61.228125,9.038369
+1744471,"Midtre Javnlie 163, Lidar",61.228668,9.03728
+1744474,"Midtre Javnlie 162, Lidar",61.230228,9.037836
+1744476,"Midtre Javnlie 160, Lidar",61.229835,9.041487
+1744477,"Midtre Javnlie 80, Lidar",61.238,9.029189
+1744479,"Midtre Javnlie 79, Lidar",61.236848,9.029244
+1744481,"Midtre Javnlie 78, Lidar",61.237106,9.027782
+1744482,"Midtre Javnlie 77, Lidar",61.236341,9.027556
+1744483,"Midtre Javnlie 76, Lidar",61.236632,9.026882
+1744484,"Midtre Javnlie 75, Lidar",61.235745,9.026543
+1744485,"Midtre Javnlie 74, Lidar",61.236002,9.025363
+1744486,"Midtre Javnlie 51, Lidar",61.241336,9.018294
+1744487,"Midtre Javnlie 50, Lidar",61.241784,9.017436
+1744488,"Midtre Javnlie 49, Lidar",61.242576,9.01769
+1744489,"Midtre Javnlie 48, Lidar",61.243024,9.018618
+1744490,"Midtre Javnlie 47, Lidar",61.241933,9.018674
+1744491,"Midtre Javnlie 46, Lidar",61.241627,9.0206
+1744492,"Midtre Javnlie 45, Lidar",61.24137,9.021542
+1744494,"Midtre Javnlie 44, Lidar",61.242291,9.020586
+1744496,"Midtre Javnlie 43, Lidar",61.243023,9.020474
+1744501,"Midtre Javnlie 176, Lidar",61.226114,9.039855
+1744503,"Midtre Javnlie 62, Lidar",61.234824,9.021172
+1744504,"Midtre Javnlie 57, Lidar",61.236511,9.019036
+1744505,"Midtre Javnlie 56, Lidar",61.236424,9.017545
+1744506,"Midtre Javnlie 28, Lidar",61.240293,9.019558
+1744507,"Midtre Javnlie 26, Lidar",61.238836,9.01825
+1744508,"Midtre Javnlie 24, Lidar",61.239642,9.017097
+1744509,"Midtre Javnlie 22, Lidar",61.24379,9.016031
+1744510,"Midtre Javnlie 21, Lidar",61.2432,9.015074
+1744511,"Midtre Javnlie 20, Lidar",61.243017,9.015819
+1744512,"Midtre Javnlie 19, Lidar",61.24261,9.016452
+1744513,"Midtre Javnlie 18, Lidar",61.241587,9.014764
+1744514,"Midtre Javnlie 15, Lidar",61.240483,9.013582
+1744515,"Midtre Javnlie 70, Lidar",61.237256,9.024126
+1744516,"Midtre Javnlie 69, Lidar",61.237832,9.024436
+1744517,"Midtre Javnlie 68, Lidar",61.238239,9.023888
+1744518,"Midtre Javnlie 67, Lidar",61.237751,9.022819
+1744519,"Midtre Javnlie 66, Lidar",61.237134,9.022059
+1744520,"Midtre Javnlie 65, Lidar",61.237446,9.021497
+1744521,"Midtre Javnlie 64, Lidar",61.235834,9.020174
+1744542,"Midtre Javnlie 7, Lidar",61.242929,9.011375
+1744560,"Midtre Javnlie 155, Lidar",61.227803,9.045437
+1744561,"Midtre Javnlie 154, Lidar",61.228165,9.044704
+1744562,"Midtre Javnlie 153, Lidar",61.228941,9.043337
+1744563,"Midtre Javnlie 152, Lidar",61.229509,9.042629
+1744564,"Midtre Javnlie 151, Lidar",61.230224,9.042356
+1744565,"Midtre Javnlie 150, Lidar",61.229458,9.044463
+1744566,"Midtre Javnlie 149, Lidar",61.230159,9.043443
+1744568,"Midtre Javnlie 158, Lidar",61.228224,9.042713
+1744569,"Midtre Javnlie 157, Lidar",61.22748,9.043922
+1744570,"Midtre Javnlie 156, Lidar",61.227606,9.044651
+1744594,"Midtre Javnlie 2, Lidar",61.241561,9.008745
+1744595,"Midtre Javnlie 4, Lidar",61.241086,9.011122
+1744596,"Vestre Javnlie 19, Lidar",61.244078,9.00782
+1744597,"Midtre Javnlie 1, Lidar",61.24215,9.00928
+1744598,"Vestre Javnlie 17, Lidar",61.240533,9.003851
+1744599,"Vestre Javnlie 18, Lidar",61.240006,9.004358
+1744600,"Vestre Javnlie 14, Lidar",61.243121,9.001681
+1744601,"Vestre Javnlie 16, Lidar",61.24196,9.003835
+1744602,"Vestre Javnlie 13, Lidar",61.24493,9.001491
+1744613,"Midtre Javnlie 6, Lidar",61.242421,9.011094
+1744618,"Midtre Javnlie 140, Lidar",61.23348,9.038169
+1744622,"Vestre Javnlie 12, Lidar",61.244937,9.000572
+1744625,"Vestre Javnlie 10, Lidar",61.244647,8.996025
+1744627,"Vestre Javnlie 11, Lidar",61.244212,8.996738
+1744629,"Vestre Javnlie 8, Lidar",61.245365,8.99452
+1744630,"Vestre Javnlie 9, Lidar",61.245014,8.995107
+1744632,"Vestre Javnlie 6, Lidar",61.244098,8.995043
+1744633,"Vestre Javnlie 7, Lidar",61.244456,8.99479
+1744635,"Vestre Javnlie 3, Lidar",61.24035,9.002504
+1744637,"Vestre Javnlie 5, Lidar",61.243785,8.995772
+1744640,"Vestre Javnlie 2, Lidar",61.239892,9.00309
+1744642,"Midtre Javnlie 148, Lidar",61.229458,9.045363
+1744644,"Midtre Javnlie 147, Lidar",61.22864,9.045172
+1744646,"Midtre Javnlie 146, Lidar",61.230895,9.039861
+1744648,"Midtre Javnlie 145, Lidar",61.230962,9.037784
+1744650,"Midtre Javnlie 132, Lidar",61.235285,9.034098
+1744652,"Midtre Javnlie 144, Lidar",61.232571,9.037053
+1744654,"Midtre Javnlie 143, Lidar",61.232571,9.035974
+1744658,"Midtre Javnlie 142, Lidar",61.233334,9.035004
+1744660,"Midtre Javnlie 141, Lidar",61.232891,9.037269
+1744687,"Midtre Javnlie 115, Lidar",61.234979,9.027772
+1744688,"Midtre Javnlie 112, Lidar",61.234037,9.027554
+1744689,"Midtre Javnlie 111, Lidar",61.233542,9.027933
+1744690,"Midtre Javnlie 110, Lidar",61.233115,9.028299
+1744691,"Midtre Javnlie 109, Lidar",61.232092,9.028719
+1744692,"Midtre Javnlie 105, Lidar",61.234464,9.026725
+1744762,"Nørre Javnlie 14, Lidar",61.252559,9.014906
+1744763,"Nørre Javnlie 15, Lidar",61.253511,9.020931
+1744764,"Nørre Javnlie 16, Lidar",61.252682,9.021884
+1744765,"Nørre Javnlie 17, Lidar",61.254525,9.021222
+1744766,"Brummastølen 1, Lidar",61.250492,9.058792
+1744767,"Brummastølen 2, Lidar",61.250131,9.059473
+1744769,"Brummastølen 3, Lidar",61.249695,9.061874
+1744771,"Brummastølen 4, Lidar",61.248819,9.062295
+1744773,"Brummastølen 5, Lidar",61.248422,9.063458
+1744790,"Nørre Javnlie 13, Lidar",61.252094,9.015034
+1744791,"Øystre Hedalsstølen 8, Lidar",61.249208,8.971364
+1744792,"Øystre Hedalsstølen 9, Lidar",61.248927,8.973247
+1744793,"Øystre Hedalsstølen 10, Lidar",61.24835,8.976022
+1744794,"Øystre Hedalsstølen 11, Lidar",61.246013,8.987517
+1744795,"Øystre Hedalsstølen 12, Lidar",61.244836,8.983239
+1744796,"Øystre Hedalsstølen 13, Lidar",61.244562,8.982782
+1744797,"Øystre Hedalsstølen 14, Lidar",61.246831,8.976203
+1744798,"Øystre Hedalsstølen 15, Lidar",61.248389,8.973238
+1744799,"Nørre Javnlie 1, Lidar",61.244981,9.012624
+1744800,"Øystre Hedalsstølen 16, Lidar",61.248536,8.972374
+1744801,"Nørre Javnlie 2, Lidar",61.244661,9.014007
+1744802,"Øystre Hedalsstølen 17, Lidar",61.247086,8.970799
+1744803,"Nørre Javnlie 3, Lidar",61.244392,9.015007
+1744804,"Øysterlie 7, Lidar",61.267509,9.027125
+1744805,"Stryta 1, Lidar",61.274333,9.035545
+1744806,"Stryta 2, Lidar",61.287521,9.021633
+1744807,"Stryta 3, Lidar",61.288298,9.024099
+1744809,"Nørre Javnlie 4, Lidar",61.245064,9.016554
+1744810,"Nørre Javnlie 6, Lidar",61.244504,9.017855
+1744811,"Nørre Javnlie 7, Lidar",61.246279,9.019566
+1744812,"Nørre Javnlie 9, Lidar",61.245737,9.013659
+1744814,"Nørre Javnlie 10, Lidar",61.248039,9.010439
+1744815,"Nørre Javnlie 11, Lidar",61.250016,9.0188
+1744817,"Nørre Javnlie 12, Lidar",61.251853,9.015359
+1744825,"Skindro 2, Lidar",61.314012,9.010147
+1744826,"Skindro 3, Lidar",61.315556,9.014269
+1744827,"Skindro 4, Lidar",61.316049,9.013624
+1744828,"Skindro 5, Lidar",61.316884,9.016714
+1744829,"Skindro 6, Lidar",61.317095,9.015453
+1744830,"Skindro 7, Lidar",61.317507,9.014522
+1744831,"Skindro 8, Lidar",61.31948,9.012869
+1744832,"Skindro 9, Lidar",61.318933,9.015257
+1744833,"Skindro 10, Lidar",61.319615,9.016738
+1744835,"Skredalen 1, Lidar",61.29111,9.042321
+1744836,"Skredalen 2, Lidar",61.291675,9.043069
+1744837,"Skredalen 3, Lidar",61.287568,9.074712
+1744838,"Skredalen 4, Lidar",61.287804,9.075477
+1744839,"Skredalen 5, Lidar",61.286739,9.076125
+1744840,"Skredalen 6, Lidar",61.288369,9.075849
+1744841,"Skredalen 7, Lidar",61.288321,9.077062
+1744851,"Øysterlie 8, Lidar",61.267528,9.026728
+1744852,"Skindro 11, Lidar",61.32062,9.015303
+1744853,"Skutestølen 1, Lidar",61.225339,8.963716
+1744854,"Skutestølen 2, Lidar",61.227152,8.959015
+1744866,"Øystre Hedalsstølen 7, Lidar",61.248969,8.970121
+1744876,"Heimre Hedalsstølen 41, Lidar",61.239896,8.959364
+1744877,"Heimre Hedalsstølen 42, Lidar",61.235886,8.970017
+1744878,"Heimre Hedalsstølen 38, Lidar",61.240406,8.958411
+1744880,"Øystre Hedalsstølen 1, Lidar",61.244062,8.96225
+1744882,"Øystre Hedalsstølen 2, Lidar",61.247728,8.969068
+1744884,"Øystre Hedalsstølen 3, Lidar",61.248188,8.969681
+1744886,"Øystre Hedalsstølen 4, Lidar",61.248426,8.967536
+1744888,"Øystre Hedalsstølen 5, Lidar",61.248939,8.968049
+1744890,"Øystre Hedalsstølen 6, Lidar",61.2487,8.969149
+1744903,"Heimre Hedalsstølen 40, Lidar",61.240446,8.96078
+1744927,"Heimre Hedalsstølen 25, Lidar",61.243421,8.941147
+1744928,"Heimre Hedalsstølen 26, Lidar",61.243716,8.94077
+1744929,"Heimre Hedalsstølen 27, Lidar",61.243902,8.94023
+1744930,"Heimre Hedalsstølen 28, Lidar",61.244173,8.939254
+1744931,"Heimre Hedalsstølen 29, Lidar",61.244388,8.938408
+1744937,"Skutestølen 3, Lidar",61.227733,8.959802
+1744938,"Heimre Hedalsstølen 1, Lidar",61.237541,8.958165
+1744939,"Heimre Hedalsstølen 2, Lidar",61.238098,8.956909
+1744941,"Heimre Hedalsstølen 3, Lidar",61.238536,8.956343
+1744942,"Heimre Hedalsstølen 31, Lidar",61.24213,8.953037
+1744943,"Heimre Hedalsstølen 4, Lidar",61.239023,8.956613
+1744944,"Heimre Hedalsstølen 32, Lidar",61.241672,8.954788
+1744945,"Heimre Hedalsstølen 5, Lidar",61.239346,8.956424
+1744946,"Heimre Hedalsstølen 33, Lidar",61.240811,8.95419
+1744947,"Heimre Hedalsstølen 6, Lidar",61.239934,8.954332
+1744948,"Heimre Hedalsstølen 34, Lidar",61.240614,8.95513
+1744949,"Heimre Hedalsstølen 7, Lidar",61.241071,8.951923
+1744950,"Heimre Hedalsstølen 35, Lidar",61.240795,8.956739
+1744951,"Heimre Hedalsstølen 8, Lidar",61.240051,8.947754
+1744953,"Heimre Hedalsstølen 36, Lidar",61.240512,8.956763
+1744954,"Heimre Hedalsstølen 9, Lidar",61.242133,8.947164
+1744955,"Heimre Hedalsstølen 37, Lidar",61.240665,8.957374
+1744956,"Heimre Hedalsstølen 39, Lidar",61.240751,8.959065
+1744958,"Heimre Hedalsstølen 11, Lidar",61.242574,8.945847
+1744959,"Heimre Hedalsstølen 12, Lidar",61.239314,8.946264
+1744960,"Heimre Hedalsstølen 13, Lidar",61.241782,8.945155
+1744961,"Heimre Hedalsstølen 14, Lidar",61.242846,8.944789
+1744962,"Heimre Hedalsstølen 15, Lidar",61.243021,8.944272
+1744963,"Heimre Hedalsstølen 16, Lidar",61.243252,8.942933
+1744964,"Heimre Hedalsstølen 17, Lidar",61.242024,8.94297
+1744965,"Heimre Hedalsstølen 18, Lidar",61.24139,8.9437
+1744966,"Heimre Hedalsstølen 19, Lidar",61.241221,8.944468
+1744968,"Heimre Hedalsstølen 20, Lidar",61.240558,8.943384
+1744969,"Heimre Hedalsstølen 21, Lidar",61.241039,8.943371
+1744970,"Heimre Hedalsstølen 22, Lidar",61.241378,8.941327
+1744971,"Heimre Hedalsstølen 23, Lidar",61.242731,8.941806
+1744972,"Heimre Hedalsstølen 24, Lidar",61.243325,8.94164
+1744994,"Heimre Hedalsstølen 10, Lidar",61.24228,8.946494
+1745112,"Brummastølen 6, Lidar",61.251264,9.059787
+1745113,"Brummastølen 7, Lidar",61.252449,9.059477
+1745114,"Brummastølen 8, Lidar",61.253218,9.058011
+1745115,"Brummastølen 9, Lidar",61.255068,9.058318
+1745116,"Øysterlie 1, Lidar",61.265847,9.027393
+1745117,"Øysterlie 2, Lidar",61.266729,9.030363
+1745118,"Øysterlie 3, Lidar",61.266492,9.025619
+1745119,"Øysterlie 4, Lidar",61.2664,9.026396
+1745121,"Øysterlie 5, Lidar",61.267416,9.028711
+1745123,"Øysterlie 6, Lidar",61.267383,9.028131
+1745139,"Øystre Javnlie 11, Lidar",61.230854,9.056876
+1745141,"Øystre Javnlie 1, Lidar",61.229215,9.052702
+1745143,"Øystre Javnlie 2, Lidar",61.229153,9.053878
+1745145,"Øystre Javnlie 3, Lidar",61.229304,9.057454
+1745149,"Øystre Javnlie 4, Lidar",61.229784,9.057751
+1745151,"Øystre Javnlie 5, Lidar",61.229551,9.058761
+1745154,"Øystre Javnlie 6, Lidar",61.230451,9.056857
+1745157,"Øystre Javnlie 7, Lidar",61.230406,9.058117
+1745159,"Øystre Javnlie 8, Lidar",61.230281,9.059476
+1745161,"Øystre Javnlie 10, Lidar",61.231058,9.055986
+1745162,"Øystre Javnlie 13, Lidar",61.230908,9.058725
+1745163,"Øystre Javnlie 14, Lidar",61.23107,9.0581
+1745164,"Øystre Javnlie 15, Lidar",61.231199,9.056951
+1745165,"Øystre Javnlie 16, Lidar",61.231619,9.055565
+1745166,"Øystre Javnlie 18, Lidar",61.232286,9.05347
+1745167,"Øystre Javnlie 20, Lidar",61.230439,9.055369
+1745169,"Øystre Javnlie 22, Lidar",61.229633,9.052893
+1745170,"Øystre Javnlie 24, Lidar",61.230459,9.051498
+1745171,"Øystre Javnlie 25, Lidar",61.229825,9.051561
+1745172,"Øystre Javnlie 12, Lidar",61.230627,9.05864
+1745335,"Ole 1, Lidar",61.273535,8.980474
+1745355,"Ole 2, Lidar",61.274896,8.98144
+1745356,"Ole 3, Lidar",61.275114,8.980816
+1745357,"Ole 4, Lidar",61.275862,8.981109
+1745359,"Ole 5, Lidar",61.276014,8.976472
+1745360,"Ole 6, Lidar",61.276096,8.97307
+1745470,"Melbisheimstølen 6, Lidar",61.263962,8.947856
+1745472,"Melbisheimstølen 7, Lidar",61.264221,8.947422
+1745536,"Ole 7, Lidar",61.276166,8.969253
+1745537,"Ole 8, Lidar",61.276726,8.973755
+1745538,"Ole 9, Lidar",61.27678,8.976165
+1745539,"Ole 10, Lidar",61.277033,8.975639
+1745540,"Ole 11, Lidar",61.277915,8.969227
+1745541,"Ole 12, Lidar",61.274578,8.956849
+1745544,"Ole 13, Lidar",61.273777,8.941068
+1745974,"Oleskardet 2, Lidar",61.296806,8.943506
+1745976,"Oleskardet 1, Lidar",61.296734,8.943002
+1745978,"Oleskardet 3, Lidar",61.29581,8.944422
+1748815,"Svartetjednhøgde 9, Lidar",61.224037,9.005009
+1757149,"Bygdinvegen 3069, Lidar",61.200569,8.988464
+1764587,"Skøltevegen 156, Lidar",61.180233,8.970035
+1786919,"Øystre Javnlie 27, Lidar",61.228404,9.057897
+1786921,"Øystre Javnlie 17, Lidar",61.231994,9.054331
+1787596,"Midtre Javnlie 189, Lidar",61.229091,9.038128
+1798848,"Midtre Javnlie 139, Lidar",61.233248,9.039473
+1808632,"Midtre Javnlie 190, Lidar",61.243516,9.009885
+1834266,"Nørre Javnlie 8, Lidar",61.245096,9.018214
+1847466,"Midtre Javnlie 159, Lidar",61.229046,9.041925
+1874444,"Midtre Javnlie 10, Lidar",61.243792,9.011247
+1928601,"Øystre Javnlie 28, Lidar",61.228824,9.054445
+1928602,"Øystre Javnlie 29, Lidar",61.228684,9.055261
+1935540,"Øystre Javnlie 21, Lidar",61.229717,9.053816
+1935800,"Midtre Javnlie 27, Lidar",61.240741,9.019525
+1936104,"Javnstølen 44, Lidar",61.229339,9.00436
+1946307,"Svartetjednhøgde 2, Lidar",61.217102,9.006509
+1946308,"Svartetjednhøgde 4, Lidar",61.217949,9.007206
+1946310,"Svartetjednhøgde 8, Lidar",61.219332,9.009103
+1946840,"Nørre Javnlie 5, Lidar",61.244877,9.017089
+1946841,"Vestre Javnlie 4, Lidar",61.24267,9.001252
+1946849,"Vestre Javnlie 15, Lidar",61.241427,9.002974
+1946850,"Øystre Javnlie 19, Lidar",61.231629,9.052896
+1946853,"Øystre Javnlie 23, Lidar",61.230398,9.053068
+1946854,"Øystre Javnlie 26, Lidar",61.228588,9.057223
+1947054,"Midtre Javnlie 25, Lidar",61.239357,9.017843
+1947055,"Midtre Javnlie 32, Lidar",61.239512,9.023226
+1947056,"Midtre Javnlie 33, Lidar",61.240124,9.021353
+1947057,"Midtre Javnlie 37, Lidar",61.240815,9.026326
+1947058,"Midtre Javnlie 23, Lidar",61.243453,9.017819
+1947063,"Midtre Javnlie 40, Lidar",61.241769,9.0237
+1947064,"Midtre Javnlie 87, Lidar",61.240587,9.030265
+1947255,"Midtre Javnlie 3, Lidar",61.241104,9.009851
+1947256,"Midtre Javnlie 11, Lidar",61.244114,9.011556
+1947257,"Midtre Javnlie 9, Lidar",61.243352,9.01289
+1947258,"Midtre Javnlie 8, Lidar",61.243108,9.012032
+1947259,"Midtre Javnlie 5, Lidar",61.241956,9.010946
+1947272,"Midtre Javnlie 130, Lidar",61.235044,9.035289
+1947273,"Midtre Javnlie 114, Lidar",61.234447,9.029055
+1947275,"Midtre Javnlie 113, Lidar",61.23374,9.028363
+1947276,"Midtre Javnlie 122, Lidar",61.237309,9.037942
+1947277,"Midtre Javnlie 116, Lidar",61.235317,9.028278
+1947278,"Midtre Javnlie 106, Lidar",61.234544,9.025688
+1947279,"Midtre Javnlie 100, Lidar",61.236275,9.028823
+1947280,"Midtre Javnlie 108, Lidar",61.232969,9.027054
+1947281,"Midtre Javnlie 107, Lidar",61.233974,9.026338
+1947283,"Midtre Javnlie 83, Lidar",61.239392,9.028018
+1947284,"Midtre Javnlie 16, Lidar",61.240986,9.014403
+1947285,"Midtre Javnlie 14, Lidar",61.243555,9.014361
+1947286,"Midtre Javnlie 13, Lidar",61.242496,9.012951
+1947287,"Midtre Javnlie 12, Lidar",61.241956,9.01218
+1947289,"Midtre Javnlie 17, Lidar",61.241353,9.013476
+1947375,"Midtre Javnlie 81, Lidar",61.238717,9.028917
+1947377,"Midtre Javnlie 63, Lidar",61.23526,9.020922
+1947378,"Midtre Javnlie 82, Lidar",61.238902,9.027334
+1947381,"Midtre Javnlie 58, Lidar",61.235879,9.017264
+1947383,"Midtre Javnlie 61, Lidar",61.235035,9.020447
+1947385,"Midtre Javnlie 59, Lidar",61.235638,9.017805
+1947386,"Midtre Javnlie 52, Lidar",61.238298,9.0197
+1947388,"Midtre Javnlie 54, Lidar",61.237803,9.020232
+1947389,"Midtre Javnlie 53, Lidar",61.237983,9.01899
+1947550,"Midtre Javnlie 192, Lidar",61.227387,9.040088
+1947551,"Midtre Javnlie 173, Lidar",61.226833,9.040079
+1947552,"Midtre Javnlie 177, Lidar",61.226069,9.041386
+1947561,"Midtre Javnlie 171, Lidar",61.228022,9.040605
+1947562,"Midtre Javnlie 166, Lidar",61.227902,9.036506
+1947563,"Midtre Javnlie 172, Lidar",61.228648,9.041439
+1947564,"Midtre Javnlie 138, Lidar",61.234401,9.037797
+1947565,"Midtre Javnlie 165, Lidar",61.228191,9.036698
+1947566,"Midtre Javnlie 161, Lidar",61.230154,9.040383
+1947787,"Midtre Javnlie 187, Lidar",61.23049,9.031609
+1947788,"Midtre Javnlie 191, Lidar",61.227813,9.038772
+1947789,"Midtre Javnlie 186, Lidar",61.2309,9.032143
+1947790,"Midtre Javnlie 185, Lidar",61.230578,9.032418
+1947791,"Midtre Javnlie 179, Lidar",61.225346,9.042243
+1947807,"Midtre Javnlie 193, Lidar",61.228349,9.045863
+1952908,"Javnstølen 45, Lidar",61.229933,9.007261
+1985884,"Liagrende 39, Lidar",61.227207,8.905264
+1995474,"Øystre Javnlie 9, Lidar",61.231295,9.05501
+2005624,"Bygdinvegen 3072, Lidar",61.198684,8.981112
+2005625,"Bygdinvegen 3070, Lidar",61.198587,8.981324
+2006657,"Lidarvegen 25, Lidar",61.200669,8.982964
+2017924,"Beitovegen 447, Lidar",61.231324,8.897529
+2017929,"Beitovegen 449, Lidar",61.232936,8.897275
+2020684,"Beitovegen 445, Lidar",61.229616,8.900572
+2021329,"Bygdinvegen 2837, Hegge",61.179913,9.00988
+2025951,"Vestre Javnlie 20, Lidar",61.245867,9.001545
+2026126,"Øystre Javnlie 30, Lidar",61.230691,9.057781
+2027117,"Sagastogovegen 73, Lidar",61.203419,8.950765
+2040546,"Beitovegen 399, Lidar",61.226802,8.900311
+2054551,"Røsshaugen 5, Lidar",61.190071,8.982222
+2074995,"Beitovegen 306, Lidar",61.219578,8.907407
+2109564,"Liheimstølen 2, Lidar",61.203949,8.989632
+2180931,"Bygdinvegen 3127, Lidar",61.202902,8.977912
+2187520,"Bygdinvegen 2895, Lidar",61.189078,8.999775
+2197344,"Skindro 1, Lidar",61.312152,8.999372
+2382043,"Beitovegen 198, Lidar",61.209754,8.911593

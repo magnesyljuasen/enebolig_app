@@ -1,0 +1,880 @@
+,Navn,Long,Lat
+13941,"Mågøy, 64/3, Trondenes",68.828607,16.621879
+776852,"Tordenskjolds gate 10, Harstad",68.804348,16.546008
+776853,"Tordenskjolds gate 11, Harstad",68.804459,16.546611
+783715,"Samagata 16, Trondenes",68.805939,16.53583
+783716,"Samagata 17, Harstad",68.805731,16.537997
+783717,"Samagata 13, Harstad",68.805865,16.539023
+783718,"Samagata 14, Trondenes",68.805823,16.53669
+783721,"Samagata 18, Trondenes",68.805663,16.535563
+783722,"Samagata 19, Harstad",68.805644,16.537644
+783735,"Samagata 3A, Harstad",68.805868,16.541676
+783736,"Samagata 4, Trondenes",68.806002,16.539776
+783737,"Samagata 1B, Harstad",68.805679,16.541737
+783738,"Samagata 3, Harstad",68.805699,16.541441
+783739,"Samagata 7, Harstad",68.805779,16.540554
+783740,"Samagata 8, Trondenes",68.806056,16.538714
+783741,"Samagata 5, Harstad",68.805768,16.540801
+783742,"Samagata 6, Trondenes",68.80608,16.539063
+783743,"Samagata 11, Harstad",68.805781,16.539364
+783744,"Samagata 12, Trondenes",68.805809,16.537333
+783745,"Samagata 9, Harstad",68.805842,16.539567
+783746,"Samagata 10, Trondenes",68.806101,16.537701
+783934,"Madsemyra 16A, Trondenes",68.827122,16.561093
+783935,"Madsemyra 16B, Trondenes",68.827111,16.56134
+783940,"Madsemyra 16C, Trondenes",68.82709,16.561587
+783941,"H.S.D. 1, Trondenes",68.828271,16.565914
+783942,"Trondenesveien 41, Trondenes",68.809395,16.538474
+783943,"Trondenesveien 45, Trondenes",68.809735,16.539589
+783944,"Trondenesveien 35, Trondenes",68.808969,16.537006
+783945,"Trondenesveien 39, Trondenes",68.809248,16.537918
+783946,"Trondenesveien 50, Trondenes",68.810425,16.541645
+783947,"Trondenesveien 51, Trondenes",68.810559,16.540786
+783948,"Trondenesveien 47, Trondenes",68.809997,16.540351
+783949,"Trondenesveien 48, Trondenes",68.810229,16.541532
+783950,"Trondenesveien 53, Trondenes",68.810809,16.540878
+783951,"Trondenesveien 54A, Trondenes",68.810888,16.542074
+783952,"Trondenesveien 52A, Trondenes",68.810613,16.541732
+783953,"Trondenesveien 52B, Trondenes",68.810685,16.541713
+783954,"Trondenesveien 56A, Trondenes",68.811308,16.542252
+783955,"Trondenesveien 56B, Trondenes",68.81127,16.542447
+783956,"Trondenesveien 54B, Trondenes",68.810959,16.542153
+783957,"Trondenesveien 55, Trondenes",68.811023,16.541042
+783958,"Trondenesveien 15, Trondenes",68.807634,16.531906
+783959,"Trondenesveien 16, Trondenes",68.807589,16.532845
+783960,"Trondenesveien 13, Trondenes",68.807594,16.531358
+783961,"Trondenesveien 14, Trondenes",68.807369,16.532408
+783962,"Trondenesveien 22, Trondenes",68.808091,16.534913
+783963,"Trondenesveien 23, Trondenes",68.80817,16.534125
+783964,"Trondenesveien 20, Trondenes",68.807945,16.534233
+783965,"Trondenesveien 21, Trondenes",68.808011,16.533841
+783966,"Trondenesveien 26, Trondenes",68.808378,16.535924
+783967,"Trondenesveien 27, Trondenes",68.808448,16.535086
+783968,"Trondenesveien 24, Trondenes",68.808256,16.535469
+783969,"Trondenesveien 25, Trondenes",68.808283,16.534529
+783970,"Trondenesveien 31, Trondenes",68.8087,16.53607
+783971,"Trondenesveien 33, Trondenes",68.808839,16.536551
+783972,"Trondenesveien 29, Trondenes",68.808588,16.535468
+783973,"Trondenesveien 30, Trondenes",68.808656,16.536886
+783980,"Trondenesveien 59, Trondenes",68.811545,16.541847
+783981,"Trondenesveien 57, Trondenes",68.81129,16.541283
+783982,"Trondenesveien 58, Trondenes",68.811494,16.542537
+784019,"Trondenesveien 1, Trondenes",68.806168,16.529326
+784020,"Trondenesveien 2, Trondenes",68.806369,16.529934
+784023,"Trondenesveien 4, Trondenes",68.806574,16.530072
+784024,"Trondenesveien 5, Trondenes",68.80682,16.529668
+784025,"Trondenesveien 3, Trondenes",68.806483,16.529248
+784026,"Trondenesveien 3B, Trondenes",68.806571,16.529403
+784027,"Trondenesveien 9, Trondenes",68.807219,16.530117
+784028,"Trondenesveien 11, Trondenes",68.80735,16.530547
+784029,"Trondenesveien 6, Trondenes",68.806804,16.530411
+784030,"Trondenesveien 8, Trondenes",68.80699,16.530721
+784163,"Nordmarkveien 39, Trondenes",68.815083,16.544423
+784164,"Nordmarkveien 40, Trondenes",68.814948,16.545406
+784165,"Nordmarkveien 37, Trondenes",68.81498,16.543871
+784166,"Nordmarkveien 38, Trondenes",68.814819,16.544852
+784167,"Nypeveien 1, Trondenes",68.813816,16.539747
+784168,"Nypeveien 3, Trondenes",68.814074,16.539914
+784169,"Nordmarkveien 41, Trondenes",68.815186,16.544951
+784170,"Nordmarkveien 43, Trondenes",68.815349,16.545682
+784171,"Nypeveien 10, Trondenes",68.814994,16.541367
+784172,"Hagalia 6, Trondenes",68.815413,16.54457
+784173,"Nypeveien 5, Trondenes",68.81435,16.540181
+784174,"Nypeveien 8, Trondenes",68.814691,16.541098
+784175,"Hagalia 17, Trondenes",68.816926,16.54599
+784176,"Hagalia 18, Trondenes",68.816854,16.546977
+784177,"Hagalia 8, Trondenes",68.81558,16.545004
+784178,"Hagalia 10, Trondenes",68.815766,16.54524
+784179,"Nordmarkveien 15, Trondenes",68.812288,16.540038
+784180,"Nordmarkveien 16, Trondenes",68.812407,16.540741
+784181,"Nordmarkveien 12, Trondenes",68.811781,16.540573
+784182,"Nordmarkveien 14, Trondenes",68.81204,16.540666
+784183,"Nordmarkveien 19, Trondenes",68.812729,16.53987
+784184,"Nordmarkveien 20, Trondenes",68.812966,16.540408
+784185,"Nordmarkveien 17, Trondenes",68.812532,16.539782
+784186,"Nordmarkveien 18, Trondenes",68.812677,16.540685
+784187,"Nordmarkveien 23, Trondenes",68.813296,16.539711
+784188,"Nordmarkveien 29, Trondenes",68.814298,16.540971
+784189,"Nordmarkveien 21, Trondenes",68.812937,16.539637
+784190,"Nordmarkveien 22, Trondenes",68.813173,16.540348
+784191,"Nordmarkveien 35, Trondenes",68.814809,16.543015
+784192,"Nordmarkveien 36, Trondenes",68.814716,16.544324
+784193,"Nordmarkveien 31, Trondenes",68.814526,16.541508
+784194,"Nordmarkveien 33, Trondenes",68.814645,16.542211
+784195,"Skjærveien 6, Trondenes",68.815066,16.546233
+784196,"Skjærveien 7, Trondenes",68.815605,16.546196
+784197,"Skjærveien 2, Trondenes",68.81465,16.545683
+784198,"Skjærveien 4, Trondenes",68.814871,16.545996
+784199,"Skjærveien 14, Trondenes",68.816553,16.548494
+784200,"Skjærveien 15, Trondenes",68.816597,16.547555
+784201,"Skjærveien 9, Trondenes",68.815899,16.546365
+784202,"Skjærveien 12, Trondenes",68.816422,16.548113
+784203,"Skjærveien 17, Trondenes",68.816809,16.547917
+784204,"Skjærveien 18, Trondenes",68.816963,16.549763
+784205,"Hagalia 23, Trondenes",68.817585,16.547475
+784206,"Hagalia 25, Trondenes",68.817761,16.54781
+784207,"Hagalia 19, Trondenes",68.817164,16.546428
+784208,"Hagalia 21, Trondenes",68.817346,16.547136
+784209,"Hagalia 29, Trondenes",68.818139,16.548704
+784210,"Hagalia 30, Trondenes",68.818396,16.550979
+784211,"Hagalia 27, Trondenes",68.817935,16.548392
+784212,"Hagalia 28, Trondenes",68.818259,16.550325
+784213,"Hagalia 35, Trondenes",68.818591,16.550224
+784214,"Hagalia 37A, Trondenes",68.818747,16.55088
+784215,"Hagalia 31, Trondenes",68.818296,16.549161
+784216,"Hagalia 33, Trondenes",68.818417,16.549691
+784217,"Hagalia 39, Trondenes",68.81871,16.551993
+784218,"Skjærveien 1, Trondenes",68.814631,16.544764
+784219,"Hagalia 37B, Trondenes",68.818877,16.551385
+784220,"Hagalia 37C, Trondenes",68.819192,16.552226
+784221,"Tårnveien 5, Trondenes",68.810374,16.536384
+784222,"Tårnveien 6, Trondenes",68.810475,16.537185
+784223,"Tårnveien 3, Trondenes",68.810088,16.53629
+784224,"Tårnveien 4, Trondenes",68.810196,16.53724
+784225,"Bynndalsveien 2B, Trondenes",68.81088,16.537957
+784226,"Bynndalsveien 4, Trondenes",68.811122,16.538073
+784227,"Tårnveien 7, Trondenes",68.810688,16.536431
+784228,"Tårnveien 8, Trondenes",68.81068,16.537298
+784229,"Bynndalsveien 8, Trondenes",68.811629,16.538455
+784230,"Bynndalsveien 9, Trondenes",68.812147,16.537722
+784231,"Bynndalsveien 5, Trondenes",68.811636,16.537687
+784232,"Bynndalsveien 6, Trondenes",68.811362,16.538313
+784233,"Bynndalsveien 12, Trondenes",68.812067,16.538634
+784234,"Bynndalsveien 13, Trondenes",68.812805,16.538388
+784235,"Bynndalsveien 10, Trondenes",68.811853,16.538545
+784236,"Bynndalsveien 11, Trondenes",68.812591,16.538249
+784250,"Tårnveien 1, Trondenes",68.809829,16.536148
+784253,"Bregnehaugen 18, Trondenes",68.814804,16.54051
+784254,"Bregnehaugen 19, Trondenes",68.814556,16.539179
+784255,"Bregnehaugen 15, Trondenes",68.814096,16.538527
+784256,"Bregnehaugen 17, Trondenes",68.814326,16.538865
+784257,"Nordmarkveien 2, Trondenes",68.809946,16.539107
+784258,"Nordmarkveien 2B, Trondenes",68.810103,16.53954
+784259,"Bregnehaugen 21, Trondenes",68.814777,16.539591
+784260,"Bregnehaugen 23, Trondenes",68.815053,16.539808
+784261,"Nordmarkveien 6, Trondenes",68.810512,16.540039
+784262,"Nordmarkveien 7, Trondenes",68.811259,16.539719
+784263,"Nordmarkveien 4, Trondenes",68.810233,16.540045
+784264,"Nordmarkveien 5, Trondenes",68.811046,16.539531
+784265,"Nordmarkveien 10, Trondenes",68.811566,16.540534
+784266,"Nordmarkveien 11, Trondenes",68.812055,16.540022
+784267,"Nordmarkveien 8, Trondenes",68.811305,16.54059
+784268,"Nordmarkveien 9, Trondenes",68.811474,16.539734
+784269,"Bynndalsveien 19, Trondenes",68.813577,16.539309
+784270,"Bregnehaugen 1, Trondenes",68.8124,16.537541
+784271,"Bynndalsveien 15, Trondenes",68.813072,16.538629
+784272,"Bynndalsveien 17, Trondenes",68.813332,16.538623
+784273,"Bregnehaugen 4A, Trondenes",68.812956,16.537689
+784274,"Bregnehaugen 6, Trondenes",68.813309,16.538199
+784275,"Bregnehaugen 2, Trondenes",68.812729,16.537837
+784276,"Bregnehaugen 3, Trondenes",68.812556,16.53718
+784277,"Bregnehaugen 9, Trondenes",68.813379,16.537485
+784278,"Bregnehaugen 10, Trondenes",68.813893,16.539083
+784279,"Bregnehaugen 7, Trondenes",68.813149,16.537072
+784280,"Bregnehaugen 8, Trondenes",68.813673,16.538621
+784281,"Bregnehaugen 13, Trondenes",68.813857,16.538188
+784282,"Bregnehaugen 14, Trondenes",68.814417,16.539739
+784283,"Bregnehaugen 11, Trondenes",68.8136,16.537847
+784284,"Bregnehaugen 12, Trondenes",68.814124,16.539397
+784285,"Skrubbhågveien 17, Trondenes",68.810145,16.53798
+784286,"Skrubbhågveien 19, Trondenes",68.810323,16.538117
+784287,"Skrubbhågveien 13, Trondenes",68.809535,16.535954
+784288,"Skrubbhågveien 16, Trondenes",68.809617,16.53777
+784289,"Skrubbhågveien 21, Trondenes",68.81058,16.538407
+784290,"Skrubbhågveien 22, Trondenes",68.810351,16.538962
+784291,"Skrubbhågveien 20A, Trondenes",68.810067,16.53857
+784292,"Skrubbhågveien 20B, Trondenes",68.81013,16.538649
+784293,"Skrubbhågveien 25, Trondenes",68.811061,16.538837
+784294,"Skrubbhågveien 26, Trondenes",68.810805,16.539291
+784295,"Skrubbhågveien 23, Trondenes",68.810839,16.538599
+784296,"Skrubbhågveien 24, Trondenes",68.810583,16.539127
+784297,"Skrubbhågveien 29, Trondenes",68.811587,16.539221
+784298,"Skrubbhågveien 31, Trondenes",68.811819,16.539287
+784299,"Skrubbhågveien 27A, Trondenes",68.81124,16.538874
+784300,"Skrubbhågveien 27B, Trondenes",68.811292,16.539052
+784301,"Hagebyveien 84, Trondenes",68.815217,16.550336
+784302,"Hagebyveien 85, Trondenes",68.814892,16.548676
+784303,"Hagebyveien 82, Trondenes",68.814878,16.550138
+784304,"Hagebyveien 83, Trondenes",68.81467,16.548413
+784305,"Hagebyveien 91A, Trondenes",68.815562,16.549889
+784306,"Hagebyveien 91B, Trondenes",68.815615,16.549991
+784307,"Hagebyveien 87, Trondenes",68.815219,16.54917
+784308,"Hagebyveien 89, Trondenes",68.815422,16.549482
+784309,"Hagebyveien 96, Trondenes",68.816629,16.552892
+784310,"Hagebyveien 97, Trondenes",68.816376,16.55121
+784311,"Hagebyveien 93, Trondenes",68.815783,16.550276
+784312,"Hagebyveien 94, Trondenes",68.816417,16.552528
+784313,"Skrubbhågveien 10B, Trondenes",68.809077,16.536414
+784314,"Skrubbhågveien 11, Trondenes",68.80935,16.53557
+784315,"Skrubbhågveien 8, Trondenes",68.808907,16.535936
+784316,"Skrubbhågveien 10A, Trondenes",68.809044,16.536275
+784335,"Skrubbhågveien 33, Trondenes",68.812088,16.53933
+784344,"Stikkveien 7, Trondenes",68.807021,16.52926
+784349,"Hagebyveien 14, Trondenes",68.807606,16.534929
+784350,"Valmuebakken 7, Trondenes",68.807773,16.535411
+784351,"Hagebyveien 11, Trondenes",68.807282,16.533121
+784352,"Hagebyveien 12, Trondenes",68.807467,16.534522
+784353,"Hagebyveien 32, Trondenes",68.809288,16.540425
+784354,"Hagebyveien 33, Trondenes",68.809133,16.538704
+784355,"Hagebyveien 29, Trondenes",68.808846,16.537692
+784356,"Hagebyveien 31, Trondenes",68.809003,16.538199
+784357,"Hagebyveien 42, Trondenes",68.810324,16.542878
+784358,"Hagebyveien 44, Trondenes",68.810492,16.543162
+784360,"Hagebyveien 35, Trondenes",68.809273,16.539135
+784361,"Hagebyveien 39, Trondenes",68.809542,16.540121
+784362,"Hagebyveien 48, Trondenes",68.810898,16.543934
+784363,"Hagebyveien 50, Trondenes",68.811112,16.544073
+784364,"Hagebyveien 46, Trondenes",68.810758,16.543528
+784365,"Hagebyveien 47, Trondenes",68.810562,16.542448
+784366,"Trondenesveien 109, Trondenes",68.817708,16.552692
+784367,"Trondenesveien 110, Trondenes",68.818646,16.556057
+784368,"Trondenesveien 107, Trondenes",68.81755,16.552284
+784369,"Trondenesveien 108, Trondenes",68.818115,16.555276
+784370,"Trondenesveien 119, Trondenes",68.818942,16.554118
+784371,"Trondenesveien 121, Trondenes",68.819146,16.554306
+784372,"Trondenesveien 115, Trondenes",68.818459,16.55396
+784373,"Trondenesveien 117, Trondenes",68.818718,16.554053
+784374,"Hagebyveien 6, Trondenes",68.806777,16.533384
+784375,"Hagebyveien 6A, Trondenes",68.806655,16.534045
+784376,"Trondenesveien 123, Trondenes",68.819667,16.554293
+784377,"Hagebyveien 3, Trondenes",68.806529,16.532003
+784378,"Hagebyveien 9, Trondenes",68.80715,16.532839
+784379,"Hagebyveien 10, Trondenes",68.807307,16.534288
+784380,"Hagebyveien 6B, Trondenes",68.806635,16.534217
+784381,"Hagebyveien 8, Trondenes",68.806998,16.533771
+784382,"Hagebyveien 69, Trondenes",68.813254,16.546256
+784383,"Hagebyveien 70, Trondenes",68.813165,16.547192
+784384,"Fiolbakken 2, Trondenes",68.813042,16.545918
+784385,"Hagebyveien 68, Trondenes",68.812943,16.546879
+784386,"Hagebyveien 73, Trondenes",68.813662,16.54678
+784387,"Hagebyveien 74, Trondenes",68.813598,16.547867
+784388,"Hagebyveien 71, Trondenes",68.813449,16.546517
+784389,"Hagebyveien 72, Trondenes",68.813333,16.547451
+784390,"Hagebyveien 77, Trondenes",68.814068,16.547503
+784391,"Hagebyveien 78, Trondenes",68.814004,16.548565
+784392,"Hagebyveien 75, Trondenes",68.813876,16.546894
+784393,"Hagebyveien 76, Trondenes",68.813783,16.548227
+784394,"Hagebyveien 80, Trondenes",68.814677,16.549579
+784395,"Hagebyveien 81, Trondenes",68.814494,16.547979
+784396,"Hagebyveien 79A, Trondenes",68.814228,16.547687
+784397,"Hagebyveien 79B, Trondenes",68.81429,16.547766
+784398,"Hagebyveien 53A, Trondenes",68.811299,16.543243
+784399,"Hagebyveien 53B, Trondenes",68.811361,16.543322
+784400,"Hagebyveien 51, Trondenes",68.811149,16.542985
+784401,"Hagebyveien 52, Trondenes",68.811315,16.544385
+784402,"Hagebyveien 56, Trondenes",68.81166,16.54493
+784403,"Hagebyveien 57, Trondenes",68.811723,16.543967
+784404,"Hagebyveien 54, Trondenes",68.811483,16.544644
+784405,"Hagebyveien 55, Trondenes",68.811564,16.543733
+784406,"Hagebyveien 60, Trondenes",68.812059,16.545528
+784407,"Hagebyveien 61, Trondenes",68.812139,16.544591
+784408,"Hagebyveien 58, Trondenes",68.811873,16.545217
+784409,"Hagebyveien 59, Trondenes",68.811918,16.544228
+784410,"Hagebyveien 65, Trondenes",68.812572,16.545266
+784411,"Hagebyveien 66, Trondenes",68.81274,16.546567
+784412,"Hagebyveien 62, Trondenes",68.812297,16.545916
+784413,"Hagebyveien 63, Trondenes",68.812334,16.544877
+784414,"Trondenesveien 105, Trondenes",68.817182,16.552259
+784415,"Trondenesveien 106B, Trondenes",68.817886,16.554637
+784429,"Trondenesveien 76, Trondenes",68.813636,16.545662
+784430,"Trondenesveien 78, Trondenes",68.813813,16.545922
+784431,"Trondenesveien 74B, Trondenes",68.813414,16.545448
+784432,"Trondenesveien 75, Trondenes",68.813834,16.542625
+784433,"Trondenesveien 102, Trondenes",68.817269,16.554066
+784434,"Trondenesveien 83, Trondenes",68.814547,16.546147
+784435,"Trondenesveien 84, Trondenes",68.81445,16.546959
+784436,"Trondenesveien 80, Trondenes",68.814044,16.546236
+784437,"Trondenesveien 82, Trondenes",68.814238,16.546522
+784438,"Trondenesveien 89, Trondenes",68.815243,16.54756
+784439,"Trondenesveien 90, Trondenes",68.815086,16.54802
+784440,"Trondenesveien 85, Trondenes",68.814749,16.546583
+784441,"Trondenesveien 88, Trondenes",68.814839,16.547581
+784442,"Trondenesveien 97, Trondenes",68.816384,16.550318
+784443,"Hagebyveien 100, Trondenes",68.817069,16.553573
+784444,"Trondenesveien 91, Trondenes",68.815411,16.547844
+784445,"Trondenesveien 92, Trondenes",68.815207,16.5485
+784446,"Trondenesveien 61, Trondenes",68.81175,16.541985
+784447,"Trondenesveien 64, Trondenes",68.812095,16.543447
+784448,"Trondenesveien 65, Trondenes",68.812165,16.542658
+784449,"Trondenesveien 62, Trondenes",68.811883,16.543085
+784450,"Trondenesveien 63, Trondenes",68.81198,16.542373
+784451,"Trondenesveien 67, Trondenes",68.812369,16.542945
+784452,"Trondenesveien 68, Trondenes",68.812485,16.544045
+784453,"Trondenesveien 66A, Trondenes",68.812255,16.543681
+784454,"Trondenesveien 66B, Trondenes",68.812317,16.543785
+784455,"Trondenesveien 72, Trondenes",68.813166,16.545109
+784456,"Trondenesveien 74A, Trondenes",68.813361,16.545345
+784457,"Trondenesveien 69, Trondenes",68.812564,16.543256
+784458,"Trondenesveien 71, Trondenes",68.812749,16.543542
+784461,"Rabbenveien 13, Harstad",68.806016,16.541215
+784462,"Rabbenveien 15, Harstad",68.805934,16.540317
+784463,"Rabbenveien 7, Harstad",68.806396,16.543746
+784476,"Samasjøveien 33A, Trondenes",68.809182,16.542278
+784477,"Samasjøveien 33B, Trondenes",68.809225,16.54238
+784478,"Samasjøveien 31A, Trondenes",68.809006,16.541894
+784479,"Samasjøveien 31B, Trondenes",68.809032,16.541945
+784480,"Samasjøveien 38, Trondenes",68.810134,16.545121
+784481,"Lilleteigen 2, Trondenes",68.806998,16.537763
+784482,"Samasjøveien 35A, Trondenes",68.809384,16.542689
+784483,"Samasjøveien 35B, Trondenes",68.80942,16.542741
+784484,"Rabbenveien 8, Trondenes",68.806308,16.540591
+784485,"Rabbenveien 5, Harstad",68.806516,16.544374
+784486,"Rabbenveien 6, Trondenes",68.806204,16.541228
+784487,"Rabbenveien 11, Harstad",68.806117,16.541842
+784488,"Rabbenveien 12, Trondenes",68.806195,16.540186
+784489,"Rabbenveien 9, Harstad",68.806175,16.542391
+784490,"Rabbenveien 10, Trondenes",68.80612,16.540627
+784523,"Naustveien 1, Trondenes",68.807239,16.534903
+784524,"Naustveien 2, Trondenes",68.806921,16.534361
+784525,"Øverteigen 1B, Trondenes",68.806852,16.530992
+784526,"Hagebyveien 5C, Trondenes",68.807123,16.531846
+784527,"Naustveien 4B, Trondenes",68.806844,16.534975
+784528,"Naustveien 8, Trondenes",68.80642,16.538169
+784529,"Naustveien 3, Trondenes",68.807118,16.535341
+784530,"Naustveien 4A, Trondenes",68.806854,16.534827
+784531,"Naustveien 11, Trondenes",68.806774,16.538714
+784532,"Naustveien 12, Trondenes",68.806473,16.539288
+784533,"Naustveien 9, Trondenes",68.806699,16.538039
+784534,"Naustveien 10, Trondenes",68.806441,16.53879
+784535,"Garveriveien 1, Trondenes",68.806464,16.535296
+784536,"Garveriveien 3, Trondenes",68.806749,16.535564
+784537,"Naustveien 14, Trondenes",68.806479,16.539611
+784538,"Naustveien 16, Trondenes",68.806529,16.539986
+784539,"Ringbergveien 16, Trondenes",68.827389,16.557389
+784540,"Ringbergveien 18, Trondenes",68.827669,16.557161
+784541,"Ringbergveien 14A, Trondenes",68.826912,16.557555
+784542,"Ringbergveien 14B, Trondenes",68.827025,16.557984
+784543,"Ringbergveien 22A, Trondenes",68.828108,16.556298
+784544,"Ringbergveien 22B, Trondenes",68.82819,16.55613
+784545,"Ringbergveien 20, Trondenes",68.827904,16.556954
+784546,"Ringbergveien 20B, Trondenes",68.828146,16.556971
+784547,"Ringbergveien 34, Trondenes",68.829999,16.553502
+784548,"Ringbergveien 39, Trondenes",68.829748,16.551499
+784549,"Ringbergveien 30, Trondenes",68.83009,16.554427
+784550,"Ringbergveien 32, Trondenes",68.829889,16.553768
+784552,"Øverteigen 1A, Trondenes",68.80682,16.531123
+784553,"Ringbergveien 44, Trondenes",68.830812,16.550953
+784555,"Solgryveien 27, Trondenes",68.809797,16.542643
+784556,"Holstneset 2, Harstad",68.806739,16.545832
+784557,"Solgryveien 23, Trondenes",68.809419,16.541798
+784558,"Solgryveien 25, Trondenes",68.809613,16.542134
+784559,"Samasjøveien 7, Trondenes",68.806478,16.541669
+784560,"Samasjøveien 8, Trondenes",68.806771,16.542978
+784561,"Samasjøveien 4, Trondenes",68.806934,16.544824
+784562,"Samasjøveien 5, Trondenes",68.806491,16.542215
+784563,"Samasjøveien 16, Trondenes",68.807123,16.540796
+784564,"Samasjøveien 26, Trondenes",68.808171,16.541404
+784565,"Samasjøveien 11, Trondenes",68.806719,16.539851
+784566,"Samasjøveien 12, Trondenes",68.806897,16.54197
+784567,"Samasjøveien 29B, Trondenes",68.808838,16.541584
+784568,"Samasjøveien 30, Trondenes",68.808627,16.542341
+784569,"Samasjøveien 28, Trondenes",68.808324,16.541822
+784570,"Samasjøveien 29A, Trondenes",68.808803,16.541508
+784571,"Holstveien 1, Trondenes",68.807621,16.53726
+784572,"Flåtenveien 2, Trondenes",68.805726,16.534501
+784573,"Garveriveien 5, Trondenes",68.80706,16.535883
+784574,"Garveriveien 8, Trondenes",68.807115,16.53668
+784575,"Flåtenveien 8, Trondenes",68.806433,16.536707
+784576,"Flåtenveien 10, Trondenes",68.806519,16.537184
+784577,"Flåtenveien 4, Trondenes",68.806055,16.534921
+784578,"Flåtenveien 6, Trondenes",68.806305,16.536054
+784579,"Solgryveien 8C, Trondenes",68.808105,16.539302
+784580,"Solgryveien 14A, Trondenes",68.808353,16.539691
+784581,"Solgryveien 8A, Trondenes",68.807749,16.539005
+784582,"Solgryveien 8B, Trondenes",68.807909,16.539115
+784583,"Solgryveien 19, Trondenes",68.809112,16.541033
+784584,"Solgryveien 21, Trondenes",68.809252,16.541415
+784585,"Solgryveien 14B, Trondenes",68.808484,16.540097
+784586,"Solgryveien 14C, Trondenes",68.808596,16.540526
+784587,"Valmuebakken 15, Trondenes",68.8084,16.537488
+784588,"Valmuebakken 16, Trondenes",68.808974,16.540428
+784589,"Valmuebakken 11, Trondenes",68.808086,16.536425
+784590,"Valmuebakken 13, Trondenes",68.808261,16.536957
+784591,"Valmuebakken 21, Trondenes",68.808923,16.53916
+784592,"Valmuebakken 23, Trondenes",68.809077,16.539964
+784593,"Valmuebakken 17, Trondenes",68.808556,16.538044
+784594,"Valmuebakken 19, Trondenes",68.808713,16.538526
+784595,"Liljeveien 3, Trondenes",68.811185,16.544946
+784596,"Liljeveien 4, Trondenes",68.811681,16.546568
+784597,"Liljeveien 1, Trondenes",68.811062,16.54459
+784598,"Liljeveien 2, Trondenes",68.811514,16.546258
+784599,"Liljeveien 7, Trondenes",68.8116,16.545595
+784600,"Liljeveien 8, Trondenes",68.81208,16.547141
+784601,"Liljeveien 5, Trondenes",68.811397,16.545258
+784602,"Liljeveien 6, Trondenes",68.811868,16.546804
+784603,"Blåveisbakken 5, Trondenes",68.811967,16.547753
+784604,"Blåveisbakken 9, Trondenes",68.812427,16.548405
+784605,"Skjærveien 35B, Trondenes",68.819403,16.552712
+784606,"Blåveisbakken 3, Trondenes",68.811773,16.547293
+784607,"Urtebakken 2, Trondenes",68.816468,16.549877
+784608,"Urtebakken 4, Trondenes",68.816582,16.550183
+784609,"Blåveisbakken 11, Trondenes",68.812622,16.548716
+784610,"Blåveisbakken 13, Trondenes",68.812853,16.548881
+784611,"Revsbakken 3, Trondenes",68.815874,16.548174
+784612,"Revsbakken 6, Trondenes",68.816724,16.549399
+784613,"Urtebakken 6, Trondenes",68.816778,16.55042
+784614,"Urtebakken 8, Trondenes",68.816898,16.550924
+784615,"Valmuebakken 9, Trondenes",68.807948,16.535894
+784616,"Valmuebakken 10, Trondenes",68.808296,16.538051
+784617,"Stråbakken 5, Trondenes",68.81728,16.548421
+784618,"Stråbakken 6, Trondenes",68.817496,16.548362
+784619,"Roseveien 8, Trondenes",68.812271,16.541872
+784620,"Roseveien 9, Trondenes",68.812491,16.541391
+784621,"Roseveien 5, Trondenes",68.812028,16.541037
+784622,"Roseveien 7, Trondenes",68.812269,16.541153
+784623,"Roseveien 12, Trondenes",68.812705,16.542497
+784624,"Roseveien 14, Trondenes",68.8129,16.542809
+784625,"Roseveien 10, Trondenes",68.812466,16.542134
+784626,"Roseveien 11, Trondenes",68.812677,16.541628
+784627,"Knivholla 6, Trondenes",68.813016,16.540907
+784628,"Ringbergveien 8A, Trondenes",68.825548,16.557608
+784629,"Roseveien 16, Trondenes",68.812942,16.543035
+784630,"Knivholla 4, Trondenes",68.813186,16.540919
+784631,"Ringbergveien 10B, Trondenes",68.826526,16.55852
+784632,"Ringbergveien 10C, Trondenes",68.826285,16.559446
+784633,"Ringbergveien 8B, Trondenes",68.826044,16.558263
+784634,"Ringbergveien 10A, Trondenes",68.826319,16.557687
+784635,"Liljeveien 11, Trondenes",68.812016,16.546244
+784636,"Liljeveien 12, Trondenes",68.81254,16.547843
+784637,"Liljeveien 9A, Trondenes",68.81176,16.545829
+784638,"Liljeveien 9B, Trondenes",68.811831,16.545909
+784639,"Liljeveien 16, Trondenes",68.812938,16.548416
+784640,"Liljeveien 17, Trondenes",68.812856,16.547567
+784641,"Liljeveien 14, Trondenes",68.812735,16.548129
+784642,"Liljeveien 15, Trondenes",68.812635,16.547279
+784643,"Liljeveien 19, Trondenes",68.813051,16.547829
+784644,"Liljeveien 21, Trondenes",68.813246,16.54814
+784645,"Liljeveien 18A, Trondenes",68.813116,16.548652
+784646,"Liljeveien 18B, Trondenes",68.813168,16.548754
+784647,"Roseveien 1, Trondenes",68.81156,16.541178
+784648,"Roseveien 3, Trondenes",68.811767,16.541093
+784649,"Liljeveien 23, Trondenes",68.813512,16.548431
+784650,"Liljeveien 25, Trondenes",68.813699,16.548667
+784651,"Skjærveien 22, Trondenes",68.817434,16.550292
+784652,"Skjærveien 24, Trondenes",68.817654,16.550729
+784653,"Skjærveien 19, Trondenes",68.816994,16.548302
+784654,"Skjærveien 20, Trondenes",68.817194,16.549978
+784655,"Skjærveien 28, Trondenes",68.818073,16.552023
+784656,"Skjærveien 29, Trondenes",68.81836,16.551994
+784657,"Skjærveien 26, Trondenes",68.817874,16.551216
+784658,"Skjærveien 27, Trondenes",68.818181,16.551014
+784659,"Skjærveien 33, Trondenes",68.818845,16.552921
+784660,"Skjærveien 35A, Trondenes",68.819253,16.553445
+784661,"Skjærveien 30, Trondenes",68.818279,16.553005
+784662,"Skjærveien 31, Trondenes",68.818508,16.552525
+784691,"St Olavs gate 2A, Harstad",68.805989,16.542205
+784692,"St Olavs gate 2B, Harstad",68.806045,16.542878
+784693,"St Olavs gate 1A, Harstad",68.806136,16.543703
+784694,"St Olavs gate 2, Harstad",68.805869,16.542569
+784695,"St Olavs gate 4, Harstad",68.805719,16.54231
+784696,"St Olavs gate 5, Harstad",68.805572,16.542647
+784697,"St Olavs gate 3, Harstad",68.805829,16.543037
+784698,"St Olavs gate 3A, Harstad",68.805891,16.543115
+784699,"St Olavs gate 8, Harstad",68.805308,16.541042
+784701,"St Olavs gate 6, Harstad",68.805393,16.541643
+784702,"St Olavs gate 7, Harstad",68.80543,16.542414
+784705,"St Olavs gate 10, Harstad",68.805093,16.541052
+784720,"St Olavs gate 1, Harstad",68.805996,16.543395
+784955,"Per Aas gate 4A, Harstad",68.804855,16.542523
+784956,"Per Aas gate 5, Harstad",68.805219,16.541978
+784957,"Per Aas gate 2, Harstad",68.804753,16.542888
+784958,"Per Aas gate 3, Harstad",68.805131,16.542765
+784961,"Per Aas gate 6, Harstad",68.805052,16.541669
+784973,"Strandgata 37, Harstad",68.803929,16.542806
+784985,"Strandgata 30, Harstad",68.803333,16.54326
+784988,"Strandgata 35, Harstad",68.80376,16.54267
+784989,"Strandgata 36, Harstad",68.80428,16.543698
+784991,"Strandgata 33A, Harstad",68.803475,16.542378
+785025,"Skolegata 18A, Harstad",68.805397,16.537647
+785026,"Skolegata 20, Harstad",68.805445,16.536812
+785027,"Skolegata 14, Harstad",68.805509,16.538726
+785028,"Skolegata 16, Harstad",68.805478,16.538203
+785029,"Tore Hunds gate 4, Harstad",68.805468,16.543235
+785030,"Tore Hunds gate 5, Harstad",68.806053,16.545011
+785031,"Tore Hunds gate 1, Harstad",68.805125,16.543509
+785032,"Tore Hunds gate 2, Harstad",68.805361,16.543153
+785033,"Tore Hunds gate 7B, Harstad",68.806457,16.545981
+785034,"Tore Hunds gate 8, Harstad",68.805882,16.544032
+785035,"Tore Hunds gate 6, Harstad",68.805626,16.543642
+785036,"Holstneset 16, Harstad",68.806125,16.54725
+785037,"Tore Hunds gate 14, Harstad",68.806306,16.54483
+785038,"Per Aas gate 1, Harstad",68.80493,16.543148
+785039,"Tore Hunds gate 10, Harstad",68.805997,16.544238
+785040,"Tore Hunds gate 12, Harstad",68.806156,16.544522
+785045,"Skolegata 4, Harstad",68.804696,16.542264
+785046,"Skolegata 5, Harstad",68.804704,16.540455
+785048,"Skolegata 2A, Harstad",68.804468,16.54267
+785049,"Skolegata 7, Harstad",68.804853,16.53987
+785050,"Skolegata 8, Harstad",68.80489,16.54074
+785051,"Skolegata 6A, Harstad",68.804813,16.541226
+785052,"Skolegata 6B, Harstad",68.804749,16.5414
+785053,"Skolegata 11B, Harstad",68.805116,16.537558
+785054,"Skolegata 12, Harstad",68.805531,16.539198
+785055,"Skolegata 9, Harstad",68.805015,16.538766
+785056,"Skolegata 10, Harstad",68.805065,16.540133
+785058,"Bjarne Erlingsøns gate 1, Harstad",68.805579,16.539871
+785061,"Bjarne Erlingsøns gate 5, Harstad",68.805338,16.53973
+785062,"Bjarne Erlingsøns gate 6, Harstad",68.805412,16.540454
+785063,"Bjarne Erlingsøns gate 1A, Harstad",68.805713,16.53993
+785064,"Bjarne Erlingsøns gate 3, Harstad",68.805445,16.539787
+785067,"Bjarne Erlingsøns gate 7, Harstad",68.805197,16.539423
+785068,"Bjarne Erlingsøns gate 8, Harstad",68.805253,16.54027
+785093,"Hålogalands gate 1A, Harstad",68.804635,16.54402
+785096,"Hålogalands gate 6, Harstad",68.804941,16.543967
+785097,"Hålogalands gate 8, Harstad",68.804818,16.54371
+785098,"Hålogalands gate 3, Harstad",68.804459,16.543685
+785099,"Hålogalands gate 3A, Harstad",68.804564,16.543941
+785102,"Hålogalands gate 10, Harstad",68.804633,16.54335
+785154,"Tordenskjolds gate 8, Harstad",68.804746,16.545597
+785155,"Tordenskjolds gate 9, Harstad",68.804749,16.546333
+785158,"Tordenskjolds gate 12, Harstad",68.804194,16.546196
+785159,"Tordenskjolds gate 14, Harstad",68.803903,16.546646
+785208,"Havnegata 2A, Harstad",68.805082,16.549207
+785210,"Havnegata 1, Harstad",68.804759,16.550127
+785211,"Havnegata 3, Harstad",68.804244,16.549571
+785212,"Havnegata 5, Harstad",68.804127,16.548645
+785229,"H F Giævers gate 8, Harstad",68.803735,16.544354
+785230,"H F Giævers gate 10, Harstad",68.803455,16.544558
+785232,"H F Giævers gate 6, Harstad",68.803544,16.543721
+785233,"Magnus gate 3, Harstad",68.804037,16.545664
+785234,"Magnus gate 5, Harstad",68.80421,16.545478
+785235,"H F Giævers gate 12, Harstad",68.803486,16.545105
+785236,"Magnus gate 1, Harstad",68.8038,16.546168
+785237,"Magnus gate 10, Harstad",68.804732,16.544275
+785238,"Magnus gate 13, Harstad",68.804963,16.544538
+785239,"Magnus gate 7, Harstad",68.804418,16.54522
+785240,"Magnus gate 9, Harstad",68.804618,16.544936
+785241,"Tordenskjolds gate 5, Harstad",68.805023,16.545782
+785242,"Magnus gate 11A, Harstad",68.804905,16.545214
+785243,"Magnus gate 15, Harstad",68.805181,16.544207
+785244,"Tordenskjolds gate 2, Harstad",68.805056,16.54514
+785246,"Havnegata 6, Harstad",68.804745,16.547697
+785247,"Havnegata 8, Harstad",68.804371,16.547497
+788996,"Ringbergveien 45, Trondenes",68.830482,16.550781
+788997,"Tårnveien 37, Trondenes",68.810931,16.532381
+789109,"Per Aas gate 5B, Harstad",68.805281,16.542131
+789115,"Havnegata 2B, Harstad",68.805204,16.548621
+789127,"Samasjøveien 6, Trondenes",68.806917,16.543732
+789182,"Hagebyveien 98, Trondenes",68.81685,16.553148
+789206,"Smedgata 4, Harstad",68.803944,16.548979
+789455,"Hagalia 43, Trondenes",68.818887,16.552279
+789463,"Bregnehaugen 16, Trondenes",68.81462,16.540076
+789531,"Garveriveien 6B, Trondenes",68.806935,16.536742
+789532,"Garveriveien 6A, Trondenes",68.806928,16.536543
+789536,"Garveriveien 6E, Trondenes",68.806931,16.537188
+789537,"Garveriveien 6D, Trondenes",68.806932,16.537089
+789538,"Garveriveien 6C, Trondenes",68.806934,16.536866
+789599,"Skjærveien 11, Trondenes",68.816103,16.546677
+789766,"Urtebakken 10, Trondenes",68.817101,16.551311
+789782,"Samagata 1A, Harstad",68.805577,16.542052
+789810,"Trondenesveien 87B, Trondenes",68.81532,16.54692
+789813,"Stråbakken 1, Trondenes",68.817699,16.54974
+789814,"Stråbakken 2, Trondenes",68.817945,16.550278
+789817,"Hagalia 20B, Trondenes",68.817136,16.547493
+789818,"Hagalia 20A, Trondenes",68.817074,16.54739
+789825,"Revsbakken 11, Trondenes",68.816775,16.548758
+789855,"Revsbakken 1, Trondenes",68.815624,16.548033
+789864,"Samasjøveien 31D, Trondenes",68.809138,16.542175
+789865,"Samasjøveien 31C, Trondenes",68.809093,16.542098
+789866,"Samasjøveien 29D, Trondenes",68.808944,16.54179
+789867,"Samasjøveien 29C, Trondenes",68.808803,16.541508
+789868,"Samasjøveien 35D, Trondenes",68.809516,16.54297
+789869,"Samasjøveien 35C, Trondenes",68.809472,16.542893
+789870,"Samasjøveien 33D, Trondenes",68.809331,16.542561
+789871,"Samasjøveien 33C, Trondenes",68.809287,16.542483
+789872,"Trondenesveien 99, Trondenes",68.816675,16.550884
+789873,"Samasjøveien 35F, Trondenes",68.809604,16.54315
+789874,"Samasjøveien 35E, Trondenes",68.809569,16.543073
+789937,"Trondenesveien 122, Trondenes",68.82032,16.55935
+789987,"Flåtenveien 7D, Trondenes",68.806521,16.53292
+789988,"Flåtenveien 1C, Trondenes",68.806412,16.533111
+789989,"Flåtenveien 1B, Trondenes",68.806394,16.533134
+789990,"Flåtenveien 1A, Trondenes",68.806378,16.533123
+789991,"Flåtenveien 21D, Trondenes",68.806192,16.533567
+789992,"Flåtenveien 5C, Trondenes",68.806519,16.533118
+789993,"Flåtenveien 5B, Trondenes",68.806501,16.533117
+789994,"Flåtenveien 5A, Trondenes",68.806484,16.533116
+789995,"Flåtenveien 1D, Trondenes",68.80643,16.533112
+789996,"Flåtenveien 3C, Trondenes",68.806414,16.532913
+789997,"Flåtenveien 3B, Trondenes",68.806395,16.532936
+789998,"Flåtenveien 3A, Trondenes",68.806378,16.532935
+789999,"Flåtenveien 5D, Trondenes",68.806537,16.533119
+790000,"Flåtenveien 7C, Trondenes",68.806521,16.53292
+790001,"Flåtenveien 7B, Trondenes",68.806503,16.532919
+790002,"Flåtenveien 7A, Trondenes",68.806485,16.532917
+790003,"Flåtenveien 3D, Trondenes",68.806432,16.532914
+790013,"Naustveien 18, Trondenes",68.80652,16.541027
+790030,"Flåtenveien 19C, Trondenes",68.806203,16.533369
+790031,"Flåtenveien 19B, Trondenes",68.806221,16.53337
+790032,"Flåtenveien 19A, Trondenes",68.806239,16.533372
+790033,"Flåtenveien 15D, Trondenes",68.806311,16.533376
+790034,"Flåtenveien 13C, Trondenes",68.806435,16.533534
+790035,"Flåtenveien 13B, Trondenes",68.806453,16.533535
+790036,"Flåtenveien 13A, Trondenes",68.806471,16.533536
+790037,"Flåtenveien 19D, Trondenes",68.806203,16.533369
+790038,"Flåtenveien 17C, Trondenes",68.806318,16.533551
+790039,"Flåtenveien 17B, Trondenes",68.806336,16.533552
+790040,"Flåtenveien 17A, Trondenes",68.806354,16.533553
+790041,"Flåtenveien 13D, Trondenes",68.806417,16.533533
+790042,"Flåtenveien 21C, Trondenes",68.80621,16.533568
+790043,"Flåtenveien 21B, Trondenes",68.806228,16.533569
+790044,"Flåtenveien 21A, Trondenes",68.806246,16.53357
+790045,"Flåtenveien 17D, Trondenes",68.8063,16.533549
+790046,"Flåtenveien 23, Trondenes",68.806215,16.534089
+790047,"Flåtenveien 29, Trondenes",68.806351,16.534842
+790048,"Flåtenveien 27, Trondenes",68.806354,16.534594
+790049,"Holstneset 10, Harstad",68.806955,16.547568
+790053,"Flåtenveien 25, Trondenes",68.806239,16.534338
+790054,"Flåtenveien 11C, Trondenes",68.806419,16.533359
+790055,"Flåtenveien 11B, Trondenes",68.806437,16.53336
+790056,"Flåtenveien 11A, Trondenes",68.806454,16.533362
+790057,"Flåtenveien 9, Trondenes",68.806347,16.533329
+790058,"Flåtenveien 15C, Trondenes",68.806329,16.533378
+790059,"Flåtenveien 15B, Trondenes",68.806347,16.533379
+790060,"Flåtenveien 15A, Trondenes",68.806365,16.53338
+790061,"Flåtenveien 11D, Trondenes",68.806401,16.533358
+790077,"Ringbergveien 33, Trondenes",68.82965,16.553428
+790080,"Skjærveien 37, Trondenes",68.819485,16.553561
+790180,"Valmuebakken 3D, Trondenes",68.807332,16.53553
+790181,"Valmuebakken 1D, Trondenes",68.807264,16.536145
+790182,"Valmuebakken 5D, Trondenes",68.807527,16.535816
+790183,"Valmuebakken 5C, Trondenes",68.807464,16.535762
+790201,"Valmuebakken 3A, Trondenes",68.807413,16.535461
+790202,"Valmuebakken 1C, Trondenes",68.807334,16.536249
+790203,"Valmuebakken 1B, Trondenes",68.807292,16.535998
+790204,"Valmuebakken 1A, Trondenes",68.807362,16.536127
+790205,"Valmuebakken 5B, Trondenes",68.807546,16.535718
+790206,"Valmuebakken 5A, Trondenes",68.807483,16.535639
+790207,"Valmuebakken 3C, Trondenes",68.807385,16.535632
+790208,"Valmuebakken 3B, Trondenes",68.807342,16.535406
+790226,"Trondenesveien 87A, Trondenes",68.814936,16.546794
+790275,"Hålogalands gate 12, Harstad",68.804385,16.542937
+790278,"Naustveien 6, Trondenes",68.806371,16.53762
+790295,"Strandgata 32B, Harstad",68.803905,16.543473
+790296,"Strandgata 32A, Harstad",68.803806,16.543442
+790302,"Strandgata 32D, Harstad",68.804084,16.543535
+790303,"Strandgata 32C, Harstad",68.803994,16.54348
+790324,"Ringbergveien 38A, Trondenes",68.830285,16.552678
+790325,"Ringbergveien 42, Trondenes",68.829796,16.552173
+790326,"Ringbergveien 40, Trondenes",68.829981,16.552533
+790331,"Ringbergveien 36, Trondenes",68.830251,16.553495
+790338,"Solgryveien 1, Trondenes",68.807738,16.53826
+790352,"Solgryveien 3, Trondenes",68.807943,16.538423
+790413,"Trondenesveien 60A, Trondenes",68.811661,16.542847
+790414,"Trondenesveien 60B, Trondenes",68.811714,16.542925
+790423,"Flåtenveien 9A, Trondenes",68.806508,16.53339
+790426,"Flåtenveien 9C, Trondenes",68.806473,16.533338
+790427,"Flåtenveien 9B, Trondenes",68.80649,16.533364
+790498,"Hagebyveien 49B, Trondenes",68.810813,16.542465
+790499,"Hagebyveien 49A, Trondenes",68.810793,16.542662
+790503,"Bynndalsveien 2A, Trondenes",68.810837,16.53778
+790507,"Samasjøveien 46A, Trondenes",68.80925,16.543621
+790508,"Samasjøveien 44B, Trondenes",68.80914,16.543887
+790509,"Samasjøveien 44A, Trondenes",68.80917,16.543591
+790510,"Samasjøveien 42B, Trondenes",68.809044,16.543607
+790511,"Samasjøveien 50A, Trondenes",68.809375,16.543729
+790512,"Samasjøveien 48B, Trondenes",68.809292,16.543947
+790513,"Samasjøveien 48A, Trondenes",68.809312,16.543675
+790514,"Samasjøveien 46B, Trondenes",68.809212,16.543916
+790515,"Holstveien 2, Trondenes",68.807225,16.537481
+790518,"Samasjøveien 50B, Trondenes",68.809328,16.543974
+790577,"Samasjøveien 32A, Trondenes",68.808827,16.542823
+790578,"Samasjøveien 34B, Trondenes",68.808824,16.54317
+790579,"Samasjøveien 34A, Trondenes",68.808879,16.542951
+790580,"Samasjøveien 38A, Trondenes",68.808985,16.543157
+790581,"Samasjøveien 36B, Trondenes",68.808885,16.543299
+790582,"Samasjøveien 36A, Trondenes",68.808932,16.543054
+790583,"Samasjøveien 32B, Trondenes",68.808762,16.543042
+790584,"Samasjøveien 42A, Trondenes",68.8091,16.543388
+790585,"Samasjøveien 40B, Trondenes",68.808991,16.543504
+790586,"Samasjøveien 40A, Trondenes",68.809047,16.54326
+790587,"Samasjøveien 38B, Trondenes",68.808938,16.543401
+790593,"H F Giævers gate 3A, Harstad",68.804103,16.54433
+790594,"H F Giævers gate 3C, Harstad",68.804193,16.544386
+790595,"H F Giævers gate 3B, Harstad",68.804114,16.544157
+790598,"Strandgata 33B, Harstad",68.803581,16.542608
+790673,"Skolegata 2B, Harstad",68.804534,16.542352
+790733,"H F Giævers gate 16, Harstad",68.804052,16.545095
+790736,"Magnus gate 4, Harstad",68.80378,16.545398
+790744,"H F Giævers gate 9, Harstad",68.804524,16.545475
+790745,"H F Giævers gate 5, Harstad",68.804333,16.544718
+790750,"H F Giævers gate 14, Harstad",68.803965,16.544791
+790785,"Magnus gate 8B, Harstad",68.804496,16.544531
+790786,"Magnus gate 8A, Harstad",68.804414,16.544649
+790792,"Trondenesveien 136, Trondenes",68.822942,16.560005
+790793,"Trondenesveien 140, Trondenes",68.823411,16.559815
+790794,"Trondenesveien 138, Trondenes",68.823909,16.562182
+790795,"Trondenesveien 128, Trondenes",68.821929,16.562911
+790799,"Trondenesveien 130, Trondenes",68.822349,16.562073
+790800,"Trondenesveien 134, Trondenes",68.823039,16.561253
+790801,"Trondenesveien 132, Trondenes",68.822788,16.561235
+790810,"Liljeveien 13B, Trondenes",68.812193,16.546479
+790811,"Liljeveien 13A, Trondenes",68.812256,16.546533
+790836,"Bjarne Erlingsøns gate 2, Harstad",68.805564,16.540515
+790842,"Bjarne Erlingsøns gate 4, Harstad",68.805578,16.540937
+790940,"Havnegata 4A, Harstad",68.804774,16.548541
+790944,"Havnegata 4E, Harstad",68.805001,16.548161
+790945,"Havnegata 4D, Harstad",68.805029,16.548063
+790946,"Havnegata 4C, Harstad",68.804709,16.54876
+790947,"Havnegata 4B, Harstad",68.804737,16.548638
+790948,"Havnegata 4I, Harstad",68.804854,16.548621
+790949,"Havnegata 4H, Harstad",68.804891,16.5485
+790950,"Havnegata 4G, Harstad",68.804928,16.548354
+790951,"Havnegata 4F, Harstad",68.804965,16.548257
+790952,"Havnegata 4K, Harstad",68.804797,16.54889
+790953,"Havnegata 4J, Harstad",68.804835,16.548744
+790968,"Magnus gate 2I, Harstad",68.803482,16.545601
+790969,"Magnus gate 2H, Harstad",68.803553,16.54563
+790970,"Magnus gate 2G, Harstad",68.803636,16.545463
+790978,"Roseveien 6, Trondenes",68.812075,16.541759
+790985,"Magnus gate 2B, Harstad",68.803579,16.545781
+790986,"Magnus gate 2A, Harstad",68.803661,16.545638
+790989,"Magnus gate 2F, Harstad",68.803472,16.545674
+790990,"Magnus gate 2E, Harstad",68.80357,16.545706
+790991,"Magnus gate 2D, Harstad",68.803653,16.545563
+790992,"Magnus gate 2C, Harstad",68.803463,16.545723
+791008,"Skrubbhågveien 3O, Trondenes",68.807961,16.532449
+791010,"Skrubbhågveien 3N, Trondenes",68.807987,16.532575
+791011,"Skrubbhågveien 3M, Trondenes",68.808013,16.532676
+791012,"Skrubbhågveien 3L, Trondenes",68.807877,16.531799
+791013,"Skrubbhågveien 3S, Trondenes",68.807968,16.532697
+791014,"Skrubbhågveien 3R, Trondenes",68.807849,16.531871
+791015,"Skrubbhågveien 3Q, Trondenes",68.807901,16.532073
+791016,"Skrubbhågveien 3P, Trondenes",68.807935,16.532274
+791017,"Skrubbhågveien 3W, Trondenes",68.807831,16.531944
+791018,"Skrubbhågveien 3V, Trondenes",68.807856,16.532119
+791019,"Skrubbhågveien 3U, Trondenes",68.807891,16.532271
+791020,"Skrubbhågveien 3T, Trondenes",68.807916,16.532446
+791024,"Skrubbhågveien 1, Trondenes",68.807781,16.532511
+791054,"Skrubbhågveien 3C, Trondenes",68.808008,16.532204
+791055,"Skrubbhågveien 3A, Trondenes",68.808067,16.532555
+791056,"Skrubbhågveien 3B, Trondenes",68.808042,16.53238
+791057,"Skrubbhågveien 5, Trondenes",68.808162,16.533033
+791058,"Skrubbhågveien 3G, Trondenes",68.80804,16.532628
+791059,"Skrubbhågveien 3F, Trondenes",68.807922,16.531777
+791060,"Skrubbhågveien 3E, Trondenes",68.807957,16.531903
+791061,"Skrubbhågveien 3D, Trondenes",68.807983,16.532029
+791062,"Skrubbhågveien 3K, Trondenes",68.80792,16.531975
+791063,"Skrubbhågveien 3J, Trondenes",68.807955,16.532151
+791064,"Skrubbhågveien 3I, Trondenes",68.807989,16.532302
+791065,"Skrubbhågveien 3H, Trondenes",68.808015,16.532453
+791083,"Hamnneset 114, Harstad",68.805841,16.55055
+791085,"Hamnneset 113, Harstad",68.805842,16.55045
+791087,"Hamnneset 112, Harstad",68.805867,16.550651
+791089,"Hamnneset 111, Harstad",68.805868,16.550551
+791091,"Hamnneset 118, Harstad",68.805822,16.550647
+791093,"Hamnneset 117, Harstad",68.805823,16.550548
+791095,"Hamnneset 116, Harstad",68.805824,16.550449
+791097,"Hamnneset 115, Harstad",68.80584,16.550649
+791099,"Hamnneset 122, Harstad",68.805735,16.550393
+791100,"Hamnneset 121, Harstad",68.805804,16.550646
+791101,"Hamnneset 120, Harstad",68.805805,16.550547
+791103,"Hamnneset 119, Harstad",68.805806,16.550448
+791108,"Hamnneset 123, Harstad",68.805734,16.550492
+791120,"Skrubbhågveien 7, Trondenes",68.808335,16.533714
+791121,"Skrubbhågveien 9, Trondenes",68.808466,16.534071
+791125,"Hamnneset 167, Harstad",68.805242,16.550334
+791133,"Hamnneset 171, Harstad",68.805214,16.550431
+791135,"Hamnneset 170, Harstad",68.805215,16.550332
+791137,"Hamnneset 169, Harstad",68.80524,16.550557
+791139,"Hamnneset 168, Harstad",68.805241,16.550433
+791145,"Hamnneset 172, Harstad",68.805213,16.550555
+791180,"Hamnneset 102, Harstad",68.80593,16.550581
+791182,"Hamnneset 101, Harstad",68.805931,16.550457
+791188,"Hamnneset 106, Harstad",68.805912,16.550654
+791190,"Hamnneset 105, Harstad",68.805912,16.550579
+791193,"Hamnneset 104, Harstad",68.805913,16.550455
+791195,"Hamnneset 103, Harstad",68.80593,16.550655
+791197,"Hamnneset 110, Harstad",68.805869,16.550452
+791199,"Hamnneset 109, Harstad",68.805894,16.550652
+791201,"Hamnneset 108, Harstad",68.805894,16.550578
+791203,"Hamnneset 107, Harstad",68.805896,16.550454
+791213,"Samasjøveien 18, Trondenes",68.807433,16.541214
+791228,"Bynndalsveien 3, Trondenes",68.811314,16.537565
+791230,"Bynndalsveien 7, Trondenes",68.811886,16.537803
+791232,"Hagebyveien 7, Trondenes",68.80703,16.532261
+791489,"Hamnneset 181, Harstad",68.805176,16.550627
+791522,"Hamnneset 130, Harstad",68.80568,16.550514
+791523,"Hamnneset 129, Harstad",68.805681,16.550414
+791524,"Hamnneset 128, Harstad",68.805705,16.550689
+791528,"Hamnneset 126, Harstad",68.805707,16.550491
+791529,"Hamnneset 134, Harstad",68.805653,16.550487
+791530,"Hamnneset 133, Harstad",68.805654,16.550388
+791531,"Hamnneset 132, Harstad",68.805678,16.550712
+791532,"Hamnneset 131, Harstad",68.805679,16.550613
+791533,"Hamnneset 138, Harstad",68.805626,16.550485
+791534,"Hamnneset 137, Harstad",68.805627,16.550386
+791535,"Hamnneset 136, Harstad",68.805651,16.55066
+791536,"Hamnneset 135, Harstad",68.805652,16.550586
+791537,"Hamnneset 142, Harstad",68.805599,16.550458
+791538,"Hamnneset 141, Harstad",68.8056,16.550384
+791539,"Hamnneset 140, Harstad",68.805625,16.550658
+791540,"Hamnneset 139, Harstad",68.805625,16.550584
+791541,"Hamnneset 127, Harstad",68.805706,16.55059
+791542,"Hamnneset 125, Harstad",68.805708,16.550392
+791543,"Hamnneset 124, Harstad",68.805733,16.550592
+791544,"Hamnneset 162, Harstad",68.805419,16.550594
+791545,"Hamnneset 161, Harstad",68.805419,16.55052
+791546,"Hamnneset 160, Harstad",68.80542,16.550446
+791547,"Hamnneset 159, Harstad",68.805421,16.550347
+791548,"Hamnneset 166, Harstad",68.805391,16.550642
+791549,"Hamnneset 165, Harstad",68.805392,16.550543
+791550,"Hamnneset 164, Harstad",68.805393,16.550444
+791551,"Hamnneset 163, Harstad",68.805394,16.55037
+791552,"Hamnneset 176, Harstad",68.805194,16.550628
+791553,"Hamnneset 175, Harstad",68.805195,16.550554
+791554,"Hamnneset 174, Harstad",68.805196,16.55043
+791555,"Hamnneset 173, Harstad",68.805197,16.550331
+791556,"Hamnneset 180, Harstad",68.805177,16.550553
+791557,"Hamnneset 179, Harstad",68.805178,16.550429
+791558,"Hamnneset 178, Harstad",68.805179,16.55033
+791559,"Hamnneset 177, Harstad",68.805194,16.550703
+791560,"Hamnneset 146, Harstad",68.80551,16.550452
+791561,"Hamnneset 145, Harstad",68.805511,16.550353
+791562,"Hamnneset 144, Harstad",68.805598,16.550657
+791563,"Hamnneset 143, Harstad",68.805599,16.550557
+791564,"Hamnneset 150, Harstad",68.805507,16.550799
+791565,"Hamnneset 149, Harstad",68.805507,16.550725
+791566,"Hamnneset 148, Harstad",68.805508,16.55065
+791567,"Hamnneset 147, Harstad",68.805509,16.550551
+791568,"Hamnneset 154, Harstad",68.805473,16.550598
+791569,"Hamnneset 153, Harstad",68.805473,16.550499
+791570,"Hamnneset 152, Harstad",68.805474,16.550425
+791571,"Hamnneset 151, Harstad",68.805475,16.55035
+791572,"Hamnneset 158, Harstad",68.805446,16.550596
+791573,"Hamnneset 157, Harstad",68.805446,16.550522
+791574,"Hamnneset 156, Harstad",68.805447,16.550423
+791575,"Hamnneset 155, Harstad",68.805448,16.550349
+1658095,"Skolegata 11A, Harstad",68.805076,16.537974
+1658223,"Skolegata 18B, Harstad",68.805439,16.537166
+1658224,"Skolegata 11C, Harstad",68.805153,16.537112
+1765683,"Hagebyveien 5B, Trondenes",68.806905,16.531677
+1765686,"Hagebyveien 5A, Trondenes",68.806805,16.532168
+1766170,"Ringbergveien 38B, Trondenes",68.830419,16.552219
+1828021,"Magnus gate 11G, Harstad",68.804707,16.545621
+1828022,"Magnus gate 11H, Harstad",68.804657,16.545685
+1828023,"Magnus gate 11E, Harstad",68.804686,16.545516
+1828024,"Magnus gate 11F, Harstad",68.804637,16.545584
+1828025,"Magnus gate 11C, Harstad",68.804923,16.545319
+1828026,"Magnus gate 11D, Harstad",68.804883,16.545381
+1828027,"Magnus gate 11B, Harstad",68.804865,16.545263
+1927156,"Hamnneset 200, Harstad",68.805543,16.549029
+1927158,"Hamnneset 201, Harstad",68.80569,16.549267
+1927819,"Tordenskjolds gate 6, Harstad",68.804915,16.545385
+1948383,"Hamnneset 202, Harstad",68.805993,16.549722
+1953609,"Festningsveien 3, Trondenes",68.827055,16.5723
+1953610,"Festningsveien 1, Trondenes",68.826854,16.570916
+1968239,"Bregnehaugen 4B, Trondenes",68.813059,16.5378
+2008115,"Roseveien 13A, Trondenes",68.812921,16.5419
+2016322,"Urtebakken 12, Trondenes",68.817262,16.551456
+2030506,"Urtebakken 14, Trondenes",68.817324,16.551572
+2030507,"Urtebakken 16, Trondenes",68.817438,16.551681
+2053213,"Roseveien 13B, Trondenes",68.812971,16.54197
+2073906,"Trondenesveien 106A, Trondenes",68.8177,16.554562
+2074810,"Holstneset 8, Harstad",68.806978,16.546823
+2074812,"Holstneset 6, Harstad",68.806961,16.54641
+2074923,"Holstneset 4, Harstad",68.806973,16.546005
+2195478,"Trondenesveien 104, Trondenes",68.817482,16.554376
+2368077,"Holstneset 14, Harstad",68.806455,16.547692
+2490631,"Tårnveien 50, Trondenes",68.809503,16.525645
+2490698,"Tårnveien 52, Trondenes",68.809312,16.524806

@@ -1,0 +1,434 @@
+,Navn,Long,Lat
+170952,"Søren R Thornæs veg 6, Namsos",64.466885,11.50362
+170953,"Søren R Thornæs veg 4, Namsos",64.466771,11.502964
+170954,"Søren R Thornæs veg 9, Namsos",64.467396,11.501045
+170955,"Søren R Thornæs veg 7, Namsos",64.467449,11.500009
+170956,"Søren R Thornæs veg 11, Namsos",64.46739,11.501918
+170957,"Søren R Thornæs veg 10, Namsos",64.46691,11.507949
+170959,"Søren R Thornæs veg 19, Namsos",64.467415,11.504147
+170962,"Jernbanegata 1, Namsos",64.467799,11.507673
+170964,"Pinavegen 1, Namsos",64.465692,11.506194
+170965,"Jernbanegata 2, Namsos",64.467777,11.509462
+170966,"Søren R Thornæs veg 2, Namsos",64.466739,11.501651
+171404,"Brekkavegen 1, Namsos",64.472397,11.488871
+171406,"Brekkavegen 3, Namsos",64.472857,11.489266
+171407,"Brekkavegen 2, Namsos",64.472687,11.48873
+171443,"Abel Meyers gate 20, Namsos",64.466689,11.497163
+171444,"Abel Meyers gate 19, Namsos",64.46715,11.497007
+171445,"Abel Meyers gate 22, Namsos",64.46675,11.497303
+171446,"Abel Meyers gate 21, Namsos",64.467612,11.497299
+171447,"Abel Meyers gate 26, Namsos",64.466892,11.49742
+171449,"Abel Meyers gate 24, Namsos",64.46683,11.497373
+171451,"Abel Meyers gate 30, Namsos",64.4678,11.498419
+171452,"Abel Meyers gate 12, Namsos",64.466001,11.496985
+171453,"Abel Meyers gate 9, Namsos",64.466638,11.496503
+171454,"Abel Meyers gate 14, Namsos",64.466452,11.496968
+171455,"Abel Meyers gate 13, Namsos",64.466814,11.496648
+171456,"Abel Meyers gate 16, Namsos",64.466561,11.497099
+171457,"Abel Meyers gate 15, Namsos",64.467,11.496868
+171458,"Abel Meyers gate 18, Namsos",64.466623,11.497167
+171459,"Abel Meyers gate 17, Namsos",64.46708,11.496938
+171462,"Abel Meyers gate 3A, Namsos",64.464783,11.49489
+171463,"Abel Meyers gate 2, Namsos",64.464724,11.495363
+171464,"Abel Meyers gate 6, Namsos",64.465178,11.495787
+171465,"Abel Meyers gate 4, Namsos",64.464979,11.495873
+171466,"Abel Meyers gate 8, Namsos",64.465372,11.495992
+171467,"Abel Meyers gate 7, Namsos",64.466559,11.496412
+171520,"Andreas Jensens gate 20, Namsos",64.472261,11.491605
+171521,"Andreas Jensens gate 19, Namsos",64.472299,11.490943
+171522,"Andreas Jensens gate 22, Namsos",64.472438,11.491746
+171523,"Andreas Jensens gate 21, Namsos",64.472526,11.491317
+171524,"Andreas Jensens gate 24B, Namsos",64.47261,11.492199
+171525,"Andreas Jensens gate 23, Namsos",64.472676,11.491476
+171526,"Andreas Jensens gate 26B, Namsos",64.472835,11.492698
+171527,"Andreas Jensens gate 26A, Namsos",64.47288,11.49214
+171528,"Andreas Jensens gate 12, Namsos",64.471439,11.490823
+171529,"Andreas Jensens gate 11, Namsos",64.4715,11.490412
+171530,"Andreas Jensens gate 14, Namsos",64.47158,11.491023
+171531,"Andreas Jensens gate 13, Namsos",64.471707,11.490389
+171532,"Andreas Jensens gate 16, Namsos",64.471881,11.491258
+171533,"Andreas Jensens gate 15, Namsos",64.471982,11.490602
+171534,"Andreas Jensens gate 18, Namsos",64.472032,11.491334
+171535,"Andreas Jensens gate 17, Namsos",64.472125,11.490615
+171536,"Andreas Jensens gate 8, Namsos",64.470953,11.490383
+171537,"Andreas Jensens gate 7, Namsos",64.471085,11.490021
+171538,"Andreas Jensens gate 10, Namsos",64.471253,11.49066
+171539,"Andreas Jensens gate 9, Namsos",64.471352,11.490128
+171603,"Bråholmgata 5, Namsos",64.466499,11.491455
+171902,"Fridtjof Nansens gate 2, Namsos",64.472145,11.493675
+171903,"Fridtjof Nansens gate 1, Namsos",64.471959,11.493554
+171950,"Fridtjof Nansens gate 3, Namsos",64.47218,11.492139
+171951,"Fridtjof Nansens gate 2A, Namsos",64.472354,11.494048
+171952,"Fridtjof Nansens gate 5, Namsos",64.47228,11.490483
+171953,"Fridtjof Nansens gate 4, Namsos",64.472385,11.49222
+171954,"Fridtjof Nansens gate 6A, Namsos",64.472819,11.491011
+171955,"Fridtjof Nansens gate 6, Namsos",64.472606,11.490825
+171956,"Fridtjof Nansens gate 8A, Namsos",64.47288,11.4906
+171957,"Fridtjof Nansens gate 8, Namsos",64.472668,11.490393
+171998,"Andreas Jensens gate 6, Namsos",64.470748,11.490281
+171999,"Andreas Jensens gate 5, Namsos",64.470854,11.489854
+172002,"Andreas Jensens gate 1B, Namsos",64.470466,11.489423
+172003,"Andreas Jensens gate 1A, Namsos",64.470263,11.489259
+172004,"Andreas Jensens gate 2B, Namsos",64.470377,11.489935
+172005,"Andreas Jensens gate 2A, Namsos",64.470164,11.48975
+172006,"Andreas Jensens gate 4, Namsos",64.470552,11.490201
+172007,"Andreas Jensens gate 3, Namsos",64.470707,11.489549
+172090,"Gullvikbrekka 2, Namsos",64.47179,11.488129
+172091,"Gullvikbrekka 1, Namsos",64.471206,11.487639
+172168,"Harald Hårfagres gate 1, Namsos",64.470702,11.492462
+172170,"Harald Hårfagres gate 5, Namsos",64.471201,11.489511
+172171,"Harald Hårfagres gate 3, Namsos",64.470953,11.490924
+172216,"Havnegata 12, Namsos",64.466076,11.493664
+172217,"Havnegata 11, Namsos",64.466485,11.493347
+172218,"Havnegata 14, Namsos",64.466499,11.494097
+172219,"Havnegata 13, Namsos",64.466617,11.493505
+172220,"Havnegata 16, Namsos",64.466907,11.494384
+172221,"Havnegata 15, Namsos",64.466768,11.493581
+172222,"Havnegata 18, Namsos",64.46704,11.494521
+172223,"Havnegata 17A, Namsos",64.466949,11.49387
+172224,"Havnegata 4, Namsos",64.465174,11.492853
+172225,"Havnegata 3, Namsos",64.465459,11.492422
+172226,"Havnegata 6, Namsos",64.465457,11.493087
+172227,"Havnegata 5, Namsos",64.465649,11.49256
+172228,"Havnegata 8, Namsos",64.465731,11.493362
+172229,"Havnegata 7, Namsos",64.46609,11.492791
+172230,"Havnegata 10, Namsos",64.465816,11.493619
+172231,"Havnegata 9, Namsos",64.466276,11.492954
+172238,"Havnegata 1, Namsos",64.465264,11.492258
+172248,"Havnegata 20, Namsos",64.467164,11.494636
+172249,"Havnegata 19, Namsos",64.467245,11.494041
+172250,"Havnegata 22, Namsos",64.467374,11.494926
+172251,"Havnegata 21, Namsos",64.467457,11.494247
+172252,"Havnegata 24, Namsos",64.467526,11.494961
+172253,"Havnegata 23, Namsos",64.467625,11.494429
+172277,"Havnegata 28A, Namsos",64.468228,11.49542
+172278,"Havnegata 26, Namsos",64.467926,11.495184
+172279,"Havnegata 35, Namsos",64.468245,11.494943
+172280,"Havnegata 33, Namsos",64.46799,11.494629
+172282,"Havnegata 37, Namsos",64.468325,11.494971
+172380,"Carl Gulbransons gate 2, Namsos",64.466069,11.497761
+172381,"Carl Gulbransons gate 1, Namsos",64.464734,11.496017
+172382,"Carl Gulbransons gate 4, Namsos",64.466573,11.498598
+172383,"Carl Gulbransons gate 3, Namsos",64.464924,11.49643
+172385,"Carl Gulbransons gate 7, Namsos",64.465128,11.496615
+172437,"Carl Gulbransons gate 13, Namsos",64.466321,11.497701
+172438,"Carl Gulbransons gate 21, Namsos",64.466878,11.498231
+172439,"Carl Gulbransons gate 17, Namsos",64.466657,11.498023
+172441,"Carl Gulbransons gate 23, Namsos",64.467427,11.498697
+172449,"Kirkegata 16, Namsos",64.467244,11.496267
+172456,"Kirkegata 9, Namsos",64.466861,11.495399
+172457,"Kirkegata 8, Namsos",64.466658,11.495726
+172458,"Kirkegata 11, Namsos",64.467208,11.495722
+172459,"Kirkegata 10, Namsos",64.466818,11.495937
+172460,"Kirkegata 13, Namsos",64.467332,11.495817
+172461,"Kirkegata 12, Namsos",64.466908,11.495965
+172462,"Kirkegata 15, Namsos",64.467874,11.496178
+172463,"Kirkegata 14, Namsos",64.467128,11.496214
+172466,"Kirkegata 5A, Namsos",64.466248,11.494772
+172468,"Kirkegata 5C, Namsos",64.466425,11.494902
+172469,"Kirkegata 5B, Namsos",64.466345,11.494853
+172470,"Kirkegata 6, Namsos",64.465702,11.495023
+172471,"Kirkegata 5D, Namsos",64.466513,11.494868
+172674,"Lensmann Havigs gate 3, Namsos",64.470235,11.49088
+172675,"Lensmann Havigs gate 2A, Namsos",64.468854,11.490255
+172676,"Lensmann Havigs gate 5, Namsos",64.470413,11.491
+172677,"Lensmann Havigs gate 4, Namsos",64.469924,11.491205
+172678,"Lensmann Havigs gate 8A, Namsos",64.470332,11.491513
+172679,"Lensmann Havigs gate 6, Namsos",64.470135,11.491495
+172680,"Lensmann Havigs gate 10, Namsos",64.470552,11.491762
+172681,"Lensmann Havigs gate 9, Namsos",64.470806,11.491119
+172686,"Lensmann Havigs gate 1A, Namsos",64.469802,11.490466
+172688,"Lensmann Havigs gate 2, Namsos",64.469712,11.491019
+172689,"Lensmann Havigs gate 1B, Namsos",64.470016,11.490589
+172714,"Lensmann Havigs gate 29A, Namsos",64.472884,11.494034
+172715,"Lensmann Havigs gate 28, Namsos",64.472287,11.493251
+172716,"Lensmann Havigs gate 30, Namsos",64.472401,11.493428
+172717,"Lensmann Havigs gate 29B, Namsos",64.472981,11.493606
+172718,"Lensmann Havigs gate 34, Namsos",64.472748,11.493605
+172719,"Lensmann Havigs gate 32, Namsos",64.47257,11.493527
+172722,"Lensmann Havigs gate 20, Namsos",64.471383,11.492565
+172723,"Lensmann Havigs gate 19, Namsos",64.471659,11.492174
+172724,"Lensmann Havigs gate 22, Namsos",64.471632,11.492692
+172725,"Lensmann Havigs gate 21, Namsos",64.471861,11.492422
+172726,"Lensmann Havigs gate 24, Namsos",64.471827,11.492856
+172727,"Lensmann Havigs gate 23, Namsos",64.472073,11.492608
+172728,"Lensmann Havigs gate 26, Namsos",64.472005,11.492955
+172729,"Lensmann Havigs gate 25, Namsos",64.472287,11.49271
+172730,"Lensmann Havigs gate 12, Namsos",64.470748,11.491863
+172731,"Lensmann Havigs gate 11, Namsos",64.470826,11.491516
+172732,"Lensmann Havigs gate 14, Namsos",64.471031,11.492159
+172733,"Lensmann Havigs gate 13, Namsos",64.47104,11.491598
+172734,"Lensmann Havigs gate 16, Namsos",64.471093,11.492165
+172735,"Lensmann Havigs gate 15, Namsos",64.471269,11.491889
+172736,"Lensmann Havigs gate 18, Namsos",64.471225,11.492343
+172737,"Lensmann Havigs gate 17, Namsos",64.471447,11.491926
+172872,"Niels Bjørums gate 2, Namsos",64.469018,11.492246
+172873,"Niels Bjørums gate 1, Namsos",64.46933,11.491858
+172874,"Niels Bjørums gate 4, Namsos",64.469241,11.49235
+172875,"Niels Bjørums gate 3, Namsos",64.469562,11.491942
+172876,"Niels Bjørums gate 6, Namsos",64.469444,11.492514
+172877,"Niels Bjørums gate 5, Namsos",64.469711,11.492164
+172899,"Niels Bjørums gate 34, Namsos",64.472295,11.494875
+172900,"Niels Bjørums gate 33, Namsos",64.472571,11.494526
+172901,"Niels Bjørums gate 36, Namsos",64.472401,11.49501
+172902,"Niels Bjørums gate 35, Namsos",64.472877,11.494991
+172903,"Niels Bjørums gate 42, Namsos",64.473135,11.495659
+172904,"Niels Bjørums gate 40, Namsos",64.472905,11.495451
+172906,"Niels Bjørums gate 44, Namsos",64.473356,11.495887
+172907,"Niels Bjørums gate 27, Namsos",64.471833,11.494084
+172908,"Niels Bjørums gate 26, Namsos",64.471463,11.494217
+172909,"Niels Bjørums gate 28B, Namsos",64.471897,11.494568
+172910,"Niels Bjørums gate 28A, Namsos",64.471745,11.494492
+172911,"Niels Bjørums gate 30, Namsos",64.472011,11.494683
+172912,"Niels Bjørums gate 29, Namsos",64.472066,11.494084
+172913,"Niels Bjørums gate 32, Namsos",64.472152,11.494841
+172914,"Niels Bjørums gate 31, Namsos",64.472286,11.494375
+172915,"Niels Bjørums gate 16, Namsos",64.470393,11.493245
+172916,"Niels Bjørums gate 15, Namsos",64.470552,11.492864
+172917,"Niels Bjørums gate 20, Namsos",64.470808,11.493616
+172918,"Niels Bjørums gate 18, Namsos",64.470534,11.493383
+172919,"Niels Bjørums gate 23, Namsos",64.471446,11.493591
+172920,"Niels Bjørums gate 22, Namsos",64.470932,11.493731
+172921,"Niels Bjørums gate 25, Namsos",64.471632,11.493733
+172922,"Niels Bjørums gate 24, Namsos",64.4711,11.493892
+172923,"Niels Bjørums gate 8, Namsos",64.469639,11.492677
+172924,"Niels Bjørums gate 7, Namsos",64.46979,11.492233
+172925,"Niels Bjørums gate 10, Namsos",64.469763,11.492793
+172926,"Niels Bjørums gate 9, Namsos",64.469967,11.492395
+172927,"Niels Bjørums gate 12, Namsos",64.469905,11.492868
+172928,"Niels Bjørums gate 11, Namsos",64.470171,11.492559
+172929,"Niels Bjørums gate 14, Namsos",64.470232,11.49321
+172930,"Niels Bjørums gate 13, Namsos",64.470392,11.492746
+173101,"Peter Øiens gate 21, Namsos",64.472394,11.489557
+173102,"Peter Øiens gate 20, Namsos",64.471873,11.489614
+173103,"Peter Øiens gate 23, Namsos",64.472535,11.489736
+173104,"Peter Øiens gate 22, Namsos",64.472075,11.48984
+173105,"Peter Øiens gate 25, Namsos",64.47273,11.4899
+173106,"Peter Øiens gate 24, Namsos",64.47229,11.489922
+173107,"Vemundvikvegen 7, Namsos",64.473114,11.489477
+173108,"Peter Øiens gate 26, Namsos",64.472474,11.490147
+173109,"Peter Øiens gate 13, Namsos",64.471286,11.488229
+173110,"Peter Øiens gate 12, Namsos",64.471024,11.488808
+173111,"Peter Øiens gate 16, Namsos",64.471447,11.489284
+173112,"Peter Øiens gate 14, Namsos",64.471228,11.488993
+173113,"Peter Øiens gate 18, Namsos",64.471661,11.489407
+173114,"Peter Øiens gate 17, Namsos",64.47181,11.489067
+173115,"Peter Øiens gate 19A, Namsos",64.472219,11.489333
+173116,"Peter Øiens gate 19, Namsos",64.472106,11.489115
+173117,"Overtollbetjent Wessels gate 8, Namsos",64.468476,11.493986
+173118,"Overtollbetjent Wessels gate 7, Namsos",64.468555,11.493598
+173119,"Peter Øiens gate 3, Namsos",64.470476,11.48776
+173120,"Peter Øiens gate 1, Namsos",64.470211,11.487507
+173121,"Peter Øiens gate 5, Namsos",64.470635,11.48792
+173122,"Peter Øiens gate 4, Namsos",64.470192,11.48815
+173123,"Peter Øiens gate 7, Namsos",64.470988,11.488285
+173124,"Peter Øiens gate 6, Namsos",64.470413,11.488316
+173128,"Overtollbetjent Wessels gate 3, Namsos",64.468246,11.493258
+173129,"Overtollbetjent Wessels gate 2, Namsos",64.467663,11.493246
+173130,"Overtollbetjent Wessels gate 6, Namsos",64.468202,11.493732
+173131,"Overtollbetjent Wessels gate 5, Namsos",64.468414,11.49346
+173140,"Rollaugs gate 2, Namsos",64.467538,11.493714
+173143,"Rollaugs gate 4, Namsos",64.467596,11.493469
+173197,"St. Olavs gate 1B, Namsos",64.470083,11.491885
+173198,"St. Olavs gate 1A, Namsos",64.470055,11.491987
+173199,"St. Olavs gate 3, Namsos",64.470306,11.490387
+173200,"St. Olavs gate 2, Namsos",64.470084,11.493446
+173201,"St. Olavs gate 5, Namsos",64.470555,11.488932
+173202,"St. Olavs gate 4, Namsos",64.470375,11.492182
+173203,"St. Olavs gate 8, Namsos",64.470743,11.489012
+173204,"St. Olavs gate 6, Namsos",64.470474,11.490568
+173305,"Skolegata 1B, Namsos",64.468105,11.496324
+173306,"Skolegata 1A, Namsos",64.468066,11.496508
+173345,"Skolegata 8B, Namsos",64.468339,11.497881
+173346,"Skolegata 8A, Namsos",64.468306,11.497674
+173347,"Skolegata 10, Namsos",64.468277,11.497276
+173348,"Skolegata 9, Namsos",64.468648,11.492878
+173349,"Skolegata 13, Namsos",64.468806,11.492019
+173350,"Skolegata 11, Namsos",64.468727,11.492428
+173353,"Skolegata 2, Namsos",64.468571,11.499529
+173354,"Skolegata 1C, Namsos",64.468116,11.496159
+173355,"Skolegata 3, Namsos",64.468367,11.4946
+173356,"Skolegata 2A, Namsos",64.468497,11.499148
+173357,"Skolegata 5, Namsos",64.468398,11.494354
+173358,"Skolegata 4, Namsos",64.468495,11.498732
+173359,"Skolegata 7, Namsos",64.468605,11.493311
+173360,"Skolegata 6, Namsos",64.468376,11.498305
+173499,"Sverres gate 7, Namsos",64.467301,11.497125
+173500,"Sverres gate 6, Namsos",64.468294,11.493075
+173501,"Sverres gate 8B, Namsos",64.468347,11.492601
+173502,"Sverres gate 8A, Namsos",64.468327,11.492745
+173503,"Sverres gate 9, Namsos",64.467332,11.496899
+173504,"Sverres gate 8C, Namsos",64.468496,11.492823
+173505,"Sverres gate 11, Namsos",64.467362,11.496714
+173506,"Sverres gate 10, Namsos",64.468444,11.492194
+173511,"Sverres gate 2A, Namsos",64.46787,11.495845
+173512,"Sverres gate 1, Namsos",64.467085,11.498187
+173513,"Sverres gate 5, Namsos",64.467121,11.497649
+173514,"Sverres gate 2B, Namsos",64.467887,11.49541
+173542,"Sverres gate 35, Namsos",64.468463,11.487772
+173549,"Sverres gate 15, Namsos",64.4675,11.495999
+173550,"Sverres gate 12, Namsos",64.468575,11.491894
+173551,"Sverres gate 17, Namsos",64.467558,11.495713
+173552,"Sverres gate 16, Namsos",64.468716,11.49045
+173553,"Sverres gate 21, Namsos",64.46779,11.494257
+173554,"Sverres gate 19, Namsos",64.46761,11.495322
+173555,"Sverres gate 25, Namsos",64.467982,11.492963
+173556,"Sverres gate 23, Namsos",64.467854,11.493617
+173563,"Tordenskjolds gate 2, Namsos",64.47149,11.493137
+173581,"Th. Sommerschields gate 4B, Namsos",64.470094,11.490201
+173582,"Th. Sommerschields gate 4A, Namsos",64.469873,11.489994
+173583,"Th. Sommerschields gate 6A, Namsos",64.469944,11.489542
+173584,"Th. Sommerschields gate 5, Namsos",64.469634,11.488703
+173585,"Th. Sommerschields gate 8, Namsos",64.470023,11.489113
+173586,"Th. Sommerschields gate 6B, Namsos",64.470014,11.489611
+173588,"Th. Sommerschields gate 10, Namsos",64.470094,11.488599
+173613,"Tordenskjolds gate 6, Namsos",64.472051,11.490213
+173651,"Verftsgata 8, Namsos",64.467081,11.492112
+173658,"Vemundvikvegen 2, Namsos",64.473254,11.493964
+173660,"Vemundvikvegen 4, Namsos",64.473272,11.493424
+173661,"Vemundvikvegen 2B, Namsos",64.473567,11.494013
+173662,"Vemundvikvegen 9, Namsos",64.473602,11.487732
+173663,"Vemundvikvegen 6, Namsos",64.473318,11.492804
+173664,"Verftsgata 1, Namsos",64.468024,11.492093
+173666,"Vemundvikvegen 10, Namsos",64.473648,11.493184
+173753,"Niels Bjørums gate 2A, Namsos",64.468641,11.49124
+173811,"Brekkavegen 4, Namsos",64.472659,11.489331
+173873,"Canninggata 4, Namsos",64.468016,11.485664
+173886,"Havnegata 28B, Namsos",64.468216,11.495585
+173889,"Havnegata 28C, Namsos",64.468168,11.495747
+173908,"Niels Bjørums gate 2C, Namsos",64.468867,11.49144
+173909,"Niels Bjørums gate 2B, Namsos",64.468721,11.491333
+173910,"Niels Bjørums gate 2D, Namsos",64.468995,11.491574
+173911,"Niels Bjørums gate 2E, Namsos",64.469208,11.491594
+173922,"Abel Meyers gate 11, Namsos",64.466717,11.496593
+173923,"Verftsgata 5, Namsos",64.467721,11.492482
+173932,"Sverres gate 13, Namsos",64.467402,11.496468
+173933,"Sverres gate 4, Namsos",64.468105,11.494181
+173935,"Sverres gate 33, Namsos",64.468535,11.488395
+174024,"Abel Meyers gate 10, Namsos",64.465577,11.496593
+174026,"Søren R Thornæs veg 8, Namsos",64.466993,11.50467
+174171,"Pinavegen 2B, Namsos",64.466083,11.503446
+174173,"Pinavegen 2A, Namsos",64.466053,11.504001
+174198,"Pinavegen 4, Namsos",64.465995,11.502623
+174199,"Pinavegen 6, Namsos",64.466084,11.501689
+174316,"Lensmann Havigs gate 27B, Namsos",64.472602,11.492593
+174318,"Lensmann Havigs gate 2D, Namsos",64.46917,11.490679
+174343,"Lensmann Havigs gate 2C, Namsos",64.469055,11.490585
+174586,"Tordenskjolds gate 1D, Namsos",64.471119,11.49327
+174588,"Tordenskjolds gate 1C, Namsos",64.471252,11.493407
+174593,"Peter Øiens gate 10B, Namsos",64.470855,11.48871
+174606,"Carl Gulbransons gate 15B, Namsos",64.466508,11.497787
+174607,"Carl Gulbransons gate 15A, Namsos",64.466412,11.497699
+174623,"Carl Gulbransons gate 19, Namsos",64.466807,11.498162
+174634,"Stasjonsgata 3, Namsos",64.468059,11.502728
+174655,"Tordenskjolds gate 1F, Namsos",64.471252,11.493407
+174657,"Tordenskjolds gate 1E, Namsos",64.471181,11.493338
+174691,"Verftsgata 6, Namsos",64.467328,11.491801
+174692,"Verftsgata 7, Namsos",64.467389,11.492972
+174693,"Verftsgata 2, Namsos",64.467983,11.491341
+174694,"Verftsgata 4, Namsos",64.467604,11.491081
+174695,"Namsegata 3, Namsos",64.464978,11.494144
+174696,"Verftsgata 3, Namsos",64.467915,11.492242
+174698,"Kapteingata 2, Namsos",64.464601,11.494343
+174699,"Verftsgata 16, Namsos",64.46576,11.491097
+174700,"Verftsgata 17, Namsos",64.464845,11.493177
+174701,"Verftsgata 10, Namsos",64.46642,11.491906
+174702,"Verftsgata 14, Namsos",64.465849,11.491146
+174703,"Verftsgata 32, Namsos",64.464783,11.491528
+174704,"Verftsgata 42, Namsos",64.463757,11.493765
+174705,"Verftsgata 12, Namsos",64.465953,11.491343
+174706,"Verftsgata 24, Namsos",64.465323,11.490932
+174707,"Verftsgata 38, Namsos",64.464201,11.492494
+174708,"Verftsgata 40, Namsos",64.46407,11.492815
+174709,"Verftsgata 30, Namsos",64.464893,11.491413
+174710,"Verftsgata 34, Namsos",64.464682,11.491644
+174711,"Verftsgata 26, Namsos",64.465188,11.490941
+174712,"Verftsgata 28, Namsos",64.465094,11.491161
+174713,"Verftsgata 20, Namsos",64.465582,11.490997
+174714,"Verftsgata 22, Namsos",64.465459,11.490861
+174722,"Verftsgata 44, Namsos",64.463997,11.493911
+174740,"Peter Øiens gate 10A, Namsos",64.470794,11.488642
+174809,"Verftsgata 9, Namsos",64.467199,11.4931
+174811,"Verftsgata 11, Namsos",64.466727,11.492828
+174819,"Bråholmgata 7, Namsos",64.466527,11.490854
+174910,"Th. Sommerschields gate 2C, Namsos",64.469642,11.491429
+174911,"Th. Sommerschields gate 2B, Namsos",64.469612,11.491614
+174912,"Th. Sommerschields gate 2D, Namsos",64.469642,11.491429
+174913,"Th. Sommerschields gate 2A, Namsos",64.469612,11.491614
+174915,"Herlaugs gate 4, Namsos",64.467081,11.493173
+174947,"Tordenskjolds gate 7, Namsos",64.471794,11.490023
+174948,"Tordenskjolds gate 1A, Namsos",64.471119,11.49327
+174949,"Tordenskjolds gate 3, Namsos",64.471312,11.493038
+174950,"Tordenskjolds gate 5, Namsos",64.471544,11.49154
+174956,"Harald Hårfagres gate 6, Namsos",64.471218,11.491177
+174957,"Harald Hårfagres gate 8, Namsos",64.471342,11.489669
+174958,"Harald Hårfagres gate 2A, Namsos",64.470951,11.49313
+174959,"Harald Hårfagres gate 4, Namsos",64.470907,11.492564
+174966,"Pinavegen 1B, Namsos",64.466018,11.507416
+175038,"Verftsgata 46, Namsos",64.463936,11.494883
+175051,"Jorunn Ekkers veg 5B, Namsos",64.46854,11.505019
+175052,"Jorunn Ekkers veg 5A, Namsos",64.468188,11.504072
+175053,"Pinavegen 9, Namsos",64.462406,11.503522
+175054,"Pinavegen 5, Namsos",64.462413,11.508952
+175055,"Pinavegen 26, Namsos",64.459899,11.502066
+175056,"Pinavegen 22, Namsos",64.461322,11.501822
+175057,"Pinavegen 20, Namsos",64.461665,11.501728
+175058,"Pinavegen 28, Namsos",64.459644,11.503311
+175066,"Klingavegen 10, Namsos",64.465016,11.501597
+175067,"Klingavegen 2, Namsos",64.464356,11.497711
+175108,"Harald Hårfagres gate 2B, Namsos",64.470889,11.493103
+175109,"Tordenskjolds gate 1B, Namsos",64.471181,11.493338
+175110,"Harald Hårfagres gate 2D, Namsos",64.470951,11.49313
+175111,"Harald Hårfagres gate 2C, Namsos",64.470827,11.493035
+175112,"Harald Hårfagres gate 2F, Namsos",64.470827,11.493035
+175113,"Harald Hårfagres gate 2E, Namsos",64.470889,11.493082
+175150,"Tordenskjolds gate 4A, Namsos",64.47172,11.491743
+175217,"Tordenskjolds gate 4B, Namsos",64.471739,11.491653
+175230,"Lensmann Havigs gate 29, Namsos",64.472764,11.49317
+175232,"Skolegata 20, Namsos",64.468638,11.494521
+175234,"Lensmann Havigs gate 27C, Namsos",64.472622,11.492441
+175236,"Lensmann Havigs gate 27A, Namsos",64.472583,11.492754
+175243,"Verftsgata 48, Namsos",64.464068,11.49554
+175310,"Pinavegen 12, Namsos",64.464983,11.502468
+175337,"Kapteingata 4, Namsos",64.464803,11.493974
+175366,"Andreas Jensens gate 24A, Namsos",64.472687,11.491893
+175438,"Peter Øiens gate 1A, Namsos",64.469993,11.487133
+175446,"Niels Bjørums gate 38A, Namsos",64.472719,11.49533
+175447,"Niels Bjørums gate 38B, Namsos",64.472559,11.495232
+175486,"Sandgata 1, Namsos",64.465309,11.513877
+175488,"Sandgata 4, Namsos",64.465379,11.509307
+175489,"Sandgata 2, Namsos",64.465548,11.510966
+175491,"Sandgata 6, Namsos",64.464794,11.506073
+175505,"Sandgata 8, Namsos",64.464333,11.506345
+175550,"Sandgata 9, Namsos",64.463722,11.508011
+175585,"Bråholmgata 3B, Namsos",64.466494,11.491767
+175586,"Bråholmgata 3A, Namsos",64.466474,11.491911
+175588,"Bråholmgata 3C, Namsos",64.466523,11.491624
+175689,"Vemundvikvegen 8A, Namsos",64.473384,11.492071
+175695,"Vemundvikvegen 8B, Namsos",64.473399,11.492291
+175733,"Verftsgata 13, Namsos",64.465747,11.492059
+175854,"Lensmann Havigs gate 8B, Namsos",64.470395,11.491604
+175861,"Verftsgata 18, Namsos",64.465661,11.491109
+1637165,"Kirkegata 5, Namsos",64.466463,11.49507
+1649979,"Sverres gate 14A, Namsos",64.468608,11.490908
+1649980,"Sverres gate 14B, Namsos",64.468688,11.490778
+1661430,"Pinavegen 18, Namsos",64.462584,11.501408
+1661645,"Havnegata 17B, Namsos",64.467007,11.493956
+1661648,"Herlaugs gate 2, Namsos",64.467012,11.493435
+1694185,"Sverres gate 37, Namsos",64.468745,11.487475
+1696159,"Abel Meyers gate 3C, Namsos",64.464778,11.494673
+1696160,"Abel Meyers gate 3B, Namsos",64.464892,11.494975
+1737128,"Jorunn Ekkers veg 4, Namsos",64.468456,11.507115
+1780459,"Havnegata 17C, Namsos",64.467064,11.493997
+1780463,"Havnegata 17D, Namsos",64.46712,11.494054
+1949483,"Pinavegen 14, Namsos",64.465137,11.503753
+2030044,"Verftsgata 50, Namsos",64.464294,11.496076
+2036820,"Canninggata 5, Namsos",64.468455,11.486259
+2037033,"Canninggata 1, Namsos",64.468859,11.486092
+2039881,"Canninggata 3, Namsos",64.468987,11.486838
+2056259,"Sandgata 13, Namsos",64.463806,11.504526
+2360127,"Lensmann Havigs gate 2B, Namsos",64.468986,11.490412
+2392571,"Pinavegen 16, Namsos",64.463266,11.501627
+2447517,"Sandgata 3, Namsos",64.464749,11.512361
+2447518,"Sandgata 5, Namsos",64.464566,11.511841
+2463228,"Sandgata 15, Namsos",64.464093,11.503895

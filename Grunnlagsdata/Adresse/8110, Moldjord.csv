@@ -1,0 +1,858 @@
+,Navn,Long,Lat
+22234,"20/4, Beiarn",66.94169,14.839911
+22235,"19/25, Beiarn",66.929644,14.906012
+22239,"18/3/1, Beiarn",66.964342,14.943842
+22242,"13/4/1, Beiarn",67.023523,14.709368
+22243,"18/3/3, Beiarn",66.964413,14.947167
+22244,"18/3/2, Beiarn",66.967761,14.904054
+22245,"Hemminghytt, 42/20, Beiarn",66.944257,14.761562
+22246,"51/2, Beiarn",67.066317,14.527428
+22247,"51/3, Beiarn",67.066118,14.530047
+22263,"19/8, Beiarn",66.930942,14.903696
+29659,"52/1-1, Beiarn",67.055943,14.486918
+29715,"13/2-1, Beiarn",67.014578,14.71218
+29738,"42/19-2, Beiarn",66.948931,14.772775
+29740,"42/5-1, Beiarn",66.946925,14.769117
+29746,"19/2-2, Beiarn",66.92776,14.953466
+29749,"19/4, Beiarn",66.930511,14.904524
+29751,"20/5-1, Beiarn",66.936021,14.842406
+29752,"19/22, Beiarn",66.929762,14.87463
+29754,"19/1-1, Beiarn",66.936993,14.884846
+29791,"44/12-3, Beiarn",66.961815,14.770903
+29792,"44/10-1, Beiarn",66.958712,14.779774
+29833,"49/59, Beiarn",67.021531,14.507142
+29834,"49/58, Beiarn",67.022169,14.509433
+32419,"52/1-2, Beiarn",67.034101,14.438252
+32427,"14/24, Beiarn",67.025835,14.759892
+34991,"14/6-3, Beiarn",67.020204,14.728599
+34992,"14/8-1, Beiarn",67.031932,14.745732
+34993,"49/8, Beiarn",67.02363,14.508214
+36750,"44/2, Beiarn",66.958385,14.772915
+44921,"50/4, Beiarn",67.033461,14.492388
+49200,"Breivik, 52/1, Beiarn",67.056263,14.487371
+50271,"Svartnes, 51/1, Beiarn",67.065334,14.528873
+50290,"Arstad, 49/56, Beiarn",67.021683,14.510895
+1262410,"Moliveien 32, Beiarn",66.997613,14.760908
+1262451,"Soløyveien 5, Beiarn",67.008748,14.573652
+1262603,"Elvebakk, Østre Beiarveien 752, Beiarn",66.944973,14.806183
+1262678,"Østre Beiarveien 594, Beiarn",66.959439,14.818684
+1262681,"Ramskjellveien 54, Beiarn",66.943368,14.867131
+1262682,"Østre Beiarveien 586, Beiarn",66.958521,14.816561
+1262687,"Ramskjellveien 49, Beiarn",66.944969,14.862566
+1262689,"Ramskjellveien 46, Beiarn",66.945596,14.862036
+1262690,"Ramskjellveien 40, Beiarn",66.946121,14.857113
+1262691,"Østre Beiarveien 514, Beiarn",66.963879,14.826185
+1262693,"Østre Beiarveien 496, Beiarn",66.965466,14.825578
+1262694,"Østre Beiarveien 508, Beiarn",66.964093,14.828199
+1262727,"Nedre Beiarveien 32, Beiarn",66.990681,14.751003
+1262728,"Beiarfjellveien 49, Beiarn",66.990133,14.767836
+1262729,"Storjordveien 10, Beiarn",66.989742,14.758236
+1262730,"Beiarfjellveien 25, Beiarn",66.989659,14.762728
+1262731,"Østre Beiarveien 5, Beiarn",66.988721,14.759413
+1262732,"Østre Beiarveien 3, Beiarn",66.988548,14.75804
+1262733,"Storjordveien 40, Beiarn",66.993917,14.766974
+1262734,"Beiarfjellveien 60, Beiarn",66.989931,14.770772
+1262735,"Haugan 2, Beiarn",66.989601,14.772105
+1262737,"Moliveien 11, Beiarn",66.994752,14.76144
+1262738,"Beiarfjellveien 58, Beiarn",66.990145,14.770403
+1262739,"Moliveien 7, Beiarn",66.993091,14.760219
+1262741,"Beiarfjellveien 62, Beiarn",66.989842,14.771507
+1262743,"Moliveien 9, Beiarn",66.994582,14.761511
+1262745,"Østre Beiarveien 129, Beiarn",66.982022,14.77951
+1262746,"Storjordveien 2, Beiarn",66.989699,14.75961
+1262747,"Beiarfjellveien 67, Beiarn",66.989096,14.770941
+1262748,"Storjordveien 16, Beiarn",66.990134,14.756832
+1262749,"Storjordveien 15, Beiarn",66.991403,14.759479
+1262750,"Beiarfjellveien 52, Beiarn",66.990906,14.769181
+1262751,"Østre Beiarveien 76, Beiarn",66.985688,14.771271
+1262752,"Østre Beiarveien 92, Beiarn",66.984391,14.773529
+1262753,"Beiarfjellveien 106, Beiarn",66.988139,14.778835
+1262754,"Beiarfjellveien 44, Beiarn",66.990723,14.766409
+1262755,"Østre Beiarveien 142, Beiarn",66.981892,14.78265
+1262756,"Storjordveien 14, Beiarn",66.989982,14.756994
+1262757,"Beiarfjellveien 448, Beiarn",66.993349,14.798025
+1262758,"Storjordveien 17, Beiarn",66.990816,14.757215
+1262760,"Moliveien 26, Beiarn",66.998602,14.756793
+1262761,"Moliveien 38, Beiarn",66.996746,14.763232
+1262764,"Moliveien 45, Beiarn",66.994982,14.770445
+1262765,"Moliveien 24, Beiarn",66.998707,14.755187
+1262766,"Moliveien 28, Beiarn",66.99882,14.758121
+1262767,"Østre Beiarveien 115, Beiarn",66.982386,14.776848
+1262768,"Østre Beiarveien 62, Beiarn",66.986421,14.769636
+1262769,"Østre Beiarveien 99, Beiarn",66.983674,14.773834
+1262770,"Moliveien 15, Beiarn",66.996554,14.760116
+1262771,"Langvatnet 2, Beiarn",67.010198,14.817498
+1262772,"Savjordveien 50, Beiarn",67.000632,14.725145
+1262773,"Savjordveien 42, Beiarn",66.999769,14.718339
+1262774,"Savjordveien 58, Beiarn",66.999781,14.729797
+1262777,"Nedre Beiarveien 365, Beiarn",67.000221,14.687491
+1262778,"Nedre Beiarveien 345, Beiarn",66.999825,14.696
+1262779,"Nedre Beiarveien 369, Beiarn",67.00092,14.689651
+1262780,"Nedre Beiarveien 363, Beiarn",67.000386,14.688842
+1262781,"Savjordveien 52, Beiarn",66.999832,14.728982
+1262782,"Moliveien 47, Beiarn",66.995754,14.771772
+1262784,"Savjordveien 70, Beiarn",66.999923,14.735795
+1262786,"Savjordveien 61, Beiarn",66.998874,14.7306
+1262788,"Savjordveien 54, Beiarn",67.000104,14.729231
+1262791,"Savjordveien 38, Beiarn",67.00049,14.720812
+1262793,"Savjordveien 62, Beiarn",66.998987,14.733718
+1262795,"Savjordveien 36, Beiarn",67.000466,14.722464
+1262796,"Østre Beiarveien 370, Beiarn",66.976319,14.824263
+1262797,"Østre Beiarveien 378, Beiarn",66.976718,14.828637
+1262798,"Østre Beiarveien 374, Beiarn",66.975707,14.826213
+1262801,"Østre Beiarveien 178, Beiarn",66.979493,14.786705
+1262803,"Østre Beiarveien 342, Beiarn",66.978018,14.820172
+1262805,"Østre Beiarveien 252, Beiarn",66.979127,14.80229
+1262806,"Østre Beiarveien 230, Beiarn",66.979193,14.797111
+1262807,"Østre Beiarveien 200, Beiarn",66.979847,14.796418
+1262808,"Østre Beiarveien 348, Beiarn",66.977715,14.821228
+1262809,"Østre Beiarveien 254, Beiarn",66.979021,14.803093
+1262811,"Østre Beiarveien 290, Beiarn",66.979507,14.804464
+1262812,"Østre Beiarveien 462, Beiarn",66.970636,14.822165
+1262813,"Ramskjellveien 6, Beiarn",66.963135,14.826158
+1262816,"Østre Beiarveien 470, Beiarn",66.972032,14.825165
+1262817,"Østre Beiarveien 464, Beiarn",66.971151,14.823796
+1262818,"Østre Beiarveien 460, Beiarn",66.970155,14.823643
+1262819,"Østre Beiarveien 414, Beiarn",66.972934,14.82202
+1262820,"Østre Beiarveien 472, Beiarn",66.967446,14.825026
+1262822,"Østre Beiarveien 380, Beiarn",66.978893,14.826261
+1262823,"Østre Beiarveien 196, Beiarn",66.979825,14.793806
+1262826,"Beiarfjellveien 355, Beiarn",66.986088,14.816858
+1262827,"Østre Beiarveien 253, Beiarn",66.977627,14.800286
+1262828,"Østre Beiarveien 282, Beiarn",66.979523,14.809895
+1262830,"Østre Beiarveien 186, Beiarn",66.979425,14.789135
+1262831,"Østre Beiarveien 243, Beiarn",66.978298,14.799066
+1262832,"Østre Beiarveien 284, Beiarn",66.980382,14.80833
+1262834,"Østre Beiarveien 192, Beiarn",66.979248,14.791267
+1262837,"Østre Beiarveien 344, Beiarn",66.978278,14.819506
+1262838,"Beiarfjellveien 736, Beiarn",67.005738,14.84616
+1262840,"Østre Beiarveien 180, Beiarn",66.979746,14.787894
+1262841,"Haugan 15, Beiarn",66.989748,14.774946
+1262842,"Haugan 17, Beiarn",66.98999,14.774852
+1262843,"Haugan 16, Beiarn",66.989863,14.774005
+1262844,"Haugan 19, Beiarn",66.990196,14.774713
+1262845,"Haugan 12, Beiarn",66.990281,14.771273
+1262846,"Haugan 4, Beiarn",66.989485,14.772633
+1262847,"Haugan 14, Beiarn",66.98963,14.774191
+1262848,"Østre Beiarveien 189, Beiarn",66.978335,14.787815
+1262849,"Østre Beiarveien 250, Beiarn",66.978498,14.801356
+1262850,"Haugan 25, Beiarn",66.990486,14.77659
+1262851,"Østre Beiarveien 240, Beiarn",66.978881,14.798626
+1262852,"Haugan 28, Beiarn",66.989966,14.776847
+1262854,"Haugan 30, Beiarn",66.990235,14.776822
+1262855,"Haugan 21, Beiarn",66.99042,14.774642
+1262856,"Haugan 24, Beiarn",66.990099,14.775723
+1262886,"Nedre Beiarveien 838, Beiarn",67.003712,14.578856
+1262887,"Soløyveien 6, Beiarn",67.008664,14.572759
+1262888,"Rønnågveien 57, Beiarn",67.006882,14.593988
+1262889,"Nedre Beiarveien 873, Beiarn",67.006225,14.579294
+1262890,"Nedre Beiarveien 883, Beiarn",67.006453,14.577524
+1262891,"Nedre Beiarveien 886, Beiarn",67.006423,14.576262
+1262892,"Soløyveien 2, Beiarn",67.008326,14.573247
+1262893,"Nedre Beiarveien 910, Beiarn",67.00801,14.572656
+1262894,"Rønnågveien 22, Beiarn",67.005969,14.598316
+1262896,"Nedre Beiarveien 863, Beiarn",67.005779,14.580403
+1262898,"Nedre Beiarveien 859, Beiarn",67.005315,14.581283
+1262900,"Rønnågveien 55, Beiarn",67.006758,14.594655
+1262901,"Nedre Beiarveien 894, Beiarn",67.007208,14.574574
+1262902,"Nedre Beiarveien 877, Beiarn",67.006267,14.578422
+1262903,"Nedre Beiarveien 898, Beiarn",67.007395,14.57402
+1262904,"Nedre Beiarveien 904, Beiarn",67.007749,14.572178
+1262905,"Nedre Beiarveien 874, Beiarn",67.005673,14.577652
+1262906,"Soløyveien 1, Beiarn",67.007952,14.574217
+1262907,"Nedre Beiarveien 856, Beiarn",67.004873,14.580464
+1262909,"Soløyveien 46, Beiarn",67.01932,14.562277
+1262911,"Soløyveien 50, Beiarn",67.020136,14.565166
+1262913,"Soløyveien 60, Beiarn",67.026382,14.573667
+1262916,"Soløyveien 48, Beiarn",67.019239,14.565182
+1262921,"Soløyveien 4, Beiarn",67.008343,14.572925
+1262922,"Soløyveien 3, Beiarn",67.008435,14.573956
+1262923,"Doktorgården, Nedre Beiarveien 855, Beiarn",67.005003,14.582206
+1262925,"Nedre Beiarveien 887, Beiarn",67.006936,14.576873
+1262926,"Nedre Beiarveien 908, Beiarn",67.007009,14.574164
+1262933,"Soløyveien 66, Beiarn",67.030967,14.584377
+1262934,"Soløyveien 44, Beiarn",67.018915,14.56206
+1262935,"Soløyveien 54, Beiarn",67.02054,14.565228
+1262937,"Soløyveien 40, Beiarn",67.017283,14.561889
+1262940,"Nedre Beiarveien 434, Beiarn",66.999,14.673448
+1262941,"Nedre Beiarveien 471, Beiarn",66.99912,14.666337
+1262943,"Nedre Beiarveien 438, Beiarn",66.999025,14.672599
+1262944,"Nedre Beiarveien 446, Beiarn",66.997391,14.671543
+1262945,"Nedre Beiarveien 433, Beiarn",66.999835,14.673804
+1262946,"Nedre Beiarveien 421, Beiarn",66.999542,14.676078
+1262947,"Nedre Beiarveien 436, Beiarn",66.997958,14.672866
+1262948,"Nedre Beiarveien 359, Beiarn",66.999817,14.693045
+1262949,"Nedre Beiarveien 343, Beiarn",66.999492,14.694573
+1262950,"Nedre Beiarveien 880, Beiarn",67.005974,14.576201
+1262951,"Savjordveien 14, Beiarn",66.999123,14.697254
+1262952,"Savjordveien 4, Beiarn",66.999026,14.700142
+1262953,"Nedre Beiarveien 349, Beiarn",67.000177,14.69717
+1262955,"Nedre Beiarveien 431, Beiarn",66.999496,14.673739
+1262956,"Savjordveien 8, Beiarn",66.998979,14.699294
+1262957,"Nedre Beiarveien 593, Beiarn",67.001374,14.638828
+1262958,"Nedre Beiarveien 713, Beiarn",67.006208,14.605887
+1262959,"Nedre Beiarveien 743, Beiarn",67.004358,14.606945
+1262960,"Moliveien 20, Beiarn",66.997296,14.753527
+1262961,"Nedre Beiarveien 753, Beiarn",67.004629,14.604302
+1262962,"Nedre Beiarveien 749, Beiarn",67.004525,14.60568
+1262963,"Nedre Beiarveien 616, Beiarn",67.000853,14.634364
+1262964,"Nedre Beiarveien 763, Beiarn",67.005359,14.602088
+1262965,"Nedre Beiarveien 705, Beiarn",67.003623,14.61448
+1262966,"Nedre Beiarveien 452, Beiarn",66.995734,14.668584
+1262967,"Nedre Beiarveien 450, Beiarn",66.997921,14.667821
+1262968,"Nedre Beiarveien 444, Beiarn",66.998378,14.6702
+1262969,"Nedre Beiarveien 393, Beiarn",67.000142,14.683455
+1262970,"Nedre Beiarveien 475, Beiarn",66.999493,14.664428
+1262971,"Nedre Beiarveien 448, Beiarn",66.998023,14.669333
+1262973,"Rønnågveien 69, Beiarn",67.006989,14.597405
+1262975,"Rønnågveien 80, Beiarn",67.008238,14.59798
+1262976,"Rønnågveien 58, Beiarn",67.00804,14.594244
+1262977,"Rønnågveien 78, Beiarn",67.00846,14.597128
+1262979,"Rønnågveien 64, Beiarn",67.007412,14.597811
+1262980,"Rønnågveien 34, Beiarn",67.006679,14.599016
+1262981,"Rønnågveien 36, Beiarn",67.006941,14.599745
+1262982,"Nedre Beiarveien 768, Beiarn",67.004261,14.600684
+1262983,"Nedre Beiarveien 628, Beiarn",67.000935,14.631151
+1262984,"Nedre Beiarveien 691, Beiarn",67.003,14.618227
+1262985,"Nedre Beiarveien 709, Beiarn",67.005261,14.612986
+1262986,"Nedre Beiarveien 679, Beiarn",67.002966,14.621074
+1262988,"Nedre Beiarveien 693, Beiarn",67.003624,14.618839
+1262990,"Nedre Beiarveien 661, Beiarn",67.002555,14.62473
+1262992,"Rønnågveien 62, Beiarn",67.007739,14.59574
+1262995,"Rønnågveien 67, Beiarn",67.007077,14.596508
+1262997,"Rønnågveien 30, Beiarn",67.006597,14.598352
+1262998,"Rønnågveien 60, Beiarn",67.007854,14.595211
+1262999,"Nedre Beiarveien 895, Beiarn",67.00773,14.575253
+1263000,"Soløyveien 11, Beiarn",67.00908,14.573486
+1263001,"Nedre Beiarveien 906, Beiarn",67.007285,14.573219
+1263002,"Rønnågveien 65, Beiarn",67.007264,14.596046
+1263003,"Rønnågveien 83, Beiarn",67.00772,14.598953
+1263004,"Rønnågveien 59, Beiarn",67.007565,14.59455
+1263005,"Rønnågveien 26, Beiarn",67.006206,14.599941
+1263006,"Rønnågveien 81, Beiarn",67.007816,14.598079
+1263007,"Rønnågveien 72, Beiarn",67.00816,14.595504
+1263008,"Rønnågveien 70, Beiarn",67.008062,14.596125
+1263013,"Beiarfjellveien 940, Beiarn",67.004459,14.883288
+1263014,"Beiarfjellveien 863, Beiarn",66.997727,14.876807
+1263015,"Beiarfjellveien 762, Beiarn",66.997295,14.85452
+1263017,"Nedre Beiarveien 717, Beiarn",67.006927,14.607277
+1263019,"Vestre Beiarveien 68, Beiarn",66.987342,14.749754
+1263020,"Nedre Beiarveien 1356, Beiarn",67.042204,14.558798
+1263053,"Morhausen 3, Beiarn",67.02485,14.81714
+1263058,"Tarnesveien 16, Beiarn",67.044623,14.565146
+1263063,"Nedre Beiarveien 1412, Beiarn",67.044335,14.570592
+1263071,"Nedre Beiarveien 188, Beiarn",66.995145,14.726535
+1263077,"Arstaddalsveien 123, Beiarn",67.014852,14.542748
+1263081,"Soløyveien 9, Beiarn",67.009131,14.573939
+1263083,"Soløyveien 15, Beiarn",67.009495,14.574488
+1263084,"Beiarfjellveien 702, Beiarn",66.998172,14.843002
+1263090,"Tarnesveien 18, Beiarn",67.044938,14.565713
+1263095,"Østre Beiarveien 152, Beiarn",66.981059,14.78401
+1263098,"Storjordveien 22, Beiarn",66.990977,14.761945
+1263100,"Nedre Beiarveien 1105, Beiarn",67.023662,14.556852
+1263107,"Nedre Beiarveien 673, Beiarn",67.002576,14.62319
+1263110,"Eiterjordveien 58, Beiarn",66.996468,14.653963
+1263115,"Nedre Beiarveien 124, Beiarn",66.996136,14.740262
+1263117,"Haugan 29, Beiarn",66.990191,14.777533
+1263119,"Rønnågveien 71, Beiarn",67.00692,14.598323
+1263121,"Savjordveien 18, Beiarn",66.999739,14.702771
+1263123,"Nedre Beiarveien 1062, Beiarn",67.020205,14.552267
+1263125,"Nedre Beiarveien 1365, Beiarn",67.040408,14.567951
+1263126,"Nedre Beiarveien 1367, Beiarn",67.040552,14.568224
+1263127,"Savjordveien 65, Beiarn",66.998829,14.736151
+1263128,"Vestre Beiarveien 143, Beiarn",66.982381,14.758345
+1263129,"Vestre Beiarveien 120, Beiarn",66.98406,14.756319
+1263130,"Vestre Beiarveien 187, Beiarn",66.980669,14.768041
+1263131,"Vestre Beiarveien 195, Beiarn",66.980685,14.77267
+1263132,"Vestre Beiarveien 193, Beiarn",66.980818,14.771775
+1263133,"Vestre Beiarveien 316, Beiarn",66.976936,14.793464
+1263134,"Vestre Beiarveien 240, Beiarn",66.980764,14.777963
+1263135,"Vestre Beiarveien 213, Beiarn",66.979717,14.773275
+1263136,"Vestre Beiarveien 191, Beiarn",66.98034,14.769808
+1263137,"Vestre Beiarveien 153, Beiarn",66.98211,14.762504
+1263138,"Vestre Beiarveien 131, Beiarn",66.982802,14.756673
+1263139,"Vestre Beiarveien 319, Beiarn",66.976368,14.784029
+1263140,"Vestre Beiarveien 456, Beiarn",66.969397,14.819869
+1263142,"Vestre Beiarveien 435, Beiarn",66.970504,14.815257
+1263143,"Vestre Beiarveien 420, Beiarn",66.972955,14.816178
+1263144,"Savjordveien 40, Beiarn",66.999752,14.718583
+1263145,"Vestre Beiarveien 404, Beiarn",66.974169,14.811861
+1263146,"Savjordveien 44, Beiarn",66.999887,14.718267
+1263150,"Nedre Beiarveien 675, Beiarn",67.002672,14.622202
+1263152,"Vestre Beiarveien 472, Beiarn",66.969075,14.820055
+1263153,"Nesliveien 50, Beiarn",66.952918,14.790096
+1263154,"Vestre Beiarveien 482, Beiarn",66.967485,14.818624
+1263155,"Vestre Beiarveien 406, Beiarn",66.973863,14.81632
+1263156,"Vestre Beiarveien 396, Beiarn",66.973935,14.81097
+1263157,"Vestre Beiarveien 219, Beiarn",66.980196,14.77618
+1263158,"Vestre Beiarveien 492, Beiarn",66.966597,14.81836
+1263159,"Vestre Beiarveien 221, Beiarn",66.979667,14.776506
+1263161,"Vestre Beiarveien 470, Beiarn",66.968644,14.820173
+1263162,"Vestre Beiarveien 231, Beiarn",66.977258,14.779026
+1263164,"Rønnågveien 20, Beiarn",67.006244,14.596981
+1263176,"Soløyveien 7, Beiarn",67.00892,14.573925
+1263179,"Vestre Beiarveien 185A, Beiarn",66.980869,14.768314
+1263181,"Vestre Beiarveien 189, Beiarn",66.980688,14.768682
+1263193,"Haugan 6, Beiarn",66.989834,14.772447
+1263197,"Eiterjordveien 102, Beiarn",66.996146,14.643423
+1263199,"Savjordveien 51, Beiarn",66.998969,14.728329
+1263202,"Vollveien 15, Beiarn",67.001231,14.616697
+1263208,"Arstaddalsveien 226, Beiarn",67.009757,14.526312
+1263210,"Vestre Beiarveien 119, Beiarn",66.983531,14.756027
+1263211,"Vestre Beiarveien 64, Beiarn",66.987889,14.749542
+1263212,"Vestre Beiarveien 227, Beiarn",66.978879,14.777476
+1263213,"Vestre Beiarveien 123, Beiarn",66.983216,14.755892
+1263217,"Arstaddalsveien 20, Beiarn",67.019898,14.550365
+1263218,"Arstaddalsveien 22, Beiarn",67.020292,14.550358
+1263219,"Arstaddalsveien 17, Beiarn",67.021104,14.548759
+1263220,"Arstaddalsveien 2, Beiarn",67.022555,14.554127
+1263221,"Nedre Beiarveien 979, Beiarn",67.014726,14.56485
+1263222,"Myraveien 16, Beiarn",67.008855,14.537905
+1263223,"Eiterjordveien 26, Beiarn",66.994258,14.678187
+1263224,"Eiterjordveien 66, Beiarn",66.997232,14.651686
+1263227,"Ramskjellveien 1, Beiarn",66.962565,14.822942
+1263229,"Østre Beiarveien 286, Beiarn",66.97986,14.807486
+1263230,"Beiarfjellveien 437, Beiarn",66.991959,14.805235
+1263231,"Beiarfjellveien 479, Beiarn",66.993014,14.817585
+1263232,"Østre Beiarveien 188, Beiarn",66.979201,14.789939
+1263240,"Nedre Beiarveien 409, Beiarn",67.001053,14.681815
+1263241,"Nedre Beiarveien 711, Beiarn",67.005585,14.607499
+1263242,"Nedre Beiarveien 419, Beiarn",67.000259,14.679142
+1263243,"Nedre Beiarveien 861, Beiarn",67.005565,14.580728
+1263244,"Rønnågveien 8, Beiarn",67.006062,14.592488
+1263245,"Rønnågveien 28, Beiarn",67.006187,14.599597
+1263246,"Beiarfjellveien 628, Beiarn",67.001239,14.832684
+1263247,"Østre Beiarveien 354, Beiarn",66.977492,14.822926
+1263248,"Beiarfjellveien 193, Beiarn",66.982221,14.787552
+1263249,"Østre Beiarveien 132, Beiarn",66.98303,14.782666
+1263250,"Beiarfjellveien 432, Beiarn",66.9927,14.795394
+1263251,"Beiarfjellveien 103, Beiarn",66.986164,14.778074
+1263252,"Moliveien 36, Beiarn",66.996744,14.762178
+1263253,"Moliveien 30, Beiarn",66.998039,14.757831
+1263255,"Beiarfjellveien 656, Beiarn",66.999701,14.837993
+1263256,"Eiterjordveien 36, Beiarn",66.995154,14.661461
+1263257,"Nedre Beiarveien 932, Beiarn",67.00873,14.566793
+1263258,"Vestre Beiarveien 229, Beiarn",66.97867,14.781556
+1263259,"Rønnågveien 74, Beiarn",67.008539,14.595459
+1263260,"Østre Beiarveien 11, Beiarn",66.988526,14.760974
+1263262,"Nedre Beiarveien 888, Beiarn",67.006479,14.574428
+1263263,"Nedre Beiarveien 889, Beiarn",67.007123,14.576525
+1263273,"Nedre Beiarveien 1350, Beiarn",67.040224,14.557651
+1263274,"Tarnesveien 24, Beiarn",67.046522,14.567819
+1263275,"Tarnesveien 30, Beiarn",67.047285,14.5681
+1263282,"Nedre Beiarveien 1310, Beiarn",67.036885,14.562363
+1263283,"Nedre Beiarveien 1320, Beiarn",67.037944,14.562459
+1263284,"Nedre Beiarveien 1308, Beiarn",67.036942,14.563281
+1263285,"Tarnesveien 20, Beiarn",67.045606,14.566112
+1263290,"Nedre Beiarveien 1326, Beiarn",67.038533,14.561766
+1263291,"Nedre Beiarveien 1339, Beiarn",67.039565,14.56452
+1263292,"Nedre Beiarveien 1323, Beiarn",67.03828,14.563992
+1263293,"Nedre Beiarveien 1349, Beiarn",67.040337,14.565012
+1263294,"Nedre Beiarveien 1315, Beiarn",67.03786,14.563604
+1263295,"Nedre Beiarveien 1354, Beiarn",67.042144,14.559672
+1263296,"Nedre Beiarveien 1352, Beiarn",67.041732,14.559955
+1263297,"Tarnesveien 26, Beiarn",67.046815,14.56848
+1263298,"Tarnesveien 21, Beiarn",67.046033,14.56792
+1263299,"Nedre Beiarveien 1384, Beiarn",67.043032,14.566319
+1263300,"Tarnesveien 8, Beiarn",67.04353,14.564587
+1263301,"Nedre Beiarveien 1346, Beiarn",67.040338,14.562117
+1263302,"Nedre Beiarveien 1405, Beiarn",67.044057,14.570597
+1263303,"Arstaddalsveien 16, Beiarn",67.020732,14.550304
+1263304,"Arstaddalsveien 7, Beiarn",67.021837,14.550954
+1263305,"Nedre Beiarveien 1058, Beiarn",67.019321,14.552625
+1263306,"Nedre Beiarveien 1052, Beiarn",67.018698,14.554611
+1263307,"Nedre Beiarveien 1042, Beiarn",67.017836,14.554168
+1263308,"Nedre Beiarveien 1128, Beiarn",67.026067,14.555739
+1263309,"Nedre Beiarveien 1363, Beiarn",67.040748,14.566125
+1263310,"Nedre Beiarveien 1089, Beiarn",67.021683,14.55665
+1263311,"Nedre Beiarveien 1141, Beiarn",67.025867,14.562267
+1263312,"Nedre Beiarveien 1110, Beiarn",67.024216,14.554831
+1263313,"Nedre Beiarveien 1106, Beiarn",67.02274,14.551121
+1263314,"Nedre Beiarveien 1126, Beiarn",67.025797,14.555583
+1263317,"Nedre Beiarveien 412, Beiarn",66.998095,14.678482
+1263323,"Tarnesveien 22, Beiarn",67.046313,14.567255
+1263324,"Tarnesveien 14, Beiarn",67.044458,14.564345
+1263325,"Soløyveien 25, Beiarn",67.01118,14.577143
+1263333,"Vestre Beiarveien 467, Beiarn",66.968928,14.816849
+1263335,"Vestre Beiarveien 225, Beiarn",66.978818,14.778393
+1263337,"Østre Beiarveien 590, Beiarn",66.957929,14.817074
+1263338,"Myraveien 18, Beiarn",67.008897,14.537032
+1263365,"Eiterjordveien 51, Beiarn",66.999288,14.648437
+1263367,"Nedre Beiarveien 950, Beiarn",67.01079,14.56609
+1263368,"Nedre Beiarveien 879, Beiarn",67.006367,14.578833
+1263371,"Østre Beiarveien 146, Beiarn",66.98157,14.783639
+1263372,"Nedre Beiarveien 934, Beiarn",67.008548,14.56597
+1263373,"Nedre Beiarveien 215, Beiarn",66.995761,14.72027
+1263377,"Nedre Beiarveien 1068, Beiarn",67.020627,14.554598
+1263379,"Eiterjordveien 55, Beiarn",66.999051,14.646936
+1263381,"Rønnågveien 76, Beiarn",67.008458,14.596302
+1263382,"Ramskjellveien 8, Beiarn",66.962076,14.826793
+1263386,"Haugan 26, Beiarn",66.990386,14.775445
+1263388,"Arstaddalsveien 18, Beiarn",67.019792,14.55101
+1263394,"Rønnågveien 10, Beiarn",67.006049,14.594713
+1263395,"Haugan 22, Beiarn",66.989866,14.775839
+1263396,"Nedre Beiarveien 893, Beiarn",67.007345,14.575489
+1263397,"Rønnågveien 68, Beiarn",67.007876,14.596931
+1263399,"Eiterjordveien 38, Beiarn",66.995179,14.660589
+1263405,"Nedre Beiarveien 931, Beiarn",67.010069,14.571105
+1263406,"Østre Beiarveien 202, Beiarn",66.980001,14.797448
+1263410,"Nedre Beiarveien 885, Beiarn",67.006705,14.577542
+1263414,"Rønnågveien 1, Beiarn",67.005654,14.594307
+1263415,"Nedre Beiarveien 809, Beiarn",67.005424,14.592223
+1263416,"Vollveien 1, Beiarn",67.000707,14.622049
+1263417,"Vollveien 17, Beiarn",67.00124,14.615894
+1263418,"Vollveien 13, Beiarn",67.001218,14.617959
+1263419,"Nedre Beiarveien 825, Beiarn",67.005089,14.587687
+1263420,"Vollveien 28, Beiarn",67.000183,14.601967
+1263421,"Myraveien 1, Beiarn",67.011862,14.563891
+1263422,"Arstaddalsveien 1060, Beiarn",66.969334,14.431006
+1263423,"Nedre Beiarveien 933, Beiarn",67.010635,14.571462
+1263424,"Soløyveien 33, Beiarn",67.0122,14.577747
+1263425,"Nedre Beiarveien 832, Beiarn",67.004485,14.586343
+1263426,"Vollveien 7, Beiarn",67.000989,14.619027
+1263427,"Vollveien 11, Beiarn",67.001148,14.618809
+1263428,"Eiterjordveien 107, Beiarn",67.000744,14.645948
+1263429,"Eiterjordveien 104, Beiarn",66.996158,14.644891
+1263430,"Eiterjordveien 23, Beiarn",66.997081,14.682555
+1263431,"Eiterjordveien 56, Beiarn",66.996795,14.652862
+1263432,"Eiterjordveien 52, Beiarn",66.997387,14.65306
+1263433,"Eiterjordveien 103, Beiarn",67.000063,14.641875
+1263434,"Eiterjordveien 53, Beiarn",66.998857,14.648154
+1263435,"Eiterjordveien 70, Beiarn",66.993135,14.644797
+1263436,"Eiterjordveien 101, Beiarn",66.999178,14.643654
+1263437,"Eiterjordveien 21, Beiarn",66.997581,14.685736
+1263438,"Eiterjordveien 94, Beiarn",66.997121,14.648381
+1263439,"Eiterjordveien 98, Beiarn",66.997307,14.645149
+1263440,"Eiterjordveien 76, Beiarn",66.995297,14.648802
+1263441,"Eiterjordveien 45, Beiarn",66.998091,14.658916
+1263442,"Nedre Beiarveien 175, Beiarn",66.996132,14.727122
+1263443,"Nedre Beiarveien 187, Beiarn",66.995915,14.725547
+1263444,"Vestre Beiarveien 57, Beiarn",66.988497,14.748114
+1263445,"Nedre Beiarveien 212, Beiarn",66.993814,14.71965
+1263446,"Eiterjordveien 9, Beiarn",66.996244,14.690362
+1263447,"Nedre Beiarveien 285, Beiarn",66.996459,14.704279
+1263448,"Nedre Beiarveien 119, Beiarn",66.996505,14.741014
+1263449,"Eiterjordveien 15, Beiarn",66.997248,14.689914
+1263450,"Eiterjordveien 49, Beiarn",66.998061,14.657614
+1263451,"Eiterjordveien 64, Beiarn",66.994014,14.652901
+1263452,"Eiterjordveien 31, Beiarn",66.995677,14.662848
+1263453,"Eiterjordveien 82, Beiarn",66.995048,14.642041
+1263454,"Eiterjordveien 41, Beiarn",66.997904,14.659588
+1263455,"Eiterjordveien 33, Beiarn",66.995963,14.662298
+1263456,"Nedre Beiarveien 190, Beiarn",66.994895,14.727131
+1263457,"Vestre Beiarveien 59, Beiarn",66.988002,14.747271
+1263458,"Nedre Beiarveien 192, Beiarn",66.995302,14.729401
+1263459,"Nedre Beiarveien 217, Beiarn",66.995859,14.719718
+1263460,"Nedre Beiarveien 200, Beiarn",66.994543,14.721999
+1263461,"Nedre Beiarveien 194, Beiarn",66.994819,14.725077
+1263462,"Vestre Beiarveien 215, Beiarn",66.978829,14.773787
+1263463,"Nedre Beiarveien 209, Beiarn",66.996148,14.721022
+1263464,"Vestre Beiarveien 121, Beiarn",66.983514,14.7566
+1263465,"Vestre Beiarveien 312, Beiarn",66.977259,14.793003
+1263466,"Nedre Beiarveien 142, Beiarn",66.996204,14.735947
+1263467,"Vestre Beiarveien 21, Beiarn",66.993373,14.745587
+1263468,"Nedre Beiarveien 129, Beiarn",66.996565,14.739225
+1263469,"Nedre Beiarveien 110, Beiarn",66.994996,14.74536
+1263470,"Eiterjordveien 3, Beiarn",66.995562,14.699451
+1263471,"Nedre Beiarveien 111, Beiarn",66.996488,14.741634
+1263472,"Nedre Beiarveien 1075, Beiarn",67.020891,14.555856
+1263473,"Nedre Beiarveien 1048, Beiarn",67.018149,14.553909
+1263474,"Nedre Beiarveien 925, Beiarn",67.009556,14.570357
+1263475,"Arstaddalsveien 4, Beiarn",67.021763,14.553462
+1263476,"Nedre Beiarveien 1136, Beiarn",67.026234,14.557871
+1263477,"Nedre Beiarveien 977, Beiarn",67.014562,14.567331
+1263478,"Nedre Beiarveien 981, Beiarn",67.014133,14.564493
+1263479,"Nedre Beiarveien 936, Beiarn",67.00587,14.557713
+1263480,"Myraveien 14, Beiarn",67.010477,14.541258
+1263481,"Nedre Beiarveien 963, Beiarn",67.013613,14.571135
+1263482,"Myraveien 3, Beiarn",67.013595,14.56152
+1263483,"Myraveien 21, Beiarn",67.009856,14.530521
+1263484,"Myraveien 4, Beiarn",67.013411,14.559641
+1263485,"Nedre Beiarveien 959, Beiarn",67.013076,14.568413
+1263486,"Nedre Beiarveien 961, Beiarn",67.013601,14.570148
+1263487,"Nedre Beiarveien 971, Beiarn",67.01255,14.566289
+1263488,"Nedre Beiarveien 967, Beiarn",67.013373,14.572125
+1263489,"Nedre Beiarveien 975, Beiarn",67.012952,14.565799
+1263490,"Nedre Beiarveien 965, Beiarn",67.013961,14.570715
+1263506,"Nedre Beiarveien 868, Beiarn",67.005146,14.57851
+1263525,"Soløyveien 62, Beiarn",67.025714,14.57464
+1263526,"Soløyveien 42, Beiarn",67.018278,14.561527
+1263528,"Nedre Beiarveien 407, Beiarn",66.999993,14.681003
+1263530,"Nedre Beiarveien 677, Beiarn",67.002841,14.621512
+1263531,"Rønnågveien 4A, Beiarn",67.005886,14.592983
+1263532,"Nedre Beiarveien 631, Beiarn",67.001329,14.63262
+1263534,"Nedre Beiarveien 1139, Beiarn",67.025317,14.560482
+1263535,"Vestre Beiarveien 239, Beiarn",66.98027,14.777486
+1263536,"Vestre Beiarveien 233, Beiarn",66.977374,14.77875
+1263537,"Storjordveien 18, Beiarn",66.990303,14.755661
+1263538,"Beiarfjellveien 709, Beiarn",66.994602,14.842266
+1263539,"Beiarfjellveien 707, Beiarn",66.995014,14.842176
+1263540,"Østre Beiarveien 6, Beiarn",66.989298,14.759561
+1263541,"Nedre Beiarveien 1056, Beiarn",67.019273,14.554768
+1263542,"Eiterjordveien 39, Beiarn",66.99786,14.660091
+1263543,"Østre Beiarveien 346, Beiarn",66.979057,14.818813
+1263547,"Beiarfjellveien 188, Beiarn",66.983948,14.789038
+1263548,"Østre Beiarveien 96, Beiarn",66.985524,14.775393
+1263549,"Storjordveien 39, Beiarn",66.992463,14.769304
+1263551,"Rønnågveien 2, Beiarn",67.005696,14.593228
+1263553,"Storjordveien 19, Beiarn",66.991005,14.756468
+1263554,"Nedre Beiarveien 137, Beiarn",66.996627,14.737078
+1263556,"Ramskjellveien 42, Beiarn",66.946365,14.859514
+1263557,"Vestre Beiarveien 19, Beiarn",66.993177,14.745174
+1263558,"Ramskjellveien 61, Beiarn",66.941471,14.874437
+1263560,"Ramskjellveien 30, Beiarn",66.947178,14.855482
+1263561,"Vestre Beiarveien 416, Beiarn",66.973087,14.814825
+1263562,"Nedre Beiarveien 882, Beiarn",67.005696,14.576206
+1263565,"Nedre Beiarveien 858, Beiarn",67.004986,14.578834
+1263566,"Arstaddalsveien 26, Beiarn",67.020489,14.548849
+1263635,"Østre Beiarveien 190, Beiarn",66.979391,14.79067
+1263637,"Savjordveien 16, Beiarn",66.999294,14.699795
+1263638,"Vestre Beiarveien 433, Beiarn",66.971438,14.815822
+1263639,"Østre Beiarveien 255, Beiarn",66.977905,14.799917
+1263640,"Vollveien 26, Beiarn",67.000655,14.600468
+1263641,"Nedre Beiarveien 707, Beiarn",67.004407,14.612472
+1263642,"Rønnågveien 6, Beiarn",67.006153,14.593083
+1263645,"Vestre Beiarveien 437, Beiarn",66.969814,14.815491
+1263647,"Beiarfjellveien 616, Beiarn",67.008597,14.844243
+1263648,"Østre Beiarveien 204, Beiarn",66.981953,14.802405
+1263649,"Rønnågveien 14, Beiarn",67.006058,14.594392
+1263650,"Rønnågveien 16, Beiarn",67.006057,14.594231
+1263652,"Rønnågveien 12, Beiarn",67.006058,14.594575
+1263664,"Storjordveien 37, Beiarn",66.991387,14.767067
+1263665,"Nedre Beiarveien 353, Beiarn",67.000713,14.69637
+1263672,"Ramskjellveien 2, Beiarn",66.962674,14.824087
+1263674,"Ramskjellveien 20, Beiarn",66.950949,14.838676
+1263675,"Beiarfjellveien 772, Beiarn",66.998995,14.858041
+1263676,"Beiarfjellveien 768, Beiarn",66.998758,14.855336
+1263677,"Beiarfjellveien 761, Beiarn",66.995419,14.852926
+1263678,"Beiarfjellveien 766, Beiarn",66.99778,14.85587
+1263679,"Beiarfjellveien 764, Beiarn",66.997756,14.853735
+1263683,"Nedre Beiarveien 957, Beiarn",67.011735,14.566877
+1263684,"Ramskjellveien 32, Beiarn",66.947225,14.857633
+1263685,"Ramskjellveien 57, Beiarn",66.942456,14.871824
+1263687,"Arstaddalsveien 258, Beiarn",67.009666,14.517379
+1263689,"Beiarfjellveien 724, Beiarn",67.000669,14.845509
+1263690,"Beiarfjellveien 722, Beiarn",67.000499,14.847161
+1263691,"Beiarfjellveien 691, Beiarn",66.996261,14.839467
+1263692,"Beiarfjellveien 703, Beiarn",66.99619,14.843313
+1263693,"Beiarfjellveien 728, Beiarn",67.001752,14.84455
+1263694,"Beiarfjellveien 705, Beiarn",66.995319,14.842676
+1263695,"Nedre Beiarveien 1413, Beiarn",67.043999,14.572287
+1263696,"Ramskjellveien 43, Beiarn",66.945108,14.858286
+1263698,"Beiarfjellveien 48, Beiarn",66.990594,14.764668
+1263699,"Ramskjellveien 58, Beiarn",66.942609,14.873402
+1263700,"Ramskjellveien 56, Beiarn",66.943228,14.872437
+1263701,"Ramskjellveien 62, Beiarn",66.941346,14.875788
+1263702,"Ramskjellveien 59, Beiarn",66.942035,14.873428
+1263703,"Ramskjellveien 60, Beiarn",66.941705,14.875168
+1263705,"Nedre Beiarveien 1415, Beiarn",67.04392,14.572874
+1263707,"Beiarfjellveien 787, Beiarn",66.993277,14.865412
+1263708,"Nedre Beiarveien 1250, Beiarn",67.033932,14.570746
+1263710,"Arstaddalsveien 234, Beiarn",67.009436,14.525091
+1263713,"Nedre Beiarveien 1104, Beiarn",67.022958,14.550929
+1263714,"Ramskjellveien 38, Beiarn",66.946704,14.856721
+1263717,"Ramskjellveien 36, Beiarn",66.946812,14.857544
+1263718,"Vestre Beiarveien 315, Beiarn",66.976525,14.791746
+1263719,"Moliveien 22, Beiarn",66.997224,14.758802
+1263721,"Nedre Beiarveien 1051, Beiarn",67.018777,14.556996
+1263723,"Nedre Beiarveien 1053, Beiarn",67.018841,14.557431
+1263724,"Vestre Beiarveien 183, Beiarn",66.980992,14.767854
+1263726,"Nedre Beiarveien 205, Beiarn",66.996231,14.721961
+1263727,"Nedre Beiarveien 1337, Beiarn",67.039394,14.564385
+1263728,"Vollveien 24, Beiarn",67.000282,14.602768
+1263729,"Vollveien 25, Beiarn",67.000795,14.602553
+1263730,"Ramskjellveien 55, Beiarn",66.941533,14.873682
+1263732,"Arstaddalsveien 6, Beiarn",67.021621,14.554098
+1263733,"Østre Beiarveien 185, Beiarn",66.978633,14.787698
+1263734,"Eiterjordveien 84, Beiarn",66.995545,14.647606
+1263735,"Beiarfjellveien 644, Beiarn",67.002329,14.837081
+1263737,"Nedre Beiarveien 118, Beiarn",66.996128,14.741085
+1263738,"Vestre Beiarveien 422, Beiarn",66.972713,14.816454
+1263739,"Nedre Beiarveien 367, Beiarn",67.000608,14.687669
+1263740,"Beiarfjellveien 634, Beiarn",67.003813,14.841222
+1263751,"Vestre Beiarveien 147, Beiarn",66.982578,14.760643
+1263752,"Nedre Beiarveien 1333, Beiarn",67.038738,14.563938
+1263753,"Nedre Beiarveien 1358, Beiarn",67.041446,14.557089
+1263760,"Arstaddalsveien 224, Beiarn",67.010165,14.525719
+1263761,"Beiarfjellveien 712, Beiarn",66.999605,14.83992
+1263762,"Beiarfjellveien 726, Beiarn",67.001141,14.841997
+1263763,"Østre Beiarveien 481, Beiarn",66.96661,14.823463
+1263764,"Østre Beiarveien 423, Beiarn",66.97125,14.820398
+1263765,"Myraveien 12, Beiarn",67.010704,14.54122
+1263766,"Nedre Beiarveien 377, Beiarn",66.999995,14.686438
+1263772,"Eiterjordveien 80, Beiarn",66.995054,14.642845
+1263774,"Eiterjordveien 35, Beiarn",66.996114,14.66186
+1263776,"Nedre Beiarveien 193, Beiarn",66.996128,14.724508
+1263777,"Nedre Beiarveien 969, Beiarn",67.013089,14.573048
+1263778,"Nedre Beiarveien 973, Beiarn",67.013073,14.567335
+1263779,"Eiterjordveien 78, Beiarn",66.994893,14.648647
+1263780,"Vollveien 16, Beiarn",67.000323,14.614923
+1263781,"Eiterjordveien 50, Beiarn",66.997467,14.652715
+1263782,"Eiterjordveien 105, Beiarn",67.000422,14.645975
+1263789,"Vestre Beiarveien 317, Beiarn",66.976065,14.785337
+1263790,"Nedre Beiarveien 203, Beiarn",66.996223,14.722902
+1263797,"Østre Beiarveien 372, Beiarn",66.976479,14.823673
+1263798,"Østre Beiarveien 588, Beiarn",66.958426,14.816685
+1263805,"Østre Beiarveien 1, Beiarn",66.988446,14.756046
+1263806,"Storjordveien 4, Beiarn",66.989906,14.760112
+1263807,"Savjordveien 34, Beiarn",67.000788,14.720728
+1263808,"Moliveien 34, Beiarn",66.997239,14.762096
+1263809,"Savjordveien 28, Beiarn",66.999863,14.716393
+1263810,"Savjordveien 64, Beiarn",66.998999,14.734461
+1263811,"Savjordveien 53, Beiarn",66.998889,14.729018
+1263812,"Østre Beiarveien 393, Beiarn",66.974101,14.822103
+1263814,"Ramskjellveien 4, Beiarn",66.963044,14.825572
+1263816,"Østre Beiarveien 466, Beiarn",66.971395,14.824394
+1263818,"Østre Beiarveien 458, Beiarn",66.969375,14.82413
+1263820,"Østre Beiarveien 251, Beiarn",66.977789,14.800903
+1263822,"Østre Beiarveien 468, Beiarn",66.971493,14.825168
+1263823,"Beiarfjellveien 27, Beiarn",66.989542,14.763073
+1263843,"Nedre Beiarveien 1335, Beiarn",67.03916,14.564091
+1263844,"Nedre Beiarveien 1385, Beiarn",67.043056,14.568501
+1263847,"Nedre Beiarveien 1054, Beiarn",67.018555,14.554223
+1263848,"Nedre Beiarveien 1060, Beiarn",67.020126,14.554571
+1263853,"Nedre Beiarveien 1375, Beiarn",67.04223,14.568309
+1644048,"Nedre Beiarveien 211, Beiarn",66.996101,14.72047
+1667269,"Eiterjordveien 54, Beiarn",66.997073,14.653516
+1667277,"Eiterjordveien 62, Beiarn",66.995034,14.654345
+1667284,"Eiterjordveien 88, Beiarn",66.996678,14.649589
+1703589,"Nedre Beiarveien 1361, Beiarn",67.040418,14.565837
+1710007,"Soløyveien 64, Beiarn",67.031043,14.587093
+1710015,"Soløyveien 52, Beiarn",67.020383,14.565036
+1710074,"Nedre Beiarveien 1325, Beiarn",67.038442,14.564023
+1710266,"Nedre Beiarveien 1395, Beiarn",67.043549,14.570073
+1710267,"Nedre Beiarveien 1387, Beiarn",67.043389,14.567944
+1710417,"Nedre Beiarveien 1393, Beiarn",67.043762,14.568992
+1710421,"Nedre Beiarveien 1397, Beiarn",67.043377,14.570117
+1710423,"Nedre Beiarveien 1348, Beiarn",67.040331,14.559638
+1710816,"Nedre Beiarveien 473, Beiarn",66.999259,14.665493
+1711301,"Arstaddalsveien 272, Beiarn",67.009785,14.514493
+1711409,"Beiarfjellveien 477, Beiarn",66.993726,14.812531
+1711428,"Beiarfjellveien 516, Beiarn",66.996078,14.816338
+1711480,"Arstaddalsveien 8, Beiarn",67.021613,14.551764
+1711504,"Beiarfjellveien 430, Beiarn",66.991429,14.803807
+1711505,"Beiarfjellveien 514, Beiarn",66.996279,14.814091
+1711506,"Beiarfjellveien 475, Beiarn",66.99269,14.80993
+1711507,"Beiarfjellveien 454, Beiarn",66.997567,14.802583
+1711508,"Beiarfjellveien 452, Beiarn",66.996568,14.802782
+1711543,"Beiarfjellveien 373, Beiarn",66.988514,14.812874
+1711587,"Arstaddalsveien 710, Beiarn",66.997104,14.449116
+1711689,"Arstaddalsveien 1535, Beiarn",66.935218,14.390764
+1712082,"Myraveien 25, Beiarn",67.010185,14.531111
+1712083,"Myraveien 23, Beiarn",67.010281,14.530437
+1712724,"Nedre Beiarveien 1093, Beiarn",67.022657,14.556616
+1713156,"Nedre Beiarveien 872, Beiarn",67.005443,14.578128
+1713319,"Soløyveien 13, Beiarn",67.009236,14.573685
+1714025,"Nedre Beiarveien 210, Beiarn",66.995115,14.720958
+1714026,"Eiterjordveien 13, Beiarn",66.997084,14.690003
+1714027,"Nedre Beiarveien 633, Beiarn",67.001502,14.630579
+1714378,"Eiterjordveien 74, Beiarn",66.995582,14.648827
+1714379,"Eiterjordveien 100, Beiarn",66.997296,14.646457
+1714445,"Eiterjordveien 47, Beiarn",66.998245,14.657659
+1714911,"Nedre Beiarveien 715, Beiarn",67.006545,14.607219
+1714919,"Vollveien 5, Beiarn",67.000976,14.620027
+1714976,"Rønnågveien 24, Beiarn",67.005908,14.599551
+1714979,"Nedre Beiarveien 770, Beiarn",67.00402,14.599656
+1714981,"Nedre Beiarveien 771, Beiarn",67.004792,14.600207
+1715253,"Nedre Beiarveien 140, Beiarn",66.996184,14.737078
+1715254,"Nedre Beiarveien 144, Beiarn",66.996093,14.736054
+1715264,"Savjordveien 32, Beiarn",67.000267,14.716824
+1715381,"Eiterjordveien 43, Beiarn",66.997924,14.65857
+1715625,"Savjordveien 30, Beiarn",66.99988,14.715955
+1715694,"Beiarfjellveien 754, Beiarn",66.998713,14.853273
+1715702,"Beiarfjellveien 614, Beiarn",67.004114,14.825863
+1715705,"Beiarfjellveien 693, Beiarn",66.994338,14.839764
+1715712,"Beiarfjellveien 630, Beiarn",67.002585,14.834661
+1715728,"Nedre Beiarveien 121, Beiarn",66.996511,14.740592
+1715731,"Beiarfjellveien 716, Beiarn",66.999613,14.843188
+1715732,"Beiarfjellveien 718, Beiarn",66.999978,14.843094
+1715743,"Beiarfjellveien 720, Beiarn",66.999636,14.845169
+1715745,"Beiarfjellveien 708, Beiarn",66.998938,14.840146
+1715866,"Beiarfjellveien 785, Beiarn",66.993292,14.863937
+1715867,"Beiarfjellveien 783, Beiarn",66.993364,14.859819
+1715868,"Beiarfjellveien 781, Beiarn",66.993317,14.858306
+1715869,"Beiarfjellveien 763, Beiarn",66.9938,14.84975
+1715896,"Beiarfjellveien 658, Beiarn",67.000889,14.840159
+1716037,"Beiarfjellveien 632, Beiarn",67.004163,14.839027
+1716038,"Beiarfjellveien 738, Beiarn",67.005656,14.85466
+1716039,"Beiarfjellveien 734, Beiarn",67.004398,14.844022
+1716040,"Beiarfjellveien 732, Beiarn",67.002863,14.845103
+1716041,"Beiarfjellveien 740, Beiarn",67.008121,14.856793
+1716124,"Savjordveien 12, Beiarn",66.999039,14.69784
+1716128,"Savjordveien 10, Beiarn",66.998976,14.698123
+1716372,"Savjordveien 2, Beiarn",66.99918,14.700783
+1716379,"Savjordveien 6, Beiarn",66.999084,14.699385
+1716381,"Nedre Beiarveien 351, Beiarn",67.000255,14.69788
+1716457,"Nedre Beiarveien 405, Beiarn",67.000127,14.679969
+1717584,"Savjordveien 66, Beiarn",67.000088,14.736529
+1717609,"Langvatnet 14, Beiarn",67.022119,14.841397
+1717713,"Langvatnet 10, Beiarn",67.020336,14.828781
+1717714,"Savjordveien 68, Beiarn",67.000058,14.737169
+1717715,"Savjordveien 69, Beiarn",66.99941,14.738965
+1717843,"Savjordveien 56, Beiarn",66.999533,14.729942
+1717845,"Savjordveien 60, Beiarn",66.999295,14.730951
+1717954,"Langvatnet 1, Beiarn",67.006509,14.810039
+1718056,"Langvatnet 6, Beiarn",67.018622,14.833506
+1718057,"Østre Beiarveien 128, Beiarn",66.982811,14.781224
+1718065,"Langvatnet 5, Beiarn",67.016492,14.83207
+1718251,"Langvatnet 13, Beiarn",67.020317,14.840793
+1718253,"Langvatnet 8, Beiarn",67.020498,14.837551
+1718254,"Langvatnet 7, Beiarn",67.020351,14.836363
+1718259,"Moliveien 16, Beiarn",66.996333,14.755809
+1718328,"Storjordveien 8, Beiarn",66.989788,14.758873
+1718347,"Nedre Beiarveien 18, Beiarn",66.989205,14.752401
+1718348,"Storjordveien 26, Beiarn",66.990266,14.763057
+1718452,"Moliveien 5, Beiarn",66.992896,14.760328
+1718454,"Storjordveien 24, Beiarn",66.990875,14.762494
+1718457,"Storjordveien 13, Beiarn",66.991044,14.758382
+1718520,"Vestre Beiarveien 217, Beiarn",66.977745,14.774113
+1718685,"Østre Beiarveien 198, Beiarn",66.98074,14.794256
+1718700,"Østre Beiarveien 13, Beiarn",66.988625,14.761363
+1718761,"Langvatnet 3, Beiarn",67.015502,14.828223
+1718762,"Langvatnet 11, Beiarn",67.021122,14.838906
+1718767,"Nedre Beiarveien 435, Beiarn",66.999825,14.675324
+1718770,"Østre Beiarveien 288, Beiarn",66.979875,14.80615
+1718995,"Østre Beiarveien 2, Beiarn",66.989247,14.758633
+1718996,"Langvatnet 15, Beiarn",67.020652,14.844094
+1719037,"Moliveien 18, Beiarn",66.996403,14.755274
+1719039,"Haugan 8, Beiarn",66.990092,14.772261
+1719041,"Beiarfjellveien 46, Beiarn",66.990927,14.765788
+1719137,"Østre Beiarveien 318, Beiarn",66.979719,14.817231
+1719151,"Østre Beiarveien 368, Beiarn",66.976131,14.824567
+1719252,"Østre Beiarveien 565, Beiarn",66.960127,14.815615
+1719255,"Østre Beiarveien 596, Beiarn",66.959879,14.82111
+1719258,"Østre Beiarveien 584, Beiarn",66.958235,14.816062
+1719260,"Østre Beiarveien 592, Beiarn",66.959142,14.817981
+1719372,"Ramskjellveien 44, Beiarn",66.945916,14.859881
+1719415,"Ramskjellveien 53, Beiarn",66.941909,14.872026
+1719416,"Ramskjellveien 50, Beiarn",66.944967,14.863145
+1719599,"Ramskjellveien 48, Beiarn",66.946412,14.864233
+1719765,"Østre Beiarveien 498, Beiarn",66.965708,14.825466
+1720034,"Nedre Beiarveien 449, Beiarn",67.000379,14.67192
+1720110,"Nedre Beiarveien 454, Beiarn",66.995999,14.666911
+1720359,"Østre Beiarveien 412, Beiarn",66.972709,14.822003
+1720937,"Soløyveien 31, Beiarn",67.011602,14.57821
+1720938,"Nedre Beiarveien 890, Beiarn",67.006897,14.575229
+1720943,"Soløyveien 35, Beiarn",67.012481,14.577839
+1720944,"Soløyveien 27, Beiarn",67.01166,14.577419
+1720945,"Soløyveien 29, Beiarn",67.011631,14.578021
+1721072,"Nedre Beiarveien 1410, Beiarn",67.044267,14.57083
+1721275,"Arstaddalsveien 86, Beiarn",67.016369,14.545368
+1721643,"Vestre Beiarveien 251, Beiarn",66.979007,14.782477
+1722258,"Vestre Beiarveien 141, Beiarn",66.982854,14.759171
+1722299,"Vestre Beiarveien 494, Beiarn",66.966329,14.819434
+1722300,"Vestre Beiarveien 439, Beiarn",66.969791,14.814658
+1722484,"Vestre Beiarveien 418, Beiarn",66.973262,14.814349
+1722720,"Nesliveien 41, Beiarn",66.94642,14.781403
+1722907,"Langvatnet 9, Beiarn",67.02101,14.836363
+1723543,"Nesliveien 51, Beiarn",66.959942,14.795737
+1726850,"Moliveien 42, Beiarn",66.996405,14.765971
+1726854,"Moliveien 40, Beiarn",66.996492,14.765762
+1726857,"Østre Beiarveien 130, Beiarn",66.983364,14.782658
+1730997,"Beiarfjellveien 899, Beiarn",67.000062,14.937118
+1730998,"Beiarfjellveien 897, Beiarn",66.99904,14.937575
+1731073,"Beiarfjellveien 901, Beiarn",67.002439,14.940034
+1731075,"Beiarfjellveien 895, Beiarn",66.999461,14.883445
+1731539,"Langvatnet 4, Beiarn",67.015973,14.832927
+1731540,"Ramskjellveien 34, Beiarn",66.947553,14.859958
+1731545,"Langvatnet 12, Beiarn",67.02055,14.840271
+1734913,"Ramskjellveien 52, Beiarn",66.944426,14.862834
+1739548,"Østre Beiarveien 14, Beiarn",66.989028,14.760971
+1767313,"Soløyveien 23, Beiarn",67.010745,14.578562
+1774590,"Beiarfjellveien 700, Beiarn",66.997873,14.840133
+1774696,"Østre Beiarveien 102, Beiarn",66.983975,14.774546
+1775751,"Østre Beiarveien 376, Beiarn",66.976136,14.826716
+1777219,"Østre Beiarveien 8, Beiarn",66.989322,14.760551
+1777831,"Ramskjellveien 22, Beiarn",66.951091,14.842174
+1777869,"Arstaddalsveien 24, Beiarn",67.02042,14.549874
+1777909,"Eiterjordveien 96, Beiarn",66.997515,14.648368
+1780744,"Østre Beiarveien 134, Beiarn",66.98252,14.783747
+1783744,"Nedre Beiarveien 1064, Beiarn",67.020665,14.552355
+1787782,"Nedre Beiarveien 912, Beiarn",67.00813,14.57144
+1793345,"Vestre Beiarveien 129, Beiarn",66.982849,14.757193
+1802116,"Kobbåvatnet 5, Beiarn",67.02583,14.666321
+1802250,"Kobbåvatnet 26, Beiarn",67.025993,14.673274
+1802298,"Kobbåvatnet 20, Beiarn",67.032858,14.683146
+1802392,"Kobbåvatnet 3, Beiarn",67.025286,14.671247
+1802457,"Kobbåvatnet 2, Beiarn",67.02443,14.669279
+1802511,"Kobbåvatnet 22, Beiarn",67.029081,14.678998
+1802515,"Kobbåvatnet 4, Beiarn",67.026139,14.670032
+1802555,"Kobbåvatnet 23, Beiarn",67.027847,14.679127
+1811998,"Eiterjordveien 60, Beiarn",66.995928,14.653784
+1818978,"Savjordveien 63, Beiarn",66.998498,14.733067
+1820873,"Nedre Beiarveien 186, Beiarn",66.995403,14.72627
+1835007,"Beiarfjellveien 488, Beiarn",66.995247,14.809084
+1835483,"Rønnågveien 29, Beiarn",67.005963,14.600817
+1835490,"Rønnågveien 31, Beiarn",67.005936,14.601462
+1837466,"Rønnågveien 61, Beiarn",67.007448,14.595087
+1837467,"Rønnågveien 63, Beiarn",67.007457,14.595362
+1846121,"Østre Beiarveien 104, Beiarn",66.983981,14.775091
+1856478,"Beiarfjellveien 710, Beiarn",66.99938,14.841731
+1857636,"Østre Beiarveien 194, Beiarn",66.978534,14.789587
+1885252,"Nedre Beiarveien 347, Beiarn",66.999877,14.695664
+1890775,"Beiarfjellveien 706, Beiarn",66.998465,14.840159
+1896859,"Nedre Beiarveien 417, Beiarn",66.999539,14.67922
+1938009,"Vestre Beiarveien 223, Beiarn",66.979052,14.779447
+1940174,"Beiarfjellveien 750, Beiarn",66.997826,14.850494
+1962398,"Ramskjellveien 64, Beiarn",66.941125,14.876626
+1963455,"Nedre Beiarveien 1417, Beiarn",67.043702,14.573937
+1963788,"Nedre Beiarveien 881, Beiarn",67.006524,14.578282
+1968283,"Beiarfjellveien 640, Beiarn",67.00045,14.833178
+1968608,"Morhausen 2, Beiarn",67.023484,14.815141
+1968610,"Morhausen 4, Beiarn",67.025225,14.822147
+1978245,"Arstaddalsveien 1069, Beiarn",66.968255,14.431166
+1980645,"Beiarfjellveien 642, Beiarn",67.001156,14.834657
+1983108,"Morhausen 1, Beiarn",67.022537,14.801199
+1983110,"Morhausen 6, Beiarn",67.034731,14.837562
+1984269,"Nedre Beiarveien 361, Beiarn",67.000307,14.690329
+1995827,"Beiarfjellveien 618, Beiarn",67.009233,14.84361
+2004165,"Nedre Beiarveien 201, Beiarn",66.996368,14.723595
+2006867,"Storjordveien 6, Beiarn",66.990043,14.759224
+2012519,"Nedre Beiarveien 357, Beiarn",67.000456,14.694691
+2020348,"Soløyveien 17, Beiarn",67.009887,14.575032
+2021831,"Holmentunet, Rønnågveien 18, Beiarn",67.00641,14.594746
+2038541,"Østre Beiarveien 476, Beiarn",66.972715,14.836344
+2038542,"Kobbåvatnet 11, Beiarn",67.032158,14.667962
+2038904,"Morhausen 7, Beiarn",67.040977,14.839089
+2038905,"Kobbåvatnet 1, Beiarn",67.015022,14.670632
+2039055,"Kobbåvatnet 8, Beiarn",67.029018,14.665279
+2039056,"Kobbåvatnet 9, Beiarn",67.029164,14.660852
+2039057,"Kobbåvatnet 12, Beiarn",67.034458,14.664602
+2039058,"Kobbåvatnet 13, Beiarn",67.034238,14.668167
+2051690,"Rønnågveien 25, Beiarn",67.005666,14.600599
+2056502,"Beiarfjellveien 704, Beiarn",66.998492,14.842619
+2061207,"Storjordveien 25, Beiarn",66.990018,14.760967
+2069808,"Vestre Beiarveien 421, Beiarn",66.971941,14.815023
+2071039,"Vestre Beiarveien 185B, Beiarn",66.980789,14.768424
+2071806,"Rønnågveien 33, Beiarn",67.006275,14.600698
+2071807,"Rønnågveien 35, Beiarn",67.006238,14.600878
+2071808,"Rønnågveien 37, Beiarn",67.006274,14.601021
+2071809,"Rønnågveien 39, Beiarn",67.006539,14.600661
+2071810,"Rønnågveien 41, Beiarn",67.006521,14.600879
+2071812,"Rønnågveien 43, Beiarn",67.006543,14.601063
+2071813,"Rønnågveien 45, Beiarn",67.006509,14.601346
+2071829,"Rønnågveien 47, Beiarn",67.006465,14.601511
+2072579,"Kobbåvatnet 28, Beiarn",67.027407,14.686645
+2072755,"Kobbåvatnet 14, Beiarn",67.038662,14.660598
+2072774,"Kobbåvatnet 16, Beiarn",67.035695,14.675573
+2072775,"Kobbåvatnet 6, Beiarn",67.024592,14.664138
+2072776,"Kobbåvatnet 17, Beiarn",67.036206,14.678274
+2073551,"Ramskjellveien 18, Beiarn",66.950791,14.838715
+2073552,"Beiarfjellveien 714, Beiarn",66.998955,14.844307
+2074628,"Beiarfjellveien 774, Beiarn",66.997965,14.85891
+2074720,"Tarnesveien 32, Beiarn",67.047109,14.567486
+2075430,"Nedre Beiarveien 1125, Beiarn",67.025124,14.557727
+2075474,"Rønnågveien 4B, Beiarn",67.005958,14.592868
+2075861,"Storjordveien 27, Beiarn",66.990005,14.76112
+2075862,"Storjordveien 29, Beiarn",66.98999,14.761273
+2085259,"Storjordveien 35, Beiarn",66.98995,14.761747
+2085260,"Storjordveien 31, Beiarn",66.989977,14.761429
+2085261,"Storjordveien 33, Beiarn",66.989962,14.761579
+2092090,"Østre Beiarveien 182, Beiarn",66.979796,14.787658
+2100753,"Beiarfjellveien 752, Beiarn",66.998256,14.852003
+2183542,"Beiarfjellveien 770, Beiarn",66.998428,14.856458
+2195512,"Savådalen 15, Beiarn",67.027207,14.740922
+2195561,"Kobbåvatnet 30, Beiarn",67.025022,14.687692
+2360054,"Tarnesveien 10, Beiarn",67.043726,14.563918
+2495513,"Nedre Beiarveien 474, Beiarn",66.998987,14.664309
+2496674,"Østre Beiarveien 46, Beiarn",66.987484,14.766428

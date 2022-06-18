@@ -1,0 +1,665 @@
+,Navn,Long,Lat
+910,"Nese, 25/20, Klepp",58.757058,5.551577
+180128,"Bakkavegen 4, Klepp",58.77009,5.627966
+180130,"Bakkavegen 5, Klepp",58.770264,5.627378
+180132,"Bakkavegen 3C, Klepp",58.77058,5.627087
+180134,"Bakkavegen 3D, Klepp",58.770385,5.627193
+180136,"Bakkavegen 3A, Klepp",58.770403,5.627901
+180138,"Bakkavegen 3B, Klepp",58.770593,5.627588
+180139,"Bakkavegen 1, Klepp",58.770555,5.628197
+180141,"Bakkavegen 2, Klepp",58.770388,5.628698
+180165,"Bakkavegen 15, Klepp",58.769507,5.626638
+180167,"Bakkavegen 17, Klepp",58.76928,5.625847
+180169,"Bakkavegen 12, Klepp",58.768951,5.626657
+180170,"Bakkavegen 13, Klepp",58.769794,5.62661
+180172,"Bakkavegen 10, Klepp",58.769406,5.627236
+180174,"Bakkavegen 11, Klepp",58.769998,5.626486
+180176,"Bakkavegen 8, Klepp",58.769613,5.62725
+180178,"Bakkavegen 9, Klepp",58.770091,5.626962
+180180,"Bakkavegen 6, Klepp",58.769833,5.627385
+180182,"Bakkavegen 7, Klepp",58.770336,5.626713
+180526,"Haugastubben 6, Klepp",58.771275,5.62413
+180528,"Haugastubben 3, Klepp",58.771328,5.623727
+180529,"Haugastubben 4, Klepp",58.771275,5.624442
+180530,"Haugastubben 1, Klepp",58.771544,5.623758
+180531,"Haugastubben 2, Klepp",58.771564,5.624171
+180532,"Haugabakkavegen 9, Klepp",58.7704,5.622623
+180533,"Haugabakkavegen 11, Klepp",58.770132,5.622684
+180534,"Haugabakkavegen 7, Klepp",58.771287,5.622956
+180535,"Haugabakkavegen 8, Klepp",58.770002,5.623544
+180536,"Haugabakkavegen 5, Klepp",58.771309,5.622478
+180537,"Haugabakkavegen 6, Klepp",58.770227,5.623557
+180538,"Haugabakkavegen 3C, Klepp",58.771665,5.622535
+180539,"Haugabakkavegen 4, Klepp",58.770452,5.62357
+180540,"Haugabakkavegen 3A, Klepp",58.771659,5.623003
+180541,"Haugabakkavegen 3B, Klepp",58.771596,5.622991
+180586,"Haugen 4, Klepp",58.769483,5.624339
+180588,"Haugen 2, Klepp",58.769733,5.623916
+180589,"Haugen 3, Klepp",58.769221,5.623883
+180591,"Haugen 1, Klepp",58.769469,5.623458
+180839,"Klokkarvegen 5, Klepp",58.769204,5.621926
+180840,"Klokkarvegen 7, Klepp",58.768996,5.621877
+180841,"Klokkarvegen 2, Klepp",58.76906,5.622615
+180842,"Klokkarvegen 3, Klepp",58.769438,5.621938
+180844,"Klokkarvegen 1, Klepp",58.769752,5.622236
+180947,"Kringsjåvegen 5, Klepp",58.769176,5.620856
+180948,"Kringsjåvegen 7, Klepp",58.768961,5.620894
+180949,"Kringsjåvegen 3, Klepp",58.769791,5.621332
+180950,"Kringsjåvegen 1, Klepp",58.769802,5.621747
+181017,"Linjevegen 7, Klepp",58.769681,5.624228
+181018,"Linjevegen 8, Klepp",58.769447,5.625034
+181019,"Linjevegen 5, Klepp",58.769986,5.624307
+181020,"Linjevegen 6, Klepp",58.76968,5.624994
+181021,"Linjevegen 3, Klepp",58.770246,5.624299
+181022,"Linjevegen 4, Klepp",58.770019,5.624892
+181023,"Linjevegen 1, Klepp",58.770505,5.624222
+181024,"Linjevegen 2, Klepp",58.77037,5.62491
+181043,"Linjevegen 10, Klepp",58.769207,5.62511
+181529,"Slettevegen 24, Klepp",58.768527,5.627941
+181531,"Slettevegen 20, Klepp",58.768363,5.6286
+181532,"Slettevegen 22, Klepp",58.768763,5.628077
+181533,"Slettevegen 16, Klepp",58.768817,5.628747
+181534,"Slettevegen 18, Klepp",58.76858,5.628648
+181535,"Slettevegen 14, Klepp",58.769117,5.628873
+181536,"Slettevegen 10, Klepp",58.769101,5.628286
+181537,"Slettevegen 11, Klepp",58.768757,5.627489
+181538,"Slettevegen 8, Klepp",58.769344,5.628298
+181539,"Slettevegen 9, Klepp",58.768993,5.627605
+181540,"Slettevegen 6, Klepp",58.76964,5.628598
+181541,"Slettevegen 7, Klepp",58.769099,5.627179
+181574,"Slettevegen 4, Klepp",58.769925,5.628518
+181575,"Slettevegen 5, Klepp",58.769455,5.627716
+181576,"Slettevegen 1, Klepp",58.769846,5.627903
+181577,"Slettevegen 2B, Klepp",58.770149,5.628479
+181708,"Solvangvegen 7, Klepp",58.771442,5.627073
+181710,"Solvangvegen 2, Klepp",58.772243,5.626753
+181711,"Solvangvegen 4, Klepp",58.771263,5.628129
+181713,"Solvangvegen 1, Klepp",58.772075,5.626181
+181869,"Thore Ellingsens veg 21, Klepp",58.771022,5.624068
+181870,"Thore Ellingsens veg 23, Klepp",58.771012,5.623671
+181871,"Thore Ellingsens veg 19, Klepp",58.771035,5.624551
+181872,"Thore Ellingsens veg 20, Klepp",58.770703,5.623563
+181873,"Thore Ellingsens veg 17, Klepp",58.771073,5.624998
+181874,"Thore Ellingsens veg 18, Klepp",58.770738,5.624217
+181875,"Thore Ellingsens veg 15, Klepp",58.771586,5.626021
+181876,"Thore Ellingsens veg 16, Klepp",58.770673,5.624794
+181877,"Thore Ellingsens veg 13, Klepp",58.771366,5.626232
+181878,"Thore Ellingsens veg 14, Klepp",58.770739,5.625255
+181911,"Utsiktsvegen 1, Klepp",58.771536,5.624814
+181912,"Utsiktsvegen 2, Klepp",58.771599,5.625518
+181975,"Utsiktsvegen 11, Klepp",58.769651,5.625949
+181976,"Utsiktsvegen 9, Klepp",58.769925,5.625749
+181977,"Utsiktsvegen 10, Klepp",58.770199,5.626277
+181978,"Utsiktsvegen 8, Klepp",58.770488,5.625989
+181979,"Utsiktsvegen 5, Klepp",58.770492,5.625435
+181980,"Utsiktsvegen 6, Klepp",58.771112,5.62579
+181981,"Utsiktsvegen 3, Klepp",58.771296,5.624907
+181982,"Utsiktsvegen 4, Klepp",58.771334,5.625665
+181997,"Vestringen 5, Klepp",58.770996,5.6217
+181998,"Vestringen 6, Klepp",58.770594,5.62077
+181999,"Vestringen 3, Klepp",58.771029,5.622285
+182000,"Vestringen 4, Klepp",58.77063,5.621459
+182001,"Vestringen 1, Klepp",58.771009,5.622893
+182002,"Vestringen 2, Klepp",58.770639,5.622133
+182010,"Vestringen 21, Klepp",58.769999,5.622074
+182012,"Vestringen 17, Klepp",58.770015,5.620982
+182013,"Vestringen 19, Klepp",58.770003,5.621537
+182014,"Vestringen 15, Klepp",58.77053,5.620032
+182015,"Vestringen 11, Klepp",58.770913,5.620237
+182016,"Vestringen 12, Klepp",58.770383,5.621984
+182017,"Vestringen 9, Klepp",58.770917,5.620738
+182018,"Vestringen 10, Klepp",58.77037,5.621467
+182019,"Vestringen 7, Klepp",58.770956,5.621219
+182020,"Vestringen 8, Klepp",58.770363,5.620862
+182276,"Thore Ellingsens veg 11, Klepp",58.771107,5.626292
+182277,"Thore Ellingsens veg 12, Klepp",58.770754,5.625842
+182278,"Thore Ellingsens veg 9, Klepp",58.771136,5.627034
+182279,"Thore Ellingsens veg 10, Klepp",58.770774,5.626273
+182280,"Thore Ellingsens veg 7, Klepp",58.771147,5.627465
+182281,"Thore Ellingsens veg 8, Klepp",58.770756,5.626771
+182282,"Thore Ellingsens veg 4, Klepp",58.770803,5.627723
+182283,"Thore Ellingsens veg 6, Klepp",58.77075,5.6274
+182285,"Thore Ellingsens veg 3, Klepp",58.771047,5.629153
+182538,"Haugabakkavegen 13, Klepp",58.76994,5.622547
+182778,"Borevegen 24, Klepp",58.764993,5.595776
+182779,"Borevegen 20, Klepp",58.76703,5.600076
+182780,"Borevegen 22, Klepp",58.766554,5.598738
+182781,"Borevegen 1, Klepp",58.771835,5.607099
+182782,"Borevegen 3, Klepp",58.775965,5.602161
+182830,"Borestranda 152, Bore",58.798033,5.561883
+182831,"Borestranda 193, Bore",58.799512,5.560732
+182832,"Borestranda 191, Bore",58.799592,5.561348
+182833,"Borestranda 11, Bore",58.787925,5.574882
+182834,"Borestranda 150, Bore",58.798153,5.562339
+182835,"Borestranda 171, Bore",58.800524,5.565967
+182837,"Borestranda 21, Bore",58.787959,5.573442
+183060,"Borevegen 282, Bore",58.785922,5.579741
+183061,"Borevegen 303, Bore",58.788231,5.580306
+183062,"Borevegen 213, Bore",58.781178,5.585155
+183063,"Borevegen 233, Bore",58.782161,5.583916
+183064,"Borevegen 162, Bore",58.776573,5.587736
+183065,"Borevegen 210, Bore",58.779969,5.582954
+183066,"Borevegen 40, Klepp",58.767392,5.59985
+183067,"Borevegen 151, Klepp",58.776125,5.592903
+183068,"Borevegen 9, Klepp",58.769096,5.607211
+183069,"Borevegen 36, Klepp",58.766912,5.598357
+183070,"Borevegen 5, Klepp",58.776044,5.601409
+183071,"Borevegen 7, Klepp",58.770467,5.603633
+183077,"Borevegen 38, Klepp",58.768136,5.598047
+183078,"Borevegen 41, Klepp",58.76917,5.599797
+183079,"Borevegen 30, Klepp",58.76593,5.59385
+183080,"Borevegen 34, Klepp",58.766649,5.597587
+183081,"Borevegen 28, Klepp",58.765278,5.590938
+183082,"Borevegen 280, Bore",58.786023,5.578974
+183083,"Borevegen 291, Bore",58.786576,5.580608
+183084,"Borevegen 231, Bore",58.782351,5.583637
+183085,"Borevegen 211, Bore",58.780901,5.585546
+183086,"Borevegen 212, Bore",58.780346,5.583956
+183087,"Borevegen 171, Bore",58.777713,5.588697
+183088,"Borevegen 173, Bore",58.778809,5.590004
+183089,"Borevegen 140, Klepp",58.774831,5.589517
+183090,"Borevegen 160, Bore",58.776306,5.587866
+183091,"Borevegen 131, Klepp",58.774045,5.591394
+183092,"Borevegen 132, Klepp",58.774348,5.589962
+183093,"Borevegen 120, Klepp",58.773092,5.591055
+183094,"Borevegen 130, Klepp",58.7738,5.59031
+183095,"Borevegen 110, Klepp",58.772213,5.59147
+183096,"Borevegen 112, Klepp",58.772687,5.588671
+183183,"Nesevegen 51, Klepp",58.769654,5.581372
+183184,"Nesevegen 81, Klepp",58.766918,5.579911
+183185,"Nesevegen 297, Klepp",58.755601,5.567705
+183186,"Nesevegen 14, Klepp",58.768119,5.591975
+183187,"Nesevegen 291, Klepp",58.752713,5.572677
+183188,"Nesevegen 295, Klepp",58.752685,5.571971
+183189,"Nesevegen 233, Klepp",58.756475,5.573171
+183190,"Nesevegen 280, Klepp",58.75277,5.576494
+183191,"Nesevegen 163, Klepp",58.761993,5.561018
+183192,"Nesevegen 167, Klepp",58.764932,5.569431
+183193,"Nesevegen 155, Klepp",58.765877,5.566119
+183194,"Nesevegen 159, Klepp",58.76533,5.568509
+183195,"Nesevegen 141, Klepp",58.76435,5.571547
+183196,"Nesevegen 151, Klepp",58.765681,5.569893
+183197,"Nesevegen 111, Klepp",58.767102,5.576
+183198,"Nesevegen 130, Klepp",58.764041,5.573813
+183199,"Nordsjøvegen 51, Bore",58.791339,5.588017
+183200,"Nesevegen 307, Klepp",58.75188,5.567051
+183201,"Nesevegen 309, Klepp",58.751726,5.567343
+183202,"Nesevegen 301, Klepp",58.753679,5.567773
+183203,"Nesevegen 305, Klepp",58.752213,5.56605
+183204,"Nesevegen 282, Klepp",58.753149,5.576214
+183205,"Nesevegen 299, Klepp",58.755053,5.567707
+183206,"Nesevegen 169, Klepp",58.763803,5.570926
+183207,"Nesevegen 153, Klepp",58.765524,5.56939
+183208,"Nesevegen 165, Klepp",58.761708,5.560441
+183209,"Nesevegen 113, Klepp",58.766955,5.57553
+183227,"Nesevegen 80, Klepp",58.766428,5.580046
+183228,"Nesevegen 83, Klepp",58.766839,5.579296
+183229,"Nesevegen 53, Klepp",58.769287,5.581772
+183230,"Nesevegen 60, Klepp",58.764842,5.585998
+183231,"Nesevegen 40, Klepp",58.767364,5.588259
+183232,"Nesevegen 50, Klepp",58.767339,5.586618
+183233,"Nesevegen 16, Klepp",58.768604,5.591633
+183234,"Nesevegen 20, Klepp",58.768459,5.590557
+183235,"Nesevegen 9, Klepp",58.769441,5.593039
+183236,"Nesevegen 10, Klepp",58.767491,5.593057
+183242,"Nordsjøvegen 500, Bore",58.771104,5.522391
+183243,"Nordsjøvegen 502, Bore",58.769093,5.521796
+183244,"Nordsjøvegen 433, Bore",58.775903,5.530028
+183245,"Nordsjøvegen 434, Bore",58.775156,5.531314
+183246,"Nordsjøvegen 402, Bore",58.775859,5.537752
+183247,"Nordsjøvegen 431, Bore",58.777077,5.529547
+183248,"Nordsjøvegen 400, Bore",58.776731,5.537076
+183249,"Nordsjøvegen 401, Bore",58.776876,5.534448
+183250,"Nordsjøvegen 371, Bore",58.778074,5.540214
+183251,"Nordsjøvegen 391, Bore",58.777489,5.537832
+183252,"Nordsjøvegen 311, Bore",58.781086,5.548293
+183253,"Nordsjøvegen 351, Bore",58.779382,5.543425
+183254,"Nordsjøvegen 289, Bore",58.784017,5.548659
+183255,"Nordsjøvegen 309, Bore",58.784673,5.540942
+183256,"Nordsjøvegen 241, Bore",58.784628,5.55606
+183257,"Nordsjøvegen 260, Bore",58.781473,5.559056
+183258,"Nordsjøvegen 740, Bore",58.755417,5.526701
+183259,"Nordsjøvegen 640, Bore",58.762818,5.508496
+183260,"Nordsjøvegen 653, Bore",58.761847,5.508455
+183261,"Nordsjøvegen 615, Bore",58.76477,5.506881
+183262,"Nordsjøvegen 631, Bore",58.764073,5.507037
+183263,"Nordsjøvegen 594, Bore",58.765255,5.50986
+183264,"Nordsjøvegen 611, Bore",58.765183,5.50388
+183265,"Nordsjøvegen 590, Bore",58.76588,5.509693
+183266,"Nordsjøvegen 592, Bore",58.765819,5.509752
+183267,"Nordsjøvegen 581, Bore",58.768137,5.51073
+183268,"Nordsjøvegen 583, Bore",58.768356,5.509826
+183269,"Nordsjøvegen 522, Bore",58.770009,5.52077
+183270,"Nordsjøvegen 560, Bore",58.768446,5.513502
+183271,"Nordsjøvegen 121, Bore",58.788791,5.579039
+183272,"Nordsjøvegen 131, Bore",58.787249,5.576144
+183273,"Nordsjøvegen 91, Bore",58.78979,5.582127
+183274,"Nordsjøvegen 84, Bore",58.789653,5.583404
+183275,"Nordsjøvegen 85, Bore",58.790175,5.582747
+183276,"Nordsjøvegen 81, Bore",58.790821,5.582718
+183277,"Nordsjøvegen 82, Bore",58.790385,5.585254
+183278,"Nordsjøvegen 78, Bore",58.790199,5.586727
+183279,"Nordsjøvegen 80, Bore",58.790713,5.586451
+183280,"Nordsjøvegen 71, Bore",58.792194,5.585024
+183281,"Nordsjøvegen 72, Bore",58.788146,5.593386
+183282,"Nordsjøvegen 64, Bore",58.78899,5.593356
+183283,"Nordsjøvegen 68, Bore",58.78732,5.593069
+183284,"Nordsjøvegen 60, Bore",58.789708,5.591952
+183285,"Nordsjøvegen 61, Bore",58.791192,5.585337
+183286,"Nordsjøvegen 238, Bore",58.782526,5.561808
+183287,"Nordsjøvegen 240, Bore",58.78241,5.561162
+183288,"Nordsjøvegen 232, Bore",58.780564,5.563404
+183289,"Nordsjøvegen 236, Bore",58.781859,5.562082
+183290,"Nordsjøvegen 216, Bore",58.783343,5.566176
+183291,"Nordsjøvegen 230, Bore",58.782498,5.562434
+183292,"Nordsjøvegen 208, Bore",58.781777,5.572148
+183293,"Nordsjøvegen 212, Bore",58.783012,5.569239
+183294,"Nordsjøvegen 200, Bore",58.783402,5.569062
+183295,"Nordsjøvegen 202, Bore",58.782629,5.571769
+183296,"Nordsjøvegen 163, Bore",58.785636,5.572944
+183297,"Nordsjøvegen 203, Bore",58.783706,5.566954
+183298,"Nordsjøvegen 150, Bore",58.785942,5.57532
+183299,"Nordsjøvegen 152, Bore",58.784905,5.575198
+183300,"Nordsjøvegen 140, Bore",58.785318,5.576213
+183301,"Nordsjøvegen 142, Bore",58.785653,5.575955
+183304,"Nordsjøvegen 1033, Orre",58.730195,5.527982
+183306,"Nordsjøvegen 1029, Orre",58.729286,5.518272
+183307,"Nordsjøvegen 1031, Orre",58.73095,5.524968
+183308,"Nordsjøvegen 1020, Orre",58.730862,5.528382
+183309,"Nordsjøvegen 1021, Orre",58.7301,5.516825
+183310,"Nordsjøvegen 1013, Orre",58.73133,5.524722
+183311,"Nordsjøvegen 1018, Orre",58.732207,5.528922
+183312,"Nordsjøvegen 1011, Orre",58.731844,5.524481
+183313,"Nordsjøvegen 873, Orre",58.74322,5.520651
+183314,"Nordsjøvegen 875, Orre",58.743492,5.520783
+183315,"Nordsjøvegen 812, Bore",58.748495,5.517958
+183316,"Nordsjøvegen 871, Orre",58.743003,5.520946
+183468,"Orrevegen 351, Klepp",58.752381,5.579438
+183469,"Orrevegen 387, Klepp",58.750492,5.575334
+183470,"Orrevegen 317, Klepp",58.756197,5.585048
+183471,"Orrevegen 341, Klepp",58.753171,5.580761
+183472,"Orrevegen 315, Klepp",58.758272,5.583979
+183473,"Orrevegen 321, Klepp",58.754835,5.58148
+183474,"Orrevegen 310, Klepp",58.754871,5.586233
+183475,"Orrevegen 312, Klepp",58.754456,5.584492
+183476,"Orrevegen 305, Klepp",58.763194,5.584551
+183477,"Orrevegen 309, Klepp",58.760465,5.583643
+183478,"Orrevegen 301, Klepp",58.76388,5.583983
+183479,"Orrevegen 304, Klepp",58.755293,5.586901
+183480,"Orrevegen 247, Klepp",58.760765,5.593284
+183481,"Orrevegen 291, Klepp",58.756438,5.587031
+183482,"Orrevegen 243, Klepp",58.762941,5.589905
+183483,"Orrevegen 246, Klepp",58.755749,5.594951
+183484,"Orrevegen 651, Orre",58.733598,5.545534
+183485,"Orrevegen 700, Orre",58.73054,5.539805
+183486,"Orrevegen 580, Klepp",58.737319,5.55865
+183487,"Orrevegen 632, Orre",58.734159,5.549057
+183488,"Orrevegen 521, Klepp",58.741906,5.558404
+183489,"Orrevegen 540, Klepp",58.740388,5.557759
+183490,"Orrevegen 501, Klepp",58.743909,5.560714
+183491,"Orrevegen 510, Klepp",58.740861,5.562709
+183492,"Orrevegen 465, Klepp",58.745729,5.565261
+183493,"Orrevegen 470, Klepp",58.744347,5.566671
+183494,"Orrevegen 463, Klepp",58.747615,5.564954
+183495,"Orrevegen 464, Klepp",58.743126,5.567663
+183496,"Orrevegen 440, Klepp",58.746045,5.569356
+183497,"Orrevegen 460, Klepp",58.743281,5.569162
+183498,"Orrevegen 390, Klepp",58.746551,5.57721
+183499,"Orrevegen 421, Klepp",58.749696,5.569411
+183509,"Jærvegen 486, Klepp",58.768094,5.628609
+183516,"Orrevegen 230, Klepp",58.758868,5.596341
+183517,"Orrevegen 240, Klepp",58.754877,5.595971
+183518,"Orrevegen 210, Klepp",58.759243,5.59928
+183519,"Orrevegen 160, Klepp",58.759652,5.606281
+183520,"Orrevegen 183, Klepp",58.763454,5.598764
+183521,"Orrevegen 120, Klepp",58.76758,5.607251
+183522,"Orrevegen 141, Klepp",58.765913,5.603057
+183523,"Orrevegen 58, Klepp",58.769399,5.613601
+183524,"Orrevegen 64, Klepp",58.770806,5.6131
+183525,"Orrevegen 50, Klepp",58.77074,5.616412
+183526,"Orrevegen 54, Klepp",58.767123,5.614878
+183572,"Nordsjøvegen 1027, Orre",58.729166,5.519148
+183573,"Nordsjøvegen 1023, Orre",58.729489,5.517802
+183574,"Nordsjøvegen 1024, Orre",58.730817,5.529026
+183575,"Nordsjøvegen 1025, Orre",58.729184,5.518507
+183576,"Nordsjøvegen 1019, Orre",58.729948,5.517395
+183577,"Nordsjøvegen 1022, Orre",58.731385,5.529453
+183593,"Nordsjøvegen 370, Bore",58.777636,5.540967
+183594,"Nordsjøvegen 393, Bore",58.777382,5.538223
+183595,"Nordsjøvegen 201, Bore",58.784212,5.566385
+183596,"Nordsjøvegen 206, Bore",58.782179,5.571727
+183597,"Nordsjøvegen 182, Bore",58.784054,5.570919
+183598,"Nordsjøvegen 199, Bore",58.789083,5.552554
+183599,"Nordsjøvegen 123, Bore",58.788491,5.577909
+183600,"Nordsjøvegen 161, Bore",58.785563,5.57257
+183601,"Nordsjøvegen 77, Bore",58.790476,5.583964
+183602,"Nordsjøvegen 70, Bore",58.787365,5.594104
+183603,"Nordsjøvegen 73, Bore",58.792373,5.584989
+183604,"Nordsjøvegen 63, Bore",58.791301,5.586255
+183605,"Nordsjøvegen 65, Bore",58.791089,5.585721
+183606,"Nordsjøvegen 40, Bore",58.790279,5.590753
+183607,"Nordsjøvegen 42, Bore",58.790409,5.590238
+183608,"Nordsjøvegen 913, Orre",58.740786,5.517087
+183609,"Nordsjøvegen 1017, Orre",58.730044,5.517943
+183610,"Nordsjøvegen 972, Orre",58.735515,5.524944
+183611,"Nordsjøvegen 877, Orre",58.743546,5.52126
+183612,"Nordsjøvegen 710, Bore",58.75693,5.513429
+183613,"Nordsjøvegen 800, Bore",58.749544,5.517196
+183614,"Nordsjøvegen 553, Bore",58.769956,5.513507
+183615,"Nordsjøvegen 570, Bore",58.768053,5.51259
+183616,"Nordsjøvegen 525, Bore",58.771269,5.518186
+183617,"Nordsjøvegen 535, Bore",58.770699,5.516357
+183618,"Nordsjøvegen 515, Bore",58.771929,5.518985
+183619,"Nordsjøvegen 520, Bore",58.770256,5.520589
+183620,"Nordsjøvegen 435, Bore",58.77566,5.530329
+183621,"Nordsjøvegen 436, Bore",58.775383,5.531066
+183622,"Nordsjøvegen 430, Bore",58.774399,5.532584
+183623,"Nordsjøvegen 432, Bore",58.774801,5.531817
+183684,"Nesevegen 293, Klepp",58.752471,5.572684
+183790,"Nordsjøvegen 742, Bore",58.755022,5.520349
+183791,"Nordsjøvegen 810, Bore",58.748905,5.517592
+183792,"Nordsjøvegen 741, Bore",58.754501,5.511389
+183909,"Jærvegen 440, Klepp",58.760885,5.622059
+183985,"Jærvegen 484, Klepp",58.766188,5.626545
+183986,"Jærvegen 488, Klepp",58.768523,5.626785
+183987,"Jærvegen 481, Klepp",58.762972,5.627964
+183988,"Jærvegen 482, Klepp",58.766258,5.625448
+183989,"Jærvegen 474, Klepp",58.764988,5.619908
+183990,"Jærvegen 478, Klepp",58.764014,5.623503
+183991,"Jærvegen 458, Klepp",58.761659,5.621777
+183992,"Jærvegen 460, Klepp",58.762228,5.619818
+183993,"Jærvegen 454, Klepp",58.76158,5.620487
+183994,"Jærvegen 456, Klepp",58.761752,5.620193
+183995,"Jærvegen 450, Klepp",58.761416,5.622112
+183997,"Jærvegen 452, Klepp",58.761332,5.620961
+183998,"Jærvegen 442, Klepp",58.761045,5.622701
+183999,"Jærvegen 444, Klepp",58.761104,5.622194
+184343,"Nordsjøvegen 504, Bore",58.769497,5.522136
+184353,"Haugabakkavegen 1A, Klepp",58.772068,5.622807
+184356,"Haugabakkavegen 1B, Klepp",58.77183,5.623003
+184373,"Jærvegen 476, Klepp",58.764632,5.621107
+184374,"Jærvegen 483, Klepp",58.763448,5.627624
+184376,"Jærvegen 470, Klepp",58.76364,5.622242
+184427,"Orrevegen 60, Klepp",58.770108,5.613373
+184428,"Orrevegen 122, Klepp",58.76721,5.606924
+184430,"Orrevegen 62, Klepp",58.77039,5.61329
+184442,"Orrevegen 467, Klepp",58.74541,5.565424
+184443,"Orrevegen 468, Klepp",58.743811,5.567228
+184444,"Orrevegen 461, Klepp",58.747858,5.564816
+184445,"Orrevegen 466, Klepp",58.743427,5.567557
+184446,"Orrevegen 423, Klepp",58.749462,5.5694
+184447,"Orrevegen 442, Klepp",58.746332,5.569
+184448,"Orrevegen 313, Klepp",58.758529,5.58385
+184449,"Orrevegen 323, Klepp",58.754608,5.581416
+184450,"Orrevegen 307, Klepp",58.762957,5.584747
+184451,"Orrevegen 311, Klepp",58.760328,5.583898
+184452,"Orrevegen 244, Klepp",58.755489,5.593956
+184453,"Orrevegen 245, Klepp",58.760647,5.591531
+184454,"Orrevegen 231, Klepp",58.760123,5.595163
+184455,"Orrevegen 241, Klepp",58.763054,5.590447
+184456,"Orrevegen 181, Klepp",58.762999,5.599588
+184457,"Orrevegen 185, Klepp",58.76361,5.59823
+184513,"Orrevegen 710, Orre",58.730218,5.538852
+184514,"Orrevegen 653, Orre",58.733276,5.545618
+184515,"Orrevegen 542, Klepp",58.74079,5.55803
+184516,"Orrevegen 630, Orre",58.733875,5.549518
+184517,"Orrevegen 503, Klepp",58.743135,5.559995
+184518,"Orrevegen 512, Klepp",58.740696,5.562898
+184532,"Nordsjøvegen 204, Bore",58.782645,5.571335
+184617,"Nordsjøvegen 79, Bore",58.790606,5.583085
+184688,"Borestranda 330, Bore",58.806075,5.550364
+184689,"Borestranda 324, Bore",58.805375,5.55007
+184690,"Borestranda 350, Bore",58.807581,5.55018
+184691,"Borestranda 354, Bore",58.807958,5.54983
+184692,"Borestranda 280, Bore",58.801225,5.551487
+184693,"Borestranda 360, Bore",58.80863,5.549764
+184695,"Borestranda 310, Bore",58.804151,5.550347
+184700,"Borestranda 240, Bore",58.794497,5.551355
+184718,"Borestranda 250, Bore",58.795932,5.549536
+184719,"Borestranda 195, Bore",58.799388,5.559099
+184768,"Jærvegen 485, Klepp",58.765449,5.627499
+184777,"Orrevegen 514, Klepp",58.740558,5.563137
+184872,"Nordsjøvegen 258, Bore",58.781705,5.558323
+184889,"Solvangvegen 5A, Klepp",58.771665,5.626671
+184890,"Solvangvegen 5B, Klepp",58.771606,5.626815
+184939,"Borevegen 235, Bore",58.782683,5.583258
+185049,"Borestranda 255, Bore",58.79925,5.553623
+185053,"Prestevegen 14, Klepp",58.772309,5.625847
+185055,"Prestevegen 16, Klepp",58.772005,5.625565
+185060,"Nordsjøvegen 44, Bore",58.79022,5.590222
+185062,"Slettevegen 3A, Klepp",58.769635,5.62775
+185063,"Slettevegen 3B, Klepp",58.769658,5.627938
+185085,"Borevegen 166, Bore",58.776933,5.585728
+185115,"Nordsjøvegen 75A, Bore",58.790881,5.583976
+185119,"Nordsjøvegen 75B, Bore",58.790851,5.584533
+185120,"Nordsjøvegen 1051, Orre",58.728844,5.529205
+185123,"Nordsjøvegen 1053, Orre",58.728667,5.529984
+185174,"Nordsjøvegen 399, Bore",58.776801,5.53565
+185177,"Orrevegen 735, Orre",58.729908,5.535339
+185208,"Nordsjøvegen 1015B, Orre",58.72978,5.518257
+185209,"Nordsjøvegen 1015A, Orre",58.731055,5.523497
+185233,"Nordsjøvegen 613B, Bore",58.765113,5.506604
+185234,"Nordsjøvegen 613A, Bore",58.765472,5.506914
+185310,"Orrevegen 238, Klepp",58.754519,5.596023
+185316,"Solvangvegen 3A, Klepp",58.771866,5.626426
+185317,"Solvangvegen 3B, Klepp",58.771823,5.626171
+185330,"Orrevegen 438, Klepp",58.746851,5.569571
+185373,"Nordsjøvegen 770, Bore",58.752164,5.510049
+185404,"Orrevegen 52, Klepp",58.768831,5.616598
+185490,"Thore Ellingsens veg 2A, Klepp",58.770742,5.629183
+185491,"Thore Ellingsens veg 2B, Klepp",58.770841,5.628135
+185538,"Thore Ellingsens veg 1A, Klepp",58.771087,5.629651
+185539,"Thore Ellingsens veg 1B, Klepp",58.771065,5.62948
+185911,"Nordsjøvegen 210, Bore",58.781651,5.571139
+186045,"Nordsjøvegen 74B, Bore",58.788978,5.588145
+186048,"Nordsjøvegen 74A, Bore",58.789231,5.590633
+186161,"Nesevegen 315, Klepp",58.751744,5.573084
+837325,"Borevegen 261, Bore",58.784854,5.580266
+1662194,"Presten Soles veg 61, Klepp",58.77135,5.618981
+1662195,"Presten Soles veg 41, Klepp",58.771847,5.619137
+1662196,"Presten Soles veg 45, Klepp",58.771868,5.619518
+1662197,"Presten Soles veg 43, Klepp",58.771858,5.61933
+1662199,"Presten Soles veg 57, Klepp",58.771447,5.618553
+1662200,"Presten Soles veg 55, Klepp",58.771424,5.619422
+1662204,"Presten Soles veg 59, Klepp",58.771398,5.618747
+1662205,"Presten Soles veg 49, Klepp",58.771885,5.619878
+1662206,"Presten Soles veg 47, Klepp",58.771877,5.6197
+1662207,"Presten Soles veg 53, Klepp",58.771454,5.619658
+1662209,"Presten Soles veg 51, Klepp",58.771486,5.619884
+1662269,"Presten Soles veg 29, Klepp",58.77153,5.618182
+1662270,"Presten Soles veg 27, Klepp",58.77158,5.618028
+1662271,"Presten Soles veg 33, Klepp",58.771791,5.618366
+1662272,"Presten Soles veg 31, Klepp",58.771485,5.618335
+1662273,"Presten Soles veg 21, Klepp",58.771809,5.617473
+1662277,"Presten Soles veg 25, Klepp",58.771619,5.617846
+1662279,"Presten Soles veg 23, Klepp",58.771698,5.617653
+1662282,"Presten Soles veg 37, Klepp",58.771825,5.618759
+1662286,"Presten Soles veg 35, Klepp",58.771804,5.618565
+1662287,"Presten Soles veg 39, Klepp",58.771836,5.61895
+1662289,"Presten Soles veg 11, Klepp",58.772019,5.618659
+1662291,"Presten Soles veg 7, Klepp",58.772056,5.619032
+1662293,"Presten Soles veg 13, Klepp",58.772004,5.618478
+1662294,"Presten Soles veg 9, Klepp",58.772037,5.618847
+1662295,"Presten Soles veg 1, Klepp",58.772083,5.619592
+1662296,"Presten Soles veg 5, Klepp",58.77207,5.619219
+1662297,"Presten Soles veg 3, Klepp",58.772078,5.619414
+1662301,"Presten Soles veg 17, Klepp",58.771963,5.618076
+1662302,"Presten Soles veg 15, Klepp",58.771986,5.618272
+1662303,"Presten Soles veg 19, Klepp",58.771939,5.617887
+1662810,"Nesevegen 12, Klepp",58.767752,5.592933
+1701626,"Presten Soles veg 52, Klepp",58.771302,5.622018
+1709772,"Nordsjøvegen 234, Bore",58.781607,5.563694
+1718722,"Presten Soles veg 60, Klepp",58.771192,5.620077
+1731330,"Presten Soles veg 48, Klepp",58.771603,5.62194
+1731331,"Presten Soles veg 50, Klepp",58.771633,5.622157
+1731332,"Presten Soles veg 54, Klepp",58.77129,5.621528
+1731333,"Presten Soles veg 56, Klepp",58.771237,5.621055
+1731334,"Presten Soles veg 58, Klepp",58.771204,5.620576
+1731338,"Presten Soles veg 38, Klepp",58.771493,5.620746
+1731339,"Presten Soles veg 40, Klepp",58.771505,5.620995
+1731340,"Presten Soles veg 42, Klepp",58.771526,5.62124
+1731342,"Presten Soles veg 44, Klepp",58.771548,5.62148
+1731343,"Presten Soles veg 46, Klepp",58.771581,5.621707
+1731461,"Presten Soles veg 18, Klepp",58.771872,5.621051
+1731463,"Presten Soles veg 20, Klepp",58.771911,5.621042
+1731466,"Presten Soles veg 22, Klepp",58.771959,5.62104
+1731468,"Presten Soles veg 24, Klepp",58.772009,5.621011
+1731470,"Presten Soles veg 26, Klepp",58.771789,5.62037
+1731472,"Presten Soles veg 28, Klepp",58.771833,5.620407
+1731474,"Presten Soles veg 30, Klepp",58.771866,5.620428
+1731476,"Presten Soles veg 32, Klepp",58.771905,5.620426
+1731478,"Presten Soles veg 34, Klepp",58.771951,5.620461
+1731480,"Presten Soles veg 36, Klepp",58.772002,5.620476
+1731547,"Presten Soles veg 12, Klepp",58.772048,5.621558
+1731548,"Presten Soles veg 14, Klepp",58.771791,5.621039
+1731549,"Presten Soles veg 16, Klepp",58.77184,5.621047
+1731577,"Presten Soles veg 62, Klepp",58.771121,5.619589
+1731578,"Presten Soles veg 64, Klepp",58.771111,5.618991
+1731579,"Presten Soles veg 2, Klepp",58.771832,5.621664
+1731580,"Presten Soles veg 4, Klepp",58.771882,5.621678
+1731581,"Presten Soles veg 6, Klepp",58.77192,5.621653
+1731582,"Presten Soles veg 8, Klepp",58.771956,5.621641
+1731583,"Presten Soles veg 10, Klepp",58.772001,5.621613
+1815409,"Orrevegen 4, Klepp",58.772152,5.622134
+1815756,"Orrevegen 2, Klepp",58.772502,5.622917
+1837531,"Slettevegen 2A, Klepp",58.770108,5.628779
+1864103,"Nordsjøvegen 180, Bore",58.783952,5.57118
+1933071,"Borestranda 475, Bore",58.800076,5.556896
+1933072,"Borestranda 199, Bore",58.799242,5.558073
+1933073,"Borestranda 471, Bore",58.79984,5.556479
+1933154,"Borestranda 473, Bore",58.800053,5.556558
+1933155,"Borestranda 467, Bore",58.79966,5.556164
+1933156,"Borestranda 469, Bore",58.799876,5.556152
+1933158,"Borestranda 463, Bore",58.799458,5.556259
+1933160,"Borestranda 465, Bore",58.799638,5.556345
+1933161,"Borestranda 459, Bore",58.799571,5.555616
+1933162,"Borestranda 461, Bore",58.799521,5.555924
+1933164,"Borestranda 455, Bore",58.799959,5.555936
+1933166,"Borestranda 457, Bore",58.799748,5.555738
+1933171,"Borestranda 453, Bore",58.800118,5.55609
+1933335,"Borestranda 449, Bore",58.800237,5.556921
+1933337,"Borestranda 447, Bore",58.800291,5.556602
+1933339,"Borestranda 451, Bore",58.800181,5.556373
+1933342,"Borestranda 445, Bore",58.80029,5.556358
+1933343,"Borestranda 443, Bore",58.800388,5.555948
+1946834,"Nesevegen 297B, Klepp",58.75547,5.567476
+1986017,"Sofie Steinnes'veg 41, Klepp",58.775264,5.615558
+1986018,"Sofie Steinnes'veg 39, Klepp",58.775419,5.615619
+1987881,"Sofie Steinnes'veg 9, Klepp",58.775534,5.617872
+1987882,"Sofie Steinnes'veg 11, Klepp",58.775921,5.617666
+1988221,"Sofie Steinnes'veg 23, Klepp",58.775925,5.616016
+1990786,"Marta jordmorsveg 2, Klepp",58.775433,5.61739
+1990787,"Marta jordmorsveg 4, Klepp",58.775376,5.617337
+1990788,"Marta jordmorsveg 6, Klepp",58.775321,5.617263
+1990789,"Marta jordmorsveg 8, Klepp",58.77526,5.617192
+1992370,"Marta jordmorsveg 17, Klepp",58.774929,5.616288
+1992371,"Marta jordmorsveg 15, Klepp",58.775018,5.616338
+1992993,"Sofie Steinnes'veg 36, Klepp",58.775173,5.615937
+1993779,"Marta jordmorsveg 20, Klepp",58.774951,5.616828
+1995528,"Sofie Steinnes'veg 10, Klepp",58.774438,5.617115
+1995529,"Sofie Steinnes'veg 12, Klepp",58.774605,5.617169
+1995530,"Sofie Steinnes'veg 8, Klepp",58.774275,5.617112
+1995553,"Sofie Steinnes'veg 6, Klepp",58.774307,5.61765
+1995554,"Sofie Steinnes'veg 4, Klepp",58.774456,5.617589
+1995555,"Sofie Steinnes'veg 2, Klepp",58.774622,5.617649
+1995556,"Søster Gerdasveg 8, Klepp",58.774814,5.618195
+1995557,"Søster Gerdasveg 1, Klepp",58.774373,5.618798
+1995774,"Sofie Steinnes'veg 24, Klepp",58.77519,5.617594
+1995804,"Sofie Steinnes'veg 20, Klepp",58.775036,5.61746
+2005691,"Haugen 5, Klepp",58.769079,5.624207
+2007611,"Nordsjøvegen 293, Bore",58.784717,5.546813
+2007612,"Nordsjøvegen 291, Bore",58.784593,5.546505
+2008015,"Nordsjøvegen 404, Bore",58.775512,5.538551
+2013389,"Linjevegen 11, Klepp",58.769695,5.624503
+2013390,"Linjevegen 9, Klepp",58.769687,5.624366
+2016809,"Orrevegen 209, Klepp",58.762115,5.594622
+2020958,"Utsiktsvegen 14, Klepp",58.769739,5.626422
+2030624,"Sofie Steinnes'veg 42, Klepp",58.774738,5.615769
+2034940,"Jærvegen 448, Klepp",58.761305,5.622647
+2040901,"Nesevegen 231, Klepp",58.756472,5.572483
+2045721,"Marta jordmorsveg 24, Klepp",58.774846,5.616738
+2045722,"Marta jordmorsveg 22, Klepp",58.774896,5.616774
+2053308,"Borestranda 481, Bore",58.799198,5.557374
+2076593,"Sofie Steinnes'veg 3, Klepp",58.77418,5.619139
+2082596,"Jærvegen 452A, Klepp",58.761112,5.621349
+2082597,"Jærvegen 452B, Klepp",58.76123,5.621099
+2082605,"Jærvegen 452C, Klepp",58.761394,5.620892
+2106728,"Utsiktsvegen 7A, Klepp",58.770253,5.625562
+2106729,"Utsiktsvegen 7B, Klepp",58.770124,5.625631
+2109153,"Nordsjøvegen 239, Bore",58.787463,5.550974
+2115038,"Nordsjøvegen 430A, Bore",58.774424,5.532786
+2115049,"Vestringen 13A, Klepp",58.770727,5.619636
+2115062,"Vestringen 13C, Klepp",58.770942,5.619718
+2115063,"Vestringen 13B, Klepp",58.77084,5.619741
+2165243,"Nordsjøvegen 970, Orre",58.73599,5.526074
+2165543,"Borestranda 439, Bore",58.800427,5.556487
+2165564,"Borestranda 437, Bore",58.800435,5.556741
+2165628,"Borestranda 441, Bore",58.800468,5.55616
+2165630,"Borestranda 433, Bore",58.800557,5.556344
+2165633,"Borestranda 435, Bore",58.800638,5.55662
+2180241,"Kringsjåvegen 6, Klepp",58.769011,5.621408
+2180242,"Kringsjåvegen 4, Klepp",58.769218,5.621423
+2180247,"Bakkavegen 21, Klepp",58.769208,5.623431
+2180248,"Bakkavegen 23, Klepp",58.769136,5.623109
+2180249,"Kringsjåvegen 2, Klepp",58.769474,5.621488
+2180256,"Bakkavegen 19, Klepp",58.769061,5.623883
+2183153,"Slettevegen 12A, Klepp",58.769327,5.628529
+2187332,"Slettevegen 12B, Klepp",58.769326,5.628991
+2187334,"Slettevegen 12C, Klepp",58.769311,5.629265
+2187623,"Utsiktsvegen 13, Klepp",58.769416,5.626257
+2190854,"Utsiktsvegen 15, Klepp",58.769263,5.626212
+2199911,"Borestranda 429, Bore",58.800704,5.555744
+2257159,"Borestranda 431, Bore",58.800542,5.555831
+2368578,"Borestranda 425, Bore",58.80071,5.556355
+2368698,"Borestranda 427, Bore",58.800706,5.556045
+2377373,"Jærvegen 437, Klepp",58.759815,5.623779
+2410834,"Nordsjøvegen 11, Bore",58.791456,5.595174
+2410837,"Nordsjøvegen 1, Bore",58.791411,5.5962
+2410839,"Nordsjøvegen 3, Bore",58.791477,5.595622
+2413965,"Marta jordmorsveg 10, Klepp",58.77521,5.617119
+2413966,"Marta jordmorsveg 12, Klepp",58.775164,5.617054
+2413970,"Marta jordmorsveg 7, Klepp",58.77532,5.616671
+2413971,"Marta jordmorsveg 9, Klepp",58.77526,5.616602
+2413972,"Marta jordmorsveg 11, Klepp",58.77518,5.616496
+2413973,"Marta jordmorsveg 13, Klepp",58.775099,5.616441
+2415602,"Sofie Steinnes'veg 37, Klepp",58.775553,5.615743
+2415868,"Marta jordmorsveg 14, Klepp",58.775107,5.616993
+2415869,"Marta jordmorsveg 16, Klepp",58.775065,5.616943
+2415872,"Marta jordmorsveg 18, Klepp",58.775005,5.616873
+2415934,"Søster Gerdasveg 4, Klepp",58.7745,5.618272
+2415936,"Søster Gerdasveg 6, Klepp",58.774661,5.618213
+2415938,"Søster Gerdasveg 2, Klepp",58.774347,5.618356
+2415939,"Søster Gerdasveg 3, Klepp",58.774535,5.618762
+2415940,"Sofie Steinnes'veg 31, Klepp",58.775749,5.615897
+2415942,"Sofie Steinnes'veg 25, Klepp",58.77589,5.615973
+2415943,"Sofie Steinnes'veg 29, Klepp",58.775789,5.615934
+2415953,"Sofie Steinnes'veg 27, Klepp",58.775851,5.615935
+2415955,"Sofie Steinnes'veg 21, Klepp",58.775968,5.616031
+2415966,"Sofie Steinnes'veg 40, Klepp",58.774991,5.615843
+2415967,"Sofie Steinnes'veg 38, Klepp",58.775098,5.615922
+2415971,"Sofie Steinnes'veg 32, Klepp",58.775294,5.616076
+2415973,"Sofie Steinnes'veg 30, Klepp",58.775355,5.616158
+2415976,"Sofie Steinnes'veg 34, Klepp",58.775234,5.616001
+2415977,"Sofie Steinnes'veg 28, Klepp",58.77542,5.616232
+2415978,"Sofie Steinnes'veg 26, Klepp",58.775483,5.616329
+2416000,"Marta jordmorsveg 5, Klepp",58.775404,5.61674
+2416001,"Marta jordmorsveg 3, Klepp",58.775482,5.616861
+2416002,"Marta jordmorsveg 1, Klepp",58.775541,5.61698
+2416094,"Sofie Steinnes'veg 33, Klepp",58.775705,5.615847
+2416095,"Sofie Steinnes'veg 35, Klepp",58.775671,5.615801
+2416127,"Sofie Steinnes'veg 22, Klepp",58.775105,5.617498
+2416129,"Sofie Steinnes'veg 18, Klepp",58.774962,5.617351
+2416130,"Sofie Steinnes'veg 16, Klepp",58.774878,5.61728
+2416131,"Sofie Steinnes'veg 14, Klepp",58.774801,5.617232
+2417817,"Sofie Steinnes'veg 1, Klepp",58.774094,5.619272
+2454485,"Borestranda 477, Bore",58.799366,5.557016
+2455579,"Borestranda 401, Bore",58.801145,5.555847
+2455580,"Borestranda 407, Bore",58.80113,5.556332
+2455600,"Borestranda 417, Bore",58.800829,5.555714
+2455602,"Borestranda 399, Bore",58.801142,5.555583
+2455603,"Borestranda 403, Bore",58.801135,5.55611
+2455604,"Borestranda 405, Bore",58.801268,5.556183
+2455605,"Borestranda 415, Bore",58.800986,5.555626
+2455606,"Borestranda 421, Bore",58.800838,5.55624
+2476501,"Borestranda 393, Bore",58.801407,5.55609
+2493444,"Orrevegen 211, Klepp",58.762401,5.5943

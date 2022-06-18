@@ -1,0 +1,860 @@
+,Navn,Long,Lat
+1063420,"Hesteskoen 15, Borre",59.402202,10.478306
+1063421,"Hesteskoen 17, Borre",59.402389,10.47849
+1063422,"Hesteskoen 13, Borre",59.402033,10.478175
+1063423,"Hesteskoen 6, Borre",59.40245,10.477858
+1063431,"Hesteskoen 3, Borre",59.402309,10.476795
+1063432,"Hesteskoen 4, Borre",59.402201,10.477636
+1063433,"Hesteskoen 1, Borre",59.402533,10.476893
+1063434,"Hesteskoen 2, Borre",59.402507,10.477544
+1063544,"Halvdan Svartes gate 10, Horten",59.403361,10.476753
+1065145,"Apotekergata 5, Horten",59.415072,10.487096
+1065146,"Apotekergata 7, Horten",59.415165,10.4868
+1065147,"Apotekergata 1, Horten",59.414832,10.487631
+1065148,"Apotekergata 3, Horten",59.414952,10.487355
+1065165,"Apotekergata 14, Horten",59.415827,10.484644
+1065166,"Apotekergata 16, Horten",59.415976,10.484192
+1065167,"Apotekergata 10, Horten",59.415406,10.485331
+1065168,"Apotekergata 13, Horten",59.415831,10.485324
+1065171,"Apotekergata 20, Horten",59.4163,10.483378
+1065174,"Anders Jørgensens gate 24, Horten",59.41572,10.482243
+1065184,"Anders Jørgensens gate 20, Horten",59.41552,10.483221
+1065185,"Anders Jørgensens gate 22, Horten",59.415707,10.482595
+1065186,"Anders Jørgensens gate 11, Horten",59.415501,10.484136
+1065187,"Anders Jørgensens gate 18, Horten",59.415285,10.484127
+1065648,"Bryggeriveien 4B, Horten",59.404614,10.478675
+1065680,"Bryggeriveien 16, Horten",59.40276,10.477467
+1065685,"Bryggeriveien 14, Horten",59.402939,10.477475
+1065820,"Ferjegata 6, Horten",59.413185,10.483172
+1065821,"Ferjegata 7, Horten",59.41302,10.483499
+1065822,"Ferjegata 4, Horten",59.413214,10.483825
+1065823,"Ferjegata 5, Horten",59.413015,10.483904
+1065824,"Ferjegata 10, Horten",59.413183,10.481832
+1065825,"Ferjegata 11, Horten",59.412883,10.482137
+1065826,"Ferjegata 8, Horten",59.413138,10.482404
+1065827,"Ferjegata 8B, Horten",59.413163,10.482818
+1065828,"Falsens gate 1A, Horten",59.413555,10.484668
+1065829,"Falsens gate 1B, Horten",59.413709,10.484586
+1065832,"Falsens gate 11, Horten",59.413841,10.481597
+1065833,"Ferjegata 3, Horten",59.413048,10.484205
+1065834,"Falsens gate 1C, Horten",59.413811,10.484274
+1065835,"Falsens gate 9, Horten",59.413781,10.482105
+1065914,"Fjordveien 6A, Horten",59.404235,10.479645
+1065915,"Fjordveien 6B, Horten",59.404191,10.479572
+1065918,"Fjordveien 16A, Horten",59.402593,10.478675
+1065919,"Fjordveien 16B, Horten",59.40254,10.478655
+1065924,"Fjordveien 14B, Horten",59.402754,10.47877
+1065925,"Fjordveien 15, Horten",59.402699,10.478028
+1065926,"Fjordveien 13, Horten",59.402896,10.478089
+1065927,"Fjordveien 14A, Horten",59.402817,10.47879
+1065999,"Søndre Enggate 11, Horten",59.414272,10.482426
+1066001,"Søndre Enggate 7B, Horten",59.414178,10.48355
+1066002,"Søndre Enggate 9, Horten",59.414231,10.482883
+1066009,"Nordre Enggate 1, Horten",59.414405,10.485674
+1066012,"Nordre Enggate 5B, Horten",59.414616,10.484521
+1066013,"Nordre Enggate 7, Horten",59.414871,10.484215
+1066014,"Nordre Enggate 3, Horten",59.414554,10.485276
+1066015,"Nordre Enggate 3B, Horten",59.414692,10.484929
+1066024,"Søndre Enggate 3B, Horten",59.413905,10.484648
+1066025,"Søndre Enggate 4A, Horten",59.414333,10.484931
+1066026,"Søndre Enggate 2, Horten",59.414184,10.485383
+1066027,"Søndre Enggate 3, Horten",59.414068,10.484549
+1066028,"Søndre Enggate 5B, Horten",59.414127,10.484076
+1066029,"Søndre Enggate 7A, Horten",59.414139,10.483848
+1066030,"Søndre Enggate 4B, Horten",59.414285,10.485176
+1066031,"Søndre Enggate 5A, Horten",59.41407,10.484373
+1066032,"Nordre Enggate 9, Horten",59.414925,10.483389
+1066034,"Nordre Enggate 11A, Horten",59.414912,10.482948
+1066035,"Søndre Enggate 1A, Horten",59.413997,10.485251
+1066036,"Søndre Enggate 1B, Horten",59.414,10.484952
+1066037,"Nordre Enggate 14, Horten",59.415138,10.482852
+1066040,"Jernbanegata 43, Horten",59.406767,10.48127
+1066041,"Jernbanegata 45, Horten",59.406553,10.481173
+1066046,"Jernbanegata 37A, Horten",59.407795,10.481685
+1066047,"Jernbanegata 38, Horten",59.406975,10.481966
+1066048,"Jernbanegata 36A, Horten",59.407324,10.482052
+1066049,"Jansens gate 4, Horten",59.407683,10.481293
+1066050,"Jernbanegata 41A, Horten",59.407136,10.481198
+1066051,"Jernbanegata 42, Horten",59.406449,10.481591
+1066052,"Jansens gate 3, Horten",59.407387,10.481262
+1066053,"Jernbanegata 40, Horten",59.406734,10.48185
+1066056,"Jernbanegata 19, Horten",59.409569,10.48289
+1066057,"Jernbanegata 20, Horten",59.409511,10.48324
+1066058,"Jernbanegata 14, Horten",59.410144,10.483708
+1066059,"Jernbanegata 16, Horten",59.409939,10.483576
+1066060,"Jernbanegata 23, Horten",59.409186,10.482627
+1066061,"Jernbanegata 24, Horten",59.409003,10.482901
+1066062,"Jernbanegata 21, Horten",59.409391,10.482742
+1066063,"Jernbanegata 22, Horten",59.409286,10.483283
+1066064,"Jernbanegata 13, Horten",59.410433,10.483545
+1066065,"Jernbanegata 30B, Horten",59.407959,10.482393
+1066066,"Jernbanegata 31, Horten",59.408322,10.481955
+1066067,"Jernbanegata 29, Horten",59.4085,10.482104
+1066068,"Jernbanegata 30A, Horten",59.408026,10.482752
+1066069,"Jernbanegata 34, Horten",59.40752,10.482202
+1066070,"Jernbanegata 35, Horten",59.408004,10.481501
+1066071,"Jernbanegata 32, Horten",59.407699,10.482227
+1066072,"Jernbanegata 33, Horten",59.408165,10.481578
+1066073,"Jernbanegata 26, Horten",59.40861,10.48269
+1066074,"Jernbanegata 26A, Horten",59.408428,10.482746
+1066075,"Jernbanegata 24A, Horten",59.408788,10.482891
+1066076,"Jernbanegata 25, Horten",59.40891,10.482439
+1066077,"Jernbanegata 27A, Horten",59.408663,10.48197
+1066078,"Jernbanegata 28, Horten",59.408268,10.482382
+1066079,"Jernbanegata 26B, Horten",59.408394,10.482908
+1066080,"Jernbanegata 27, Horten",59.408731,10.482343
+1066267,"Jernbanegata 10, Horten",59.410535,10.484042
+1066268,"Jernbanegata 11, Horten",59.410593,10.483657
+1066269,"Jernbanegata 8, Horten",59.410696,10.48412
+1066270,"Jernbanegata 9, Horten",59.410735,10.483787
+1066271,"Jernbanegata 12, Horten",59.410366,10.483877
+1066272,"Jernbanegata 1, Horten",59.412649,10.485351
+1066273,"Jernbanegata 2, Horten",59.411247,10.484602
+1066275,"Jernbanestasjonen 1, Horten",59.412445,10.486681
+1066276,"Jernbanegata 5, Horten",59.4111,10.484102
+1066277,"Jernbanegata 7, Horten",59.41094,10.483954
+1066278,"Jernbanegata 2A, Horten",59.411194,10.484565
+1066279,"Jernbanegata 3, Horten",59.411787,10.484485
+1066296,"Hallings gate 1, Horten",59.412079,10.484075
+1066297,"Hallings gate 1A, Horten",59.411966,10.484581
+1066300,"Hallings gate 2, Horten",59.412143,10.484835
+1066353,"Harald Hansens gate 8, Horten",59.409299,10.480588
+1066359,"Harald Hansens gate 1, Horten",59.409411,10.47862
+1066360,"Harald Hansens gate 2, Horten",59.409608,10.478646
+1066363,"Harald Hansens gate 10, Horten",59.409216,10.480796
+1066364,"Harald Hansens gate 7, Horten",59.40901,10.480752
+1066365,"Harald Hansens gate 3, Horten",59.409268,10.479389
+1066366,"Harald Hansens gate 4, Horten",59.409502,10.479276
+1066601,"Johan Riefs gate 5, Horten",59.405964,10.477694
+1066602,"Johan Riefs gate 1, Horten",59.406326,10.478203
+1066603,"Johan Riefs gate 3, Horten",59.406205,10.477775
+1066612,"Johan Riefs gate 18, Horten",59.404335,10.474805
+1066613,"Johan Riefs gate 24, Horten",59.403993,10.473275
+1066614,"Johan Riefs gate 26, Horten",59.404096,10.472857
+1066615,"Johan Riefs gate 20, Horten",59.404179,10.473775
+1066616,"Johan Riefs gate 22, Horten",59.404161,10.473494
+1066617,"Johan Riefs gate 7, Horten",59.405824,10.477371
+1067013,"Langgata 7, Horten",59.415523,10.484543
+1067014,"Langgata 9, Horten",59.414629,10.483411
+1067015,"Langgata 1, Horten",59.416516,10.485696
+1067016,"Langgata 2, Horten",59.416085,10.485617
+1067017,"Langgata 17, Horten",59.413509,10.482322
+1067018,"Langgata 19, Horten",59.41335,10.482157
+1067019,"Langgata 14, Horten",59.414587,10.483955
+1067020,"Langgata 16, Horten",59.413877,10.483149
+1067029,"Langgata 29, Horten",59.411968,10.480458
+1067030,"Langgata 30, Horten",59.411907,10.481107
+1067031,"Langgata 27, Horten",59.412145,10.480659
+1067032,"Langgata 28, Horten",59.412031,10.481254
+1067033,"Langgata 33, Horten",59.411745,10.480342
+1067034,"Langgata 34, Horten",59.411668,10.480797
+1067035,"Langgata 31, Horten",59.411814,10.480592
+1067036,"Langgata 32, Horten",59.411766,10.480854
+1067037,"Langgata 22, Horten",59.412617,10.481843
+1067038,"Langgata 23, Horten",59.41241,10.481076
+1067039,"Langgata 20, Horten",59.412741,10.481937
+1067040,"Langgata 21, Horten",59.412612,10.481473
+1067041,"Langgata 25, Horten",59.412293,10.48108
+1067042,"Langgata 26, Horten",59.412218,10.481367
+1067043,"Langgata 24A, Horten",59.412464,10.481854
+1067044,"Langgata 24B, Horten",59.412358,10.481691
+1067061,"Langgata 72, Horten",59.40637,10.475933
+1067062,"Langgata 68, Horten",59.406768,10.476443
+1067075,"Langgata 50, Horten",59.409166,10.47882
+1067076,"Langgata 51, Horten",59.407792,10.477228
+1067077,"Langgata 48, Horten",59.409754,10.479287
+1067078,"Langgata 49, Horten",59.407995,10.477536
+1067079,"Langgata 53, Horten",59.407509,10.476828
+1067080,"Langgata 53B, Horten",59.407138,10.476336
+1067081,"Langgata 51A, Horten",59.407651,10.477028
+1067082,"Langgata 52, Horten",59.408988,10.478654
+1067083,"Langgata 39A, Horten",59.409777,10.478847
+1067084,"Langgata 39B, Horten",59.409269,10.478455
+1067085,"Langgata 36, Horten",59.411544,10.480643
+1067086,"Langgata 38, Horten",59.411437,10.480505
+1067087,"Langgata 45, Horten",59.408557,10.477895
+1067088,"Langgata 46, Horten",59.409941,10.479462
+1067089,"Langgata 41, Horten",59.409029,10.478216
+1067090,"Langgata 43, Horten",59.408788,10.478152
+1067091,"Langgata 62, Horten",59.407476,10.477373
+1067092,"Langgata 60, Horten",59.407661,10.477663
+1067093,"Langgata 66, Horten",59.406989,10.476753
+1067094,"Langgata 64, Horten",59.40729,10.477118
+1067095,"Langgata 55A, Horten",59.406838,10.47583
+1067096,"Langgata 56, Horten",59.408506,10.478387
+1067097,"Langgata 54, Horten",59.408711,10.478554
+1067098,"Langgata 55, Horten",59.40698,10.476012
+1067099,"Langgata 58, Horten",59.407892,10.477902
+1067100,"Langgata 59, Horten",59.406529,10.475306
+1067101,"Langgata 56B, Horten",59.408245,10.478209
+1067102,"Langgata 57, Horten",59.406706,10.475613
+1067314,"Moloveien 3, Horten",59.418089,10.492638
+1067326,"Moloveien 16, Horten",59.416348,10.493319
+1067330,"Moloveien 8, Horten",59.417227,10.494169
+1067331,"Moloveien 10, Horten",59.416953,10.494329
+1067332,"Moloveien 6A, Horten",59.416896,10.493448
+1067333,"Moloveien 7, Horten",59.415188,10.496616
+1067334,"Moloveien 14, Horten",59.416395,10.494713
+1067335,"Moloveien 12, Horten",59.416568,10.494545
+1067656,"Rasmussens gate 5, Horten",59.40946,10.482181
+1067658,"Rasmussens gate 3, Horten",59.409679,10.481098
+1067659,"Rasmussens gate 4, Horten",59.410314,10.479734
+1067668,"Rasmussens gate 1B, Horten",59.410001,10.479006
+1067669,"Rasmussens gate 2, Horten",59.4104,10.479332
+1067671,"Rasmussens gate 1A, Horten",59.410056,10.478736
+1067733,"Rosenquists gate 2, Horten",59.410552,10.481788
+1067734,"Rosenquists gate 2B, Horten",59.410609,10.481509
+1067739,"Rosenquists gate 4, Horten",59.410333,10.482871
+1067741,"Rustadgata 2A, Horten",59.412721,10.482975
+1067742,"Rustadgata 2B, Horten",59.412721,10.482975
+1067743,"Rustadgata 1A, Horten",59.41278,10.48252
+1067744,"Rustadgata 1B, Horten",59.41278,10.48252
+1067745,"Rustadgata 5A, Horten",59.412439,10.482262
+1067746,"Rustadgata 3, Horten",59.412557,10.482334
+1067747,"Rustadgata 4A, Horten",59.412477,10.482714
+1067787,"Rustadgata 46A, Horten",59.407504,10.478836
+1067788,"Rustadgata 47, Horten",59.407619,10.478225
+1067789,"Rustadgata 44, Horten",59.408145,10.479375
+1067790,"Rustadgata 45, Horten",59.407776,10.478637
+1067791,"Rustadgata 50, Horten",59.407186,10.478435
+1067792,"Rustadgata 51, Horten",59.407248,10.477697
+1067793,"Rustadgata 48, Horten",59.407372,10.478654
+1067794,"Rustadgata 49, Horten",59.407433,10.477987
+1067795,"Rustadgata 38, Horten",59.408804,10.479862
+1067796,"Rustadgata 39, Horten",59.408411,10.478928
+1067797,"Rustadgata 36, Horten",59.408938,10.47992
+1067798,"Rustadgata 37, Horten",59.408588,10.479095
+1067799,"Rustadgata 42, Horten",59.408305,10.479488
+1067800,"Rustadgata 43, Horten",59.408008,10.478823
+1067801,"Rustadgata 40, Horten",59.408483,10.479654
+1067802,"Rustadgata 41, Horten",59.408214,10.478867
+1067803,"Rustadgata 62, Horten",59.405929,10.476812
+1067804,"Rustadgata 60, Horten",59.406168,10.477104
+1067805,"Rustadgata 61, Horten",59.406185,10.476348
+1067806,"Rustadgata 54, Horten",59.406805,10.477942
+1067807,"Rustadgata 55, Horten",59.406778,10.477113
+1067808,"Rustadgata 52, Horten",59.406982,10.478162
+1067809,"Rustadgata 53, Horten",59.406989,10.477598
+1067810,"Rustadgata 58, Horten",59.406344,10.477394
+1067811,"Rustadgata 59, Horten",59.406324,10.476759
+1067812,"Rustadgata 56, Horten",59.40653,10.477613
+1067813,"Rustadgata 57, Horten",59.406548,10.476857
+1067814,"Rustadgata 14, Horten",59.41137,10.481683
+1067815,"Rustadgata 15, Horten",59.411349,10.481153
+1067816,"Rustadgata 12, Horten",59.411504,10.481794
+1067817,"Rustadgata 13, Horten",59.411481,10.481388
+1067818,"Rustadgata 19, Horten",59.410716,10.480773
+1067819,"Rustadgata 20, Horten",59.410675,10.481177
+1067820,"Rustadgata 16, Horten",59.411236,10.481589
+1067821,"Rustadgata 17, Horten",59.410849,10.48092
+1067822,"Rustadgata 5D, Horten",59.412325,10.482164
+1067823,"Rustadgata 6, Horten",59.412117,10.48235
+1067824,"Rustadgata 5B, Horten",59.412391,10.482223
+1067825,"Rustadgata 5C, Horten",59.41236,10.482196
+1067826,"Rustadgata 10, Horten",59.411753,10.482017
+1067827,"Rustadgata 10A, Horten",59.411609,10.481975
+1067828,"Rustadgata 7, Horten",59.412168,10.481898
+1067829,"Rustadgata 8, Horten",59.411984,10.482184
+1067830,"Rustadgata 31, Horten",59.409416,10.479748
+1067831,"Harald Hansens gate 6, Horten",59.40933,10.480184
+1067832,"Rustadgata 29, Horten",59.409604,10.479791
+1067833,"Rustadgata 34, Horten",59.409124,10.480122
+1067834,"Rustadgata 35, Horten",59.408907,10.479532
+1067835,"Rustadgata 33, Horten",59.409201,10.479738
+1067836,"Rustadgata 33A, Horten",59.40904,10.479608
+1067837,"Rustadgata 23, Horten",59.410264,10.48026
+1067838,"Rustadgata 24, Horten",59.410158,10.480819
+1067839,"Rustadgata 21, Horten",59.410576,10.480432
+1067840,"Rustadgata 22, Horten",59.410462,10.481009
+1067841,"Rustadgata 27, Horten",59.409845,10.479942
+1067842,"Rustadgata 28, Horten",59.409739,10.480625
+1067843,"Rustadgata 25, Horten",59.410095,10.480112
+1067844,"Rustadgata 26, Horten",59.409998,10.480724
+1067894,"Rybergs gate 1, Horten",59.406641,10.475011
+1067985,"Salmakergata 1C, Horten",59.411442,10.480083
+1067986,"Salmakergata 2, Horten",59.411275,10.479811
+1067987,"Salmakergata 1A, Horten",59.411502,10.479592
+1067988,"Salmakergata 1B, Horten",59.411481,10.479838
+1067989,"Salmakergata 8, Horten",59.411166,10.480652
+1067990,"Salmakergata 9, Horten",59.41114,10.482201
+1067991,"Salmakergata 4, Horten",59.411237,10.479968
+1067992,"Salmakergata 6, Horten",59.411187,10.480406
+1068006,"Salmakergata 12, Horten",59.411067,10.481458
+1068007,"Salmakergata 12A, Horten",59.410999,10.481948
+1068008,"Salmakergata 10, Horten",59.411108,10.481037
+1068009,"Salmakergata 11, Horten",59.411189,10.482626
+1068010,"Salmakergata 17, Horten",59.411096,10.483679
+1068012,"Salmakergata 14, Horten",59.410959,10.482317
+1068013,"Salmakergata 15, Horten",59.411011,10.483218
+1068044,"Skippergata 6C, Horten",59.416063,10.488355
+1068045,"Skippergata 8, Horten",59.416361,10.487469
+1068047,"Skippergata 6, Horten",59.416063,10.488355
+1068048,"Skippergata 12, Horten",59.416297,10.487177
+1068049,"Skippergata 14, Horten",59.416475,10.48691
+1068050,"Skippergata 10A, Horten",59.416543,10.487231
+1068051,"Skippergata 10B, Horten",59.416671,10.487042
+1068068,"Skippergata 18J, Horten",59.416931,10.486278
+1068069,"Skippergata 20A, Horten",59.417109,10.485687
+1068070,"Skippergata 16A, Horten",59.416722,10.486551
+1068071,"Skippergata 18A, Horten",59.416809,10.486802
+1068072,"Skippergata 22B, Horten",59.417396,10.485664
+1068073,"Skippergata 24, Horten",59.417498,10.484647
+1068099,"Sollistrandsveien 1, Horten",59.40809,10.477135
+1068100,"Sollistrandsveien 2, Horten",59.40823,10.477406
+1068119,"Sollistrandsveien 6, Horten",59.407957,10.479349
+1068120,"Sollistrandsveien 8, Horten",59.407655,10.479847
+1068121,"Sollistrandsveien 3, Horten",59.407611,10.478982
+1068122,"Sollistrandsveien 4A, Horten",59.40818,10.478103
+1068125,"Sollistrandsveien 12, Horten",59.406064,10.480746
+1068126,"Sørbygata 13, Horten",59.410681,10.482252
+1068127,"Sørbygata 14, Horten",59.411662,10.483651
+1068128,"Sørbygata 11B, Horten",59.411434,10.482408
+1068129,"Sørbygata 12, Horten",59.411805,10.483693
+1068130,"Sørbygata 18, Horten",59.411344,10.483232
+1068131,"Sørbygata 19, Horten",59.409976,10.481833
+1068132,"Sørbygata 15, Horten",59.41053,10.482122
+1068133,"Sørbygata 16, Horten",59.411477,10.483361
+1068134,"Sørbygata 11A, Horten",59.411375,10.482863
+1068135,"Sørbygata 25, Horten",59.409335,10.4814
+1068136,"Sørbygata 27, Horten",59.409147,10.481269
+1068137,"Sørbygata 23, Horten",59.409593,10.481588
+1068138,"Sørbygata 24, Horten",59.410364,10.482467
+1068139,"Sørbygata 30, Horten",59.409731,10.482034
+1068140,"Sørbygata 31, Horten",59.408795,10.480637
+1068141,"Sørbygata 28, Horten",59.409927,10.482184
+1068142,"Sørbygata 29, Horten",59.408898,10.481046
+1068143,"Sørbygata 22A, Horten",59.410596,10.482636
+1068144,"Sørbygata 22B, Horten",59.410537,10.483056
+1068145,"Sørbygata 20, Horten",59.411228,10.483139
+1068146,"Sørbygata 21, Horten",59.409771,10.481701
+1068147,"Sørbygata 22E, Horten",59.410537,10.483056
+1068148,"Sørbygata 22F, Horten",59.410537,10.483056
+1068149,"Sørbygata 22C, Horten",59.410537,10.483056
+1068150,"Sørbygata 22D, Horten",59.410537,10.483056
+1068164,"Sørbygata 41B, Horten",59.407829,10.480277
+1068165,"Sørbygata 42, Horten",59.408492,10.481258
+1068166,"Sørbygata 40, Horten",59.408652,10.481353
+1068167,"Sørbygata 41A, Horten",59.407888,10.479822
+1068168,"Sørbygata 48, Horten",59.407779,10.480768
+1068169,"Jansens gate 1, Horten",59.40753,10.480564
+1068170,"Sørbygata 44, Horten",59.408233,10.481088
+1068171,"Sørbygata 46, Horten",59.408091,10.480976
+1068172,"Sørbygata 34A, Horten",59.409292,10.481788
+1068173,"Sørbygata 35, Horten",59.408386,10.480319
+1068174,"Sørbygata 32, Horten",59.409544,10.48192
+1068175,"Storms gate 8B, Horten",59.408639,10.480424
+1068176,"Sørbygata 38, Horten",59.408867,10.481468
+1068177,"Sørbygata 39A, Horten",59.408038,10.480057
+1068178,"Sørbygata 36, Horten",59.409089,10.481636
+1068179,"Sørbygata 37, Horten",59.4082,10.4801
+1068188,"Teatergata 2, Horten",59.415642,10.486751
+1068189,"Teatergata 2A, Horten",59.415798,10.487216
+1068190,"Sørbygata 52, Horten",59.407378,10.480487
+1068191,"Sørbygata 54, Horten",59.407244,10.480428
+1068301,"Sørbygata 5, Horten",59.412424,10.483755
+1068302,"Sørbygata 6, Horten",59.412304,10.484085
+1068303,"Sørbygata 1, Horten",59.412754,10.484034
+1068304,"Sørbygata 3, Horten",59.412576,10.483867
+1068305,"Sørbygata 10, Horten",59.411948,10.483752
+1068315,"Storms gate 2, Horten",59.408867,10.479054
+1068316,"Strandpromenaden 1, Horten",59.413099,10.485212
+1068318,"Storms gate 1, Horten",59.408781,10.477905
+1068330,"Strandpromenaden 3, Horten",59.413541,10.48583
+1068331,"Strandpromenaden 5, Horten",59.413728,10.485997
+1068332,"Strandpromenaden 2, Horten",59.413258,10.486241
+1068333,"Strandpromenaden 13, Horten",59.414748,10.487945
+1068334,"Strandpromenaden 15, Horten",59.41487,10.488267
+1068335,"Strandpromenaden 8, Horten",59.414098,10.487423
+1068336,"Strandpromenaden 9, Horten",59.414203,10.486106
+1068389,"Steinsnesveien 4, Horten",59.403074,10.478256
+1068396,"Statsråd Johansens gate 3, Horten",59.406879,10.476924
+1068397,"Statsråd Johansens gate 6, Horten",59.407154,10.477235
+1068409,"Steinsnesveien 5, Horten",59.403424,10.478306
+1068412,"Thranes gate 1A, Horten",59.411908,10.481794
+1068413,"Thranes gate 2, Horten",59.411927,10.483222
+1068432,"Thranes gate 4, Horten",59.411694,10.48404
+1068433,"Thranes gate 5, Horten",59.411278,10.484234
+1068434,"Thranes gate 2B, Horten",59.411852,10.482726
+1068435,"Thranes gate 3B, Horten",59.411269,10.483711
+1068437,"Thranes gate 6, Horten",59.411592,10.484247
+1068438,"Thranes gate 8, Horten",59.411465,10.484365
+1068471,"Tollbugata 6, Horten",59.414686,10.490991
+1068472,"Tollbugata 8, Horten",59.414564,10.491461
+1068473,"Tollbugata 4, Horten",59.414265,10.490144
+1068474,"Tollbugata 5, Horten",59.414961,10.490492
+1068477,"Tollbugata 10, Horten",59.414281,10.49344
+1068483,"Tollbugata 1A, Horten",59.413916,10.489195
+1068484,"Tollbugata 2, Horten",59.413981,10.489797
+1068705,"Vognmannsgata 5, Horten",59.416228,10.484961
+1068706,"Vognmannsgata 7, Horten",59.416637,10.485314
+1068716,"Vognmannsgata 1, Horten",59.415755,10.483883
+1068894,"Rosenquists gate 1B, Horten",59.410356,10.481621
+1068924,"Strandpromenaden 17, Horten",59.41513,10.488332
+1068931,"Apotekergata 9, Horten",59.415377,10.486316
+1068933,"Tollbugata 7, Horten",59.415198,10.491031
+1068961,"Rosenquists gate 1A, Horten",59.41028,10.482005
+1069055,"Rustadbrygga 4, Horten",59.412726,10.487475
+1069065,"Hjulmaker Jakobsens vei 16, Horten",59.415387,10.486986
+1069066,"Hjulmaker Jakobsens vei 18, Horten",59.41544,10.487076
+1069067,"Hjulmaker Jakobsens vei 13, Horten",59.415633,10.48749
+1069068,"Hjulmaker Jakobsens vei 14, Horten",59.415277,10.487193
+1069069,"Rustadbrygga 1, Horten",59.411533,10.487081
+1069070,"Rustadbrygga 3, Horten",59.411358,10.489065
+1069071,"Hjulmaker Jakobsens vei 20, Horten",59.415464,10.487359
+1069072,"Hjulmaker Jakobsens vei 22, Horten",59.415538,10.487255
+1069113,"Hjulmaker Jakobsens vei 7, Horten",59.415413,10.487886
+1069114,"Hjulmaker Jakobsens vei 8, Horten",59.415132,10.487363
+1069115,"Hjulmaker Jakobsens vei 5, Horten",59.415281,10.487651
+1069116,"Hjulmaker Jakobsens vei 6, Horten",59.41503,10.487605
+1069117,"Hjulmaker Jakobsens vei 11, Horten",59.415587,10.487629
+1069118,"Hjulmaker Jakobsens vei 12, Horten",59.415321,10.487318
+1069119,"Hjulmaker Jakobsens vei 9, Horten",59.415487,10.487731
+1069120,"Hjulmaker Jakobsens vei 10, Horten",59.415167,10.487452
+1069125,"Hjulmaker Jakobsens vei 3, Horten",59.415307,10.487775
+1069126,"Hjulmaker Jakobsens vei 4, Horten",59.415118,10.48775
+1069127,"Hjulmaker Jakobsens vei 1, Horten",59.415322,10.488023
+1069128,"Hjulmaker Jakobsens vei 2, Horten",59.415171,10.487893
+1069249,"Ferjegata 13, Horten",59.412782,10.481568
+1069266,"Sollistrandsveien 16, Horten",59.405393,10.48047
+1069267,"Rybergs gate 9, Horten",59.405194,10.480585
+1069293,"Jernbanegata 17, Horten",59.409792,10.483041
+1069294,"Jernbanegata 6, Horten",59.410887,10.48432
+1069304,"Jernbanegata 4, Horten",59.410985,10.484388
+1069376,"Anders Jørgensens gate 15, Horten",59.415829,10.482882
+1069438,"Moloveien 9, Horten",59.416353,10.498303
+1069635,"Steinsnesveien 6, Horten",59.403125,10.477765
+1069636,"Steinsnesveien 8, Horten",59.403172,10.477555
+1069637,"Steinsnesveien 2, Horten",59.402986,10.478886
+1069658,"Steinsnesveien 7, Horten",59.403482,10.477956
+1069659,"Steinsnesveien 9, Horten",59.403561,10.477308
+1069828,"Teatergata 5, Horten",59.415393,10.485718
+1069892,"Skippergata 22A, Horten",59.417348,10.485997
+1069923,"Teatergata 6, Horten",59.415171,10.486254
+1069942,"Strandparken 10, Horten",59.40632,10.485884
+1069943,"Strandparken 12, Horten",59.406312,10.48576
+1069944,"Apotekergata 4, Horten",59.414792,10.48726
+1069945,"Strandparken 16, Horten",59.406319,10.485144
+1069947,"Strandparken 14, Horten",59.406314,10.485619
+1070006,"Salmakergata 16B, Horten",59.410822,10.48328
+1070011,"Salmakergata 16A, Horten",59.410854,10.482858
+1070019,"Rustadgata 18A, Horten",59.410827,10.481254
+1070020,"Rustadgata 18B, Horten",59.410827,10.481254
+1070077,"Sørbygata 7B, Horten",59.412201,10.483432
+1070078,"Sørbygata 9A, Horten",59.412116,10.483213
+1070079,"Sørbygata 7A, Horten",59.412287,10.483216
+1070080,"Sørbygata 9B, Horten",59.412046,10.483104
+1070083,"Langgata 18E, Horten",59.413292,10.482507
+1070084,"Falsens gate 1D, Horten",59.413713,10.484992
+1070086,"Falsens gate 5A, Horten",59.413702,10.483582
+1070087,"Falsens gate 5B, Horten",59.413632,10.483403
+1070106,"Jørgen Ferjemanns vei 16, Horten",59.403579,10.48203
+1070108,"Jørgen Ferjemanns vei 18, Horten",59.403575,10.482399
+1070112,"Jørgen Ferjemanns vei 14, Horten",59.40358,10.481959
+1070120,"Apotekergata 12, Horten",59.415457,10.484857
+1070125,"Jørgen Ferjemanns vei 27, Horten",59.403323,10.482406
+1070127,"Jørgen Ferjemanns vei 29, Horten",59.403313,10.482564
+1070129,"Jørgen Ferjemanns vei 23, Horten",59.403337,10.481984
+1070131,"Jørgen Ferjemanns vei 25, Horten",59.403336,10.482125
+1070133,"Jørgen Ferjemanns vei 35, Horten",59.403295,10.483321
+1070136,"Jørgen Ferjemanns vei 31, Horten",59.403309,10.482846
+1070138,"Jørgen Ferjemanns vei 33, Horten",59.403317,10.483005
+1070140,"Jørgen Ferjemanns vei 24, Horten",59.403567,10.483086
+1070142,"Jørgen Ferjemanns vei 13A, Horten",59.403551,10.481341
+1070144,"Jørgen Ferjemanns vei 20, Horten",59.403574,10.482523
+1070146,"Jørgen Ferjemanns vei 22, Horten",59.403569,10.482963
+1070148,"Jørgen Ferjemanns vei 19, Horten",59.403342,10.481544
+1070150,"Jørgen Ferjemanns vei 21, Horten",59.40335,10.481685
+1070152,"Jørgen Ferjemanns vei 15, Horten",59.403365,10.481122
+1070154,"Jørgen Ferjemanns vei 17, Horten",59.403363,10.481263
+1070170,"Rustadgata 11A, Horten",59.411659,10.481572
+1070173,"Rustadgata 11B, Horten",59.411706,10.481363
+1070221,"Vognmannsgata 2, Horten",59.415751,10.483407
+1070225,"Vognmannsgata 4, Horten",59.415822,10.483498
+1070236,"Strandparken 155, Horten",59.404552,10.484739
+1070311,"Halvdan Svartes gate 6B, Horten",59.403842,10.477056
+1070312,"Halvdan Svartes gate 6A, Horten",59.403842,10.477056
+1070315,"Nordre Enggate 8, Horten",59.414924,10.485116
+1070319,"Harald Hansens gate 5, Horten",59.409112,10.480474
+1070337,"Jørgen Ferjemanns vei 11B, Horten",59.403649,10.481434
+1070338,"Sørbygata 4, Horten",59.412447,10.484161
+1070339,"Jørgen Ferjemanns vei 9B, Horten",59.403728,10.481543
+1070340,"Jørgen Ferjemanns vei 11A, Horten",59.403684,10.481523
+1070344,"Jørgen Ferjemanns vei 4C, Horten",59.403823,10.482674
+1070345,"Jørgen Ferjemanns vei 4D, Horten",59.403788,10.482638
+1070346,"Jørgen Ferjemanns vei 4A, Horten",59.403786,10.482814
+1070347,"Jørgen Ferjemanns vei 4B, Horten",59.403831,10.48278
+1070348,"Jørgen Ferjemanns vei 6C, Horten",59.403802,10.482135
+1070349,"Jørgen Ferjemanns vei 9A, Horten",59.403774,10.481492
+1070350,"Jørgen Ferjemanns vei 6A, Horten",59.403791,10.482321
+1070351,"Jørgen Ferjemanns vei 6B, Horten",59.403806,10.4823
+1070369,"Strandparken 89, Horten",59.405229,10.48253
+1070371,"Thranes gate 1C, Horten",59.411535,10.482959
+1070374,"Thranes gate 1B, Horten",59.411585,10.482556
+1070376,"Strandparken 79, Horten",59.405351,10.482618
+1070379,"Strandparken 85, Horten",59.405298,10.482492
+1070380,"Strandparken 87, Horten",59.405234,10.482468
+1070381,"Strandparken 81, Horten",59.405358,10.482567
+1070382,"Strandparken 83, Horten",59.405291,10.482551
+1070383,"Strandparken 163, Horten",59.404813,10.484469
+1070384,"Strandparken 165, Horten",59.40487,10.484277
+1070385,"Strandparken 159, Horten",59.404717,10.484596
+1070386,"Strandparken 161, Horten",59.404806,10.484427
+1070387,"Strandparken 167, Horten",59.404907,10.484423
+1070388,"Strandparken 147, Horten",59.4044,10.484908
+1070389,"Strandparken 149, Horten",59.404413,10.484775
+1070391,"Strandparken 145, Horten",59.404349,10.484815
+1070392,"Jørgen Ferjemanns vei 2B, Horten",59.403787,10.48313
+1070393,"Jørgen Ferjemanns vei 2A, Horten",59.403756,10.483135
+1070394,"Strandparken 157, Horten",59.404688,10.484494
+1070395,"Strandparken 151, Horten",59.404468,10.484724
+1070396,"Strandparken 153, Horten",59.404526,10.484604
+1070473,"Linden 10, Horten",59.4089,10.48654
+1070480,"Moloveien 1A, Horten",59.416486,10.491549
+1070499,"Jørgen Ferjemanns vei 7A, Horten",59.404165,10.481879
+1070500,"Jørgen Ferjemanns vei 7B, Horten",59.404094,10.481753
+1070501,"Strandparken 103C, Horten",59.404305,10.482202
+1070502,"Strandparken 109C, Horten",59.404411,10.483123
+1070503,"Jørgen Ferjemanns vei 7E, Horten",59.403979,10.481642
+1070504,"Jørgen Ferjemanns vei 7F, Horten",59.403979,10.481642
+1070505,"Jørgen Ferjemanns vei 7C, Horten",59.404094,10.481753
+1070506,"Jørgen Ferjemanns vei 7D, Horten",59.404041,10.481733
+1070519,"Strandparken 113A, Horten",59.404077,10.483232
+1070521,"Strandparken 113B, Horten",59.403988,10.483245
+1070522,"Strandparken 111B, Horten",59.40414,10.483234
+1070523,"Strandparken 111C, Horten",59.40414,10.483234
+1070524,"Strandparken 109B, Horten",59.404411,10.483123
+1070525,"Strandparken 105A, Horten",59.404212,10.482379
+1070526,"Strandparken 113C, Horten",59.403988,10.483245
+1070527,"Strandparken 109A, Horten",59.404368,10.482998
+1070531,"Jørgen Ferjemanns vei 1C, Horten",59.403999,10.482982
+1070532,"Strandparken 111A, Horten",59.40423,10.483238
+1070533,"Jørgen Ferjemanns vei 1A, Horten",59.403991,10.482964
+1070534,"Jørgen Ferjemanns vei 1B, Horten",59.403993,10.482787
+1070535,"Strandparken 99C, Horten",59.404469,10.482755
+1070536,"Strandparken 101A, Horten",59.40441,10.482453
+1070537,"Strandparken 99A, Horten",59.404469,10.482755
+1070538,"Strandparken 99B, Horten",59.404426,10.48263
+1070539,"Strandparken 103A, Horten",59.404305,10.482202
+1070540,"Strandparken 103B, Horten",59.404261,10.482059
+1070541,"Strandparken 101B, Horten",59.40433,10.482327
+1070542,"Strandparken 101C, Horten",59.40441,10.482453
+1070543,"Strandparken 107A, Horten",59.404301,10.482664
+1070544,"Strandparken 107B, Horten",59.404312,10.48274
+1070545,"Strandparken 105B, Horten",59.404238,10.482446
+1070546,"Strandparken 105C, Horten",59.404227,10.48236
+1070547,"Strandparken 97B, Horten",59.404504,10.482863
+1070548,"Strandparken 97C, Horten",59.404517,10.483017
+1070549,"Strandparken 107C, Horten",59.404326,10.482731
+1070550,"Strandparken 97A, Horten",59.404529,10.483005
+1070564,"Langgata 18C, Horten",59.413466,10.482955
+1070566,"Langgata 18A, Horten",59.413466,10.482955
+1070567,"Langgata 18B, Horten",59.413466,10.482955
+1070570,"Langgata 29B, Horten",59.412059,10.480356
+1070577,"Langgata 18D, Horten",59.413478,10.482709
+1070587,"Strandparken 92, Horten",59.4047,10.483866
+1070598,"Strandparken 34, Horten",59.405304,10.483603
+1070599,"Strandparken 24, Horten",59.405263,10.483372
+1070600,"Strandparken 18, Horten",59.40526,10.483219
+1070601,"Strandparken 32, Horten",59.405389,10.483772
+1070602,"Strandparken 38, Horten",59.405661,10.484113
+1070603,"Strandparken 40, Horten",59.405721,10.484097
+1070604,"Strandparken 22, Horten",59.405238,10.483145
+1070605,"Strandparken 36, Horten",59.405708,10.484062
+1070606,"Strandparken 100, Horten",59.404624,10.483837
+1070607,"Strandparken 96, Horten",59.404604,10.483587
+1070608,"Strandparken 94, Horten",59.404651,10.483784
+1070609,"Strandparken 98, Horten",59.404724,10.483969
+1070610,"Strandparken 28, Horten",59.405327,10.483584
+1070611,"Strandparken 20, Horten",59.405274,10.483353
+1070612,"Strandparken 102, Horten",59.40457,10.483595
+1070613,"Strandparken 26, Horten",59.405373,10.483694
+1070652,"Strandparken 129, Horten",59.403701,10.484748
+1070653,"Strandparken 131, Horten",59.403827,10.484753
+1070654,"Strandparken 125, Horten",59.403381,10.484843
+1070655,"Strandparken 127, Horten",59.403566,10.484759
+1070677,"Strandparken 62, Horten",59.405176,10.484435
+1070678,"Strandparken 64, Horten",59.405253,10.484604
+1070679,"Strandparken 58, Horten",59.405408,10.484385
+1070680,"Strandparken 60, Horten",59.405241,10.484528
+1070681,"Strandparken 70, Horten",59.405095,10.483929
+1070682,"Strandparken 72, Horten",59.405038,10.483863
+1070683,"Strandparken 66, Horten",59.405158,10.48453
+1070684,"Strandparken 68, Horten",59.405128,10.483888
+1070685,"Strandparken 46, Horten",59.405534,10.484199
+1070686,"Strandparken 48, Horten",59.405602,10.484206
+1070687,"Strandparken 42, Horten",59.405669,10.484164
+1070688,"Strandparken 44, Horten",59.405589,10.484165
+1070689,"Strandparken 54, Horten",59.405397,10.484336
+1070690,"Strandparken 56, Horten",59.405471,10.484291
+1070691,"Strandparken 50, Horten",59.405546,10.484226
+1070692,"Strandparken 52, Horten",59.405463,10.484252
+1070693,"Strandparken 93, Horten",59.404704,10.48266
+1070694,"Strandparken 95, Horten",59.404592,10.48225
+1070695,"Strandparken 90, Horten",59.404954,10.483106
+1070696,"Strandparken 91, Horten",59.404932,10.482335
+1070697,"Strandparken 121, Horten",59.403266,10.484288
+1070698,"Strandparken 123, Horten",59.403242,10.484798
+1070699,"Strandparken 117, Horten",59.40328,10.483884
+1070700,"Strandparken 119, Horten",59.403286,10.484095
+1070701,"Strandparken 78, Horten",59.405006,10.483872
+1070702,"Strandparken 80, Horten",59.404921,10.483403
+1070703,"Strandparken 74, Horten",59.405157,10.48398
+1070704,"Strandparken 76, Horten",59.405116,10.48401
+1070705,"Strandparken 86, Horten",59.40488,10.483444
+1070706,"Strandparken 88, Horten",59.404911,10.483136
+1070707,"Strandparken 82, Horten",59.404926,10.483233
+1070708,"Strandparken 84, Horten",59.404967,10.483192
+1070733,"Strandparken 115, Horten",59.403318,10.483692
+1070778,"Falsens gate 4, Horten",59.413441,10.483623
+1070826,"Søndre Enggate 8A, Horten",59.414412,10.4843
+1070830,"Søndre Enggate 10, Horten",59.414329,10.48368
+1070832,"Søndre Enggate 8B, Horten",59.414307,10.484102
+1070834,"Rosenquists gate 3B, Horten",59.410166,10.482289
+1070836,"Rosenquists gate 3C, Horten",59.410083,10.482237
+1070838,"Rosenquists gate 5, Horten",59.410019,10.482839
+1070840,"Rosenquists gate 3A, Horten",59.410175,10.482345
+1070852,"Strandparken 3, Horten",59.407656,10.484498
+1070915,"Falsens gate 7B, Horten",59.41369,10.483035
+1070917,"Falsens gate 7A, Horten",59.413754,10.483087
+1070944,"Strandparken 139A, Horten",59.40399,10.484794
+1070946,"Strandparken 139B, Horten",59.404004,10.484972
+1070956,"Strandparken 141A, Horten",59.404173,10.48477
+1070958,"Strandparken 141B, Horten",59.404243,10.485067
+1071022,"Jørgen Ferjemanns vei 5B, Horten",59.403991,10.482136
+1071023,"Jørgen Ferjemanns vei 5C, Horten",59.403991,10.482136
+1071025,"Jørgen Ferjemanns vei 5A, Horten",59.403998,10.482347
+1071026,"Jørgen Ferjemanns vei 3C, Horten",59.403996,10.482471
+1071028,"Jørgen Ferjemanns vei 3A, Horten",59.403995,10.482611
+1071029,"Jørgen Ferjemanns vei 3B, Horten",59.403996,10.482471
+1071035,"Strandparken 75, Horten",59.406004,10.483615
+1071043,"Strandparken 77A, Horten",59.40562,10.482817
+1071064,"Strandparken 77B, Horten",59.405566,10.482662
+1071075,"Strandparken 35, Horten",59.40665,10.484489
+1071080,"Søndre Enggate 6B, Horten",59.414455,10.484496
+1071092,"Langgata 70A, Horten",59.406619,10.476155
+1071093,"Langgata 70B, Horten",59.406563,10.476294
+1071130,"Jernbanegata 15A, Horten",59.410327,10.483399
+1071131,"Jernbanegata 15B, Horten",59.410311,10.483222
+1071153,"Jernbanegata 18B, Horten",59.409743,10.483374
+1071154,"Jernbanegata 18A, Horten",59.409722,10.483655
+1071159,"Falsens gate 3B, Horten",59.413601,10.483754
+1071234,"Strandparken 16A, Horten",59.4061,10.484676
+1071247,"Jernbanegata 30C, Horten",59.407975,10.48226
+1071254,"Søndre Enggate 6A, Horten",59.414265,10.484576
+1262759,"Sørbygata 34B, Horten",59.409223,10.481748
+1373437,"Strandparken 128A, Horten",59.404339,10.484214
+1373439,"Strandparken 124A, Horten",59.40405,10.484405
+1373445,"Strandparken 126A, Horten",59.404218,10.484311
+1373454,"Strandparken 130A, Horten",59.40446,10.484098
+1373642,"Strandparken 104A, Horten",59.404287,10.483858
+1373646,"Strandparken 106C, Horten",59.404067,10.483711
+1373648,"Strandparken 106B, Horten",59.403973,10.483701
+1373649,"Strandparken 106D, Horten",59.404085,10.483809
+1373650,"Strandparken 108C, Horten",59.403741,10.483631
+1373651,"Strandparken 106A, Horten",59.403976,10.483823
+1373652,"Strandparken 108B, Horten",59.403682,10.483632
+1373654,"Strandparken 108D, Horten",59.403749,10.483738
+1373656,"Strandparken 108A, Horten",59.403687,10.483745
+1373715,"Strandparken 118, Horten",59.403688,10.484395
+1373716,"Strandparken 120, Horten",59.403808,10.484388
+1373717,"Strandparken 114, Horten",59.40352,10.483969
+1373718,"Strandparken 116, Horten",59.40357,10.484346
+1373719,"Strandparken 110, Horten",59.403542,10.483576
+1373720,"Strandparken 112, Horten",59.403511,10.483765
+1373721,"Strandparken 104C, Horten",59.404362,10.483679
+1373722,"Strandparken 104D, Horten",59.404342,10.483823
+1373723,"Strandparken 104B, Horten",59.404228,10.483793
+1492232,"Sollistrandsveien 4B, Horten",59.408146,10.478073
+1539053,"Storms gate 8A, Horten",59.408651,10.480441
+1650086,"Rustadgata 4C, Horten",59.412311,10.482474
+1688109,"Strandparken 65, Horten",59.406445,10.483364
+1693301,"Rosenquists gate 2A, Horten",59.410648,10.481264
+1696457,"Rasmussens gate 1C, Horten",59.409989,10.47908
+1761984,"Sørbygata 39B, Horten",59.408028,10.480058
+1764393,"Jernbanegata 36B, Horten",59.407129,10.482057
+1771571,"Teatergata 1, Horten",59.415807,10.486402
+1780271,"Jernbanegata 41B, Horten",59.40698,10.481221
+1791572,"Moloveien 1B, Horten",59.416163,10.491417
+1793195,"Nordre Enggate 11B, Horten",59.414778,10.482903
+1797183,"Sollistrandsveien 28, Horten",59.405859,10.479125
+1797184,"Sollistrandsveien 30, Horten",59.406202,10.479267
+1797185,"Sollistrandsveien 32, Horten",59.406471,10.479476
+1797188,"Sollistrandsveien 26, Horten",59.405725,10.478663
+1817899,"Moloveien 6B, Horten",59.417081,10.493746
+1826648,"Teatergata 3, Horten",59.415757,10.486377
+1826649,"Jørgen Ferjemanns vei 13B, Horten",59.403544,10.4813
+1839477,"Strandparken 130B, Horten",59.404473,10.484108
+1839483,"Strandparken 124B, Horten",59.404058,10.484404
+1839485,"Strandparken 126B, Horten",59.40423,10.484286
+1839487,"Strandparken 128B, Horten",59.404354,10.484218
+1940820,"Sollistrandsveien 10A, Horten",59.406913,10.480067
+1940821,"Sollistrandsveien 10B, Horten",59.407005,10.480093
+1940822,"Sollistrandsveien 10C, Horten",59.407105,10.480164
+1940823,"Sollistrandsveien 10D, Horten",59.407075,10.480429
+1940824,"Sollistrandsveien 10E, Horten",59.407051,10.480772
+1940825,"Sollistrandsveien 10F, Horten",59.406821,10.480921
+1940826,"Sollistrandsveien 10G, Horten",59.406744,10.480877
+1940827,"Sollistrandsveien 10H, Horten",59.406614,10.480819
+1940828,"Sollistrandsveien 10J, Horten",59.406562,10.480817
+1940979,"Sollistrandsveien 10K, Horten",59.406605,10.480482
+1940980,"Sollistrandsveien 10M, Horten",59.406661,10.480156
+1940981,"Sollistrandsveien 10L, Horten",59.406637,10.480328
+1949530,"Thranes gate 3A, Horten",59.411434,10.4834
+1954196,"Skippergata 3, Horten",59.416329,10.486401
+1962950,"Hesteskoen 5A, Borre",59.401692,10.477444
+1962951,"Hesteskoen 7, Borre",59.401488,10.477808
+1962952,"Hesteskoen 9, Borre",59.401662,10.477874
+1962954,"Hesteskoen 11, Borre",59.401831,10.477954
+1965385,"Nordre Enggate 15, Horten",59.414958,10.482252
+1978638,"Skippergata 18D, Horten",59.416934,10.486711
+1978639,"Skippergata 18C, Horten",59.416914,10.486729
+1978640,"Skippergata 18G, Horten",59.417053,10.486511
+1978641,"Skippergata 18E, Horten",59.416982,10.486621
+1978642,"Skippergata 18F, Horten",59.417007,10.486588
+1978644,"Skippergata 18H, Horten",59.417076,10.486482
+1978649,"Skippergata 18B, Horten",59.416833,10.486777
+1988322,"Rybergs gate 7, Horten",59.4052,10.479822
+1997971,"Hesteskoen 5B, Borre",59.401748,10.47745
+1997986,"Hesteskoen 5C, Borre",59.401714,10.477363
+1997989,"Hesteskoen 5D, Borre",59.401756,10.477408
+1998171,"Rybergs gate 11A, Horten",59.404962,10.480344
+1998173,"Rybergs gate 11B, Horten",59.404934,10.480476
+1998174,"Rybergs gate 11C, Horten",59.404906,10.480648
+2001764,"Teatergata 11, Horten",59.415179,10.484967
+2001765,"Nordre Enggate 10, Horten",59.41503,10.48478
+2013418,"Rustadgata 46B, Horten",59.40748,10.478861
+2027510,"Langgata 84B, Horten",59.405104,10.474254
+2028966,"Strandpromenaden 6, Horten",59.413568,10.486565
+2028967,"Strandpromenaden 4, Horten",59.412853,10.487513
+2028969,"Rustadbrygga 2, Horten",59.412816,10.487133
+2034413,"Statsråd Johansens gate 12, Horten",59.406509,10.478497
+2096591,"Rustadgata 30C, Horten",59.409476,10.481013
+2096592,"Rustadgata 30B, Horten",59.409526,10.480734
+2096593,"Rustadgata 30A, Horten",59.409556,10.480469
+2172871,"Falsens gate 6, Horten",59.413355,10.483267
+2180782,"Statsråd Johansens gate 1, Horten",59.407283,10.476166
+2182020,"Jørgen Ferjemanns vei 2C, Horten",59.403771,10.482968
+2189134,"Falsens gate 3A, Horten",59.413605,10.4841
+2240999,"Rustadgata 66B, Horten",59.405526,10.476235
+2241004,"Langgata 80, Horten",59.40552,10.474804
+2241005,"Langgata 81, Horten",59.404609,10.472773
+2241006,"Langgata 78, Horten",59.405698,10.475005
+2241007,"Langgata 79, Horten",59.404823,10.472959
+2241008,"Langgata 84A, Horten",59.405122,10.47424
+2241010,"Langgata 82, Horten",59.40529,10.474547
+2241011,"Langgata 83, Horten",59.404416,10.472395
+2241013,"Langgata 71, Horten",59.405637,10.474016
+2241017,"Langgata 69, Horten",59.405616,10.474315
+2241019,"Langgata 76, Horten",59.405865,10.475259
+2241020,"Langgata 77, Horten",59.404972,10.473265
+2241021,"Langgata 74, Horten",59.405989,10.475423
+2241023,"Steinsnesveien 18, Horten",59.405112,10.473588
+2241026,"Bryggeriveien 5, Horten",59.404773,10.478171
+2241027,"Rustadgata 63, Horten",59.40592,10.476001
+2241029,"Bryggeriveien 3, Horten",59.405031,10.478323
+2241031,"Bryggeriveien 4A, Horten",59.404666,10.478818
+2241033,"Bryggeriveien 7, Horten",59.404514,10.477984
+2241035,"Rustadgata 66A, Horten",59.405548,10.476302
+2241037,"Bryggeriveien 8A, Horten",59.404203,10.478463
+2241038,"Rustadgata 67, Horten",59.405522,10.475473
+2241040,"Bryggeriveien 6A, Horten",59.404435,10.478632
+2241041,"Rustadgata 64, Horten",59.405734,10.476539
+2241043,"Steinsnesveien 3, Horten",59.403318,10.478918
+2241044,"Bryggeriveien 6B, Horten",59.404391,10.47856
+2241045,"Rustadgata 65, Horten",59.405743,10.475765
+2241047,"Steinsnesveien 1, Horten",59.40334,10.479324
+2241048,"Langgata 88, Horten",59.404743,10.47366
+2241049,"Langgata 86, Horten",59.404901,10.473931
+2241051,"Bryggeriveien 2A, Horten",59.404907,10.478952
+2241052,"Langgata 90A, Horten",59.404452,10.473189
+2241054,"Bryggeriveien 2B, Horten",59.404846,10.478861
+2241055,"Langgata 90, Horten",59.404557,10.473388
+2241058,"Johan Riefs gate 6, Horten",59.405143,10.477148
+2241067,"Johan Riefs gate 17, Horten",59.404596,10.473936
+2241068,"Langgata 63, Horten",59.406057,10.474968
+2241069,"Johan Riefs gate 14, Horten",59.404657,10.475682
+2241070,"Johan Riefs gate 16, Horten",59.404527,10.475307
+2241071,"Langgata 61, Horten",59.406291,10.474943
+2241072,"Langgata 67, Horten",59.405897,10.474063
+2241073,"Langgata 65, Horten",59.405872,10.474713
+2241074,"Johan Riefs gate 9, Horten",59.405577,10.476938
+2241075,"Johan Riefs gate 10, Horten",59.404866,10.476308
+2241076,"Johan Riefs gate 8, Horten",59.404969,10.476682
+2241077,"Johan Riefs gate 13, Horten",59.405269,10.476361
+2241078,"Johan Riefs gate 13A, Horten",59.405111,10.476089
+2241079,"Johan Riefs gate 11, Horten",59.405417,10.476825
+2241080,"Johan Riefs gate 12, Horten",59.404751,10.476091
+2241090,"Fjordveien 5A, Horten",59.404349,10.479086
+2241091,"Fjordveien 5B, Horten",59.404305,10.479014
+2241093,"Fjordveien 8A, Horten",59.404012,10.479494
+2241094,"Fjordveien 8B, Horten",59.403968,10.479404
+2241095,"Fjordveien 7A, Horten",59.404118,10.4789
+2241096,"Fjordveien 7B, Horten",59.404073,10.478845
+2241097,"Bryggeriveien 10A, Horten",59.403972,10.478312
+2241098,"Fjordveien 2A, Horten",59.40468,10.479999
+2241100,"Rustadgata 70, Horten",59.405097,10.475666
+2241102,"Bryggeriveien 10B, Horten",59.403937,10.47824
+2241103,"Fjordveien 2B, Horten",59.404627,10.479909
+2241104,"Rustadgata 70B, Horten",59.404937,10.475518
+2241105,"Bryggeriveien 8B, Horten",59.404169,10.478374
+2241106,"Fjordveien 1A, Horten",59.404804,10.479405
+2241107,"Rustadgata 68, Horten",59.405362,10.476065
+2241110,"Bryggeriveien 9, Horten",59.404211,10.477812
+2241111,"Fjordveien 1B, Horten",59.404759,10.479351
+2241112,"Rustadgata 69, Horten",59.405307,10.475358
+2241114,"Bryggeriveien 13, Horten",59.403775,10.477458
+2241115,"Fjordveien 4A, Horten",59.404458,10.479813
+2241117,"Fjordveien 4B, Horten",59.404422,10.479759
+2241118,"Bryggeriveien 11, Horten",59.403988,10.477644
+2241119,"Fjordveien 3A, Horten",59.404572,10.479254
+2241121,"Rustadgata 71, Horten",59.405195,10.47493
+2241123,"Bryggeriveien 12, Horten",59.403687,10.478036
+2241124,"Fjordveien 3B, Horten",59.404537,10.479182
+2241125,"Rybergs gate 4B, Horten",59.404569,10.480329
+2241126,"Rybergs gate 5A, Horten",59.405397,10.478652
+2241127,"Rybergs gate 3, Horten",59.40558,10.478224
+2241128,"Rybergs gate 4A, Horten",59.404621,10.480437
+2241129,"Rybergs gate 6B, Horten",59.404337,10.48016
+2241130,"Rybergs gate 5B, Horten",59.405351,10.478901
+2241131,"Rybergs gate 6A, Horten",59.404372,10.48025
+2241132,"Fjordveien 11, Horten",59.403629,10.478473
+2241133,"Fjordveien 12, Horten",59.403541,10.479051
+2241134,"Fjordveien 9, Horten",59.403807,10.478605
+2241135,"Fjordveien 10C, Horten",59.403627,10.479407
+2241136,"Rybergs gate 2, Horten",59.406022,10.475724
+2241137,"Rybergs gate 2A, Horten",59.406383,10.474718
+2241138,"Steinsnesveien 17B, Horten",59.404811,10.47479
+2241139,"Steinsnesveien 17A, Horten",59.404749,10.474717
+2241140,"Steinsnesveien 17E, Horten",59.405,10.474746
+2241142,"Steinsnesveien 17F, Horten",59.404947,10.474655
+2241143,"Steinsnesveien 21, Horten",59.40556,10.473643
+2241144,"Steinsnesveien 20, Horten",59.405423,10.473108
+2241145,"Steinsnesveien 25, Horten",59.405735,10.473316
+2241146,"Steinsnesveien 23, Horten",59.405756,10.47381
+2241148,"Steinsnesveien 17D, Horten",59.40505,10.4751
+2241150,"Steinsnesveien 17C, Horten",59.404997,10.475028
+2241152,"Steinsnesveien 19, Horten",59.405378,10.473846
+2241153,"Steinsnesveien 16, Horten",59.404718,10.47424
+2241161,"Halvdan Svartes gate 1B, Horten",59.404697,10.476899
+2241162,"Halvdan Svartes gate 2A, Horten",59.405198,10.477925
+2241163,"Halvdan Svartes gate 1A, Horten",59.40483,10.477028
+2241165,"Halvdan Svartes gate 2D, Horten",59.404297,10.477375
+2241166,"Halvdan Svartes gate 3, Horten",59.404483,10.476767
+2241167,"Halvdan Svartes gate 2B, Horten",59.404894,10.477718
+2241168,"Halvdan Svartes gate 2C, Horten",59.4046,10.477565
+2241169,"Halvdan Svartes gate 7, Horten",59.404056,10.476396
+2241170,"Halvdan Svartes gate 8, Horten",59.403655,10.476942
+2241171,"Halvdan Svartes gate 4, Horten",59.404065,10.477207
+2241172,"Halvdan Svartes gate 5, Horten",59.404314,10.476636
+2242887,"Tollbugata 1, Horten",59.414217,10.489452
+2459284,"Nordre Enggate 13C, Horten",59.414867,10.482586
+2459313,"Nordre Enggate 13A, Horten",59.414821,10.48261
+2459314,"Nordre Enggate 13B, Horten",59.414841,10.482603
+2459315,"Nordre Enggate 13D, Horten",59.414907,10.482584
+2467685,"Strandparken 64B, Horten",59.405212,10.485035
+2488454,"Rustadbrygga 5, Horten",59.412284,10.488681
+2490449,"Moloveien 18, Horten",59.415719,10.491979
+2490662,"Moloveien 11, Horten",59.415946,10.494007
+2546113,"Vognmannsgata 8A, Horten",59.416214,10.48364
+2546114,"Vognmannsgata 8B, Horten",59.416116,10.483814
+2546117,"Apotekergata 18, Horten",59.416166,10.483876

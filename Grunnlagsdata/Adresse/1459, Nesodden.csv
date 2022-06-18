@@ -1,0 +1,2282 @@
+,Navn,Long,Lat
+12668,"9/159, Nesodden",59.814275,10.699623
+12676,"Loftu, 13/1, Nesodden",59.792544,10.700727
+12694,"6/116, Skoklefall",59.828818,10.689678
+12697,"1/451, Skoklefall",59.836764,10.693382
+12703,"10/99, Nesodden",59.80224,10.663056
+12704,"9/47, Nesodden",59.811248,10.682887
+12705,"10/86, Nesodden",59.800398,10.678668
+12712,"5/145, Skoklefall",59.845346,10.686714
+12721,"19/4, Nesodden",59.768214,10.656306
+12725,"7/134, Skoklefall",59.822351,10.693917
+12727,"6/123, Skoklefall",59.830616,10.685398
+12728,"6/285, Skoklefall",59.825586,10.688926
+12729,"1/928, Skoklefall",59.833401,10.683184
+41386,"1/1000, Skoklefall",59.832455,10.689341
+44774,"6/152, Skoklefall",59.829474,10.682725
+44857,"1/152, Skoklefall",59.837656,10.686432
+45539,"1/639, Skoklefall",59.844294,10.68921
+51002,"Krange Nordre, 15/1, Nesodden",59.782015,10.68838
+54670,"6/95, Skoklefall",59.82978,10.686037
+55459,"15/64, Nesodden",59.776918,10.705771
+731624,"Birkeveien 9, Skoklefall",59.843568,10.681769
+731625,"Hellvikveien 202, Skoklefall",59.844705,10.691929
+736378,"Eikåsveien 9, Skoklefall",59.831504,10.678449
+736379,"Gamle Hellvikvei 67B, Skoklefall",59.839974,10.687531
+736380,"Eikåsveien 11, Skoklefall",59.83135,10.678513
+736382,"Eikåsveien 13, Skoklefall",59.831188,10.678558
+736384,"Eikåsveien 25, Skoklefall",59.831786,10.679552
+736385,"Kirkeveien 46, Nesodden",59.804745,10.68288
+736386,"Eikåsveien 3, Skoklefall",59.831936,10.679078
+736388,"Eikåsveien 5, Skoklefall",59.831888,10.678688
+736389,"Fundingrudveien 63, Nesodden",59.775166,10.679663
+736390,"Eikåsveien 7, Skoklefall",59.831657,10.678421
+736392,"Jøtulsvingen 22, Skoklefall",59.839903,10.684636
+736393,"Gamle Hellvikvei 67A, Skoklefall",59.839949,10.687405
+736395,"Glenneveien 76, Nesodden",59.788673,10.701368
+736396,"Flateby Skogsvei 42, Skoklefall",59.829013,10.691972
+736398,"Flateby Skogsvei 44, Skoklefall",59.828902,10.692234
+736399,"Bergersletta 165, Skoklefall",59.833186,10.675394
+736400,"Eikåsveien 1, Skoklefall",59.831985,10.67949
+736403,"Solbergveien 65, Nesodden",59.822089,10.689837
+741289,"Asgerds vei 55, Skoklefall",59.825581,10.687971
+741290,"Asgerds vei 57, Skoklefall",59.825227,10.687463
+741293,"Asgerds vei 48, Skoklefall",59.826178,10.688278
+741294,"Asgerds vei 49, Skoklefall",59.826106,10.687579
+741295,"Asgerds vei 51, Skoklefall",59.825786,10.687313
+741296,"Asgerds vei 54, Skoklefall",59.825499,10.688689
+741297,"Asgerds vei 37, Skoklefall",59.826702,10.686663
+741298,"Asgerds vei 41, Skoklefall",59.826522,10.686654
+741299,"Asgerds vei 45, Skoklefall",59.826223,10.686871
+741300,"Asgerds vei 46, Skoklefall",59.826357,10.68834
+741301,"Asgerds vei 26, Skoklefall",59.827941,10.687332
+741302,"Asgerds vei 28, Skoklefall",59.827703,10.687677
+741303,"Asgerds vei 33, Skoklefall",59.827088,10.68679
+741304,"Asgerds vei 34, Skoklefall",59.827253,10.687761
+741305,"Asgerds vei 21A, Skoklefall",59.828178,10.686381
+741306,"Asgerds vei 21B, Skoklefall",59.828292,10.68672
+741307,"Asgerds vei 22, Skoklefall",59.828224,10.688417
+741308,"Asgerds vei 25, Skoklefall",59.827796,10.686736
+741309,"Asgerds vei 16, Skoklefall",59.828757,10.688159
+741310,"Asgerds vei 18, Skoklefall",59.828423,10.687607
+741311,"Asgerds vei 19, Skoklefall",59.828575,10.686918
+741312,"Asgerds vei 20, Skoklefall",59.828468,10.688251
+741313,"Asgerds vei 9, Skoklefall",59.829524,10.686467
+741314,"Asgerds vei 11, Skoklefall",59.829057,10.686479
+741315,"Asgerds vei 12, Skoklefall",59.828969,10.687741
+741316,"Asgerds vei 13, Skoklefall",59.828925,10.687008
+741318,"Asgerds vei 4, Skoklefall",59.829803,10.687855
+741319,"Asgerds vei 7, Skoklefall",59.82958,10.687023
+741320,"Asgerds vei 8, Skoklefall",59.82931,10.687741
+741413,"Alex Olssons vei 33, Skoklefall",59.839139,10.681626
+741417,"Alex Olssons vei 23, Skoklefall",59.839983,10.681232
+741418,"Alex Olssons vei 25, Skoklefall",59.839774,10.681364
+741419,"Alex Olssons vei 29, Skoklefall",59.839594,10.681462
+741420,"Alex Olssons vei 32, Skoklefall",59.839243,10.682194
+741421,"Alex Olssons vei 14, Skoklefall",59.8408,10.681898
+741422,"Alex Olssons vei 16, Skoklefall",59.840648,10.681908
+741423,"Alex Olssons vei 18, Skoklefall",59.840486,10.6819
+741424,"Alex Olssons vei 19, Skoklefall",59.840209,10.681118
+741425,"Alex Olssons vei 8, Skoklefall",59.841358,10.681819
+741426,"Alex Olssons vei 10, Skoklefall",59.84117,10.681827
+741427,"Alex Olssons vei 12, Skoklefall",59.84098,10.681907
+741428,"Alex Olssons vei 13, Skoklefall",59.840805,10.680827
+741429,"Alex Olssons vei 6, Skoklefall",59.84152,10.681791
+741433,"Alex Olssons vei 2, Skoklefall",59.842159,10.681734
+741456,"Baltsrudveien 7, Nesodden",59.80383,10.665898
+741457,"Baltsrudveien 6, Nesodden",59.803883,10.665241
+741458,"Rudstrandveien 14, Nesodden",59.802959,10.704262
+741459,"Rudstrandveien 20, Nesodden",59.798306,10.703106
+741460,"Røer gård, Røerveien 189, Nesodden",59.813577,10.677013
+741461,"Baltsrudveien 110, Nesodden",59.808081,10.653577
+741462,"Røerveien 191, Nesodden",59.811936,10.678232
+741463,"Baltsrudveien 21, Nesodden",59.805092,10.666247
+741465,"Harekroken 8B, Skoklefall",59.844776,10.686328
+741513,"Hakkespettlia 24, Skoklefall",59.835865,10.689286
+741514,"Hakkespettlia 26, Skoklefall",59.836079,10.689386
+741515,"Hakkespettlia 27, Skoklefall",59.836335,10.689042
+741517,"Hakkespettlia 16, Skoklefall",59.835053,10.68887
+741518,"Hakkespettlia 18, Skoklefall",59.835182,10.689305
+741519,"Hakkespettlia 20, Skoklefall",59.83542,10.688942
+741520,"Hakkespettlia 22, Skoklefall",59.835616,10.689095
+741521,"Hakkespettlia 11, Skoklefall",59.834631,10.688135
+741522,"Hakkespettlia 13, Skoklefall",59.834598,10.688651
+741523,"Hakkespettlia 14, Skoklefall",59.834852,10.689092
+741524,"Hakkespettlia 15, Skoklefall",59.834871,10.688361
+741525,"Hakkespettlia 5, Skoklefall",59.833959,10.688707
+741526,"Hakkespettlia 7, Skoklefall",59.834318,10.688726
+741527,"Hakkespettlia 8, Skoklefall",59.834386,10.689568
+741528,"Hakkespettlia 9, Skoklefall",59.834271,10.688241
+741529,"Furubakken 5, Skoklefall",59.839748,10.686966
+741530,"Furubakken 11, Skoklefall",59.840651,10.686566
+741531,"Furubakken 13, Skoklefall",59.841056,10.686497
+741532,"Furubakken 15, Skoklefall",59.841394,10.686086
+741535,"Furubakken 1, Skoklefall",59.839051,10.687324
+741536,"Furubakken 3, Skoklefall",59.839277,10.68721
+741541,"Solstubben 26, Skoklefall",59.837904,10.686445
+741542,"Solstubben 27, Skoklefall",59.838535,10.685566
+741543,"Solstubben 31, Skoklefall",59.838065,10.685846
+741545,"Solstubben 22, Skoklefall",59.837784,10.68742
+741546,"Solstubben 23, Skoklefall",59.838673,10.686037
+741547,"Solstubben 24, Skoklefall",59.837898,10.686908
+741548,"Solstubben 25, Skoklefall",59.838796,10.685562
+741549,"Solstubben 18, Skoklefall",59.83821,10.687103
+741550,"Solstubben 19, Skoklefall",59.83904,10.686145
+741551,"Solstubben 20, Skoklefall",59.838115,10.68749
+741552,"Solstubben 21, Skoklefall",59.838457,10.68608
+741553,"Solstubben 14, Skoklefall",59.838423,10.687274
+741554,"Solstubben 15, Skoklefall",59.839546,10.685867
+741555,"Solstubben 16, Skoklefall",59.838189,10.686673
+741556,"Solstubben 17, Skoklefall",59.839249,10.685942
+741557,"Solstubben 9, Skoklefall",59.840402,10.685697
+741558,"Solstubben 10, Skoklefall",59.838591,10.686836
+741559,"Solstubben 11, Skoklefall",59.840131,10.68579
+741560,"Solstubben 12, Skoklefall",59.838622,10.687195
+741561,"Solstubben 6, Skoklefall",59.839068,10.686718
+741562,"Solstubben 7, Skoklefall",59.840592,10.685528
+741563,"Solstubben 8, Skoklefall",59.838869,10.686815
+741564,"Solstubben 1, Skoklefall",59.840062,10.686286
+741565,"Solstubben 2, Skoklefall",59.839574,10.686493
+741566,"Solstubben 3, Skoklefall",59.840324,10.686174
+741567,"Solstubben 4, Skoklefall",59.839385,10.686555
+741568,"Jøtulsvingen 15, Skoklefall",59.839627,10.685176
+741569,"Jøtulsvingen 17, Skoklefall",59.839832,10.685275
+741570,"Jøtulsvingen 19, Skoklefall",59.840085,10.685163
+741571,"Jøtulsvingen 21, Skoklefall",59.840273,10.68519
+741574,"Jøtulsvingen 11, Skoklefall",59.839058,10.685432
+741575,"Jøtulsvingen 13, Skoklefall",59.83931,10.685391
+741595,"Bjerkerudveien 59, Nesodden",59.801825,10.680166
+741596,"Bjerkerudveien 63, Nesodden",59.802162,10.680504
+741597,"Bjerkerudveien 71, Nesodden",59.802625,10.680812
+741599,"Bjerkerudveien 43, Nesodden",59.803343,10.678745
+741600,"Bjerkerudveien 45, Nesodden",59.802999,10.6783
+741601,"Bjerkerudveien 55, Nesodden",59.802086,10.679412
+741602,"Bjerkerudveien 57, Nesodden",59.801827,10.679292
+741603,"Bjerkerudveien 15, Nesodden",59.803802,10.678679
+741604,"Bjerkerudveien 31, Nesodden",59.803604,10.676583
+741605,"Bjerkerudveien 37, Nesodden",59.803152,10.676881
+741606,"Bjerkerudveien 41, Nesodden",59.803197,10.67822
+741656,"Hilda Magnussens vei 17B, Skoklefall",59.830894,10.682593
+741657,"Hilda Magnussens vei 17C, Skoklefall",59.830822,10.68259
+741660,"Hilda Magnussens vei 16B, Skoklefall",59.830716,10.683191
+741661,"Hilda Magnussens vei 16C, Skoklefall",59.8307,10.683047
+741662,"Hilda Magnussens vei 16D, Skoklefall",59.830683,10.682922
+741663,"Hilda Magnussens vei 17A, Skoklefall",59.830966,10.682579
+741664,"Hilda Magnussens vei 15B, Skoklefall",59.831227,10.682539
+741665,"Hilda Magnussens vei 15C, Skoklefall",59.831146,10.682552
+741666,"Hilda Magnussens vei 15D, Skoklefall",59.831083,10.682549
+741667,"Hilda Magnussens vei 16A, Skoklefall",59.830723,10.683352
+741668,"Hilda Magnussens vei 14B, Skoklefall",59.830923,10.68313
+741669,"Hilda Magnussens vei 14C, Skoklefall",59.831041,10.683065
+741670,"Hilda Magnussens vei 14D, Skoklefall",59.83095,10.683167
+741671,"Hilda Magnussens vei 15A, Skoklefall",59.831299,10.682525
+741672,"Hilda Magnussens vei 13B, Skoklefall",59.831598,10.68229
+741673,"Hilda Magnussens vei 13C, Skoklefall",59.831606,10.682433
+741674,"Hilda Magnussens vei 13D, Skoklefall",59.831613,10.682558
+741675,"Hilda Magnussens vei 14A, Skoklefall",59.831059,10.683012
+741676,"Hilda Magnussens vei 12B, Skoklefall",59.831167,10.683
+741677,"Hilda Magnussens vei 12C, Skoklefall",59.831293,10.683024
+741678,"Hilda Magnussens vei 12D, Skoklefall",59.831203,10.683037
+741679,"Hilda Magnussens vei 13A, Skoklefall",59.831591,10.682147
+741680,"Hilda Magnussens vei 11A, Skoklefall",59.831889,10.682019
+741681,"Hilda Magnussens vei 11B, Skoklefall",59.831826,10.682052
+741682,"Hilda Magnussens vei 11C, Skoklefall",59.831763,10.682048
+741683,"Hilda Magnussens vei 12A, Skoklefall",59.83132,10.682972
+741684,"Hilda Magnussens vei 9C, Skoklefall",59.832079,10.681904
+741685,"Hilda Magnussens vei 10A, Skoklefall",59.831297,10.683363
+741686,"Hilda Magnussens vei 10B, Skoklefall",59.831208,10.683358
+741687,"Hilda Magnussens vei 10C, Skoklefall",59.831117,10.68339
+741688,"Hilda Magnussens vei 8B, Skoklefall",59.831714,10.683081
+741689,"Hilda Magnussens vei 8C, Skoklefall",59.831698,10.682955
+741690,"Hilda Magnussens vei 9A, Skoklefall",59.832074,10.681654
+741691,"Hilda Magnussens vei 9B, Skoklefall",59.832081,10.681779
+741694,"Bergersletta 163, Skoklefall",59.833091,10.675853
+741799,"Hilda Magnussens vei 7B, Skoklefall",59.832177,10.681284
+741800,"Hilda Magnussens vei 8A, Skoklefall",59.831721,10.683206
+741801,"Hilda Magnussens vei 5B, Skoklefall",59.832315,10.681737
+741803,"Hilda Magnussens vei 6A, Skoklefall",59.832037,10.683079
+741804,"Hilda Magnussens vei 6B, Skoklefall",59.831956,10.683129
+741805,"Hilda Magnussens vei 7A, Skoklefall",59.83224,10.681287
+741806,"Hilda Magnussens vei 3A, Skoklefall",59.831999,10.682578
+741807,"Hilda Magnussens vei 3B, Skoklefall",59.831945,10.682593
+741808,"Hilda Magnussens vei 3C, Skoklefall",59.831882,10.68259
+741809,"Hilda Magnussens vei 5A, Skoklefall",59.832349,10.6819
+741813,"Hilda Magnussens vei 2, Skoklefall",59.831986,10.68363
+741882,"Blylagveien 80, Nesodden",59.77817,10.700993
+741894,"Solliaveien 38, Nesodden",59.813099,10.694018
+741895,"Solliaveien 44, Nesodden",59.812647,10.693513
+741896,"Solliaveien 48, Nesodden",59.812437,10.693146
+741897,"Solliaveien 50, Nesodden",59.812098,10.692915
+741898,"Vesleskauen 18, Skoklefall",59.835557,10.690912
+741899,"Solliaveien 11, Nesodden",59.812038,10.691307
+741900,"Solliaveien 25, Nesodden",59.813037,10.692517
+741901,"Solliaveien 29, Nesodden",59.813206,10.692704
+741902,"Vesleskauen 10, Skoklefall",59.83483,10.691535
+741903,"Vesleskauen 13, Skoklefall",59.835184,10.691981
+741904,"Vesleskauen 14, Skoklefall",59.83513,10.691229
+741905,"Vesleskauen 17, Skoklefall",59.835528,10.691767
+741906,"Hellvikstrand 64, Skoklefall",59.838197,10.694383
+741907,"Hellvikstrand 65, Skoklefall",59.837646,10.693962
+741908,"Hellvikstrand 66, Skoklefall",59.837797,10.694791
+741909,"Vesleskauen 7, Skoklefall",59.834838,10.692303
+741910,"Hellvikstrand 54, Skoklefall",59.839154,10.694039
+741911,"Hellvikstrand 58, Skoklefall",59.838648,10.694299
+741912,"Hellvikstrand 61, Skoklefall",59.838088,10.693806
+741913,"Hellvikstrand 62, Skoklefall",59.838367,10.694463
+741914,"Hellvikstrand 38, Skoklefall",59.840456,10.694034
+741915,"Hellvikstrand 40, Skoklefall",59.839925,10.694149
+741916,"Hellvikstrand 47, Skoklefall",59.83953,10.693433
+741917,"Hellvikstrand 52, Skoklefall",59.839469,10.694001
+741918,"Hellvikstrand 23, Skoklefall",59.84225,10.692161
+741919,"Hellvikstrand 24, Skoklefall",59.841977,10.693147
+741920,"Hellvikstrand 25, Skoklefall",59.842478,10.691887
+741921,"Hellvikstrand 34, Skoklefall",59.840716,10.694065
+741922,"Whistbakken 31, Skoklefall",59.819529,10.69479
+741923,"Whistbakken 36, Skoklefall",59.819456,10.694127
+741924,"Whistbakken 42, Skoklefall",59.81951,10.693469
+741925,"Whistbakken 45, Skoklefall",59.820377,10.693103
+741926,"Whistbakken 12, Skoklefall",59.819757,10.697263
+741927,"Whistbakken 13, Skoklefall",59.820577,10.697768
+741928,"Whistbakken 20, Skoklefall",59.819367,10.696155
+741929,"Whistbakken 28, Skoklefall",59.819446,10.695606
+741930,"Søndre Solbergvei 31, Nesodden",59.820863,10.688098
+741931,"Søndre Solbergvei 35, Nesodden",59.820771,10.688967
+741932,"Søndre Solbergvei 59, Nesodden",59.819934,10.691886
+741933,"Whistbakken 11, Skoklefall",59.820312,10.698094
+741935,"Søndre Solbergvei 7, Nesodden",59.820982,10.683734
+741936,"Søndre Solbergvei 21, Nesodden",59.820332,10.686091
+741937,"Søndre Solbergvei 23, Nesodden",59.820858,10.686403
+741982,"Haukåsen 15, Skoklefall",59.838545,10.690421
+741983,"Haukåsen 17, Skoklefall",59.838302,10.690426
+741984,"Haukåsen 19, Skoklefall",59.838069,10.690361
+741985,"Haukåsen 21, Skoklefall",59.83779,10.690472
+741986,"Haukåsen 2, Skoklefall",59.839758,10.69034
+741987,"Haukåsen 3, Skoklefall",59.839465,10.690111
+741988,"Haukåsen 7, Skoklefall",59.839211,10.690294
+741989,"Haukåsen 11, Skoklefall",59.838913,10.690386
+741990,"Stokkandveien 8, Skoklefall",59.836312,10.690807
+741991,"Stokkandveien 9, Skoklefall",59.836186,10.690176
+741992,"Stokkandveien 10, Skoklefall",59.83614,10.690924
+741993,"Stokkandveien 11, Skoklefall",59.83602,10.690507
+741994,"Stokkandveien 4, Skoklefall",59.836809,10.690636
+741995,"Stokkandveien 5, Skoklefall",59.836563,10.690195
+741996,"Stokkandveien 6, Skoklefall",59.836538,10.690694
+741997,"Stokkandveien 7, Skoklefall",59.836418,10.690242
+741999,"Stokkandveien 1, Skoklefall",59.837381,10.69013
+742000,"Stokkandveien 2, Skoklefall",59.837008,10.690468
+742001,"Stokkandveien 3, Skoklefall",59.837069,10.689953
+742049,"Blylagveien 81, Nesodden",59.778037,10.700149
+742051,"Hellvikstrand 21, Skoklefall",59.842075,10.69176
+742052,"Hellvikstrand 22, Skoklefall",59.842341,10.692755
+742053,"Hellvikstrand 16, Skoklefall",59.842578,10.692464
+742054,"Hellvikstrand 18, Skoklefall",59.84299,10.691896
+742055,"Hellvikstrand 19, Skoklefall",59.842275,10.691574
+742056,"Hellvikstrand 20, Skoklefall",59.842516,10.693139
+742057,"Hellvikstrand 4, Skoklefall",59.844136,10.691418
+742058,"Hellvikstrand 12, Skoklefall",59.842938,10.692428
+742059,"Hellvikstrand 14, Skoklefall",59.842746,10.692651
+742060,"Hellvikstrand 15, Skoklefall",59.842836,10.691227
+742064,"Hellvikstrand 2, Skoklefall",59.84443,10.691594
+742111,"Blylagveien 89, Nesodden",59.777118,10.7011
+742186,"Bergerveien 86, Skoklefall",59.833905,10.695699
+742187,"Bergerveien 89, Skoklefall",59.833217,10.69545
+742188,"Bergerveien 96, Skoklefall",59.832514,10.695611
+742190,"Bergerveien 76, Skoklefall",59.834023,10.694242
+742191,"Bergerveien 77, Skoklefall",59.833824,10.695035
+742192,"Bergerveien 78, Skoklefall",59.834398,10.694386
+742193,"Bergerveien 80, Skoklefall",59.834559,10.695839
+742194,"Bergerveien 65, Skoklefall",59.832257,10.691869
+742195,"Bergerveien 67, Skoklefall",59.83224,10.693902
+742196,"Bergerveien 71, Skoklefall",59.832533,10.694844
+742197,"Bergerveien 73, Skoklefall",59.833085,10.694533
+742198,"Bergerveien 57, Skoklefall",59.833291,10.69317
+742199,"Bergerveien 59, Skoklefall",59.832982,10.693493
+742200,"Bergerveien 61, Skoklefall",59.83266,10.69337
+742201,"Bergerveien 63, Skoklefall",59.832439,10.692413
+742202,"Vesleskauen 3, Skoklefall",59.834476,10.693219
+742203,"Bergerveien 49, Skoklefall",59.833721,10.693263
+742204,"Bergerveien 52, Skoklefall",59.834469,10.693801
+742205,"Bergerveien 55, Skoklefall",59.833494,10.69343
+742206,"Bergerveien 31, Skoklefall",59.832642,10.691281
+742207,"Bergerveien 35, Skoklefall",59.832833,10.691808
+742208,"Bergerveien 37, Skoklefall",59.832594,10.692171
+742209,"Bergerveien 41, Skoklefall",59.832998,10.692192
+742210,"Bergerveien 20, Skoklefall",59.833513,10.689862
+742211,"Bergerveien 26, Skoklefall",59.832954,10.690819
+742212,"Bergerveien 27, Skoklefall",59.832698,10.690428
+742213,"Bergerveien 28, Skoklefall",59.833197,10.690685
+742214,"Bergerveien 3, Skoklefall",59.83367,10.687444
+742215,"Bergerveien 6, Skoklefall",59.833993,10.688138
+742216,"Bergerveien 13, Skoklefall",59.83333,10.688765
+742217,"Bergerveien 19, Skoklefall",59.833168,10.689488
+742218,"Bergerstien 11, Skoklefall",59.834206,10.691878
+742219,"Bergerstien 14, Skoklefall",59.834419,10.69064
+742220,"Bergerstien 15, Skoklefall",59.834495,10.69175
+742221,"Bergerstien 18, Skoklefall",59.834906,10.690486
+742222,"Bergerstien 4, Skoklefall",59.833503,10.691379
+742223,"Bergerstien 7, Skoklefall",59.833792,10.691929
+742224,"Bergerstien 8, Skoklefall",59.833803,10.69109
+742225,"Bergerstien 10, Skoklefall",59.834164,10.690913
+742229,"Bergerstien 1, Skoklefall",59.833468,10.692001
+742262,"Solstua terrasse 13, Skoklefall",59.842515,10.69039
+742263,"Solstua terrasse 15, Skoklefall",59.842669,10.690255
+742264,"Solstua terrasse 17, Skoklefall",59.842789,10.690047
+742266,"Solstua terrasse 9, Skoklefall",59.842242,10.690626
+742267,"Solstua terrasse 10, Skoklefall",59.842612,10.689788
+742268,"Solstua terrasse 11, Skoklefall",59.842387,10.690526
+742269,"Solstua terrasse 12, Skoklefall",59.841999,10.690007
+742270,"Solstua terrasse 5, Skoklefall",59.841961,10.690844
+742271,"Solstua terrasse 6, Skoklefall",59.842103,10.689566
+742272,"Solstua terrasse 7, Skoklefall",59.842055,10.690563
+742273,"Solstua terrasse 8, Skoklefall",59.842362,10.689704
+742274,"Solstua terrasse 1, Skoklefall",59.841669,10.690508
+742275,"Solstua terrasse 2, Skoklefall",59.841661,10.68974
+742276,"Solstua terrasse 3, Skoklefall",59.841779,10.691031
+742277,"Solstua terrasse 4, Skoklefall",59.841887,10.689662
+742397,"Birkeveien 47, Skoklefall",59.846677,10.681712
+742401,"Birkeveien 39, Skoklefall",59.845958,10.681015
+742402,"Birkeveien 42, Skoklefall",59.846163,10.680437
+742403,"Birkeveien 43, Skoklefall",59.846216,10.681225
+742404,"Birkeveien 46, Skoklefall",59.846685,10.680374
+742405,"Birkeveien 32, Skoklefall",59.845388,10.68063
+742406,"Birkeveien 33, Skoklefall",59.8453,10.681232
+742407,"Birkeveien 35, Skoklefall",59.845748,10.681255
+742408,"Birkeveien 36, Skoklefall",59.845811,10.680544
+742409,"Birkeveien 28, Skoklefall",59.84501,10.6807
+742410,"Birkeveien 29A, Skoklefall",59.844481,10.681351
+742411,"Birkeveien 29B, Skoklefall",59.844778,10.681313
+742412,"Birkeveien 31, Skoklefall",59.845,10.681485
+742413,"Birkeveien 19, Skoklefall",59.84423,10.681321
+742414,"Birkeveien 22, Skoklefall",59.844337,10.680684
+742415,"Birkeveien 25, Skoklefall",59.844857,10.682138
+742416,"Birkeveien 27, Skoklefall",59.844835,10.681762
+742417,"Birkeveien 15, Skoklefall",59.843767,10.681672
+742418,"Birkeveien 16A, Skoklefall",59.843643,10.680167
+742419,"Birkeveien 16B, Skoklefall",59.843903,10.680162
+742420,"Birkeveien 18, Skoklefall",59.844014,10.68065
+742421,"Birkeveien 7A, Skoklefall",59.843259,10.682093
+742422,"Birkeveien 10, Skoklefall",59.843127,10.680498
+742423,"Birkeveien 14A, Skoklefall",59.843398,10.680351
+742424,"Birkeveien 14B, Skoklefall",59.843271,10.680105
+742425,"Birkeveien 3B, Skoklefall",59.843096,10.682852
+742426,"Birkeveien 4, Skoklefall",59.842868,10.681038
+742427,"Birkeveien 5, Skoklefall",59.843424,10.682494
+742428,"Birkeveien 6, Skoklefall",59.843005,10.680902
+742429,"Birkeveien 1, Skoklefall",59.84275,10.682585
+742430,"Birkeveien 2A, Skoklefall",59.842623,10.681972
+742431,"Birkeveien 3A, Skoklefall",59.843101,10.68246
+742460,"Blylagveien 90, Nesodden",59.778869,10.701777
+742573,"Blylagveien 99, Nesodden",59.777638,10.702534
+742574,"Blylagveien 103, Nesodden",59.77743,10.70336
+742575,"Blylagveien 108, Nesodden",59.778433,10.704231
+742576,"Blylagveien 110, Nesodden",59.778498,10.704769
+742577,"Blylagveien 61, Nesodden",59.777374,10.700044
+742578,"Blylagveien 70, Nesodden",59.779248,10.700282
+742579,"Blylagveien 74, Nesodden",59.778909,10.700051
+742580,"Blylagveien 76, Nesodden",59.778908,10.700853
+742581,"Blylagveien 49, Nesodden",59.77757,10.698718
+742582,"Blylagveien 50, Nesodden",59.777983,10.698045
+742583,"Blylagveien 54, Nesodden",59.778271,10.699449
+742584,"Blylagveien 58, Nesodden",59.777812,10.699497
+742585,"Blylagveien 25, Nesodden",59.777457,10.693618
+742586,"Blylagveien 36, Nesodden",59.778001,10.69671
+742587,"Blylagveien 40, Nesodden",59.777227,10.6961
+742588,"Blylagveien 48, Nesodden",59.777749,10.697374
+742608,"Ekornveien 24, Skoklefall",59.836443,10.69465
+742609,"Ekornveien 27, Skoklefall",59.83696,10.694955
+742611,"Ekornveien 12, Skoklefall",59.83576,10.693956
+742612,"Ekornveien 15, Skoklefall",59.835737,10.695007
+742613,"Ekornveien 16, Skoklefall",59.836093,10.694633
+742614,"Ekornveien 19, Skoklefall",59.835974,10.695483
+742615,"Ekornveien 7, Skoklefall",59.834986,10.694808
+742616,"Ekornveien 9, Skoklefall",59.835284,10.694627
+742617,"Ekornveien 10, Skoklefall",59.835186,10.693891
+742618,"Ekornveien 11, Skoklefall",59.835524,10.694836
+742620,"Ekornveien 3, Skoklefall",59.83501,10.69572
+742621,"Ekornveien 4, Skoklefall",59.83472,10.694492
+742622,"Ekornveien 5, Skoklefall",59.835261,10.695732
+742769,"Blylagveien 149, Nesodden",59.778752,10.709449
+742770,"Blylagveien 156, Nesodden",59.779179,10.709025
+742773,"Blylagveien 127, Nesodden",59.777203,10.70627
+742774,"Blylagveien 131, Nesodden",59.777232,10.707501
+742775,"Blylagveien 135, Nesodden",59.777577,10.708623
+742776,"Blylagveien 147, Nesodden",59.778396,10.709181
+742777,"Blylagveien 112, Nesodden",59.778264,10.704775
+742778,"Blylagveien 118, Nesodden",59.777572,10.705541
+742779,"Blylagveien 121, Nesodden",59.776785,10.705666
+742780,"Blylagveien 124, Nesodden",59.777939,10.706343
+742852,"Bomansvikveien 61, Nesodden",59.791324,10.704764
+742855,"Bomansvikveien 50, Nesodden",59.792907,10.703205
+742856,"Bomansvikveien 52, Nesodden",59.792921,10.703455
+742857,"Bomansvikveien 54, Nesodden",59.792634,10.704171
+742858,"Bomansvikveien 57, Nesodden",59.791576,10.704723
+742859,"Bomansvikveien 44, Nesodden",59.793423,10.702875
+742860,"Bomansvikveien 46, Nesodden",59.793628,10.702957
+742861,"Bomansvikveien 48, Nesodden",59.793282,10.703349
+742865,"Bomansvikveien 41, Nesodden",59.792591,10.702619
+742879,"Bomansvikveien 42, Nesodden",59.792902,10.702496
+742988,"Chr Bjønnes vei 16, Skoklefall",59.843138,10.68521
+742989,"Chr Bjønnes vei 17, Skoklefall",59.842506,10.685499
+742992,"Chr Bjønnes vei 5, Skoklefall",59.841419,10.68407
+742993,"Chr Bjønnes vei 8, Skoklefall",59.842297,10.684275
+742994,"Chr Bjønnes vei 9, Skoklefall",59.842081,10.684978
+742995,"Chr Bjønnes vei 12, Skoklefall",59.842842,10.684481
+742998,"Chr Bjønnes vei 3, Skoklefall",59.841612,10.683741
+742999,"Chr Bjønnes vei 4, Skoklefall",59.842294,10.683811
+743026,"Bøkeveien 19, Nesodden",59.776476,10.704202
+743030,"Bøkeveien 9, Nesodden",59.777102,10.703682
+743031,"Bøkeveien 10, Nesodden",59.776964,10.704637
+743032,"Bøkeveien 12, Nesodden",59.777028,10.70521
+743033,"Bøkeveien 15, Nesodden",59.776797,10.703649
+743035,"Bøkeveien 5, Nesodden",59.777648,10.703799
+743036,"Bøkeveien 6, Nesodden",59.777344,10.704425
+743038,"Bøkeveien 8, Nesodden",59.777571,10.7049
+743079,"Sjølies vei 27B, Skoklefall",59.82794,10.684259
+743080,"Enerhøgdveien 27, Skoklefall",59.827594,10.683604
+743081,"Enerhøgdveien 31, Skoklefall",59.827373,10.683308
+743082,"Enerhøgdveien 30, Skoklefall",59.827447,10.684542
+743083,"Enerhøgdveien 15, Skoklefall",59.828726,10.683554
+743084,"Enerhøgdveien 16, Skoklefall",59.828593,10.684101
+743085,"Enerhøgdveien 19, Skoklefall",59.828358,10.682876
+743086,"Enerhøgdveien 21, Skoklefall",59.828001,10.683339
+743087,"Enerhøgdveien 7, Skoklefall",59.829462,10.682931
+743088,"Enerhøgdveien 8, Skoklefall",59.829446,10.684162
+743089,"Enerhøgdveien 11, Skoklefall",59.828795,10.683094
+743090,"Enerhøgdveien 13B, Skoklefall",59.828986,10.683585
+743093,"Enerhøgdveien 1, Skoklefall",59.829961,10.683224
+743094,"Enerhøgdveien 2, Skoklefall",59.829979,10.683885
+743142,"Flateby Skogsvei 46, Skoklefall",59.829132,10.692531
+743146,"Flateby Skogsvei 36, Skoklefall",59.828475,10.691926
+743147,"Flateby Skogsvei 37, Skoklefall",59.828097,10.69271
+743148,"Flateby Skogsvei 41, Skoklefall",59.828301,10.692934
+743149,"Flateby Skogsvei 20, Skoklefall",59.826945,10.690761
+743150,"Flateby Skogsvei 21, Skoklefall",59.826657,10.691213
+743151,"Flateby Skogsvei 25, Skoklefall",59.827149,10.691716
+743152,"Flateby Skogsvei 28, Skoklefall",59.827598,10.69117
+743154,"Flateby Skogsvei 7, Skoklefall",59.826412,10.688968
+743155,"Flateby Skogsvei 8, Skoklefall",59.826951,10.688783
+743156,"Flateby Skogsvei 15, Skoklefall",59.826087,10.690432
+743228,"Evenstuveien 30, Skoklefall",59.83302,10.688446
+743229,"Evenstuveien 31C, Skoklefall",59.832632,10.689247
+743230,"Evenstuveien 35, Skoklefall",59.832848,10.6899
+743232,"Evenstuveien 21, Skoklefall",59.832209,10.685086
+743233,"Evenstuveien 23, Skoklefall",59.832442,10.685829
+743234,"Evenstuveien 25, Skoklefall",59.832349,10.687484
+743235,"Evenstuveien 29, Skoklefall",59.832533,10.688582
+743236,"Evenstuveien 13C, Skoklefall",59.833054,10.684326
+743237,"Evenstuveien 15, Skoklefall",59.832047,10.684418
+743238,"Evenstuveien 19, Skoklefall",59.831213,10.68434
+743239,"Evenstuveien 20, Skoklefall",59.83279,10.686721
+743240,"Evenstuveien 3, Skoklefall",59.833162,10.685063
+743241,"Evenstuveien 7, Skoklefall",59.832911,10.685015
+743242,"Evenstuveien 11, Skoklefall",59.832587,10.685016
+743243,"Evenstuveien 13B, Skoklefall",59.832772,10.684651
+743281,"Fjordstien 7, Skoklefall",59.826537,10.697358
+743285,"Fjordvangveien 107, Skoklefall",59.828302,10.696306
+743286,"Fjordvangveien 110, Skoklefall",59.829905,10.69596
+743287,"Fjordstien 3, Skoklefall",59.826107,10.697265
+743288,"Fjordvangveien 101, Skoklefall",59.829665,10.694377
+743289,"Fjordvangveien 102, Skoklefall",59.829863,10.695083
+743290,"Fjordvangveien 91, Skoklefall",59.829929,10.69341
+743291,"Fjordvangveien 93, Skoklefall",59.830133,10.693634
+743292,"Fjordvangveien 97, Skoklefall",59.829691,10.693736
+743293,"Fjordvangveien 100, Skoklefall",59.830059,10.694487
+743294,"Fjordvangveien 86, Skoklefall",59.831645,10.691962
+743295,"Fjordvangveien 87, Skoklefall",59.83063,10.693374
+743296,"Fjordvangveien 88, Skoklefall",59.831351,10.693161
+743297,"Fjordvangveien 81, Skoklefall",59.830718,10.692807
+743298,"Fjordvangveien 82, Skoklefall",59.832032,10.691875
+743299,"Fjordvangveien 83, Skoklefall",59.831209,10.692386
+743300,"Fjordvangveien 84, Skoklefall",59.831876,10.69217
+743301,"Fjordvangveien 73, Skoklefall",59.831029,10.69095
+743302,"Fjordvangveien 75, Skoklefall",59.831156,10.691581
+743303,"Fjordvangveien 77, Skoklefall",59.831196,10.691957
+743304,"Fjordvangveien 78, Skoklefall",59.832032,10.691215
+743305,"Fjordvangveien 67, Skoklefall",59.830453,10.690403
+743306,"Fjordvangveien 69, Skoklefall",59.830884,10.690407
+743307,"Fjordvangveien 70, Skoklefall",59.830912,10.688928
+743308,"Fjordvangveien 72, Skoklefall",59.831189,10.689691
+743310,"Fjordvangveien 105, Skoklefall",59.828974,10.695056
+743432,"Fjordvangveien 62, Skoklefall",59.830751,10.687457
+743433,"Fjordvangveien 63, Skoklefall",59.830644,10.690038
+743434,"Fjordvangveien 54, Skoklefall",59.830892,10.686964
+743435,"Fjordvangveien 56, Skoklefall",59.830566,10.687162
+743436,"Fjordvangveien 58, Skoklefall",59.830301,10.68681
+743437,"Fjordvangveien 61, Skoklefall",59.830799,10.689764
+743438,"Fjordvangveien 50, Skoklefall",59.831178,10.686408
+743439,"Fjordvangveien 51, Skoklefall",59.830165,10.688337
+743440,"Fjordvangveien 52A, Skoklefall",59.83133,10.687129
+743441,"Fjordvangveien 52B, Skoklefall",59.831174,10.687389
+743442,"Fjordvangveien 44, Skoklefall",59.830191,10.686269
+743443,"Fjordvangveien 46, Skoklefall",59.830785,10.686174
+743444,"Fjordvangveien 47, Skoklefall",59.829865,10.687198
+743445,"Fjordvangveien 49, Skoklefall",59.830152,10.687908
+743446,"Fjordvangveien 36, Skoklefall",59.830658,10.684936
+743447,"Fjordvangveien 40, Skoklefall",59.830638,10.685756
+743448,"Fjordvangveien 42, Skoklefall",59.830395,10.685797
+743449,"Fjordvangveien 43, Skoklefall",59.829798,10.686802
+743450,"Fjordvangveien 26, Skoklefall",59.830485,10.683001
+743451,"Fjordvangveien 29A, Skoklefall",59.829628,10.682667
+743452,"Fjordvangveien 30, Skoklefall",59.830393,10.68387
+743454,"Fjordvangveien 33, Skoklefall",59.829951,10.68476
+743455,"Fjordvangveien 13, Skoklefall",59.829066,10.679486
+743456,"Fjordvangveien 18, Skoklefall",59.830545,10.680417
+743457,"Fjordvangveien 22, Skoklefall",59.830648,10.682206
+743458,"Fjordvangveien 25, Skoklefall",59.830128,10.682787
+743459,"Fjordvangveien 4, Skoklefall",59.83029,10.679244
+743460,"Fjordvangveien 5, Skoklefall",59.82964,10.679533
+743461,"Fjordvangveien 9, Skoklefall",59.829912,10.679993
+743462,"Fjordvangveien 11, Skoklefall",59.829357,10.679875
+743467,"Fjordveien 101, Skoklefall",59.820011,10.695706
+743468,"Fjordveien 102, Skoklefall",59.821633,10.697376
+743471,"Fjordveien 92, Skoklefall",59.820978,10.696647
+743472,"Fjordveien 93, Skoklefall",59.820829,10.695659
+743473,"Fjordveien 96, Skoklefall",59.820479,10.696337
+743474,"Fjordveien 97, Skoklefall",59.820369,10.69576
+743475,"Fjordveien 83, Skoklefall",59.821665,10.695594
+743476,"Fjordveien 84, Skoklefall",59.821752,10.69649
+743477,"Fjordveien 88, Skoklefall",59.821299,10.696806
+743478,"Fjordveien 89, Skoklefall",59.821273,10.69536
+743479,"Fjordveien 72, Skoklefall",59.822763,10.696827
+743480,"Fjordveien 75, Skoklefall",59.822287,10.695376
+743481,"Fjordveien 76, Skoklefall",59.822403,10.69688
+743482,"Fjordveien 79, Skoklefall",59.822068,10.695686
+743483,"Fjordveien 65, Skoklefall",59.823247,10.695496
+743484,"Fjordveien 68, Skoklefall",59.823099,10.696559
+743485,"Fjordveien 69, Skoklefall",59.822799,10.695438
+743486,"Fjordveien 70, Skoklefall",59.823232,10.697315
+743487,"Fjordveien 55, Skoklefall",59.824093,10.696021
+743488,"Fjordveien 56, Skoklefall",59.824272,10.697493
+743489,"Fjordveien 58, Skoklefall",59.823971,10.697156
+743490,"Fjordveien 61, Skoklefall",59.823681,10.695929
+743491,"Fjordveien 44, Skoklefall",59.825281,10.697223
+743492,"Fjordveien 45, Skoklefall",59.825433,10.696123
+743493,"Fjordveien 49, Skoklefall",59.824686,10.696015
+743494,"Fjordveien 50, Skoklefall",59.824732,10.69732
+743495,"Fjordveien 32, Skoklefall",59.826409,10.696174
+743496,"Fjordveien 33, Skoklefall",59.826254,10.695596
+743497,"Fjordveien 37, Skoklefall",59.825452,10.695822
+743498,"Fjordveien 40, Skoklefall",59.82566,10.697135
+743499,"Fjordveien 24, Skoklefall",59.82713,10.695926
+743500,"Fjordveien 25, Skoklefall",59.826891,10.694968
+743501,"Fjordveien 28, Skoklefall",59.826731,10.696244
+743502,"Fjordveien 29, Skoklefall",59.826438,10.695284
+743503,"Fjordveien 17, Skoklefall",59.827654,10.695042
+743504,"Fjordveien 20, Skoklefall",59.827389,10.696046
+743505,"Fjordveien 21, Skoklefall",59.827322,10.69499
+743611,"Kirkeåsveien 3, Nesodden",59.809812,10.692567
+743612,"Kirkevikveien 9, Nesodden",59.811283,10.69348
+743613,"Kirkevikveien 13, Nesodden",59.8115,10.694757
+743614,"Kirkeåsveien 1, Nesodden",59.809803,10.693298
+743615,"Kirkeåsveien 2, Nesodden",59.810266,10.692893
+743618,"Kirkevikveien 1, Nesodden",59.811842,10.69399
+743619,"Kirkevikveien 5, Nesodden",59.811766,10.694342
+743640,"Gamle Bomansvikvei 14, Nesodden",59.791617,10.698096
+743641,"Gamle Bomansvikvei 15, Nesodden",59.791301,10.698223
+743642,"Gamle Bomansvikvei 3, Nesodden",59.790927,10.697241
+743643,"Gamle Bomansvikvei 5, Nesodden",59.790507,10.697755
+743644,"Gamle Bomansvikvei 7, Nesodden",59.790768,10.69775
+743645,"Gamle Bomansvikvei 9, Nesodden",59.791091,10.697749
+743649,"Gamle Bomansvikvei 1, Nesodden",59.790913,10.696938
+743701,"Karl Pedersens vei 49, Nesodden",59.781491,10.705313
+743702,"Karl Pedersens vei 53, Nesodden",59.781982,10.704857
+743703,"Karl Pedersens vei 55, Nesodden",59.782233,10.704888
+743705,"Karl Pedersens vei 37, Nesodden",59.781582,10.707295
+743706,"Karl Pedersens vei 39, Nesodden",59.7823,10.707332
+743707,"Karl Pedersens vei 45, Nesodden",59.781552,10.706795
+743708,"Karl Pedersens vei 47, Nesodden",59.781155,10.705563
+743709,"Karl Pedersens vei 24, Nesodden",59.779893,10.706482
+743710,"Karl Pedersens vei 25, Nesodden",59.780003,10.707856
+743711,"Karl Pedersens vei 31, Nesodden",59.780595,10.707227
+743712,"Karl Pedersens vei 35, Nesodden",59.780787,10.707665
+743713,"Karl Pedersens vei 12, Nesodden",59.77894,10.707374
+743714,"Karl Pedersens vei 15, Nesodden",59.779127,10.708203
+743715,"Karl Pedersens vei 19, Nesodden",59.779488,10.708079
+743716,"Karl Pedersens vei 20, Nesodden",59.779554,10.706426
+743717,"Karl Pedersens vei 2, Nesodden",59.777926,10.70734
+743718,"Karl Pedersens vei 5, Nesodden",59.778469,10.708383
+743719,"Karl Pedersens vei 6, Nesodden",59.778266,10.707411
+743720,"Karl Pedersens vei 11, Nesodden",59.778802,10.708311
+743733,"Isveien 13, Nesodden",59.776466,10.70495
+743734,"Isveien 16, Nesodden",59.776062,10.704947
+743777,"Hovdens vei 13, Skoklefall",59.831988,10.689714
+743778,"Evenstuveien 31A, Skoklefall",59.83185,10.689296
+743779,"Hovdens vei 16, Skoklefall",59.831459,10.690401
+743781,"Harekroken 2, Skoklefall",59.843169,10.687675
+743782,"Harekroken 6, Skoklefall",59.843762,10.686973
+743783,"Harekroken 8A, Skoklefall",59.844551,10.686424
+743784,"Harekroken 10, Skoklefall",59.844336,10.687056
+743788,"Harekroken 1, Skoklefall",59.843579,10.687928
+743853,"Hagelundveien 48, Nesodden",59.808973,10.689387
+743854,"Hagelundveien 50, Nesodden",59.809172,10.689325
+743855,"Hagelundveien 52, Nesodden",59.80916,10.690252
+743856,"Hagelundveien 54, Nesodden",59.809358,10.690173
+743857,"Hagelundveien 36, Nesodden",59.808472,10.689914
+743858,"Hagelundveien 40, Nesodden",59.808836,10.690307
+743859,"Hagelundveien 44, Nesodden",59.808581,10.689153
+743860,"Hagelundveien 46, Nesodden",59.808777,10.689305
+743861,"Hagelundveien 26, Nesodden",59.807613,10.689728
+743862,"Hagelundveien 28, Nesodden",59.807808,10.689863
+743863,"Hagelundveien 32, Nesodden",59.808173,10.690149
+743864,"Hagelundveien 34, Nesodden",59.808151,10.689773
+743865,"Hagelundveien 2, Nesodden",59.805713,10.688705
+743866,"Hagelundveien 8, Nesodden",59.806183,10.689174
+743867,"Hagelundveien 22, Nesodden",59.807808,10.686422
+743868,"Hagelundveien 24, Nesodden",59.808103,10.688576
+743869,"Hageveien 9, Nesodden",59.794174,10.69689
+743870,"Hageveien 11, Nesodden",59.794332,10.695793
+743871,"Hageveien 15, Nesodden",59.794558,10.695679
+743872,"Hageveien 16, Nesodden",59.794691,10.69508
+743875,"Grøstadveien 45, Nesodden",59.78182,10.696494
+743876,"Hageveien 5, Nesodden",59.793797,10.696853
+743885,"Grevlingfaret 1, Skoklefall",59.830675,10.68144
+743886,"Grevlingfaret 2, Skoklefall",59.830885,10.68047
+743887,"Grevlingfaret 4, Skoklefall",59.831173,10.680413
+743888,"Grevlingfaret 5, Skoklefall",59.83108,10.681407
+743908,"Hovdens vei 8, Skoklefall",59.832043,10.690323
+743909,"Hovdens vei 12, Skoklefall",59.831799,10.690454
+743910,"Hellvikskogsvei 93, Skoklefall",59.842196,10.686519
+743911,"Hellvikskogsvei 99, Skoklefall",59.842097,10.687228
+743912,"Hovdens vei 6, Skoklefall",59.832384,10.690341
+743913,"Evenstuveien 31B, Skoklefall",59.83226,10.689549
+743914,"Hellvikskogsvei 44, Skoklefall",59.842623,10.68124
+743915,"Hellvikskogsvei 60, Skoklefall",59.843483,10.683568
+743916,"Hellvikskogsvei 78, Skoklefall",59.842848,10.686141
+743917,"Hellvikskogsvei 85, Skoklefall",59.842073,10.685638
+743918,"Hellvikskogsvei 31, Skoklefall",59.841349,10.679712
+743919,"Hellvikskogsvei 38, Skoklefall",59.842229,10.680435
+743920,"Hellvikskogsvei 40, Skoklefall",59.842367,10.68087
+743921,"Hellvikskogsvei 42, Skoklefall",59.842857,10.680502
+743922,"Hellvik terrasse 9, Skoklefall",59.841941,10.692396
+743925,"Hellvikskogsvei 2, Skoklefall",59.842152,10.674488
+743926,"Hellvik terrasse 5, Skoklefall",59.841455,10.692532
+743927,"Hellvik terrasse 6, Skoklefall",59.841563,10.69177
+743928,"Hellvik terrasse 7, Skoklefall",59.841699,10.692366
+743929,"Hellvik terrasse 8, Skoklefall",59.841859,10.691785
+743930,"Hellvikalleen 61, Skoklefall",59.849649,10.687396
+743931,"Hellvik terrasse 2, Skoklefall",59.841073,10.692155
+743932,"Hellvik terrasse 3, Skoklefall",59.841183,10.692732
+743933,"Hellvik terrasse 4, Skoklefall",59.841289,10.692131
+743934,"Hellvikalleen 56, Skoklefall",59.849395,10.686134
+743935,"Hellvikalleen 57, Skoklefall",59.849985,10.688502
+743936,"Hellvikalleen 59, Skoklefall",59.849691,10.687612
+743937,"Hellvikalleen 60, Skoklefall",59.851335,10.686857
+743938,"Hellvikalleen 42, Skoklefall",59.84809,10.686546
+743939,"Hellvikalleen 49, Skoklefall",59.848806,10.68796
+743940,"Hellvikalleen 51, Skoklefall",59.84885,10.688748
+743941,"Hellvikalleen 55, Skoklefall",59.849451,10.688778
+743942,"Hellvikalleen 34, Skoklefall",59.847539,10.687985
+743943,"Hellvikalleen 37, Skoklefall",59.84851,10.689338
+743944,"Hellvikalleen 38, Skoklefall",59.847431,10.687302
+743945,"Hellvikalleen 41, Skoklefall",59.848325,10.687632
+743946,"Hellvikalleen 18, Skoklefall",59.846354,10.688693
+743947,"Hellvikalleen 15, Skoklefall",59.846971,10.690313
+743948,"Hellvikalleen 25, Skoklefall",59.847706,10.688993
+743949,"Hellvikalleen 28, Skoklefall",59.84715,10.688233
+743950,"Hellvikalleen 1, Skoklefall",59.844819,10.690703
+743951,"Hellvikalleen 11, Skoklefall",59.84658,10.689954
+743952,"Hellvikalleen 14, Skoklefall",59.845823,10.689433
+743953,"Hellvikalleen 16, Skoklefall",59.845606,10.689565
+743954,"Harekroken 12, Skoklefall",59.843963,10.687394
+743955,"Harekroken 14, Skoklefall",59.844329,10.687609
+743956,"Harekroken 17, Skoklefall",59.844609,10.688194
+743957,"Harekroken 22, Skoklefall",59.845131,10.688113
+743965,"Glenneveien 194, Nesodden",59.77829,10.706949
+743966,"Glenneveien 208, Nesodden",59.777113,10.706978
+743969,"Glenneveien 155, Nesodden",59.781626,10.703913
+743970,"Glenneveien 161, Nesodden",59.781181,10.704246
+743971,"Glenneveien 164, Nesodden",59.780915,10.705355
+743972,"Glenneveien 186, Nesodden",59.778968,10.706645
+743973,"Glenneveien 82, Nesodden",59.788231,10.702254
+743974,"Glenneveien 84, Nesodden",59.788205,10.701469
+743975,"Glenneveien 147, Nesodden",59.782017,10.70281
+743976,"Glenneveien 151, Nesodden",59.781781,10.703048
+743977,"Glenneveien 75, Nesodden",59.788334,10.700531
+743978,"Glenneveien 78, Nesodden",59.788528,10.701485
+743979,"Glenneveien 80, Nesodden",59.788643,10.702311
+743980,"Glenneveien 81, Nesodden",59.787929,10.700564
+743981,"Glenneveien 37, Nesodden",59.790785,10.695684
+743982,"Glenneveien 39, Nesodden",59.790807,10.696095
+743983,"Glenneveien 41, Nesodden",59.790644,10.696176
+743984,"Glenneveien 43, Nesodden",59.790612,10.696637
+743986,"Glenneveien 15, Nesodden",59.791313,10.691683
+743987,"Glenneveien 25, Nesodden",59.790598,10.6935
+743988,"Glenneveien 26, Nesodden",59.791416,10.694166
+743997,"Gartnerveien 24, Nesodden",59.780409,10.703954
+744000,"Gamle Torvvikvei 50, Nesodden",59.815807,10.698507
+744001,"Gartnerveien 2, Nesodden",59.778126,10.702951
+744002,"Gartnerveien 4, Nesodden",59.778456,10.703181
+744003,"Gartnerveien 10, Nesodden",59.778897,10.703097
+744004,"Gamle Torvvikvei 22, Nesodden",59.813903,10.696448
+744005,"Gamle Torvvikvei 33, Nesodden",59.813928,10.698019
+744006,"Gamle Torvvikvei 39, Nesodden",59.814345,10.698414
+744007,"Gamle Torvvikvei 44, Nesodden",59.814987,10.697377
+744009,"Gamle Torvvikvei 10, Nesodden",59.812631,10.694814
+744010,"Gamle Torvvikvei 11, Nesodden",59.812443,10.695411
+744011,"Gamle Torvvikvei 16, Nesodden",59.81315,10.695661
+744016,"Gamle Bomansvikvei 42, Nesodden",59.792974,10.701462
+744017,"Gamle Bomansvikvei 44, Nesodden",59.793381,10.701964
+744018,"Gamle Bomansvikvei 46, Nesodden",59.793117,10.702236
+744020,"Gamle Bomansvikvei 28, Nesodden",59.793077,10.699774
+744021,"Gamle Bomansvikvei 32, Nesodden",59.792748,10.700185
+744022,"Vinkelveien 4, Nesodden",59.792926,10.700355
+744023,"Gamle Bomansvikvei 36, Nesodden",59.792848,10.700814
+744024,"Gamle Bomansvikvei 18, Nesodden",59.792099,10.698263
+744025,"Gamle Bomansvikvei 21, Nesodden",59.791811,10.699015
+744026,"Gamle Bomansvikvei 22, Nesodden",59.792156,10.698765
+744027,"Gamle Bomansvikvei 26, Nesodden",59.792489,10.69937
+744087,"Kjartan Veldes vei 12, Skoklefall",59.839648,10.677878
+744088,"Kjartan Veldes vei 26, Skoklefall",59.839129,10.677744
+744089,"Kjartan Veldes vei 42, Skoklefall",59.837583,10.677845
+744090,"Kjartan Veldes vei 43, Skoklefall",59.837383,10.676622
+744091,"Kirkeåsveien 51, Nesodden",59.807661,10.692975
+744092,"Kirkeåsveien 53, Nesodden",59.807861,10.693431
+744093,"Kirkeåsveien 55, Nesodden",59.808033,10.694064
+744094,"Kjartan Veldes vei 7, Skoklefall",59.84061,10.674999
+744095,"Kirkeåsveien 41, Nesodden",59.807969,10.692741
+744096,"Kirkeåsveien 43, Nesodden",59.807932,10.692098
+744097,"Kirkeåsveien 45, Nesodden",59.807609,10.692063
+744098,"Kirkeåsveien 47, Nesodden",59.807314,10.692013
+744099,"Kirkeåsveien 35A, Nesodden",59.808516,10.694195
+744100,"Kirkeåsveien 35B, Nesodden",59.808477,10.694407
+744101,"Kirkeåsveien 37, Nesodden",59.80836,10.693777
+744102,"Kirkeåsveien 39, Nesodden",59.808162,10.693125
+744103,"Kirkeåsveien 27, Nesodden",59.808415,10.692265
+744104,"Kirkeåsveien 29, Nesodden",59.808542,10.692859
+744105,"Kirkeåsveien 31, Nesodden",59.808689,10.69333
+744106,"Kirkeåsveien 33, Nesodden",59.808827,10.693748
+744107,"Kirkeåsveien 20, Nesodden",59.807576,10.691188
+744108,"Kirkeåsveien 21, Nesodden",59.809065,10.692743
+744109,"Kirkeåsveien 22, Nesodden",59.807262,10.691119
+744110,"Kirkeåsveien 25, Nesodden",59.808711,10.692297
+744111,"Kirkeåsveien 16, Nesodden",59.808158,10.691342
+744112,"Kirkeåsveien 17, Nesodden",59.809142,10.693692
+744113,"Kirkeåsveien 18, Nesodden",59.807854,10.691238
+744114,"Kirkeåsveien 19, Nesodden",59.809167,10.693176
+744115,"Kirkeåsveien 11, Nesodden",59.809524,10.693355
+744116,"Kirkeåsveien 12, Nesodden",59.808651,10.691403
+744117,"Kirkeåsveien 13, Nesodden",59.809588,10.693964
+744118,"Kirkeåsveien 14, Nesodden",59.808354,10.691441
+744119,"Kirkeåsveien 7, Nesodden",59.809399,10.691869
+744120,"Kirkeåsveien 8, Nesodden",59.809353,10.69126
+744121,"Kirkeåsveien 9, Nesodden",59.809506,10.692641
+744122,"Kirkeåsveien 10, Nesodden",59.808913,10.691274
+744123,"Kirkeåsveien 4, Nesodden",59.810091,10.691833
+744124,"Kirkeåsveien 5, Nesodden",59.80967,10.691758
+744125,"Kirkeåsveien 6, Nesodden",59.809662,10.691026
+744245,"Linaroveien 29, Nesodden",59.781532,10.708127
+744246,"Linaroveien 31, Nesodden",59.781874,10.708308
+744247,"Linaroveien 33, Nesodden",59.782591,10.708434
+744249,"Liaveien 53, Skoklefall",59.848004,10.683278
+744250,"Liaveien 57, Skoklefall",59.848659,10.683312
+744251,"Linaroveien 19, Nesodden",59.781045,10.70921
+744252,"Liaveien 44, Skoklefall",59.847218,10.682918
+744253,"Liaveien 46, Skoklefall",59.847193,10.682095
+744254,"Liaveien 48, Skoklefall",59.847627,10.682528
+744255,"Liaveien 49, Skoklefall",59.847795,10.683464
+744256,"Liaveien 38, Skoklefall",59.846858,10.68231
+744257,"Liaveien 39, Skoklefall",59.846893,10.683794
+744258,"Liaveien 40, Skoklefall",59.846911,10.683027
+744259,"Liaveien 43B, Skoklefall",59.84722,10.683664
+744260,"Liaveien 33, Skoklefall",59.846312,10.683568
+744261,"Liaveien 34, Skoklefall",59.846305,10.682711
+744262,"Liaveien 36, Skoklefall",59.846649,10.682496
+744263,"Liaveien 37, Skoklefall",59.8467,10.684069
+744264,"Liaveien 27A, Skoklefall",59.845512,10.684259
+744265,"Liaveien 27B, Skoklefall",59.845518,10.683796
+744266,"Liaveien 28, Skoklefall",59.84598,10.682819
+744267,"Liaveien 31, Skoklefall",59.845995,10.683784
+744268,"Liaveien 19, Skoklefall",59.844716,10.684023
+744269,"Liaveien 22, Skoklefall",59.8455,10.683116
+744270,"Liaveien 23, Skoklefall",59.845297,10.684284
+744271,"Liaveien 25, Skoklefall",59.845336,10.683983
+744272,"Liaveien 15, Skoklefall",59.84434,10.684611
+744273,"Liaveien 16, Skoklefall",59.844645,10.683234
+744274,"Liaveien 18, Skoklefall",59.845041,10.683218
+744275,"Liaveien 11, Skoklefall",59.843934,10.684751
+744276,"Liaveien 12, Skoklefall",59.844544,10.682765
+744277,"Krangeveien 23, Nesodden",59.779838,10.690728
+744278,"Liaveien 13, Skoklefall",59.844133,10.684672
+744279,"Liaveien 14, Skoklefall",59.844768,10.682794
+744387,"Krokveien 7, Nesodden",59.778656,10.698791
+744388,"Krokveien 10, Nesodden",59.779103,10.697567
+744389,"Krokveien 11, Nesodden",59.779199,10.698449
+744390,"Krokveien 17, Nesodden",59.779596,10.69834
+744403,"Liaveien 9, Skoklefall",59.843717,10.684865
+744404,"Liaveien 10, Skoklefall",59.844299,10.682913
+744405,"Liaveien 3, Skoklefall",59.844049,10.684257
+744406,"Liaveien 5, Skoklefall",59.843868,10.684337
+744407,"Liaveien 7, Skoklefall",59.843642,10.684415
+744408,"Liaveien 8, Skoklefall",59.844346,10.683451
+744409,"Lerkeveien 36, Nesodden",59.794385,10.700167
+744410,"Lerkeveien 37, Nesodden",59.793851,10.700295
+744411,"Lerkeveien 39, Nesodden",59.794212,10.700919
+744412,"Liaveien 1, Skoklefall",59.84422,10.684194
+744413,"Lerkeveien 24, Nesodden",59.793741,10.698382
+744414,"Lerkeveien 25, Nesodden",59.793716,10.698951
+744415,"Lerkeveien 27, Nesodden",59.794134,10.699258
+744416,"Lerkeveien 35, Nesodden",59.794025,10.700036
+744417,"Lerkeveien 11, Nesodden",59.792375,10.698456
+744418,"Lerkeveien 15, Nesodden",59.792875,10.698713
+744419,"Lerkeveien 19, Nesodden",59.793367,10.698862
+744420,"Lerkeveien 23, Nesodden",59.793634,10.699731
+744436,"Krangeveien 41, Nesodden",59.781669,10.690821
+744437,"Krangeveien 47, Nesodden",59.78199,10.690998
+744438,"Krangeveien 53, Nesodden",59.782671,10.691157
+744440,"Krangeveien 25, Nesodden",59.780229,10.691051
+744441,"Krangeveien 26, Nesodden",59.780289,10.689914
+744442,"Krangeveien 31, Nesodden",59.78122,10.690798
+744443,"Krangeveien 32, Nesodden",59.780872,10.689908
+744444,"Krangeveien 18, Nesodden",59.779536,10.689787
+744445,"Krangeveien 21, Nesodden",59.779793,10.69281
+744446,"Krangeveien 22, Nesodden",59.779844,10.689535
+744447,"Krangeveien 7, Nesodden",59.778588,10.690149
+744448,"Krangeveien 12, Nesodden",59.779129,10.689267
+744449,"Krangeveien 13, Nesodden",59.778972,10.690328
+744450,"Krangeveien 17, Nesodden",59.779187,10.690357
+744454,"Krangeveien 3, Nesodden",59.778209,10.69029
+744521,"Løeshagaveien 46, Nesodden",59.808052,10.685614
+744522,"Løeshagaveien 47, Nesodden",59.808015,10.684257
+744523,"Løeshagaveien 48, Nesodden",59.80773,10.685455
+744524,"Løeshagaveien 49, Nesodden",59.80793,10.683165
+744525,"Løeshagaveien 40, Nesodden",59.80837,10.685309
+744526,"Løeshagaveien 42, Nesodden",59.808337,10.685735
+744527,"Løeshagaveien 44, Nesodden",59.807981,10.68479
+744528,"Løeshagaveien 45, Nesodden",59.808257,10.684287
+744529,"Løeshagaveien 34, Nesodden",59.808688,10.686448
+744530,"Løeshagaveien 36, Nesodden",59.80873,10.685916
+744531,"Løeshagaveien 37, Nesodden",59.808687,10.685075
+744532,"Løeshagaveien 38, Nesodden",59.808606,10.685767
+744533,"Løeshagaveien 26, Nesodden",59.808533,10.687992
+744534,"Løeshagaveien 28, Nesodden",59.808023,10.687146
+744535,"Løeshagaveien 30, Nesodden",59.808256,10.686444
+744536,"Løeshagaveien 32, Nesodden",59.808577,10.686639
+744537,"Løeshagaveien 21, Nesodden",59.809716,10.686108
+744538,"Løeshagaveien 22, Nesodden",59.809055,10.68652
+744539,"Løeshagaveien 23, Nesodden",59.809397,10.685735
+744540,"Løeshagaveien 24, Nesodden",59.809092,10.687788
+744541,"Løeshagaveien 10, Nesodden",59.809936,10.687171
+744542,"Løeshagaveien 13, Nesodden",59.809391,10.684843
+744543,"Løeshagaveien 14, Nesodden",59.809738,10.687161
+744544,"Løeshagaveien 16, Nesodden",59.809514,10.68715
+744545,"Løeshagaveien 1, Nesodden",59.811217,10.688074
+744546,"Løeshagaveien 3, Nesodden",59.810966,10.687366
+744547,"Løeshagaveien 5, Nesodden",59.811067,10.686515
+744548,"Løeshagaveien 9, Nesodden",59.810516,10.686737
+744593,"Loftuveien 50, Nesodden",59.792709,10.697688
+744594,"Loftuveien 56, Nesodden",59.79218,10.697608
+744597,"Loftuveien 37, Nesodden",59.792733,10.695765
+744598,"Loftuveien 42, Nesodden",59.79317,10.697409
+744599,"Loftuveien 43, Nesodden",59.79293,10.696559
+744600,"Loftuveien 48, Nesodden",59.793006,10.697614
+744601,"Loftuveien 14, Nesodden",59.794253,10.693579
+744602,"Loftuveien 27, Nesodden",59.793031,10.693588
+744603,"Loftuveien 30, Nesodden",59.793649,10.694421
+744604,"Loftuveien 31, Nesodden",59.792786,10.693807
+744605,"Loftuveien 7, Nesodden",59.793996,10.69189
+744606,"Loftuveien 8, Nesodden",59.794627,10.692368
+744607,"Loftuveien 9, Nesodden",59.793192,10.692937
+744608,"Loftuveien 12, Nesodden",59.794975,10.693972
+744609,"Lise Maries vei 29, Skoklefall",59.828259,10.691291
+744610,"Lise Maries vei 33, Skoklefall",59.827899,10.691309
+744611,"Lise Maries vei 38, Skoklefall",59.827741,10.692424
+744612,"Lise Maries vei 40, Skoklefall",59.827743,10.692978
+744613,"Lise Maries vei 19, Skoklefall",59.829005,10.68983
+744614,"Lise Maries vei 22B, Skoklefall",59.829081,10.691129
+744615,"Lise Maries vei 25, Skoklefall",59.828537,10.690317
+744617,"Lise Maries vei 26, Skoklefall",59.828663,10.691294
+744618,"Lise Maries vei 14, Skoklefall",59.82951,10.690391
+744619,"Lise Maries vei 15, Skoklefall",59.82941,10.689744
+744620,"Lise Maries vei 16, Skoklefall",59.829768,10.6906
+744621,"Lise Maries vei 18, Skoklefall",59.829434,10.691422
+744622,"Lise Maries vei 5, Skoklefall",59.829997,10.68881
+744623,"Lise Maries vei 6, Skoklefall",59.830186,10.689498
+744624,"Lise Maries vei 10, Skoklefall",59.829875,10.68991
+744625,"Lise Maries vei 11, Skoklefall",59.829694,10.689312
+744628,"Lise Maries vei 2, Skoklefall",59.83053,10.689301
+744629,"Lise Maries vei 3, Skoklefall",59.830414,10.68851
+744641,"Løeshagaveien 68, Nesodden",59.80706,10.685885
+744642,"Løeshagaveien 70, Nesodden",59.806963,10.685791
+744643,"Løeshagaveien 62, Nesodden",59.807245,10.685502
+744644,"Løeshagaveien 64, Nesodden",59.807274,10.685343
+744645,"Løeshagaveien 66, Nesodden",59.807089,10.685761
+744646,"Løeshagaveien 56, Nesodden",59.80744,10.685012
+744647,"Løeshagaveien 58, Nesodden",59.807362,10.685454
+744648,"Løeshagaveien 59, Nesodden",59.806912,10.682026
+744649,"Løeshagaveien 60, Nesodden",59.807325,10.685577
+744650,"Løeshagaveien 50, Nesodden",59.807528,10.685124
+744651,"Løeshagaveien 52, Nesodden",59.8075,10.685229
+744652,"Løeshagaveien 53, Nesodden",59.807075,10.682587
+744653,"Løeshagaveien 54, Nesodden",59.807411,10.685171
+744791,"Mårbakken 38, Skoklefall",59.82805,10.694991
+744792,"Mårbakken 39, Skoklefall",59.827749,10.693941
+744795,"Mårbakken 24, Skoklefall",59.829337,10.69338
+744796,"Mårbakken 15, Skoklefall",59.829691,10.691703
+744797,"Mårbakken 17, Skoklefall",59.82932,10.691916
+744798,"Mårbakken 18, Skoklefall",59.82955,10.692761
+744799,"Mårbakken 19, Skoklefall",59.829304,10.692414
+744800,"Mårbakken 9, Skoklefall",59.830352,10.690523
+744801,"Mårbakken 11, Skoklefall",59.830065,10.690544
+744802,"Mårbakken 12, Skoklefall",59.830041,10.692416
+744803,"Mårbakken 13, Skoklefall",59.830175,10.691727
+744805,"Mårbakken 4, Skoklefall",59.830745,10.692113
+744806,"Mårbakken 5, Skoklefall",59.830694,10.691218
+744807,"Mårbakken 7, Skoklefall",59.830506,10.691137
+744820,"Mårbakken 35, Skoklefall",59.828202,10.693572
+744848,"Mosses vei 23, Skoklefall",59.843731,10.678868
+744852,"Mosses vei 17, Skoklefall",59.843153,10.679143
+744853,"Mosses vei 18, Skoklefall",59.843309,10.678187
+744854,"Mosses vei 20, Skoklefall",59.84351,10.677929
+744855,"Mosses vei 22, Skoklefall",59.843752,10.677924
+744856,"Mosses vei 8, Skoklefall",59.842476,10.679412
+744857,"Mosses vei 9, Skoklefall",59.842712,10.679906
+744858,"Mosses vei 11, Skoklefall",59.843046,10.679762
+744859,"Mosses vei 16, Skoklefall",59.843109,10.678373
+744861,"Mosses vei 2, Skoklefall",59.842013,10.679764
+744862,"Mosses vei 6, Skoklefall",59.842322,10.679476
+744863,"Mosses vei 7, Skoklefall",59.842546,10.680254
+744953,"Mabels vei 11, Skoklefall",59.841693,10.683031
+744954,"Mabels vei 14, Skoklefall",59.841276,10.684027
+744955,"Mabels vei 15, Skoklefall",59.841295,10.682583
+744957,"Mabels vei 1, Skoklefall",59.842209,10.682718
+744958,"Mabels vei 2, Skoklefall",59.842515,10.68334
+744959,"Mabels vei 4, Skoklefall",59.842636,10.683757
+744960,"Mabels vei 6, Skoklefall",59.842254,10.683416
+744981,"Løkkeveien 15, Skoklefall",59.845291,10.680175
+744982,"Løkkeveien 18, Skoklefall",59.84542,10.679578
+744983,"Løkkeveien 21, Skoklefall",59.84601,10.679769
+744985,"Løkkeveien 6, Skoklefall",59.844479,10.67937
+744986,"Løkkeveien 9, Skoklefall",59.845062,10.680149
+744987,"Løkkeveien 10, Skoklefall",59.844858,10.679282
+744988,"Løkkeveien 14, Skoklefall",59.845042,10.678934
+744989,"Løeshagaveien 120, Nesodden",59.80739,10.684689
+744990,"Løeshagaveien 122, Nesodden",59.807345,10.684705
+744991,"Løeshagaveien 124, Nesodden",59.807319,10.684632
+744992,"Løeshagaveien 132, Nesodden",59.806259,10.685292
+744993,"Løeshagaveien 112, Nesodden",59.807088,10.684389
+744994,"Løeshagaveien 114, Nesodden",59.807357,10.68442
+744995,"Løeshagaveien 116, Nesodden",59.807411,10.684423
+744996,"Løeshagaveien 118, Nesodden",59.807419,10.68453
+744997,"Løeshagaveien 104, Nesodden",59.807199,10.684162
+744998,"Løeshagaveien 106, Nesodden",59.807188,10.684287
+744999,"Løeshagaveien 108, Nesodden",59.807169,10.684393
+745000,"Løeshagaveien 110, Nesodden",59.807114,10.684461
+745001,"Løeshagaveien 96, Nesodden",59.807031,10.68394
+745002,"Løeshagaveien 98, Nesodden",59.806976,10.684026
+745003,"Løeshagaveien 100, Nesodden",59.80695,10.683936
+745004,"Løeshagaveien 102, Nesodden",59.807136,10.684177
+745005,"Løeshagaveien 88, Nesodden",59.806969,10.684614
+745006,"Løeshagaveien 90, Nesodden",59.806998,10.683724
+745007,"Løeshagaveien 92, Nesodden",59.807042,10.683762
+745008,"Løeshagaveien 94, Nesodden",59.80705,10.683834
+745009,"Løeshagaveien 80, Nesodden",59.806971,10.685149
+745010,"Løeshagaveien 82, Nesodden",59.807048,10.684725
+745011,"Løeshagaveien 84, Nesodden",59.807019,10.684866
+745012,"Løeshagaveien 86, Nesodden",59.806922,10.684755
+745013,"Løeshagaveien 72, Nesodden",59.807009,10.68565
+745014,"Løeshagaveien 74, Nesodden",59.807059,10.685243
+745015,"Løeshagaveien 76, Nesodden",59.807031,10.685384
+745016,"Løeshagaveien 78, Nesodden",59.806942,10.68529
+745133,"Rugdefaret 4, Skoklefall",59.838266,10.693262
+745134,"Rugdefaret 5, Skoklefall",59.837945,10.692389
+745135,"Rugdefaret 6, Skoklefall",59.837996,10.693302
+745136,"Rugdefaret 7, Skoklefall",59.837559,10.692352
+745138,"Rugdefaret 1, Skoklefall",59.838643,10.692585
+745139,"Rugdefaret 3, Skoklefall",59.838287,10.692282
+745140,"Ringveien 50, Skoklefall",59.839433,10.691894
+745141,"Ringveien 51, Skoklefall",59.839103,10.690985
+745142,"Ringveien 54, Skoklefall",59.839382,10.692391
+745143,"Ringveien 55, Skoklefall",59.838806,10.691094
+745144,"Ringveien 40, Skoklefall",59.840543,10.690094
+745145,"Ringveien 42, Skoklefall",59.840258,10.690597
+745146,"Ringveien 43, Skoklefall",59.839977,10.690101
+745147,"Ringveien 47, Skoklefall",59.839395,10.690871
+745148,"Ringveien 31, Skoklefall",59.841404,10.688745
+745149,"Ringveien 33, Skoklefall",59.840915,10.689063
+745150,"Ringveien 34, Skoklefall",59.840938,10.690096
+745151,"Ringveien 39, Skoklefall",59.840307,10.689502
+745152,"Ringveien 17, Skoklefall",59.842189,10.688517
+745153,"Ringveien 19, Skoklefall",59.841918,10.688575
+745154,"Ringveien 21, Skoklefall",59.841948,10.689041
+745155,"Ringveien 26, Skoklefall",59.841226,10.690021
+745156,"Ringveien 2, Skoklefall",59.843208,10.688855
+745157,"Ringveien 4, Skoklefall",59.842981,10.68904
+745158,"Ringveien 9, Skoklefall",59.842693,10.688304
+745159,"Ringveien 15, Skoklefall",59.842282,10.688968
+745253,"Rugdefaret 19, Skoklefall",59.837559,10.690978
+745254,"Rugdefaret 28, Skoklefall",59.836261,10.693428
+745257,"Rugdefaret 8, Skoklefall",59.837791,10.693166
+745258,"Rugdefaret 9, Skoklefall",59.837932,10.691942
+745259,"Rugdefaret 10, Skoklefall",59.837537,10.693332
+745260,"Rugdefaret 12, Skoklefall",59.837214,10.693316
+745261,"Røerveien 257, Nesodden",59.809641,10.68844
+745262,"Røerveien 261, Nesodden",59.80955,10.689238
+745263,"Røerveien 223, Nesodden",59.81226,10.685916
+745264,"Røerveien 231, Nesodden",59.812173,10.68707
+745265,"Røerveien 253, Nesodden",59.810004,10.689582
+745266,"Røerveien 255, Nesodden",59.810014,10.688066
+745267,"Røerveien 186, Nesodden",59.816615,10.684566
+745268,"Røerveien 213, Nesodden",59.813173,10.686176
+745269,"Røerveien 219, Nesodden",59.812602,10.685861
+745270,"Røerveien 221, Nesodden",59.812542,10.685644
+745271,"Røerveien 170, Nesodden",59.818167,10.684752
+745272,"Røerveien 174, Nesodden",59.817771,10.684767
+745273,"Røerveien 178, Nesodden",59.817403,10.684749
+745274,"Røerveien 182, Nesodden",59.817079,10.684804
+745275,"Røerveien 154, Nesodden",59.819757,10.684011
+745276,"Røerveien 158, Nesodden",59.819233,10.68427
+745277,"Røerveien 162, Nesodden",59.818943,10.684434
+745278,"Røerveien 166, Nesodden",59.818492,10.68459
+745279,"Røerveien 117, Nesodden",59.821388,10.68149
+745280,"Røerveien 142, Nesodden",59.819687,10.68317
+745281,"Røerveien 148, Nesodden",59.820476,10.682567
+745282,"Røerveien 150, Nesodden",59.820623,10.683038
+745283,"Søndre Flateby, Røerveien 66, Skoklefall",59.826011,10.68026
+745284,"Røerveien 76, Skoklefall",59.824914,10.683844
+745285,"Røerveien 108, Nesodden",59.822802,10.68256
+745286,"Røerveien 111, Nesodden",59.821791,10.681563
+745287,"Røerveien 39, Skoklefall",59.828296,10.67786
+745288,"Fjordvangveien 19, Skoklefall",59.828451,10.679812
+745289,"Røerveien 46, Skoklefall",59.828053,10.679328
+745290,"Røerveien 50, Skoklefall",59.827762,10.679599
+745291,"Røerveien 19, Skoklefall",59.830445,10.677682
+745292,"Røerveien 21, Skoklefall",59.830098,10.678111
+745293,"Røerveien 35, Skoklefall",59.828926,10.677749
+745294,"Revelia 11, Skoklefall",59.843278,10.689715
+745295,"Revelia 15, Skoklefall",59.842992,10.690325
+745296,"Revelia 17, Skoklefall",59.842627,10.690753
+745297,"Røerveien 9, Skoklefall",59.831322,10.677227
+745300,"Revelia 5, Skoklefall",59.843839,10.690118
+745301,"Revelia 7, Skoklefall",59.843708,10.689772
+745390,"Perleveien 76, Nesodden",59.784545,10.706627
+745394,"Perleveien 68, Nesodden",59.785159,10.707068
+745395,"Perleveien 69, Nesodden",59.785117,10.705463
+745396,"Perleveien 72, Nesodden",59.784999,10.706953
+745397,"Perleveien 75, Nesodden",59.784513,10.705699
+745398,"Perleveien 58, Nesodden",59.786189,10.706622
+745399,"Perleveien 59, Nesodden",59.786017,10.706008
+745400,"Perleveien 61, Nesodden",59.785752,10.705691
+745401,"Perleveien 64, Nesodden",59.785522,10.706802
+745402,"Perleveien 51, Nesodden",59.786785,10.705726
+745403,"Perleveien 52, Nesodden",59.786601,10.706714
+745404,"Perleveien 53, Nesodden",59.786561,10.705661
+745405,"Perleveien 55, Nesodden",59.786269,10.705308
+745406,"Perleveien 41, Nesodden",59.787577,10.705588
+745407,"Perleveien 43, Nesodden",59.787331,10.70513
+745408,"Perleveien 48, Nesodden",59.78732,10.70741
+745409,"Perleveien 49, Nesodden",59.787079,10.705901
+745410,"Perleveien 31, Nesodden",59.788621,10.705392
+745411,"Perleveien 33, Nesodden",59.788376,10.705629
+745412,"Perleveien 35, Nesodden",59.788121,10.705135
+745413,"Perleveien 37, Nesodden",59.787844,10.705744
+745414,"Perleveien 23, Nesodden",59.78907,10.705379
+745415,"Perleveien 25, Nesodden",59.789001,10.704485
+745416,"Perleveien 27, Nesodden",59.788564,10.704231
+745417,"Tiurveien 35, Nesodden",59.788086,10.704385
+745419,"Perleveien 18, Nesodden",59.789725,10.705484
+745420,"Perleveien 21, Nesodden",59.789322,10.704644
+745421,"Perleveien 22, Nesodden",59.78933,10.706123
+745508,"Sjølies vei 21, Skoklefall",59.828161,10.684899
+745509,"Sjølies vei 12, Skoklefall",59.829114,10.685519
+745510,"Sjølies vei 15, Skoklefall",59.828893,10.684597
+745511,"Sjølies vei 16, Skoklefall",59.828693,10.685479
+745512,"Sjølies vei 19, Skoklefall",59.828569,10.684617
+745514,"Sjølies vei 2, Skoklefall",59.829956,10.685704
+745515,"Sjølies vei 5, Skoklefall",59.829707,10.684781
+745516,"Sjølies vei 6, Skoklefall",59.829671,10.685529
+745565,"Rådyrveien 50B, Skoklefall",59.825637,10.689717
+745566,"Rådyrveien 52, Skoklefall",59.825362,10.69027
+745569,"Rådyrveien 40, Skoklefall",59.826408,10.689931
+745570,"Rådyrveien 45, Skoklefall",59.826133,10.688971
+745571,"Rådyrveien 48, Skoklefall",59.825969,10.689891
+745572,"Rådyrveien 49, Skoklefall",59.825824,10.689223
+745573,"Rådyrveien 29, Skoklefall",59.82723,10.688866
+745574,"Rådyrveien 30, Skoklefall",59.82723,10.690293
+745575,"Rådyrveien 31, Skoklefall",59.827333,10.689264
+745576,"Rådyrveien 15, Skoklefall",59.828378,10.689012
+745577,"Rådyrveien 16, Skoklefall",59.828505,10.689609
+745578,"Rådyrveien 19, Skoklefall",59.828015,10.689263
+745579,"Rådyrveien 20, Skoklefall",59.828263,10.689741
+745580,"Rådyrveien 8, Skoklefall",59.829194,10.689126
+745581,"Rådyrveien 9, Skoklefall",59.828912,10.688648
+745582,"Rådyrveien 11, Skoklefall",59.82866,10.68876
+745583,"Rådyrveien 12, Skoklefall",59.828994,10.689312
+745585,"Rådyrveien 2, Skoklefall",59.829651,10.688525
+745586,"Rådyrveien 4, Skoklefall",59.82946,10.688658
+745587,"Rådyrveien 7, Skoklefall",59.829071,10.688157
+745623,"Storebakken 37, Skoklefall",59.823409,10.691955
+745624,"Storebakken 42, Skoklefall",59.822819,10.693156
+745625,"Storebakken 43, Skoklefall",59.822796,10.69212
+745627,"Storebakken 25, Skoklefall",59.824498,10.692492
+745628,"Storebakken 29, Skoklefall",59.824222,10.691639
+745629,"Storebakken 31, Skoklefall",59.823706,10.691916
+745630,"Storebakken 36, Skoklefall",59.823132,10.693225
+745631,"Storebakken 15, Skoklefall",59.825695,10.694372
+745632,"Storebakken 17, Skoklefall",59.825083,10.693824
+745633,"Storebakken 21, Skoklefall",59.824584,10.693531
+745636,"Storebakken 7, Skoklefall",59.825815,10.694878
+745637,"Storebakken 13, Skoklefall",59.825102,10.694449
+745674,"Sefjellveien 25, Skoklefall",59.846524,10.686631
+745678,"Sefjellveien 17, Skoklefall",59.846187,10.687685
+745679,"Sefjellveien 21, Skoklefall",59.846995,10.68628
+745680,"Sefjellveien 24, Skoklefall",59.845941,10.686584
+745684,"Sefjellveien 6, Skoklefall",59.845028,10.688429
+745750,"St. Hansveien 51, Skoklefall",59.819968,10.693457
+745752,"St. Hansveien 40, Skoklefall",59.820974,10.69481
+745753,"St. Hansveien 45, Skoklefall",59.820431,10.693748
+745754,"St. Hansveien 46, Skoklefall",59.820487,10.694999
+745755,"St. Hansveien 50, Skoklefall",59.820202,10.694806
+745756,"St. Hansveien 30, Skoklefall",59.822143,10.6946
+745757,"St. Hansveien 33, Skoklefall",59.821771,10.693602
+745758,"St. Hansveien 36, Skoklefall",59.821768,10.694565
+745759,"St. Hansveien 39, Skoklefall",59.820899,10.693718
+745760,"St. Hansveien 23, Skoklefall",59.822611,10.694001
+745761,"St. Hansveien 24, Skoklefall",59.822616,10.694947
+745762,"St. Hansveien 25, Skoklefall",59.822244,10.69384
+745763,"St. Hansveien 27, Skoklefall",59.821915,10.693609
+745764,"St. Hansveien 14, Skoklefall",59.823354,10.694877
+745765,"St. Hansveien 17, Skoklefall",59.823167,10.694065
+745766,"St. Hansveien 20, Skoklefall",59.822857,10.695102
+745767,"St. Hansveien 8, Skoklefall",59.824061,10.695038
+745768,"Storebakken 24, Skoklefall",59.823909,10.693586
+745769,"St. Hansveien 11, Skoklefall",59.823648,10.693644
+745770,"St. Hansveien 12, Skoklefall",59.823729,10.695057
+745771,"Sommerfrydveien 11, Skoklefall",59.831684,10.687575
+745772,"St. Hansveien 2, Skoklefall",59.824628,10.694942
+745773,"St. Hansveien 4, Skoklefall",59.824374,10.695143
+745774,"St. Hansveien 5, Skoklefall",59.824217,10.694065
+745777,"Sommerfrydveien 7, Skoklefall",59.831974,10.687358
+745778,"Sommerfrydveien 10, Skoklefall",59.831571,10.688676
+745814,"Solhaugveien 18, Skoklefall",59.831248,10.685127
+745815,"Solhaugveien 20, Skoklefall",59.830964,10.68507
+745818,"Solhaugveien 6, Skoklefall",59.831794,10.686671
+745819,"Solhaugveien 10, Skoklefall",59.83165,10.686021
+745820,"Solhaugveien 14, Skoklefall",59.831321,10.685701
+745821,"Solhaugveien 15, Skoklefall",59.831607,10.685109
+745822,"Solbergveien 28, Nesodden",59.82275,10.68732
+745823,"Solbergveien 61, Nesodden",59.82239,10.690209
+745824,"Solbergveien 72, Nesodden",59.821433,10.691284
+745825,"Solhaugveien 4, Skoklefall",59.831558,10.686873
+745829,"Solbergveien 13, Nesodden",59.821817,10.684454
+745861,"Sjølies vei 28B, Skoklefall",59.827867,10.686098
+745862,"Sjølies vei 33, Skoklefall",59.827265,10.686306
+745863,"Sjølies vei 35, Skoklefall",59.827373,10.686858
+745865,"Sjølies vei 14B, Skoklefall",59.829005,10.686007
+745866,"Sjølies vei 24, Skoklefall",59.828105,10.685806
+745867,"Sjølies vei 25, Skoklefall",59.8278,10.685042
+745868,"Sjølies vei 28A, Skoklefall",59.827592,10.685888
+745878,"Snekkerveien 2, Nesodden",59.777832,10.708937
+745879,"Snekkerveien 4, Nesodden",59.777991,10.709214
+745880,"Snekkerveien 8, Nesodden",59.7773,10.709196
+745881,"Snekkerveien 9, Nesodden",59.777021,10.708559
+746094,"Ugleveien 27, Nesodden",59.792033,10.695655
+746095,"Ugleveien 30, Nesodden",59.791973,10.69414
+746096,"Ugleveien 36, Nesodden",59.792503,10.694167
+746097,"Ugleveien 45, Nesodden",59.792857,10.695254
+746098,"Ugleveien 13, Nesodden",59.790246,10.696423
+746099,"Ugleveien 16, Nesodden",59.790595,10.695122
+746100,"Ugleveien 18, Nesodden",59.790909,10.695138
+746101,"Ugleveien 24, Nesodden",59.791435,10.69479
+746102,"Ugleveien 3, Nesodden",59.78954,10.69612
+746103,"Ugleveien 4, Nesodden",59.789607,10.695125
+746104,"Ugleveien 8, Nesodden",59.789904,10.695105
+746105,"Ugleveien 9, Nesodden",59.790009,10.696001
+746106,"Terrassestien 20, Skoklefall",59.840681,10.692653
+746107,"Terrassestien 29, Skoklefall",59.840223,10.693308
+746108,"Ugleveien 1, Nesodden",59.789182,10.696066
+746109,"Ugleveien 2, Nesodden",59.789301,10.695217
+746110,"Terrassestien 14, Skoklefall",59.841616,10.69113
+746111,"Terrassestien 15, Skoklefall",59.840657,10.69167
+746112,"Terrassestien 27, Skoklefall",59.840025,10.692637
+746113,"Terrassestien 3, Skoklefall",59.840459,10.691035
+746114,"Terrassestien 5, Skoklefall",59.840842,10.691287
+746115,"Terrassestien 6, Skoklefall",59.840608,10.690615
+746116,"Terrassestien 12, Skoklefall",59.841248,10.691129
+746120,"Terrassestien 1, Skoklefall",59.840227,10.691613
+746363,"Trollveien 75, Skoklefall",59.848967,10.685255
+746364,"Trollveien 80, Skoklefall",59.849193,10.683731
+746367,"Trollveien 65, Skoklefall",59.847897,10.685326
+746368,"Trollveien 66, Skoklefall",59.848079,10.684407
+746369,"Trollveien 71, Skoklefall",59.848392,10.685262
+746370,"Trollveien 74, Skoklefall",59.848782,10.684246
+746371,"Trollveien 55, Skoklefall",59.8471,10.685143
+746372,"Trollveien 56, Skoklefall",59.847304,10.684618
+746373,"Trollveien 59, Skoklefall",59.847385,10.685318
+746374,"Trollveien 60, Skoklefall",59.84754,10.684433
+746375,"Trollveien 47, Skoklefall",59.846638,10.685441
+746376,"Trollveien 48, Skoklefall",59.846585,10.684688
+746377,"Trollveien 51, Skoklefall",59.846937,10.685224
+746378,"Trollveien 52, Skoklefall",59.846955,10.684529
+746379,"Trollveien 41, Skoklefall",59.845974,10.685425
+746380,"Terneveien 24, Nesodden",59.794946,10.703844
+746381,"Trollveien 44, Skoklefall",59.845846,10.684592
+746382,"Trollveien 45, Skoklefall",59.846197,10.68549
+746383,"Trollveien 46, Skoklefall",59.846314,10.684782
+746384,"Trollveien 28, Skoklefall",59.844787,10.684776
+746385,"Trollveien 29, Skoklefall",59.844876,10.68553
+746386,"Trollveien 35, Skoklefall",59.845432,10.68563
+746387,"Trollveien 36, Skoklefall",59.845463,10.684632
+746388,"Trollveien 17, Skoklefall",59.843944,10.686126
+746389,"Trollveien 20, Skoklefall",59.844108,10.685241
+746390,"Trollveien 23, Skoklefall",59.844514,10.685797
+746391,"Trollveien 24, Skoklefall",59.844342,10.685146
+746394,"Trollveien 16, Skoklefall",59.843608,10.685698
+746399,"Torvvikveien 80, Nesodden",59.815286,10.698569
+746400,"Torvvikveien 90, Nesodden",59.816324,10.698854
+746403,"Torvvikveien 71, Nesodden",59.813704,10.700004
+746404,"Torvvikveien 73, Nesodden",59.812954,10.699717
+746405,"Torvvikveien 75, Nesodden",59.812938,10.700233
+746406,"Torvvikveien 79, Nesodden",59.814787,10.699632
+746407,"Torvvikveien 44, Nesodden",59.812873,10.696949
+746408,"Torvvikveien 49, Nesodden",59.812426,10.698138
+746409,"Torvvikveien 56, Nesodden",59.813218,10.697323
+746410,"Torvvikveien 13, Nesodden",59.810969,10.692038
+746411,"Torvvikveien 14, Nesodden",59.811565,10.692478
+746412,"Torvvikveien 16, Nesodden",59.812037,10.692127
+746413,"Torvvikveien 24, Nesodden",59.812255,10.693297
+746415,"Torvvikveien 2, Nesodden",59.811153,10.688891
+746416,"Torvvikveien 3, Nesodden",59.810816,10.689926
+746417,"Torvvikveien 4, Nesodden",59.811134,10.689895
+746427,"Torvvikveien 59, Nesodden",59.813171,10.698854
+746431,"Tiurveien 39, Nesodden",59.787613,10.703505
+746432,"Tiurveien 43, Nesodden",59.788009,10.703383
+746433,"Tiurveien 47, Nesodden",59.788394,10.703492
+746434,"Tiurveien 51, Nesodden",59.788955,10.703182
+746435,"Tiurveien 29, Nesodden",59.786972,10.704435
+746436,"Tiurveien 31, Nesodden",59.787355,10.704668
+746437,"Tiurveien 33, Nesodden",59.787652,10.704648
+746438,"Tiurveien 37, Nesodden",59.787151,10.703785
+746439,"Tiurveien 15, Nesodden",59.785692,10.704779
+746440,"Tiurveien 17, Nesodden",59.785934,10.704827
+746441,"Tiurveien 23, Nesodden",59.786197,10.704645
+746442,"Tiurveien 27, Nesodden",59.78668,10.704099
+746443,"Terneveien 18, Nesodden",59.794248,10.70363
+746444,"Terneveien 20, Nesodden",59.794452,10.70389
+746445,"Terneveien 22, Nesodden",59.794759,10.703727
+746446,"Terneveien 10, Nesodden",59.793415,10.704176
+746447,"Terneveien 12, Nesodden",59.793635,10.703866
+746448,"Terneveien 14, Nesodden",59.793835,10.703662
+746449,"Terneveien 16, Nesodden",59.794019,10.70328
+746452,"Terneveien 6, Nesodden",59.79315,10.703841
+746453,"Terneveien 8, Nesodden",59.793375,10.703764
+746509,"Glenneveien 17, Nesodden",59.791269,10.691628
+746528,"Vinkelveien 27, Nesodden",59.794873,10.703288
+746529,"Vinkelveien 29, Nesodden",59.794514,10.702574
+746532,"Bergerstien 6, Skoklefall",59.83371,10.690622
+746533,"Hellvikalleen 8, Skoklefall",59.845456,10.690075
+746534,"Sefjellveien 7, Skoklefall",59.845376,10.689286
+746561,"Alex Olssons vei 4A, Skoklefall",59.841911,10.681472
+746562,"Alex Olssons vei 4B, Skoklefall",59.841739,10.68157
+746575,"Kjartan Veldes vei 13, Skoklefall",59.840106,10.675759
+746576,"Hellvikveien 103, Skoklefall",59.837609,10.689124
+746577,"Hellvikveien 105, Skoklefall",59.837879,10.689138
+746578,"Hellvikveien 109, Skoklefall",59.83815,10.688991
+746579,"Hellvikveien 91, Skoklefall",59.836542,10.688999
+746582,"Kjartan Veldes vei 9A, Skoklefall",59.840474,10.67519
+746585,"Hellvikstrand 17, Skoklefall",59.842547,10.691391
+746586,"Hellvikveien 89, Skoklefall",59.836787,10.688797
+746587,"Hellvikveien 53A, Skoklefall",59.833369,10.686429
+746588,"Hellvikveien 53B, Skoklefall",59.833238,10.686815
+746589,"Hellvikveien 53C, Skoklefall",59.83356,10.686885
+746590,"Hellvikveien 14, Skoklefall",59.832579,10.680056
+746591,"Hellvikveien 143, Skoklefall",59.841487,10.687911
+746592,"Hellvikveien 149, Skoklefall",59.842001,10.687723
+746593,"Hellvikveien 51, Skoklefall",59.83359,10.685959
+746594,"Hellvikveien 49, Skoklefall",59.833541,10.685564
+746595,"Hellvikveien 97, Skoklefall",59.837085,10.688687
+746596,"Hellvikveien 101, Skoklefall",59.837405,10.688936
+746597,"Hellvikveien 121, Skoklefall",59.839668,10.688943
+746598,"Hellvikveien 133, Skoklefall",59.840989,10.688207
+746599,"Hellvikveien 52, Skoklefall",59.834032,10.685125
+746600,"Hellvikveien 55, Skoklefall",59.833816,10.686577
+746601,"Hellvikveien 93, Skoklefall",59.836845,10.689228
+746602,"Hellvikveien 95, Skoklefall",59.83706,10.689204
+746603,"Søndre Flateby, Røerveien 64, Skoklefall",59.826605,10.680129
+746604,"Hellvikveien 20, Skoklefall",59.832621,10.681021
+746605,"Hellvikveien 30, Skoklefall",59.832942,10.682607
+746606,"Hellvikveien 50, Skoklefall",59.833922,10.68462
+746610,"Bergersletta 125, Skoklefall",59.835504,10.676028
+746615,"Rugdefaret 32, Skoklefall",59.835921,10.693268
+746616,"Rugdefaret 36, Skoklefall",59.83558,10.693286
+746617,"Vinkelveien 22, Nesodden",59.794638,10.70128
+746618,"Vinkelveien 23, Nesodden",59.7939,10.702775
+746619,"Vinkelveien 24, Nesodden",59.794674,10.701976
+746620,"Vinkelveien 25, Nesodden",59.794485,10.703393
+746621,"Vinkelveien 15, Nesodden",59.79369,10.701641
+746622,"Vinkelveien 16, Nesodden",59.793819,10.70138
+746623,"Vinkelveien 17, Nesodden",59.793837,10.702094
+746624,"Vinkelveien 21, Nesodden",59.793977,10.702369
+746627,"Vinkelveien 6, Nesodden",59.79327,10.700087
+746628,"Vinkelveien 10, Nesodden",59.793434,10.70063
+746693,"Jøtulsvingen 5, Skoklefall",59.838311,10.685573
+746694,"Hellvikveien 119, Skoklefall",59.839137,10.689059
+746695,"Rugdefaret 17, Skoklefall",59.83781,10.69099
+746696,"Hellvikskogsvei 87, Skoklefall",59.842003,10.68617
+746697,"Mosses vei 14, Skoklefall",59.842853,10.678735
+746698,"Mosses vei 12, Skoklefall",59.842635,10.678938
+746699,"Kirkevikveien 17, Nesodden",59.811831,10.696913
+746701,"Rugdefaret 13, Skoklefall",59.838295,10.690961
+746702,"Rugdefaret 15, Skoklefall",59.838051,10.691074
+746703,"Gamle Hellvikvei 83, Skoklefall",59.841319,10.686974
+746704,"Hilda Magnussens vei 1, Skoklefall",59.832361,10.682382
+746705,"Gamle Hellvikvei 69, Skoklefall",59.840144,10.68754
+746706,"Gamle Hellvikvei 71, Skoklefall",59.840335,10.687371
+746707,"Gamle Hellvikvei 75, Skoklefall",59.840659,10.687298
+746708,"Gamle Hellvikvei 79, Skoklefall",59.840971,10.687528
+746709,"Gamle Hellvikvei 38, Skoklefall",59.837147,10.68737
+746710,"Gamle Hellvikvei 41, Skoklefall",59.838295,10.688213
+746711,"Gamle Hellvikvei 63, Skoklefall",59.839639,10.687746
+746712,"Gamle Hellvikvei 65, Skoklefall",59.839855,10.687721
+746713,"Gamle Hellvikvei 30, Skoklefall",59.836577,10.686966
+746714,"Gamle Hellvikvei 31, Skoklefall",59.836445,10.688155
+746715,"Gamle Hellvikvei 34, Skoklefall",59.836762,10.687345
+746716,"Gamle Hellvikvei 36, Skoklefall",59.836931,10.68743
+746717,"Gamle Hellvikvei 19A, Skoklefall",59.835508,10.687382
+746718,"Gamle Hellvikvei 18, Skoklefall",59.835647,10.686652
+746719,"Gamle Hellvikvei 22, Skoklefall",59.836055,10.686387
+746720,"Gamle Hellvikvei 21A, Skoklefall",59.83588,10.687493
+746721,"Gamle Hellvikvei 9, Skoklefall",59.834787,10.687161
+746722,"Gamle Hellvikvei 11, Skoklefall",59.834944,10.686848
+746723,"Gamle Hellvikvei 12, Skoklefall",59.835431,10.686712
+746724,"Gamle Hellvikvei 15, Skoklefall",59.835034,10.687566
+746726,"Willy Thoresens vei 5, Skoklefall",59.841445,10.679967
+746727,"Willy Thoresens vei 7, Skoklefall",59.841095,10.679931
+746728,"Gamle Hellvikvei 8, Skoklefall",59.834934,10.686223
+746740,"Kirkeveien 128, Nesodden",59.802545,10.668045
+746743,"Sefjellveien 5, Skoklefall",59.845282,10.689638
+746754,"Hellvikveien 10, Skoklefall",59.832601,10.67904
+746779,"Willy Thoresens vei 27, Skoklefall",59.839258,10.680303
+746780,"Willy Thoresens vei 28, Skoklefall",59.839259,10.680927
+746781,"Willy Thoresens vei 33, Skoklefall",59.838673,10.680398
+746782,"Willy Thoresens vei 37, Skoklefall",59.838464,10.680584
+746783,"Willy Thoresens vei 15, Skoklefall",59.840322,10.679946
+746784,"Willy Thoresens vei 21, Skoklefall",59.839767,10.679864
+746785,"Willy Thoresens vei 23, Skoklefall",59.839529,10.680156
+746786,"Willy Thoresens vei 25, Skoklefall",59.839383,10.679667
+746790,"Willy Thoresens vei 11, Skoklefall",59.840728,10.679824
+746921,"Øst-Krangeveien 4, Nesodden",59.781737,10.691822
+746922,"Øst-Krangeveien 6, Nesodden",59.78143,10.691913
+746923,"Øst-Krangeveien 24, Nesodden",59.781393,10.694798
+746985,"Ringveien 58, Skoklefall",59.83897,10.692959
+746986,"Hellvikstrand 49, Skoklefall",59.839223,10.693039
+746988,"Eikåsveien 6, Skoklefall",59.83168,10.681509
+746990,"Hellvikstrand 57, Skoklefall",59.838377,10.693678
+746991,"Hellvikstrand 53, Skoklefall",59.838827,10.693629
+746992,"Eikåsveien 10, Skoklefall",59.831425,10.681782
+746993,"Eikåsveien 8, Skoklefall",59.831562,10.681664
+746994,"Eikåsveien 4, Skoklefall",59.831799,10.681337
+746995,"Eikåsveien 2, Skoklefall",59.831918,10.681164
+746997,"Sommerfrydveien 6, Skoklefall",59.832119,10.688632
+746998,"Sommerfrydveien 8, Skoklefall",59.831981,10.688215
+747004,"Hovdens vei 14, Skoklefall",59.831509,10.689957
+747007,"Eikåsveien 27, Skoklefall",59.831328,10.679564
+747010,"Willy Thoresens vei 36, Skoklefall",59.8386,10.68118
+747018,"Hellvikveien 193, Skoklefall",59.844338,10.691072
+747021,"Bergerveien 18, Skoklefall",59.833703,10.689747
+747029,"Fjordvangveien 48A, Skoklefall",59.831128,10.686034
+747031,"Eikåsveien 14, Skoklefall",59.831532,10.68118
+747039,"Naverudveien 130, Nesodden",59.793349,10.662991
+747041,"Eikåsveien 12, Skoklefall",59.831577,10.681165
+747043,"Eikåsveien 26, Skoklefall",59.831509,10.680822
+747045,"Eikåsveien 22, Skoklefall",59.831517,10.68093
+747047,"Eikåsveien 18, Skoklefall",59.831515,10.681055
+747049,"Eikåsveien 30, Skoklefall",59.831717,10.680779
+747050,"Hellvikalleen 3, Skoklefall",59.845255,10.691011
+747051,"Eikåsveien 24, Skoklefall",59.831555,10.680807
+747053,"Eikåsveien 20, Skoklefall",59.831571,10.680933
+747055,"Eikåsveien 16, Skoklefall",59.831569,10.681057
+747056,"Solåsveien 27, Skoklefall",59.836775,10.686461
+747057,"Eikåsveien 38, Skoklefall",59.831417,10.6803
+747058,"Eikåsveien 32, Skoklefall",59.831796,10.680872
+747059,"Solåsveien 33, Skoklefall",59.837206,10.686963
+747060,"Eikåsveien 28, Skoklefall",59.831724,10.680887
+747061,"Solåsveien 38, Skoklefall",59.837436,10.686528
+747062,"Eikåsveien 34, Skoklefall",59.831789,10.680765
+747063,"Solåsveien 16, Skoklefall",59.836537,10.684502
+747064,"Eikåsveien 36, Skoklefall",59.831416,10.680407
+747065,"Solåsveien 3, Skoklefall",59.836242,10.684963
+747066,"Eikåsveien 50, Skoklefall",59.831598,10.680256
+747067,"Solåsveien 12, Skoklefall",59.83668,10.683813
+747068,"Eikåsveien 46, Skoklefall",59.831534,10.680271
+747069,"Solåsveien 21, Skoklefall",59.836486,10.685677
+747070,"Eikåsveien 42, Skoklefall",59.831471,10.680285
+747071,"Hellvikveien 178, Skoklefall",59.844514,10.688582
+747072,"Eikåsveien 54, Skoklefall",59.831787,10.680194
+747073,"Gamle Hellvikvei 88, Skoklefall",59.841744,10.686764
+747074,"Eikåsveien 48, Skoklefall",59.831605,10.680363
+747075,"Hellvikskogsvei 89, Skoklefall",59.841733,10.686192
+747076,"Eikåsveien 44, Skoklefall",59.831533,10.680378
+747077,"Hellvikveien 187, Skoklefall",59.844121,10.690543
+747078,"Eikåsveien 40, Skoklefall",59.83147,10.680392
+747079,"Hellvikveien 167, Skoklefall",59.84366,10.689324
+747081,"Hellvikveien 179, Skoklefall",59.844502,10.689527
+747082,"Eikåsveien 56, Skoklefall",59.831867,10.680287
+747083,"Hellvikveien 170, Skoklefall",59.844195,10.688209
+747084,"Eikåsveien 52, Skoklefall",59.831795,10.680301
+747085,"Hellvikveien 180, Skoklefall",59.844781,10.688792
+747086,"Eikåsveien 58, Skoklefall",59.83185,10.680179
+747087,"Solåsveien 15, Skoklefall",59.835646,10.685331
+747088,"Solåsveien 39, Skoklefall",59.837459,10.687511
+747089,"Hellvikveien 165, Skoklefall",59.84358,10.688606
+747090,"Hellvikveien 171, Skoklefall",59.843943,10.688981
+747091,"Fjordvangveien 48B, Skoklefall",59.831006,10.685793
+747093,"Rudstrandveien 3, Nesodden",59.804274,10.702109
+747095,"Rudstrandveien 5, Nesodden",59.803447,10.702121
+747096,"Hellvikalleen 2, Skoklefall",59.844654,10.690249
+747098,"Solåsveien 7, Skoklefall",59.835764,10.684534
+747100,"Birkeveien 37, Skoklefall",59.845592,10.681515
+747101,"Hellvikveien 65, Skoklefall",59.834101,10.687448
+747102,"Røerveien 265, Nesodden",59.809037,10.688588
+747103,"Hovdens vei 11, Skoklefall",59.832069,10.689754
+747105,"Mosses vei 21, Skoklefall",59.843361,10.678993
+747107,"Mosses vei 29, Skoklefall",59.844221,10.678483
+747109,"Mosses vei 27, Skoklefall",59.844168,10.679122
+747111,"Mosses vei 25, Skoklefall",59.843886,10.679412
+747112,"Willy Thoresens vei 39, Skoklefall",59.838167,10.68064
+747115,"Mosses vei 13, Skoklefall",59.843486,10.679766
+747117,"Mosses vei 15, Skoklefall",59.843591,10.679308
+747119,"Mosses vei 19, Skoklefall",59.842953,10.679347
+747120,"Liaveien 26, Skoklefall",59.845949,10.682407
+747122,"Bergerveien 5, Skoklefall",59.833556,10.68792
+747124,"Evenstuveien 24, Skoklefall",59.832878,10.687547
+747132,"Bergerveien 11, Skoklefall",59.833036,10.687162
+747134,"Bergerveien 9, Skoklefall",59.833086,10.687607
+747136,"Bergerveien 7, Skoklefall",59.833255,10.687653
+747142,"Asgerds vei 35, Skoklefall",59.82685,10.687027
+747144,"Tiurveien 40, Nesodden",59.787576,10.7028
+747151,"Blylagveien 93, Nesodden",59.776756,10.700583
+747157,"Hovdens vei 21, Skoklefall",59.831396,10.689161
+747159,"Bergtunveien 11, Skoklefall",59.835277,10.683992
+747160,"Løkkeveien 4, Skoklefall",59.844153,10.680282
+747161,"Tiurveien 38, Nesodden",59.787077,10.703229
+747162,"Bergtunveien 28, Skoklefall",59.8352,10.681597
+747163,"Gartnerveien 20, Nesodden",59.780296,10.703293
+747167,"Ringveien 38, Skoklefall",59.840876,10.690718
+747168,"Bergtunveien 2, Skoklefall",59.834485,10.684844
+747169,"Kirkeveien 149, Nesodden",59.803651,10.665141
+747170,"Bergtunveien 5, Skoklefall",59.835191,10.685094
+747171,"Alex Olssons vei 28, Skoklefall",59.83963,10.682088
+747172,"Bergtunveien 7, Skoklefall",59.83518,10.684594
+747173,"Alex Olssons vei 34, Skoklefall",59.839123,10.682473
+747175,"Gamle Hellvikvei 10, Skoklefall",59.835139,10.686323
+747177,"Gamle Hellvikvei 14, Skoklefall",59.83541,10.686211
+747179,"Gamle Hellvikvei 16, Skoklefall",59.835724,10.686299
+747181,"Ringveien 36, Skoklefall",59.840766,10.69023
+747182,"Gamle Hellvikvei 2, Skoklefall",59.834378,10.685499
+747186,"Ringveien 57, Skoklefall",59.838602,10.69153
+747188,"Liaveien 21A, Skoklefall",59.845023,10.684026
+747193,"Ugleveien 12, Nesodden",59.790064,10.694542
+747194,"Ugleveien 10, Nesodden",59.790192,10.69503
+747195,"Løkkeveien 2, Skoklefall",59.844503,10.680335
+747197,"Ringveien 65, Skoklefall",59.83904,10.691731
+747199,"Hakkespettlia 1, Skoklefall",59.833727,10.688606
+747203,"Rugdefaret 21, Skoklefall",59.837684,10.691698
+747204,"Rugdefaret 11, Skoklefall",59.838284,10.691817
+747206,"Kirkeveien 154, Nesodden",59.802345,10.664701
+747207,"Kirkeveien 158, Nesodden",59.802454,10.663887
+747208,"Kirkeveien 152, Nesodden",59.802817,10.665028
+747209,"Kirkeveien 148, Nesodden",59.803156,10.665223
+747234,"Kirkeveien 173, Nesodden",59.80337,10.661811
+747235,"Kirkeveien 176, Nesodden",59.801722,10.660731
+747236,"Kirkeveien 200, Nesodden",59.800705,10.657293
+747237,"Kirkeveien 225, Nesodden",59.803043,10.653523
+747238,"Kirkeveien 132, Nesodden",59.803187,10.668538
+747239,"Kirkeveien 136, Nesodden",59.803081,10.667572
+747240,"Kirkeveien 144, Nesodden",59.803184,10.666526
+747241,"Kirkeveien 170, Nesodden",59.802139,10.661857
+747242,"Kirkeveien 118, Nesodden",59.803148,10.670838
+747243,"Kirkeveien 124, Nesodden",59.803217,10.669611
+747244,"Kirkeveien 125, Nesodden",59.804003,10.670649
+747245,"Kirkeveien 95, Nesodden",59.804676,10.673517
+747246,"Kirkeveien 99, Nesodden",59.804578,10.672799
+747247,"Kirkeveien 103, Nesodden",59.803972,10.672377
+747248,"Kirkeveien 107, Nesodden",59.803823,10.671424
+747249,"Kirkeveien 71, Nesodden",59.805231,10.67654
+747250,"Kirkeveien 85, Nesodden",59.805625,10.669536
+747251,"Kirkeveien 91, Nesodden",59.804732,10.674786
+747252,"Kirkeveien 93, Nesodden",59.804862,10.673776
+747253,"Kirkeveien 61, Nesodden",59.808122,10.680108
+747254,"Kirkeveien 65, Nesodden",59.805604,10.678234
+747255,"Kirkeveien 67, Nesodden",59.805428,10.67794
+747256,"Kirkeveien 69, Nesodden",59.805375,10.677171
+747257,"Kirkeveien 48, Nesodden",59.805136,10.682543
+747258,"Kirkeveien 53, Nesodden",59.805616,10.678716
+747259,"Kirkeveien 56, Nesodden",59.803887,10.681196
+747260,"Kirkeveien 57, Nesodden",59.807084,10.679824
+747261,"Kirkeveien 30, Nesodden",59.804999,10.685495
+747262,"Kirkeveien 34, Nesodden",59.803671,10.684733
+747263,"Kirkeveien 38, Nesodden",59.80264,10.684592
+747264,"Kirkeveien 44, Nesodden",59.803014,10.683452
+747266,"Kirkeveien 12, Nesodden",59.805187,10.68768
+747267,"Kirkeveien 15, Nesodden",59.806051,10.687527
+747268,"Kirkeveien 18, Nesodden",59.804154,10.686968
+747280,"Alex Olssons vei 24, Skoklefall",59.839956,10.681944
+747282,"Hellvikalleen 6, Skoklefall",59.845122,10.690201
+747285,"Alex Olssons vei 26, Skoklefall",59.839768,10.681899
+747286,"Alex Olssons vei 20, Skoklefall",59.840282,10.681711
+747287,"Alex Olssons vei 22, Skoklefall",59.84012,10.68172
+747298,"Krangeveien 24, Nesodden",59.779981,10.690094
+747301,"Kjartan Veldes vei 1, Skoklefall",59.841026,10.674806
+747304,"Mosses vei 31, Skoklefall",59.844339,10.678381
+747322,"Liaveien 20, Skoklefall",59.845039,10.682647
+747324,"Liaveien 2, Skoklefall",59.843807,10.683495
+747325,"Liaveien 6, Skoklefall",59.84412,10.683582
+747327,"Røerveien 17, Skoklefall",59.830301,10.676979
+747331,"Flateby Skogsvei 14, Skoklefall",59.826836,10.690202
+747351,"Haslerudveien 17, Nesodden",59.771907,10.699838
+747353,"Haslerudveien 14, Nesodden",59.77105,10.697995
+747354,"Haslerudveien 6, Nesodden",59.770617,10.698134
+747355,"Haslerudveien 11, Nesodden",59.771088,10.69928
+747356,"Rudstrandveien 6, Nesodden",59.803836,10.704707
+747357,"Haslerudveien 21, Nesodden",59.771873,10.698233
+747358,"Haslerudveien 3, Nesodden",59.770794,10.699087
+747359,"Rudstrandveien 12, Nesodden",59.803178,10.703462
+747360,"Rudstrandveien 16, Nesodden",59.80119,10.70443
+747361,"Rudstrandveien 18A, Nesodden",59.799964,10.704057
+747362,"Rudstrandveien 10, Nesodden",59.803777,10.70367
+747363,"Rudstrandveien 2, Nesodden",59.808319,10.703207
+747364,"Rudstrandveien 4, Nesodden",59.805138,10.704685
+747365,"Kirkeåsveien 49, Nesodden",59.807405,10.692623
+747366,"Presteskjærveien 131, Nesodden",59.811489,10.698358
+747367,"Baltsrudveien 11, Nesodden",59.804309,10.667117
+747368,"Røerveien 237, Nesodden",59.812651,10.683421
+747371,"Hellvikveien 183, Skoklefall",59.844355,10.689752
+747375,"Presteskjærveien 127, Nesodden",59.811355,10.69762
+747376,"Røerveien 51, Skoklefall",59.827894,10.677679
+747377,"Røerveien 256, Nesodden",59.810546,10.690714
+747380,"Hellvikveien 196, Skoklefall",59.845596,10.691082
+747381,"Sefjellveien 3, Skoklefall",59.845095,10.689468
+747382,"Chr Bjønnes vei 7, Skoklefall",59.841665,10.685225
+747386,"Hellvikveien 198, Skoklefall",59.844933,10.691619
+747404,"Rådyrveien 28, Skoklefall",59.82749,10.690289
+747409,"Grøstadveien 21, Nesodden",59.783255,10.693877
+747411,"Grøstadveien 23, Nesodden",59.782414,10.694351
+747413,"Solbergveien 60, Nesodden",59.822669,10.690152
+747415,"Solbergveien 63, Nesodden",59.822189,10.69043
+747416,"Birkeveien 13, Skoklefall",59.84381,10.682513
+747417,"Krangeveien 29, Nesodden",59.780933,10.690802
+747419,"Fundingrudveien 152, Nesodden",59.770083,10.669755
+747422,"Øst-Krangeveien 26, Nesodden",59.781542,10.69509
+747424,"Jaerveien 104, Nesodden",59.797495,10.693565
+747426,"Flateby Skogsvei 24, Skoklefall",59.827263,10.691148
+747429,"Birkeveien 11, Skoklefall",59.843677,10.6824
+747435,"Evenstuveien 18, Skoklefall",59.832806,10.686205
+747436,"Kirkeveien 127, Nesodden",59.803932,10.669897
+747437,"Evenstuveien 16, Skoklefall",59.832738,10.685771
+747447,"Birkeveien 12B, Skoklefall",59.843534,10.680911
+747448,"Birkeveien 44, Skoklefall",59.846309,10.680283
+747449,"Grøstadveien 22, Nesodden",59.784042,10.694148
+747451,"Lise Maries vei 39, Skoklefall",59.827169,10.692253
+747453,"Flateby Skogsvei 22, Skoklefall",59.827207,10.691127
+747457,"Ringveien 56, Skoklefall",59.839021,10.692462
+747461,"Birkeveien 12A, Skoklefall",59.843319,10.680936
+747462,"Blylagveien 63, Nesodden",59.777472,10.700085
+747468,"Hellvikveien 46, Skoklefall",59.833527,10.683904
+747470,"Hellvikveien 35A, Skoklefall",59.832397,10.683775
+747472,"Hellvikveien 35B, Skoklefall",59.832603,10.683768
+747474,"Hellvikveien 35C, Skoklefall",59.832411,10.684097
+747476,"Jaerveien 67, Nesodden",59.797987,10.685997
+747478,"Gamle Hellvikvei 17A, Skoklefall",59.835236,10.687184
+747480,"Gamle Hellvikvei 17B, Skoklefall",59.835083,10.68721
+747482,"Hellvikveien 36, Skoklefall",59.833326,10.683483
+747484,"Alex Olssons vei 30B, Skoklefall",59.83946,10.682098
+747487,"Kirkeåsveien 57, Nesodden",59.808235,10.694395
+747488,"Presteskjærveien 136, Nesodden",59.810853,10.697616
+747489,"Rudstrandveien 18B, Nesodden",59.799455,10.70386
+747493,"Furubakken 19, Skoklefall",59.841239,10.684864
+747494,"Hellvikveien 54, Skoklefall",59.834134,10.684862
+747558,"Gullerudveien 2, Nesodden",59.770691,10.691032
+747560,"Gullerudveien 9, Nesodden",59.771449,10.687971
+747570,"Glenneveien 11, Nesodden",59.790926,10.68965
+747580,"Evenstuveien 10, Skoklefall",59.833064,10.68636
+747582,"Evenstuveien 12, Skoklefall",59.832984,10.685643
+747592,"Evenstuveien 6, Skoklefall",59.833345,10.685483
+747594,"Evenstuveien 8, Skoklefall",59.833214,10.685922
+747603,"Eikåsveien 15, Skoklefall",59.831245,10.679025
+747604,"Jaerveien 71, Nesodden",59.798171,10.688502
+747612,"Eikåsveien 23, Skoklefall",59.831754,10.679265
+747613,"Fundingrudveien 230, Nesodden",59.766768,10.654881
+747614,"Eikåsveien 21, Skoklefall",59.831676,10.679011
+747616,"Eikåsveien 19, Skoklefall",59.831561,10.678898
+747618,"Eikåsveien 17, Skoklefall",59.831399,10.678926
+747622,"Røer gård, Røerveien 195, Nesodden",59.814232,10.677759
+747623,"Røer gård, Røerveien 193, Nesodden",59.813103,10.67829
+747624,"Loftuveien 3, Nesodden",59.793501,10.691937
+747628,"Jøtulsvingen 14, Skoklefall",59.838967,10.684821
+747632,"Gamle Hellvikvei 40, Skoklefall",59.837582,10.687785
+747633,"Ringveien 3, Skoklefall",59.842926,10.688403
+747635,"Blylagveien 44, Nesodden",59.777513,10.696578
+747636,"Jøtulsvingen 16, Skoklefall",59.83921,10.684762
+747637,"Jaerveien 64, Nesodden",59.799487,10.691598
+747638,"Jaerveien 62, Nesodden",59.799493,10.691884
+747639,"Jaerveien 129, Nesodden",59.794176,10.689743
+747640,"Evenstuveien 33, Skoklefall",59.832804,10.689184
+747641,"Jaerveien 106, Nesodden",59.797527,10.696668
+747642,"Jaerveien 108, Nesodden",59.797588,10.696083
+747643,"Jaerveien 111, Nesodden",59.795421,10.690038
+747644,"Jaerveien 127, Nesodden",59.79418,10.690135
+747645,"Jaerveien 65, Nesodden",59.799434,10.68525
+747646,"Jaerveien 69, Nesodden",59.797853,10.686685
+747647,"Jaerveien 73, Nesodden",59.798974,10.690325
+747648,"Jaerveien 57, Nesodden",59.800213,10.690316
+747649,"Jaerveien 59, Nesodden",59.800007,10.68961
+747650,"Jaerveien 61, Nesodden",59.799064,10.686051
+747651,"Jaerveien 63, Nesodden",59.799381,10.685907
+747652,"Rugdefaret 39, Skoklefall",59.836484,10.692119
+747653,"Rugdefaret 25, Skoklefall",59.837077,10.692077
+747654,"Rugdefaret 27, Skoklefall",59.83728,10.691713
+747655,"Rugdefaret 23, Skoklefall",59.836871,10.692067
+747656,"Rugdefaret 31, Skoklefall",59.837118,10.691027
+747657,"Rugdefaret 33, Skoklefall",59.836943,10.691357
+747658,"Rugdefaret 35, Skoklefall",59.83668,10.69154
+747659,"Rugdefaret 37, Skoklefall",59.836453,10.691707
+747660,"Jaerveien 60, Nesodden",59.799808,10.691793
+747661,"Jaerveien 58, Nesodden",59.800246,10.691993
+747663,"Rugdefaret 29, Skoklefall",59.837353,10.690914
+747664,"Jaerveien 39, Nesodden",59.802058,10.690766
+747665,"Jaerveien 47, Nesodden",59.800962,10.690782
+747666,"Jaerveien 56, Nesodden",59.800327,10.691962
+747668,"Sjølies vei 11, Skoklefall",59.829286,10.684707
+747669,"Sjølies vei 13, Skoklefall",59.829214,10.684721
+747670,"Solåsveien 24, Skoklefall",59.836925,10.685753
+747671,"Jaerveien 43, Nesodden",59.801627,10.690762
+747672,"Enerhøgdveien 12, Skoklefall",59.829149,10.684218
+747673,"Enerhøgdveien 10, Skoklefall",59.829212,10.684221
+747674,"Sjølies vei 7, Skoklefall",59.829537,10.684737
+747675,"Sjølies vei 9, Skoklefall",59.829456,10.684751
+747679,"Enerhøgdveien 6, Skoklefall",59.829527,10.684166
+747680,"Rådyrveien 27, Skoklefall",59.827644,10.688798
+747681,"Rådyrveien 23, Skoklefall",59.827704,10.689711
+747682,"Rådyrveien 25, Skoklefall",59.827691,10.689318
+747691,"Hasleveien 210, Nesodden",59.773925,10.693048
+747692,"Jøtulsvingen 12, Skoklefall",59.838733,10.684863
+747694,"Hasleveien 179, Nesodden",59.775983,10.689465
+747695,"Hasleveien 183, Nesodden",59.775755,10.689738
+747696,"Hasleveien 185, Nesodden",59.77556,10.689532
+747697,"Hasleveien 215, Nesodden",59.77198,10.689939
+747702,"Hasleveien 79, Nesodden",59.784747,10.68891
+747703,"Hasleveien 81, Nesodden",59.784419,10.689268
+747704,"Hasleveien 151, Nesodden",59.778627,10.687781
+747705,"Hasleveien 155, Nesodden",59.779348,10.687586
+747706,"Hasleveien 11, Nesodden",59.791959,10.686869
+747707,"Hasleveien 70, Nesodden",59.787714,10.690093
+747708,"Nordre Grøstad, Hasleveien 76, Nesodden",59.784766,10.694399
+747709,"Hasleveien 77, Nesodden",59.785048,10.689264
+747710,"Ringveien 13, Skoklefall",59.842465,10.68871
+747712,"Hasleveien 5, Nesodden",59.791897,10.688879
+747713,"Hasleveien 7, Nesodden",59.79162,10.688741
+747719,"Evenstuveien 13D, Skoklefall",59.832823,10.684189
+747729,"Asgerds vei 53, Skoklefall",59.825567,10.687569
+747730,"Lise Maries vei 27, Skoklefall",59.82837,10.690549
+747731,"Bergerveien 4, Skoklefall",59.833954,10.68769
+747738,"Kjartan Veldes vei 17, Skoklefall",59.839988,10.675878
+747743,"Kjartan Veldes vei 3, Skoklefall",59.840962,10.674856
+747744,"Kjartan Veldes vei 5, Skoklefall",59.840899,10.674907
+747745,"Kjartan Veldes vei 15, Skoklefall",59.840034,10.675827
+747747,"Alex Olssons vei 30A, Skoklefall",59.839487,10.682081
+747752,"Løeshagaveien 63, Nesodden",59.806393,10.681144
+747756,"Nordhagaveien 11, Nesodden",59.805565,10.673579
+747757,"Nordhagaveien 21, Nesodden",59.806273,10.672242
+747758,"Nordhagaveien 27, Nesodden",59.805635,10.671551
+747759,"Nordhagaveien 31, Nesodden",59.805503,10.670635
+747760,"Gamle Hellvikvei 61, Skoklefall",59.839585,10.687761
+747761,"Gamle Hellvikvei 47, Skoklefall",59.838584,10.688067
+747762,"Gamle Hellvikvei 53, Skoklefall",59.839133,10.68797
+747763,"Nordhagaveien 3, Nesodden",59.805322,10.675689
+747764,"Gamle Hellvikvei 51, Skoklefall",59.838989,10.687999
+747765,"Gamle Hellvikvei 55, Skoklefall",59.839205,10.687956
+747766,"Gamle Hellvikvei 57, Skoklefall",59.839349,10.687963
+747767,"Gamle Hellvikvei 59, Skoklefall",59.839412,10.687949
+747768,"Ringveien 52, Skoklefall",59.839503,10.6927
+747769,"Gamle Hellvikvei 49, Skoklefall",59.838917,10.688013
+747778,"Fundingrudveien 75, Nesodden",59.777033,10.679757
+747782,"Fundingrudveien 102, Nesodden",59.771858,10.674973
+747783,"Fundingrudveien 100, Nesodden",59.772451,10.677051
+747784,"Fundingrudveien 138, Nesodden",59.771152,10.671203
+747785,"Fundingrudveien 189, Nesodden",59.770712,10.661897
+747787,"Fundingrudveien 73, Nesodden",59.777144,10.680154
+747788,"Fundingrudveien 65, Nesodden",59.775439,10.680104
+747789,"Fundingrudveien 104, Nesodden",59.772964,10.674815
+747790,"Sandåsveien 91, Nesodden",59.778473,10.661125
+747791,"Fundingrudveien 181, Nesodden",59.771168,10.662792
+747792,"Fundingrudveien 228, Nesodden",59.766965,10.655657
+747793,"Fundingrudveien 251, Nesodden",59.769028,10.652981
+747794,"Fundingrudveien 87, Nesodden",59.775444,10.678982
+747795,"Fundingrudveien 89, Nesodden",59.775207,10.679273
+747796,"Fundingrudveien 99, Nesodden",59.776925,10.672021
+747797,"Fundingrudveien 150, Nesodden",59.770357,10.669359
+747798,"Fundingrudveien 64, Nesodden",59.774652,10.680474
+747799,"Fundingrudveien 67, Nesodden",59.775784,10.679801
+747800,"Fundingrudveien 77, Nesodden",59.776719,10.679687
+747801,"Fundingrudveien 81, Nesodden",59.775876,10.678915
+747802,"Fundingrudveien 45, Nesodden",59.776645,10.681964
+747803,"Fundingrudveien 48, Nesodden",59.776156,10.683008
+747804,"Fundingrudveien 49, Nesodden",59.775969,10.682161
+747805,"Fundingrudveien 59, Nesodden",59.776219,10.680891
+747806,"Rudstrandveien 8, Nesodden",59.803798,10.704171
+747807,"Haslerudveien 23, Nesodden",59.772262,10.698021
+747808,"Fundingrudveien 41, Nesodden",59.776736,10.682592
+747809,"Fundingrudveien 42, Nesodden",59.776342,10.68316
+747810,"Flateby Skogsvei 33, Skoklefall",59.827892,10.692332
+747811,"Røerveien 233, Nesodden",59.81168,10.687045
+747812,"Presteskjærveien 135, Nesodden",59.811999,10.699187
+747813,"Presteskjærveien 133, Nesodden",59.811601,10.699434
+747814,"Rådyrveien 34, Skoklefall",59.827027,10.68998
+747815,"Presteskjærveien 123, Nesodden",59.810516,10.700003
+747816,"Presteskjærveien 120, Nesodden",59.810428,10.699196
+747820,"Blylagveien 9, Nesodden",59.7776,10.691577
+747821,"Blylagveien 7, Nesodden",59.777619,10.690741
+747822,"Liaveien 56, Skoklefall",59.849387,10.681849
+747823,"Enerhøgdveien 18, Skoklefall",59.828281,10.68396
+747824,"Løkkeveien 16A, Skoklefall",59.845213,10.679611
+747829,"Asgerds vei 39, Skoklefall",59.826533,10.68719
+747831,"Lise Maries vei 17, Skoklefall",59.829282,10.689934
+747835,"Furubakken 9, Skoklefall",59.840398,10.686696
+747841,"Liaveien 35, Skoklefall",59.846267,10.684244
+747842,"Furubakken 7, Skoklefall",59.840064,10.686822
+747843,"Hellvikstrand 11, Skoklefall",59.843492,10.690511
+747844,"Gamle Hellvikvei 39, Skoklefall",59.837012,10.688113
+747845,"Gamle Hellvikvei 37, Skoklefall",59.836824,10.688014
+747846,"Terrassestien 16, Skoklefall",59.841162,10.691535
+747847,"Willy Thoresens vei 31, Skoklefall",59.838934,10.680394
+747848,"Willy Thoresens vei 19, Skoklefall",59.839852,10.680172
+747890,"Willy Thoresens vei 13, Skoklefall",59.840528,10.68001
+747891,"Willy Thoresens vei 9, Skoklefall",59.840875,10.679927
+747900,"Fjordvangveien 71, Skoklefall",59.831075,10.690934
+747928,"Lise Maries vei 20B, Skoklefall",59.829118,10.690799
+747929,"Flateby Skogsvei 23, Skoklefall",59.82688,10.691667
+747934,"Rådyrveien 51, Skoklefall",59.825538,10.68912
+747935,"Lise Maries vei 20A, Skoklefall",59.829283,10.690558
+747940,"Pinnsvinveien 3, Skoklefall",59.830407,10.67991
+747944,"Pinnsvinveien 14, Skoklefall",59.831064,10.679141
+747945,"Pinnsvinveien 11, Skoklefall",59.831145,10.679787
+747946,"Pinnsvinveien 9, Skoklefall",59.830911,10.679847
+747947,"Pinnsvinveien 5, Skoklefall",59.830642,10.679797
+747948,"Pinnsvinveien 6, Skoklefall",59.830621,10.678655
+747949,"Pinnsvinveien 8, Skoklefall",59.830614,10.679189
+747950,"Pinnsvinveien 10, Skoklefall",59.830918,10.678598
+747951,"Pinnsvinveien 12, Skoklefall",59.830904,10.678972
+747955,"Pinnsvinveien 4, Skoklefall",59.830162,10.678703
+747958,"Glenneveien 184, Nesodden",59.779194,10.706497
+747959,"Krangeveien 27, Nesodden",59.780721,10.690524
+747962,"Kjensliveien 171, Nesodden",59.788585,10.66831
+747963,"Solåsveien 10, Skoklefall",59.836464,10.683891
+747964,"Solåsveien 8, Skoklefall",59.836238,10.683969
+747966,"Flateby Skogsvei 2, Skoklefall",59.826922,10.687673
+747967,"Kjensliveien 26, Nesodden",59.779215,10.681879
+747968,"Kjensliveien 50, Nesodden",59.780937,10.676579
+747969,"Kjensliveien 153, Nesodden",59.788513,10.671834
+747973,"Presteskjærveien 137, Nesodden",59.811983,10.700434
+747983,"Harekroken 4B, Skoklefall",59.843329,10.68713
+747984,"Harekroken 4A, Skoklefall",59.843149,10.687192
+747986,"Øvre Solåsen 40, Skoklefall",59.839631,10.682784
+747987,"Hovdens vei 19, Skoklefall",59.831605,10.689341
+747993,"Øvre Solåsen 38, Skoklefall",59.839498,10.683295
+748010,"Flateby Skogsvei 13, Skoklefall",59.826198,10.690223
+748012,"Trollveien 14, Skoklefall",59.843057,10.685938
+748015,"Kirkeveien 223, Nesodden",59.803344,10.653676
+748017,"Lise Maries vei 24, Skoklefall",59.828873,10.691019
+748019,"Fjordveien 104, Skoklefall",59.820213,10.696751
+748045,"Solåsveien 1, Skoklefall",59.835715,10.684193
+748050,"Liaveien 17, Skoklefall",59.844507,10.684191
+748051,"Solåsveien 9, Skoklefall",59.835602,10.684544
+748054,"Solhaugveien 5, Skoklefall",59.832206,10.686763
+748055,"Gartnerveien 12, Nesodden",59.779065,10.703266
+748057,"Sefjellveien 11, Skoklefall",59.84558,10.688814
+748065,"Hellvikstrand 70, Skoklefall",59.837419,10.694861
+748068,"Øvre Solåsen 41, Skoklefall",59.839705,10.68468
+748069,"Øvre Solåsen 43, Skoklefall",59.839724,10.683878
+748070,"Gamle Hellvikvei 33, Skoklefall",59.836617,10.688057
+748072,"Flateby Skogsvei 17, Skoklefall",59.826436,10.690596
+748073,"Øvre Solåsen 35, Skoklefall",59.839393,10.683772
+748074,"Øvre Solåsen 37, Skoklefall",59.839452,10.684132
+748075,"Øvre Solåsen 39, Skoklefall",59.839497,10.684776
+748076,"Ursvikveien 31, Skoklefall",59.84707,10.681179
+748077,"Liaveien 24, Skoklefall",59.845766,10.682393
+748098,"Ugleveien 23, Nesodden",59.791354,10.695463
+748099,"Ugleveien 25, Nesodden",59.791393,10.695929
+748100,"Gamle Bomansvikvei 6, Nesodden",59.791337,10.696781
+748103,"Asgerds vei 47, Skoklefall",59.826023,10.687039
+748104,"Asgerds vei 43, Skoklefall",59.826306,10.687428
+748118,"Øvre Solåsen 31, Skoklefall",59.839068,10.683952
+748119,"Øvre Solåsen 29, Skoklefall",59.838918,10.683694
+748123,"Hellvikskogsvei 49, Skoklefall",59.84216,10.682305
+748126,"Toveien 19, Skoklefall",59.826802,10.676678
+748127,"Flateby Skogsvei 4, Skoklefall",59.826941,10.688299
+748130,"Hellvikstrand 67, Skoklefall",59.837422,10.693933
+748131,"Hellvikstrand 69, Skoklefall",59.837319,10.694249
+748132,"Willy Thoresens vei 17, Skoklefall",59.840218,10.680423
+748133,"Nordre Grøstad, Hasleveien 80, Nesodden",59.78592,10.695526
+748134,"Jøtulsvingen 2, Skoklefall",59.838673,10.683878
+748135,"Øvre Solåsen 16, Skoklefall",59.837538,10.6835
+748136,"Rådyrveien 13, Skoklefall",59.828443,10.688821
+748137,"Toveien 35, Skoklefall",59.826514,10.674595
+748140,"Jøtulsvingen 4, Skoklefall",59.838758,10.684293
+748141,"Sørbyveien 99, Skoklefall",59.819419,10.698423
+748144,"Øvre Solåsen 36, Skoklefall",59.83944,10.682918
+748145,"Sørbyveien 98, Skoklefall",59.819498,10.697196
+748148,"Hellvikstrand 44, Skoklefall",59.839715,10.694424
+748151,"Trollveien 67, Skoklefall",59.848158,10.685303
+748175,"Kongebråtveien 68, Nesodden",59.786369,10.680119
+748176,"Kongebråtveien 69, Nesodden",59.786589,10.681876
+748177,"Hellvikstrand 13, Skoklefall",59.843055,10.691007
+748179,"Kongebråtveien 61, Nesodden",59.785836,10.681749
+748180,"Kongebråtveien 62, Nesodden",59.785555,10.680541
+748181,"Kongebråtveien 65, Nesodden",59.786119,10.681425
+748182,"Kongebråtveien 66, Nesodden",59.786232,10.68095
+748183,"Kongebråtveien 3, Nesodden",59.787314,10.688363
+748184,"Kongebråtveien 64, Nesodden",59.786013,10.680546
+748185,"Kongebråtveien 72, Nesodden",59.786706,10.681116
+748186,"Kongebråtveien 56, Nesodden",59.785299,10.681597
+748189,"Lise Maries vei 30, Skoklefall",59.828288,10.69181
+748191,"Flateby Skogsvei 39, Skoklefall",59.828011,10.69308
+748193,"Enerhøgdveien 5A, Skoklefall",59.829491,10.683468
+748194,"Enerhøgdveien 5C, Skoklefall",59.829344,10.683509
+748196,"Flateby Skogsvei 43, Skoklefall",59.828553,10.69284
+748197,"Flateby Skogsvei 45, Skoklefall",59.828848,10.69298
+748198,"Flateby Skogsvei 35, Skoklefall",59.828262,10.692433
+748207,"Fundingrudveien 72, Nesodden",59.77348,10.679156
+748208,"Røerveien 129, Nesodden",59.820573,10.676348
+748209,"Røerveien 125, Nesodden",59.821509,10.676894
+748210,"Røerveien 127, Nesodden",59.819746,10.67504
+748213,"Rådyrveien 60, Skoklefall",59.82473,10.691257
+748216,"Sefjellveien 13, Skoklefall",59.845882,10.688383
+748217,"Hellvikalleen 40, Skoklefall",59.847218,10.68713
+748224,"Sefjellveien 9, Skoklefall",59.845549,10.689152
+748255,"Øvre Solåsen 12, Skoklefall",59.837088,10.683548
+748259,"Solåsveien 32, Skoklefall",59.837607,10.685787
+748261,"Øvre Solåsen 2, Skoklefall",59.836658,10.684901
+748262,"Øvre Solåsen 4, Skoklefall",59.836753,10.684477
+748263,"Rådyrveien 35, Skoklefall",59.827044,10.68941
+748264,"Bøkeveien 25, Nesodden",59.776446,10.70299
+748265,"Bøkeveien 43, Nesodden",59.775141,10.700465
+748266,"Bøkeveien 21, Nesodden",59.775799,10.703758
+748267,"Ugleveien 27C, Nesodden",59.791808,10.695807
+748268,"Ugleveien 27D, Nesodden",59.791794,10.696163
+748269,"Ugleveien 27E, Nesodden",59.791633,10.696101
+748270,"Ugleveien 27F, Nesodden",59.791986,10.6966
+748273,"Ugleveien 27A, Nesodden",59.791529,10.695517
+748274,"Ugleveien 27B, Nesodden",59.791646,10.695781
+748275,"Sørbyveien 91, Skoklefall",59.818859,10.697949
+748276,"Sørbyveien 35, Nesodden",59.817802,10.690779
+748277,"Sørbyveien 37, Nesodden",59.818263,10.690553
+748278,"Sørbyveien 74, Skoklefall",59.81906,10.696318
+748279,"Toveien 125, Skoklefall",59.823442,10.661223
+748280,"Toveien 141, Skoklefall",59.824024,10.658505
+748281,"Toveien 162, Skoklefall",59.822846,10.655718
+748282,"Toveien 164, Skoklefall",59.822774,10.655018
+748283,"Toveien 115, Skoklefall",59.822921,10.662642
+748284,"Toveien 118, Skoklefall",59.822411,10.661047
+748285,"Toveien 120, Skoklefall",59.822679,10.661863
+748286,"Toveien 122, Skoklefall",59.822908,10.661518
+748287,"Toveien 50, Skoklefall",59.825143,10.672278
+748288,"Toveien 73, Skoklefall",59.824176,10.66918
+748289,"Toveien 77, Skoklefall",59.823896,10.668595
+748290,"Toveien 114, Skoklefall",59.822448,10.662404
+748291,"Toveien 31, Skoklefall",59.827343,10.674387
+748292,"Toveien 38, Skoklefall",59.825762,10.673719
+748293,"Toveien 39, Skoklefall",59.826009,10.673356
+748294,"Toveien 44, Skoklefall",59.825371,10.673396
+748295,"Øvre Solåsen 28, Skoklefall",59.838335,10.682969
+748296,"Asgerds vei 24A, Skoklefall",59.827913,10.687734
+748297,"Toveien 17, Skoklefall",59.827181,10.67725
+748298,"Toveien 18, Skoklefall",59.82584,10.676095
+748299,"Øvre Solåsen 20, Skoklefall",59.838017,10.68322
+748300,"Øvre Solåsen 22, Skoklefall",59.83821,10.683623
+748301,"Øvre Solåsen 24, Skoklefall",59.838417,10.68358
+748302,"Øvre Solåsen 26, Skoklefall",59.838628,10.683233
+748303,"Øvre Solåsen 19, Skoklefall",59.838336,10.684272
+748304,"Øvre Solåsen 8, Skoklefall",59.837065,10.684618
+748305,"Øvre Solåsen 14, Skoklefall",59.837323,10.683471
+748306,"Øvre Solåsen 18, Skoklefall",59.837799,10.683406
+748307,"Øvre Solåsen 11, Skoklefall",59.83752,10.684891
+748308,"Øvre Solåsen 13, Skoklefall",59.83758,10.68443
+748309,"Øvre Solåsen 15, Skoklefall",59.837795,10.684458
+748310,"Øvre Solåsen 17, Skoklefall",59.837969,10.684335
+748312,"Øvre Solåsen 1, Skoklefall",59.836777,10.685406
+748313,"Øvre Solåsen 3, Skoklefall",59.837039,10.685295
+748314,"Øvre Solåsen 9, Skoklefall",59.837752,10.685027
+748428,"Bergtunveien 1, Skoklefall",59.834967,10.685725
+748429,"Jøtulsvingen 1, Skoklefall",59.838418,10.684865
+748430,"Jøtulsvingen 3A, Skoklefall",59.838202,10.684943
+748431,"Jøtulsvingen 3B, Skoklefall",59.837989,10.685062
+748434,"Bergtunveien 3, Skoklefall",59.83533,10.685458
+748435,"Gamle Hellvikvei 6, Skoklefall",59.834797,10.685734
+748443,"Gamle Hellvikvei 90, Skoklefall",59.841829,10.687143
+748456,"Hellvikskogsvei 4, Skoklefall",59.842728,10.673696
+748458,"Toveien 160, Skoklefall",59.822993,10.656206
+748534,"Hellvikveien 123, Skoklefall",59.840054,10.688938
+748535,"Hellvikveien 125, Skoklefall",59.840146,10.688789
+748547,"Fjordvangveien 80E, Skoklefall",59.831563,10.691369
+748548,"Fjordvangveien 80A, Skoklefall",59.831708,10.691075
+748559,"Liaveien 29A, Skoklefall",59.845769,10.683844
+748560,"Liaveien 29B, Skoklefall",59.845737,10.684253
+748572,"Blylagveien 133, Nesodden",59.776911,10.707734
+748585,"Solåsveien 19B, Skoklefall",59.836132,10.685962
+748586,"Øvre Solåsen 66, Skoklefall",59.840038,10.683885
+748587,"Solåsveien 17B, Skoklefall",59.836129,10.685463
+748588,"Solåsveien 17A, Skoklefall",59.83598,10.685241
+748590,"Solåsveien 19A, Skoklefall",59.835936,10.685863
+748591,"Øvre Solåsen 48, Skoklefall",59.840565,10.682742
+748592,"Øvre Solåsen 54, Skoklefall",59.84095,10.682851
+748593,"Øvre Solåsen 62, Skoklefall",59.840375,10.683359
+748594,"Øvre Solåsen 64, Skoklefall",59.839984,10.683213
+748596,"Løeshagaveien 144, Nesodden",59.806325,10.682995
+748598,"Øvre Solåsen 46, Skoklefall",59.840356,10.682653
+748599,"Løeshagaveien 128, Nesodden",59.806726,10.684655
+748600,"Løeshagaveien 130, Nesodden",59.80655,10.685039
+748601,"Løeshagaveien 146, Nesodden",59.806251,10.682439
+748602,"Løeshagaveien 140, Nesodden",59.806834,10.683199
+748603,"Gamle Hellvikvei 3A, Skoklefall",59.834442,10.686862
+748604,"Chr Bjønnes vei 1A, Skoklefall",59.841866,10.68354
+748605,"Chr Bjønnes vei 1B, Skoklefall",59.841823,10.684073
+748606,"Gamle Hellvikvei 7A, Skoklefall",59.834644,10.686521
+748607,"Gamle Hellvikvei 7B, Skoklefall",59.834694,10.686595
+748608,"Gamle Hellvikvei 3B, Skoklefall",59.834479,10.686921
+748617,"Hageveien 3, Nesodden",59.794176,10.698119
+748619,"Trollveien 10, Skoklefall",59.842824,10.686604
+748620,"Fundingrudveien 137, Nesodden",59.773484,10.668536
+748624,"Presteskjærveien 15, Nesodden",59.805476,10.693809
+748634,"Lise Maries vei 21, Skoklefall",59.828849,10.690108
+748638,"Solåsveien 13, Skoklefall",59.835623,10.685758
+748640,"Øvre Solåsen 61, Skoklefall",59.840982,10.684566
+748641,"Øvre Solåsen 63, Skoklefall",59.84109,10.684553
+748642,"Kjartan Veldes vei 11B, Skoklefall",59.839825,10.675317
+748643,"Kjartan Veldes vei 11A, Skoklefall",59.840231,10.675159
+748644,"Øvre Solåsen 53, Skoklefall",59.840533,10.684543
+748645,"Øvre Solåsen 55, Skoklefall",59.840632,10.684566
+748646,"Øvre Solåsen 57, Skoklefall",59.840784,10.684556
+748647,"Øvre Solåsen 59, Skoklefall",59.840883,10.684561
+748648,"Furubakken 16, Skoklefall",59.840975,10.685137
+748649,"Furubakken 18, Skoklefall",59.841056,10.685087
+748650,"Øvre Solåsen 49, Skoklefall",59.840355,10.684427
+748651,"Øvre Solåsen 51, Skoklefall",59.840434,10.684556
+748653,"Fjordvangveien 60A, Skoklefall",59.830497,10.687676
+748654,"Fjordvangveien 60B, Skoklefall",59.830825,10.687996
+748655,"Furubakken 12, Skoklefall",59.840812,10.685235
+748656,"Furubakken 14, Skoklefall",59.840894,10.68515
+748657,"Hellvikveien 127, Skoklefall",59.840292,10.688618
+748658,"Hellvikveien 129, Skoklefall",59.840438,10.688482
+748659,"Ugleveien 27G, Nesodden",59.791824,10.695255
+748660,"Bergersletta 127, Skoklefall",59.835762,10.676237
+748665,"Trollveien 2, Skoklefall",59.842778,10.687405
+748666,"Solåsveien 40, Skoklefall",59.837672,10.687057
+748667,"Bergerstien 2, Skoklefall",59.833215,10.691382
+748668,"Øvre Solåsen 32, Skoklefall",59.838891,10.68305
+748670,"Gamle Hellvikvei 43, Skoklefall",59.838358,10.688199
+748671,"Gamle Hellvikvei 45, Skoklefall",59.838521,10.6881
+748672,"Trollveien 4, Skoklefall",59.842573,10.687252
+766117,"Gullerudveien 41, DRØBAK OG FROGN",59.771138,10.682773
+766127,"Gullerudveien 22, DRØBAK OG FROGN",59.768952,10.686527
+766128,"Gullerudveien 30, DRØBAK OG FROGN",59.770052,10.682754
+766130,"Gullerudveien 12, DRØBAK OG FROGN",59.770449,10.687458
+766647,"Bøkeveien 22, DRØBAK OG FROGN",59.775699,10.704519
+766649,"Bøkeveien 30, DRØBAK OG FROGN",59.774892,10.703053
+766650,"Bøkeveien 28, DRØBAK OG FROGN",59.775304,10.703145
+856137,"Fjordvangveien 65, Skoklefall",59.830368,10.689973
+968290,"Rådyrveien 50A, Skoklefall",59.825664,10.690223
+1049950,"Enerhøgdveien 25, Skoklefall",59.827822,10.683323
+1301646,"Fjordvangveien 20A, Skoklefall",59.831025,10.681999
+1539502,"Trollveien 15, Skoklefall",59.843497,10.686542
+1540298,"Alex Olssons vei 17, Skoklefall",59.840448,10.681184
+1639873,"Birkeveien 26, Skoklefall",59.844764,10.680732
+1643074,"Øvre Solåsen 47, Skoklefall",59.840149,10.68441
+1658932,"Blylagveien 46, Nesodden",59.777429,10.69734
+1679772,"Ringveien 22, Skoklefall",59.84146,10.690508
+1684560,"Willy Thoresens vei 18, Skoklefall",59.840103,10.680859
+1687301,"Hellvikalleen 19, Skoklefall",59.846983,10.689674
+1687303,"Hellvikalleen 21, Skoklefall",59.847117,10.69007
+1687304,"Hellvikalleen 31, Skoklefall",59.848042,10.689101
+1690435,"Ringveien 45, Skoklefall",59.839688,10.690791
+1698464,"Lise Maries vei 31, Skoklefall",59.82812,10.690909
+1707069,"Bergerveien 16, Skoklefall",59.833639,10.689382
+1712065,"Birkeveien 45B, Skoklefall",59.846789,10.681016
+1712067,"Birkeveien 45A, Skoklefall",59.846607,10.681034
+1722485,"Gamle Hellvikvei 81, Skoklefall",59.841281,10.687417
+1722723,"Gamle Hellvikvei 20, Skoklefall",59.835955,10.686983
+1758949,"Enerhøgdveien 17, Skoklefall",59.8286,10.683116
+1766129,"Toveien 53, Skoklefall",59.82561,10.671613
+1766437,"Asgerds vei 59, Skoklefall",59.825309,10.687965
+1771213,"Trollveien 11, Skoklefall",59.843181,10.686608
+1771785,"Ringveien 24, Skoklefall",59.841191,10.690452
+1784126,"Gamle Hellvikvei 25B, Skoklefall",59.835902,10.688085
+1784224,"Gamle Hellvikvei 21B, Skoklefall",59.835839,10.687591
+1784390,"Gamle Hellvikvei 23B, Skoklefall",59.835645,10.687958
+1784392,"Gamle Hellvikvei 29B, Skoklefall",59.836175,10.68772
+1784393,"Gamle Hellvikvei 27B, Skoklefall",59.836147,10.688149
+1784396,"Gamle Hellvikvei 25A, Skoklefall",59.835961,10.688017
+1784397,"Gamle Hellvikvei 27A, Skoklefall",59.836201,10.688088
+1784399,"Gamle Hellvikvei 23A, Skoklefall",59.83571,10.687915
+1784474,"Gamle Hellvikvei 29A, Skoklefall",59.836211,10.687615
+1799320,"Birkeveien 49, Skoklefall",59.846925,10.681543
+1799810,"Sjølies vei 14A, Skoklefall",59.829221,10.685845
+1799814,"Enerhøgdveien 9, Skoklefall",59.829251,10.682687
+1814829,"Trollveien 6, Skoklefall",59.842572,10.686859
+1852634,"Løkkeveien 17, Skoklefall",59.845567,10.68005
+1861713,"Gamle Hellvikvei 5, Skoklefall",59.834621,10.686928
+1871209,"Birkeveien 2B, Skoklefall",59.84286,10.681808
+1871271,"Hellvikskogsvei 29, Skoklefall",59.841051,10.679615
+1878335,"Ringveien 37, Skoklefall",59.840495,10.689313
+1878336,"Ringveien 35, Skoklefall",59.840691,10.6892
+1894458,"Kjartan Veldes vei 9B, Skoklefall",59.84041,10.675282
+1917942,"Solhaugveien 8, Skoklefall",59.831479,10.68633
+1919564,"Sjølies vei 20, Skoklefall",59.828446,10.68561
+1924191,"Trollveien 42, Skoklefall",59.84586,10.684953
+1930906,"Løkkeveien 8, Skoklefall",59.844915,10.679685
+1930907,"Løkkeveien 12, Skoklefall",59.844703,10.679037
+1933365,"Sjølies vei 22, Skoklefall",59.828403,10.685987
+1933667,"Liaveien 21B, Skoklefall",59.845037,10.684344
+1935324,"Kjartan Veldes vei 34, Skoklefall",59.838858,10.678837
+1939400,"Sjølies vei 23, Skoklefall",59.828226,10.684416
+1941745,"Øvre Solåsen 44, Skoklefall",59.840134,10.682514
+1941925,"Harekroken 11, Skoklefall",59.843968,10.687776
+1942017,"Liaveien 45A, Skoklefall",59.847458,10.683579
+1942018,"Liaveien 45B, Skoklefall",59.847366,10.68361
+1942019,"Liaveien 47A, Skoklefall",59.847606,10.683492
+1942020,"Liaveien 47B, Skoklefall",59.84752,10.683522
+1942041,"Liaveien 43A, Skoklefall",59.847308,10.683634
+1942051,"Liaveien 41A, Skoklefall",59.847152,10.683655
+1942052,"Liaveien 41B, Skoklefall",59.847066,10.68369
+1947997,"Mabels vei 13, Skoklefall",59.841269,10.683122
+1953743,"Rugdefaret 22, Skoklefall",59.837218,10.692661
+1955950,"Rudstrandveien 1, Nesodden",59.806969,10.703452
+1957730,"Fjordvangveien 20B, Skoklefall",59.831089,10.68205
+1961156,"Øvre Solåsen 72, Skoklefall",59.840754,10.684001
+1968523,"Fjordvangveien 1B, Skoklefall",59.829779,10.679219
+1968679,"Fjordvangveien 3A, Skoklefall",59.829545,10.679211
+1971267,"Fjordvangveien 3B, Skoklefall",59.829522,10.679213
+1971654,"Gamle Hellvikvei 19B, Skoklefall",59.835567,10.687401
+1974583,"Fjordvangveien 1A, Skoklefall",59.8298,10.679245
+1988325,"Sjølies vei 27A, Skoklefall",59.827765,10.684314
+1989918,"Presteskjærveien 132, Nesodden",59.810641,10.698287
+1992294,"Presteskjærveien 129, Nesodden",59.811515,10.697789
+1992877,"Solåsveien 25, Skoklefall",59.836697,10.686066
+1992972,"Solåsveien 29, Skoklefall",59.837001,10.686472
+1999540,"Furubakken 21, Skoklefall",59.841251,10.685254
+2004294,"Willy Thoresens vei 24, Skoklefall",59.839552,10.681073
+2008498,"Terrassestien 25, Skoklefall",59.839805,10.692194
+2010503,"Hellvikskogsvei 22, Skoklefall",59.8419,10.6784
+2010504,"Hellvikskogsvei 24, Skoklefall",59.842148,10.677854
+2020773,"Fjordvangveien 21B, Skoklefall",59.828281,10.679832
+2020967,"Kjensliveien 52, Nesodden",59.780807,10.675972
+2021011,"Fjordvangveien 23B, Skoklefall",59.828629,10.68009
+2024654,"Rugdefaret 16, Skoklefall",59.836563,10.692679
+2026397,"Fjordvangveien 23A, Skoklefall",59.828586,10.680152
+2026399,"Fjordvangveien 21A, Skoklefall",59.82825,10.679675
+2026410,"Fjordvangveien 15B, Skoklefall",59.828791,10.679485
+2026411,"Fjordvangveien 17B, Skoklefall",59.828571,10.679504
+2028510,"Ringveien 7, Skoklefall",59.842722,10.688591
+2030795,"Trollveien 18, Skoklefall",59.843736,10.685549
+2033963,"Røer gård, Røerveien 187, Nesodden",59.815338,10.678845
+2035233,"Fjordvangveien 66B, Skoklefall",59.831425,10.687826
+2035234,"Fjordvangveien 66A, Skoklefall",59.831368,10.687665
+2038341,"Lise Maries vei 22A, Skoklefall",59.829049,10.69127
+2040244,"Mårbakken 16A, Skoklefall",59.829736,10.692599
+2050988,"Trollveien 31, Skoklefall",59.84512,10.685666
+2054377,"Øvre Solåsen 70, Skoklefall",59.840457,10.683888
+2058575,"Fjordvangveien 27A, Skoklefall",59.829867,10.682599
+2061933,"Mårbakken 16B, Skoklefall",59.829788,10.692667
+2062664,"Rugdefaret 18, Skoklefall",59.8368,10.692665
+2062743,"Fjordvangveien 29B, Skoklefall",59.829634,10.682819
+2062744,"Fjordvangveien 27B, Skoklefall",59.829843,10.682738
+2064826,"Løkkeveien 16B, Skoklefall",59.84527,10.679562
+2067463,"Enerhøgdveien 5D, Skoklefall",59.829341,10.6834
+2068268,"Asgerds vei 5, Skoklefall",59.829441,10.687217
+2071693,"Rådyrveien 47, Skoklefall",59.825944,10.688885
+2073125,"Hasleveien 17, Nesodden",59.791743,10.682075
+2077379,"Torvvikveien 53, Nesodden",59.812794,10.697963
+2082751,"Alex Olssons vei 35, Skoklefall",59.839102,10.681657
+2083036,"Alex Olssons vei 37, Skoklefall",59.838908,10.68179
+2083037,"Alex Olssons vei 39, Skoklefall",59.83888,10.681813
+2084727,"Enerhøgdveien 29, Skoklefall",59.827382,10.683786
+2085018,"Hellvikskogsvei 26, Skoklefall",59.842625,10.677308
+2085361,"Hellvikskogsvei 28, Skoklefall",59.84315,10.676949
+2086929,"Trollveien 38, Skoklefall",59.845533,10.685003
+2088902,"Ursvikveien 29, Skoklefall",59.846939,10.680856
+2099332,"Birkeveien 7B, Skoklefall",59.843395,10.681873
+2099336,"Enerhøgdveien 3, Skoklefall",59.8297,10.683537
+2099464,"Enerhøgdveien 13A, Skoklefall",59.829093,10.683675
+2102021,"Asgerds vei 24B, Skoklefall",59.827952,10.687638
+2102201,"Linaroveien 27, Nesodden",59.781833,10.708644
+2103086,"Baltsrudveien 23, Nesodden",59.805359,10.666422
+2111722,"Gamle Hellvikvei 82, Skoklefall",59.841337,10.686483
+2111723,"Furubakken 17, Skoklefall",59.841334,10.685737
+2114354,"Solåsveien 30, Skoklefall",59.837357,10.685932
+2114839,"Solåsveien 28, Skoklefall",59.837144,10.686005
+2117199,"Gamle Hellvikvei 84A, Skoklefall",59.841542,10.686452
+2117218,"Gamle Hellvikvei 84B, Skoklefall",59.841603,10.686412
+2119959,"Bergerstien 20, Skoklefall",59.835052,10.690501
+2187313,"Solstubben 5, Skoklefall",59.840719,10.685871
+2188558,"Løeshagaveien 65, Nesodden",59.80627,10.680466
+2189646,"Liaveien 4, Skoklefall",59.84396,10.682999
+2190113,"Bergersletta 129, Skoklefall",59.834959,10.674871
+2190154,"Bergersletta 119, Skoklefall",59.836295,10.67588
+2190156,"Bergersletta 121, Skoklefall",59.836417,10.675529
+2190227,"Bergersletta 123, Skoklefall",59.835656,10.6758
+2197049,"Øvre Solåsen 5, Skoklefall",59.83731,10.685267
+2199227,"Torborg Nedreaas' vei 12, Nesodden",59.79022,10.700119
+2199854,"Torborg Nedreaas' vei 20, Nesodden",59.790126,10.700346
+2199855,"Torborg Nedreaas' vei 22, Nesodden",59.790106,10.700372
+2199856,"Torborg Nedreaas' vei 26, Nesodden",59.79006,10.700498
+2199857,"Torborg Nedreaas' vei 24, Nesodden",59.790081,10.70047
+2199858,"Torborg Nedreaas' vei 66, Nesodden",59.789477,10.7005
+2199859,"Torborg Nedreaas' vei 68, Nesodden",59.789453,10.700574
+2199860,"Torborg Nedreaas' vei 70, Nesodden",59.789429,10.700617
+2199889,"Torborg Nedreaas' vei 48, Nesodden",59.789767,10.700549
+2199891,"Torborg Nedreaas' vei 46, Nesodden",59.789795,10.700475
+2199904,"Torborg Nedreaas' vei 14, Nesodden",59.790196,10.700157
+2199906,"Torborg Nedreaas' vei 16, Nesodden",59.790179,10.700227
+2199907,"Torborg Nedreaas' vei 18, Nesodden",59.790154,10.700267
+2199908,"Torborg Nedreaas' vei 30, Nesodden",59.790011,10.700652
+2199909,"Torborg Nedreaas' vei 28, Nesodden",59.790036,10.700593
+2199912,"Torborg Nedreaas' vei 32, Nesodden",59.789943,10.70008
+2199913,"Torborg Nedreaas' vei 34, Nesodden",59.78993,10.700136
+2199915,"Torborg Nedreaas' vei 38, Nesodden",59.789888,10.700232
+2199916,"Torborg Nedreaas' vei 36, Nesodden",59.789907,10.700174
+2199917,"Torborg Nedreaas' vei 42, Nesodden",59.789844,10.700348
+2199918,"Torborg Nedreaas' vei 40, Nesodden",59.789867,10.700288
+2199919,"Torborg Nedreaas' vei 44, Nesodden",59.789816,10.700426
+2199920,"Torborg Nedreaas' vei 50, Nesodden",59.789739,10.700592
+2199921,"Torborg Nedreaas' vei 52, Nesodden",59.789651,10.700086
+2199922,"Torborg Nedreaas' vei 54, Nesodden",59.789621,10.700135
+2199923,"Torborg Nedreaas' vei 56, Nesodden",59.789586,10.700247
+2199926,"Torborg Nedreaas' vei 58, Nesodden",59.789569,10.700273
+2199927,"Torborg Nedreaas' vei 60, Nesodden",59.789552,10.700334
+2199937,"Torborg Nedreaas' vei 62, Nesodden",59.789523,10.700372
+2199938,"Torborg Nedreaas' vei 64, Nesodden",59.789502,10.700442
+2199992,"Flateby Skogsvei 29, Skoklefall",59.827484,10.691997
+2200028,"Fjordvangveien 90, Skoklefall",59.832011,10.69288
+2236297,"Hellvikstrand 51, Skoklefall",59.839032,10.693322
+2330356,"Alex Olssons vei 3A, Skoklefall",59.841641,10.680782
+2330357,"Alex Olssons vei 1B, Skoklefall",59.841697,10.680992
+2330358,"Alex Olssons vei 3B, Skoklefall",59.841584,10.68072
+2330366,"Alex Olssons vei 1A, Skoklefall",59.841745,10.681044
+2368209,"Fjordvangveien 80B, Skoklefall",59.831661,10.691035
+2368210,"Fjordvangveien 80C, Skoklefall",59.831475,10.690976
+2368224,"Fjordvangveien 80D, Skoklefall",59.831406,10.691005
+2369876,"Alex Olssons vei 5B, Skoklefall",59.84149,10.680446
+2369931,"Alex Olssons vei 5A, Skoklefall",59.841575,10.68045
+2377253,"Alex Olssons vei 7A, Skoklefall",59.841234,10.680579
+2377254,"Alex Olssons vei 7B, Skoklefall",59.8412,10.680633
+2377255,"Alex Olssons vei 9A, Skoklefall",59.841267,10.681057
+2377256,"Rugdefaret 20, Skoklefall",59.837009,10.692607
+2377258,"Alex Olssons vei 9B, Skoklefall",59.841184,10.681076
+2380997,"Torborg Nedreaas' vei 82, Nesodden",59.79094,10.699266
+2380998,"Torborg Nedreaas' vei 84, Nesodden",59.790898,10.699245
+2380999,"Torborg Nedreaas' vei 86, Nesodden",59.790864,10.699239
+2381000,"Torborg Nedreaas' vei 110, Nesodden",59.7903,10.69917
+2381001,"Torborg Nedreaas' vei 112, Nesodden",59.790277,10.699249
+2381002,"Torborg Nedreaas' vei 140, Nesodden",59.790468,10.698364
+2381003,"Torborg Nedreaas' vei 142, Nesodden",59.790433,10.698355
+2381004,"Torborg Nedreaas' vei 148, Nesodden",59.790317,10.698337
+2381005,"Torborg Nedreaas' vei 122, Nesodden",59.790051,10.69884
+2381006,"Torborg Nedreaas' vei 120, Nesodden",59.790064,10.698794
+2381007,"Torborg Nedreaas' vei 130, Nesodden",59.789984,10.699097
+2381008,"Torborg Nedreaas' vei 128, Nesodden",59.79001,10.699034
+2381009,"Torborg Nedreaas' vei 132, Nesodden",59.789969,10.699171
+2381013,"Øvre Solåsen 42, Skoklefall",59.839902,10.682691
+2381022,"Torborg Nedreaas' vei 96, Nesodden",59.79067,10.699185
+2381023,"Torborg Nedreaas' vei 98, Nesodden",59.790641,10.699192
+2381024,"Torborg Nedreaas' vei 90, Nesodden",59.790788,10.69923
+2381025,"Torborg Nedreaas' vei 116, Nesodden",59.790107,10.698684
+2381029,"Torborg Nedreaas' vei 80, Nesodden",59.790971,10.699254
+2381030,"Torborg Nedreaas' vei 92, Nesodden",59.790752,10.699212
+2381031,"Torborg Nedreaas' vei 94, Nesodden",59.79072,10.69922
+2381032,"Torborg Nedreaas' vei 100, Nesodden",59.790443,10.698945
+2381033,"Torborg Nedreaas' vei 114, Nesodden",59.790251,10.699272
+2381034,"Torborg Nedreaas' vei 144, Nesodden",59.790388,10.698347
+2381035,"Torborg Nedreaas' vei 146, Nesodden",59.790348,10.698356
+2381036,"Torborg Nedreaas' vei 150, Nesodden",59.790293,10.698355
+2381038,"Torborg Nedreaas' vei 152, Nesodden",59.790254,10.698328
+2381039,"Torborg Nedreaas' vei 154, Nesodden",59.790218,10.698353
+2381040,"Torborg Nedreaas' vei 126, Nesodden",59.790025,10.698949
+2381041,"Torborg Nedreaas' vei 124, Nesodden",59.790042,10.698911
+2381046,"Gamle Hellvikvei 24, Skoklefall",59.836287,10.686493
+2381049,"Torborg Nedreaas' vei 88, Nesodden",59.790819,10.699223
+2381050,"Torborg Nedreaas' vei 102, Nesodden",59.790417,10.698969
+2381051,"Torborg Nedreaas' vei 106, Nesodden",59.79036,10.699066
+2381052,"Torborg Nedreaas' vei 104, Nesodden",59.790392,10.699034
+2381053,"Torborg Nedreaas' vei 108, Nesodden",59.790338,10.699141
+2381054,"Torborg Nedreaas' vei 136, Nesodden",59.790556,10.698365
+2381056,"Torborg Nedreaas' vei 138, Nesodden",59.790507,10.698369
+2381057,"Torborg Nedreaas' vei 118, Nesodden",59.790092,10.698715
+2381058,"Torborg Nedreaas' vei 134, Nesodden",59.789954,10.699218
+2427925,"Ekornveien 23, Skoklefall",59.836739,10.695326
+2428059,"Fjordvangveien 103, Skoklefall",59.829182,10.69421
+2428060,"Fjordvangveien 104, Skoklefall",59.829491,10.695314
+2428071,"Bergtunveien 21, Skoklefall",59.8355,10.682701
+2428111,"Mårbakken 28, Skoklefall",59.82892,10.693626
+2428112,"Mårbakken 32, Skoklefall",59.828611,10.693967
+2428140,"Bergtunveien 27, Skoklefall",59.835735,10.681196
+2428209,"Fjordveien 5, Skoklefall",59.828535,10.694944
+2428499,"Jaerveien 18, Nesodden",59.804012,10.692469
+2428591,"Presteskjærveien 14, Nesodden",59.805486,10.693097
+2428592,"Presteskjærveien 13, Nesodden",59.805162,10.693793
+2428593,"Presteskjærveien 16, Nesodden",59.805758,10.692825
+2429327,"Presteskjærveien 23, Nesodden",59.803158,10.695314
+2431193,"Fjordvangveien 17A, Skoklefall",59.828638,10.679531
+2431194,"Fjordvangveien 15A, Skoklefall",59.828795,10.679587
+2433037,"Kjartan Veldes vei 37, Skoklefall",59.838173,10.676476
+2457764,"Sefjellveien 19A, Skoklefall",59.847436,10.686266
+2458236,"Sefjellveien 19B, Skoklefall",59.847333,10.686443
+2477469,"Liaveien 52, Skoklefall",59.84812,10.682519
+2489420,"Solåsveien 11, Skoklefall",59.83545,10.684666
+2494332,"Rugdefaret 46, Skoklefall",59.835317,10.691114
+2494333,"Rugdefaret 52, Skoklefall",59.835685,10.690372
+2494334,"Rugdefaret 62, Skoklefall",59.835825,10.691218
+2494357,"Rugdefaret 54, Skoklefall",59.835841,10.690312
+2494358,"Rugdefaret 58, Skoklefall",59.835757,10.690836
+2494359,"Rugdefaret 56, Skoklefall",59.835903,10.690713
+2494391,"Rugdefaret 50, Skoklefall",59.835251,10.690536
+2494417,"Rugdefaret 44, Skoklefall",59.835451,10.691194
+2494418,"Rugdefaret 48, Skoklefall",59.835374,10.690687
+2494419,"Rugdefaret 60, Skoklefall",59.835958,10.691089
+2495878,"Eva Beverfelts vei 16, Skoklefall",59.831911,10.683885
+2495879,"Eva Beverfelts vei 22, Skoklefall",59.83192,10.683512
+2495880,"Eva Beverfelts vei 9, Skoklefall",59.831544,10.683643
+2495881,"Eva Beverfelts vei 17, Skoklefall",59.831117,10.683828
+2495939,"Eva Beverfelts vei 14, Skoklefall",59.831909,10.684018
+2495940,"Eva Beverfelts vei 18, Skoklefall",59.831915,10.683758
+2495941,"Eva Beverfelts vei 20, Skoklefall",59.831918,10.683637
+2495942,"Eva Beverfelts vei 32, Skoklefall",59.831498,10.684367
+2495951,"Eva Beverfelts vei 6, Skoklefall",59.83214,10.684039
+2495952,"Eva Beverfelts vei 10, Skoklefall",59.832142,10.683791
+2495953,"Eva Beverfelts vei 12, Skoklefall",59.832142,10.683682
+2495954,"Eva Beverfelts vei 8, Skoklefall",59.832141,10.683919
+2495955,"Eva Beverfelts vei 28, Skoklefall",59.831629,10.684425
+2495956,"Eva Beverfelts vei 15, Skoklefall",59.831256,10.683771
+2495957,"Eva Beverfelts vei 19, Skoklefall",59.830917,10.683886
+2495958,"Eva Beverfelts vei 21, Skoklefall",59.830775,10.683934
+2495961,"Eva Beverfelts vei 30, Skoklefall",59.831723,10.684455
+2495962,"Eva Beverfelts vei 13, Skoklefall",59.831394,10.683759
+2495963,"Eva Beverfelts vei 11, Skoklefall",59.831503,10.683946
+2513510,"Torborg Nedreaas' vei 35, Nesodden",59.790787,10.700761
+2513609,"Torborg Nedreaas' vei 1, Nesodden",59.790756,10.701226
+2513617,"Torborg Nedreaas' vei 33, Nesodden",59.790899,10.700701
+2513618,"Torborg Nedreaas' vei 31, Nesodden",59.790964,10.700659
+2513619,"Torborg Nedreaas' vei 27, Nesodden",59.791204,10.700492
+2513620,"Torborg Nedreaas' vei 29, Nesodden",59.791029,10.700602
+2513629,"Torborg Nedreaas' vei 3, Nesodden",59.790821,10.701194
+2513630,"Torborg Nedreaas' vei 5, Nesodden",59.790891,10.701165
+2513644,"Torborg Nedreaas' vei 25, Nesodden",59.791266,10.700431
+2513645,"Torborg Nedreaas' vei 23, Nesodden",59.791337,10.7004
+2513654,"Torborg Nedreaas' vei 17, Nesodden",59.791416,10.700807
+2513656,"Torborg Nedreaas' vei 15, Nesodden",59.791348,10.70085
+2513666,"Torborg Nedreaas' vei 21, Nesodden",59.791554,10.700738
+2513667,"Torborg Nedreaas' vei 13, Nesodden",59.79122,10.700947
+2513668,"Torborg Nedreaas' vei 19, Nesodden",59.791486,10.70077
+2513669,"Torborg Nedreaas' vei 9, Nesodden",59.791094,10.701029
+2513671,"Torborg Nedreaas' vei 11, Nesodden",59.791158,10.70099
+2513690,"Torborg Nedreaas' vei 37, Nesodden",59.79072,10.700793
+2513692,"Torborg Nedreaas' vei 39, Nesodden",59.790655,10.700824
+2513751,"Torborg Nedreaas' vei 7, Nesodden",59.791028,10.701074
+2545939,"Røerveien 13C, Skoklefall",59.830903,10.67707
+2545941,"Røerveien 13B, Skoklefall",59.830882,10.677253
+2545950,"Røerveien 13A, Skoklefall",59.830837,10.67726
+2545998,"Rådyrveien 26A, Skoklefall",59.827708,10.690566
+2545999,"Rådyrveien 26B, Skoklefall",59.827644,10.690685
+2546220,"Rådyrveien 24A, Skoklefall",59.828015,10.690512
+2546227,"Rådyrveien 22A, Skoklefall",59.827797,10.690235
+2546228,"Rådyrveien 22B, Skoklefall",59.827888,10.690238
+2546230,"Rådyrveien 24B, Skoklefall",59.827921,10.690634
+2546364,"Solbergveien 6, Nesodden",59.821748,10.682699

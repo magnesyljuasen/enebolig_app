@@ -1,0 +1,693 @@
+,Navn,Long,Lat
+29025,"45/183, Borgund",62.462945,6.268402
+45166,"39/374, Borgund",62.467055,6.255086
+46073,"40/58, Borgund",62.466509,6.268314
+46074,"40/58-1, Borgund",62.466513,6.268421
+46077,"40/58-2, Borgund",62.466828,6.268282
+46078,"40/58-3, Borgund",62.466802,6.268392
+55521,"44/38, Borgund",62.464938,6.26327
+1329694,"Søstrene Ratviks veg 4, Borgund",62.461844,6.263466
+1329697,"Per Ratviks veg 24A, Borgund",62.463247,6.261519
+1329699,"Ratvika 25, Borgund",62.462097,6.254386
+1335658,"Sperre Nakkens veg 30, Borgund",62.463175,6.269235
+1335659,"Sperre Nakkens veg 31, Borgund",62.464388,6.269967
+1335660,"Sperre Nakkens veg 32, Borgund",62.463374,6.269556
+1335694,"Katevågen 2, Borgund",62.467362,6.241706
+1335695,"Katevågen 3, Borgund",62.467022,6.242234
+1335696,"Katevågen 4, Borgund",62.466874,6.242014
+1335697,"Katevågen 5, Borgund",62.466996,6.242721
+1335699,"Borgundgavlen 11, Borgund",62.466352,6.241054
+1335700,"Borgundgavlen 13, Borgund",62.466357,6.24179
+1335701,"Katevågen 1, Borgund",62.467312,6.242381
+1335706,"Sperre Nakkens veg 25, Borgund",62.463931,6.268205
+1335707,"Sperre Nakkens veg 26, Borgund",62.463339,6.268596
+1335708,"Sperre Nakkens veg 27, Borgund",62.464298,6.267648
+1335709,"Sperre Nakkens veg 28, Borgund",62.46336,6.268904
+1335710,"Sperre Nakkens veg 21, Borgund",62.463676,6.26848
+1335711,"Sperre Nakkens veg 22, Borgund",62.463137,6.267831
+1335712,"Sperre Nakkens veg 23, Borgund",62.463755,6.26793
+1335713,"Sperre Nakkens veg 24, Borgund",62.463178,6.268086
+1335714,"Sperre Nakkens veg 17, Borgund",62.463445,6.267687
+1335715,"Sperre Nakkens veg 18, Borgund",62.463013,6.26739
+1335716,"Sperre Nakkens veg 19, Borgund",62.46358,6.268159
+1335717,"Sperre Nakkens veg 20, Borgund",62.462816,6.267595
+1335718,"Sperre Nakkens veg 10, Borgund",62.462824,6.266696
+1335719,"Sperre Nakkens veg 14, Borgund",62.462903,6.26708
+1335720,"Sperre Nakkens veg 15, Borgund",62.463442,6.267551
+1335721,"Sperre Nakkens veg 6, Borgund",62.462811,6.26624
+1335722,"Sperre Nakkens veg 8, Borgund",62.462824,6.266696
+1335723,"Sperre Nakkens veg 9, Borgund",62.463097,6.266471
+1335724,"Krohnhaugen 1, Borgund",62.466642,6.243471
+1335725,"Krohnhaugen 4, Borgund",62.466303,6.243115
+1335726,"Krohnhaugen 6, Borgund",62.466294,6.243581
+1335727,"Krohnhaugen 8, Borgund",62.466177,6.244038
+1335728,"Katevågen 9, Borgund",62.467096,6.243701
+1335729,"Katevågen 10, Borgund",62.466796,6.243535
+1335730,"Katevågen 20, Borgund",62.466631,6.241512
+1335731,"Katevågen 22, Borgund",62.466471,6.242368
+1335732,"Katevågen 7, Borgund",62.467139,6.243173
+1335733,"Katevågen 8A, Borgund",62.466805,6.242967
+1335734,"Katevågen 8B, Borgund",62.466513,6.242788
+1336716,"Borgundvegen 498, Borgund",62.462655,6.264856
+1336717,"Borgundvegen 500, Borgund",62.462411,6.264425
+1336718,"Borgundvegen 502, Borgund",62.462157,6.264293
+1336719,"Borgundvegen 504, Borgund",62.461981,6.264018
+1336720,"Borgundvegen 490, Borgund",62.462756,6.26321
+1336721,"Borgundvegen 492, Borgund",62.462733,6.263891
+1336722,"Borgundvegen 494, Borgund",62.462955,6.264705
+1336723,"Borgundvegen 496, Borgund",62.462955,6.264705
+1336724,"Borgundvegen 482, Borgund",62.463448,6.26369
+1336725,"Borgundvegen 484, Borgund",62.463065,6.2639
+1336726,"Borgundvegen 486, Borgund",62.463011,6.263439
+1336727,"Borgundvegen 488, Borgund",62.463,6.262877
+1336728,"Borgundvegen 474, Borgund",62.463903,6.262659
+1336729,"Borgundvegen 476, Borgund",62.463658,6.262526
+1336730,"Borgundvegen 478, Borgund",62.463737,6.263141
+1336754,"Grønvika 10, Borgund",62.464371,6.258115
+1336779,"Lerstadvegen 85B, Borgund",62.466566,6.267584
+1336780,"Lerstadvegen 87, Borgund",62.466624,6.26789
+1336781,"Lerstadvegen 89, Borgund",62.466435,6.26793
+1336782,"Lerstadvegen 93, Borgund",62.466458,6.268789
+1336783,"Lerstadvegen 77, Borgund",62.466722,6.266262
+1336784,"Lerstadvegen 79, Borgund",62.46649,6.265837
+1336785,"Lerstadvegen 81, Borgund",62.466449,6.266239
+1336786,"Lerstadvegen 83, Borgund",62.466516,6.266907
+1336787,"Lerstadvegen 75, Borgund",62.466731,6.265795
+1336788,"Lerstadvegen 2, Borgund",62.465475,6.256229
+1336789,"Lerstadvegen 4, Borgund",62.465366,6.257578
+1336790,"Lerstadvegen 6, Borgund",62.465764,6.257677
+1336791,"Lerstadvegen 8, Borgund",62.465809,6.258138
+1336805,"Vandbergbakken 11, Borgund",62.466898,6.268807
+1336886,"Lerstadvegen 22, Borgund",62.4661,6.26108
+1336887,"Lerstadvegen 24, Borgund",62.466168,6.261811
+1336888,"Lerstadvegen 82, Borgund",62.466104,6.266803
+1336889,"Lerstadvegen 10, Borgund",62.466071,6.258696
+1336890,"Lerstadvegen 12, Borgund",62.466175,6.259158
+1336891,"Lerstadvegen 16, Borgund",62.465941,6.259853
+1336892,"Lerstadvegen 20, Borgund",62.466087,6.260422
+1337006,"Lerstadvegen 61, Borgund",62.466783,6.26387
+1337007,"Lerstadvegen 63, Borgund",62.466718,6.264206
+1337008,"Lerstadvegen 65, Borgund",62.467076,6.264619
+1337009,"Lerstadvegen 67, Borgund",62.466772,6.264647
+1337010,"Vennersbergvegen 18, Borgund",62.467171,6.265756
+1337011,"Gåseidnesvegen 8, Borgund",62.467081,6.262534
+1337012,"Lerstadvegen 53, Borgund",62.46667,6.262231
+1337013,"Lerstadvegen 55, Borgund",62.467046,6.263089
+1337014,"Lerstadvegen 33, Borgund",62.466849,6.260352
+1337015,"Gåseidnesvegen 3, Borgund",62.466775,6.260871
+1337016,"Gåseidnesvegen 1, Borgund",62.466708,6.261297
+1337017,"Gåseidnesvegen 5, Borgund",62.466982,6.261376
+1337018,"Lerstadvegen 21, Borgund",62.46729,6.259012
+1337019,"Lerstadvegen 23, Borgund",62.46727,6.259382
+1337020,"Lerstadvegen 25, Borgund",62.467259,6.259732
+1337021,"Lerstadvegen 27, Borgund",62.467204,6.260125
+1337022,"Lerstadvegen 9C, Borgund",62.466177,6.256805
+1337023,"Lerstadvegen 11, Borgund",62.46615,6.257234
+1337024,"Lerstadvegen 13, Borgund",62.466451,6.257924
+1337025,"Lerstadvegen 15, Borgund",62.466365,6.258592
+1337026,"Lerstadvegen 1, Borgund",62.465798,6.255346
+1337027,"Lerstadvegen 3, Borgund",62.466067,6.255748
+1337028,"Lerstadvegen 5, Borgund",62.466268,6.255923
+1337029,"Lerstadvegen 7, Borgund",62.466525,6.25621
+1337143,"Lerstadvegen 69, Borgund",62.466403,6.264603
+1337144,"Lerstadvegen 71, Borgund",62.466468,6.265198
+1337145,"Lerstadvegen 73, Borgund",62.466763,6.265113
+1337146,"Grønvika 19, Borgund",62.464616,6.2546
+1337147,"Grønvika 20, Borgund",62.464726,6.257462
+1337148,"Grønvika 21, Borgund",62.464826,6.255687
+1337149,"Grønvika 22, Borgund",62.464667,6.258107
+1337150,"Grønvika 12, Borgund",62.464357,6.257399
+1337151,"Grønvika 16, Borgund",62.464785,6.25635
+1337152,"Grønvika 18, Borgund",62.464763,6.257032
+1337153,"Grønvika 15, Borgund",62.464045,6.257078
+1337154,"Grønvika 2, Borgund",62.464534,6.258624
+1337155,"Grønvika 4, Borgund",62.46445,6.258961
+1337156,"Grønvika 6, Borgund",62.464637,6.259332
+1337157,"Skuggenhaugen 12, Borgund",62.46817,6.243544
+1337159,"Skuggenhaugen 4A, Borgund",62.467901,6.241389
+1337160,"Skuggenhaugen 6, Borgund",62.468088,6.242116
+1337161,"Skuggenhaugen 8, Borgund",62.468339,6.241608
+1337162,"Skuggenhaugen 10, Borgund",62.468181,6.242689
+1337163,"Skuggenhaugen 1, Borgund",62.468918,6.241688
+1337164,"Skuggenhaugen 5, Borgund",62.46892,6.242368
+1337165,"Skuggenhaugen 7, Borgund",62.468702,6.242426
+1337166,"Skuggenhaugen 9, Borgund",62.468944,6.242857
+1337167,"Klokkersundvegen 13, Borgund",62.464941,6.247392
+1337168,"Klokkersundvegen 15, Borgund",62.464913,6.246871
+1337169,"Klokkersundvegen 19, Borgund",62.46481,6.245755
+1337171,"Klokkersundvegen 3, Borgund",62.465785,6.24875
+1337172,"Klokkersundvegen 5, Borgund",62.465533,6.248735
+1337173,"Klokkersundvegen 9, Borgund",62.46496,6.248341
+1337174,"Klokkersundvegen 11, Borgund",62.46494,6.2478
+1337176,"Grønvika 29, Borgund",62.464774,6.253407
+1337177,"Grønvika 32, Borgund",62.464963,6.252124
+1337178,"Grønvika 36, Borgund",62.464979,6.250668
+1337180,"Grønvika 23, Borgund",62.464835,6.255201
+1337181,"Grønvika 25, Borgund",62.464849,6.254609
+1337182,"Grønvika 26, Borgund",62.465058,6.256519
+1337183,"Grønvika 27, Borgund",62.464783,6.253927
+1337197,"Klokkersundvegen 10, Borgund",62.465579,6.247411
+1337198,"Klokkersundvegen 16, Borgund",62.465694,6.245926
+1337199,"Klokkersundvegen 18, Borgund",62.465785,6.245549
+1337200,"Klokkersundvegen 1, Borgund",62.465976,6.248981
+1337201,"Klokkersundvegen 2, Borgund",62.466114,6.248565
+1337202,"Klokkersundvegen 4, Borgund",62.465876,6.248315
+1337211,"Borgundvegen 480, Borgund",62.463712,6.263879
+1337217,"Borgundvegen 451, Borgund",62.465427,6.260676
+1337241,"Borgundvegen 440, Borgund",62.465036,6.257218
+1337242,"Borgundvegen 442, Borgund",62.464948,6.257791
+1337243,"Borgundvegen 470, Borgund",62.46406,6.261481
+1337244,"Borgundvegen 472, Borgund",62.464082,6.262177
+1337245,"Borgundvegen 430, Borgund",62.465151,6.25395
+1337246,"Borgundvegen 434, Borgund",62.465228,6.255107
+1337247,"Borgundvegen 436, Borgund",62.465182,6.255519
+1337248,"Borgundvegen 432, Borgund",62.465346,6.254402
+1337249,"Borgundvegen 420, Borgund",62.465206,6.250802
+1337250,"Borgundvegen 422B, Borgund",62.465515,6.252533
+1337251,"Borgundvegen 424, Borgund",62.465378,6.25358
+1337252,"Borgundvegen 426, Borgund",62.465229,6.252895
+1337253,"Borgundvegen 412, Borgund",62.465393,6.249795
+1337254,"Borgundvegen 414, Borgund",62.465336,6.25013
+1337255,"Borgundvegen 416, Borgund",62.465667,6.250022
+1337256,"Borgundvegen 418, Borgund",62.465571,6.251079
+1337257,"Borgundvegen 404, Borgund",62.465236,6.248704
+1337258,"Borgundvegen 406, Borgund",62.465255,6.249168
+1337259,"Borgundvegen 408, Borgund",62.464978,6.249251
+1337260,"Borgundvegen 410, Borgund",62.465009,6.249908
+1337261,"Borgundvegen 400, Borgund",62.465862,6.249442
+1337262,"Borgundvegen 402, Borgund",62.465543,6.249199
+1337304,"Borgundgavlen 40, Borgund",62.465235,6.228682
+1337305,"Borgundgavlen 42, Borgund",62.465307,6.228209
+1337306,"Borgundgavlen 56, Borgund",62.46488,6.230228
+1337307,"Borgundgavlen 58, Borgund",62.464691,6.22978
+1337308,"Borgundgavlen 31, Borgund",62.465453,6.23423
+1337309,"Borgundgavlen 30, Borgund",62.4663,6.233899
+1337310,"Borgundgavlen 50, Borgund",62.465426,6.232428
+1337311,"Borgundgavlen 52, Borgund",62.465217,6.231672
+1337312,"Borgundgavlen 21, Borgund",62.465955,6.238431
+1337313,"Borgundgavlen 27, Borgund",62.465539,6.235121
+1337314,"Borgundgavlen 29, Borgund",62.465696,6.234924
+1337341,"Borgundgavlen 68, Borgund",62.464373,6.22688
+1337343,"Borgundgavlen 60, Borgund",62.464504,6.228924
+1337344,"Borgundgavlen 62, Borgund",62.464528,6.228359
+1337345,"Borgundgavlen 64, Borgund",62.464492,6.227877
+1337346,"Borgundgavlen 66, Borgund",62.464484,6.22749
+1337489,"Borgundvegen 381, Borgund",62.46921,6.242536
+1337490,"Borgundvegen 383, Borgund",62.469429,6.242671
+1337491,"Borgundvegen 385, Borgund",62.469613,6.245157
+1337492,"Borgundvegen 395, Borgund",62.467837,6.242566
+1337521,"Borgundvegen 503, Borgund",62.462704,6.265823
+1337522,"Borgundvegen 505, Borgund",62.4626,6.265498
+1337525,"Borgundvegen 495, Borgund",62.46404,6.266856
+1337526,"Borgundvegen 497, Borgund",62.464121,6.267819
+1337527,"Borgundvegen 499, Borgund",62.464334,6.267217
+1337528,"Borgundvegen 501, Borgund",62.463706,6.26679
+1337529,"Borgundvegen 485, Borgund",62.464257,6.264664
+1337530,"Borgundvegen 475, Borgund",62.464485,6.262994
+1337531,"Borgundvegen 477, Borgund",62.464354,6.2632
+1337532,"Borgundvegen 481E, Borgund",62.464381,6.263845
+1337533,"Borgundvegen 461, Borgund",62.46501,6.260482
+1337534,"Borgundvegen 465, Borgund",62.464984,6.261447
+1337535,"Borgundvegen 471, Borgund",62.464551,6.261785
+1337536,"Borgundvegen 473, Borgund",62.464544,6.262329
+1337537,"Borgundvegen 447, Borgund",62.465079,6.258962
+1337538,"Borgundvegen 449, Borgund",62.465457,6.259471
+1337539,"Borgundvegen 457, Borgund",62.465013,6.260171
+1337540,"Borgundvegen 459, Borgund",62.465447,6.260325
+1337541,"Borgundvegen 397, Borgund",62.467753,6.242865
+1337542,"Borgundvegen 399, Borgund",62.4677,6.243393
+1337543,"Borgundvegen 443, Borgund",62.465362,6.258257
+1337544,"Borgundvegen 445, Borgund",62.465467,6.259023
+1337593,"Borgundvegen 384, Borgund",62.468947,6.239204
+1337595,"Borgundvegen 390, Borgund",62.467992,6.240417
+1337601,"Borgundvegen 380, Borgund",62.469281,6.240182
+1337614,"Klokkersundvegen 25, Borgund",62.464915,6.244698
+1337615,"Klokkersundvegen 23, Borgund",62.464915,6.245163
+1337616,"Klokkersundvegen 21, Borgund",62.465202,6.245603
+1337621,"Klokkersundvegen 27, Borgund",62.46483,6.244046
+1337630,"Gåseidmarka 18, Borgund",62.467189,6.250231
+1337631,"Gåseidmarka 24, Borgund",62.467288,6.250328
+1337632,"Gåseidmarka 22, Borgund",62.467191,6.250335
+1337635,"Gåseidmarka 34, Borgund",62.466149,6.251258
+1337636,"Gåseidmarka 32, Borgund",62.466059,6.251247
+1337637,"Gåseidmarka 30, Borgund",62.465969,6.251255
+1337638,"Gåseidmarka 20, Borgund",62.467287,6.250222
+1337639,"Gåseidmarka 31, Borgund",62.466118,6.250582
+1337640,"Gåseidmarka 35, Borgund",62.466127,6.25063
+1337641,"Gåseidmarka 37, Borgund",62.466213,6.250647
+1337642,"Gåseidmarka 36, Borgund",62.466275,6.251247
+1337643,"Gåseidmarka 40, Borgund",62.466454,6.25125
+1337644,"Gåseidmarka 39, Borgund",62.466622,6.250652
+1337645,"Gåseidmarka 38, Borgund",62.466365,6.251258
+1337646,"Gåseidmarka 33, Borgund",62.466225,6.250572
+1337647,"Gåseidmarka 47, Borgund",62.467072,6.250669
+1337648,"Gåseidmarka 45, Borgund",62.466899,6.250588
+1337649,"Gåseidmarka 43, Borgund",62.46681,6.250615
+1337650,"Gåseidmarka 41, Borgund",62.466721,6.250643
+1337651,"Gåseidmarka 50, Borgund",62.46687,6.251263
+1337652,"Gåseidmarka 53, Borgund",62.467109,6.250743
+1337653,"Gåseidmarka 51, Borgund",62.467072,6.250669
+1337654,"Gåseidmarka 49, Borgund",62.467171,6.250679
+1337656,"Gåseidmarka 54, Borgund",62.466875,6.251365
+1337657,"Gåseidmarka 52, Borgund",62.467016,6.2513
+1337662,"Gåseidmarka 16, Borgund",62.467031,6.25013
+1337682,"Gamlevegen 14, Borgund",62.466466,6.253189
+1337683,"Gamlevegen 15, Borgund",62.466898,6.251888
+1337684,"Gamlevegen 21, Borgund",62.467555,6.251478
+1337685,"Gamlevegen 10, Borgund",62.466354,6.253917
+1337686,"Gamlevegen 11, Borgund",62.466445,6.251714
+1337687,"Gamlevegen 12, Borgund",62.466498,6.252565
+1337688,"Gamlevegen 13, Borgund",62.46661,6.251837
+1337689,"Gamlevegen 6, Borgund",62.466168,6.252654
+1337690,"Gamlevegen 7, Borgund",62.466235,6.251724
+1337691,"Gamlevegen 8, Borgund",62.466099,6.253281
+1337692,"Gamlevegen 9, Borgund",62.466367,6.251744
+1337693,"Gamlevegen 1, Borgund",62.465965,6.251664
+1337694,"Gamlevegen 3, Borgund",62.466034,6.251678
+1337695,"Gamlevegen 5, Borgund",62.46612,6.25167
+1337696,"Gamlevegen 2, Borgund",62.465913,6.252483
+1337701,"Gåseidvika 15, Borgund",62.468397,6.248626
+1337702,"Gåseidvika 13, Borgund",62.468389,6.248825
+1337703,"Gåseidvika 19, Borgund",62.468606,6.248762
+1337704,"Gåseidvika 17, Borgund",62.468583,6.248958
+1337705,"Gåseidvika 7, Borgund",62.468228,6.248674
+1337706,"Gåseidvika 5, Borgund",62.468202,6.248871
+1337707,"Gåseidvika 11, Borgund",62.46837,6.248667
+1337708,"Gåseidvika 9, Borgund",62.468356,6.248824
+1337709,"Gamlevegen 57, Borgund",62.467342,6.258483
+1337710,"Gamlevegen 61, Borgund",62.466837,6.25882
+1337711,"Gåseidvika 3, Borgund",62.468191,6.248665
+1337712,"Gåseidvika 1, Borgund",62.468168,6.248861
+1337713,"Gamlevegen 49, Borgund",62.466869,6.257692
+1337714,"Gamlevegen 51, Borgund",62.466913,6.258134
+1337715,"Gamlevegen 53, Borgund",62.467265,6.257733
+1337716,"Gamlevegen 55, Borgund",62.467202,6.258224
+1337717,"Gamlevegen 43, Borgund",62.466951,6.256423
+1337718,"Gamlevegen 45, Borgund",62.466997,6.256904
+1337719,"Gamlevegen 46, Borgund",62.466445,6.257168
+1337720,"Gamlevegen 47, Borgund",62.466932,6.257279
+1337721,"Gamlevegen 36, Borgund",62.466738,6.253785
+1337722,"Gamlevegen 37, Borgund",62.467017,6.254729
+1337723,"Gamlevegen 38, Borgund",62.46673,6.254309
+1337724,"Gamlevegen 41, Borgund",62.46702,6.255815
+1337725,"Gamlevegen 32, Borgund",62.466873,6.252899
+1337726,"Gamlevegen 33, Borgund",62.46713,6.253632
+1337727,"Gamlevegen 34, Borgund",62.466828,6.253319
+1337728,"Gamlevegen 35, Borgund",62.467044,6.254261
+1337729,"Gamlevegen 27, Borgund",62.467179,6.252037
+1337730,"Gamlevegen 29, Borgund",62.4673,6.252685
+1337731,"Gamlevegen 30, Borgund",62.466908,6.252372
+1337732,"Gamlevegen 31, Borgund",62.467292,6.253191
+1337748,"Grønvika 39, Borgund",62.464725,6.251001
+1337815,"Gåseidvika 23, Borgund",62.468661,6.248815
+1337816,"Gåseidvika 21, Borgund",62.468628,6.248954
+1337817,"Gåseidvika 22, Borgund",62.467983,6.25043
+1337818,"Gåseidvika 60, Borgund",62.468728,6.257677
+1338020,"Øvste Ratvika 7, Borgund",62.463286,6.262793
+1338025,"Øvste Ratvika 14, Borgund",62.462861,6.260349
+1338027,"Øvste Ratvika 3, Borgund",62.463827,6.261987
+1338029,"Øvste Ratvika 5, Borgund",62.463542,6.26211
+1338031,"Øvste Ratvika 9, Borgund",62.463287,6.262366
+1338034,"Øvste Ratvika 4, Borgund",62.463816,6.261406
+1338036,"Øvste Ratvika 6, Borgund",62.463646,6.261421
+1338038,"Øvste Ratvika 8, Borgund",62.463485,6.261456
+1338048,"Gåseidmarka 7, Borgund",62.466671,6.249464
+1338049,"Gåseidmarka 5, Borgund",62.466608,6.24947
+1338050,"Gåseidmarka 3, Borgund",62.466501,6.249499
+1338051,"Gåseidmarka 1, Borgund",62.466411,6.249488
+1338053,"Gåseidmarka 8, Borgund",62.466328,6.250146
+1338054,"Gåseidmarka 4, Borgund",62.466354,6.249983
+1338055,"Gåseidmarka 2, Borgund",62.466221,6.249991
+1338056,"Gåseidmarka 6, Borgund",62.466227,6.250144
+1338057,"Gåseidmarka 12, Borgund",62.466851,6.250106
+1338058,"Gåseidmarka 11, Borgund",62.467004,6.24953
+1338059,"Gåseidmarka 10, Borgund",62.466764,6.250105
+1338060,"Gåseidmarka 9, Borgund",62.466833,6.249507
+1338061,"Gåseidmarka 15, Borgund",62.467404,6.249765
+1338062,"Gåseidmarka 14, Borgund",62.466939,6.250109
+1338063,"Gåseidmarka 13, Borgund",62.467195,6.249629
+1338064,"Ratvika 18, Borgund",62.462755,6.254965
+1338113,"Gåseidmarka 48, Borgund",62.466737,6.251378
+1338114,"Gåseidmarka 46, Borgund",62.466641,6.251373
+1338117,"Gåseidmarka 44, Borgund",62.466736,6.251273
+1338118,"Gåseidmarka 42, Borgund",62.466635,6.251268
+1338625,"Grønvika 14B, Borgund",62.464472,6.256399
+1338666,"Haugvegen 21, Borgund",62.467805,6.247769
+1338885,"Haugvegen 4, Borgund",62.467019,6.247064
+1338886,"Haugvegen 2, Borgund",62.467159,6.246771
+1338914,"Haugvegen 62, Borgund",62.468894,6.24456
+1338915,"Haugvegen 60, Borgund",62.468777,6.245137
+1338918,"Haugvegen 48, Borgund",62.469485,6.246877
+1338919,"Haugvegen 46, Borgund",62.469071,6.246857
+1338920,"Haugvegen 54, Borgund",62.468875,6.245905
+1338921,"Haugvegen 50, Borgund",62.469255,6.24616
+1338922,"Haugvegen 40, Borgund",62.468854,6.247226
+1338923,"Haugvegen 38, Borgund",62.469127,6.247414
+1338924,"Haugvegen 44, Borgund",62.46874,6.24646
+1338925,"Haugvegen 42, Borgund",62.468638,6.246741
+1338926,"Haugvegen 32, Borgund",62.469479,6.248876
+1338927,"Haugvegen 30, Borgund",62.469356,6.249431
+1338928,"Haugvegen 36, Borgund",62.469047,6.247926
+1338929,"Haugvegen 34, Borgund",62.469638,6.24826
+1338930,"Haugvegen 27, Borgund",62.468168,6.246144
+1338931,"Haugvegen 25, Borgund",62.468155,6.246844
+1338932,"Haugvegen 29, Borgund",62.468036,6.244895
+1338933,"Haugvegen 28, Borgund",62.468725,6.248414
+1338934,"Haugvegen 22, Borgund",62.468427,6.247886
+1338935,"Haugvegen 20, Borgund",62.46839,6.248278
+1338936,"Haugvegen 24, Borgund",62.468563,6.247524
+1338937,"Haugvegen 23, Borgund",62.468002,6.247285
+1338938,"Haugvegen 11, Borgund",62.46712,6.247677
+1338939,"Haugvegen 9, Borgund",62.467274,6.247255
+1338940,"Haugvegen 19, Borgund",62.467816,6.248311
+1338941,"Haugvegen 13, Borgund",62.466901,6.248376
+1339065,"Skuggenhaugen 4B, Borgund",62.467817,6.242024
+1339170,"Øvste Ratvika 11, Borgund",62.463098,6.261898
+1339451,"Gamlevegen 25A, Borgund",62.467565,6.25196
+1339479,"Borgundvegen 479, Borgund",62.464403,6.263473
+1339879,"Nedre Klokkersundvegen 43, Borgund",62.46452,6.244725
+1340018,"Lerstadvegen 14B, Borgund",62.465832,6.259359
+1340019,"Lerstadvegen 14A, Borgund",62.465839,6.259222
+1340162,"Ratvikstien 16A, Borgund",62.462203,6.261166
+1340163,"Ratvikstien 18B, Borgund",62.462304,6.261382
+1340164,"Ratvikstien 14A, Borgund",62.462149,6.261095
+1340165,"Ratvikstien 16B, Borgund",62.462182,6.261269
+1340168,"Ratvikstien 18A, Borgund",62.462326,6.261283
+1340221,"Ratvikstien 10A, Borgund",62.461968,6.260861
+1340222,"Ratvikstien 14B, Borgund",62.462129,6.261228
+1340224,"Ratvikstien 10B, Borgund",62.461945,6.26096
+1340225,"Ratvikstien 12A, Borgund",62.46202,6.260969
+1340226,"Ratvikvegen 11B, Borgund",62.464063,6.259828
+1340282,"Søstrene Ratviks veg 13, Borgund",62.462521,6.261796
+1340297,"Ratvikstien 23, Borgund",62.462318,6.260146
+1340298,"Ratvikstien 25, Borgund",62.462366,6.260297
+1340306,"Borgundgavlen 51, Borgund",62.464969,6.23247
+1340309,"Søstrene Ratviks veg 14, Borgund",62.462782,6.261811
+1340321,"Ratvikvegen 17B, Borgund",62.46412,6.260914
+1340323,"Ratvikstien 17B, Borgund",62.461944,6.260298
+1340327,"Ratvikstien 17A, Borgund",62.461964,6.260163
+1340352,"Borgundvegen 444, Borgund",62.464876,6.258444
+1340355,"Borgundvegen 446, Borgund",62.46481,6.258817
+1340377,"Sperre Nakkens veg 11B, Borgund",62.46326,6.266947
+1340379,"Sperre Nakkens veg 11A, Borgund",62.463348,6.266881
+1340381,"Sperre Nakkens veg 11D, Borgund",62.463259,6.266908
+1340383,"Sperre Nakkens veg 11C, Borgund",62.463338,6.266804
+1340405,"Ratvikstien 12B, Borgund",62.461997,6.261071
+1340434,"Søstrene Ratviks veg 15B, Borgund",62.462466,6.261899
+1340439,"Ratvikstien 2A, Borgund",62.461949,6.261509
+1340441,"Ratvikstien 4B, Borgund",62.461973,6.261685
+1340442,"Søstrene Ratviks veg 15A, Borgund",62.462451,6.261718
+1340444,"Ratvikstien 2B, Borgund",62.461922,6.261636
+1340446,"Ratvikstien 6B, Borgund",62.462031,6.261753
+1340448,"Ratvikstien 8A, Borgund",62.462116,6.261692
+1340450,"Ratvikstien 4A, Borgund",62.462004,6.26156
+1340452,"Ratvikstien 6A, Borgund",62.462058,6.26163
+1340454,"Gåseidvika 36A, Borgund",62.467484,6.250562
+1340456,"Gåseidvika 24, Borgund",62.46767,6.249921
+1340458,"Ratvikstien 8B, Borgund",62.462095,6.261829
+1340460,"Gåseidvika 40A, Borgund",62.467645,6.250853
+1340466,"Borgundvegen 469B, Borgund",62.464715,6.261479
+1340467,"Borgundvegen 469A, Borgund",62.464702,6.26214
+1340468,"Borgundvegen 463B, Borgund",62.465078,6.260969
+1340470,"Borgundvegen 467, Borgund",62.464926,6.262158
+1340472,"Ratvikstien 15A, Borgund",62.461888,6.260205
+1340473,"Gåseidvika 2A, Borgund",62.467814,6.249696
+1340474,"Ratvikstien 15B, Borgund",62.461868,6.260293
+1340494,"Ratvikstien 27B, Borgund",62.462419,6.26078
+1340499,"Ratvikstien 27A, Borgund",62.462443,6.260627
+1340504,"Ratvikstien 19A, Borgund",62.46206,6.260248
+1340505,"Ratvikstien 19B, Borgund",62.462088,6.260303
+1340506,"Borgundvegen 463A, Borgund",62.464775,6.260747
+1340609,"Søstrene Ratviks veg 3, Borgund",62.461696,6.262075
+1340652,"Borgundvegen 463C, Borgund",62.464784,6.260919
+1340670,"Søstrene Ratviks veg 12C, Borgund",62.462477,6.263615
+1340671,"Søstrene Ratviks veg 12B, Borgund",62.46243,6.263488
+1340672,"Søstrene Ratviks veg 12D, Borgund",62.462475,6.263479
+1340673,"Søstrene Ratviks veg 10C, Borgund",62.462304,6.263365
+1340674,"Søstrene Ratviks veg 12A, Borgund",62.462433,6.263622
+1340675,"Søstrene Ratviks veg 8C, Borgund",62.462094,6.263168
+1340676,"Søstrene Ratviks veg 10A, Borgund",62.462234,6.263338
+1340713,"Søstrene Ratviks veg 8A, Borgund",62.462021,6.263142
+1340718,"Gamlevegen 19B, Borgund",62.467376,6.251553
+1340719,"Gamlevegen 19A, Borgund",62.467275,6.251521
+1340736,"Nedre Klokkersundvegen 25, Borgund",62.466093,6.246003
+1340808,"Ratvikstien 29B, Borgund",62.462488,6.260863
+1340809,"Ratvikstien 29A, Borgund",62.4625,6.260751
+1340833,"Ratvikstien 20B, Borgund",62.462377,6.261439
+1340842,"Ratvikstien 20A, Borgund",62.462396,6.261336
+1340913,"Søstrene Ratviks veg 9F, Borgund",62.462075,6.26251
+1340914,"Søstrene Ratviks veg 9E, Borgund",62.462108,6.26237
+1340915,"Søstrene Ratviks veg 9D, Borgund",62.462015,6.26243
+1340916,"Søstrene Ratviks veg 9C, Borgund",62.462045,6.262296
+1340917,"Søstrene Ratviks veg 11D, Borgund",62.462321,6.262386
+1340918,"Søstrene Ratviks veg 11C, Borgund",62.462356,6.262231
+1340919,"Søstrene Ratviks veg 11B, Borgund",62.462267,6.262331
+1340920,"Søstrene Ratviks veg 11A, Borgund",62.462279,6.262149
+1340923,"Søstrene Ratviks veg 11F, Borgund",62.46238,6.262441
+1340924,"Søstrene Ratviks veg 11E, Borgund",62.462413,6.262286
+1340963,"Søstrene Ratviks veg 9A, Borgund",62.462,6.262252
+1340964,"Søstrene Ratviks veg 9B, Borgund",62.461964,6.262424
+1341071,"Nedre Klokkersundvegen 2, Borgund",62.466608,6.246044
+1341130,"Gåseidnesvegen 61, Borgund",62.468263,6.260968
+1341131,"Gåseidnesvegen 71, Borgund",62.469556,6.259951
+1341132,"Gåseidnesvegen 65, Borgund",62.468945,6.260747
+1341141,"Gåseidnesvegen 66, Borgund",62.469296,6.260539
+1341142,"Gåseidnesvegen 36, Borgund",62.469396,6.265351
+1341143,"Gåseidnesvegen 68, Borgund",62.469557,6.260427
+1341144,"Gåseidnesvegen 70, Borgund",62.469824,6.260177
+1341145,"Gåseidnesvegen 60, Borgund",62.469571,6.260982
+1341146,"Gåseidnesvegen 24, Borgund",62.468167,6.265387
+1341147,"Gåseidnesvegen 69, Borgund",62.469321,6.260076
+1341148,"Gåseidnesvegen 35, Borgund",62.468486,6.263571
+1341149,"Gåseidnesvegen 63, Borgund",62.468725,6.260741
+1341150,"Gåseidnesvegen 39, Borgund",62.468215,6.262283
+1341226,"Nedre Klokkersundvegen 65, Borgund",62.464354,6.247679
+1341229,"Nedre Klokkersundvegen 59, Borgund",62.464558,6.246632
+1341230,"Nedre Klokkersundvegen 63, Borgund",62.464586,6.247153
+1341231,"Nedre Klokkersundvegen 61, Borgund",62.46458,6.246993
+1341232,"Nedre Klokkersundvegen 52, Borgund",62.464062,6.246561
+1341233,"Nedre Klokkersundvegen 54, Borgund",62.46409,6.247107
+1341234,"Nedre Klokkersundvegen 55, Borgund",62.464557,6.246147
+1341235,"Nedre Klokkersundvegen 49, Borgund",62.464562,6.245468
+1341236,"Nedre Klokkersundvegen 48, Borgund",62.464079,6.245105
+1341237,"Nedre Klokkersundvegen 51, Borgund",62.464557,6.245662
+1341238,"Nedre Klokkersundvegen 45, Borgund",62.46457,6.244982
+1341239,"Nedre Klokkersundvegen 44, Borgund",62.46422,6.244102
+1341240,"Nedre Klokkersundvegen 47, Borgund",62.464565,6.245196
+1341241,"Nedre Klokkersundvegen 46, Borgund",62.464168,6.24465
+1341243,"Nedre Klokkersundvegen 42, Borgund",62.464217,6.243035
+1341244,"Nedre Klokkersundvegen 40, Borgund",62.464597,6.243175
+1341251,"Gåseidstien 35, Borgund",62.464928,6.262681
+1341252,"Gåseidstien 30, Borgund",62.465227,6.262382
+1341253,"Gåseidstien 34, Borgund",62.465266,6.261157
+1341254,"Gåseidstien 32, Borgund",62.465244,6.261857
+1341255,"Gåseidstien 27, Borgund",62.464777,6.263704
+1341256,"Gåseidstien 25, Borgund",62.464664,6.264335
+1341257,"Gåseidstien 29, Borgund",62.464895,6.263286
+1341258,"Gåseidstien 28, Borgund",62.465205,6.263083
+1341260,"Gåseidstien 14, Borgund",62.4658,6.260467
+1341261,"Gåseidstien 20, Borgund",62.465475,6.261739
+1341262,"Gåseidstien 18, Borgund",62.465501,6.261213
+1341265,"Nedre Klokkersundvegen 41, Borgund",62.464541,6.244043
+1341333,"Ratvikvegen 5A, Borgund",62.464372,6.260739
+1341372,"Ratvikstien 21A, Borgund",62.462142,6.260318
+1341374,"Ratvikstien 21B, Borgund",62.462185,6.260217
+1341511,"Grønvika 37, Borgund",62.464697,6.25156
+1448071,"Ratvikvegen 63B, Borgund",62.462556,6.258897
+1448073,"Ratvikvegen 71A, Borgund",62.46283,6.258618
+1448075,"Ratvikvegen 71B, Borgund",62.462823,6.258449
+1448076,"Ratvikvegen 73A, Borgund",62.462878,6.258582
+1448079,"Ratvikvegen 73B, Borgund",62.462874,6.258441
+1448096,"Ratvikvegen 67A, Borgund",62.462631,6.258575
+1448099,"Ratvikvegen 67B, Borgund",62.462581,6.258579
+1448101,"Ratvikvegen 65A, Borgund",62.462613,6.258745
+1448103,"Ratvikvegen 65B, Borgund",62.462564,6.258757
+1448105,"Ratvikvegen 63A, Borgund",62.46261,6.25887
+1448229,"Ratvikvegen 83A, Borgund",62.462652,6.258144
+1448230,"Ratvikvegen 83B, Borgund",62.462594,6.258169
+1448231,"Ratvikvegen 91B, Borgund",62.462869,6.257646
+1448233,"Ratvikvegen 93B, Borgund",62.462932,6.25762
+1448235,"Ratvikvegen 95A, Borgund",62.463072,6.257748
+1448246,"Ratvikvegen 93A, Borgund",62.462911,6.25775
+1448271,"Ratvikvegen 95B, Borgund",62.463069,6.257601
+1448272,"Ratvikvegen 97A, Borgund",62.463141,6.257721
+1448273,"Ratvikvegen 97B, Borgund",62.463141,6.25759
+1448279,"Ratvikvegen 69B, Borgund",62.462587,6.258454
+1448281,"Ratvikvegen 89A, Borgund",62.46266,6.257713
+1448282,"Ratvikvegen 89B, Borgund",62.462608,6.257718
+1448283,"Ratvikvegen 87A, Borgund",62.462655,6.257846
+1448284,"Ratvikvegen 87B, Borgund",62.462604,6.257854
+1448285,"Ratvikvegen 69A, Borgund",62.462637,6.258449
+1448442,"Ratvikvegen 75A, Borgund",62.462939,6.258559
+1448443,"Ratvikvegen 75B, Borgund",62.462931,6.25841
+1448444,"Ratvikvegen 77A, Borgund",62.462984,6.258532
+1448461,"Ratvikvegen 77B, Borgund",62.462979,6.258409
+1448462,"Ratvikvegen 79A, Borgund",62.463032,6.258497
+1448463,"Ratvikvegen 79B, Borgund",62.463039,6.258385
+1448464,"Ratvikvegen 81A, Borgund",62.463092,6.258472
+1448465,"Ratvikvegen 81B, Borgund",62.463108,6.258352
+1448467,"Ratvikvegen 85B, Borgund",62.462596,6.258028
+1448486,"Ratvikvegen 85A, Borgund",62.462626,6.258019
+1637240,"Haugvegen 56, Borgund",62.468999,6.245453
+1637242,"Haugvegen 64, Borgund",62.469119,6.244511
+1637244,"Haugvegen 58, Borgund",62.469049,6.245224
+1637247,"Haugvegen 66, Borgund",62.469163,6.244332
+1645147,"Haugvegen 17, Borgund",62.467666,6.249002
+1649069,"Gåseidvika 30, Borgund",62.467699,6.250309
+1649072,"Gåseidvika 26, Borgund",62.467683,6.250046
+1649073,"Gåseidvika 28, Borgund",62.467686,6.250101
+1649082,"Gåseidvika 8B, Borgund",62.467812,6.250142
+1649083,"Gåseidvika 6B, Borgund",62.467799,6.249964
+1649084,"Gåseidvika 4B, Borgund",62.467787,6.249824
+1649085,"Gåseidvika 2B, Borgund",62.467785,6.249689
+1649090,"Gåseidvika 4A, Borgund",62.467828,6.249821
+1649091,"Gåseidvika 8A, Borgund",62.467837,6.250125
+1649092,"Gåseidvika 6A, Borgund",62.467834,6.249958
+1649098,"Gåseidvika 42B, Borgund",62.467727,6.25094
+1649101,"Gåseidvika 40B, Borgund",62.467648,6.250951
+1649102,"Gåseidvika 42A, Borgund",62.467719,6.250844
+1649152,"Gåseidvika 38A, Borgund",62.467555,6.250496
+1649154,"Gåseidvika 38B, Borgund",62.467562,6.250611
+1649156,"Gåseidvika 34, Borgund",62.467718,6.250564
+1649159,"Gåseidvika 36B, Borgund",62.467489,6.250662
+1649160,"Gåseidvika 32, Borgund",62.467706,6.250432
+1652450,"Lerstadvegen 85A, Borgund",62.466326,6.267559
+1688990,"Ratvikvegen 11A, Borgund",62.464075,6.259941
+1688991,"Ratvikvegen 9A, Borgund",62.464345,6.260139
+1688992,"Ratvikvegen 15A, Borgund",62.464138,6.260279
+1688994,"Ratvikvegen 7A, Borgund",62.464075,6.260486
+1704301,"Gåseidnesvegen 32A, Borgund",62.468657,6.265193
+1734310,"Borgundvegen 387, Borgund",62.469336,6.245707
+1734313,"Borgundvegen 393, Borgund",62.469285,6.24331
+1772123,"Gåseidstien 31, Borgund",62.464723,6.263136
+1784929,"Ratvikvegen 3B, Borgund",62.464282,6.261098
+1784931,"Ratvikvegen 3A, Borgund",62.464253,6.261225
+1815481,"Ratvikvegen 134, Borgund",62.461683,6.257263
+1815483,"Ratvikvegen 133, Borgund",62.461845,6.258583
+1815484,"Ratvikvegen 125A, Borgund",62.461583,6.259267
+1815487,"Ratvikvegen 125B, Borgund",62.461627,6.259392
+1815488,"Ratvikvegen 119, Borgund",62.461902,6.259646
+1815489,"Ratvikvegen 118, Borgund",62.461772,6.256662
+1815490,"Ratvikvegen 116, Borgund",62.461923,6.25653
+1815491,"Ratvikvegen 114, Borgund",62.462016,6.256919
+1815492,"Ratvikvegen 112, Borgund",62.462044,6.2572
+1817066,"Ratvikvegen 121, Borgund",62.461884,6.259194
+1823267,"Ratvika 16, Borgund",62.462728,6.254154
+1829689,"Ratvikvegen 110, Borgund",62.462113,6.257508
+1838929,"Ratvikvegen 109, Borgund",62.462122,6.257992
+1838932,"Ratvikvegen 132, Borgund",62.461751,6.257614
+1841627,"Nedre Klokkersundvegen 27, Borgund",62.466035,6.245558
+1868666,"Ratvikvegen 33B, Borgund",62.463734,6.259911
+1868781,"Ratvikvegen 23B, Borgund",62.463851,6.260298
+1868782,"Ratvikvegen 25A, Borgund",62.463885,6.260246
+1868783,"Ratvikvegen 29B, Borgund",62.463537,6.260109
+1868784,"Ratvikvegen 29A, Borgund",62.463473,6.260175
+1868785,"Ratvikvegen 35B, Borgund",62.463435,6.260168
+1868786,"Ratvikvegen 35A, Borgund",62.463569,6.260061
+1868788,"Ratvikvegen 31A, Borgund",62.463773,6.259914
+1868789,"Ratvikvegen 31B, Borgund",62.463843,6.259848
+1868790,"Ratvikvegen 33A, Borgund",62.463869,6.259786
+1868848,"Ratvikvegen 25B, Borgund",62.463746,6.260355
+1868852,"Ratvikvegen 23A, Borgund",62.463783,6.260362
+1868877,"Ratvikvegen 19A, Borgund",62.463799,6.260645
+1868878,"Ratvikvegen 19B, Borgund",62.46386,6.26059
+1868880,"Ratvikvegen 21B, Borgund",62.463555,6.260567
+1868881,"Ratvikvegen 21A, Borgund",62.463488,6.260618
+1868882,"Ratvikvegen 27B, Borgund",62.46345,6.260621
+1868884,"Ratvikvegen 27A, Borgund",62.463584,6.260506
+1878274,"Ratvikvegen 120, Borgund",62.461516,6.256738
+1878276,"Ratvikvegen 117, Borgund",62.462071,6.259608
+1878278,"Ratvikvegen 127, Borgund",62.46154,6.258667
+1878280,"Ratvikvegen 122, Borgund",62.461304,6.256897
+1878297,"Ratvikvegen 113, Borgund",62.462071,6.258746
+1894485,"Gamlevegen 25B, Borgund",62.467537,6.252206
+1894801,"Gamlevegen 25C, Borgund",62.467513,6.252431
+1894810,"Ratvikvegen 131, Borgund",62.461782,6.258233
+1904176,"Ratvikvegen 126B, Borgund",62.461398,6.257701
+1920165,"Ratvikvegen 126A, Borgund",62.461454,6.257613
+1933148,"Per Ratviks veg 20B, Borgund",62.463216,6.260692
+1933151,"Per Ratviks veg 20A, Borgund",62.463213,6.260545
+1933355,"Per Ratviks veg 4A, Borgund",62.463105,6.259236
+1933357,"Per Ratviks veg 4B, Borgund",62.463138,6.259088
+1933359,"Per Ratviks veg 2A, Borgund",62.46323,6.259623
+1933400,"Per Ratviks veg 6A, Borgund",62.462945,6.259222
+1933465,"Per Ratviks veg 22A, Borgund",62.46307,6.261267
+1933469,"Per Ratviks veg 8A, Borgund",62.46299,6.259628
+1933742,"Per Ratviks veg 18A, Borgund",62.463259,6.260059
+1933743,"Per Ratviks veg 18B, Borgund",62.463262,6.260198
+1934969,"Ratvikvegen 5B, Borgund",62.464336,6.260694
+1934972,"Ratvikvegen 9B, Borgund",62.464417,6.260012
+1934974,"Ratvikvegen 13A, Borgund",62.464393,6.259932
+1934975,"Ratvikvegen 5C, Borgund",62.464373,6.260478
+1934976,"Ratvikvegen 5D, Borgund",62.464409,6.260517
+1934977,"Ratvikvegen 15B, Borgund",62.464064,6.260381
+1934978,"Ratvikvegen 11C, Borgund",62.464142,6.259727
+1934979,"Ratvikvegen 13B, Borgund",62.464318,6.260052
+1934980,"Ratvikvegen 7B, Borgund",62.464155,6.260385
+1934981,"Ratvikvegen 11D, Borgund",62.464166,6.259817
+1940717,"Gåseidstien 12, Borgund",62.46583,6.261085
+1941859,"Ratvikvegen 17A, Borgund",62.464089,6.261029
+1942114,"Ratvikvegen 124B, Borgund",62.461406,6.257397
+1942115,"Ratvikvegen 124A, Borgund",62.461346,6.257422
+1942956,"Ratvikvegen 115, Borgund",62.462082,6.259166
+1943115,"Ratvikvegen 128, Borgund",62.461484,6.258084
+1944545,"Ratvikvegen 130, Borgund",62.461771,6.257924
+1944769,"Borgundvegen 422C, Borgund",62.465505,6.252753
+1944790,"Borgundvegen 422A, Borgund",62.465407,6.252604
+1957067,"Katevågen 6, Borgund",62.46678,6.242575
+1958302,"Søstrene Ratviks veg 2, Borgund",62.461785,6.263785
+1960431,"Søstrene Ratviks veg 7, Borgund",62.461715,6.262855
+1960433,"Søstrene Ratviks veg 5, Borgund",62.461636,6.262764
+1965612,"Per Ratviks veg 2B, Borgund",62.463179,6.259621
+1966419,"Grønvika 43, Borgund",62.464753,6.249717
+1983257,"Ratvikvegen 123A, Borgund",62.46167,6.259751
+1983258,"Ratvikvegen 123B, Borgund",62.461715,6.259843
+1984665,"Ratvikvegen 111A, Borgund",62.462069,6.25839
+1986054,"Borgundvegen 481F, Borgund",62.464444,6.264173
+1987895,"Borgundvegen 481B, Borgund",62.464124,6.263942
+1987897,"Borgundvegen 481C, Borgund",62.464173,6.263743
+1987898,"Borgundvegen 481A, Borgund",62.464074,6.264133
+1991447,"Borgundvegen 481D, Borgund",62.46434,6.263769
+1992331,"Per Ratviks veg 6B, Borgund",62.462988,6.259176
+1992332,"Per Ratviks veg 22B, Borgund",62.463107,6.261104
+1992333,"Per Ratviks veg 8B, Borgund",62.463033,6.259601
+1992334,"Per Ratviks veg 24B, Borgund",62.463283,6.261373
+1993470,"Ratvikvegen 111B, Borgund",62.462115,6.258481
+2026540,"Borgundvegen 481I, Borgund",62.464445,6.264402
+2026541,"Borgundvegen 481H, Borgund",62.464425,6.2644
+2026542,"Borgundvegen 481G, Borgund",62.464461,6.26418
+2027555,"Gåseidnesvegen 32B, Borgund",62.468684,6.265325
+2041846,"Grønvika 35, Borgund",62.464629,6.252011
+2041914,"Gåseidstien 10A, Borgund",62.465825,6.261664
+2045262,"Borgundvegen 491, Borgund",62.46403,6.266072
+2047259,"Gåseidstien 10B, Borgund",62.465868,6.261554
+2048046,"Gåseidstien 22, Borgund",62.465516,6.262526
+2057442,"Vennersbergvegen 4, Borgund",62.467293,6.262983
+2062555,"Lerstadvegen 9B, Borgund",62.465935,6.256157
+2062556,"Lerstadvegen 9A, Borgund",62.46592,6.256293
+2091639,"Borgundvegen 493, Borgund",62.464275,6.266323
+2113153,"Vandbergbakken 1B, Borgund",62.466501,6.269065
+2113154,"Vandbergbakken 1A, Borgund",62.466451,6.269081
+2115281,"Vandbergvegen 3, Borgund",62.466629,6.269749
+2116688,"Haugvegen 7, Borgund",62.467654,6.246948
+2116689,"Haugvegen 5, Borgund",62.467944,6.246184
+2116690,"Haugvegen 3, Borgund",62.467643,6.246406
+2168806,"Haugvegen 1A, Borgund",62.46758,6.246042
+2168807,"Haugvegen 1B, Borgund",62.467532,6.245692
+2198899,"Museumsvegen 12, Borgund",62.468748,6.235962
+2198953,"Museumsvegen 2, Borgund",62.469021,6.240094
+2264078,"Vandbergbakken 10, Borgund",62.466955,6.269422
+2264079,"Vandbergvegen 9, Borgund",62.467013,6.270542
+2264080,"Vandbergvegen 6, Borgund",62.466727,6.271519
+2264107,"Vandbergbakken 9, Borgund",62.466716,6.268818
+2493012,"Gåseidmarka 56, Borgund",62.466996,6.251375
+2493025,"Gamlevegen 17, Borgund",62.467376,6.251128
+2493026,"Søstrene Ratviks veg 8D, Borgund",62.462102,6.263016
+2493062,"Grønvika 14A, Borgund",62.464438,6.256724
+2493064,"Søstrene Ratviks veg 8B, Borgund",62.462028,6.263016
+2493065,"Søstrene Ratviks veg 10B, Borgund",62.462225,6.263267
+2493074,"Ratvikvegen 91A, Borgund",62.462863,6.257757
+2493114,"Søstrene Ratviks veg 10D, Borgund",62.462323,6.263276
+2493145,"Nedre Klokkersundvegen 50, Borgund",62.464047,6.246046
+2493179,"Nedre Klokkersundvegen 53, Borgund",62.464555,6.245957
+2493186,"Nedre Klokkersundvegen 57, Borgund",62.464561,6.246429

@@ -1,0 +1,907 @@
+,Navn,Long,Lat
+644700,"Brinken 1, Stiklestad",63.79566,11.517348
+644702,"Brinken 3, Stiklestad",63.795903,11.517857
+644703,"Brinken 2, Stiklestad",63.795653,11.516718
+644704,"Brinken 5, Stiklestad",63.79701,11.519763
+644705,"Brinken 4, Stiklestad",63.795948,11.517293
+644706,"Brinken 8, Stiklestad",63.796314,11.517934
+644707,"Brinken 6, Stiklestad",63.796175,11.517678
+644709,"Brinken 10, Stiklestad",63.796532,11.51834
+645356,"Haug 2, Stiklestad",63.797561,11.519061
+645358,"Haug 6, Stiklestad",63.797459,11.519763
+645359,"Haug 4, Stiklestad",63.797737,11.51928
+645361,"Haug 8, Stiklestad",63.797346,11.520586
+645467,"Kirkehaug 7, Stiklestad",63.795161,11.516105
+645468,"Kirkehaug 3, Stiklestad",63.795108,11.517055
+645470,"Kirkehaug 16, Stiklestad",63.79513,11.51529
+646063,"Sørenget 6, Stiklestad",63.792158,11.567802
+646064,"Sørenget 5, Stiklestad",63.79227,11.568563
+646065,"Sørenget 8, Stiklestad",63.792315,11.567552
+646066,"Sørenget 7, Stiklestad",63.792364,11.568328
+646067,"Sørenget 10, Stiklestad",63.792426,11.567359
+646068,"Sørenget 9, Stiklestad",63.792467,11.568134
+646167,"Sørenget 13, Stiklestad",63.792735,11.567692
+646168,"Sørenget 11, Stiklestad",63.792623,11.567905
+646169,"Sørenget 15, Stiklestad",63.792855,11.5675
+646170,"Sørenget 14, Stiklestad",63.792732,11.566839
+646171,"Sørenget 17, Stiklestad",63.792957,11.567326
+646172,"Sørenget 16, Stiklestad",63.792845,11.566565
+646447,"Sørenget 2, Stiklestad",63.791767,11.568091
+646448,"Sørenget 1, Stiklestad",63.791779,11.568904
+646449,"Sørenget 4, Stiklestad",63.791928,11.568126
+646450,"Sørenget 3, Stiklestad",63.792124,11.568692
+646586,"Skardsvegen 221, Stiklestad",63.843512,11.539405
+646709,"Sørenget 19, Stiklestad",63.79305,11.567152
+646710,"Sørenget 18, Stiklestad",63.793066,11.566239
+646711,"Sørenget 21, Stiklestad",63.793217,11.566842
+646712,"Sørenget 20, Stiklestad",63.793021,11.565728
+646713,"Sørenget 25, Stiklestad",63.79343,11.566455
+646714,"Sørenget 23, Stiklestad",63.793328,11.566669
+646980,"Lundskammen 18, Stiklestad",63.83742,11.662867
+647126,"Mogrenda 8, Stiklestad",63.784594,11.600063
+647127,"Mogrenda 7, Stiklestad",63.784952,11.600136
+647128,"Mogrenda 10, Stiklestad",63.785936,11.600369
+647130,"Mogrenda 9, Stiklestad",63.784549,11.600586
+647132,"Mogrenda 12, Stiklestad",63.785308,11.600819
+647133,"Mogrenda 11, Stiklestad",63.785549,11.600415
+647135,"Mogrenda 14, Stiklestad",63.784484,11.60121
+647137,"Mogrenda 13, Stiklestad",63.785017,11.601015
+647139,"Mogrenda 16, Stiklestad",63.785004,11.601725
+647141,"Mogrenda 15, Stiklestad",63.784502,11.601658
+647143,"Mogrenda 11C, Stiklestad",63.785347,11.601655
+647145,"Mogrenda 11B, Stiklestad",63.785629,11.601457
+647154,"Lundskammen 10, Stiklestad",63.839144,11.660914
+647156,"Lundskammen 9, Stiklestad",63.837247,11.661508
+647158,"Lundskammen 12, Stiklestad",63.839087,11.661539
+647160,"Lundskammen 11, Stiklestad",63.839296,11.661437
+647162,"Lundskammen 14, Stiklestad",63.83859,11.661716
+647164,"Lundskammen 13, Stiklestad",63.838836,11.661556
+647166,"Lundskammen 16, Stiklestad",63.837911,11.662526
+647168,"Lundskammen 15, Stiklestad",63.838154,11.662468
+647170,"Lundskammen 19, Stiklestad",63.837346,11.661965
+647172,"Lundskammen 17, Stiklestad",63.837658,11.662584
+647174,"Mogrenda 2, Stiklestad",63.785361,11.598367
+647176,"Mogrenda 1, Stiklestad",63.785725,11.598624
+647178,"Mogrenda 4, Stiklestad",63.784814,11.599312
+647180,"Mogrenda 3, Stiklestad",63.785117,11.598974
+647182,"Mogrenda 6, Stiklestad",63.785263,11.5998
+647184,"Mogrenda 5, Stiklestad",63.785498,11.59976
+647199,"Lundskammen 1, Stiklestad",63.838963,11.660022
+647203,"Lundskammen 4, Stiklestad",63.838575,11.661064
+647205,"Lundskammen 3, Stiklestad",63.838698,11.66075
+647207,"Lundskammen 6, Stiklestad",63.837984,11.661476
+647209,"Lundskammen 5, Stiklestad",63.838154,11.661532
+647211,"Lundskammen 8, Stiklestad",63.837514,11.661614
+647213,"Lundskammen 7, Stiklestad",63.837738,11.661676
+647694,"Leira 6, Vera og Vuku",63.78474,11.665875
+647730,"Kirkehaug 8, Stiklestad",63.794573,11.516886
+647732,"Kirkehaug 10, Stiklestad",63.794758,11.516537
+647734,"Kirkehaug 4, Stiklestad",63.794731,11.518098
+647736,"Kirkehaug 18, Stiklestad",63.795294,11.514675
+647761,"Leira 5C, Vera og Vuku",63.785036,11.667385
+647784,"Kirkehaug 5, Stiklestad",63.795033,11.516724
+647786,"Kirkehaug 6, Stiklestad",63.794513,11.517713
+647788,"Kirkehaug 12, Stiklestad",63.794662,11.515898
+647789,"Kirkehaug 14, Stiklestad",63.795062,11.514594
+647813,"Leira 3B, Vera og Vuku",63.785144,11.666867
+647815,"Leira 3A, Vera og Vuku",63.785214,11.666955
+647817,"Leira 5B, Vera og Vuku",63.785106,11.667473
+647819,"Leira 5A, Vera og Vuku",63.785168,11.667519
+647875,"Leira 14, Vera og Vuku",63.785604,11.666748
+647877,"Leira 2, Vera og Vuku",63.784723,11.666787
+647879,"Leira 16, Vera og Vuku",63.785504,11.667328
+647932,"Kjesbua 539, Stiklestad",63.821473,11.725355
+648096,"Haugsvegen 100, Stiklestad",63.800923,11.527568
+648179,"Kirkehaug 20A, Stiklestad",63.79531,11.514271
+648182,"Kirkehaug 20B, Stiklestad",63.795374,11.514154
+648312,"Kirkehaug 2A, Stiklestad",63.794746,11.51881
+648470,"Leira 12, Vera og Vuku",63.785493,11.665966
+648569,"Leira 8, Vera og Vuku",63.784946,11.665894
+648570,"Leira 4, Vera og Vuku",63.784562,11.665777
+648571,"Leira 10, Vera og Vuku",63.785159,11.666036
+648715,"Øster-Hallem 53A, Stiklestad",63.806056,11.578514
+648716,"Øster-Hallem 36, Stiklestad",63.806534,11.583454
+648717,"Øster-Hallem 51A, Stiklestad",63.806695,11.579954
+648718,"Øster-Hallem 53B, Stiklestad",63.80612,11.578459
+648719,"Øster-Hallem 64, Stiklestad",63.805351,11.581335
+648720,"Vistvikvegen 93, Stiklestad",63.813301,11.561456
+648721,"Vistvikvegen 87, Stiklestad",63.813027,11.562772
+648722,"Vistvikvegen 118, Stiklestad",63.814517,11.55673
+648723,"Vistvikvegen 114, Stiklestad",63.814055,11.557968
+648724,"Vistvikvegen 158A, Stiklestad",63.817572,11.555096
+648725,"Vistvikvegen 123, Stiklestad",63.814628,11.558549
+648726,"Øster-Hallem 9, Stiklestad",63.808967,11.579451
+648727,"Vistvikvegen 158B, Stiklestad",63.817585,11.554854
+648728,"Øster-Hallem 47, Stiklestad",63.807054,11.580962
+648729,"Øster-Hallem 22, Stiklestad",63.808285,11.581969
+648730,"Øster-Hallem 26, Stiklestad",63.807837,11.583371
+648731,"Øster-Hallem 23, Stiklestad",63.807985,11.581637
+648732,"Øster-Hallem 38, Stiklestad",63.807335,11.584828
+648733,"Øster-Hallem 30, Stiklestad",63.807408,11.583291
+648734,"Øster-Hallem 42, Stiklestad",63.806889,11.585701
+648735,"Øster-Hallem 40, Stiklestad",63.807155,11.585401
+648736,"Støavegen 11, Stiklestad",63.810939,11.578168
+648737,"Støavegen 10, Stiklestad",63.810816,11.576491
+648738,"Støavegen 15, Stiklestad",63.811388,11.577661
+648739,"Støavegen 13, Stiklestad",63.811194,11.577968
+648740,"Støavegen 17, Stiklestad",63.81207,11.57817
+648741,"Støavegen 14, Stiklestad",63.811337,11.576498
+648744,"Volhaugvegen 504, Stiklestad",63.817845,11.553373
+648746,"Vistvikvegen 89, Stiklestad",63.81312,11.563065
+648747,"Vistvikvegen 9, Stiklestad",63.810113,11.573114
+648765,"Forbregdsmyra 84B, Stiklestad",63.801911,11.542062
+648766,"Forbregdsmyra 84A, Stiklestad",63.801925,11.541828
+648767,"Forbregdsmyra 89, Stiklestad",63.801938,11.542894
+648768,"Forbregdsmyra 88, Stiklestad",63.801903,11.539295
+648769,"Forbregdsmyra 103, Stiklestad",63.803317,11.544115
+648770,"Forbregdsmyra 91, Stiklestad",63.801854,11.543577
+648876,"Støavegen 6, Stiklestad",63.810324,11.576873
+648877,"Støavegen 4, Stiklestad",63.810521,11.577419
+648878,"Støavegen 8, Stiklestad",63.810883,11.577289
+648881,"Skoglyvegen 4A, Stiklestad",63.809143,11.577088
+648882,"Skoglyvegen 2, Stiklestad",63.80941,11.577785
+648883,"Skoglyvegen 1, Stiklestad",63.809566,11.5766
+648884,"Vistvikvegen 2, Stiklestad",63.809628,11.577134
+648885,"Skoglyvegen 7, Stiklestad",63.809385,11.575669
+648886,"Skoglyvegen 5, Stiklestad",63.809337,11.576335
+648887,"Vistvikvegen 4, Stiklestad",63.809588,11.575342
+648888,"Skoglyvegen 3, Stiklestad",63.809673,11.576102
+648889,"Vistvikvegen 6, Stiklestad",63.809671,11.574253
+648890,"Skoglyvegen 9, Stiklestad",63.809438,11.574719
+648891,"Vistvikvegen 3, Stiklestad",63.810028,11.576846
+648892,"Støavegen 2, Stiklestad",63.809995,11.577696
+648893,"Vistvikvegen 1, Stiklestad",63.810242,11.577454
+648894,"Vistvikvegen 5, Stiklestad",63.810025,11.575504
+648895,"Nordheimvegen 45, Stiklestad",63.800139,11.527193
+648896,"Nordheimvegen 43A, Stiklestad",63.799565,11.529213
+648897,"Slåttelivegen 42, Stiklestad",63.798843,11.531504
+648899,"Slåttelivegen 46, Stiklestad",63.799235,11.531662
+648900,"Slåttelivegen 44, Stiklestad",63.798887,11.531001
+648902,"Slåttelivegen 47, Stiklestad",63.799173,11.532631
+648919,"Haug, Haugsvegen 8, Stiklestad",63.796241,11.515471
+648921,"Haugsvegen 44B, Stiklestad",63.799737,11.517346
+648922,"Haugsvegen 42, Stiklestad",63.799329,11.519097
+648923,"Nordheimvegen 40, Stiklestad",63.799789,11.526694
+648925,"Nordheimvegen 22, Stiklestad",63.798464,11.525458
+648926,"Nordheimvegen 43B, Stiklestad",63.79956,11.52901
+648927,"Nordheimvegen 41, Stiklestad",63.79983,11.527917
+648975,"Forbregdsmyra 143, Stiklestad",63.805068,11.551262
+648976,"Forbregdsmyra 112, Stiklestad",63.803853,11.544265
+648977,"Forbregdsmyra 167, Stiklestad",63.807225,11.55422
+649014,"Haukåvegen 723, Stiklestad",63.874377,11.606936
+649015,"Haukåvegen 678, Stiklestad",63.870199,11.601965
+649030,"Haukåvegen 424, Stiklestad",63.850411,11.590859
+649031,"Haukåvegen 426, Stiklestad",63.849906,11.588472
+649032,"Haukåvegen 430, Stiklestad",63.850681,11.589337
+649033,"Haukåvegen 428, Stiklestad",63.850501,11.588873
+649035,"Haukåvegen 432, Stiklestad",63.850542,11.591583
+649042,"Haukåvegen 651, Stiklestad",63.866811,11.602224
+649043,"Haukåvegen 494, Stiklestad",63.855394,11.596426
+649044,"Haukåvegen 676, Stiklestad",63.869727,11.60286
+649045,"Haukåvegen 652, Stiklestad",63.867572,11.601846
+649046,"Aksnesvegen 44, Stiklestad",63.862854,11.634777
+649047,"Aksnesvegen 53A, Stiklestad",63.86213,11.635605
+649048,"Haukåvegen 104, Stiklestad",63.825607,11.563286
+649049,"Aksnesvegen 100, Stiklestad",63.861954,11.643731
+649050,"Haukåvegen 211, Stiklestad",63.832584,11.577424
+649051,"Haukåvegen 136, Stiklestad",63.828279,11.565542
+649052,"Haukåvegen 194, Stiklestad",63.833082,11.57265
+649053,"Haukåvegen 196, Stiklestad",63.832861,11.571959
+649054,"Haukåvegen 233A, Stiklestad",63.834243,11.580077
+649055,"Haukåvegen 233B, Stiklestad",63.834306,11.580083
+649056,"Haukåvegen 364, Stiklestad",63.845014,11.590403
+649057,"Haukåvegen 358, Stiklestad",63.844416,11.590205
+649058,"Haukåvegen 376, Stiklestad",63.846467,11.591004
+649059,"Haukåvegen 374, Stiklestad",63.846078,11.591172
+649060,"Haukåvegen 398, Stiklestad",63.847962,11.589718
+649061,"Haukåvegen 400, Stiklestad",63.848018,11.587627
+649066,"Aspåsvegen 9, Stiklestad",63.848747,11.653886
+649067,"Aspåsvegen 7, Stiklestad",63.84825,11.653554
+649068,"Aspåsvegen 16, Stiklestad",63.849416,11.650693
+649069,"Aspåsvegen 8, Stiklestad",63.848824,11.650169
+649070,"Aspåsvegen 20, Stiklestad",63.849729,11.651272
+649071,"Aspåsvegen 18, Stiklestad",63.849407,11.649716
+649072,"Aspåsvegen 44, Stiklestad",63.851122,11.65122
+649073,"Aspåsvegen 38, Stiklestad",63.85059,11.650844
+649074,"Aspåsvegen 68, Stiklestad",63.85294,11.648074
+649075,"Aspåsvegen 55, Stiklestad",63.852214,11.650916
+649076,"Aksnesvegen 59, Stiklestad",63.861673,11.636519
+649077,"Aksnesvegen 61, Stiklestad",63.861401,11.636188
+649078,"Hofstadvegen 69, Stiklestad",63.84595,11.664853
+649079,"Hofstadvegen 34, Stiklestad",63.844728,11.659021
+649081,"Hofstadvegen 23, Stiklestad",63.843806,11.657916
+649094,"Dalan 10, Stiklestad",63.841506,11.660405
+649096,"Dalan 62, Stiklestad",63.843131,11.669693
+649097,"Dalan 22, Stiklestad",63.841886,11.663167
+649098,"Dalan 73, Stiklestad",63.842577,11.671939
+649099,"Dalan 61, Stiklestad",63.840672,11.671535
+649100,"Dalan 81, Stiklestad",63.844224,11.67177
+649101,"Dalan 71, Stiklestad",63.842935,11.672014
+649102,"Dalan 92, Stiklestad",63.846595,11.671242
+649103,"Dalan 144, Stiklestad",63.844432,11.681393
+649104,"Dalan 124, Stiklestad",63.84546,11.678744
+649105,"Tjeldervegen 26, Stiklestad",63.846056,11.65469
+649106,"Tjeldervegen 1, Stiklestad",63.843787,11.654537
+649107,"Hofstadvegen 29, Stiklestad",63.843583,11.659279
+649108,"Tjeldervegen 83, Stiklestad",63.849131,11.660841
+649109,"Røssengvegen 41A, Stiklestad",63.839244,11.690419
+649110,"Røssengvegen 19, Stiklestad",63.841026,11.688738
+649111,"Røssengvegen 93, Stiklestad",63.839949,11.700291
+649112,"Røssengvegen 41B, Stiklestad",63.839255,11.690318
+649113,"Røssengvegen 131, Stiklestad",63.83806,11.706701
+649114,"Røssengvegen 91, Stiklestad",63.840214,11.70052
+649115,"Røssengvegen 159, Stiklestad",63.836771,11.711723
+649116,"Røssengvegen 143, Stiklestad",63.837257,11.7088
+649127,"Markavegen 240, Stiklestad",63.846397,11.6945
+649129,"Markavegen 251, Stiklestad",63.845417,11.696482
+649130,"Markavegen 286, Stiklestad",63.847222,11.702251
+649131,"Dalan 89, Stiklestad",63.844997,11.672299
+649132,"Markavegen 250, Stiklestad",63.846341,11.697038
+649133,"Markavegen 288, Stiklestad",63.847535,11.704234
+649134,"Markavegen 317, Stiklestad",63.846139,11.709288
+649135,"Markavegen 299, Stiklestad",63.846654,11.706204
+649136,"Markavegen 330, Stiklestad",63.845425,11.711905
+649137,"Markavegen 356, Stiklestad",63.843325,11.709424
+649138,"Markavegen 355, Stiklestad",63.843309,11.708365
+649201,"Aspåsvegen 5, Stiklestad",63.84806,11.652682
+649234,"Leksdalsvegen 60, Stiklestad",63.80142,11.562551
+649235,"Leksdalsvegen 38, Stiklestad",63.800168,11.561239
+649236,"Leksdalsvegen 53, Stiklestad",63.80106,11.564123
+649237,"Leksdalsvegen 58, Stiklestad",63.801301,11.563149
+649238,"Leksdalsvegen 57, Stiklestad",63.800968,11.565232
+649239,"Leksdalsvegen 55, Stiklestad",63.800923,11.56476
+649240,"Leksdalsvegen 61, Stiklestad",63.80067,11.56623
+649241,"Leksdalsvegen 59, Stiklestad",63.800769,11.565679
+649242,"Leksdalsvegen 95, Stiklestad",63.803983,11.567862
+649243,"Leksdalsvegen 66, Stiklestad",63.802045,11.563745
+649244,"Leksdalsvegen 105, Stiklestad",63.804473,11.569593
+649245,"Leksdalsvegen 99, Stiklestad",63.804258,11.569106
+649246,"Leksdalsvegen 98, Stiklestad",63.804688,11.56813
+649247,"Leksdalsvegen 107, Stiklestad",63.804331,11.570027
+649248,"Leksdalsvegen 134, Stiklestad",63.807442,11.568787
+649249,"Leksdalsvegen 132, Stiklestad",63.807277,11.571007
+649250,"Øster-Hallem 6, Stiklestad",63.809529,11.581169
+649251,"Hallemsvegen 15, Stiklestad",63.809553,11.581862
+649252,"Hallemsvegen 7, Stiklestad",63.809917,11.580574
+649253,"Hallemsvegen 27, Stiklestad",63.809217,11.585041
+649254,"Hallemsvegen 17, Stiklestad",63.809378,11.582597
+649255,"Hallemsvegen 44, Stiklestad",63.81128,11.584174
+649256,"Hallemsvegen 42, Stiklestad",63.810963,11.585344
+649257,"Leksdalsvegen 36, Stiklestad",63.799616,11.561473
+649258,"Leksdalsvegen 41, Stiklestad",63.799697,11.563979
+649259,"Leksdalsvegen 39, Stiklestad",63.799683,11.562759
+649260,"Musemsvegen 163, Stiklestad",63.822147,11.664168
+649261,"Musemsvegen 113, Stiklestad",63.821013,11.656011
+649262,"Musemsvegen 170, Stiklestad",63.823557,11.664159
+649263,"Musemsvegen 164, Stiklestad",63.822395,11.663419
+649264,"Musemsvegen 182, Stiklestad",63.823855,11.665549
+649265,"Musemsvegen 180, Stiklestad",63.823315,11.664624
+649266,"Musemsvegen 178, Stiklestad",63.823223,11.665245
+649267,"Musemsvegen 184, Stiklestad",63.823297,11.666106
+649268,"Musemsvegen 209, Stiklestad",63.822119,11.67252
+649269,"Musemsvegen 205, Stiklestad",63.822606,11.669985
+649270,"Musemsvegen 211, Stiklestad",63.819852,11.670313
+649271,"Musemsvegen 207, Stiklestad",63.822085,11.671399
+649272,"Musemsvegen 215A, Stiklestad",63.818433,11.670321
+649273,"Musemsvegen 213, Stiklestad",63.820009,11.667604
+649274,"Musemsvegen 237, Stiklestad",63.822407,11.67637
+649275,"Musemsvegen 215B, Stiklestad",63.818425,11.670219
+649276,"Sendesvegen 316, Stiklestad",63.81772,11.682592
+649277,"Sendesvegen 314, Stiklestad",63.817485,11.682671
+649278,"Musemsvegen 23, Stiklestad",63.824223,11.638666
+649279,"Musemsvegen 18, Stiklestad",63.824885,11.637834
+649280,"Musemsvegen 52, Stiklestad",63.823326,11.645494
+649281,"Musemsvegen 24, Stiklestad",63.824754,11.639062
+649282,"Musemsvegen 68, Stiklestad",63.822551,11.647556
+649283,"Musemsvegen 64, Stiklestad",63.82276,11.645014
+649284,"Musemsvegen 75, Stiklestad",63.81959,11.646445
+649285,"Musemsvegen 66, Stiklestad",63.822959,11.647391
+649286,"Musemsvegen 105, Stiklestad",63.820978,11.651068
+649287,"Musemsvegen 72, Stiklestad",63.822933,11.651111
+649288,"Musemsvegen 128, Stiklestad",63.824068,11.655933
+649289,"Musemsvegen 107, Stiklestad",63.821023,11.65158
+649290,"Musemsvegen 124, Stiklestad",63.822066,11.656374
+649291,"Musemsvegen 126, Stiklestad",63.823395,11.654954
+649292,"Sendesvegen 150, Stiklestad",63.813469,11.655584
+649293,"Sendesvegen 151, Stiklestad",63.812894,11.655089
+649294,"Sendesvegen 166, Stiklestad",63.813717,11.657213
+649295,"Sendesvegen 128, Stiklestad",63.815874,11.654693
+649296,"Sendesvegen 134, Stiklestad",63.818816,11.659718
+649297,"Sendesvegen 130, Stiklestad",63.818368,11.663587
+649298,"Sendesvegen 180, Stiklestad",63.814054,11.660883
+649299,"Sendesvegen 163, Stiklestad",63.813026,11.658185
+649301,"Sendesvegen 184, Stiklestad",63.814327,11.661661
+649302,"Sendesvegen 225, Stiklestad",63.813445,11.671962
+649303,"Sendesvegen 209, Stiklestad",63.813991,11.666222
+649304,"Sendesvegen 252, Stiklestad",63.81536,11.674258
+649305,"Sendesvegen 247, Stiklestad",63.814617,11.673659
+649306,"Sendesvegen 299, Stiklestad",63.816046,11.682798
+649307,"Sendesvegen 256, Stiklestad",63.815796,11.67497
+649308,"Leksdalsvegen 1345, Stiklestad",63.879513,11.621346
+649309,"Leksdalsvegen 1341, Stiklestad",63.879048,11.621282
+649310,"Leksdalsvegen 1395, Stiklestad",63.883551,11.618075
+649311,"Leksdalsvegen 1340, Stiklestad",63.878858,11.619859
+649313,"Øster-Hallem 90, Stiklestad",63.803775,11.580053
+649314,"Sendesvegen 52, Stiklestad",63.815123,11.634908
+649315,"Sendesvegen 48, Stiklestad",63.814399,11.634739
+649316,"Sendesvegen 55, Stiklestad",63.814299,11.636721
+649317,"Sendesvegen 50, Stiklestad",63.8148,11.634878
+649318,"Sendesvegen 78, Stiklestad",63.814878,11.639458
+649319,"Sendesvegen 61, Stiklestad",63.814024,11.63761
+649320,"Sendesvegen 118, Stiklestad",63.815006,11.647681
+649321,"Sendesvegen 76, Stiklestad",63.814537,11.639914
+649322,"Sendesvegen 131, Stiklestad",63.813242,11.652799
+649323,"Sendesvegen 129, Stiklestad",63.813208,11.652207
+649324,"Leksdalsvegen 990, Stiklestad",63.850943,11.643308
+649325,"Leksdalsvegen 963, Stiklestad",63.849844,11.647925
+649326,"Leksdalsvegen 1002, Stiklestad",63.851956,11.641469
+649327,"Leksdalsvegen 995, Stiklestad",63.852082,11.643923
+649328,"Leksdalsvegen 1004, Stiklestad",63.852372,11.638458
+649329,"Leksdalsvegen 1006, Stiklestad",63.852072,11.638061
+649330,"Leksdalsvegen 1029, Stiklestad",63.854282,11.639469
+649331,"Leksdalsvegen 1031, Stiklestad",63.854268,11.640262
+649332,"Leksdalsvegen 1073, Stiklestad",63.858309,11.636794
+649333,"Leksdalsvegen 1065, Stiklestad",63.857399,11.638968
+649334,"Leksdalsvegen 1075, Stiklestad",63.858315,11.637486
+649335,"Leksdalsvegen 1077, Stiklestad",63.858547,11.638506
+649336,"Leksdalsvegen 1171, Stiklestad",63.865139,11.635072
+649337,"Leksdalsvegen 1145, Stiklestad",63.863394,11.629778
+649338,"Leksdalsvegen 1301, Stiklestad",63.875878,11.622758
+649339,"Leksdalsvegen 1298, Stiklestad",63.87504,11.62179
+649340,"Leksdalsvegen 826, Stiklestad",63.839696,11.657284
+649341,"Leksdalsvegen 828, Stiklestad",63.840194,11.65607
+649342,"Leksdalsvegen 840, Stiklestad",63.840828,11.658185
+649343,"Leksdalsvegen 837, Stiklestad",63.840565,11.658851
+649344,"Leksdalsvegen 886A, Stiklestad",63.84345,11.651393
+649345,"Leksdalsvegen 886B, Stiklestad",63.843418,11.651146
+649348,"Leksdalsvegen 902, Stiklestad",63.844964,11.638331
+649350,"Leksdalsvegen 932, Stiklestad",63.846882,11.647342
+649351,"Leksdalsvegen 920, Stiklestad",63.84564,11.647001
+649352,"Leksdalsvegen 931, Stiklestad",63.847702,11.650634
+649353,"Leksdalsvegen 929, Stiklestad",63.846879,11.650007
+649354,"Leksdalsvegen 961, Stiklestad",63.849677,11.648724
+649355,"Leksdalsvegen 959, Stiklestad",63.849434,11.648741
+649356,"Leksdalsvegen 611, Stiklestad",63.827196,11.638152
+649357,"Leksdalsvegen 582, Stiklestad",63.825288,11.633459
+649358,"Leksdalsvegen 702, Stiklestad",63.834987,11.636848
+649359,"Leksdalsvegen 669, Stiklestad",63.832381,11.638922
+649360,"Leksdalsvegen 730, Stiklestad",63.837648,11.640656
+649361,"Leksdalsvegen 704, Stiklestad",63.834825,11.635917
+649362,"Granholt, Leksdalsvegen 752, Stiklestad",63.837498,11.64591
+649363,"Granholt, Leksdalsvegen 750, Stiklestad",63.837432,11.64509
+649364,"Leksdalsvegen 771, Stiklestad",63.835602,11.647929
+649365,"Leksdalsvegen 769, Stiklestad",63.836103,11.647996
+649366,"Leksdalsvegen 796, Stiklestad",63.839901,11.650977
+649367,"Leksdalsvegen 794, Stiklestad",63.838059,11.652533
+649368,"Leksdalsvegen 821, Stiklestad",63.839253,11.658422
+649369,"Leksdalsvegen 798, Stiklestad",63.840792,11.65037
+649373,"Leksdalsvegen 466, Stiklestad",63.81596,11.626389
+649374,"Leksdalsvegen 432, Stiklestad",63.814391,11.623784
+649375,"Leksdalsvegen 488, Stiklestad",63.817805,11.627151
+649376,"Leksdalsvegen 481, Stiklestad",63.816755,11.629634
+649377,"Leksdalsvegen 514, Stiklestad",63.820285,11.626609
+649378,"Leksdalsvegen 503, Stiklestad",63.8185,11.630447
+649379,"Leksdalsvegen 513, Stiklestad",63.819413,11.631081
+649380,"Leksdalsvegen 516, Stiklestad",63.820239,11.626158
+649381,"Leksdalsvegen 533, Stiklestad",63.820805,11.633061
+649382,"Leksdalsvegen 531, Stiklestad",63.820513,11.63283
+649383,"Leksdalsvegen 565, Stiklestad",63.82356,11.63462
+649384,"Leksdalsvegen 560, Stiklestad",63.82319,11.633284
+649409,"Busetvegen 27, Stiklestad",63.831751,11.643906
+649410,"Busetvegen 23, Stiklestad",63.829197,11.646554
+649411,"Busetvegen 47, Stiklestad",63.832881,11.647917
+649412,"Busetvegen 22, Stiklestad",63.832157,11.643314
+649413,"Busetvegen 51, Stiklestad",63.833374,11.647455
+649414,"Nordvikvegen 85, Stiklestad",63.841298,11.630095
+649415,"Nordvikvegen 65, Stiklestad",63.842595,11.633308
+649417,"Nordvikvegen 121, Stiklestad",63.84441,11.63103
+649440,"Musemsvegen 272, Stiklestad",63.821172,11.681924
+649441,"Musemsvegen 235, Stiklestad",63.822641,11.676311
+649442,"Musemsvegen 293, Stiklestad",63.820143,11.683656
+649443,"Musemsvegen 253, Stiklestad",63.819799,11.677525
+649445,"Musemsvegen 292, Stiklestad",63.820325,11.684974
+649524,"Nye Skrovesvegen 14, Stiklestad",63.78918,11.672954
+649525,"Nye Skrovesvegen 71, Stiklestad",63.792578,11.676647
+649527,"Nye Skrovesvegen 83, Stiklestad",63.794726,11.678029
+649528,"Nye Skrovesvegen 85, Stiklestad",63.796029,11.681849
+649529,"Nye Skrovesvegen 69, Stiklestad",63.792689,11.676942
+649530,"Nye Skrovesvegen 81, Stiklestad",63.794456,11.677069
+649531,"Nye Skrovesvegen 90A, Stiklestad",63.79454,11.673523
+649532,"Nye Skrovesvegen 90B, Stiklestad",63.79457,11.673323
+649533,"Nye Skrovesvegen 73, Vera og Vuku",63.794155,11.682626
+649534,"Nye Skrovesvegen 79, Stiklestad",63.794664,11.675545
+649535,"Nye Skrovesvegen 98, Stiklestad",63.795306,11.67189
+649536,"Nye Skrovesvegen 111, Stiklestad",63.7968,11.675606
+649537,"Nye Skrovesvegen 97, Stiklestad",63.795656,11.675335
+649538,"Nye Skrovesvegen 96, Stiklestad",63.795478,11.67282
+649543,"Aunflata 23B, Vera og Vuku",63.786271,11.669999
+649544,"Aunflata 23A, Vera og Vuku",63.786242,11.670138
+649545,"Aunflata 46, Stiklestad",63.788834,11.663987
+649546,"Aunflata 16, Vera og Vuku",63.785654,11.667951
+649547,"Aunflata 44, Stiklestad",63.789638,11.668612
+649548,"Aunflata 42, Stiklestad",63.789318,11.667465
+649551,"Aunflata 18, Vera og Vuku",63.785734,11.667471
+649553,"Leirådalsvegen 664, Vera og Vuku",63.784502,11.668532
+649554,"Leirådalsvegen 719B, Vera og Vuku",63.781959,11.67482
+649555,"Leirådalsvegen 639, Vera og Vuku",63.784324,11.664069
+649556,"Leirådalsvegen 657, Vera og Vuku",63.784251,11.667231
+649557,"Leirådalsvegen 755, Vera og Vuku",63.781435,11.68091
+649558,"Leirådalsvegen 837B, Vera og Vuku",63.778762,11.689412
+649559,"Leirådalsvegen 719A, Vera og Vuku",63.781864,11.674759
+649560,"Leirådalsvegen 752, Vera og Vuku",63.781658,11.681946
+649562,"Aunflata 9, Vera og Vuku",63.784984,11.668253
+649564,"Leirådalsvegen 837A, Vera og Vuku",63.778759,11.689595
+649565,"Leirådalsvegen 871, Vera og Vuku",63.778816,11.697123
+649570,"Leirådalsvegen 155, Stiklestad",63.798039,11.592974
+649571,"Leirådalsvegen 67, Stiklestad",63.799106,11.575023
+649572,"Leirådalsvegen 466, Stiklestad",63.79302,11.641962
+649573,"Leirådalsvegen 468, Stiklestad",63.793306,11.641542
+649574,"Leirådalsvegen 517B, Stiklestad",63.788961,11.645867
+649575,"Leirådalsvegen 557, Stiklestad",63.787062,11.64512
+649577,"Leirådalsvegen 517A, Stiklestad",63.788922,11.646046
+649578,"Leirådalsvegen 562, Stiklestad",63.78559,11.65288
+649579,"Leirådalsvegen 615, Stiklestad",63.78136,11.653114
+649581,"Leirådalsvegen 564, Stiklestad",63.785532,11.653585
+649582,"Leirådalsvegen 640, Vera og Vuku",63.784824,11.663757
+649583,"Leirådalsvegen 622, Vera og Vuku",63.785453,11.660826
+649584,"Leirådalsvegen 628, Stiklestad",63.78562,11.662486
+649585,"Leirådalsvegen 368B, Stiklestad",63.796959,11.625879
+649586,"Leirådalsvegen 368A, Stiklestad",63.796852,11.625849
+649587,"Leirådalsvegen 349, Stiklestad",63.797312,11.622297
+649588,"Leirådalsvegen 363, Stiklestad",63.796737,11.623279
+649589,"Leirådalsvegen 382, Stiklestad",63.795473,11.628117
+649590,"Leirådalsvegen 386, Stiklestad",63.795825,11.63144
+649591,"Leirådalsvegen 378, Stiklestad",63.795651,11.62735
+649592,"Leirådalsvegen 380, Stiklestad",63.795841,11.627624
+649593,"Leirådalsvegen 420, Stiklestad",63.795329,11.634014
+649594,"Leirådalsvegen 460, Stiklestad",63.793136,11.640491
+649595,"Leirådalsvegen 388, Stiklestad",63.796446,11.638241
+649596,"Leirådalsvegen 384, Stiklestad",63.795469,11.629275
+649597,"Leirådalsvegen 462, Stiklestad",63.792348,11.642854
+649598,"Leirådalsvegen 464, Stiklestad",63.792739,11.642078
+649599,"Leirådalsvegen 458, Stiklestad",63.793283,11.640301
+649600,"Leirådalsvegen 463, Stiklestad",63.792502,11.64033
+649601,"Leirådalsvegen 325, Stiklestad",63.799615,11.621049
+649602,"Leirådalsvegen 336, Stiklestad",63.799415,11.623163
+649603,"Leirådalsvegen 324, Stiklestad",63.799811,11.622123
+649604,"Leirådalsvegen 358, Stiklestad",63.797627,11.62517
+649605,"Leirådalsvegen 362, Stiklestad",63.797478,11.625542
+649606,"Leirådalsvegen 348, Stiklestad",63.798242,11.624455
+649607,"Leirådalsvegen 354, Stiklestad",63.797875,11.624868
+649608,"Aunflata 40, Stiklestad",63.788984,11.668509
+649611,"Vukuvegen 409, Stiklestad",63.772468,11.608707
+649624,"Bureisarvegen 146, Stiklestad",63.782948,11.638299
+649639,"Vukuvegen 849, Vera og Vuku",63.775552,11.690154
+649640,"Vukuvegen 859, Vera og Vuku",63.775293,11.692443
+649641,"Vukuvegen 851A, Vera og Vuku",63.775454,11.690551
+649642,"Vukuvegen 851B, Vera og Vuku",63.775355,11.690602
+649645,"Vukuvegen 850, Vera og Vuku",63.776433,11.691537
+649646,"Vukuvegen 858, Vera og Vuku",63.77642,11.692205
+649652,"Vukuvegen 860, Vera og Vuku",63.776779,11.692706
+649655,"Vukuvegen 402B, Stiklestad",63.773247,11.6088
+649656,"Vukuvegen 641, Stiklestad",63.775678,11.651787
+649657,"Vukuvegen 400, Stiklestad",63.773138,11.608384
+649658,"Vukuvegen 402A, Stiklestad",63.773288,11.609047
+649659,"Vukuvegen 670, Stiklestad",63.776539,11.655785
+649660,"Vukuvegen 640, Stiklestad",63.776607,11.651123
+649661,"Vukuvegen 638, Stiklestad",63.776688,11.650582
+649662,"Vukuvegen 715A, Vera og Vuku",63.772947,11.665025
+649663,"Vukuvegen 715B, Vera og Vuku",63.772887,11.665324
+649664,"Vukuvegen 701, Vera og Vuku",63.773216,11.662595
+649665,"Vukuvegen 802, Vera og Vuku",63.775329,11.681345
+649666,"Vukuvegen 814, Vera og Vuku",63.775565,11.684127
+649667,"Vukuvegen 766, Vera og Vuku",63.773845,11.674222
+649668,"Vukuvegen 800, Vera og Vuku",63.77491,11.681084
+649671,"Vukuvegen 233, Stiklestad",63.778011,11.578612
+649673,"Vukuvegen 262, Stiklestad",63.7767,11.587118
+649674,"Vukuvegen 264, Stiklestad",63.776455,11.587765
+649677,"Vukuvegen 302, Stiklestad",63.772575,11.591306
+649678,"Vukuvegen 304, Stiklestad",63.773106,11.59172
+649679,"Vukuvegen 293, Stiklestad",63.773359,11.588171
+649680,"Vukuvegen 295, Stiklestad",63.772561,11.586069
+649681,"Vukuvegen 385, Stiklestad",63.771957,11.604663
+649682,"Vukuvegen 407, Stiklestad",63.772383,11.607928
+649683,"Vukuvegen 318, Stiklestad",63.771498,11.593257
+649684,"Vukuvegen 387, Stiklestad",63.771947,11.60523
+649685,"Helsetbakkan 115, Vera og Vuku",63.784264,11.700161
+649686,"Helsetbakkan 195, Vera og Vuku",63.784428,11.717718
+649687,"Helsetbakkan 114, Vera og Vuku",63.789342,11.694189
+649688,"Helsetbakkan 117, Vera og Vuku",63.784139,11.700636
+649689,"Vukuvegen 65A, Stiklestad",63.789769,11.558731
+649690,"Vukuvegen 65B, Stiklestad",63.789872,11.559025
+649691,"Helsetbakkan 197, Vera og Vuku",63.784676,11.717945
+649692,"Vukuvegen 34, Stiklestad",63.793581,11.564032
+649693,"Vukuvegen 199, Stiklestad",63.780483,11.577965
+649694,"Vukuvegen 207, Stiklestad",63.77967,11.577241
+649695,"Vukuvegen 195, Stiklestad",63.780619,11.577389
+649696,"Vukuvegen 197, Stiklestad",63.780142,11.576959
+649697,"Vukuvegen 236, Stiklestad",63.778503,11.583731
+649698,"Vukuvegen 238, Stiklestad",63.778592,11.584267
+649699,"Vukuvegen 228, Stiklestad",63.778463,11.581921
+649700,"Vukuvegen 234, Stiklestad",63.778072,11.58219
+649701,"Volvegen 74, Vera og Vuku",63.780038,11.662285
+649702,"Volvegen 10, Vera og Vuku",63.774617,11.663559
+649703,"Volvegen 15, Vera og Vuku",63.774817,11.66441
+649704,"Volvegen 34A, Vera og Vuku",63.776538,11.663639
+649705,"Helsetbakkan 9, Vera og Vuku",63.782824,11.682036
+649706,"Helsetbakkan 28, Vera og Vuku",63.784319,11.683721
+649707,"Volvegen 34B, Vera og Vuku",63.776532,11.663943
+649708,"Helsetbakkan 5, Vera og Vuku",63.782617,11.68161
+649709,"Helsetbakkan 44, Vera og Vuku",63.78489,11.686821
+649710,"Helsetbakkan 48, Vera og Vuku",63.785135,11.687169
+649711,"Helsetbakkan 42, Vera og Vuku",63.7848,11.686366
+649712,"Helsetbakkan 43, Vera og Vuku",63.783977,11.687668
+649713,"Helsetbakkan 77, Vera og Vuku",63.784406,11.694492
+649714,"Helsetbakkan 112, Vera og Vuku",63.788591,11.699295
+649715,"Helsetbakkan 50, Vera og Vuku",63.785278,11.68769
+649716,"Helsetbakkan 46, Vera og Vuku",63.784984,11.687581
+649717,"Gamle Skrovesvegen 17, Stiklestad",63.790869,11.6695
+649718,"Gamle Skrovesvegen 19, Stiklestad",63.793036,11.669888
+649719,"Nye Skrovesvegen 113, Stiklestad",63.797258,11.675141
+649720,"Gamle Skrovesvegen 5, Stiklestad",63.789905,11.671155
+649721,"Gamle Skrovesvegen 69, Stiklestad",63.793146,11.662932
+649722,"Gamle Skrovesvegen 91, Stiklestad",63.794489,11.662186
+649723,"Gamle Skrovesvegen 47, Stiklestad",63.791798,11.665892
+649724,"Gamle Skrovesvegen 98, Stiklestad",63.796083,11.660975
+649725,"Gamle Skrovesvegen 100, Stiklestad",63.796137,11.660473
+649726,"Gamle Skrovesvegen 93, Stiklestad",63.794607,11.662623
+649727,"Gamle Skrovesvegen 96, Stiklestad",63.794936,11.662268
+649728,"Gamle Skrovesvegen 136, Stiklestad",63.800422,11.662319
+649729,"Volvegen 9, Vera og Vuku",63.774305,11.664443
+649730,"Gamle Skrovesvegen 134, Stiklestad",63.796714,11.663756
+649731,"Gamle Skrovesvegen 135, Stiklestad",63.796779,11.668515
+649865,"Leirådalsvegen 111, Stiklestad",63.800485,11.582271
+649866,"Leirådalsvegen 112, Stiklestad",63.801135,11.583041
+649867,"Leirådalsvegen 95, Stiklestad",63.799646,11.57998
+649868,"Leirådalsvegen 97, Stiklestad",63.799776,11.580235
+649869,"Leirådalsvegen 153, Stiklestad",63.799569,11.591774
+649870,"Leirådalsvegen 151, Stiklestad",63.799648,11.591355
+649871,"Leirådalsvegen 147, Stiklestad",63.800124,11.589855
+649872,"Leirådalsvegen 149, Stiklestad",63.799904,11.591135
+649873,"Leirådalsvegen 210, Stiklestad",63.799518,11.602616
+649874,"Leirådalsvegen 256, Stiklestad",63.800328,11.60844
+649875,"Leirådalsvegen 160, Stiklestad",63.800746,11.592248
+649876,"Leirådalsvegen 204, Stiklestad",63.799718,11.600949
+649877,"Leirådalsvegen 284, Stiklestad",63.798351,11.615467
+649878,"Leirådalsvegen 322, Stiklestad",63.799953,11.62171
+649879,"Leirådalsvegen 254, Stiklestad",63.80021,11.609018
+649880,"Leirådalsvegen 252, Stiklestad",63.80003,11.609529
+649881,"Leirådalsvegen 59, Stiklestad",63.798787,11.572731
+649882,"Leirådalsvegen 57, Stiklestad",63.799002,11.572751
+649884,"Leirådalsvegen 53, Stiklestad",63.798849,11.571782
+649885,"Leirådalsvegen 76, Stiklestad",63.799865,11.575755
+649886,"Leirådalsvegen 78, Stiklestad",63.79991,11.576267
+649887,"Leirådalsvegen 60, Stiklestad",63.800079,11.573824
+649888,"Leirådalsvegen 66, Stiklestad",63.799568,11.573757
+649889,"Leirådalsvegen 82, Stiklestad",63.800444,11.575483
+649890,"Leirådalsvegen 84, Stiklestad",63.801599,11.57571
+649891,"Leirådalsvegen 80A, Stiklestad",63.800173,11.57558
+649892,"Leirådalsvegen 80B, Stiklestad",63.800186,11.575357
+649893,"Leirådalsvegen 86, Stiklestad",63.801439,11.575252
+649894,"Leirådalsvegen 100, Stiklestad",63.800426,11.580518
+649895,"Leirådalsvegen 88A, Stiklestad",63.801203,11.572728
+649896,"Leirådalsvegen 88B, Stiklestad",63.80126,11.57253
+649897,"Ekloa 56, Stiklestad",63.778238,11.625742
+649898,"Ekloa 58, Stiklestad",63.778277,11.625096
+649899,"Spannvegen 62, Stiklestad",63.792934,11.613625
+649900,"Ekloa 39, Stiklestad",63.775985,11.625715
+649901,"Ekloa 61B, Stiklestad",63.775559,11.629369
+649902,"Ekloa 59, Stiklestad",63.775785,11.629289
+649903,"Ekloa 57, Stiklestad",63.776432,11.62874
+649904,"Ekloa 61A, Stiklestad",63.775484,11.629545
+649905,"Landfallvegen 30, Stiklestad",63.776688,11.637857
+649906,"Landfallvegen 19B, Stiklestad",63.776809,11.640588
+649907,"Landfallvegen 7, Stiklestad",63.780237,11.644156
+649908,"Landfallvegen 9, Stiklestad",63.781588,11.64345
+649911,"Landfallvegen 19A, Stiklestad",63.776787,11.640789
+649912,"Landfallvegen 65, Stiklestad",63.777642,11.636261
+649913,"Fangevegen 54, Stiklestad",63.782253,11.618787
+649914,"Bureisarvegen 18, Stiklestad",63.787378,11.615445
+649915,"Fangevegen 18, Stiklestad",63.781309,11.613381
+649916,"Fangevegen 52, Stiklestad",63.782415,11.617767
+649917,"Bureisarvegen 91B, Stiklestad",63.785282,11.628488
+649918,"Bureisarvegen 91A, Stiklestad",63.785251,11.628709
+649919,"Bureisarvegen 16, Stiklestad",63.787661,11.6147
+649920,"Bureisarvegen 50, Stiklestad",63.786377,11.620631
+649921,"Bureisarvegen 193, Stiklestad",63.77933,11.636784
+649922,"Bureisarvegen 183, Stiklestad",63.781204,11.637523
+649923,"Bureisarvegen 85, Stiklestad",63.78197,11.628395
+649924,"Bureisarvegen 134, Stiklestad",63.784363,11.638046
+649925,"Spannvegen 63, Stiklestad",63.793026,11.619949
+649926,"Spannvegen 67, Stiklestad",63.792694,11.617928
+649927,"Bureisarvegen 181, Stiklestad",63.780634,11.63719
+649928,"Bureisarvegen 199, Stiklestad",63.779234,11.635131
+649929,"Mogrenda 41, Stiklestad",63.78194,11.598824
+649930,"Mogrenda 58, Stiklestad",63.781195,11.596319
+649933,"Rasvegen 51, Stiklestad",63.776298,11.607478
+649934,"Rasvegen 53, Stiklestad",63.776186,11.608178
+649935,"Mogrenda 50, Stiklestad",63.781273,11.598011
+649936,"Rasvegen 31, Stiklestad",63.774977,11.60553
+649937,"Rasvegen 147, Stiklestad",63.784863,11.612005
+649938,"Rasvegen 149, Stiklestad",63.784818,11.612549
+649939,"Rasvegen 89, Stiklestad",63.779697,11.608685
+649940,"Rasvegen 92, Stiklestad",63.78021,11.607616
+649941,"Rasvegen 270, Stiklestad",63.791259,11.595458
+649942,"Rasvegen 56, Stiklestad",63.777087,11.605034
+649943,"Rasvegen 151, Stiklestad",63.785379,11.609291
+649944,"Rasvegen 209, Stiklestad",63.789804,11.606472
+649945,"Stubbesgropa 116, Stiklestad",63.785899,11.597402
+649946,"Stubbesgropa 114, Stiklestad",63.785921,11.596673
+649947,"Klokkarhaugvegen 65, Stiklestad",63.787007,11.600204
+649948,"Stubbesgropa 91, Stiklestad",63.784408,11.593427
+649949,"Stubbesgropa 86, Stiklestad",63.784135,11.592144
+649950,"Stubbesgropa 84, Stiklestad",63.783764,11.59079
+649951,"Stubbesgropa 93, Stiklestad",63.784577,11.593504
+649952,"Stubbesgropa 85, Stiklestad",63.783905,11.592955
+649953,"Stubbesgropa 68, Stiklestad",63.782793,11.589889
+649954,"Stubbesgropa 70A, Stiklestad",63.782902,11.58929
+649955,"Stubbesgropa 82, Stiklestad",63.783746,11.591783
+649956,"Stubbesgropa 72, Stiklestad",63.782951,11.590573
+649957,"Stubbesgropa 51, Stiklestad",63.780937,11.589231
+649958,"Stubbesgropa 49, Stiklestad",63.781226,11.588629
+649959,"Stubbesgropa 70B, Stiklestad",63.782964,11.589356
+649960,"Stubbesgropa 70C, Stiklestad",63.783017,11.589402
+649961,"Gamle Prestgårdsveg 39, Stiklestad",63.795047,11.566948
+649962,"Gamle Prestgårdsveg 59, Stiklestad",63.79502,11.571494
+649965,"Heggstadvegen 29, Stiklestad",63.79236,11.57312
+649966,"Heggstadvegen 31, Stiklestad",63.792579,11.572937
+649967,"Gamle Prestgårdsveg 104, Stiklestad",63.794375,11.580473
+649968,"Gamle Prestgårdsveg 102, Stiklestad",63.794475,11.579873
+649969,"Gamle Prestgårdsveg 112, Stiklestad",63.795802,11.585518
+649970,"Gamle Prestgårdsveg 136, Stiklestad",63.793899,11.587476
+649971,"Heggstadvegen 41, Stiklestad",63.791089,11.572882
+649972,"Gamle Prestgårdsveg 114, Stiklestad",63.796008,11.586045
+649973,"Klokkarhaugvegen 7, Stiklestad",63.791021,11.593203
+649974,"Klokkarhaugvegen 45, Stiklestad",63.786975,11.595998
+649975,"Gamle Prestgårdsveg 140, Stiklestad",63.793346,11.587791
+649976,"Gamle Prestgårdsveg 173, Stiklestad",63.791834,11.592973
+650126,"Haugsvegen 1, Stiklestad",63.795597,11.516307
+650137,"Åsavegen 97, Stiklestad",63.80429,11.67849
+650139,"Åsavegen 74, Stiklestad",63.806243,11.68022
+650140,"Åsavegen 72, Stiklestad",63.806015,11.680869
+650153,"Fiksevegen 115, Stiklestad",63.803706,11.659074
+650154,"Fiksevegen 117, Stiklestad",63.803916,11.658423
+650155,"Fiksevegen 99, Stiklestad",63.806157,11.660057
+650156,"Fiksevegen 101, Stiklestad",63.805872,11.659928
+650157,"Åsavegen 16A, Stiklestad",63.808697,11.670883
+650158,"Åsavegen 16B, Stiklestad",63.80877,11.670788
+650159,"Åsavegen 2, Stiklestad",63.809723,11.665412
+650160,"Åsavegen 14, Stiklestad",63.809052,11.668193
+650161,"Åsavegen 35, Stiklestad",63.807046,11.668349
+650162,"Åsavegen 40, Stiklestad",63.807548,11.671302
+650163,"Åsavegen 13, Stiklestad",63.808553,11.665545
+650164,"Åsavegen 33, Stiklestad",63.807616,11.669073
+650165,"Åsavegen 52, Stiklestad",63.806917,11.674351
+650166,"Åsavegen 66, Stiklestad",63.808159,11.678594
+650167,"Åsavegen 39, Stiklestad",63.807147,11.670655
+650168,"Åsavegen 45, Stiklestad",63.806956,11.671754
+650177,"Fiksevegen 1, Stiklestad",63.812762,11.65692
+650178,"Fiksevegen 32A, Stiklestad",63.811188,11.661763
+650181,"Fiksevegen 37, Stiklestad",63.809733,11.660455
+650182,"Fiksevegen 39, Stiklestad",63.808516,11.659283
+650183,"Fiksevegen 46, Stiklestad",63.81044,11.663996
+650252,"Karmhusvegen 68, Stiklestad",63.83418,11.670065
+650253,"Karmhusvegen 66, Stiklestad",63.833914,11.670324
+650274,"Karmhusvegen 18, Stiklestad",63.835643,11.663268
+650275,"Karmhusvegen 20, Stiklestad",63.835548,11.664052
+650277,"Karmhusvegen 2, Stiklestad",63.836986,11.661524
+650278,"Karmhusvegen 31, Stiklestad",63.83171,11.665215
+650279,"Karmhusvegen 67, Stiklestad",63.832643,11.669126
+650280,"Karmhusvegen 22, Stiklestad",63.83521,11.664366
+650281,"Karmhusvegen 25, Stiklestad",63.834661,11.661996
+650329,"Buvollen 45, Stiklestad",63.804537,11.595136
+650330,"Buvollen 47, Stiklestad",63.804278,11.5956
+650332,"Buvollen 40, Stiklestad",63.80402,11.593463
+650333,"Buvollen 75, Stiklestad",63.806857,11.593968
+650335,"Buvollen 50, Stiklestad",63.804808,11.593068
+650336,"Buvollen 43, Stiklestad",63.804468,11.593972
+650594,"Stiklestad alle 331A, Stiklestad",63.795648,11.558351
+650595,"Stiklestad alle 317, Stiklestad",63.794465,11.555705
+650596,"Stiklestad alle 326, Stiklestad",63.795813,11.557147
+650597,"Blommen 62, Stiklestad",63.800965,11.62288
+650598,"Blommen 64, Stiklestad",63.80118,11.622413
+650599,"Stiklestad alle 331B, Stiklestad",63.79553,11.558462
+650600,"Blommen 4, Stiklestad",63.796442,11.626644
+650603,"Blommen 96, Stiklestad",63.803893,11.620837
+650605,"Stiklestad alle 223D, Stiklestad",63.791665,11.534719
+650608,"Stiklestad alle 223C, Stiklestad",63.791727,11.534785
+650609,"Stiklestad alle 227, Stiklestad",63.794063,11.537798
+650610,"Stiklestad alle 229, Stiklestad",63.794076,11.53857
+650611,"Stiklestad alle 221, Stiklestad",63.792566,11.536079
+650612,"Stiklestad alle 225, Stiklestad",63.794029,11.537165
+650613,"Stiklestad alle 235, Stiklestad",63.793898,11.540037
+650614,"Stiklestad alle 220, Stiklestad",63.794681,11.539417
+650615,"Stiklestad alle 231, Stiklestad",63.794065,11.539179
+650616,"Stiklestad alle 233, Stiklestad",63.793985,11.539659
+650617,"Stiklestad alle 290, Stiklestad",63.795254,11.551187
+650618,"Stiklestad alle 300, Stiklestad",63.795279,11.552326
+650619,"Stiklestad alle 286, Stiklestad",63.795453,11.548605
+650620,"Stiklestad alle 288, Stiklestad",63.794956,11.550814
+650621,"Stiklestad alle 295, Stiklestad",63.793531,11.553183
+650622,"Stiklestad alle 315, Stiklestad",63.794766,11.555935
+650623,"Stiklestad alle 302, Stiklestad",63.795305,11.552897
+650624,"Stiklestad alle 293, Stiklestad",63.793577,11.552599
+650625,"Stiklestad alle 160A, Stiklestad",63.79668,11.526314
+650626,"Stiklestad alle 160B, Stiklestad",63.796427,11.526901
+650627,"Stiklestad alle 175, Stiklestad",63.795833,11.528493
+650628,"Stiklestad alle 177, Stiklestad",63.795804,11.528612
+650629,"Stiklestad alle 180, Stiklestad",63.796926,11.529687
+650630,"Stiklestad alle 184, Stiklestad",63.79717,11.531639
+650631,"Stiklestad alle 178A, Stiklestad",63.796508,11.528452
+650632,"Stiklestad alle 178B, Stiklestad",63.796513,11.528655
+650633,"Stiklestad alle 205, Stiklestad",63.794895,11.532836
+650634,"Stiklestad alle 207, Stiklestad",63.794803,11.533478
+650635,"Stiklestad alle 182, Stiklestad",63.796683,11.53123
+650636,"Stiklestad alle 190, Stiklestad",63.796552,11.533614
+650637,"Stiklestad alle 223A, Stiklestad",63.791955,11.534582
+650638,"Stiklestad alle 223B, Stiklestad",63.791915,11.534802
+650639,"Stiklestad alle 209, Stiklestad",63.794683,11.534198
+650640,"Stiklestad alle 211, Stiklestad",63.794552,11.534998
+650649,"Stiklestad alle 136, Stiklestad",63.796713,11.519798
+650650,"Stiklestad alle 144A, Stiklestad",63.797082,11.521801
+650652,"Stiklestad alle 134, Stiklestad",63.796433,11.518879
+650653,"Stiklestad alle 159, Stiklestad",63.796087,11.525814
+650654,"Stiklestad alle 173, Stiklestad",63.79578,11.526924
+650655,"Stiklestad alle 144B, Stiklestad",63.797078,11.521536
+650656,"Stiklestad alle 146, Stiklestad",63.797528,11.522491
+650918,"Forbregdsmyra 84C, Stiklestad",63.802244,11.541702
+650931,"Gamle Prestgårdsveg 176, Stiklestad",63.796227,11.597337
+650932,"Leksdalsvegen 760, Stiklestad",63.837579,11.647362
+650934,"Gamle Prestgårdsveg 174, Stiklestad",63.79218,11.59469
+650935,"Hallemsvegen 11B, Stiklestad",63.80984,11.58138
+650936,"Hallemsvegen 11A, Stiklestad",63.809878,11.581241
+650941,"Hallemsvegen 121A, Stiklestad",63.807895,11.599671
+650942,"Hallemsvegen 121B, Stiklestad",63.807758,11.599801
+650956,"Leksdalsvegen 1339, Stiklestad",63.878533,11.62191
+650979,"Aksnesvegen 1, Stiklestad",63.859038,11.635234
+650981,"Aksnesvegen 11, Stiklestad",63.860036,11.634662
+651019,"Aksnestjønna 1, Stiklestad",63.873235,11.669537
+651020,"Tjeldervegen 65, Stiklestad",63.848681,11.65799
+651056,"Leksdalsvegen 773, Stiklestad",63.834284,11.650266
+651059,"Spannvegen 20, Stiklestad",63.788863,11.614791
+651121,"Leksdalsvegen 2, Stiklestad",63.796951,11.55983
+651124,"Gamle Prestgårdsveg 24, Stiklestad",63.796525,11.564645
+651180,"Volvegen 64, Vera og Vuku",63.779028,11.661411
+651209,"Karmhusvegen 16, Stiklestad",63.83581,11.662836
+651239,"Mevatnet 2, Stiklestad",63.865816,11.850296
+651240,"Mevatnet 3, Stiklestad",63.869631,11.851013
+651241,"Landfallvollen 1, Stiklestad",63.868708,11.858302
+651242,"Hofstadseteren 1, Stiklestad",63.864474,11.778619
+651244,"Småvasshaugan 1, Stiklestad",63.873567,11.759997
+651246,"Fånetvatnet 1, Stiklestad",63.860547,11.800027
+651247,"Fånetvatnet 2, Stiklestad",63.859367,11.800695
+651248,"Skrovesvollen 1, Stiklestad",63.877155,11.814524
+651250,"Fjellvegen 840, Stiklestad",63.891934,11.765283
+651253,"Fjellvegen 426, Stiklestad",63.86629,11.722713
+651255,"Dalemsvollen 1, Stiklestad",63.900088,11.797542
+651257,"Ryvollen 1, Stiklestad",63.900303,11.812891
+651258,"Nyseteren 1, Stiklestad",63.897549,11.767556
+651260,"Øverlandsstu 1, Stiklestad",63.898859,11.768272
+651269,"Karmhusvollen 2, Stiklestad",63.89997,11.869013
+651270,"Karmhusvollen 1, Stiklestad",63.899782,11.868906
+651280,"Sendesvegen 250, Stiklestad",63.815263,11.6737
+651295,"Åsavegen 48, Stiklestad",63.807417,11.672773
+651309,"Forbregdsmyra 90B, Stiklestad",63.804384,11.541184
+651310,"Forbregdsmyra 90C, Stiklestad",63.804461,11.541277
+651311,"Forbregdsmyra 84D, Stiklestad",63.802243,11.541849
+651312,"Forbregdsmyra 90A, Stiklestad",63.804235,11.541476
+651330,"Hofstadvegen 115, Stiklestad",63.848381,11.663069
+651351,"Leksdalsvegen 1179A, Stiklestad",63.866598,11.632703
+651355,"Leksdalsvegen 1179B, Stiklestad",63.866691,11.632693
+651395,"Markavegen 240B, Stiklestad",63.846479,11.694447
+651403,"Sendesvegen 249, Stiklestad",63.814888,11.674558
+651405,"Stiklestad alle 350, Stiklestad",63.796002,11.562201
+1268578,"Heggstadvegen 28, Stiklestad",63.792243,11.575008
+1539494,"Mogrenda 15B, Stiklestad",63.784672,11.60168
+1637701,"Leirådalsvegen 470, Stiklestad",63.79397,11.641505
+1637922,"Vukuvegen 261, Stiklestad",63.773112,11.580356
+1645154,"Kirkehaug 8B, Stiklestad",63.794517,11.516283
+1654258,"Vukuvegen 32, Stiklestad",63.793805,11.564321
+1665110,"Øster-Hallem 51B, Stiklestad",63.806789,11.579989
+1668067,"Åsavegen 68, Stiklestad",63.808024,11.682962
+1670789,"Leksdalsvegen 838, Stiklestad",63.840729,11.657748
+1670790,"Dalan 2, Stiklestad",63.841328,11.65933
+1670791,"Leksdalsvegen 839, Stiklestad",63.840646,11.659286
+1776609,"Stiklestad alle 171A, Stiklestad",63.796054,11.526967
+1776610,"Stiklestad alle 171D, Stiklestad",63.795942,11.526791
+1776611,"Stiklestad alle 171B, Stiklestad",63.796018,11.526907
+1776612,"Stiklestad alle 171C, Stiklestad",63.79598,11.526847
+1794272,"Stiklestad alle 192, Stiklestad",63.797356,11.535744
+1811536,"Aksnesslættet 1, Stiklestad",63.889473,11.684584
+1835408,"Buvollen 49, Stiklestad",63.804073,11.596194
+1839947,"Buvollen 51, Stiklestad",63.803776,11.596906
+1856561,"Fiksevegen 2, Stiklestad",63.812799,11.657818
+1865594,"Forbregdsmyra 90D, Stiklestad",63.804563,11.54184
+1877553,"Haukåvegen 354, Stiklestad",63.844167,11.589552
+1877574,"Haukåvegen 352, Stiklestad",63.845602,11.586249
+1877575,"Haukåvegen 366, Stiklestad",63.846021,11.587789
+1877658,"Haukåvegen 680, Stiklestad",63.869478,11.599027
+1877660,"Haukåvegen 440, Stiklestad",63.851067,11.592832
+1877662,"Haukåvegen 402, Stiklestad",63.84826,11.582623
+1877665,"Haukåvegen 478, Stiklestad",63.853956,11.597514
+1877667,"Haukåvegen 470, Stiklestad",63.853457,11.596288
+1877668,"Haukåvegen 394, Stiklestad",63.846563,11.593129
+1877671,"Haukåvegen 396, Stiklestad",63.846777,11.59323
+1877759,"Haukåvegen 192, Stiklestad",63.832215,11.566877
+1877761,"Haukåvegen 282, Stiklestad",63.83788,11.584072
+1877762,"Haukåvegen 338, Stiklestad",63.8427,11.588216
+1877763,"Haukåvegen 64, Stiklestad",63.821405,11.56327
+1877765,"Haukåvegen 66, Stiklestad",63.821471,11.562585
+1877768,"Haukåvegen 68, Stiklestad",63.821301,11.562041
+1877770,"Haukåvegen 70, Stiklestad",63.821812,11.562108
+1877802,"Haukåvegen 24, Stiklestad",63.819951,11.559154
+1877803,"Haukåvegen 26, Stiklestad",63.820299,11.559815
+1878319,"Haukåvegen 489, Stiklestad",63.854164,11.599894
+1878322,"Haukåvegen 675, Stiklestad",63.86807,11.606087
+1878323,"Haukåvegen 297, Stiklestad",63.83905,11.586437
+1878416,"Haukåvegen 195, Stiklestad",63.83117,11.573634
+1878418,"Haukåvegen 203, Stiklestad",63.832116,11.578012
+1878419,"Haukåvegen 205, Stiklestad",63.83183,11.577436
+1878421,"Haukåvegen 197, Stiklestad",63.831114,11.57426
+1878422,"Haukåvegen 201, Stiklestad",63.832261,11.57593
+1878481,"Haukåvegen 207, Stiklestad",63.83152,11.579177
+1878504,"Haukåvegen 261, Stiklestad",63.836008,11.582842
+1878527,"Haukåvegen 213, Stiklestad",63.832493,11.578026
+1878530,"Haukåvegen 215, Stiklestad",63.832488,11.579815
+1878532,"Haukåvegen 209, Stiklestad",63.831814,11.580323
+1878724,"Haukåvegen 479, Stiklestad",63.853671,11.598363
+1878730,"Haukåvegen 356, Stiklestad",63.844222,11.589209
+1878732,"Haukåvegen 401, Stiklestad",63.847718,11.594355
+1878741,"Haukåvegen 321, Stiklestad",63.840914,11.588195
+1904191,"Leksdalsvegen 323, Stiklestad",63.812692,11.601089
+1904219,"Markavegen 292, Stiklestad",63.854525,11.712212
+1904220,"Markavegen 294, Stiklestad",63.85425,11.712512
+1904239,"Dalan 106, Stiklestad",63.846146,11.676124
+1904243,"Dalan 108, Stiklestad",63.848105,11.676314
+1904854,"Leksdalsvegen 1021, Stiklestad",63.853272,11.640718
+1904856,"Leksdalsvegen 1132, Stiklestad",63.8616,11.630649
+1904859,"Leksdalsvegen 640, Stiklestad",63.82924,11.638302
+1913825,"Blommen 74, Stiklestad",63.804482,11.607503
+1913826,"Blommen 76, Stiklestad",63.804182,11.610868
+1913828,"Blommen 78, Stiklestad",63.802648,11.618202
+1913830,"Nye Skrovesvegen 143, Stiklestad",63.8028,11.687123
+1913832,"Helsetbakkan 119, Vera og Vuku",63.784122,11.706766
+1915981,"Vistvikvegen 47, Stiklestad",63.811536,11.570338
+1915990,"Vistvikvegen 105, Stiklestad",63.814165,11.56188
+1916199,"Vistvikvegen 115, Stiklestad",63.814355,11.559276
+1924591,"Stubbesgropa 88, Stiklestad",63.783574,11.588377
+1938440,"Aksnesvegen 53B, Stiklestad",63.862061,11.636107
+1948364,"Landstadvegen 257, Stiklestad",63.830724,11.540593
+1959784,"Vukuvegen 798, Vera og Vuku",63.774872,11.680305
+1962131,"Musemsvegen 122, Stiklestad",63.822498,11.656214
+1968661,"Leksdalsvegen 97, Stiklestad",63.80406,11.568359
+1979990,"Dalan 91, Stiklestad",63.845012,11.672284
+1990781,"Vukuvegen 639, Stiklestad",63.774856,11.650197
+1998321,"Musemsvegen 73, Stiklestad",63.819596,11.646671
+2002011,"Vukuvegen 713, Vera og Vuku",63.773024,11.663427
+2004307,"Nye Skrovesvegen 73B, Vera og Vuku",63.794326,11.682796
+2007389,"Stiklestad alle 171E, Stiklestad",63.795923,11.526866
+2007479,"Stiklestad alle 171F, Stiklestad",63.796028,11.52704
+2018971,"Klokkarhaugvegen 63, Stiklestad",63.78724,11.600158
+2025684,"Leksdalsvegen 56, Stiklestad",63.801307,11.56344
+2030079,"Leirådalsvegen 325A, Stiklestad",63.799798,11.620856
+2030081,"Leirådalsvegen 325B, Stiklestad",63.799831,11.620778
+2032274,"Kirkehaug 8A, Stiklestad",63.794562,11.516608
+2043032,"Musemsvegen 186, Stiklestad",63.824092,11.665515
+2043034,"Musemsvegen 188, Stiklestad",63.824243,11.66546
+2054274,"Fiksevegen 32B, Stiklestad",63.811289,11.66174
+2071736,"Leirådalsvegen 145, Stiklestad",63.799989,11.590541
+2073063,"Aksnesvegen 63, Stiklestad",63.861375,11.637303
+2090494,"Leirådalsvegen 69, Stiklestad",63.798876,11.574876
+2106636,"Haugsvegen 44A, Stiklestad",63.799391,11.517941
+2108521,"Skoglyvegen 4B, Stiklestad",63.809245,11.576851
+2119754,"Vukuvegen 668, Stiklestad",63.775966,11.657131
+2167758,"Markavegen 248, Stiklestad",63.846429,11.696172
+2188253,"Leksdalsvegen 783, Stiklestad",63.836985,11.651734
+2188279,"Leksdalsvegen 779, Stiklestad",63.836902,11.65098
+2188286,"Leksdalsvegen 781, Stiklestad",63.836744,11.651355
+2257220,"Øster-Hallem 99, Stiklestad",63.802787,11.579276
+2264362,"Markavegen 290, Stiklestad",63.850926,11.708176
+2359114,"Mevatnet 1, Stiklestad",63.866674,11.844714
+2360227,"Haugsvegen 10, Stiklestad",63.796441,11.515387
+2375511,"Forbregdsmyra 165, Stiklestad",63.806651,11.554188
+2460663,"Leksdalsvegen 68, Stiklestad",63.802089,11.564032
+2493922,"Kirkehaug 2B, Stiklestad",63.795012,11.518468
+2535413,"Markavegen 351, Stiklestad",63.84417,11.707862
+2535417,"Markavegen 349, Stiklestad",63.844199,11.707694
+2545369,"Nordvikvegen 64, Stiklestad",63.840027,11.631319

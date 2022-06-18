@@ -1,0 +1,560 @@
+,Navn,Long,Lat
+76112,"Pancoveien 16, Gressvik",59.23369,10.909006
+76725,"Johan Selmer Karlsens vei 4, Gressvik",59.224951,10.910704
+854497,"Bedriftsveien 3H, Gressvik",59.227991,10.911692
+1651567,"Anton Brekkes vei 3H, Gressvik",59.228679,10.899861
+1651569,"Anton Brekkes vei 3F, Gressvik",59.228565,10.899865
+1940493,"Ruuds vei 5B, Gressvik",59.22648,10.911968
+1991076,"Ørebekkbråten 16, Gressvik",59.231051,10.89866
+2074032,"Johan Selmer Karlsens vei 1D, Gressvik",59.225313,10.910692
+2074033,"Johan Selmer Karlsens vei 1E, Gressvik",59.225369,10.910689
+2074034,"Johan Selmer Karlsens vei 1B, Gressvik",59.225366,10.910601
+2074035,"Johan Selmer Karlsens vei 1C, Gressvik",59.225416,10.910597
+2074036,"Johan Selmer Karlsens vei 1F, Gressvik",59.225417,10.910692
+2074301,"Bedriftsveien 8B, Gressvik",59.227238,10.912493
+2183849,"Aspelundveien 5B, Gressvik",59.231295,10.90593
+2190497,"Aspelundveien 5A, Gressvik",59.231276,10.905817
+2315382,"Anton Brekkes vei 2A, Gressvik",59.228629,10.900666
+2315383,"Anton Brekkes vei 1D, Gressvik",59.228365,10.89972
+2315384,"Anton Brekkes vei 2C, Gressvik",59.22876,10.900586
+2315385,"Anton Brekkes vei 2B, Gressvik",59.228701,10.900632
+2315387,"Anton Brekkes vei 3A, Gressvik",59.228516,10.899747
+2315388,"Anton Brekkes vei 2D, Gressvik",59.228815,10.900555
+2315389,"Anton Brekkes vei 3C, Gressvik",59.228638,10.899736
+2315390,"Anton Brekkes vei 3B, Gressvik",59.228575,10.89974
+2315391,"Anton Brekkes vei 4A, Gressvik",59.228958,10.900533
+2315392,"Anton Brekkes vei 3D, Gressvik",59.228685,10.899731
+2315393,"Anton Brekkes vei 4C, Gressvik",59.229078,10.900421
+2315394,"Anton Brekkes vei 4B, Gressvik",59.229007,10.900509
+2315395,"Anton Brekkes vei 5A, Gressvik",59.228821,10.899751
+2315396,"Anton Brekkes vei 4D, Gressvik",59.229128,10.900433
+2315397,"Anton Brekkes vei 5C, Gressvik",59.228916,10.899703
+2315398,"Anton Brekkes vei 5B, Gressvik",59.228879,10.899728
+2315411,"Anton Brekkes vei 1A, Gressvik",59.228221,10.899682
+2315413,"Anton Brekkes vei 1C, Gressvik",59.228315,10.899748
+2315414,"Anton Brekkes vei 1B, Gressvik",59.228269,10.899676
+2315415,"Brattveien 5, Gressvik",59.226363,10.90919
+2315416,"Brattveien 9, Gressvik",59.225905,10.908569
+2315417,"Brattveien 7, Gressvik",59.226136,10.90874
+2315418,"Brekkefaret 1, Gressvik",59.228799,10.899266
+2315419,"Brattveien 11, Gressvik",59.225725,10.908594
+2315420,"Brekkefaret 2B, Gressvik",59.229322,10.89914
+2315421,"Brekkefaret 2A, Gressvik",59.229276,10.899143
+2315422,"Brekkefaret 2D, Gressvik",59.229457,10.899147
+2315423,"Brekkefaret 2C, Gressvik",59.229408,10.89913
+2315424,"Brekkefaret 4, Gressvik",59.22914,10.898576
+2315425,"Brekkefaret 3, Gressvik",59.228695,10.89898
+2315426,"Brekkefaret 18, Gressvik",59.227643,10.896656
+2315427,"Brekkefaret 17, Gressvik",59.225324,10.896094
+2315428,"Brekkefaret 20A, Gressvik",59.227402,10.896454
+2315429,"Brekkefaret 20, Gressvik",59.227413,10.896928
+2315430,"Brekkefaret 22A, Gressvik",59.227169,10.896442
+2315431,"Brekkefaret 22, Gressvik",59.22719,10.896828
+2315432,"Brekkefaret 24A, Gressvik",59.226798,10.896018
+2315433,"Brekkefaret 24, Gressvik",59.226855,10.896442
+2315434,"Brekkefaret 26A, Gressvik",59.226503,10.895914
+2315435,"Brekkefaret 26, Gressvik",59.226453,10.896262
+2315436,"Brekkefaret 28A, Gressvik",59.22629,10.895686
+2315437,"Brekkefaret 28, Gressvik",59.226099,10.895909
+2315438,"Brekkefaret 32, Gressvik",59.22538,10.895326
+2315439,"Brekkefaret 30, Gressvik",59.225759,10.89582
+2315440,"Brekkekroken 1, Gressvik",59.225851,10.896877
+2315441,"Brekkefaret 34, Gressvik",59.225128,10.894751
+2315442,"Brekkefaret 5, Gressvik",59.22855,10.898481
+2315443,"Brekkefaret 4A, Gressvik",59.229031,10.898396
+2315444,"Brekkefaret 6, Gressvik",59.228742,10.897598
+2315445,"Brekkefaret 5A, Gressvik",59.228406,10.899052
+2315446,"Brekkefaret 8, Gressvik",59.228296,10.897415
+2315447,"Brekkefaret 7, Gressvik",59.228364,10.89826
+2315448,"Brekkefaret 10, Gressvik",59.228025,10.897321
+2315449,"Brekkefaret 9, Gressvik",59.228223,10.898116
+2315450,"Brekkefaret 11, Gressvik",59.227984,10.897819
+2315451,"Brekkefaret 10A, Gressvik",59.228073,10.896996
+2315452,"Brekkefaret 13, Gressvik",59.226016,10.896658
+2315453,"Brekkefaret 12, Gressvik",59.227968,10.897306
+2315454,"Brekkefaret 14A, Gressvik",59.227907,10.896819
+2315455,"Brekkefaret 14, Gressvik",59.227757,10.897226
+2315456,"Brekkefaret 16, Gressvik",59.227698,10.897214
+2315457,"Brekkefaret 15, Gressvik",59.225599,10.896284
+2315458,"Brekkekroken 3, Gressvik",59.225626,10.896952
+2315459,"Brekkekroken 2, Gressvik",59.225318,10.896479
+2315460,"Brekkekroken 8A, Gressvik",59.225011,10.896913
+2315461,"Brekkekroken 4, Gressvik",59.22514,10.896399
+2315462,"Brekkekroken 8C, Gressvik",59.225117,10.897046
+2315463,"Brekkekroken 8B, Gressvik",59.225066,10.896992
+2315464,"Brekkekroken 10A, Gressvik",59.225269,10.89724
+2315465,"Brekkekroken 8D, Gressvik",59.225174,10.897122
+2315466,"Brekkekroken 10C, Gressvik",59.225379,10.89738
+2315467,"Brekkekroken 10B, Gressvik",59.225331,10.897319
+2315468,"Brekkekroken 12A, Gressvik",59.225538,10.897582
+2315469,"Brekkekroken 10D, Gressvik",59.22543,10.897441
+2315470,"Brekkekroken 12C, Gressvik",59.225641,10.897715
+2315471,"Brekkekroken 12B, Gressvik",59.225597,10.897658
+2315472,"Brekkekroken 12D, Gressvik",59.225697,10.897787
+2315614,"Aspelundveien 3, Gressvik",59.23112,10.906365
+2315615,"Aspelundveien 2, Gressvik",59.231161,10.909669
+2315616,"Aspelundveien 4, Gressvik",59.231412,10.909122
+2315617,"Aspelundveien 7, Gressvik",59.231408,10.905108
+2315618,"Aspelundveien 6, Gressvik",59.231644,10.905542
+2315619,"Bedriftsveien 2, Gressvik",59.227321,10.911242
+2315620,"Aspelundveien 9, Gressvik",59.231541,10.904607
+2315621,"Bedriftsveien 2B, Gressvik",59.226923,10.911395
+2315622,"Bedriftsveien 2A, Gressvik",59.22712,10.911476
+2315623,"Bedriftsveien 2C, Gressvik",59.226711,10.911331
+2315625,"Bedriftsveien 4, Gressvik",59.227324,10.911593
+2315628,"Anton Brekkes vei 6A, Gressvik",59.229705,10.900324
+2315629,"Anton Brekkes vei 5D, Gressvik",59.228978,10.899695
+2315630,"Anton Brekkes vei 6C, Gressvik",59.22982,10.900259
+2315631,"Anton Brekkes vei 6B, Gressvik",59.229781,10.900285
+2315632,"Anton Brekkes vei 7A, Gressvik",59.229431,10.89945
+2315633,"Brattveien 3, Gressvik",59.226694,10.909226
+2315634,"Anton Brekkes vei 6D, Gressvik",59.22988,10.90022
+2315635,"Anton Brekkes vei 8, Gressvik",59.230088,10.900162
+2315636,"Anton Brekkes vei 7B, Gressvik",59.229628,10.899506
+2315637,"Anton Brekkes vei 9B, Gressvik",59.229992,10.899423
+2315638,"Anton Brekkes vei 9A, Gressvik",59.229775,10.899367
+2315639,"Anton Brekkes vei 11A, Gressvik",59.230148,10.899287
+2315640,"Anton Brekkes vei 10, Gressvik",59.230277,10.900155
+2315641,"Anton Brekkes vei 12, Gressvik",59.230458,10.900042
+2315642,"Anton Brekkes vei 11B, Gressvik",59.230326,10.899321
+2315643,"Aspelundveien 1, Gressvik",59.231034,10.90699
+2315644,"Anton Brekkes vei 14, Gressvik",59.230639,10.899929
+2315747,"Brattveien 1, Gressvik",59.227008,10.909314
+2315804,"Haslerudveien 32, Gressvik",59.228769,10.902447
+2315805,"Haslerudveien 31, Gressvik",59.22741,10.902098
+2315806,"Haslerudveien 36, Gressvik",59.228531,10.902281
+2315807,"Haslerudveien 34, Gressvik",59.228609,10.902281
+2315857,"Haslerudveien 6, Gressvik",59.230926,10.90431
+2315858,"Haslerudveien 4, Gressvik",59.231084,10.904511
+2315859,"Haslerudveien 6B, Gressvik",59.231013,10.903841
+2315860,"Haslerudveien 6A, Gressvik",59.230743,10.903663
+2315861,"Haslerudveien 9, Gressvik",59.230385,10.904665
+2315862,"Haslerudveien 8, Gressvik",59.230623,10.904135
+2315863,"Haslerudveien 12, Gressvik",59.230326,10.903778
+2315864,"Haslerudveien 10, Gressvik",59.230475,10.903895
+2315865,"Haslerudveien 13, Gressvik",59.228934,10.903515
+2315866,"Haslerudveien 12A, Gressvik",59.23044,10.903251
+2315867,"Haslerudveien 14A, Gressvik",59.230217,10.903328
+2315868,"Haslerudveien 14, Gressvik",59.230197,10.903641
+2315869,"Haslerudveien 16, Gressvik",59.230074,10.903561
+2315870,"Haslerudveien 15, Gressvik",59.228766,10.903331
+2315871,"Haslerudveien 17, Gressvik",59.228607,10.903129
+2315872,"Haslerudveien 16A, Gressvik",59.23007,10.903245
+2315898,"Haslerudveien 1, Gressvik",59.231052,10.905456
+2315901,"Haslerudveien 3, Gressvik",59.230868,10.905183
+2315903,"Haslerudveien 2, Gressvik",59.231244,10.904678
+2315904,"Haslerudveien 18A, Gressvik",59.229914,10.903159
+2315905,"Haslerudveien 18, Gressvik",59.22984,10.903407
+2315906,"Haslerudveien 20, Gressvik",59.229728,10.903279
+2315907,"Haslerudveien 19, Gressvik",59.228449,10.90291
+2315908,"Haslerudveien 20B, Gressvik",59.230139,10.902794
+2315909,"Haslerudveien 20A, Gressvik",59.229803,10.903055
+2315910,"Haslerudveien 22, Gressvik",59.229178,10.902793
+2315911,"Haslerudveien 21, Gressvik",59.22829,10.902743
+2315912,"Brekkelia 3, Gressvik",59.227488,10.899228
+2315913,"Brekkelia 2, Gressvik",59.227712,10.898627
+2315914,"Brekkelia 5, Gressvik",59.227283,10.899059
+2315915,"Brekkelia 4, Gressvik",59.227735,10.898278
+2315916,"Brekkelia 7, Gressvik",59.227407,10.897962
+2315917,"Brekkelia 6, Gressvik",59.22782,10.89802
+2315918,"Brekkelia 7B, Gressvik",59.227016,10.89766
+2315919,"Brekkelia 7A, Gressvik",59.227203,10.897793
+2315920,"Brekkelia 9, Gressvik",59.227484,10.897598
+2315921,"Brekkelia 7C, Gressvik",59.226812,10.897543
+2315922,"Brekkelia 9B, Gressvik",59.227084,10.897348
+2315923,"Brekkelia 9A, Gressvik",59.227271,10.897481
+2315924,"Brekkeskrenten 1, Gressvik",59.227091,10.898681
+2315925,"Brekkelia 9C, Gressvik",59.226853,10.897178
+2315926,"Brekkeskrenten 3, Gressvik",59.226814,10.89863
+2315927,"Brekkeskrenten 2, Gressvik",59.227215,10.898197
+2315928,"Brekkelia 1, Gressvik",59.227779,10.89956
+2315945,"Brekkeskrenten 5, Gressvik",59.226547,10.898457
+2315946,"Brekkeskrenten 4, Gressvik",59.22692,10.898128
+2315947,"Brekkeskrenten 7, Gressvik",59.22627,10.898354
+2315948,"Brekkeskrenten 6, Gressvik",59.226723,10.898047
+2316003,"Fugleveien 1, Gressvik",59.227375,10.908143
+2316005,"Fugleveien 3, Gressvik",59.227174,10.908412
+2316006,"Fugleveien 2, Gressvik",59.226902,10.907924
+2316036,"Fugleveien 5, Gressvik",59.226939,10.908469
+2316037,"Fugleveien 4, Gressvik",59.226545,10.907781
+2316038,"Fugleveien 9, Gressvik",59.226575,10.908203
+2316039,"Fugleveien 7, Gressvik",59.22677,10.908337
+2316158,"Gamle Ålevei 2, Gressvik",59.233058,10.903429
+2316159,"Gamle Ålevei 1, Gressvik",59.232927,10.903843
+2316160,"Gamle Ålevei 8, Gressvik",59.229691,10.901324
+2316161,"Gamle Ålevei 3, Gressvik",59.232689,10.903532
+2316162,"Gamle Ålevei 10, Gressvik",59.229555,10.900956
+2316163,"Gamle Ålevei 9, Gressvik",59.231703,10.903985
+2316164,"Gamle Ålevei 13, Gressvik",59.231333,10.903509
+2316165,"Gamle Ålevei 12, Gressvik",59.229219,10.901015
+2316307,"Haslerudveien 40, Gressvik",59.228371,10.902137
+2316308,"Haslerudveien 38, Gressvik",59.228463,10.902195
+2316309,"Haslerudveien 44, Gressvik",59.228144,10.901934
+2316310,"Haslerudveien 42, Gressvik",59.228232,10.901988
+2316311,"Haslerudveien 48, Gressvik",59.227989,10.90178
+2316312,"Haslerudveien 46, Gressvik",59.228088,10.901821
+2316313,"Haslerudveien 52, Gressvik",59.22773,10.901648
+2316314,"Haslerudveien 50, Gressvik",59.227836,10.901606
+2316315,"Haslerudveien 56, Gressvik",59.227563,10.901441
+2316316,"Haslerudveien 54, Gressvik",59.22769,10.901482
+2316317,"Haslerudveien 60, Gressvik",59.227348,10.901324
+2316318,"Haslerudveien 58, Gressvik",59.227453,10.901329
+2316319,"Haslerudveien 24, Gressvik",59.229107,10.902754
+2316320,"Haslerudveien 23, Gressvik",59.228093,10.902645
+2316321,"Haslerudveien 26, Gressvik",59.22903,10.902692
+2316322,"Haslerudveien 25, Gressvik",59.227914,10.902617
+2316323,"Haslerudveien 28, Gressvik",59.228931,10.902596
+2316324,"Haslerudveien 27, Gressvik",59.227782,10.902452
+2316325,"Haslerudveien 30, Gressvik",59.228878,10.9026
+2316326,"Haslerudveien 29, Gressvik",59.227603,10.902389
+2316343,"Haslerudveien 64, Gressvik",59.227207,10.901187
+2316344,"Haslerudveien 62, Gressvik",59.227262,10.901199
+2316403,"Lerkeveien 7, Gressvik",59.231671,10.906223
+2316406,"Lerkeveien 9, Gressvik",59.231952,10.905962
+2316408,"Lerkeveien 7A, Gressvik",59.231726,10.906156
+2316646,"Lerkeveien 5B, Gressvik",59.231536,10.90672
+2316647,"Lerkeveien 5A, Gressvik",59.231479,10.906786
+2316648,"Lerkeveien 5D, Gressvik",59.231629,10.906638
+2316649,"Lerkeveien 5C, Gressvik",59.231575,10.906681
+2316650,"Lerkeveien 6, Gressvik",59.231993,10.906841
+2316657,"Lerkeveien 1B, Gressvik",59.231296,10.907877
+2316658,"Lerkeveien 1A, Gressvik",59.231245,10.907921
+2316659,"Lerkeveien 1D, Gressvik",59.231402,10.907767
+2316660,"Lerkeveien 1C, Gressvik",59.231341,10.907851
+2316661,"Lerkeveien 3A, Gressvik",59.231351,10.907393
+2316662,"Lerkeveien 2, Gressvik",59.23154,10.908375
+2316663,"Lerkeveien 3C, Gressvik",59.231456,10.907295
+2316664,"Lerkeveien 3B, Gressvik",59.231417,10.907333
+2316665,"Lerkeveien 4, Gressvik",59.231885,10.907064
+2316666,"Lerkeveien 3D, Gressvik",59.231517,10.907229
+2316799,"Skogfaret 9A, Gressvik",59.227193,10.907555
+2316800,"Skogfaret 9, Gressvik",59.2273,10.90757
+2316801,"Skogfaret 10A, Gressvik",59.22799,10.907064
+2316802,"Skogfaret 10, Gressvik",59.227737,10.907374
+2316803,"Skogfaret 11, Gressvik",59.227138,10.907493
+2316804,"Skogfaret 10B, Gressvik",59.228172,10.907083
+2316805,"Skogfaret 12, Gressvik",59.228413,10.906553
+2316806,"Skogfaret 11A, Gressvik",59.227069,10.907565
+2316999,"Pancoveien 8, Gressvik",59.232444,10.911003
+2317000,"Pancoveien 7, Gressvik",59.232171,10.908831
+2317001,"Pancoveien 10, Gressvik",59.23321,10.910274
+2317002,"Pancoveien 9, Gressvik",59.232664,10.907667
+2317003,"Pancoveien 14, Gressvik",59.233474,10.909991
+2317004,"Pancoveien 12, Gressvik",59.23333,10.910036
+2317005,"Pancoveien 22, Gressvik",59.23543,10.907681
+2317006,"Pancoveien 24, Gressvik",59.23506,10.906609
+2317007,"Pancoveien 22A, Gressvik",59.235502,10.907089
+2317008,"Pancoveien 28, Gressvik",59.234271,10.906477
+2317009,"Pancoveien 26, Gressvik",59.234561,10.906335
+2317010,"Pancoveien 30, Gressvik",59.234149,10.905015
+2317025,"Pancoveien 1, Gressvik",59.232528,10.909605
+2317027,"Pancoveien 5, Gressvik",59.232955,10.909892
+2317028,"Pancoveien 3, Gressvik",59.23259,10.91024
+2317120,"Midtåsen 1, Gressvik",59.229765,10.906278
+2317122,"Midtåsen 3, Gressvik",59.228945,10.905812
+2317124,"Midtåsen 2, Gressvik",59.229926,10.905709
+2317125,"Midtåsen 5, Gressvik",59.22841,10.905572
+2317127,"Midtåsen 4, Gressvik",59.229566,10.905724
+2317129,"Midtåsen 5B, Gressvik",59.228002,10.906425
+2317132,"Midtåsen 6A, Gressvik",59.229438,10.905261
+2317134,"Midtåsen 6, Gressvik",59.229335,10.905588
+2317136,"Midtåsen 7A, Gressvik",59.227816,10.905626
+2317138,"Midtåsen 7, Gressvik",59.22808,10.905413
+2317140,"Midtåsen 8, Gressvik",59.229104,10.905435
+2317142,"Midtåsen 7B, Gressvik",59.227697,10.906289
+2317144,"Midtåsen 9, Gressvik",59.227626,10.905107
+2317145,"Platået 1, Gressvik",59.225839,10.907196
+2317146,"Midtåsen 8A, Gressvik",59.229216,10.905126
+2317164,"Midtåsen 20, Gressvik",59.227177,10.903908
+2317165,"Ruuds vei 3, Gressvik",59.226422,10.911244
+2317166,"Midtåsen 19, Gressvik",59.22635,10.903932
+2317167,"Ruuds vei 2A, Gressvik",59.225919,10.911847
+2317168,"Midtåsen 21, Gressvik",59.226137,10.90378
+2317169,"Ruuds vei 5A, Gressvik",59.226466,10.91193
+2317170,"Midtåsen 20A, Gressvik",59.227229,10.903368
+2317171,"Ruuds vei 4, Gressvik",59.226283,10.912744
+2317172,"Midtåsen 22A, Gressvik",59.227017,10.90318
+2317173,"Ruuds vei 7, Gressvik",59.226915,10.911938
+2317174,"Midtåsen 22, Gressvik",59.226912,10.903613
+2317175,"Ruuds vei 6, Gressvik",59.226785,10.912842
+2317176,"Midtåsen 24A, Gressvik",59.226812,10.903064
+2317177,"Ruuds vei 9, Gressvik",59.227184,10.91197
+2317178,"Midtåsen 24, Gressvik",59.226689,10.90335
+2317179,"Ruuds vei 8, Gressvik",59.227002,10.912784
+2317182,"Midtåsen 26, Gressvik",59.226607,10.902947
+2317183,"Ruuds vei 10, Gressvik",59.227026,10.912312
+2317196,"Midtåsen 11, Gressvik",59.227345,10.904706
+2317197,"Platået 3, Gressvik",59.226102,10.907371
+2317198,"Midtåsen 10, Gressvik",59.228711,10.905147
+2317199,"Platået 2, Gressvik",59.225668,10.907574
+2317200,"Midtåsen 13, Gressvik",59.227098,10.904458
+2317201,"Platået 5, Gressvik",59.2263,10.907623
+2317202,"Midtåsen 12, Gressvik",59.228517,10.904999
+2317203,"Platået 4, Gressvik",59.225899,10.907745
+2317204,"Midtåsen 14A, Gressvik",59.228236,10.904374
+2317205,"Midtåsen 14, Gressvik",59.228003,10.90455
+2317206,"Platået 6, Gressvik",59.226103,10.907896
+2317207,"Midtåsen 14C, Gressvik",59.228336,10.903867
+2317209,"Midtåsen 14B, Gressvik",59.228674,10.904114
+2317210,"Platået 8, Gressvik",59.226326,10.908032
+2317211,"Midtåsen 14E, Gressvik",59.227921,10.903406
+2317213,"Midtåsen 14D, Gressvik",59.228124,10.903593
+2317215,"Midtåsen 16, Gressvik",59.227717,10.904429
+2317217,"Midtåsen 15, Gressvik",59.226848,10.904293
+2317219,"Midtåsen 17, Gressvik",59.226599,10.904069
+2317220,"Ruuds vei 1, Gressvik",59.226421,10.910753
+2317221,"Midtåsen 16A, Gressvik",59.227798,10.903802
+2317223,"Midtåsen 18A, Gressvik",59.227514,10.903576
+2317224,"Ruuds vei 2, Gressvik",59.226134,10.911298
+2317225,"Midtåsen 18, Gressvik",59.227479,10.904135
+2317272,"Storveien 13, Gressvik",59.227112,10.910792
+2317273,"Storveien 12, Gressvik",59.228177,10.909818
+2317274,"Storveien 15, Gressvik",59.226888,10.910762
+2317275,"Storveien 14, Gressvik",59.227934,10.909839
+2317276,"Storveien 17, Gressvik",59.226698,10.910821
+2317277,"Storveien 16, Gressvik",59.227727,10.909862
+2317278,"Storveien 20, Gressvik",59.227171,10.909831
+2317279,"Storveien 18, Gressvik",59.227423,10.909758
+2317280,"Storveien 22, Gressvik",59.226918,10.909905
+2317281,"Storveien 21, Gressvik",59.226127,10.910579
+2317282,"Storveien 24, Gressvik",59.226558,10.909972
+2317283,"Storveien 23, Gressvik",59.225858,10.910547
+2317287,"Storveien 1A, Gressvik",59.230674,10.910457
+2317288,"Storveien 1, Gressvik",59.231013,10.910625
+2317289,"Storveien 3B, Gressvik",59.230079,10.911782
+2317290,"Storveien 2, Gressvik",59.229898,10.908862
+2317291,"Storveien 4, Gressvik",59.229274,10.909756
+2317292,"Storveien 3C, Gressvik",59.230049,10.910754
+2317293,"Storveien 4C, Gressvik",59.229244,10.90872
+2317294,"Storveien 4B, Gressvik",59.229246,10.909194
+2317295,"Storveien 5, Gressvik",59.229296,10.910704
+2317296,"Storveien 4D, Gressvik",59.229129,10.907995
+2317297,"Storveien 6, Gressvik",59.229013,10.909759
+2317299,"Storveien 5A, Gressvik",59.229325,10.911161
+2317300,"Storveien 8, Gressvik",59.228689,10.909794
+2317301,"Storveien 7, Gressvik",59.228279,10.910733
+2317302,"Storveien 10, Gressvik",59.228357,10.90981
+2317303,"Storveien 9, Gressvik",59.227877,10.91066
+2317306,"Skogfaret 13A, Gressvik",59.226885,10.907414
+2317307,"Skogfaret 13, Gressvik",59.226962,10.90742
+2317308,"Skogfaret 15, Gressvik",59.226706,10.907247
+2317310,"Skogfaret 19, Gressvik",59.226367,10.907088
+2317311,"Skogfaret 17, Gressvik",59.226536,10.907202
+2317312,"Skogfaret 21, Gressvik",59.226208,10.906868
+2317313,"Skogfaret 19A, Gressvik",59.226296,10.907031
+2317314,"Skogfaret 1, Gressvik",59.228345,10.909371
+2317316,"Skogfaret 2A, Gressvik",59.229003,10.909198
+2317317,"Skogfaret 2, Gressvik",59.228698,10.909216
+2317318,"Skogfaret 4, Gressvik",59.228687,10.908742
+2317319,"Skogfaret 6, Gressvik",59.228224,10.907805
+2317320,"Skogfaret 5, Gressvik",59.228145,10.908344
+2317321,"Skogfaret 7A, Gressvik",59.227668,10.908404
+2317322,"Skogfaret 7, Gressvik",59.227869,10.90817
+2317323,"Skogfaret 8, Gressvik",59.227985,10.907616
+2317324,"Skogfaret 7B, Gressvik",59.227441,10.908532
+2317326,"Skogfaret 23, Gressvik",59.226048,10.906789
+2317327,"Skogfaret 21A, Gressvik",59.226117,10.906986
+2317328,"Skogfaret 25, Gressvik",59.225605,10.906362
+2317329,"Skogfaret 23A, Gressvik",59.225975,10.906803
+2317330,"Skogfaret 27, Gressvik",59.225453,10.906318
+2317331,"Skogfaret 3, Gressvik",59.228343,10.90888
+2317332,"Skogfaret 25A, Gressvik",59.225605,10.906362
+2317333,"Skogfaret 29, Gressvik",59.225187,10.905965
+2317334,"Skogfaret 27A, Gressvik",59.225373,10.906261
+2317335,"Skogfaret 29B, Gressvik",59.224851,10.905724
+2317336,"Skogfaret 29A, Gressvik",59.225055,10.90593
+2317338,"Skogfaret 29C, Gressvik",59.224619,10.905606
+2317615,"Solkollen 1, Gressvik",59.22921,10.906125
+2317617,"Solkollen 5, Gressvik",59.229567,10.906881
+2317618,"Solkollen 3, Gressvik",59.229294,10.906621
+2317619,"Solkollen 9, Gressvik",59.229175,10.907233
+2317620,"Solkollen 7, Gressvik",59.229428,10.907188
+2317628,"Solveien 6, Gressvik",59.225134,10.906633
+2317629,"Solveien 5, Gressvik",59.224798,10.907438
+2317630,"Solveien 8, Gressvik",59.224991,10.906573
+2317631,"Solveien 7, Gressvik",59.224559,10.907197
+2317632,"Solveien 10, Gressvik",59.224848,10.90653
+2317633,"Solveien 9, Gressvik",59.224337,10.907062
+2317634,"Solveien 12, Gressvik",59.224714,10.90647
+2317635,"Solveien 11, Gressvik",59.224124,10.906892
+2317636,"Solveien 14, Gressvik",59.224533,10.905934
+2317637,"Solveien 13, Gressvik",59.22393,10.906636
+2317638,"Solveien 16, Gressvik",59.224444,10.905859
+2317639,"Solveien 15, Gressvik",59.223727,10.906379
+2317640,"Solveien 18, Gressvik",59.224244,10.906058
+2317641,"Solveien 17, Gressvik",59.223486,10.906261
+2317642,"Solveien 19, Gressvik",59.223256,10.906003
+2317643,"Solveien 18A, Gressvik",59.224333,10.905519
+2317644,"Solkollen 13, Gressvik",59.228842,10.906877
+2317645,"Solkollen 11, Gressvik",59.229032,10.907006
+2317646,"Solkollen 15, Gressvik",59.228838,10.906603
+2317647,"Solveien 2, Gressvik",59.225411,10.906736
+2317648,"Solveien 1, Gressvik",59.225217,10.907672
+2317649,"Solveien 4, Gressvik",59.225319,10.906836
+2317650,"Solveien 3, Gressvik",59.225029,10.907609
+2317651,"Solveien 20, Gressvik",59.223974,10.905908
+2317652,"Solveien 19A, Gressvik",59.223216,10.906348
+2317653,"Solveien 21, Gressvik",59.222989,10.90578
+2317654,"Solveien 20A, Gressvik",59.224128,10.905385
+2317655,"Solveien 22, Gressvik",59.22381,10.905595
+2317656,"Solveien 21A, Gressvik",59.222965,10.906249
+2317657,"Solveien 24A, Gressvik",59.223514,10.904983
+2317658,"Solveien 24, Gressvik",59.223624,10.905427
+2317659,"Solveien 28, Gressvik",59.223063,10.905448
+2317660,"Solveien 26, Gressvik",59.223295,10.905199
+2318217,"Ørebekk allé 1, Gressvik",59.230495,10.908143
+2318219,"Ørebekk allé 4, Gressvik",59.230663,10.906907
+2318220,"Ørebekk allé 2, Gressvik",59.230941,10.907553
+2318237,"Ørebekkbråten 10, Gressvik",59.232242,10.900877
+2318238,"Ørebekkbråten 9, Gressvik",59.230613,10.898648
+2318239,"Ørebekkbråten 15, Gressvik",59.229866,10.898169
+2318240,"Ørebekkbråten 13, Gressvik",59.230307,10.89807
+2318241,"Ørebekkbråten 21, Gressvik",59.230047,10.896216
+2318242,"Ørebekkbråten 17, Gressvik",59.23006,10.897128
+2318243,"Ørebekkbråten 25, Gressvik",59.229836,10.895293
+2318244,"Ørebekkbråten 23, Gressvik",59.230164,10.895556
+2318253,"Ørebekk allé 6, Gressvik",59.230805,10.906174
+2318254,"Ørebekk allé 5, Gressvik",59.230294,10.906956
+2318255,"Ørebekk allé 8, Gressvik",59.230471,10.905879
+2318256,"Ørebekk allé 7, Gressvik",59.230129,10.906544
+2318257,"Ørebekk allé 9, Gressvik",59.230046,10.906153
+2318258,"Ørebekk allé 8A, Gressvik",59.230521,10.905066
+2318259,"Ørebekk allé 10A, Gressvik",59.230262,10.90543
+2318260,"Ørebekk allé 10, Gressvik",59.230216,10.905515
+2318261,"Ørebekk allé 12, Gressvik",59.230069,10.905173
+2318262,"Ørebekk allé 11, Gressvik",59.22963,10.905061
+2318263,"Ørebekk allé 13, Gressvik",59.229322,10.904606
+2318264,"Ørebekk allé 12A, Gressvik",59.230106,10.905132
+2318265,"Ørebekk allé 16, Gressvik",59.229606,10.904236
+2318266,"Ørebekk allé 14, Gressvik",59.229959,10.904659
+2318267,"Ørebekkbråten 7, Gressvik",59.230762,10.899274
+2318268,"Ørebekkbråten 6, Gressvik",59.232464,10.901661
+2318271,"Ørebekkveien 2, Gressvik",59.227697,10.909493
+2318272,"Ørebekkveien 1, Gressvik",59.227396,10.909195
+2318273,"Ørebekkveien 4, Gressvik",59.22817,10.909064
+2318274,"Ørebekkveien 3, Gressvik",59.227633,10.908946
+2318275,"Ørebekkveien 8, Gressvik",59.228992,10.908724
+2318276,"Ørebekkveien 5, Gressvik",59.227922,10.908699
+2318277,"Ørebekkveien 11, Gressvik",59.228908,10.908047
+2318278,"Ørebekkveien 9, Gressvik",59.228725,10.908059
+2318733,"Mosseveien 102, Gressvik",59.231748,10.910718
+2318734,"Mosseveien 106, Gressvik",59.232037,10.909385
+2318735,"Mosseveien 104, Gressvik",59.232102,10.909389
+2318736,"Mosseveien 107, Gressvik",59.232453,10.906148
+2318738,"Mosseveien 109, Gressvik",59.23224,10.90533
+2319338,"Haslerudveien 11, Gressvik",59.22993,10.904202
+2321203,"Gamle Ålevei 11, Gressvik",59.231406,10.904038
+2321436,"Pancoveien 20A, Gressvik",59.234614,10.908197
+2321437,"Pancoveien 20B, Gressvik",59.23496,10.907448
+2323083,"Johan Selmer Karlsens vei 11, Gressvik",59.225569,10.910679
+2323242,"Johan Selmer Karlsens vei 2, Gressvik",59.225013,10.910701
+2323243,"Johan Selmer Karlsens vei 8, Gressvik",59.224932,10.911122
+2323244,"Johan Selmer Karlsens vei 6, Gressvik",59.224881,10.911059
+2323245,"Johan Selmer Karlsens vei 12, Gressvik",59.225085,10.911294
+2323246,"Johan Selmer Karlsens vei 10, Gressvik",59.225037,10.911232
+2323247,"Johan Selmer Karlsens vei 16, Gressvik",59.225157,10.910944
+2323248,"Johan Selmer Karlsens vei 14, Gressvik",59.225134,10.911078
+2323296,"Johan Selmer Karlsens vei 13, Gressvik",59.225702,10.910705
+2323297,"Johan Selmer Karlsens vei 17, Gressvik",59.225571,10.910585
+2323298,"Johan Selmer Karlsens vei 15, Gressvik",59.225705,10.910608
+2323313,"Johan Selmer Karlsens vei 5, Gressvik",59.225642,10.911119
+2323314,"Johan Selmer Karlsens vei 3, Gressvik",59.225534,10.911094
+2323315,"Johan Selmer Karlsens vei 9, Gressvik",59.225535,10.911009
+2323316,"Johan Selmer Karlsens vei 7, Gressvik",59.225645,10.911028
+2323478,"Johan Selmer Karlsens vei 20, Gressvik",59.225259,10.911565
+2323631,"Storveien 11B, Gressvik",59.227283,10.910767
+2323817,"Storveien 11A, Gressvik",59.227336,10.910787
+2324015,"Anton Brekkes vei 16, Gressvik",59.230949,10.899942
+2324505,"Storveien 5C, Gressvik",59.229422,10.91192
+2324698,"Bedriftsveien 8, Gressvik",59.227419,10.912527
+2324884,"Storveien 3D, Gressvik",59.229904,10.910748
+2324886,"Storveien 3E, Gressvik",59.229754,10.910756
+2324887,"Storveien 3A, Gressvik",59.230325,10.910473
+2325412,"Ruuds vei 4A, Gressvik",59.226087,10.912049
+2325470,"Bedriftsveien 6B, Gressvik",59.227406,10.912158
+2325471,"Bedriftsveien 6A, Gressvik",59.227398,10.912087
+2325472,"Bedriftsveien 6D, Gressvik",59.227406,10.912158
+2325473,"Bedriftsveien 6C, Gressvik",59.227406,10.912158
+2325964,"Elverksveien 1, Gressvik",59.228938,10.912135
+2326376,"Brekkefaret 2E, Gressvik",59.229276,10.899089
+2326407,"Brekkefaret 2G, Gressvik",59.229412,10.899072
+2326408,"Brekkefaret 2F, Gressvik",59.229322,10.899067
+2326410,"Brekkefaret 2H, Gressvik",59.229465,10.899111
+2326570,"Elverksveien 2A, Gressvik",59.228517,10.911377
+2326572,"Elverksveien 2C, Gressvik",59.228515,10.911523
+2326573,"Elverksveien 2B, Gressvik",59.228516,10.911445
+2326574,"Elverksveien 2E, Gressvik",59.228505,10.911462
+2326575,"Elverksveien 2D, Gressvik",59.228505,10.911393
+2326576,"Elverksveien 4A, Gressvik",59.228244,10.911329
+2326577,"Elverksveien 2F, Gressvik",59.228501,10.911544
+2326594,"Elverksveien 8D, Gressvik",59.228526,10.91214
+2326596,"Elverksveien 8C, Gressvik",59.228531,10.911937
+2326598,"Elverksveien 8F, Gressvik",59.228527,10.911912
+2326600,"Elverksveien 8E, Gressvik",59.228528,10.912031
+2326602,"Elverksveien 8H, Gressvik",59.228522,10.912008
+2326604,"Elverksveien 8G, Gressvik",59.228523,10.912117
+2326606,"Bedriftsveien 1A, Gressvik",59.227772,10.911397
+2326608,"Elverksveien 8I, Gressvik",59.228521,10.911886
+2326610,"Bedriftsveien 1C, Gressvik",59.227768,10.911631
+2326612,"Bedriftsveien 1B, Gressvik",59.227769,10.91151
+2326614,"Bedriftsveien 1E, Gressvik",59.227759,10.911452
+2326616,"Bedriftsveien 1D, Gressvik",59.227765,10.911788
+2326618,"Bedriftsveien 1G, Gressvik",59.227755,10.911713
+2326620,"Bedriftsveien 1F, Gressvik",59.227757,10.911574
+2326622,"Bedriftsveien 3B, Gressvik",59.227998,10.911407
+2326624,"Bedriftsveien 3A, Gressvik",59.22801,10.911364
+2326626,"Elverksveien 4C, Gressvik",59.228242,10.911486
+2326627,"Elverksveien 4B, Gressvik",59.228243,10.911407
+2326628,"Elverksveien 4E, Gressvik",59.228232,10.911431
+2326629,"Elverksveien 4D, Gressvik",59.228233,10.911351
+2326630,"Elverksveien 6A, Gressvik",59.228271,10.912286
+2326632,"Elverksveien 4F, Gressvik",59.228232,10.911504
+2326634,"Elverksveien 6C, Gressvik",59.228263,10.911958
+2326636,"Elverksveien 6B, Gressvik",59.228269,10.912112
+2326638,"Elverksveien 6E, Gressvik",59.228261,10.912085
+2326640,"Elverksveien 6D, Gressvik",59.228266,10.912265
+2326642,"Elverksveien 6G, Gressvik",59.228258,10.912241
+2326644,"Elverksveien 6F, Gressvik",59.228257,10.91193
+2326646,"Elverksveien 6I, Gressvik",59.228249,10.911904
+2326648,"Elverksveien 6H, Gressvik",59.228253,10.912057
+2326650,"Elverksveien 8B, Gressvik",59.228532,10.912057
+2326652,"Elverksveien 8A, Gressvik",59.228529,10.912164
+2326654,"Bedriftsveien 7D, Gressvik",59.227772,10.912457
+2326656,"Bedriftsveien 7C, Gressvik",59.227786,10.912121
+2326658,"Bedriftsveien 7F, Gressvik",59.227779,10.912094
+2326660,"Bedriftsveien 7E, Gressvik",59.227776,10.91227
+2326662,"Bedriftsveien 7H, Gressvik",59.227767,10.912243
+2326664,"Bedriftsveien 7G, Gressvik",59.227765,10.912429
+2326668,"Bedriftsveien 7I, Gressvik",59.227772,10.912071
+2326686,"Bedriftsveien 3D, Gressvik",59.228001,10.911654
+2326688,"Bedriftsveien 3C, Gressvik",59.227999,10.911517
+2326690,"Bedriftsveien 3F, Gressvik",59.227988,10.911441
+2326692,"Bedriftsveien 3E, Gressvik",59.228,10.911813
+2326694,"Bedriftsveien 5A, Gressvik",59.228018,10.912371
+2326696,"Bedriftsveien 3G, Gressvik",59.227988,10.911554
+2326698,"Bedriftsveien 5C, Gressvik",59.22802,10.912105
+2326700,"Bedriftsveien 5B, Gressvik",59.228016,10.912236
+2326702,"Bedriftsveien 5E, Gressvik",59.228004,10.912206
+2326704,"Bedriftsveien 5D, Gressvik",59.228006,10.912343
+2326706,"Bedriftsveien 5G, Gressvik",59.227999,10.912313
+2326708,"Bedriftsveien 5F, Gressvik",59.228009,10.912072
+2326710,"Bedriftsveien 5I, Gressvik",59.228,10.912036
+2326712,"Bedriftsveien 5H, Gressvik",59.227997,10.912176
+2326714,"Bedriftsveien 7B, Gressvik",59.227784,10.912301
+2326716,"Bedriftsveien 7A, Gressvik",59.227782,10.912492
+2326752,"Pancoveien 17, Gressvik",59.233261,10.906175
+2326765,"Pancoveien 15, Gressvik",59.233612,10.906721
+2327280,"Ørebekkveien 2A, Gressvik",59.227924,10.909278
+2327281,"Johan Selmer Karlsens vei 26, Gressvik",59.22593,10.911111
+2327282,"Johan Selmer Karlsens vei 22, Gressvik",59.225556,10.911511
+2327283,"Johan Selmer Karlsens vei 24, Gressvik",59.225788,10.911612
+2327284,"Johan Selmer Karlsens vei 1A, Gressvik",59.225312,10.910606
+2327285,"Johan Selmer Karlsens vei 18, Gressvik",59.225345,10.911219
+2327641,"Platået 1A, Gressvik",59.22591,10.907181
+2327730,"Anton Brekkes vei 3G, Gressvik",59.228627,10.899861
+2327736,"Anton Brekkes vei 3E, Gressvik",59.228524,10.899863
+2370770,"Mosseveien 101, Gressvik",59.230864,10.910949
+2433050,"Pancoveien 24A, Gressvik",59.23517,10.905247
+2468269,"Pancoveien 32, Gressvik",59.233724,10.904113
+2468881,"Midtåsen 5A, Gressvik",59.228277,10.905829
+2493423,"Ruuds vei 1A, Gressvik",59.226465,10.910775

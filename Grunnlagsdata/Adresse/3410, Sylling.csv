@@ -1,0 +1,908 @@
+,Navn,Long,Lat
+55621,"Graghstad Tronstad, 165/1-1, Sylling",59.901601,10.214651
+55622,"177/2, Sylling",59.909903,10.294439
+55623,"191/33, Sylling",59.951689,10.347437
+55624,"188/1, Sylling",59.933718,10.284469
+55672,"182/6, Sylling",59.929756,10.259535
+55673,"182/10, Sylling",59.931895,10.256538
+55674,"182/9, Sylling",59.932443,10.25647
+55675,"183/5, Sylling",59.932144,10.249193
+55676,"183/25, Sylling",59.931943,10.246681
+55677,"182/1, Sylling",59.928248,10.247133
+55678,"183/1, Sylling",59.928953,10.239072
+55679,"182/12, Sylling",59.929817,10.23982
+55680,"183/33, Sylling",59.9316,10.242195
+55681,"183/39, Sylling",59.93233,10.242866
+55682,"183/23, Sylling",59.93265,10.241232
+55683,"183/41, Sylling",59.93318,10.241216
+55684,"183/57, Sylling",59.932964,10.243265
+55685,"166/18, Sylling",59.91147,10.249364
+55705,"188/2, Sylling",59.932247,10.2852
+55706,"191/16, Sylling",59.948194,10.349336
+55720,"193/2, Sylling",59.896245,10.33754
+55721,"197/8, Sylling",59.874131,10.327167
+55724,"193/8, Sylling",59.894052,10.309033
+55809,"164/2, Sylling",59.919135,10.240244
+55810,"165/1, Sylling",59.909947,10.199667
+55811,"181/4, Sylling",59.923461,10.25096
+55812,"183/24, Sylling",59.932422,10.248273
+55813,"185/21, Sylling",59.943671,10.276817
+55814,"186/1, Sylling",59.944749,10.187302
+55815,"190/3, Sylling",59.949266,10.23718
+55816,"179/1-1, Sylling",59.916976,10.263361
+55817,"179/1-2, Sylling",59.923163,10.251217
+55818,"191/1, Sylling",59.962785,10.217499
+55821,"196/27, Sylling",59.882118,10.320588
+55822,"196/13, Sylling",59.888414,10.310652
+55832,"183/26, Sylling",59.93188,10.241024
+55853,"190/36, Sylling",59.947177,10.27919
+55872,"182/7, Sylling",59.92911,10.240509
+55873,"183/67, Sylling",59.943292,10.248242
+55874,"193/1/1, Sylling",59.883097,10.344973
+1703278,"Hørteveien 7, Sylling",59.906997,10.287033
+2078936,"Åsegårdveien 32, Sylling",59.934022,10.261191
+2455995,"Holtsmarkveien 17, Sylling",59.875575,10.268778
+2535976,"Bekkeliveien 1, Sylling",59.883157,10.2453
+2535977,"Bekkeliveien 2, Sylling",59.88326,10.245822
+2535978,"Bekkeliveien 3, Sylling",59.883666,10.244676
+2535979,"Bekkeliveien 4, Sylling",59.883598,10.245156
+2535980,"Bekkeliveien 5, Sylling",59.884163,10.244283
+2535981,"Bekkeliveien 7, Sylling",59.884469,10.244205
+2536314,"Dambråtan 1, Sylling",59.90555,10.262766
+2536315,"Dambråtan 2, Sylling",59.905787,10.262328
+2536316,"Dambråtan 3, Sylling",59.905375,10.262223
+2536317,"Dambråtan 4, Sylling",59.905638,10.261965
+2536318,"Dambråtan 5, Sylling",59.905143,10.262089
+2536319,"Dambråtan 6, Sylling",59.905498,10.26162
+2536320,"Dambråtan 7, Sylling",59.90502,10.261763
+2536321,"Dambråtan 8, Sylling",59.905348,10.261292
+2536322,"Dambråtan 9, Sylling",59.904916,10.261437
+2536323,"Dambråtan 10, Sylling",59.905198,10.261019
+2536324,"Dambråtan 11, Sylling",59.904775,10.261163
+2536325,"Dambråtan 12, Sylling",59.905075,10.260764
+2536326,"Delekantbakken 1, Sjåstad",59.883541,10.234058
+2536327,"Delekantbakken 3, Sjåstad",59.883386,10.23432
+2536328,"Delekantbakken 5, Sjåstad",59.883387,10.234575
+2536329,"Delekantbakken 23, Sjåstad",59.883722,10.239675
+2536330,"Delekantbakken 24, Sjåstad",59.88336,10.239018
+2536331,"Delekantbakken 25, Sjåstad",59.883479,10.239737
+2536332,"Delekantbakken 26, Sjåstad",59.883059,10.239489
+2536333,"Delekantbakken 27, Sjåstad",59.883188,10.240048
+2536334,"Delekantbakken 28, Sjåstad",59.882851,10.239678
+2536335,"Delekantbakken 30, Sjåstad",59.882483,10.24054
+2536336,"Delekantbakken 32, Sjåstad",59.881157,10.242116
+2536337,"Delekantbakken 34, Sjåstad",59.88191,10.241882
+2536444,"Fagerlia 1, Sylling",59.903408,10.259485
+2536445,"Fagerlia 2, Sylling",59.903214,10.259996
+2536446,"Fagerlia 3, Sylling",59.90346,10.259612
+2536447,"Fagerlia 4, Sylling",59.903258,10.260087
+2536448,"Fagerlia 5, Sylling",59.903531,10.259722
+2536449,"Fagerlia 6, Sylling",59.903338,10.260179
+2536450,"Fagerlia 7, Sylling",59.903619,10.25994
+2536451,"Fagerlia 8, Sylling",59.903382,10.260324
+2536452,"Fagerlia 9, Sylling",59.903663,10.260049
+2536453,"Fagerlia 10, Sylling",59.903444,10.260434
+2536454,"Fagerlia 11, Sylling",59.903715,10.260176
+2536455,"Fagerlia 12, Sylling",59.903531,10.260669
+2536456,"Fagerlia 13, Sylling",59.903777,10.260303
+2536457,"Fagerlia 14, Sylling",59.903575,10.26076
+2536459,"Fagerlia 15, Sylling",59.903883,10.260522
+2536460,"Fagerlia 16, Sylling",59.903628,10.26087
+2536461,"Fagerlia 17, Sylling",59.903935,10.260649
+2536462,"Fagerlia 19, Sylling",59.903988,10.26074
+2536463,"Fagerlia 21, Sylling",59.904041,10.260867
+2536464,"Fagerlia 23, Sylling",59.904094,10.260995
+2536465,"Fagerlia 25, Sylling",59.904146,10.261122
+2536466,"Fagerliåsen 1, Sylling",59.902144,10.259258
+2536467,"Fagerliåsen 3, Sylling",59.902382,10.258784
+2536468,"Fagerliåsen 5, Sylling",59.902539,10.259201
+2536640,"Gamle Stasjonsvei 2, Sylling",59.897559,10.29496
+2536641,"Gamle Stasjonsvei 4, Sylling",59.897925,10.295135
+2536642,"Gamle Stasjonsvei 6, Sylling",59.897985,10.294548
+2536643,"Gamle Stasjonsvei 8, Sylling",59.898145,10.293803
+2536644,"Gamle Stasjonsvei 9, Sylling",59.898445,10.292546
+2536645,"Gamle Stasjonsvei 15, Sylling",59.899557,10.290837
+2536646,"Gamle Stasjonsvei 16, Sylling",59.899416,10.291439
+2536739,"Gunnerudveien 2, Sylling",59.893194,10.273754
+2536740,"Gunnerudveien 4, Sylling",59.892583,10.274713
+2536741,"Gunnerudveien 12, Sylling",59.89008,10.27174
+2536742,"Gunnerudveien 14, Sylling",59.890245,10.27081
+2536743,"Gunnerudveien 21, Sylling",59.887887,10.269101
+2536744,"Gunnerudveien 22, Sylling",59.887887,10.269101
+2536745,"Gunnerudveien 27, Sylling",59.886101,10.265209
+2536746,"Gunnerudveien 29, Sylling",59.886275,10.265932
+2536747,"Gunnerudveien 31, Sylling",59.885282,10.263516
+2536748,"Gunnerudveien 33, Sylling",59.884488,10.262021
+2536749,"Gunnerudveien 34, Sylling",59.885117,10.261115
+2537173,"Holmenlia 1, Sylling",59.942032,10.285596
+2537174,"Holmenlia 2, Sylling",59.942372,10.285717
+2537175,"Holmenlia 3, Sylling",59.942315,10.28516
+2537176,"Holmenlia 4, Sylling",59.942605,10.285762
+2537177,"Holmenlia 5, Sylling",59.942651,10.284743
+2537178,"Holmenlia 6, Sylling",59.94307,10.285977
+2537179,"Holmenlia 7, Sylling",59.942941,10.285399
+2537187,"Nordvangveien 1, Sylling",59.894869,10.299038
+2537188,"Holsfjordveien 19, Sylling",59.895444,10.299062
+2537189,"Holsfjordveien 12, Sylling",59.894838,10.300814
+2537190,"Holsfjordveien 16, Sylling",59.895387,10.300309
+2537191,"Holsfjordveien 18, Sylling",59.895797,10.299664
+2537192,"Holsfjordveien 20, Sylling",59.896217,10.298948
+2537193,"Holsfjordveien 22, Sylling",59.89689,10.29901
+2537377,"Kirkerudveien 2, Sylling",59.897308,10.278326
+2537378,"Kirkerudveien 4, Sylling",59.897418,10.278992
+2537379,"Kirkerudveien 6, Sylling",59.897514,10.279335
+2537380,"Kirkerudveien 7, Sylling",59.89889,10.28005
+2537381,"Kirkerudveien 8, Sylling",59.89866,10.281507
+2537382,"Kirkerudveien 9, Sylling",59.899222,10.281886
+2537383,"Kirkerudveien 10, Sylling",59.899335,10.282355
+2537874,"Modumveien 120, Sylling",59.907208,10.275185
+2538021,"Modumveien 122, Sylling",59.907415,10.276051
+2538082,"Meieribakken 3, Sylling",59.89414,10.282762
+2538103,"Meieribakken 1, Sylling",59.894585,10.281818
+2538104,"Meieribakken 6, Sylling",59.894397,10.280324
+2538105,"Meieribakken 8, Sylling",59.894221,10.279977
+2538106,"Meieribakken 10, Sylling",59.894001,10.279486
+2538107,"Meieribakken 11B, Sylling",59.893498,10.279793
+2538108,"Meieribakken 13, Sylling",59.893328,10.279389
+2538109,"Meieribakken 14, Sylling",59.894248,10.278995
+2538110,"Meieribakken 15, Sylling",59.893078,10.27929
+2538111,"Meieribakken 16, Sylling",59.893979,10.278949
+2538112,"Meieribakken 17, Sylling",59.892882,10.279122
+2538113,"Meieribakken 18, Sylling",59.893795,10.278513
+2538114,"Meieribakken 19, Sylling",59.89341,10.278338
+2538123,"Modumveien 5, Sylling",59.89219,10.296592
+2538124,"Modumveien 21, Sylling",59.892924,10.288685
+2538125,"Modumveien 23, Sylling",59.893019,10.288135
+2538126,"Modumveien 25, Sylling",59.893415,10.287078
+2538127,"Modumveien 27, Sylling",59.893513,10.286313
+2538128,"Modumveien 28, Sylling",59.89404,10.286653
+2538129,"Modumveien 31, Sylling",59.893791,10.28543
+2538130,"Modumveien 35, Sylling",59.894113,10.284567
+2538131,"Modumveien 37, Sylling",59.893919,10.284255
+2538132,"Modumveien 39, Sylling",59.893996,10.283704
+2538133,"Modumveien 40, Sylling",59.89502,10.282796
+2538134,"Modumveien 41, Sylling",59.894072,10.28326
+2538135,"Modumveien 42, Sylling",59.894898,10.282327
+2538136,"Modumveien 43, Sylling",59.894237,10.283892
+2538137,"Modumveien 44, Sylling",59.894972,10.282133
+2538138,"Modumveien 45, Sylling",59.894308,10.283949
+2538139,"Modumveien 47, Sylling",59.894358,10.283432
+2538140,"Modumveien 48, Sylling",59.895309,10.281664
+2538141,"Modumveien 49, Sylling",59.894493,10.283263
+2538142,"Modumveien 51, Sylling",59.894552,10.282868
+2538143,"Modumveien 53, Sylling",59.894582,10.282529
+2538144,"Modumveien 63, Sylling",59.89772,10.271761
+2538145,"Modumveien 65, Sylling",59.897545,10.271489
+2538146,"Modumveien 69, Sylling",59.898519,10.270097
+2538147,"Modumveien 71, Sylling",59.898461,10.269647
+2538148,"Modumveien 85, Sylling",59.901867,10.263717
+2538149,"Modumveien 87, Sylling",59.90338,10.264293
+2538150,"Modumveien 89, Sylling",59.902927,10.264669
+2538151,"Modumveien 90, Sylling",59.902933,10.265867
+2538152,"Modumveien 93, Sylling",59.903573,10.265641
+2538153,"Modumveien 95, Sylling",59.90394,10.265762
+2538154,"Modumveien 96, Sylling",59.903731,10.267006
+2538155,"Modumveien 98, Sylling",59.903803,10.267885
+2538156,"Modumveien 99, Sylling",59.904059,10.26743
+2538157,"Modumveien 101, Sylling",59.9045,10.268287
+2538158,"Modumveien 102, Sylling",59.904403,10.268998
+2538159,"Modumveien 104, Sylling",59.90496,10.269931
+2538160,"Modumveien 105, Sylling",59.905583,10.269526
+2538161,"Modumveien 107, Sylling",59.905678,10.270012
+2538162,"Modumveien 108, Sylling",59.905451,10.271166
+2538163,"Modumveien 109, Sylling",59.905912,10.27067
+2538164,"Modumveien 110, Sylling",59.904821,10.27318
+2538165,"Modumveien 113, Sylling",59.906415,10.271811
+2538166,"Modumveien 114, Sylling",59.905921,10.271756
+2538167,"Modumveien 116, Sylling",59.906565,10.272961
+2538168,"Modumveien 117, Sylling",59.907118,10.272481
+2538169,"Modumveien 160, Sylling",59.916018,10.284221
+2538170,"Modumveien 171, Sylling",59.918217,10.285462
+2538171,"Modumveien 176, Sylling",59.919341,10.288135
+2538172,"Modumveien 180, Sylling",59.919872,10.290767
+2538173,"Modumveien 182, Sylling",59.919966,10.2912
+2538174,"Modumveien 184, Sylling",59.920427,10.295475
+2538175,"Modumveien 185, Sylling",59.922063,10.289886
+2538176,"Modumveien 210, Sylling",59.926632,10.298329
+2538177,"Modumveien 212, Sylling",59.926852,10.298785
+2538178,"Modumveien 216, Sylling",59.928315,10.299737
+2538179,"Modumveien 220, Sylling",59.932057,10.303677
+2538180,"Modumveien 240, Sylling",59.934322,10.299811
+2538181,"Modumveien 241, Sylling",59.934904,10.296416
+2538182,"Modumveien 243, Sylling",59.935742,10.296108
+2538183,"Modumveien 244, Sylling",59.938422,10.302942
+2538184,"Modumveien 245, Sylling",59.935827,10.295646
+2538185,"Modumveien 246, Sylling",59.938767,10.301667
+2538186,"Modumveien 248, Sylling",59.939033,10.301105
+2538187,"Modumveien 251, Sylling",59.937561,10.296448
+2538188,"Modumveien 256, Sylling",59.939206,10.298061
+2538189,"Modumveien 260, Sylling",59.940005,10.297241
+2538190,"Modumveien 266, Sylling",59.941634,10.296893
+2538191,"Modumveien 271, Sylling",59.944051,10.294088
+2538192,"Modumveien 273, Sylling",59.944308,10.293525
+2538193,"Modumveien 275, Sylling",59.944408,10.294281
+2538194,"Modumveien 281, Sylling",59.945185,10.293792
+2538195,"Modumveien 282, Sylling",59.945841,10.294623
+2538196,"Modumveien 284, Sylling",59.946701,10.294889
+2538197,"Modumveien 286, Sylling",59.94722,10.295071
+2538198,"Modumveien 290, Sylling",59.948402,10.293541
+2538199,"Modumveien 292, Sylling",59.948514,10.293134
+2538200,"Modumveien 295, Sylling",59.948601,10.291598
+2538201,"Modumveien 296, Sylling",59.949662,10.292373
+2538202,"Modumveien 298, Sylling",59.94996,10.292241
+2538203,"Modumveien 300, Sylling",59.950226,10.291625
+2538204,"Modumveien 333, Sylling",59.957031,10.278925
+2538205,"Modumveien 335, Sylling",59.957783,10.280154
+2538206,"Modumveien 337, Sylling",59.957977,10.280484
+2538207,"Modumveien 341, Sylling",59.95815,10.280257
+2538208,"Modumveien 343, Sylling",59.95795,10.277707
+2538209,"Modumveien 345, Sylling",59.95836,10.279961
+2538210,"Modumveien 347, Sylling",59.958717,10.280335
+2538211,"Modumveien 351, Sylling",59.959926,10.281454
+2538212,"Modumveien 355, Sylling",59.961445,10.275746
+2538213,"Modumveien 361, Sylling",59.962393,10.279794
+2538214,"Modumveien 363, Sylling",59.962393,10.279794
+2538215,"Modumveien 366, Sylling",59.964327,10.2832
+2538216,"Modumveien 368, Sylling",59.964509,10.282993
+2538217,"Modumveien 373, Sylling",59.964831,10.278473
+2538218,"Modumveien 375, Sylling",59.965288,10.27575
+2538226,"Nedre Fagerlivei 1, Sylling",59.902396,10.260072
+2538227,"Nedre Fagerlivei 2, Sylling",59.902186,10.260422
+2538228,"Nedre Fagerlivei 3, Sylling",59.902639,10.259992
+2538229,"Nedre Fagerlivei 4, Sylling",59.902333,10.260999
+2538230,"Nedre Fagerlivei 6, Sylling",59.902427,10.261503
+2538293,"Nordhellinga 2, Sylling",59.894365,10.285636
+2538294,"Nordhellinga 3, Sylling",59.894799,10.285147
+2538295,"Nordhellinga 8, Sylling",59.896081,10.284446
+2538296,"Nordhellinga 9, Sylling",59.895092,10.283675
+2538297,"Nordhellinga 10, Sylling",59.89571,10.28386
+2538298,"Nordhellinga 11, Sylling",59.894725,10.284103
+2538299,"Nordhellinga 13, Sylling",59.895017,10.284503
+2538300,"Nordhellinga 14, Sylling",59.896088,10.282802
+2538301,"Nordhellinga 15, Sylling",59.895083,10.284928
+2538302,"Nordhellinga 16, Sylling",59.896248,10.282039
+2538303,"Nordhellinga 19, Sylling",59.895256,10.284131
+2538304,"Nordhellinga 21, Sylling",59.895378,10.283829
+2538305,"Nordhellinga 23, Sylling",59.895535,10.283406
+2538306,"Nordhellinga 29, Sylling",59.895347,10.282416
+2538307,"Nordvangveien 3, Sylling",59.89502,10.298329
+2538308,"Nordvangveien 5, Sylling",59.894911,10.297592
+2538309,"Nordvangveien 7, Sylling",59.895124,10.297779
+2538310,"Nordvangveien 9, Sylling",59.895129,10.297314
+2538311,"Nordvangveien 11, Sylling",59.895241,10.296906
+2538312,"Nordvangveien 13, Sylling",59.894927,10.296877
+2538313,"Nordvangveien 15, Sylling",59.894871,10.296142
+2538314,"Nordvangveien 17, Sylling",59.895308,10.296481
+2539001,"Svanglia 7B, Sylling",59.893594,10.291785
+2539037,"Skjeggeruddalen 1, Sylling",59.88194,10.244826
+2539038,"Skjeggeruddalen 2, Sylling",59.882035,10.24331
+2539039,"Skjeggeruddalen 6, Sylling",59.881369,10.245322
+2539040,"Skjeggeruddalen 8, Sylling",59.881661,10.245833
+2539041,"Skjeggeruddalen 10, Sylling",59.881846,10.246251
+2539042,"Skjeggeruddalen 12, Sylling",59.881921,10.245897
+2539043,"Skjeggeruddalen 14, Sylling",59.882116,10.246119
+2539044,"Skjeggeruddalen 16, Sylling",59.882304,10.246161
+2539045,"Skjeggeruddalen 18, Sylling",59.882477,10.245953
+2539046,"Skjeggeruddalen 20, Sylling",59.882645,10.246192
+2539047,"Skjeggeruddalen 22, Sylling",59.883069,10.24694
+2539048,"Skjeggeruddalen 24, Sylling",59.883123,10.246978
+2539049,"Skjeggeruddalen 26, Sylling",59.883487,10.247456
+2539050,"Skjeggeruddalen 38, Sylling",59.882213,10.255824
+2539051,"Skjeggeruddalen 40, Sylling",59.88254,10.256301
+2539091,"Skogliveien 1, Sylling",59.904511,10.261457
+2539092,"Skogliveien 2, Sylling",59.904392,10.262633
+2539093,"Skogliveien 3, Sylling",59.904661,10.261803
+2539094,"Skogliveien 4, Sylling",59.904532,10.263049
+2539095,"Skogliveien 5, Sylling",59.904756,10.262146
+2539096,"Skogliveien 6, Sylling",59.904722,10.262896
+2539097,"Skogliveien 7, Sylling",59.904943,10.262386
+2539098,"Skogliveien 8, Sylling",59.905046,10.263784
+2539099,"Skogliveien 9, Sylling",59.905079,10.262711
+2539100,"Skogliveien 11, Sylling",59.905325,10.262793
+2539101,"Skogliveien 14, Sylling",59.905725,10.26415
+2539102,"Skogliveien 16, Sylling",59.905838,10.264511
+2539103,"Skogliveien 18, Sylling",59.905916,10.264872
+2539104,"Skogliveien 20, Sylling",59.906065,10.265164
+2539105,"Skogliveien 21, Sylling",59.906352,10.263422
+2539106,"Skogliveien 22, Sylling",59.906303,10.265691
+2539107,"Skogliveien 23, Sylling",59.906502,10.263678
+2539108,"Skogliveien 25, Sylling",59.906643,10.263916
+2539109,"Skogliveien 26, Sylling",59.90638,10.265202
+2539110,"Skogliveien 27, Sylling",59.906775,10.264261
+2539111,"Skogliveien 28, Sylling",59.906231,10.264705
+2539112,"Skogliveien 29, Sylling",59.906835,10.264531
+2539113,"Skogliveien 30, Sylling",59.906145,10.264344
+2539114,"Skogliveien 32, Sylling",59.90606,10.26384
+2539115,"Skogliveien 34, Sylling",59.906274,10.264142
+2539116,"Skogliveien 36, Sylling",59.906458,10.264464
+2539117,"Skogliveien 38, Sylling",59.90659,10.26479
+2539129,"Skoleveien 1, Sylling",59.892764,10.292128
+2539130,"Skoleveien 2, Sylling",59.892452,10.291389
+2539131,"Skoleveien 3, Sylling",59.892574,10.292264
+2539132,"Skoleveien 5, Sylling",59.892517,10.292637
+2539133,"Skoleveien 7, Sylling",59.89262,10.293189
+2539134,"Skoleveien 9, Sylling",59.892174,10.292731
+2539135,"Skoleveien 11, Sylling",59.89162,10.292531
+2539136,"Skoleveien 13, Sylling",59.89177,10.29184
+2539137,"Skoleveien 17, Sylling",59.891831,10.291109
+2539145,"Sliperiveien 4, Sylling",59.883019,10.244634
+2539146,"Sliperiveien 8, Sylling",59.883666,10.243675
+2539147,"Sliperiveien 10, Sylling",59.883984,10.24333
+2539148,"Sliperiveien 12, Sylling",59.88403,10.242852
+2539149,"Sliperiveien 14, Sylling",59.884118,10.242423
+2539271,"Svanglia 1A, Sylling",59.894515,10.291249
+2539272,"Svanglia 1B, Sylling",59.894402,10.290905
+2539273,"Svanglia 2A, Sylling",59.894842,10.290869
+2539274,"Svanglia 2B, Sylling",59.895041,10.290698
+2539275,"Svanglia 3, Sylling",59.894142,10.290823
+2539276,"Svanglia 4A, Sylling",59.894695,10.290291
+2539277,"Svanglia 4B, Sylling",59.894742,10.290078
+2539278,"Svanglia 5, Sylling",59.893915,10.291083
+2539279,"Svanglia 6, Sylling",59.894492,10.289926
+2539280,"Svanglia 7A, Sylling",59.893861,10.29169
+2539281,"Svanglia 8, Sylling",59.894325,10.289544
+2539282,"Svanglia 10, Sylling",59.894139,10.289251
+2539283,"Svanglia 11A, Sylling",59.893414,10.289026
+2539284,"Svanglia 11B, Sylling",59.893385,10.289275
+2539285,"Svanglia 11C, Sylling",59.893348,10.289381
+2539286,"Svanglia 11D, Sylling",59.893319,10.289594
+2539287,"Svanglia 11E, Sylling",59.8933,10.289665
+2539288,"Svanglia 11F, Sylling",59.893252,10.289949
+2539289,"Svanglia 12, Sylling",59.893997,10.290085
+2539290,"Svanglia 13, Sylling",59.893546,10.288423
+2539291,"Svanglia 14, Sylling",59.893795,10.290488
+2539292,"Svanglia 15, Sylling",59.893712,10.287947
+2539293,"Svanglia 16, Sylling",59.893541,10.290782
+2539294,"Svanglia 17, Sylling",59.89387,10.288364
+2539295,"Svanglia 18, Sylling",59.8936,10.290266
+2539296,"Svanglia 19, Sylling",59.893678,10.288679
+2539297,"Svanglia 20, Sylling",59.893767,10.289647
+2539298,"Svanglia 22, Sylling",59.893927,10.288938
+2539299,"Svangshagan 2, Sylling",59.892853,10.289469
+2539300,"Svangshagan 3, Sylling",59.892626,10.290175
+2539301,"Svangshagan 4, Sylling",59.892671,10.288836
+2539302,"Svangshagan 5, Sylling",59.892284,10.289985
+2539303,"Svangshagan 11, Sylling",59.89221,10.289122
+2539304,"Svangshagan 13, Sylling",59.892023,10.288954
+2539305,"Svangshagan 15, Sylling",59.891949,10.288236
+2539306,"Svangshavna 2, Sylling",59.892452,10.293707
+2539307,"Svangshavna 8, Sylling",59.891651,10.292961
+2539308,"Svangshavna 10, Sylling",59.891434,10.293185
+2539309,"Svangshavna 12, Sylling",59.891213,10.29302
+2539310,"Svangstrandbakken 1, Sylling",59.893749,10.292453
+2539311,"Svangstrandbakken 2A, Sylling",59.893991,10.291883
+2539312,"Svangstrandbakken 3, Sylling",59.89346,10.292584
+2539313,"Svangstrandbakken 8, Sylling",59.893235,10.291771
+2539314,"Svangstrandbakken 9, Sylling",59.893154,10.292662
+2539315,"Svangstrandveien 2, Sylling",59.89187,10.300833
+2539316,"Svangstrandveien 4, Sylling",59.892073,10.301181
+2539317,"Svangstrandveien 5, Sylling",59.892832,10.295277
+2539318,"Svangstrandveien 9, Sylling",59.893098,10.293821
+2539319,"Svangstrandveien 10, Sylling",59.893505,10.294445
+2539320,"Svangstrandveien 11, Sylling",59.893316,10.293562
+2539321,"Svangstrandveien 12, Sylling",59.893827,10.294529
+2539322,"Svangstrandveien 15, Sylling",59.893638,10.29277
+2539323,"Svangstrandveien 16, Sylling",59.894168,10.292701
+2539324,"Svangstrandveien 20, Sylling",59.895035,10.293164
+2539325,"Svangstrandveien 21, Sylling",59.897221,10.29053
+2539326,"Svangstrandveien 22, Sylling",59.895224,10.293993
+2539327,"Svangstrandveien 23, Sylling",59.897094,10.291081
+2539328,"Svangstrandveien 27, Sylling",59.897576,10.294103
+2539329,"Svangstrandveien 29, Sylling",59.897448,10.295313
+2539330,"Svangstrandveien 30, Sylling",59.897205,10.295322
+2539331,"Svangstrandveien 33, Sylling",59.89783,10.295686
+2539332,"Svangstrandveien 35, Sylling",59.897474,10.298067
+2539333,"Svangstrandveien 36, Sylling",59.897104,10.299197
+2539494,"Syllingbakken 1, Sylling",59.894652,10.280923
+2539495,"Syllingbakken 2, Sylling",59.894967,10.281704
+2539496,"Syllingbakken 3A, Sylling",59.894809,10.280287
+2539497,"Syllingbakken 6, Sylling",59.895139,10.280638
+2539498,"Syllingbakken 7, Sylling",59.895035,10.279347
+2539499,"Syllingbakken 9, Sylling",59.895189,10.278334
+2539500,"Syllingbakken 11, Sylling",59.895108,10.278331
+2539501,"Syllingbakken 13, Sylling",59.895175,10.278834
+2539502,"Syllingbakken 15, Sylling",59.895246,10.278873
+2539503,"Syllingbakken 17, Sylling",59.895282,10.278892
+2539504,"Syllingbakken 21, Sylling",59.895584,10.278278
+2539505,"Syllingbakken 23, Sylling",59.895897,10.278415
+2539506,"Syllingbakken 25, Sylling",59.896195,10.27823
+2539507,"Syllingbråtan 1, Sylling",59.903575,10.261726
+2539508,"Syllingbråtan 2, Sylling",59.903297,10.261715
+2539509,"Syllingbråtan 3, Sylling",59.903788,10.261948
+2539510,"Syllingbråtan 4, Sylling",59.903445,10.262186
+2539511,"Syllingbråtan 5, Sylling",59.903981,10.262421
+2539512,"Syllingbråtan 6, Sylling",59.903273,10.262322
+2539513,"Syllingbråtan 7, Sylling",59.903799,10.262682
+2539514,"Syllingbråtan 8, Sylling",59.903105,10.261976
+2539515,"Syllingbråtan 9, Sylling",59.903644,10.262908
+2539516,"Syllingbråtan 10, Sylling",59.902924,10.26213
+2539517,"Syllingbråtan 11, Sylling",59.903455,10.262937
+2539518,"Syllingbråtan 12, Sylling",59.902902,10.262541
+2539519,"Syllingbråtan 13, Sylling",59.903239,10.263018
+2539520,"Syllingbråtan 15, Sylling",59.903049,10.26319
+2539521,"Syllinghaugen 1, Sylling",59.8955,10.276791
+2539522,"Syllinghaugen 2, Sylling",59.895069,10.277668
+2539523,"Syllinghaugen 3, Sylling",59.895676,10.276226
+2539524,"Syllinghaugen 4, Sylling",59.895123,10.277653
+2539525,"Syllinghaugen 6, Sylling",59.895177,10.277637
+2539526,"Syllinghaugen 7, Sylling",59.895705,10.276978
+2539527,"Syllinghaugen 8, Sylling",59.895241,10.277615
+2539528,"Syllinghaugen 9, Sylling",59.895972,10.277203
+2539529,"Syllinghaugen 10, Sylling",59.895431,10.277468
+2539530,"Syllinghaugen 11, Sylling",59.896151,10.277299
+2539531,"Syllinghaugen 12, Sylling",59.89594,10.27772
+2539532,"Syllinghaugen 14, Sylling",59.896181,10.27789
+2539533,"Syllinghaugen 15, Sylling",59.896481,10.277455
+2539534,"Syllinghaugen 16, Sylling",59.896439,10.278096
+2539535,"Syllinghaugen 17, Sylling",59.89682,10.277682
+2539713,"Tronstadveien 1, Sjåstad",59.882774,10.241105
+2539714,"Tronstadveien 3, Sjåstad",59.883146,10.24069
+2539715,"Tronstadveien 6, Sjåstad",59.883928,10.240665
+2539716,"Tronstadveien 7, Sjåstad",59.884096,10.239992
+2539717,"Tronstadveien 8, Sjåstad",59.884371,10.239395
+2539794,"Valstadbakken 3, Sylling",59.892722,10.288213
+2539795,"Valstadbakken 7, Sylling",59.891731,10.287549
+2539796,"Valstadbakken 8, Sylling",59.893366,10.2857
+2539797,"Valstadbakken 9, Sylling",59.892882,10.287432
+2539798,"Valstadbakken 13, Sylling",59.893066,10.286957
+2539799,"Valstadbakken 15, Sylling",59.893128,10.286546
+2539800,"Valstadbakken 17, Sylling",59.893077,10.286361
+2539801,"Valstadbakken 21, Sylling",59.892898,10.284895
+2539802,"Valstadbakken 23, Sylling",59.892691,10.284923
+2539803,"Valstadveien 2, Sylling",59.893909,10.280435
+2539804,"Valstadveien 8, Sylling",59.893538,10.28088
+2539805,"Valstadveien 9, Sylling",59.893174,10.283261
+2539806,"Valstadveien 12, Sylling",59.892908,10.282965
+2539807,"Valstadveien 14, Sylling",59.892901,10.28359
+2539808,"Valstadveien 16, Sylling",59.892525,10.283469
+2539984,"Øvre Fagerlivei 1, Sylling",59.903042,10.258327
+2539985,"Øvre Fagerlivei 3, Sylling",59.903327,10.258516
+2539986,"Øvre Fagerlivei 5, Sylling",59.903441,10.258842
+2539987,"Øvre Fagerlivei 7, Sylling",59.903615,10.25842
+2539988,"Øvre Fagerlivei 9, Sylling",59.903819,10.258767
+2539989,"Øvre Fagerlivei 11, Sylling",59.903941,10.259111
+2539990,"Øvre Fagerlivei 13, Sylling",59.904173,10.259228
+2539991,"Øvre Fagerlivei 15, Sylling",59.904323,10.259591
+2539992,"Øvre Fagerlivei 16, Sylling",59.904103,10.260065
+2539993,"Øvre Fagerlivei 17, Sylling",59.904508,10.25992
+2539994,"Øvre Fagerlivei 18, Sylling",59.904217,10.260302
+2539995,"Øvre Fagerlivei 19, Sylling",59.904638,10.260425
+2539996,"Øvre Fagerlivei 20, Sylling",59.904411,10.26072
+2540306,"Baneveien 290, Sjåstad",59.872449,10.245578
+2540307,"Baneveien 296, Sylling",59.875187,10.243841
+2540308,"Baneveien 299, Sjåstad",59.878159,10.243862
+2540309,"Baneveien 303, Sjåstad",59.880411,10.242196
+2540310,"Baneveien 304, Sjåstad",59.88063,10.243813
+2540389,"Svangshagan 7, Sylling",59.892607,10.289661
+2540546,"Vestsideveien 436, Sjåstad",59.878662,10.237182
+2540547,"Vestsideveien 437, Sjåstad",59.878698,10.23629
+2540548,"Vestsideveien 444, Sjåstad",59.880717,10.235489
+2540549,"Vestsideveien 445, Sjåstad",59.880866,10.23487
+2540550,"Vestsideveien 457, Sjåstad",59.884284,10.232406
+2540551,"Vestsideveien 459, Sjåstad",59.884157,10.232472
+2540552,"Vestsideveien 467, Sjåstad",59.885766,10.230441
+2540553,"Vestsideveien 469, Sjåstad",59.886556,10.229404
+2540554,"Vestsideveien 470, Sjåstad",59.887175,10.2296
+2540555,"Vestsideveien 474, Sylling",59.88823,10.23005
+2540556,"Vestsideveien 476, Sylling",59.888093,10.230331
+2540557,"Vestsideveien 477, Sylling",59.888731,10.229354
+2540558,"Vestsideveien 480, Sylling",59.889034,10.230526
+2540559,"Vestsideveien 481, Sylling",59.889928,10.229058
+2540560,"Vestsideveien 489, Sylling",59.891025,10.229814
+2540561,"Vestsideveien 491, Sylling",59.89141,10.229562
+2540562,"Vestsideveien 492, Sylling",59.891914,10.231526
+2540563,"Vestsideveien 494, Sylling",59.892174,10.231786
+2540564,"Vestsideveien 497, Sylling",59.892045,10.228386
+2540565,"Vestsideveien 499, Sylling",59.893077,10.229371
+2540632,"Ringeriksveien 465, Sylling",59.867808,10.282855
+2540633,"Ringeriksveien 491, Sylling",59.873161,10.29285
+2540634,"Ringeriksveien 501, Sylling",59.875206,10.29686
+2540635,"Ringeriksveien 503, Sylling",59.875435,10.297261
+2540636,"Ringeriksveien 516, Sylling",59.87793,10.299252
+2540637,"Ringeriksveien 530, Sylling",59.879787,10.302219
+2540638,"Ringeriksveien 540, Sylling",59.881805,10.303703
+2540639,"Ringeriksveien 541, Sylling",59.884709,10.293924
+2540640,"Ringeriksveien 545, Sylling",59.884609,10.297673
+2540641,"Ringeriksveien 575, Sylling",59.897831,10.306465
+2540642,"Skjæret 15, Sylling",59.897952,10.3099
+2540643,"Ringeriksveien 580, Sylling",59.892272,10.306568
+2540644,"Ringeriksveien 582, Sylling",59.892579,10.307241
+2540645,"Ringeriksveien 637, Sylling",59.904769,10.324009
+2540646,"Ringeriksveien 639, Sylling",59.90484,10.324137
+2540668,"Vestsideveien 507, Sylling",59.895255,10.23274
+2540669,"Vestsideveien 509, Sylling",59.895211,10.233561
+2540670,"Vestsideveien 515, Sylling",59.894035,10.23543
+2540671,"Vestsideveien 517, Sylling",59.89388,10.235674
+2540672,"Vestsideveien 519, Sylling",59.893728,10.236562
+2540673,"Vestsideveien 527, Sylling",59.894375,10.240393
+2540674,"Vestsideveien 539, Sylling",59.895872,10.247313
+2540675,"Vestsideveien 541, Sylling",59.896547,10.248089
+2540676,"Vestsideveien 544, Sylling",59.894624,10.248249
+2540677,"Vestsideveien 556, Sylling",59.89104,10.257819
+2540678,"Vestsideveien 560, Sylling",59.894471,10.262453
+2540679,"Vestsideveien 566, Sylling",59.896411,10.256753
+2540680,"Vestsideveien 572, Sylling",59.898752,10.25711
+2540681,"Vestsideveien 575, Sylling",59.900904,10.256458
+2540682,"Vestsideveien 578, Sylling",59.90086,10.259245
+2541068,"Modumveien 209, Sylling",59.925907,10.291628
+2541087,"Vestsideveien 506, Sylling",59.894372,10.2321
+2541416,"Runterudveien 4, Sylling",59.888374,10.231056
+2541417,"Runterudveien 6, Sylling",59.888558,10.230544
+2541418,"Runterudveien 8, Sylling",59.888826,10.230662
+2541419,"Runterudveien 14, Sylling",59.888755,10.233447
+2541420,"Runterudveien 5, Sylling",59.889155,10.231903
+2541421,"Runterudveien 9, Sylling",59.889424,10.233061
+2541422,"Kanadastien 4, Sylling",59.890596,10.22869
+2541423,"Kanadastien 6, Sylling",59.890483,10.228292
+2541424,"Kanadastien 8, Sylling",59.890885,10.228522
+2541425,"Trolldalveien 3, Sylling",59.894393,10.23362
+2541426,"Trolldalveien 4, Sylling",59.894071,10.232554
+2541427,"Trolldalveien 8, Sylling",59.894024,10.233503
+2541428,"Trolldalveien 19, Sylling",59.887759,10.239128
+2541464,"Iledalsveien 26, Sylling",59.873585,10.25273
+2541486,"Iledalsveien 34, Sylling",59.869436,10.254663
+2541503,"Iledalsveien 6, Sylling",59.879634,10.254101
+2541504,"Iledalsveien 10, Sylling",59.879795,10.251338
+2541505,"Iledalsveien 16, Sylling",59.878799,10.25591
+2541506,"Iledalsveien 15, Sylling",59.876983,10.257056
+2541507,"Iledalsveien 17, Sylling",59.877114,10.256525
+2541508,"Iledalsveien 24, Sylling",59.87376,10.252272
+2541509,"Iledalsveien 35, Sylling",59.868679,10.254489
+2541552,"Øverskogveien 5, Sylling",59.945286,10.286188
+2541553,"Øverskogveien 4, Sylling",59.947189,10.293655
+2541554,"Øverskogveien 7, Sylling",59.944928,10.286138
+2541555,"Øverskogveien 13, Sylling",59.94148,10.285146
+2541556,"Øverskogveien 15, Sylling",59.941704,10.284295
+2541557,"Øverskogveien 14, Sylling",59.942805,10.282798
+2541558,"Øverskogveien 19, Sylling",59.943015,10.279638
+2541559,"Øverskogveien 20, Sylling",59.940781,10.276652
+2541560,"Øverskogveien 24, Sylling",59.936936,10.273086
+2541561,"Øverskogveien 26, Sylling",59.937288,10.272921
+2541562,"Øverskogveien 30, Sylling",59.937747,10.272795
+2541563,"Øverskogveien 32, Sylling",59.938042,10.272932
+2541564,"Øverskogveien 27, Sylling",59.935516,10.272298
+2541565,"Myrbråtaveien 2, Sylling",59.942155,10.283113
+2541566,"Myrbråtaveien 4, Sylling",59.942151,10.283525
+2541567,"Myrbråtaveien 6, Sylling",59.941918,10.282585
+2541568,"Myrbråtaveien 5, Sylling",59.940126,10.283948
+2541569,"Myrbråtaveien 10, Sylling",59.939126,10.283372
+2541570,"Myrbråtaveien 9, Sylling",59.938364,10.283235
+2541571,"Myrbråtaveien 11, Sylling",59.937932,10.282431
+2541572,"Myrbråtaveien 14, Sylling",59.937198,10.281257
+2541573,"Fuglerudsvingen 2, Sylling",59.943362,10.283697
+2541574,"Fuglerudsvingen 4, Sylling",59.943675,10.283095
+2541575,"Fuglerudsvingen 6, Sylling",59.944064,10.282632
+2541576,"Fuglerudsvingen 8, Sylling",59.944094,10.282311
+2541577,"Fuglerudsvingen 12, Sylling",59.944377,10.279959
+2541578,"Fuglerudsvingen 14, Sylling",59.944444,10.27955
+2541579,"Fuglerudsvingen 16, Sylling",59.944057,10.27864
+2541580,"Fuglerudsvingen 5, Sylling",59.944075,10.280502
+2541581,"Tømteveien 4, Sylling",59.948002,10.283053
+2541582,"Tømteveien 6, Sylling",59.948272,10.283027
+2541583,"Tømteveien 10, Sylling",59.949131,10.282362
+2541584,"Tømteveien 12, Sylling",59.949426,10.279958
+2541585,"Tømteveien 7, Sylling",59.947632,10.280496
+2541586,"Tømteveien 15, Sylling",59.948348,10.278823
+2541587,"Tømteveien 16, Sylling",59.947847,10.278696
+2541588,"Tømteveien 11, Sylling",59.945993,10.279126
+2541589,"Liaveien 6, Sylling",59.948527,10.289993
+2541590,"Liaveien 8, Sylling",59.949123,10.289631
+2541591,"Nedre Skustadvei 1, Sylling",59.931735,10.270382
+2541592,"Nedre Skustadvei 5, Sylling",59.932422,10.276421
+2541593,"Nedre Skustadvei 6, Sylling",59.932104,10.276874
+2541594,"Øvre Skustadvei 8, Sylling",59.931732,10.260103
+2541595,"Øvre Skustadvei 9, Sylling",59.931706,10.260058
+2541596,"Øvre Skustadvei 7, Sylling",59.929308,10.265941
+2541597,"Øvre Skustadvei 3, Sylling",59.930264,10.269288
+2541598,"Røineveien 1, Sylling",59.920317,10.288406
+2541599,"Skustadenga 15, Sylling",59.924691,10.266088
+2541600,"Røineveien 6, Sylling",59.925774,10.274859
+2541601,"Røineveien 13A, Sylling",59.92567,10.27267
+2541602,"Røineveien 15, Sylling",59.926365,10.27227
+2541603,"Røineveien 21, Sylling",59.929341,10.272778
+2541604,"Røineveien 47, Sylling",59.934726,10.266595
+2541605,"Røineveien 20, Sylling",59.93478,10.26853
+2541606,"Vestre Røinevei 4, Sylling",59.936302,10.267998
+2541607,"Vestre Røinevei 16, Sylling",59.937976,10.267686
+2541608,"Vestre Røinevei 18, Sylling",59.938156,10.267657
+2541609,"Vestre Røinevei 48, Sylling",59.939706,10.263277
+2541610,"Vestre Røinevei 42, Sylling",59.940078,10.264741
+2541611,"Vestre Røinevei 36, Sylling",59.940707,10.263834
+2541612,"Åsegårdveien 10, Sylling",59.933009,10.264919
+2541613,"Vestre Røinevei 34, Sylling",59.941087,10.263473
+2541614,"Øvre Skustadvei 2, Sylling",59.931499,10.269711
+2541615,"Røineveien 27, Sylling",59.931841,10.26874
+2541616,"Åsegårdveien 42, Sylling",59.933399,10.258922
+2541617,"Åsegårdveien 5, Sylling",59.932276,10.266448
+2541618,"Åsegårdveien 30, Sylling",59.934528,10.261058
+2541619,"Åsegårdveien 20, Sylling",59.934886,10.261215
+2541620,"Røineveien 45, Sylling",59.93357,10.267285
+2541621,"Ringeriksveien 509, Sylling",59.877291,10.29762
+2541622,"Ringeriksveien 511, Sylling",59.877291,10.29762
+2541623,"Ringeriksveien 515, Sylling",59.875773,10.281072
+2541624,"Ringeriksveien 517, Sylling",59.875773,10.279286
+2541685,"Østengaveien 10, Sylling",59.871468,10.284779
+2541686,"Østengaveien 12, Sylling",59.871274,10.283846
+2541688,"Asdølveien 2, Sylling",59.876976,10.300412
+2541689,"Asdølveien 4, Sylling",59.877373,10.300142
+2541690,"Asdølveien 7, Sylling",59.877895,10.300108
+2541691,"Asdølveien 8, Sylling",59.877325,10.301408
+2541692,"Bakkerudveien 1, Sylling",59.892036,10.304968
+2541693,"Bakkerudveien 3, Sylling",59.891749,10.304957
+2541694,"Bakkerudveien 9, Sylling",59.889623,10.306518
+2541695,"Bakkerudveien 15, Sylling",59.889765,10.312099
+2541696,"Bakkerudveien 17, Sylling",59.889415,10.312103
+2541697,"Bakkerudveien 21, Sylling",59.888574,10.310837
+2541698,"Bakkerudveien 25, Sylling",59.889219,10.311041
+2541699,"Bakkerudveien 27, Sylling",59.889678,10.310898
+2541700,"Bakkerudveien 33, Sylling",59.888079,10.308191
+2541701,"Bakkerudveien 35, Sylling",59.887942,10.308489
+2541702,"Bakkerudveien 8, Sylling",59.887425,10.307164
+2541703,"Bakkerudveien 37, Sylling",59.887266,10.307504
+2541704,"Bakkerudveien 10, Sylling",59.887451,10.306361
+2541705,"Østengaveien 6, Sylling",59.872282,10.287279
+2541728,"Øverskogveien 21, Sylling",59.943253,10.278528
+2541869,"Vestsideveien 435, Sjåstad",59.878424,10.23678
+2541872,"Vestsideveien 513, Sylling",59.894147,10.235023
+2541873,"Vestsideveien 523, Sylling",59.893963,10.238323
+2541874,"Vestsideveien 525, Sylling",59.894241,10.239334
+2541875,"Vestsideveien 584, Sylling",59.901386,10.262394
+2541932,"Hørteveien 3, Sylling",59.90868,10.283627
+2541933,"Hørteveien 8, Sylling",59.908044,10.283442
+2541934,"Hørteveien 4, Sylling",59.908317,10.282129
+2541935,"Hørteveien 9, Sylling",59.906778,10.287112
+2541936,"Hørteveien 14, Sylling",59.90746,10.292699
+2541939,"Holtsmarkveien 5, Sylling",59.877623,10.26528
+2541940,"Holtsmarkveien 7, Sylling",59.877584,10.265564
+2541941,"Holtsmarkveien 10, Sylling",59.875268,10.259831
+2541942,"Holtsmarkveien 11, Sylling",59.876234,10.267764
+2541943,"Holtsmarkveien 13, Sylling",59.876455,10.268147
+2541977,"Svangstrandveien 14, Sylling",59.894013,10.293017
+2542015,"Holtsmarkveien 15, Sylling",59.87645,10.268683
+2542045,"Rustanveien 1, Sylling",59.895032,10.231624
+2542046,"Rustanveien 3, Sylling",59.895595,10.230948
+2542047,"Rustanveien 5, Sylling",59.895993,10.230641
+2542048,"Rustanveien 4, Sylling",59.896018,10.232769
+2542049,"Runsevollveien 1, Sylling",59.904163,10.266861
+2542050,"Runsevollveien 3, Sylling",59.904374,10.266422
+2542051,"Runsevollveien 7, Sylling",59.90451,10.267196
+2542052,"Runsevollveien 13, Sylling",59.90579,10.266727
+2542053,"Runsevollveien 9, Sylling",59.904898,10.266049
+2542054,"Runsevollveien 15, Sylling",59.906132,10.267598
+2542055,"Runsevollveien 17, Sylling",59.906798,10.268356
+2542056,"Runsevollveien 6, Sylling",59.90493,10.267463
+2542057,"Runsevollveien 10, Sylling",59.905296,10.266708
+2542058,"Runsevollveien 16, Sylling",59.907159,10.269801
+2542138,"Vestsideveien 518, Sylling",59.89159,10.235661
+2542139,"Vestsideveien 512, Sylling",59.892479,10.235712
+2542140,"Vestsideveien 514, Sylling",59.892335,10.235778
+2542141,"Vestsideveien 526, Sylling",59.892787,10.238332
+2542142,"Vestsideveien 522, Sylling",59.892741,10.236543
+2542143,"Vestsideveien 528, Sylling",59.893164,10.237399
+2542234,"Ringeriksveien 537, Sylling",59.883726,10.292492
+2542235,"Ringeriksveien 544, Sylling",59.883,10.306972
+2542236,"Ringeriksveien 546, Sylling",59.883708,10.307947
+2542237,"Ringeriksveien 548, Sylling",59.884024,10.307817
+2542238,"Ringeriksveien 550, Sylling",59.884929,10.307995
+2542239,"Ringeriksveien 552, Sylling",59.885121,10.307681
+2542240,"Ringeriksveien 691, Sylling",59.919058,10.338154
+2542241,"Ringeriksveien 693, Sylling",59.919388,10.338382
+2542242,"Ringeriksveien 695, Sylling",59.919848,10.337345
+2542247,"Svangstrandbakken 7, Sylling",59.893122,10.293197
+2542248,"Svanglia 7C, Sylling",59.893274,10.291398
+2542317,"Fagerliåsen 12, Sylling",59.904513,10.264188
+2542344,"Ringeriksveien 573, Sylling",59.897259,10.305334
+2542354,"Nedre Fagerlivei 5, Sylling",59.902838,10.260858
+2542377,"Røinehaugen 16, Sylling",59.934659,10.255784
+2542392,"Øvre Skustadvei 17, Sylling",59.931073,10.256114
+2542393,"Åsegårdveien 48, Sylling",59.933778,10.256842
+2542394,"Røinehaugen 14, Sylling",59.934372,10.255755
+2542397,"Røinehaugen 24, Sylling",59.935081,10.254816
+2542398,"Røinehaugen 36, Sylling",59.935586,10.255586
+2542399,"Røinehaugen 32, Sylling",59.93565,10.257289
+2542400,"Røinehaugen 33, Sylling",59.936055,10.255318
+2542401,"Røinehaugen 35, Sylling",59.936086,10.255874
+2542458,"Modumveien 178, Sylling",59.920506,10.290237
+2542462,"Meieribakken 12, Sylling",59.894245,10.279371
+2542523,"Vestsideveien 448, Sjåstad",59.881377,10.235943
+2542536,"Holsfjordveien 14, Sylling",59.895041,10.300796
+2542560,"Valstadveien 4, Sylling",59.893806,10.280104
+2542595,"Svangshavna 1, Sylling",59.892349,10.294168
+2542596,"Svangshavna 3, Sylling",59.892293,10.294344
+2542607,"Bakkerudveien 13, Sylling",59.89029,10.311673
+2542618,"Vestsideveien 487, Sylling",59.890916,10.229041
+2542688,"Røineveien 14, Sylling",59.932394,10.270103
+2542701,"Valstadveien 6, Sylling",59.893655,10.279938
+2542710,"Modumveien 264, Sylling",59.941169,10.29675
+2542711,"Røinehaugen 21, Sylling",59.934738,10.253192
+2542712,"Røinehaugen 30, Sylling",59.935293,10.257132
+2542713,"Røinehaugen 28, Sylling",59.935444,10.256297
+2542714,"Røinehaugen 37, Sylling",59.936458,10.256425
+2542715,"Røinehaugen 23, Sylling",59.935093,10.253635
+2542716,"Røinehaugen 38, Sylling",59.935361,10.254701
+2542717,"Røinehaugen 34, Sylling",59.935704,10.256342
+2542718,"Røinehaugen 26, Sylling",59.935235,10.255627
+2542719,"Røinehaugen 25, Sylling",59.935073,10.252865
+2542720,"Røinehaugen 29, Sylling",59.935631,10.253655
+2542721,"Røinehaugen 31, Sylling",59.935758,10.254448
+2542722,"Røinehaugen 27, Sylling",59.935468,10.252862
+2542723,"Vestre Røinevei 10, Sylling",59.937373,10.26777
+2542726,"Vestsideveien 543, Sylling",59.897019,10.248554
+2542771,"Vestsideveien 576A, Sylling",59.901046,10.258573
+2542772,"Vestsideveien 576B, Sylling",59.900954,10.258802
+2542780,"Tømteveien 3, Sylling",59.947303,10.28197
+2542781,"Tømteveien 5A, Sylling",59.949021,10.28166
+2542782,"Tømteveien 5B, Sylling",59.948812,10.281043
+2542803,"Røineveien 49, Sylling",59.934878,10.266691
+2542877,"Skustadenga 7, Sylling",59.925173,10.272129
+2542880,"Østengaveien 8, Sylling",59.872497,10.28643
+2542900,"Vestsideveien 468, Sjåstad",59.886716,10.230078
+2542910,"Røineveien 4, Sylling",59.930277,10.282762
+2542911,"Fjulsrudveien 147, Sylling",59.961965,10.32681
+2542912,"Ringeriksveien 577, Sylling",59.900291,10.31196
+2542921,"Vestsideveien 545, Sylling",59.896494,10.248945
+2542952,"Ringeriksveien 495, Sylling",59.874452,10.294901
+2542953,"Ringeriksveien 494, Sylling",59.874028,10.295152
+2542957,"Ringeriksveien 576, Sylling",59.894196,10.309897
+2542958,"Skjæret 2, Sylling",59.894477,10.307852
+2542978,"Vestsideveien 551, Sylling",59.895911,10.250197
+2542979,"Vestsideveien 553, Sylling",59.896433,10.250694
+2543024,"Skustadenga 14, Sylling",59.925918,10.266385
+2543066,"Modumveien 26A, Sylling",59.893901,10.287025
+2543067,"Modumveien 26B, Sylling",59.893965,10.286884
+2543068,"Sørliveien 5, Sylling",59.889273,10.264096
+2543069,"Sørliveien 7, Sylling",59.889061,10.263767
+2543070,"Sørliveien 9, Sylling",59.88839,10.262544
+2543107,"Tronstadveien 5A, Sjåstad",59.883434,10.240718
+2543108,"Tronstadveien 5B, Sjåstad",59.88341,10.240324
+2543175,"Svanglia 9A, Sylling",59.893193,10.290519
+2543176,"Svanglia 9B, Sylling",59.893205,10.290262
+2543177,"Svanglia 9C, Sylling",59.893285,10.290304
+2543181,"Modumveien 258, Sylling",59.93937,10.29795
+2543182,"Øverskogveien 3, Sylling",59.945911,10.285675
+2543186,"Vestre Røinevei 2, Sylling",59.936169,10.267867
+2543193,"Rustanveien 11, Sylling",59.901601,10.214651
+2543194,"Rustanveien 17, Sylling",59.925471,10.178008
+2543195,"Rustanveien 19, Sylling",59.925497,10.17817
+2543196,"Rustanveien 21, Sylling",59.92572,10.178286
+2543197,"Rustanveien 23, Sylling",59.926251,10.177231
+2543198,"Rustanveien 25, Sylling",59.926714,10.178625
+2543272,"Ringeriksveien 521, Sylling",59.877442,10.284888
+2543274,"Ringeriksveien 510, Sylling",59.876753,10.301154
+2543283,"Svangshagan 6A, Sylling",59.892486,10.288418
+2543284,"Svangshagan 6B, Sylling",59.892522,10.288419
+2543285,"Svangshagan 6C, Sylling",59.892416,10.28829
+2543286,"Svangshagan 6D, Sylling",59.89246,10.288292
+2543287,"Svangshagan 8A, Sylling",59.892311,10.288
+2543288,"Svangshagan 8B, Sylling",59.892356,10.287984
+2543289,"Svangshagan 8C, Sylling",59.89224,10.287854
+2543290,"Svangshagan 8D, Sylling",59.892294,10.287821
+2543291,"Svangshagan 10A, Sylling",59.892218,10.288282
+2543292,"Svangshagan 10B, Sylling",59.892272,10.288267
+2543293,"Svangshagan 10C, Sylling",59.892165,10.288155
+2543294,"Svangshagan 10D, Sylling",59.892202,10.288103
+2543300,"Syllingbakken 8, Sylling",59.895787,10.28145
+2543301,"Syllingbakken 10, Sylling",59.896028,10.281584
+2543314,"Åsegårdveien 36, Sylling",59.933771,10.260367
+2543318,"Holsfjordveien 11, Sylling",59.894537,10.300221
+2543319,"Holsfjordveien 15, Sylling",59.894921,10.299775
+2543320,"Holsfjordveien 17, Sylling",59.895126,10.299833
+2543355,"Modumveien 33, Sylling",59.893735,10.284713
+2543356,"Modumveien 215, Sylling",59.928255,10.293025
+2543357,"Nedre Skustadvei 2, Sylling",59.93142,10.275183
+2543358,"Skustadhaugen 9, Sylling",59.927887,10.271479
+2543359,"Skustadhaugen 15, Sylling",59.928118,10.270208
+2543434,"Vestsideveien 581, Sylling",59.902512,10.262097
+2543582,"Åsegårdveien 24, Sylling",59.93574,10.261068
+2543583,"Røinehaugen 39, Sylling",59.936065,10.257179
+2543584,"Røinehaugen 10, Sylling",59.933676,10.255317
+2543607,"Svangshagan 9, Sylling",59.892387,10.289415
+2543615,"Svangstrandveien 7, Sylling",59.893148,10.294199
+2543625,"Svangshavna 6B, Sylling",59.891839,10.293093
+2543626,"Svangstrandveien 6, Sylling",59.892408,10.301855
+2543627,"Svangshavna 6A, Sylling",59.892142,10.293284
+2543628,"Vestsideveien 582, Sylling",59.900654,10.263445
+2543629,"Gunnerudveien 25, Sylling",59.886476,10.265509
+2543638,"Skustadhaugen 18, Sylling",59.929437,10.27033
+2543639,"Skustadhaugen 20, Sylling",59.929716,10.270251
+2543640,"Skustadhaugen 22, Sylling",59.929554,10.26935
+2543654,"Røineveien 2B, Sylling",59.922683,10.287961
+2543655,"Skustadenga 1, Sylling",59.924805,10.273266
+2543706,"Svangstrandveien 3, Sylling",59.892727,10.295952
+2543725,"Nedre Skustadvei 4A, Sylling",59.931757,10.274624
+2543726,"Nedre Skustadvei 4B, Sylling",59.931821,10.274501
+2543727,"Nedre Skustadvei 4C, Sylling",59.931907,10.274916
+2543731,"Svangstrandveien 7A, Sylling",59.893155,10.294342
+2543732,"Svangstrandveien 7B, Sylling",59.893094,10.29425
+2543733,"Svangstrandveien 7C, Sylling",59.893122,10.294073
+2543734,"Svangstrandveien 7D, Sylling",59.893194,10.294075
+2543753,"Nordvangveien 4, Sylling",59.895531,10.298387
+2543754,"Nordvangveien 6, Sylling",59.895615,10.298037
+2543755,"Nordvangveien 8, Sylling",59.895692,10.29756
+2543756,"Nordvangveien 10, Sylling",59.895754,10.297223
+2543757,"Vestsideveien 496, Sylling",59.892431,10.231469
+2543764,"Holsfjord Strand 7, Sylling",59.896239,10.30067
+2543765,"Holsfjord Strand 4, Sylling",59.895857,10.300466
+2543879,"Skjæret 1, Sylling",59.895808,10.307938
+2543880,"Skjæret 5, Sylling",59.896306,10.308643
+2543881,"Skjæret 7, Sylling",59.896846,10.308943
+2543882,"Skjæret 9, Sylling",59.897164,10.309164
+2543883,"Skjæret 11, Sylling",59.897347,10.309194
+2543884,"Skjæret 17, Sylling",59.898136,10.310471
+2543885,"Skjæret 18, Sylling",59.898053,10.310946
+2543886,"Skjæret 16, Sylling",59.897724,10.310575
+2543887,"Skjæret 14, Sylling",59.897436,10.310207
+2543888,"Skjæret 12, Sylling",59.89726,10.309876
+2543889,"Skjæret 10, Sylling",59.897041,10.309764
+2543890,"Skjæret 8, Sylling",59.896713,10.309483
+2543891,"Skjæret 3, Sylling",59.89596,10.308395
+2543915,"Sliperiveien 1, Sylling",59.88297,10.243256
+2543973,"Røineveien 13B, Sylling",59.925805,10.272499
+2543979,"Svangshavna 5, Sylling",59.892104,10.293921
+2543980,"Svangshavna 7, Sylling",59.891854,10.293651
+2544058,"Modumveien 242, Sylling",59.935011,10.301285
+2544176,"Meieribakken 11A, Sylling",59.893685,10.279277
+2544177,"Meieribakken 11C, Sylling",59.893452,10.279749
+2544180,"Svangstrandbakken 2D, Sylling",59.894284,10.291608
+2544181,"Svangstrandbakken 2C, Sylling",59.894189,10.2917
+2544182,"Svangstrandbakken 2B, Sylling",59.894104,10.291799
+2544188,"Skjæret 13, Sylling",59.89768,10.309338
+2544204,"Svangshavna 14, Sylling",59.891094,10.29269
+2544263,"Indre Skustadvei 7, Sylling",59.930731,10.266164
+2544264,"Valstadlia 7, Sylling",59.893774,10.283235
+2544265,"Valstadlia 9, Sylling",59.893751,10.283338
+2544266,"Valstadlia 11, Sylling",59.89361,10.283734
+2544267,"Valstadlia 13, Sylling",59.893571,10.283881
+2544268,"Valstadlia 15, Sylling",59.893446,10.284406
+2544269,"Valstadlia 17, Sylling",59.893349,10.284873
+2544270,"Valstadlia 14, Sylling",59.893171,10.284383
+2544275,"Skogliveien 10, Sylling",59.905477,10.263559
+2544276,"Skogliveien 12, Sylling",59.905345,10.263314
+2544283,"Valstadveien 3, Sylling",59.894007,10.281449
+2544284,"Valstadveien 1, Sylling",59.894058,10.28228
+2544285,"Syllingbakken 3B, Sylling",59.894753,10.280162
+2544286,"Syllingbakken 5, Sylling",59.894668,10.279798
+2544293,"Valstadveien 7, Sylling",59.89335,10.282564
+2544294,"Valstadlia 8, Sylling",59.893534,10.283077
+2544296,"Valstadveien 5A, Sylling",59.89376,10.28217
+2544297,"Valstadveien 5B, Sylling",59.893735,10.282266
+2544298,"Valstadveien 5C, Sylling",59.893675,10.282519
+2544299,"Valstadveien 5D, Sylling",59.893644,10.282605
+2544300,"Valstadveien 5E, Sylling",59.893578,10.282111
+2544301,"Valstadveien 5F, Sylling",59.893551,10.282233
+2544315,"Røineveien 2A, Sylling",59.923126,10.288347
+2544356,"Åsegårdveien 3, Sylling",59.932305,10.26727
+2544357,"Skustadenga 5, Sylling",59.925369,10.273007
+2544358,"Skustadhaugen 24, Sylling",59.929513,10.268666
+2544360,"Røinehaugen 18, Sylling",59.934385,10.254457
+2544370,"Valstadbakken 19, Sylling",59.893019,10.285584
+2544430,"Sørliveien 3, Sylling",59.894211,10.270817
+2544435,"Ringeriksveien 699, Sylling",59.917208,10.335022
+2544436,"Ringeriksveien 700, Sylling",59.923443,10.340714
+2544438,"Myrbråtaveien 8B, Sylling",59.941424,10.282129
+2544439,"Myrbråtaveien 8A, Sylling",59.941509,10.282759
+2544465,"Røineveien 10, Sylling",59.926805,10.277497
+2544469,"Runterudveien 7, Sylling",59.889384,10.232715
+2544536,"Nordvangveien 2A, Sylling",59.895181,10.299287
+2544537,"Nordvangveien 2B, Sylling",59.895195,10.299169
+2544538,"Nordvangveien 2C, Sylling",59.895272,10.298607
+2544544,"Skjæret 19, Sylling",59.898538,10.310988
+2544545,"Skjæret 21, Sylling",59.898818,10.311468
+2544546,"Skjæret 23, Sylling",59.899137,10.312282
+2544553,"Holsfjordveien 26, Sylling",59.896651,10.298318
+2544589,"Svangstrandveien 25A, Sylling",59.897655,10.291089
+2544683,"Øverskogveien 10, Sylling",59.942481,10.284228
+2544831,"Svangstrandveien 25B, Sylling",59.897891,10.291567
+2544869,"Liaveien 2, Sylling",59.949022,10.290992
+2544870,"Liaveien 4, Sylling",59.948834,10.290506
+2544924,"Vestre Røinevei 52, Sylling",59.93807,10.263459
+2544959,"Bakkerudveien 31, Sylling",59.88885,10.30988
+2544972,"Skjæret 1H, Sylling",59.895755,10.308061
+2544973,"Skjæret 1G, Sylling",59.895714,10.308021
+2544974,"Skjæret 1F, Sylling",59.895671,10.307994
+2544975,"Skjæret 1E, Sylling",59.895626,10.307959
+2544976,"Skjæret 1D, Sylling",59.895503,10.30785
+2544977,"Skjæret 1C, Sylling",59.895461,10.307804
+2544978,"Skjæret 1B, Sylling",59.895415,10.30777
+2544979,"Skjæret 1A, Sylling",59.895372,10.307747
+2545117,"Fjulsrudveien 154, Sylling",59.963316,10.322585

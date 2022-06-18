@@ -1,0 +1,631 @@
+,Navn,Long,Lat
+267790,"Johan Castbergs gate 32, Gjøvik",60.787588,10.685666
+267791,"Johan Castbergs gate 30, Gjøvik",60.78745,10.686157
+267792,"Johan Castbergs gate 31, Gjøvik",60.78768,10.686371
+267794,"Johan Castbergs gate 2, Gjøvik",60.785879,10.693239
+270376,"Alf Mjøens veg 20, Gjøvik",60.785794,10.679971
+270380,"Alf Mjøens veg 16, Gjøvik",60.78594,10.680475
+270382,"Alf Mjøens veg 18, Gjøvik",60.785585,10.680162
+270384,"Alf Mjøens veg 12, Gjøvik",60.786058,10.681087
+270386,"Alf Mjøens veg 14, Gjøvik",60.785802,10.68078
+270484,"Alf Mjøens veg 8, Gjøvik",60.786762,10.6823
+270487,"Alf Mjøens veg 10, Gjøvik",60.786338,10.681671
+270489,"Alf Mjøens veg 4, Gjøvik",60.787525,10.683019
+270491,"Alf Mjøens veg 6, Gjøvik",60.787089,10.682684
+270493,"Alf Mjøens veg 2, Gjøvik",60.787858,10.682945
+270495,"Alf Mjøens veg 2B, Gjøvik",60.787829,10.683862
+270753,"Bakkegata 3, Gjøvik",60.795834,10.689244
+270754,"Bakkegata 4, Gjøvik",60.795743,10.688669
+270765,"Bakkegata 8A, Gjøvik",60.79617,10.687139
+270766,"Bakkegata 8B, Gjøvik",60.796239,10.686852
+270767,"Bakkegata 6, Gjøvik",60.795878,10.687206
+270792,"Askeladdvegen 9, Gjøvik",60.784708,10.684231
+270793,"Askeladdvegen 11, Gjøvik",60.784495,10.684036
+270794,"Askeladdvegen 5, Gjøvik",60.785107,10.684638
+270795,"Askeladdvegen 7, Gjøvik",60.784911,10.684462
+270796,"Askeladdvegen 2A, Gjøvik",60.785544,10.684329
+270797,"Askeladdvegen 3, Gjøvik",60.78532,10.684851
+270798,"Askeladdvegen 1, Gjøvik",60.785514,10.685118
+270799,"Askeladdvegen 2, Gjøvik",60.785641,10.684449
+270927,"Berghusvegen 12, Gjøvik",60.789479,10.683269
+270928,"Berghusvegen 14, Gjøvik",60.790074,10.683098
+270930,"Berghusvegen 10, Gjøvik",60.789611,10.683533
+270936,"Berghusvegen 16, Gjøvik",60.789573,10.680794
+271001,"Brennerigata 1, Gjøvik",60.792901,10.688961
+271244,"Teknologivegen 5, Hunn",60.786268,10.680143
+271246,"Teknologivegen 9, Hunn",60.786508,10.681037
+271247,"Teknologivegen 7, Hunn",60.786361,10.68057
+271248,"Teknologivegen 13, Hunn",60.787117,10.681859
+271249,"Teknologivegen 11, Hunn",60.786788,10.681603
+271280,"Chr. Michelsens gate 44, Gjøvik",60.789282,10.683957
+271298,"Teknologivegen 17, Hunn",60.787695,10.682312
+271299,"Teknologivegen 15, Hunn",60.78742,10.682077
+271301,"Teknologivegen 21, Hunn",60.788249,10.68258
+271306,"Chr. Michelsens gate 18, Gjøvik",60.787386,10.689773
+271307,"Chr. Michelsens gate 19, Gjøvik",60.78775,10.689406
+271308,"Chr. Michelsens gate 16, Gjøvik",60.787281,10.690263
+271309,"Chr. Michelsens gate 17A, Gjøvik",60.787606,10.69017
+271310,"Chr. Michelsens gate 15A, Gjøvik",60.787537,10.690662
+271311,"Chr. Michelsens gate 15B, Gjøvik",60.787567,10.690425
+271312,"Chr. Michelsens gate 13B, Gjøvik",60.78748,10.690916
+271313,"Chr. Michelsens gate 14, Gjøvik",60.787185,10.690772
+271314,"Chr. Michelsens gate 26, Gjøvik",60.787762,10.687698
+271315,"Chr. Michelsens gate 26B, Gjøvik",60.787748,10.687385
+271316,"Chr. Michelsens gate 24, Gjøvik",60.787673,10.688373
+271317,"Chr. Michelsens gate 25, Gjøvik",60.788002,10.687913
+271318,"Chr. Michelsens gate 22, Gjøvik",60.787596,10.688792
+271319,"Chr. Michelsens gate 23, Gjøvik",60.787894,10.688642
+271320,"Chr. Michelsens gate 20, Gjøvik",60.787519,10.68921
+271321,"Chr. Michelsens gate 21, Gjøvik",60.787828,10.688951
+271322,"Chr. Michelsens gate 33, Gjøvik",60.788477,10.685843
+271323,"Chr. Michelsens gate 34, Gjøvik",60.788324,10.685192
+271324,"Chr. Michelsens gate 31, Gjøvik",60.788291,10.686385
+271325,"Chr. Michelsens gate 32, Gjøvik",60.788074,10.685749
+271326,"Chr. Michelsens gate 29, Gjøvik",60.788194,10.686949
+271327,"Chr. Michelsens gate 30, Gjøvik",60.787958,10.686459
+271328,"Chr. Michelsens gate 27, Gjøvik",60.788098,10.687422
+271329,"Chr. Michelsens gate 28, Gjøvik",60.787886,10.687153
+271330,"Chr. Michelsens gate 41, Gjøvik",60.789263,10.684801
+271331,"Chr. Michelsens gate 43, Gjøvik",60.7895,10.684483
+271332,"Chr. Michelsens gate 39, Gjøvik",60.789034,10.685101
+271333,"Chr. Michelsens gate 40, Gjøvik",60.788853,10.684522
+271334,"Chr. Michelsens gate 37, Gjøvik",60.788852,10.68533
+271335,"Chr. Michelsens gate 38, Gjøvik",60.78867,10.68477
+271336,"Chr. Michelsens gate 35, Gjøvik",60.78866,10.685596
+271337,"Chr. Michelsens gate 36, Gjøvik",60.788488,10.684999
+271341,"Chr. Michelsens gate 12, Gjøvik",60.787051,10.691427
+271342,"Chr. Michelsens gate 13A, Gjøvik",60.787423,10.691152
+271343,"Chr. Michelsens gate 8, Gjøvik",60.786907,10.692135
+271344,"Chr. Michelsens gate 11, Gjøvik",60.787291,10.69166
+271345,"Chr. Michelsens gate 6, Gjøvik",60.786791,10.692791
+271346,"Chr. Michelsens gate 7, Gjøvik",60.787175,10.692241
+271348,"Chr. Michelsens gate 3, Gjøvik",60.78704,10.692988
+271523,"Fauchalds gate 7, Gjøvik",60.788925,10.695218
+271524,"Fauchalds gate 8, Gjøvik",60.788972,10.694302
+271525,"Fauchalds gate 4, Gjøvik",60.789586,10.694077
+271526,"Fauchalds gate 6, Gjøvik",60.78926,10.69428
+271527,"Fauchalds gate 1, Gjøvik",60.789876,10.694589
+271528,"Fauchalds gate 3, Gjøvik",60.78955,10.694792
+271531,"Fauchalds gate 16, Gjøvik",60.787987,10.694121
+271532,"Fauchalds gate 17, Gjøvik",60.787226,10.694669
+271533,"Fauchalds gate 14, Gjøvik",60.788237,10.694208
+271534,"Fauchalds gate 15, Gjøvik",60.787556,10.694815
+271535,"Fauchalds gate 12, Gjøvik",60.788479,10.694258
+271536,"Fauchalds gate 13, Gjøvik",60.787787,10.695011
+271537,"Fauchalds gate 10, Gjøvik",60.788757,10.694291
+271538,"Fauchalds gate 11, Gjøvik",60.78803,10.694969
+271541,"Fauchalds gate 24, Gjøvik",60.786594,10.69346
+271542,"Fauchalds gate 20A, Gjøvik",60.787304,10.69414
+271543,"Fauchalds gate 22, Gjøvik",60.787022,10.69374
+271544,"Fauchalds gate 18, Gjøvik",60.787719,10.694034
+271585,"Eventyrvegen 8A, Gjøvik",60.785118,10.682098
+271586,"Eventyrvegen 8B, Gjøvik",60.785168,10.681993
+271587,"Eventyrvegen 6B, Gjøvik",60.785071,10.682333
+271588,"Eventyrvegen 7, Gjøvik",60.784205,10.683507
+271589,"Eventyrvegen 5, Gjøvik",60.784145,10.683981
+271590,"Eventyrvegen 6A, Gjøvik",60.785019,10.682448
+271591,"Eventyrvegen 4A, Gjøvik",60.784921,10.68279
+271592,"Eventyrvegen 4B, Gjøvik",60.784969,10.682689
+271593,"Eventyrvegen 13B, Gjøvik",60.784666,10.68252
+271594,"Eventyrvegen 15, Gjøvik",60.784752,10.682158
+271595,"Eventyrvegen 12A, Gjøvik",60.785387,10.681435
+271596,"Eventyrvegen 13A, Gjøvik",60.78463,10.682592
+271597,"Eventyrvegen 10A, Gjøvik",60.785285,10.68179
+271598,"Eventyrvegen 11, Gjøvik",60.784501,10.682842
+271599,"Eventyrvegen 9, Gjøvik",60.784344,10.683183
+271600,"Eventyrvegen 10B, Gjøvik",60.785305,10.681727
+271603,"Eventyrvegen 23, Gjøvik",60.785191,10.680803
+271605,"Eventyrvegen 19A, Gjøvik",60.784995,10.681399
+271606,"Eventyrvegen 21, Gjøvik",60.785062,10.681072
+271607,"Eventyrvegen 17, Gjøvik",60.784845,10.68185
+271608,"Eventyrvegen 19, Gjøvik",60.784966,10.681508
+271641,"Eventyrvegen 2B, Gjøvik",60.784885,10.68301
+271642,"Eventyrvegen 3, Gjøvik",60.784105,10.684346
+271643,"Eventyrvegen 1, Gjøvik",60.784036,10.68482
+271644,"Eventyrvegen 2A, Gjøvik",60.784811,10.683171
+271728,"Glassverksgata 3, Gjøvik",60.795178,10.691414
+271729,"Glassverksgata 5, Gjøvik",60.795157,10.690972
+271900,"F. Hennigs gate 22, Gjøvik",60.784742,10.685096
+271901,"F. Hennigs gate 23, Gjøvik",60.784037,10.685445
+271902,"F. Hennigs gate 20, Gjøvik",60.784919,10.685271
+271903,"F. Hennigs gate 21, Gjøvik",60.784242,10.685603
+271904,"F. Hennigs gate 18, Gjøvik",60.785133,10.685447
+271905,"F. Hennigs gate 19, Gjøvik",60.784553,10.685839
+271906,"F. Hennigs gate 16A, Gjøvik",60.785354,10.685649
+271907,"F. Hennigs gate 17, Gjøvik",60.784802,10.686018
+271912,"F. Hennigs gate 26, Gjøvik",60.784333,10.684799
+271914,"F. Hennigs gate 24, Gjøvik",60.784546,10.684976
+271915,"F. Hennigs gate 25, Gjøvik",60.783767,10.685522
+271958,"Hans Nielsen Hauges gate 1, Gjøvik",60.785964,10.685711
+271959,"Hans Nielsen Hauges gate 2, Gjøvik",60.786365,10.68599
+271966,"Haralds gate 6, Gjøvik",60.790512,10.692564
+271967,"Haralds gate 7, Gjøvik",60.790359,10.693328
+271968,"Haralds gate 4, Gjøvik",60.790622,10.693121
+271969,"Haralds gate 5, Gjøvik",60.790502,10.694089
+271970,"Haralds gate 2, Gjøvik",60.791025,10.695347
+271971,"Haralds gate 3, Gjøvik",60.790602,10.694664
+271972,"Hans Nielsen Hauges gate 4, Gjøvik",60.786461,10.685517
+271973,"Haralds gate 1, Gjøvik",60.790751,10.695664
+271978,"Haralds gate 11, Gjøvik",60.790087,10.692083
+271979,"Haralds gate 13, Gjøvik",60.789895,10.69165
+271980,"Haralds gate 8, Gjøvik",60.790412,10.691971
+271981,"Haralds gate 9, Gjøvik",60.790265,10.692956
+271992,"Hammerstads gate 20, Gjøvik",60.785415,10.690863
+271993,"Hammerstads gate 22, Gjøvik",60.785114,10.69048
+271994,"Hammerstads gate 18, Gjøvik",60.785629,10.690966
+271995,"Hammerstads gate 19, Gjøvik",60.7855,10.691914
+271996,"Hammerstads gate 15, Gjøvik",60.787459,10.693285
+271997,"Hammerstads gate 16, Gjøvik",60.785875,10.69142
+272038,"Hammerstads gate 4, Gjøvik",60.789171,10.692806
+272039,"Hammerstads gate 6, Gjøvik",60.78887,10.693176
+272040,"Hammerstads gate 1, Gjøvik",60.789632,10.693253
+272041,"Hammerstads gate 3, Gjøvik",60.789342,10.693495
+272046,"Hammerstads gate 13, Gjøvik",60.788065,10.693593
+272047,"Hammerstads gate 14, Gjøvik",60.787585,10.692557
+272048,"Hammerstads gate 11, Gjøvik",60.788325,10.693662
+272049,"Hammerstads gate 12, Gjøvik",60.788155,10.692899
+272050,"Hammerstads gate 9A, Gjøvik",60.788535,10.693648
+272051,"Hammerstads gate 10, Gjøvik",60.788388,10.692948
+272052,"Hammerstads gate 7, Gjøvik",60.788819,10.693688
+272053,"Hammerstads gate 8, Gjøvik",60.788648,10.692999
+272070,"H. B. Falks gate 6, Gjøvik",60.788673,10.690263
+272071,"H. B. Falks gate 7, Gjøvik",60.786479,10.689045
+272072,"H. B. Falks gate 4, Gjøvik",60.788922,10.690478
+272073,"H. B. Falks gate 5, Gjøvik",60.788524,10.690678
+272074,"H. B. Falks gate 3, Gjøvik",60.788809,10.690913
+272075,"H. B. Falks gate 3B, Gjøvik",60.788635,10.691161
+272077,"H. B. Falks gate 1, Gjøvik",60.789004,10.69107
+272078,"H. B. Falks gate 17, Gjøvik",60.784923,10.688559
+272080,"H. B. Falks gate 15, Gjøvik",60.785211,10.688501
+272081,"H. B. Falks gate 16, Gjøvik",60.785403,10.687482
+272082,"H. B. Falks gate 12, Gjøvik",60.78601,10.687808
+272083,"H. B. Falks gate 13, Gjøvik",60.785541,10.688647
+272084,"H. B. Falks gate 9, Gjøvik",60.786176,10.688919
+272085,"H. B. Falks gate 11, Gjøvik",60.785836,10.688754
+272190,"F. Hennigs gate 5, Gjøvik",60.786811,10.68763
+272191,"F. Hennigs gate 6, Gjøvik",60.78689,10.687119
+272192,"F. Hennigs gate 3, Gjøvik",60.788886,10.689741
+272193,"F. Hennigs gate 4, Gjøvik",60.788947,10.68923
+272195,"F. Hennigs gate 1, Gjøvik",60.789089,10.690009
+272198,"F. Hennigs gate 14, Gjøvik",60.785515,10.685725
+272199,"F. Hennigs gate 15A, Gjøvik",60.785042,10.686131
+272200,"F. Hennigs gate 12, Gjøvik",60.785922,10.686224
+272201,"F. Hennigs gate 13, Gjøvik",60.785371,10.686452
+272202,"F. Hennigs gate 10, Gjøvik",60.786251,10.686498
+272203,"F. Hennigs gate 11, Gjøvik",60.785789,10.686804
+272204,"F. Hennigs gate 7A, Gjøvik",60.786442,10.687294
+272205,"F. Hennigs gate 9, Gjøvik",60.78618,10.687101
+272212,"Johan Castbergs gate 12, Gjøvik",60.786411,10.690934
+272213,"Johan Castbergs gate 13, Gjøvik",60.78666,10.691112
+272214,"Johan Castbergs gate 8, Gjøvik",60.786167,10.691711
+272215,"Johan Castbergs gate 9, Gjøvik",60.786487,10.692003
+272216,"Johan Castbergs gate 6, Gjøvik",60.786115,10.692296
+272217,"Johan Castbergs gate 7, Gjøvik",60.786471,10.692572
+272218,"Johan Castbergs gate 4, Gjøvik",60.785991,10.692877
+272219,"Johan Castbergs gate 5, Gjøvik",60.78624,10.693037
+272220,"Johan Castbergs gate 20, Gjøvik",60.786897,10.688718
+272221,"Johan Castbergs gate 21, Gjøvik",60.787137,10.688914
+272222,"Johan Castbergs gate 18, Gjøvik",60.786782,10.689245
+272223,"Johan Castbergs gate 19, Gjøvik",60.787066,10.689517
+272224,"Johan Castbergs gate 16, Gjøvik",60.78666,10.689698
+272225,"Johan Castbergs gate 17, Gjøvik",60.786917,10.68995
+272226,"Johan Castbergs gate 14, Gjøvik",60.786534,10.690407
+272227,"Johan Castbergs gate 15, Gjøvik",60.786794,10.690439
+272228,"Johan Castbergs gate 28, Gjøvik",60.787317,10.686683
+272229,"Johan Castbergs gate 29, Gjøvik",60.787575,10.68688
+272230,"Johan Castbergs gate 26, Gjøvik",60.787221,10.687192
+272231,"Johan Castbergs gate 27, Gjøvik",60.787461,10.687407
+272232,"Johan Castbergs gate 24, Gjøvik",60.787078,10.687864
+272233,"Johan Castbergs gate 25, Gjøvik",60.787345,10.688062
+272234,"Johan Castbergs gate 22, Gjøvik",60.786966,10.688207
+272235,"Johan Castbergs gate 23, Gjøvik",60.787223,10.68846
+272284,"Haakons gate 6, Gjøvik",60.790112,10.694381
+272285,"Haakons gate 8, Gjøvik",60.789996,10.69364
+272286,"Haakons gate 2, Gjøvik",60.790399,10.69581
+272287,"Haakons gate 4A, Gjøvik",60.790231,10.69492
+272292,"Haakons gate 25, Gjøvik",60.789781,10.686463
+272294,"Haakons gate 16, Gjøvik",60.78954,10.691319
+272295,"Haakons gate 22, Gjøvik",60.789785,10.687511
+272296,"Haakons gate 14A, Gjøvik",60.789649,10.691931
+272297,"Haakons gate 14B, Gjøvik",60.789802,10.691902
+272298,"Haakons gate 10, Gjøvik",60.78991,10.693304
+272299,"Haakons gate 12, Gjøvik",60.789805,10.692362
+272413,"Johan Castbergs gate 43, Gjøvik",60.788506,10.684247
+272414,"Johan Castbergs gate 44, Gjøvik",60.788568,10.683625
+272415,"Johan Castbergs gate 41, Gjøvik",60.788332,10.684513
+272416,"Johan Castbergs gate 42, Gjøvik",60.788385,10.683891
+272417,"Johan Castbergs gate 39, Gjøvik",60.788159,10.684743
+272418,"Johan Castbergs gate 40, Gjøvik",60.788166,10.684155
+272419,"Johan Castbergs gate 36, Gjøvik",60.787773,10.684704
+272420,"Johan Castbergs gate 38, Gjøvik",60.78795,10.684199
+272423,"Johan Castbergs gate 49, Gjøvik",60.789136,10.683416
+272424,"Johan Castbergs gate 50, Gjøvik",60.789152,10.682866
+272425,"Johan Castbergs gate 47, Gjøvik",60.788935,10.6837
+272426,"Johan Castbergs gate 48, Gjøvik",60.788997,10.683078
+272427,"Johan Castbergs gate 45, Gjøvik",60.788698,10.684
+272428,"Johan Castbergs gate 46, Gjøvik",60.788805,10.683344
+272445,"Johan Castbergs gate 34, Gjøvik",60.78766,10.685139
+272446,"Johan Castbergs gate 35, Gjøvik",60.787945,10.685283
+272447,"Johan Castbergs gate 33, Gjøvik",60.787803,10.685882
+272513,"Kallerudbakken 1, Gjøvik",60.788078,10.683306
+272520,"Kallerudvegen 4, Gjøvik",60.785204,10.686921
+272521,"Kallerudvegen 7, Gjøvik",60.786054,10.685055
+272522,"Kallerudvegen 2A, Gjøvik",60.784598,10.688652
+272523,"Kallerudvegen 3, Gjøvik",60.785633,10.687072
+272524,"Kallerudvegen 2, Gjøvik",60.785047,10.68728
+272525,"Kallerudbakken 3, Gjøvik",60.788314,10.683116
+272526,"Kallerudbakken 5, Gjøvik",60.788625,10.682673
+272533,"Kallerudvegen 10A, Gjøvik",60.785444,10.682116
+272534,"Kallerudvegen 10B, Gjøvik",60.785611,10.68222
+272549,"Jonas Lies gate 22, Gjøvik",60.784907,10.689146
+272574,"Jonas Lies gate 8, Gjøvik",60.78835,10.691716
+272575,"Jonas Lies gate 9, Gjøvik",60.788243,10.692335
+272576,"Jonas Lies gate 6, Gjøvik",60.7886,10.691821
+272577,"Jonas Lies gate 7, Gjøvik",60.788494,10.692403
+272578,"Jonas Lies gate 4, Gjøvik",60.788942,10.69171
+272579,"Jonas Lies gate 5A, Gjøvik",60.788745,10.692398
+272580,"Jonas Lies gate 3, Gjøvik",60.78907,10.692268
+272581,"Jonas Lies gate 3B, Gjøvik",60.78892,10.692774
+272582,"Jonas Lies gate 13B, Gjøvik",60.786033,10.690987
+272583,"Jonas Lies gate 13, Gjøvik",60.7861,10.690678
+272584,"Jonas Lies gate 10C, Gjøvik",60.787714,10.690819
+272585,"Jonas Lies gate 10D, Gjøvik",60.787753,10.690563
+272586,"Jonas Lies gate 10A, Gjøvik",60.787618,10.69131
+272587,"Jonas Lies gate 10B, Gjøvik",60.787666,10.691055
+272588,"Jonas Lies gate 21, Gjøvik",60.784841,10.690043
+272589,"Jonas Lies gate 19, Gjøvik",60.785245,10.690119
+272590,"Jonas Lies gate 20, Gjøvik",60.785229,10.6892
+272591,"Jonas Lies gate 17, Gjøvik",60.785512,10.69028
+272592,"Jonas Lies gate 18, Gjøvik",60.785479,10.689323
+272593,"Jonas Lies gate 15, Gjøvik",60.785815,10.69048
+272594,"Jonas Lies gate 16, Gjøvik",60.785747,10.689429
+272619,"Jonas Lies gate 1, Gjøvik",60.789397,10.69201
+272620,"Jonas Lies gate 2, Gjøvik",60.789295,10.69149
+272867,"Nedre Torvgate 1, Gjøvik",60.796043,10.689788
+273068,"Lundsgate 21, Gjøvik",60.788433,10.690067
+273069,"Lundsgate 22, Gjøvik",60.788098,10.689176
+273070,"Lundsgate 19, Gjøvik",60.788319,10.690538
+273071,"Lundsgate 20, Gjøvik",60.788078,10.689717
+273072,"Lundsgate 18A, Gjøvik",60.787979,10.690465
+273073,"Lundsgate 18C, Gjøvik",60.787821,10.6902
+273074,"Lundsgate 16B, Gjøvik",60.78794,10.69072
+273075,"Lundsgate 17, Gjøvik",60.788187,10.691064
+273076,"Lundsgate 30, Gjøvik",60.788498,10.687075
+273077,"Lundsgate 31, Gjøvik",60.78902,10.686956
+273078,"Lundsgate 27, Gjøvik",60.788624,10.688442
+273079,"Lundsgate 28, Gjøvik",60.788454,10.687679
+273080,"Lundsgate 25, Gjøvik",60.788547,10.688878
+273081,"Lundsgate 26, Gjøvik",60.788332,10.688151
+273082,"Lundsgate 23, Gjøvik",60.788494,10.6895
+273083,"Lundsgate 24, Gjøvik",60.788188,10.688859
+273084,"Lundsgate 38, Gjøvik",60.789172,10.685568
+273085,"Lundsgate 39, Gjøvik",60.789817,10.68573
+273086,"Lundsgate 36, Gjøvik",60.789007,10.685853
+273087,"Lundsgate 37, Gjøvik",60.789617,10.68594
+273088,"Lundsgate 34, Gjøvik",60.788824,10.686137
+273089,"Lundsgate 35, Gjøvik",60.789324,10.686329
+273090,"Lundsgate 32, Gjøvik",60.788658,10.686441
+273091,"Lundsgate 33, Gjøvik",60.789195,10.686579
+273094,"Lundsgate 44, Gjøvik",60.7898,10.684884
+273096,"Lundsgate 42, Gjøvik",60.789592,10.685057
+273097,"Lundsgate 43, Gjøvik",60.790258,10.685643
+273098,"Lundsgate 40, Gjøvik",60.789418,10.685268
+273099,"Lundsgate 41, Gjøvik",60.790033,10.685686
+273116,"Lundsgate 5, Gjøvik",60.787345,10.695851
+273117,"Lundsgate 6, Gjøvik",60.787015,10.695742
+273124,"Lundsgate 14B, Gjøvik",60.787844,10.691211
+273125,"Lundsgate 16A, Gjøvik",60.787892,10.690975
+273126,"Lundsgate 13, Gjøvik",60.788029,10.692195
+273127,"Lundsgate 14A, Gjøvik",60.787805,10.691448
+273128,"Lundsgate 9, Gjøvik",60.787825,10.69347
+273129,"Lundsgate 11, Gjøvik",60.787932,10.692777
+273130,"Lundsgate 7, Gjøvik",60.787424,10.695341
+273131,"Lundsgate 8, Gjøvik",60.787165,10.69518
+273540,"Olavs gate 3, Gjøvik",60.790958,10.692827
+273541,"Olavs gate 4, Gjøvik",60.791527,10.693978
+273542,"Olavs gate 1, Gjøvik",60.791351,10.695107
+273543,"Olavs gate 2, Gjøvik",60.791669,10.694849
+273550,"Olavs gate 8, Gjøvik",60.791215,10.692363
+273552,"Olavs gate 6B, Gjøvik",60.791418,10.693329
+273553,"Olavs gate 7, Gjøvik",60.790826,10.691846
+273554,"Olavs gate 5, Gjøvik",60.790866,10.692271
+273555,"Olavs gate 6, Gjøvik",60.791459,10.693643
+274132,"Sommerfeldts gate 3, Gjøvik",60.794955,10.689216
+274133,"Sommerfeldts gate 5, Gjøvik",60.795158,10.688767
+274257,"Storgata 3, Gjøvik",60.795677,10.691018
+274258,"Storgata 4, Gjøvik",60.795441,10.691208
+274259,"Storgata 1A, Gjøvik",60.796104,10.692051
+274260,"Storgata 2, Gjøvik",60.79611,10.693025
+274262,"Storgata 1, Gjøvik",60.796431,10.692954
+274265,"Storgata 14, Gjøvik",60.794578,10.689141
+274266,"Storgata 16, Gjøvik",60.794465,10.688841
+274267,"Storgata 10, Gjøvik",60.794816,10.690219
+274268,"Storgata 12, Gjøvik",60.794806,10.689612
+274269,"Storgata 7, Gjøvik",60.795411,10.690067
+274270,"Storgata 8, Gjøvik",60.795197,10.690607
+274271,"Storgata 5, Gjøvik",60.795432,10.690527
+274272,"Storgata 6, Gjøvik",60.795337,10.690945
+274275,"Storgata 24, Gjøvik",60.793822,10.687117
+274277,"Storgata 20, Gjøvik",60.794154,10.687906
+274278,"Storgata 23, Gjøvik",60.794377,10.687311
+274279,"Storgata 18A, Gjøvik",60.794363,10.688431
+274280,"Storgata 19, Gjøvik",60.794518,10.688201
+274285,"Strandgata 16, Gjøvik",60.792501,10.694323
+274286,"Strandgata 17A, Gjøvik",60.794958,10.693902
+274287,"Strandgata 11D, Gjøvik",60.793028,10.695288
+274288,"Strandgata 15, Gjøvik",60.794434,10.69415
+274443,"Tyrihansvegen 3, Gjøvik",60.786563,10.683134
+274468,"Tyrihansvegen 1, Gjøvik",60.786619,10.682917
+274469,"Tyrihansvegen 2, Gjøvik",60.786992,10.683267
+274644,"Tyrihansvegen 15, Gjøvik",60.78662,10.684993
+274646,"Tyrihansvegen 9, Gjøvik",60.78639,10.68397
+274647,"Tyrihansvegen 10, Gjøvik",60.786772,10.684339
+274648,"Tårnvegen 5, Gjøvik",60.78449,10.686571
+274649,"Tårnvegen 6A, Gjøvik",60.784392,10.687296
+274650,"Tårnvegen 3, Gjøvik",60.784664,10.686984
+274651,"Tårnvegen 4, Gjøvik",60.78445,10.687634
+274652,"Tårnvegen 1, Gjøvik",60.784794,10.687395
+274653,"Tårnvegen 2, Gjøvik",60.784631,10.688195
+274656,"Tårnvegen 8C, Gjøvik",60.784128,10.686628
+274657,"Tårnvegen 10, Gjøvik",60.784009,10.686288
+274658,"Tårnvegen 8A, Gjøvik",60.784219,10.686777
+274659,"Tårnvegen 8B, Gjøvik",60.784174,10.686699
+274660,"Tårnvegen 6B, Gjøvik",60.784343,10.68722
+274661,"Tårnvegen 6C, Gjøvik",60.784301,10.687145
+274666,"Tyrihansvegen 7, Gjøvik",60.786456,10.683735
+274667,"Tyrihansvegen 8, Gjøvik",60.786818,10.684232
+274668,"Tyrihansvegen 5, Gjøvik",60.786496,10.683425
+274669,"Tyrihansvegen 6, Gjøvik",60.786887,10.683794
+274670,"Tyrihansvegen 4, Gjøvik",60.786944,10.68354
+274888,"Øvre Torvgate 8, Gjøvik",60.794329,10.686114
+274889,"Øvre Torvgate 9, Gjøvik",60.796291,10.688606
+274890,"Øvre Torvgate 5, Gjøvik",60.7959,10.688196
+274891,"Øvre Torvgate 7, Gjøvik",60.796022,10.688386
+274893,"Øvre Torvgate 2, Gjøvik",60.793976,10.68492
+274897,"Øvre Torvgate 22, Gjøvik",60.795303,10.687195
+274899,"Øvre Torvgate 20, Gjøvik",60.795126,10.686974
+274900,"Øvre Torvgate 16, Gjøvik",60.794941,10.686716
+274901,"Øvre Torvgate 18, Gjøvik",60.795028,10.686904
+274902,"Øvre Torvgate 14A, Gjøvik",60.794524,10.686345
+274903,"Øvre Torvgate 14B, Gjøvik",60.794683,10.686537
+274907,"Øvre Torvgate 24B, Gjøvik",60.79598,10.687689
+274908,"Øvre Torvgate 28, Gjøvik",60.796326,10.688232
+274909,"Øvre Torvgate 24, Gjøvik",60.79557,10.687392
+274910,"Øvre Torvgate 24A, Gjøvik",60.795664,10.687085
+274912,"Øvre Gjøviks veg 1, Gjøvik",60.788238,10.695604
+274913,"Øvre Gjøviks veg 2, Gjøvik",60.787852,10.695566
+274924,"Øvre Gjøviks veg 5, Gjøvik",60.788332,10.696675
+274925,"Øvre Gjøviks veg 6, Gjøvik",60.787953,10.69682
+274926,"Øvre Gjøviks veg 3, Gjøvik",60.788241,10.696082
+274927,"Øvre Gjøviks veg 4, Gjøvik",60.787853,10.69619
+275310,"Egers gate 4, Gjøvik",60.78863,10.69579
+275311,"Egers gate 5, Gjøvik",60.789065,10.696218
+275312,"Egers gate 2, Gjøvik",60.788509,10.695435
+275313,"Egers gate 3, Gjøvik",60.789265,10.696008
+275324,"Egers gate 6, Gjøvik",60.788697,10.696235
+275377,"Parkgata 12, Gjøvik",60.795156,10.695345
+275564,"Storgata 15, Gjøvik",60.794856,10.688494
+275565,"Storgata 11, Gjøvik",60.795032,10.689459
+275567,"Storgata 9, Gjøvik",60.7952,10.689725
+275579,"Sigurd Solheims veg 4A, Gjøvik",60.784304,10.68849
+275580,"Sigurd Solheims veg 6, Gjøvik",60.784045,10.68765
+275587,"Studievegen 7, Hunn",60.786751,10.677394
+275588,"Studievegen 15, Hunn",60.787284,10.677863
+275589,"Studievegen 3, Hunn",60.786299,10.678326
+275590,"Studievegen 5, Hunn",60.786617,10.678049
+275591,"Sigurd Solheims veg 12, Gjøvik",60.783594,10.686377
+275592,"Sigurd Solheims veg 14, Gjøvik",60.783699,10.685941
+275593,"Sigurd Solheims veg 8, Gjøvik",60.78388,10.687255
+275594,"Sigurd Solheims veg 10, Gjøvik",60.783741,10.686862
+275599,"Studievegen 8, Hunn",60.787284,10.67575
+275600,"Merkantilvegen 8, Hunn",60.786096,10.675192
+275601,"Teknologivegen 12, Hunn",60.787092,10.678845
+275602,"Teknologivegen 22, Hunn",60.788818,10.680883
+275762,"Bakkegata 1, Gjøvik",60.795659,10.68962
+275859,"Fauchalds gate 21, Gjøvik",60.786538,10.694339
+275909,"Merkantilvegen 43, Hunn",60.787562,10.673597
+275910,"Merkantilvegen 41, Hunn",60.787692,10.673935
+275911,"Merkantilvegen 45, Hunn",60.787664,10.673309
+275912,"Merkantilvegen 59, Hunn",60.787341,10.673273
+275913,"Merkantilvegen 57, Hunn",60.78742,10.673503
+275914,"Merkantilvegen 47, Hunn",60.787712,10.673072
+275917,"Øvre Torvgate 3, Gjøvik",60.795563,10.68798
+275919,"Merkantilvegen 23, Hunn",60.787221,10.673561
+275920,"Merkantilvegen 31, Hunn",60.786979,10.674265
+275921,"Merkantilvegen 29, Hunn",60.787016,10.674157
+275922,"Merkantilvegen 27, Hunn",60.787126,10.673997
+275923,"Merkantilvegen 25, Hunn",60.787209,10.673799
+275924,"Merkantilvegen 33, Hunn",60.787294,10.674189
+275925,"Merkantilvegen 39, Hunn",60.787627,10.67417
+275926,"Merkantilvegen 37, Hunn",60.787526,10.674348
+275927,"Merkantilvegen 35, Hunn",60.787382,10.674359
+275928,"Merkantilvegen 7, Hunn",60.78664,10.674762
+275933,"Merkantilvegen 11, Hunn",60.786772,10.674309
+275934,"Merkantilvegen 9, Hunn",60.786698,10.674452
+275935,"Merkantilvegen 17, Hunn",60.786966,10.673823
+275936,"Merkantilvegen 15, Hunn",60.786875,10.673984
+275937,"Merkantilvegen 13, Hunn",60.786836,10.674166
+275938,"Merkantilvegen 21, Hunn",60.787107,10.673371
+275939,"Merkantilvegen 19, Hunn",60.787015,10.673514
+275958,"Eventyrvegen 12B, Gjøvik",60.785408,10.681365
+275959,"Merkantilvegen 49, Hunn",60.787459,10.673723
+275961,"Øvre Torvgate 10, Gjøvik",60.794399,10.686247
+275962,"Fauchalds gate 27B, Gjøvik",60.786233,10.694323
+275963,"Fauchalds gate 25B, Gjøvik",60.786396,10.694767
+275964,"Fauchalds gate 27A, Gjøvik",60.78627,10.694288
+275965,"Fauchalds gate 25A, Gjøvik",60.786341,10.694815
+278983,"Teknologivegen 20, Hunn",60.788411,10.681119
+279141,"Brufosstien 2, Hunn",60.790325,10.679602
+279145,"Merkantilvegen 10, Hunn",60.786238,10.674649
+279192,"Teknologivegen 24, Hunn",60.788503,10.680242
+279684,"Kauffeldts plass 2, Gjøvik",60.795296,10.692027
+279696,"Storgata 2A, Gjøvik",60.795964,10.692485
+279697,"Storgata 25, Gjøvik",60.794091,10.687186
+279722,"Haakons gate 19, Gjøvik",60.789308,10.688331
+279731,"Tyrihansvegen 13, Gjøvik",60.786408,10.684743
+279734,"Vestre Totenveg 29, Gjøvik",60.784566,10.689128
+279739,"Merkantilvegen 14, Hunn",60.786591,10.673638
+279781,"Kauffeldts plass 3, Gjøvik",60.795663,10.692836
+279812,"Øvre Torvgate 26, Gjøvik",60.796119,10.688009
+279880,"Merkantilvegen 18, Hunn",60.787156,10.672327
+279882,"Merkantilvegen 20, Hunn",60.787284,10.672076
+280105,"Strandgata 3, Gjøvik",60.792127,10.696146
+280194,"H. B. Falks gate 5B, Gjøvik",60.78842,10.69115
+280247,"Parkgata 15, Gjøvik",60.793076,10.695732
+280256,"Lundsgate 3, Gjøvik",60.787517,10.696521
+280257,"Lundsgate 4, Gjøvik",60.786619,10.695758
+280259,"Lundsgate 1D, Gjøvik",60.787317,10.696713
+280260,"Lundsgate 2, Gjøvik",60.786783,10.696299
+280262,"Lundsgate 1B, Gjøvik",60.787182,10.696724
+280263,"Lundsgate 1C, Gjøvik",60.787245,10.696709
+280265,"Lundsgate 1A, Gjøvik",60.787119,10.696703
+280267,"Fahlstrøms plass 3, Gjøvik",60.796299,10.690169
+280293,"Parkgata 2, Gjøvik",60.79566,10.693828
+280303,"Strandgata 13A, Gjøvik",60.793385,10.694774
+280322,"Strandgata 13C, Gjøvik",60.793899,10.694617
+280333,"Hammerstads gate 5, Gjøvik",60.789124,10.693667
+280338,"Parkgata 3, Gjøvik",60.795375,10.694365
+280513,"Parkgata 16, Gjøvik",60.794014,10.696185
+280517,"Fauchalds gate 5B, Gjøvik",60.789187,10.695067
+280560,"Fauchalds gate 5A, Gjøvik",60.789375,10.695113
+280591,"Brennerigata 3, Gjøvik",60.793301,10.689331
+280615,"Fauchalds gate 26, Gjøvik",60.786261,10.693516
+280631,"Teknologivegen 14, Hunn",60.787833,10.679455
+280634,"Brufosstien 1, Hunn",60.790328,10.678453
+280923,"Teknologivegen 18, Hunn",60.787999,10.680307
+280926,"Teknologivegen 16, Hunn",60.787786,10.680131
+280951,"Merkantilvegen 12, Hunn",60.786434,10.674034
+281086,"Elvegata 6, Gjøvik",60.794882,10.697775
+281227,"Storgata 21B, Gjøvik",60.79457,10.687634
+281230,"Storgata 21A, Gjøvik",60.79439,10.688001
+281350,"Askeladdvegen 4B, Gjøvik",60.785286,10.684007
+281351,"Askeladdvegen 4A, Gjøvik",60.785405,10.684113
+281460,"Askeladdvegen 10B, Gjøvik",60.784724,10.683467
+281462,"Askeladdvegen 8B, Gjøvik",60.78483,10.683573
+281463,"Askeladdvegen 8A, Gjøvik",60.784771,10.6835
+281465,"Askeladdvegen 10A, Gjøvik",60.784664,10.683392
+281501,"Lundsgate 10, Gjøvik",60.787361,10.693868
+281502,"Kallerudvegen 8A, Gjøvik",60.785367,10.68326
+281509,"Kallerudvegen 12A, Gjøvik",60.785835,10.682515
+281510,"Kallerudvegen 12B, Gjøvik",60.785962,10.682705
+281513,"Kallerudvegen 6B, Gjøvik",60.785598,10.683557
+281515,"Kallerudvegen 8B, Gjøvik",60.78524,10.683073
+281516,"Kallerudvegen 6A, Gjøvik",60.785747,10.683644
+281547,"Fauchalds gate 23B, Gjøvik",60.786458,10.695136
+281550,"Fauchalds gate 23A, Gjøvik",60.78651,10.695127
+281553,"Fauchalds gate 20B, Gjøvik",60.787215,10.694117
+281581,"Lundsgate 15A, Gjøvik",60.788099,10.691647
+281582,"Lundsgate 15B, Gjøvik",60.788101,10.691519
+281590,"Askeladdvegen 6B, Gjøvik",60.785027,10.683844
+281591,"Askeladdvegen 6A, Gjøvik",60.78508,10.683901
+281627,"Storgata 17, Gjøvik",60.794606,10.688389
+281731,"Niels Ødegaards gate 2A, Gjøvik",60.792625,10.693099
+281860,"Lundsgate 12C, Gjøvik",60.78768,10.692084
+281861,"Lundsgate 12D, Gjøvik",60.787636,10.692045
+281862,"Lundsgate 12A, Gjøvik",60.78768,10.692084
+281863,"Lundsgate 12B, Gjøvik",60.787636,10.692045
+281877,"Studievegen 2, Hunn",60.785819,10.677254
+282006,"Niels Ødegaards gate 2B, Gjøvik",60.792541,10.692635
+282017,"Teknologivegen 19, Hunn",60.788007,10.68253
+282026,"Niels Ødegaards gate 9, Gjøvik",60.793314,10.691387
+282027,"Haakons gate 17, Gjøvik",60.788759,10.68775
+282028,"Niels Ødegaards gate 5, Gjøvik",60.793255,10.692268
+282029,"Niels Ødegaards gate 7, Gjøvik",60.793065,10.690917
+282030,"Niels Ødegaards gate 3, Gjøvik",60.793035,10.691871
+282031,"Niels Ødegaards gate 8, Gjøvik",60.79175,10.689139
+282032,"Christies gate 5, Gjøvik",60.789568,10.696207
+282033,"Christies gate 3, Gjøvik",60.789727,10.6964
+282034,"Haakons gate 7A, Gjøvik",60.789485,10.69264
+282035,"Christies gate 8, Gjøvik",60.789577,10.695491
+282036,"Haakons gate 11, Gjøvik",60.78916,10.689388
+282037,"Haakons gate 9, Gjøvik",60.789171,10.690693
+282038,"Haakons gate 15, Gjøvik",60.788844,10.688122
+282039,"Haakons gate 13, Gjøvik",60.789042,10.688757
+282042,"Christies gate 6, Gjøvik",60.790336,10.695146
+282043,"Christies gate 2, Gjøvik",60.790607,10.694995
+282044,"Christies gate 1, Gjøvik",60.789956,10.696026
+282045,"Christies gate 4, Gjøvik",60.79048,10.695135
+282046,"Haakons gate 3, Gjøvik",60.789894,10.695306
+282047,"Haakons gate 1, Gjøvik",60.790111,10.695887
+282216,"Strandgata 6, Gjøvik",60.79188,10.693776
+282217,"Strandgata 8, Gjøvik",60.791808,10.693288
+282219,"Strandgata 4, Gjøvik",60.792024,10.694463
+282230,"Strandgata 10, Gjøvik",60.79206,10.69302
+282231,"Strandgata 12, Gjøvik",60.792187,10.69359
+282262,"Kauffeldts plass 1, Gjøvik",60.794774,10.692375
+282272,"Hammerstads gate 17B, Gjøvik",60.785754,10.69246
+282275,"Hammerstads gate 17A, Gjøvik",60.785848,10.692116
+282277,"Peer Gynts veg 2, Gjøvik",60.786267,10.688042
+282278,"Peer Gynts veg 1, Gjøvik",60.78655,10.688406
+282319,"Peer Gynts veg 13, Gjøvik",60.78749,10.684377
+282320,"Peer Gynts veg 12, Gjøvik",60.786903,10.68532
+282321,"Peer Gynts veg 16, Gjøvik",60.787124,10.684229
+282322,"Peer Gynts veg 14, Gjøvik",60.787064,10.684685
+282324,"Peer Gynts veg 18, Gjøvik",60.787209,10.683848
+282327,"Peer Gynts veg 4, Gjøvik",60.786371,10.687625
+282328,"Peer Gynts veg 3, Gjøvik",60.786752,10.688049
+282329,"Peer Gynts veg 6, Gjøvik",60.786561,10.686808
+282330,"Peer Gynts veg 5, Gjøvik",60.787068,10.686486
+282331,"Peer Gynts veg 8, Gjøvik",60.786722,10.686192
+282332,"Peer Gynts veg 7, Gjøvik",60.787164,10.685995
+282333,"Peer Gynts veg 11, Gjøvik",60.787349,10.684866
+282334,"Peer Gynts veg 10, Gjøvik",60.786808,10.685756
+282545,"Brenneribakken 3, Gjøvik",60.794413,10.689463
+282592,"Nedre Torvgate 4, Gjøvik",60.795781,10.689939
+282595,"H. B. Falks gate 14B, Gjøvik",60.78561,10.687911
+282598,"H. B. Falks gate 14A, Gjøvik",60.785651,10.687544
+282601,"Peer Gynts veg 9A, Gjøvik",60.787206,10.685478
+282602,"Peer Gynts veg 9B, Gjøvik",60.78726,10.685541
+282619,"Nedre Torvgate 22, Gjøvik",60.794578,10.686991
+282620,"Nedre Torvgate 18, Gjøvik",60.794972,10.687802
+282625,"Nedre Torvgate 9, Gjøvik",60.795529,10.688548
+282626,"Nedre Torvgate 3, Gjøvik",60.795947,10.689599
+282627,"Nedre Torvgate 10, Gjøvik",60.795276,10.688608
+282628,"Nedre Torvgate 6A, Gjøvik",60.795516,10.689103
+282629,"Nedre Torvgate 12, Gjøvik",60.795164,10.68829
+282630,"Nedre Torvgate 8, Gjøvik",60.795371,10.688925
+282631,"Nedre Torvgate 16, Gjøvik",60.795051,10.68799
+282632,"Nedre Torvgate 14, Gjøvik",60.794912,10.688332
+282648,"Fahlstrøms plass 1, Gjøvik",60.795926,10.69048
+282704,"Storgata 18B, Gjøvik",60.794246,10.688154
+282946,"Hammerstads gate 20B, Gjøvik",60.78531,10.691073
+282976,"Tongabakken 4, Gjøvik",60.789073,10.684203
+855215,"F. Hennigs gate 15B, Gjøvik",60.785011,10.686282
+1645585,"F. Hennigs gate 7B, Gjøvik",60.786462,10.687421
+1650128,"Elvegata 2, Gjøvik",60.794357,10.694562
+1783493,"Haakons gate 7B, Gjøvik",60.789449,10.692554
+1820364,"F. Hennigs gate 16B, Gjøvik",60.785271,10.685581
+1845638,"Nedre Torvgate 6B, Gjøvik",60.795446,10.688947
+1875657,"Merkantilvegen 61, Hunn",60.787297,10.672768
+1875658,"Merkantilvegen 63, Hunn",60.78756,10.671973
+1891151,"Studievegen 16, Hunn",60.78824,10.678061
+1891153,"Teknologivegen 26, Hunn",60.789116,10.680146
+1932363,"Hammerstads gate 9B, Gjøvik",60.788596,10.69379
+1968231,"Studievegen 11, Hunn",60.786519,10.676369
+1989169,"Studievegen 17, Hunn",60.787501,10.677824
+1993256,"Parkgata 18, Gjøvik",60.793715,10.696302
+1996433,"Jonas Lies gate 5B, Gjøvik",60.788661,10.69267
+2094695,"Sigurd Solheims veg 4B, Gjøvik",60.784099,10.688037
+2102012,"Øvre Torvgate 20A, Gjøvik",60.795107,10.687048
+2102015,"Øvre Torvgate 20B, Gjøvik",60.795113,10.686857
+2102018,"Øvre Torvgate 20C, Gjøvik",60.795206,10.686646
+2102020,"Øvre Torvgate 20D, Gjøvik",60.795256,10.686698
+2196493,"Fauchalds gate 19B, Gjøvik",60.786816,10.694809
+2198663,"Fauchalds gate 19A, Gjøvik",60.786887,10.694467
+2256618,"Niels Ødegaards gate 6A, Gjøvik",60.792228,10.691057
+2256619,"Niels Ødegaards gate 6B, Gjøvik",60.791884,10.690818
+2256620,"Niels Ødegaards gate 6C, Gjøvik",60.791728,10.690769
+2264161,"Jonas Lies gate 12A, Gjøvik",60.786252,10.69012
+2264166,"Jonas Lies gate 14A, Gjøvik",60.78599,10.68991
+2264214,"Jonas Lies gate 14B, Gjøvik",60.786032,10.689609
+2264216,"Jonas Lies gate 12B, Gjøvik",60.786317,10.68979
+2369189,"Strandgata 20D, Gjøvik",60.793145,10.693924
+2369328,"Strandgata 20E, Gjøvik",60.793161,10.693877
+2369331,"Strandgata 20C, Gjøvik",60.793177,10.694127
+2369332,"Strandgata 20B, Gjøvik",60.793215,10.694312
+2369351,"Strandgata 20A, Gjøvik",60.793255,10.694444
+2384198,"Merkantilvegen 6, Hunn",60.7861,10.672662
+2467736,"Brenneribakken 2, Gjøvik",60.794044,10.688837
+2546000,"Brenneribakken 1, Gjøvik",60.793983,10.689385
+2546002,"Brenneribakken 4, Gjøvik",60.793845,10.689272
+2546286,"Niels Ødegaards gate 4, Gjøvik",60.791995,10.692225

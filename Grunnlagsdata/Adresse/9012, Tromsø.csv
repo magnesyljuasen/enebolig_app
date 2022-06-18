@@ -1,0 +1,574 @@
+,Navn,Long,Lat
+335676,"Bekkevollvegen 43, Elverhøy",69.64794,18.924605
+335678,"Bekkevollvegen 39, Elverhøy",69.648237,18.92577
+335679,"Bekkevollvegen 41, Elverhøy",69.647971,18.92523
+335680,"Bekkevollvegen 35, Elverhøy",69.647902,18.925888
+335681,"Bekkevollvegen 37, Elverhøy",69.648198,18.926304
+335682,"Bekkevollvegen 32, Elverhøy",69.648644,18.926051
+335683,"Bekkevollvegen 33, Elverhøy",69.64773,18.926734
+335684,"Bekkevollvegen 30, Elverhøy",69.648513,18.926698
+335685,"Bekkevollvegen 31, Elverhøy",69.647955,18.927137
+335686,"Bekkevollvegen 26C, Elverhøy",69.649187,18.926281
+335687,"Bekkevollvegen 27, Elverhøy",69.64843,18.927586
+335688,"Bekkevollvegen 24, Elverhøy",69.649335,18.928151
+335689,"Bekkevollvegen 25, Elverhøy",69.648756,18.927879
+335691,"Bekkevollvegen 22B, Elverhøy",69.649514,18.928535
+335692,"Bekkevollvegen 21, Elverhøy",69.649194,18.928786
+335693,"Bekkevollvegen 22A, Elverhøy",69.649545,18.928722
+335695,"Bekkevollvegen 20A, Elverhøy",69.649761,18.929611
+335696,"Bekkevollvegen 20B, Elverhøy",69.649711,18.929199
+335697,"Bekkevollvegen 19A, Elverhøy",69.649341,18.929432
+335699,"Bekkevollvegen 19B, Elverhøy",69.649327,18.929223
+335700,"Bekkevollvegen 18A, Elverhøy",69.650022,18.930281
+335701,"Bekkevollvegen 18B, Elverhøy",69.649974,18.93004
+335702,"Bekkevollvegen 17A, Elverhøy",69.649711,18.930533
+335703,"Bekkevollvegen 17B, Elverhøy",69.649678,18.930398
+335705,"Bekkevollvegen 16A, Elverhøy",69.650242,18.930915
+335706,"Bekkevollvegen 16B, Elverhøy",69.650211,18.930677
+335808,"Barduvegen 11B, Elverhøy",69.649009,18.925783
+335809,"Barduvegen 13, Elverhøy",69.648856,18.925419
+335810,"Barduvegen 11, Elverhøy",69.649108,18.925389
+335811,"Barduvegen 5, Elverhøy",69.649874,18.926898
+335812,"Barduvegen 7, Elverhøy",69.649469,18.926126
+335813,"Barduvegen 1, Elverhøy",69.650362,18.927969
+335814,"Barduvegen 3, Elverhøy",69.650161,18.927287
+335840,"Bekkevollvegen 15A, Elverhøy",69.649947,18.931248
+335842,"Bekkevollvegen 15B, Elverhøy",69.649915,18.931061
+335843,"Bekkevollvegen 13B, Elverhøy",69.650124,18.931771
+335845,"Bekkevollvegen 14, Elverhøy",69.650481,18.93145
+335847,"Bekkevollvegen 12, Elverhøy",69.650495,18.931659
+335849,"Bekkevollvegen 13A, Elverhøy",69.650165,18.931959
+335850,"Bekkevollvegen 10B, Elverhøy",69.650706,18.93224
+335852,"Bekkevollvegen 11, Elverhøy",69.650397,18.932828
+335854,"Bekkevollvegen 9, Elverhøy",69.650578,18.933533
+335856,"Bekkevollvegen 10A, Elverhøy",69.650848,18.932344
+335858,"Bekkevollvegen 7, Elverhøy",69.650716,18.934204
+335860,"Bekkevollvegen 8, Elverhøy",69.650864,18.933225
+335862,"Bekkevollvegen 4, Elverhøy",69.651058,18.934164
+335864,"Bekkevollvegen 2, Elverhøy",69.651398,18.935853
+335865,"Bekkevollvegen 3, Elverhøy",69.651256,18.93655
+335867,"Bekkevollvegen 1, Elverhøy",69.651352,18.93711
+335872,"Barduvegen 29, Elverhøy",69.646936,18.922509
+335874,"Barduvegen 25, Elverhøy",69.647547,18.923706
+335875,"Barduvegen 27, Elverhøy",69.64721,18.922689
+335876,"Barduvegen 21, Elverhøy",69.647945,18.923961
+335877,"Barduvegen 23, Elverhøy",69.647741,18.923845
+335878,"Barduvegen 19, Elverhøy",69.648278,18.924332
+335879,"Barduvegen 20, Elverhøy",69.647583,18.922087
+335880,"Barduvegen 15, Elverhøy",69.64865,18.924968
+335881,"Barduvegen 17, Elverhøy",69.648487,18.924654
+335978,"Anna Eides veg 35, Elverhøy",69.651675,18.927102
+335979,"Anna Eides veg 37, Elverhøy",69.65161,18.926367
+335980,"Anna Eides veg 31, Elverhøy",69.651588,18.92737
+335981,"Anna Eides veg 33, Elverhøy",69.651627,18.927248
+335982,"Anna Eides veg 27, Elverhøy",69.651521,18.927538
+335983,"Anna Eides veg 29, Elverhøy",69.651559,18.927442
+335984,"Anna Eides veg 23, Elverhøy",69.651738,18.927888
+335985,"Anna Eides veg 25, Elverhøy",69.651482,18.927686
+335986,"Anna Eides veg 19, Elverhøy",69.651895,18.928098
+335987,"Anna Eides veg 21, Elverhøy",69.651826,18.927956
+335988,"Anna Eides veg 15, Elverhøy",69.652106,18.928292
+335989,"Anna Eides veg 17, Elverhøy",69.65201,18.928197
+335990,"Anna Eides veg 12, Elverhøy",69.65204,18.926034
+335991,"Anna Eides veg 13, Elverhøy",69.652194,18.928411
+335992,"Anna Eides veg 10, Elverhøy",69.651993,18.926541
+335993,"Anna Eides veg 11, Elverhøy",69.652396,18.928604
+335995,"Anna Eides veg 8, Elverhøy",69.651945,18.927075
+335996,"Anna Eides veg 9, Elverhøy",69.652492,18.928725
+335997,"Anna Eides veg 6, Elverhøy",69.652247,18.927621
+335998,"Anna Eides veg 7, Elverhøy",69.652588,18.928846
+335999,"Anna Eides veg 4, Elverhøy",69.652421,18.92786
+336000,"Anna Eides veg 5, Elverhøy",69.652675,18.928965
+336001,"Anna Eides veg 2, Elverhøy",69.652578,18.92807
+336002,"Anna Eides veg 3, Elverhøy",69.652772,18.929035
+336004,"Anna Eides veg 1, Elverhøy",69.65286,18.929154
+336162,"Christian VII's gate 12, Elverhøy",69.654735,18.92963
+336163,"Christian VII's gate 14, Elverhøy",69.655294,18.929579
+336164,"Christian VII's gate 8, Elverhøy",69.65418,18.92834
+336165,"Christian VII's gate 10, Elverhøy",69.653948,18.928271
+336166,"Christian VII's gate 4, Elverhøy",69.654105,18.929694
+336167,"Christian VII's gate 6, Elverhøy",69.654246,18.929023
+336169,"Christian VII's gate 2, Elverhøy",69.653762,18.92976
+336218,"Brinkvegen 74, Elverhøy",69.657499,18.928273
+336220,"Brinkvegen 70, Elverhøy",69.657631,18.927478
+336221,"Brinkvegen 72, Elverhøy",69.657729,18.928119
+336222,"Brinkvegen 62, Elverhøy",69.657336,18.924612
+336223,"Brinkvegen 68A, Elverhøy",69.657544,18.926964
+336318,"Brinkvegen 58, Elverhøy",69.656969,18.924157
+336319,"Brinkvegen 60, Elverhøy",69.657154,18.924346
+336320,"Brinkvegen 52, Elverhøy",69.656373,18.923504
+336321,"Brinkvegen 54, Elverhøy",69.656583,18.92375
+336322,"Brinkvegen 44, Elverhøy",69.655576,18.924183
+336323,"Brinkvegen 48, Elverhøy",69.65595,18.923555
+336324,"Brinkvegen 40, Elverhøy",69.655484,18.924683
+336325,"Brinkvegen 42, Elverhøy",69.655535,18.924408
+336326,"Brinkvegen 36, Elverhøy",69.655414,18.925005
+336327,"Brinkvegen 38, Elverhøy",69.655464,18.924782
+336328,"Brinkvegen 32, Elverhøy",69.655288,18.925421
+336329,"Brinkvegen 34, Elverhøy",69.655347,18.925174
+336330,"Brinkvegen 28, Elverhøy",69.655082,18.925796
+336331,"Brinkvegen 30, Elverhøy",69.655174,18.925684
+336332,"Brinkvegen 24, Elverhøy",69.654863,18.925936
+336333,"Brinkvegen 26, Elverhøy",69.655045,18.925841
+336334,"Brinkvegen 20, Elverhøy",69.654711,18.925908
+336335,"Brinkvegen 22, Elverhøy",69.654801,18.925899
+336336,"Brinkvegen 16, Elverhøy",69.654493,18.92561
+336337,"Brinkvegen 18, Elverhøy",69.654571,18.925727
+336338,"Brinkvegen 12, Elverhøy",69.654369,18.925535
+336339,"Brinkvegen 14, Elverhøy",69.654449,18.925576
+336340,"Brinkvegen 8, Elverhøy",69.654071,18.926022
+336341,"Brinkvegen 10, Elverhøy",69.65428,18.925493
+336342,"Brinkvegen 6, Elverhøy",69.65385,18.925826
+336343,"Brinkvegen 4B, Elverhøy",69.653675,18.925639
+336344,"Brinkvegen 5, Elverhøy",69.654027,18.92715
+336345,"Brinkvegen 3, Elverhøy",69.653769,18.927076
+336346,"Brinkvegen 4, Elverhøy",69.653627,18.925759
+336348,"Brinkvegen 1, Elverhøy",69.653564,18.926987
+336529,"Bjørkestien 2, Elverhøy",69.650583,18.934541
+337168,"Gitta Jønssons veg 7A, Elverhøy",69.652922,18.926378
+337169,"Gitta Jønssons veg 7B, Elverhøy",69.652991,18.926457
+337170,"Gitta Jønssons veg 5, Elverhøy",69.652976,18.927162
+337171,"Gitta Jønssons veg 6, Elverhøy",69.653349,18.926947
+337172,"Gitta Jønssons veg 3, Elverhøy",69.652937,18.927697
+337173,"Gitta Jønssons veg 4, Elverhøy",69.653415,18.928018
+337175,"Gitta Jønssons veg 1, Elverhøy",69.652892,18.928127
+337210,"Gitta Jønssons veg 24, Elverhøy",69.651249,18.924442
+337211,"Gitta Jønssons veg 26, Elverhøy",69.6512,18.924252
+337212,"Gitta Jønssons veg 21, Elverhøy",69.651187,18.925231
+337213,"Gitta Jønssons veg 22, Elverhøy",69.65143,18.924398
+337214,"Gitta Jønssons veg 19A, Elverhøy",69.651461,18.925411
+337215,"Gitta Jønssons veg 20, Elverhøy",69.651713,18.924192
+337216,"Gitta Jønssons veg 18, Elverhøy",69.651923,18.924025
+337217,"Gitta Jønssons veg 19, Elverhøy",69.651392,18.925269
+337218,"Gitta Jønssons veg 17, Elverhøy",69.651696,18.925376
+337219,"Gitta Jønssons veg 17A, Elverhøy",69.651632,18.925391
+337220,"Gitta Jønssons veg 14A, Elverhøy",69.652283,18.924427
+337221,"Gitta Jønssons veg 16, Elverhøy",69.652158,18.924378
+337222,"Gitta Jønssons veg 13A, Elverhøy",69.652253,18.92535
+337223,"Gitta Jønssons veg 14, Elverhøy",69.652362,18.924493
+337224,"Gitta Jønssons veg 12, Elverhøy",69.652598,18.924795
+337225,"Gitta Jønssons veg 13, Elverhøy",69.652349,18.925497
+337226,"Gitta Jønssons veg 11A, Elverhøy",69.652478,18.925728
+337227,"Gitta Jønssons veg 11B, Elverhøy",69.652576,18.925772
+337228,"Gitta Jønssons veg 9B, Elverhøy",69.652793,18.926121
+337229,"Gitta Jønssons veg 10, Elverhøy",69.65279,18.925037
+337230,"Gitta Jønssons veg 8, Elverhøy",69.653019,18.92526
+337231,"Gitta Jønssons veg 9A, Elverhøy",69.652715,18.926004
+337498,"Lars Hagerups veg 19, Elverhøy",69.647779,18.931776
+337784,"Holtvegen 16, Elverhøy",69.651163,18.929899
+337785,"Perstien 5, Elverhøy",69.65107,18.932024
+337786,"Holtvegen 15, Elverhøy",69.65138,18.932262
+337787,"Holtvegen 10C, Elverhøy",69.651881,18.930341
+337788,"Holtvegen 13, Elverhøy",69.651515,18.932623
+337789,"Holtvegen 10A, Elverhøy",69.651735,18.931631
+337790,"Holtvegen 10B, Elverhøy",69.651794,18.931022
+337791,"Holtvegen 9, Elverhøy",69.651742,18.933723
+337792,"Holtvegen 9B, Elverhøy",69.651792,18.933913
+337793,"Holtvegen 5, Elverhøy",69.651751,18.934938
+337794,"Holtvegen 8, Elverhøy",69.651876,18.932147
+337795,"Holtvegen 1, Elverhøy",69.651579,18.936197
+337796,"Holtvegen 3, Elverhøy",69.651711,18.935524
+337797,"Holtsneia 6, Elverhøy",69.653528,18.923779
+337798,"Holtsneia 8, Elverhøy",69.653752,18.923382
+337799,"Holtsneia 1, Elverhøy",69.653455,18.92503
+337800,"Holtsneia 2, Elverhøy",69.653125,18.924505
+337829,"Holtvegen 35, Elverhøy",69.650275,18.925011
+337830,"Holtvegen 36, Elverhøy",69.65211,18.92331
+337831,"Holtvegen 32B, Elverhøy",69.651679,18.923695
+337832,"Holtvegen 34, Elverhøy",69.651914,18.923223
+337833,"Holtvegen 30B, Elverhøy",69.651447,18.923652
+337834,"Holtvegen 32A, Elverhøy",69.651616,18.92371
+337835,"Holtvegen 28, Elverhøy",69.651,18.925532
+337836,"Holtvegen 30A, Elverhøy",69.651329,18.923708
+337837,"Holtvegen 25, Elverhøy",69.650482,18.928998
+337838,"Holtvegen 27, Elverhøy",69.650542,18.928338
+337839,"Holtvegen 22, Elverhøy",69.65085,18.928214
+337840,"Holtvegen 23, Elverhøy",69.650794,18.930346
+337841,"Holtvegen 21B, Elverhøy",69.651046,18.93109
+337842,"Holtvegen 21C, Elverhøy",69.650899,18.930856
+337843,"Holtvegen 20, Elverhøy",69.651057,18.928614
+337844,"Holtvegen 21A, Elverhøy",69.651139,18.931391
+337845,"Holtvegen 18, Elverhøy",69.651141,18.929662
+337846,"Holtvegen 19, Elverhøy",69.651258,18.931671
+337936,"Karisvingen 9, Elverhøy",69.655225,18.926566
+337937,"Karisvingen 18, Elverhøy",69.655548,18.927044
+337938,"Karisvingen 7, Elverhøy",69.655279,18.92646
+337939,"Karisvingen 16, Elverhøy",69.655476,18.927057
+337940,"Karisvingen 3, Elverhøy",69.655409,18.926246
+337941,"Karisvingen 5, Elverhøy",69.655334,18.926343
+337943,"Karisvingen 1, Elverhøy",69.655468,18.926203
+337987,"Karisvingen 30, Elverhøy",69.656048,18.927188
+337988,"Olastien 13, Elverhøy",69.656046,18.928091
+337989,"Karisvingen 19, Elverhøy",69.654768,18.926977
+337990,"Karisvingen 28, Elverhøy",69.656021,18.927183
+337991,"Karisvingen 17, Elverhøy",69.654911,18.927004
+337992,"Karisvingen 26, Elverhøy",69.655976,18.927201
+337993,"Karisvingen 15, Elverhøy",69.654985,18.926914
+337994,"Karisvingen 24, Elverhøy",69.655859,18.927205
+337995,"Karisvingen 13, Elverhøy",69.65504,18.926873
+337996,"Karisvingen 22, Elverhøy",69.655734,18.927182
+337997,"Karisvingen 11, Elverhøy",69.655094,18.926857
+337998,"Karisvingen 20, Elverhøy",69.655645,18.927114
+338002,"Karl Halls veg 21A, Elverhøy",69.647212,18.930272
+338003,"Karl Halls veg 23, Elverhøy",69.647219,18.929504
+338004,"Karl Halls veg 20, Elverhøy",69.647445,18.930656
+338005,"Karl Halls veg 20B, Elverhøy",69.647486,18.930405
+338790,"Lars Hagerups veg 23, Elverhøy",69.647792,18.93121
+338791,"Lars Hagerups veg 24, Elverhøy",69.648486,18.930694
+338792,"Lars Hagerups veg 20, Elverhøy",69.648733,18.930894
+338793,"Lars Hagerups veg 22, Elverhøy",69.648684,18.930679
+338794,"Lars Hagerups veg 16, Elverhøy",69.648998,18.931098
+338795,"Lars Hagerups veg 18, Elverhøy",69.64892,18.930955
+338797,"Lars Hagerups veg 14, Elverhøy",69.649186,18.931133
+338798,"Lars Hagerups veg 15, Elverhøy",69.648361,18.931471
+338799,"Lars Hagerups veg 12, Elverhøy",69.649255,18.931249
+338800,"Lars Hagerups veg 13, Elverhøy",69.64859,18.931668
+338801,"Lars Hagerups veg 10, Elverhøy",69.649484,18.931446
+338802,"Lars Hagerups veg 11A, Elverhøy",69.648854,18.931923
+338803,"Lars Hagerups veg 8, Elverhøy",69.649552,18.931614
+338804,"Lars Hagerups veg 9, Elverhøy",69.649073,18.932145
+338805,"Lars Hagerups veg 4, Elverhøy",69.649818,18.931792
+338806,"Lars Hagerups veg 6, Elverhøy",69.649758,18.931652
+338807,"Lars Hagerups veg 2, Elverhøy",69.649971,18.932156
+338808,"Lars Hagerups veg 3A, Elverhøy",69.649841,18.932751
+338839,"Lars Hagerups veg 36, Elverhøy",69.647613,18.929577
+338840,"Lars Hagerups veg 38, Elverhøy",69.64744,18.928848
+338841,"Lars Hagerups veg 32, Elverhøy",69.647895,18.930197
+338842,"Lars Hagerups veg 34, Elverhøy",69.647818,18.930028
+338843,"Lars Hagerups veg 28, Elverhøy",69.648195,18.930459
+338844,"Lars Hagerups veg 30, Elverhøy",69.648118,18.930264
+338845,"Lars Hagerups veg 25, Elverhøy",69.647636,18.930949
+338846,"Lars Hagerups veg 26, Elverhøy",69.648392,18.93047
+338864,"Morgenvegen 4, Elverhøy",69.649543,18.930812
+338867,"Morgenvegen 2, Elverhøy",69.649574,18.93105
+338930,"Langnesvegen 15, Elverhøy",69.656206,18.930936
+338931,"Langnesvegen 17, Elverhøy",69.656484,18.930961
+338932,"Langnesvegen 11, Elverhøy",69.655821,18.931716
+338933,"Langnesvegen 13, Elverhøy",69.656035,18.931369
+338934,"Langnesvegen 6, Tromsø Domkirke",69.654668,18.937028
+338935,"Langnesvegen 8, Tromsø Domkirke",69.65472,18.937141
+338936,"Langnesvegen 4A, Tromsø Domkirke",69.654953,18.937958
+338937,"Langnesvegen 4B, Tromsø Domkirke",69.655016,18.937531
+338939,"Langnesvegen 3, Elverhøy",69.654198,18.936373
+339338,"Ottars veg 13, Elverhøy",69.64943,18.927554
+339339,"Ottars veg 15, Elverhøy",69.649471,18.926824
+339340,"Ottars veg 10, Elverhøy",69.649982,18.927692
+339341,"Ottars veg 12, Elverhøy",69.649752,18.927134
+339342,"Ottars veg 6, Elverhøy",69.650284,18.929013
+339343,"Ottars veg 3, Elverhøy",69.650539,18.930893
+339344,"Ottars veg 4, Elverhøy",69.650795,18.931483
+339345,"Ottars veg 1, Elverhøy",69.650554,18.931025
+339346,"Ottars veg 2, Elverhøy",69.650817,18.931693
+339431,"Olastien 19, Elverhøy",69.655483,18.928762
+339433,"Olastien 15, Elverhøy",69.65587,18.928704
+339434,"Olastien 17, Elverhøy",69.655691,18.928671
+339435,"Olastien 12, Elverhøy",69.655966,18.929239
+339436,"Olastien 14, Elverhøy",69.655686,18.929417
+339437,"Olastien 8, Elverhøy",69.65655,18.928856
+339438,"Olastien 10, Elverhøy",69.656241,18.929005
+339439,"Olastien 6, Elverhøy",69.656842,18.928652
+339440,"Olastien 7, Elverhøy",69.656693,18.928056
+339839,"Perstien 3B, Elverhøy",69.651082,18.932723
+339842,"Perstien 1B, Elverhøy",69.651268,18.933171
+339973,"Prost Schielderups gate 17, Elverhøy",69.652313,18.931092
+339975,"Prost Schielderups gate 15, Elverhøy",69.652105,18.93077
+339976,"Prost Schielderups gate 16, Elverhøy",69.65143,18.934827
+339977,"Prost Schielderups gate 14A, Elverhøy",69.6514,18.93495
+339978,"Prost Schielderups gate 14B, Elverhøy",69.651517,18.935333
+339979,"Prost Schielderups gate 12, Elverhøy",69.651307,18.935501
+339980,"Prost Schielderups gate 13, Elverhøy",69.652123,18.931548
+339981,"Prost Schielderups gate 10, Elverhøy",69.650949,18.936852
+339982,"Prost Schielderups gate 11, Elverhøy",69.651366,18.933653
+339983,"Prost Schielderups gate 7A, Elverhøy",69.650653,18.936593
+339984,"Prost Schielderups gate 9, Elverhøy",69.650775,18.935996
+339985,"Prost Schielderups gate 5, Elverhøy",69.650402,18.936985
+339986,"Prost Schielderups gate 6, Elverhøy",69.651104,18.937322
+339987,"Prost Schielderups gate 2, Elverhøy",69.650509,18.938244
+339988,"Prost Schielderups gate 3, Elverhøy",69.650194,18.937437
+339989,"Prost Schielderups gate 1, Elverhøy",69.650084,18.938346
+340473,"Senjavegen 12, Elverhøy",69.647774,18.928007
+340474,"Senjavegen 13, Elverhøy",69.648279,18.92952
+340475,"Senjavegen 8, Elverhøy",69.648348,18.928448
+340476,"Senjavegen 10, Elverhøy",69.64808,18.928373
+340477,"Senjavegen 6, Elverhøy",69.648611,18.928704
+340478,"Senjavegen 7, Elverhøy",69.649032,18.929995
+340479,"Senjavegen 4, Elverhøy",69.648831,18.928951
+340480,"Senjavegen 5, Elverhøy",69.649092,18.930109
+340481,"Senjavegen 2, Elverhøy",69.649078,18.929151
+340482,"Senjavegen 3, Elverhøy",69.649263,18.930115
+340484,"Senjavegen 1, Elverhøy",69.649323,18.930229
+340495,"Senjavegen 42A, Elverhøy",69.645862,18.922311
+340496,"Senjavegen 42B, Elverhøy",69.645866,18.922707
+340497,"Senjavegen 39, Elverhøy",69.64491,18.923116
+340498,"Senjavegen 40, Elverhøy",69.645589,18.92288
+340499,"Fagerlivegen 44, Elverhøy",69.645715,18.923652
+340500,"Senjavegen 38, Elverhøy",69.64528,18.923029
+340501,"Senjavegen 33, Elverhøy",69.645167,18.925254
+340502,"Senjavegen 30, Elverhøy",69.645601,18.925128
+340503,"Senjavegen 31, Elverhøy",69.645339,18.925621
+340504,"Senjavegen 28, Elverhøy",69.645786,18.925704
+340505,"Senjavegen 29, Elverhøy",69.645556,18.926237
+340506,"Senjavegen 27A, Elverhøy",69.646172,18.927711
+340507,"Senjavegen 27B, Elverhøy",69.645972,18.927416
+340508,"Skoglivegen 16, Elverhøy",69.646141,18.928298
+340509,"Senjavegen 26, Elverhøy",69.646006,18.926312
+340510,"Senjavegen 24A, Elverhøy",69.646159,18.926676
+340511,"Senjavegen 25, Elverhøy",69.646366,18.927875
+340512,"Skoglivegen 17, Elverhøy",69.64619,18.929314
+340513,"Senjavegen 24, Elverhøy",69.646266,18.926747
+340514,"Skoglivegen 21, Elverhøy",69.646485,18.929007
+340515,"Skoglivegen 19A, Elverhøy",69.646358,18.929394
+340516,"Senjavegen 23, Elverhøy",69.646718,18.928612
+340517,"Senjavegen 20, Elverhøy",69.646742,18.927145
+340518,"Lars Hagerups veg 40, Elverhøy",69.647059,18.92821
+340519,"Senjavegen 18, Elverhøy",69.647012,18.927117
+340520,"Senjavegen 19, Elverhøy",69.647706,18.929027
+340521,"Senjavegen 16, Elverhøy",69.647309,18.927482
+340522,"Senjavegen 17, Elverhøy",69.647757,18.929165
+340523,"Senjavegen 14, Elverhøy",69.647538,18.927705
+340524,"Senjavegen 15, Elverhøy",69.647962,18.929203
+340545,"Senjavegen 76, Elverhøy",69.647356,18.919361
+340547,"Senjavegen 68, Elverhøy",69.646944,18.920111
+340548,"Senjavegen 70, Elverhøy",69.647294,18.920537
+340549,"Senjavegen 60, Elverhøy",69.646142,18.920221
+340550,"Senjavegen 66, Elverhøy",69.646596,18.919608
+340551,"Senjavegen 54, Elverhøy",69.646284,18.921512
+340552,"Senjavegen 58A, Elverhøy",69.645703,18.920191
+340553,"Senjavegen 49, Elverhøy",69.645439,18.918336
+340554,"Senjavegen 50, Elverhøy",69.645521,18.9215
+340555,"Senjavegen 46, Elverhøy",69.645229,18.922091
+340556,"Senjavegen 47, Elverhøy",69.645276,18.918796
+340673,"Stalheimvegen 33, Elverhøy",69.658449,18.92709
+340674,"Stalheimvegen 29, Elverhøy",69.658819,18.927804
+340675,"Stalheimvegen 31, Elverhøy",69.658657,18.927025
+340676,"Stalheimvegen 25, Elverhøy",69.658917,18.928623
+340677,"Stalheimvegen 27, Elverhøy",69.658754,18.927895
+340678,"Stalheimvegen 21, Elverhøy",69.659008,18.929389
+340679,"Stalheimvegen 23, Elverhøy",69.658835,18.928685
+340680,"Stalheimvegen 19, Elverhøy",69.658917,18.929423
+340681,"Stalheimvegen 20, Elverhøy",69.657824,18.927698
+340682,"Stalheimvegen 15, Elverhøy",69.658683,18.929457
+340683,"Stalheimvegen 17, Elverhøy",69.658766,18.92937
+340684,"Stalheimvegen 12, Elverhøy",69.658529,18.928706
+340685,"Stalheimvegen 13, Elverhøy",69.658557,18.92946
+340686,"Stalheimvegen 10, Elverhøy",69.658285,18.92879
+340687,"Stalheimvegen 11, Elverhøy",69.658456,18.92957
+340688,"Stalheimvegen 8, Elverhøy",69.658082,18.928623
+340689,"Stalheimvegen 9, Elverhøy",69.65834,18.929523
+340690,"Stalheimvegen 6, Elverhøy",69.657882,18.928741
+340691,"Stalheimvegen 7, Elverhøy",69.658251,18.929507
+340692,"Stalheimvegen 3, Elverhøy",69.657988,18.929613
+340693,"Stalheimvegen 5, Elverhøy",69.658089,18.929528
+340694,"Stalheimvegen 1, Elverhøy",69.657779,18.929703
+340695,"Stalheimvegen 2, Elverhøy",69.657647,18.928775
+340979,"Sommerlystvegen 7A, Elverhøy",69.653489,18.93398
+340980,"Sommerlystvegen 9, Elverhøy",69.653294,18.933417
+340981,"Sommerlystvegen 5B, Elverhøy",69.653537,18.934623
+340982,"Sommerlystvegen 7B, Elverhøy",69.653463,18.933735
+340983,"Sommerlystvegen 3, Elverhøy",69.653702,18.935248
+340984,"Sommerlystvegen 5, Elverhøy",69.653645,18.935005
+341034,"Sommerlystvegen 28, Elverhøy",69.651237,18.926582
+341035,"Sommerlystvegen 30, Elverhøy",69.651427,18.926514
+341036,"Sommerlystvegen 23, Elverhøy",69.651632,18.929805
+341037,"Sommerlystvegen 26, Elverhøy",69.651148,18.926979
+341038,"Sommerlystvegen 19, Elverhøy",69.652138,18.930105
+341039,"Sommerlystvegen 21, Elverhøy",69.651908,18.929907
+341040,"Sommerlystvegen 11, Elverhøy",69.653162,18.932902
+341041,"Sommerlystvegen 17, Elverhøy",69.652339,18.930349
+342231,"Vårlivegen 27, Elverhøy",69.643994,18.919463
+342233,"Vårlivegen 23, Elverhøy",69.64402,18.918694
+342234,"Vårlivegen 25, Elverhøy",69.644002,18.919103
+342235,"Vårlivegen 18, Elverhøy",69.644277,18.91967
+342236,"Vårlivegen 19, Elverhøy",69.643946,18.917622
+342237,"Vårlivegen 15, Elverhøy",69.644304,18.917662
+342238,"Vårlivegen 16, Elverhøy",69.644304,18.919288
+342239,"Vårlivegen 13, Elverhøy",69.64443,18.91766
+342240,"Vårlivegen 14, Elverhøy",69.644304,18.918875
+342241,"Vårlivegen 11, Elverhøy",69.644556,18.917657
+342242,"Vårlivegen 12, Elverhøy",69.644311,18.918541
+342243,"Vårlivegen 9, Elverhøy",69.644672,18.917679
+342244,"Vårlivegen 10, Elverhøy",69.64449,18.918574
+342245,"Vårlivegen 7, Elverhøy",69.644902,18.91785
+342246,"Vårlivegen 8, Elverhøy",69.644606,18.918596
+342247,"Vårlivegen 3, Elverhøy",69.644926,18.918783
+342248,"Vårlivegen 5, Elverhøy",69.645073,18.918217
+342250,"Vårlivegen 1, Elverhøy",69.64502,18.919369
+347789,"Barduvegen 16, Elverhøy",69.648081,18.921121
+347796,"Stalheimvegen 35B, Elverhøy",69.65837,18.92644
+347797,"Stalheimvegen 35C, Elverhøy",69.65828,18.926462
+347867,"Stalheimvegen 16A, Elverhøy",69.658432,18.927836
+347869,"Stalheimvegen 16B, Elverhøy",69.658498,18.927719
+347973,"Senjavegen 43A, Elverhøy",69.644889,18.920815
+347974,"Senjavegen 43B, Elverhøy",69.644563,18.920962
+347993,"Holtvegen 38, Elverhøy",69.65257,18.92084
+348032,"Prost Schielderups gate 7C, Elverhøy",69.650537,18.935771
+348033,"Prost Schielderups gate 7B, Elverhøy",69.650436,18.936295
+348047,"Vårlivegen 17, Elverhøy",69.644051,18.917719
+348152,"Senjavegen 74, Elverhøy",69.647152,18.919272
+348153,"Senjavegen 72, Elverhøy",69.64697,18.918954
+348226,"Senjavegen 82, Elverhøy",69.647345,18.918662
+348227,"Senjavegen 78, Elverhøy",69.647035,18.918476
+348228,"Senjavegen 80, Elverhøy",69.647174,18.918682
+348296,"Barduvegen 31, Elverhøy",69.646637,18.921809
+348493,"Gitta Jønssons veg 2, Elverhøy",69.653323,18.929317
+348559,"Brinkvegen 2A, Elverhøy",69.65331,18.925494
+348560,"Brinkvegen 2B, Elverhøy",69.653377,18.925687
+348661,"Holtvegen 12B, Elverhøy",69.651581,18.930466
+348677,"Senjavegen 52B, Elverhøy",69.645952,18.921476
+348683,"Bekkevollvegen 5, Elverhøy",69.650822,18.934688
+348684,"Sommerlystvegen 1, Elverhøy",69.653797,18.937021
+348751,"Holtvegen 12A, Elverhøy",69.651478,18.931067
+348925,"Senjavegen 41A, Elverhøy",69.644878,18.922129
+348926,"Senjavegen 41B, Elverhøy",69.644891,18.921538
+348974,"Brinkvegen 56B, Elverhøy",69.656793,18.923995
+349256,"Holtvegen 2, Elverhøy",69.652298,18.934913
+349382,"Prost Schielderups gate 18, Elverhøy",69.651567,18.934336
+349481,"Senjavegen 58B, Elverhøy",69.645778,18.92005
+349482,"Senjavegen 62B, Elverhøy",69.645492,18.919972
+349483,"Senjavegen 62A, Elverhøy",69.645285,18.919985
+349501,"Lars Hagerups veg 33, Elverhøy",69.646998,18.928947
+349550,"Senjavegen 41C, Elverhøy",69.644686,18.921475
+349604,"Olastien 3, Elverhøy",69.656889,18.926931
+349642,"Bekkevollvegen 34, Elverhøy",69.648516,18.925744
+349836,"Senjavegen 44, Elverhøy",69.645532,18.922199
+350905,"Bekkevollvegen 26A, Elverhøy",69.649176,18.927543
+350906,"Bekkevollvegen 28A, Elverhøy",69.649004,18.926815
+350907,"Bekkevollvegen 28B, Elverhøy",69.648764,18.926693
+350911,"Olastien 5, Elverhøy",69.656957,18.927924
+350912,"Olastien 11, Elverhøy",69.656617,18.927448
+351375,"Prost Schielderups gate 9C, Elverhøy",69.651268,18.934048
+351376,"Prost Schielderups gate 9B, Elverhøy",69.651177,18.934496
+351389,"Brinkvegen 43, Elverhøy",69.657008,18.92553
+351390,"Brinkvegen 45, Elverhøy",69.656569,18.92478
+351391,"Brinkvegen 41, Elverhøy",69.657283,18.926177
+351398,"Langnesvegen 10, Tromsø Domkirke",69.65533,18.93557
+351538,"Ottars veg 5A, Elverhøy",69.650353,18.930368
+351570,"Langnesvegen 2D, Tromsø Domkirke",69.654949,18.938913
+351572,"Langnesvegen 2B, Tromsø Domkirke",69.654806,18.938499
+351574,"Langnesvegen 2E, Tromsø Domkirke",69.654988,18.938817
+351607,"Ottars veg 5C, Elverhøy",69.650308,18.929973
+351608,"Ottars veg 5B, Elverhøy",69.650321,18.930207
+351651,"Langnesvegen 2A, Tromsø Domkirke",69.654768,18.938595
+351652,"Langnesvegen 2C, Tromsø Domkirke",69.654857,18.938612
+351688,"Ottars veg 11B, Elverhøy",69.649598,18.927957
+351689,"Ottars veg 11A, Elverhøy",69.649621,18.928142
+351690,"Ottars veg 7B, Elverhøy",69.650077,18.929439
+351691,"Ottars veg 7A, Elverhøy",69.650083,18.929595
+351782,"Holtvegen 7, Elverhøy",69.651795,18.934585
+351879,"Lars Hagerups veg 21, Elverhøy",69.647989,18.931247
+351917,"Stalheimvegen 18B, Elverhøy",69.658126,18.927707
+351918,"Stalheimvegen 18A, Elverhøy",69.657957,18.927887
+352183,"Sommerlystvegen 27B, Elverhøy",69.651278,18.928784
+352184,"Sommerlystvegen 27A, Elverhøy",69.651271,18.929067
+352185,"Sommerlystvegen 25B, Elverhøy",69.651449,18.929177
+352187,"Sommerlystvegen 25A, Elverhøy",69.651425,18.929431
+352213,"Holtvegen 38B, Elverhøy",69.652279,18.919392
+352214,"Holtvegen 38A, Elverhøy",69.65257,18.92084
+352375,"Senjavegen 48B, Elverhøy",69.645345,18.921338
+352376,"Senjavegen 48A, Elverhøy",69.645216,18.921469
+352598,"Anna Eides veg 39B, Elverhøy",69.651721,18.925903
+352600,"Anna Eides veg 39A, Elverhøy",69.651784,18.925958
+352645,"Lars Hagerups veg 5B, Elverhøy",69.649541,18.932902
+352646,"Lars Hagerups veg 5A, Elverhøy",69.649578,18.932496
+353062,"Senjavegen 64D, Elverhøy",69.645561,18.919314
+353063,"Senjavegen 64C, Elverhøy",69.645557,18.919493
+353064,"Senjavegen 64B, Elverhøy",69.645416,18.919339
+353065,"Senjavegen 64A, Elverhøy",69.645394,18.919515
+353198,"Olastien 4, Elverhøy",69.657231,18.92893
+353520,"Gitta Jønssons veg 15A, Elverhøy",69.651924,18.925186
+353521,"Gitta Jønssons veg 15B, Elverhøy",69.651871,18.925151
+353597,"Senjavegen 64E, Elverhøy",69.645783,18.919432
+354023,"Brinkvegen 25, Elverhøy",69.655772,18.925072
+354025,"Brinkvegen 27, Elverhøy",69.655901,18.92494
+354027,"Brinkvegen 29, Elverhøy",69.655875,18.925297
+354029,"Brinkvegen 31, Elverhøy",69.655991,18.925319
+354031,"Brinkvegen 33, Elverhøy",69.656089,18.925337
+354033,"Brinkvegen 35, Elverhøy",69.656161,18.92535
+354070,"Vårlivegen 21B, Elverhøy",69.643978,18.918196
+354072,"Vårlivegen 21A, Elverhøy",69.644002,18.918303
+354176,"Brinkvegen 37, Elverhøy",69.656277,18.925372
+354178,"Brinkvegen 39, Elverhøy",69.656357,18.925412
+354222,"Holtvegen 11B, Elverhøy",69.651586,18.933075
+354224,"Holtvegen 11A, Elverhøy",69.651609,18.932846
+354552,"Ottars veg 9A, Elverhøy",69.649857,18.928857
+354578,"Lars Hagerups veg 7B, Elverhøy",69.649331,18.932688
+354580,"Lars Hagerups veg 7A, Elverhøy",69.649366,18.932302
+354649,"Ottars veg 9B, Elverhøy",69.649842,18.928699
+354889,"Langnesvegen 7, Elverhøy",69.655167,18.933609
+354988,"Prost Schielderups gate 8, Elverhøy",69.650948,18.937861
+354989,"Prost Schielderups gate 4, Elverhøy",69.650743,18.937823
+355337,"Brinkvegen 47, Elverhøy",69.656766,18.925617
+355445,"Holtsneia 4A, Elverhøy",69.653256,18.924309
+355448,"Holtsneia 4B, Elverhøy",69.653324,18.924134
+1372604,"Christian VII's gate 5, Elverhøy",69.654209,18.930855
+1634156,"Brinkvegen 66, Elverhøy",69.65775,18.92606
+1634160,"Brinkvegen 64, Elverhøy",69.657539,18.926305
+1638491,"Lars Hagerups veg 3B, Elverhøy",69.649764,18.932665
+1653609,"Langnesvegen 4C, Tromsø Domkirke",69.654746,18.93776
+1733532,"Brinkvegen 68C, Elverhøy",69.657741,18.926969
+1733533,"Brinkvegen 68D, Elverhøy",69.65779,18.926984
+1733534,"Brinkvegen 68B, Elverhøy",69.657632,18.92697
+1734401,"Perstien 1A, Elverhøy",69.651205,18.933383
+1734526,"Perstien 3A, Elverhøy",69.651034,18.932962
+1822458,"Stalheimvegen 35A, Elverhøy",69.65842,18.926387
+1822463,"Stalheimvegen 35D, Elverhøy",69.658235,18.926503
+1850537,"Bekkevollvegen 26B, Elverhøy",69.648994,18.927453
+1850909,"Senjavegen 42C, Elverhøy",69.64599,18.922051
+1853232,"Skoglivegen 19B, Elverhøy",69.646454,18.929533
+1881109,"Holtsneia 3, Elverhøy",69.653561,18.924552
+1933207,"Holtsneia 4C, Elverhøy",69.653213,18.924209
+1969552,"Bekkevollvegen 29, Elverhøy",69.648209,18.9273
+1974626,"Brinkvegen 56A, Elverhøy",69.656725,18.923864
+1974911,"Lars Hagerups veg 35, Elverhøy",69.646919,18.928827
+1990572,"Karl Halls veg 21B, Elverhøy",69.647135,18.930186
+1994811,"Karisvingen 2, Elverhøy",69.655741,18.926447
+1994812,"Karisvingen 4, Elverhøy",69.655754,18.926292
+1994813,"Karisvingen 6, Elverhøy",69.655764,18.926149
+1994814,"Karisvingen 8, Elverhøy",69.656009,18.926432
+1994816,"Karisvingen 10, Elverhøy",69.656019,18.926292
+1994817,"Karisvingen 12, Elverhøy",69.656033,18.926132
+1994819,"Karisvingen 14, Elverhøy",69.656038,18.925981
+1997083,"Karisvingen 39, Elverhøy",69.654822,18.927937
+1997084,"Karisvingen 41, Elverhøy",69.654986,18.927898
+1997085,"Karisvingen 43, Elverhøy",69.655078,18.927866
+1997087,"Karisvingen 45, Elverhøy",69.655187,18.927871
+1997089,"Karisvingen 47, Elverhøy",69.655301,18.927923
+1997091,"Karisvingen 21, Elverhøy",69.654586,18.927553
+1997093,"Karisvingen 23, Elverhøy",69.65457,18.927767
+1997096,"Karisvingen 25, Elverhøy",69.654557,18.928025
+1997098,"Karisvingen 27, Elverhøy",69.654551,18.928109
+1997100,"Karisvingen 29, Elverhøy",69.654515,18.928113
+1997139,"Karisvingen 31, Elverhøy",69.65452,18.92831
+1997143,"Karisvingen 33, Elverhøy",69.65456,18.928658
+1997147,"Karisvingen 35, Elverhøy",69.65454,18.928778
+1997207,"Karisvingen 37, Elverhøy",69.654742,18.927879
+2028486,"Brinkvegen 68E, Elverhøy",69.657821,18.926987
+2045948,"Barduvegen 1C, Elverhøy",69.650355,18.928025
+2045949,"Barduvegen 1D, Elverhøy",69.650313,18.927909
+2046241,"Barduvegen 1B, Elverhøy",69.650416,18.927639
+2046242,"Barduvegen 1A, Elverhøy",69.650485,18.92762
+2072932,"Ottars veg 8D, Elverhøy",69.650074,18.928316
+2072933,"Ottars veg 8E, Elverhøy",69.650107,18.928242
+2073030,"Ottars veg 8F, Elverhøy",69.650145,18.92811
+2073247,"Ottars veg 8A, Elverhøy",69.65016,18.928564
+2073248,"Ottars veg 8B, Elverhøy",69.650187,18.928489
+2073249,"Ottars veg 8C, Elverhøy",69.650212,18.928393
+2073780,"Brinkvegen 7A, Elverhøy",69.654237,18.927153
+2073781,"Brinkvegen 7B, Elverhøy",69.654328,18.927079
+2078558,"Lars Hagerups veg 11B, Elverhøy",69.648736,18.931842
+2079359,"Fagerlivegen 42, Elverhøy",69.645528,18.923555
+2089576,"Stalheimvegen 37A, Elverhøy",69.658101,18.926873
+2089577,"Stalheimvegen 37B, Elverhøy",69.657944,18.926769
+2100403,"Bekkevollvegen 23B, Elverhøy",69.648935,18.928113
+2115869,"Barduvegen 9, Elverhøy",69.649269,18.925883
+2169098,"Sommerlystvegen 13, Elverhøy",69.653072,18.93216
+2359816,"Holtvegen 14, Elverhøy",69.651384,18.930456
+2454540,"Senjavegen 39C, Elverhøy",69.644889,18.922477
+2454634,"Senjavegen 39B, Elverhøy",69.644919,18.922648
+2461669,"Senjavegen 22A, Elverhøy",69.646521,18.926787
+2461698,"Senjavegen 22B, Elverhøy",69.646464,18.926761
+2461718,"Senjavegen 22C, Elverhøy",69.646408,18.926727
+2467401,"Senjavegen 41D, Elverhøy",69.64458,18.921486
+2486215,"Lars Hagerups veg 17, Elverhøy",69.647996,18.932126
+2495152,"Sommerlystvegen 15, Elverhøy",69.652853,18.932302
+2496565,"Bekkevollvegen 23A, Elverhøy",69.649007,18.928312

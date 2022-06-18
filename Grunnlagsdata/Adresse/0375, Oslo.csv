@@ -1,0 +1,661 @@
+,Navn,Long,Lat
+1515913,"Bekkeliveien 17, Skøyen",59.931995,10.6856
+1515914,"Bekkeliveien 17A, Skøyen",59.932045,10.685871
+1515915,"Bekkeliveien 16, Skøyen",59.931951,10.683415
+1515916,"Bekkeliveien 21B, Skøyen",59.932265,10.686258
+1515917,"Bekkeliveien 22, Skøyen",59.932868,10.685394
+1515918,"Bekkeliveien 20, Skøyen",59.932658,10.685025
+1515919,"Bekkeliveien 21, Skøyen",59.932489,10.686252
+1515920,"Bekkeliveien 17D, Skøyen",59.931997,10.686084
+1515921,"Bekkeliveien 19, Skøyen",59.932478,10.685732
+1515922,"Bekkeliveien 17B, Skøyen",59.932026,10.685942
+1515923,"Bekkeliveien 17C, Skøyen",59.932016,10.686013
+1515929,"Bekkeliveien 24C, Skøyen",59.932908,10.686319
+1515931,"Bekkeliveien 22B, Skøyen",59.933006,10.685866
+1515932,"Bekkeliveien 23, Skøyen",59.932365,10.686818
+1545153,"Bekkelibakken 3B, Skøyen",59.930757,10.683318
+1545154,"Bekkelibakken 4, Skøyen",59.931464,10.684285
+1545155,"Bekkelibakken 2, Skøyen",59.931433,10.683872
+1545156,"Bekkelibakken 3A, Skøyen",59.930831,10.683215
+1545157,"Bekkelibakken 1A, Skøyen",59.931098,10.683372
+1545158,"Bekkelibakken 1B, Skøyen",59.931025,10.683439
+1545160,"Bekkelibakken 8, Skøyen",59.93141,10.684998
+1545161,"Bekkelibakken 10, Skøyen",59.931336,10.685137
+1545162,"Bekkelibakken 7A, Skøyen",59.931045,10.684711
+1545163,"Bekkelibakken 7B, Skøyen",59.931035,10.684764
+1545164,"Bekkelibakken 5C, Skøyen",59.931039,10.683798
+1545165,"Bekkelibakken 6, Skøyen",59.931417,10.68439
+1545166,"Bekkelibakken 5A, Skøyen",59.931112,10.683712
+1545167,"Bekkelibakken 5B, Skøyen",59.931075,10.683746
+1545168,"Bekkeliveien 4A, Skøyen",59.930122,10.681694
+1545169,"Bekkeliveien 4B, Skøyen",59.930151,10.68157
+1545170,"Bekkelikroken 8, Skøyen",59.931747,10.685319
+1545171,"Bekkelikroken 10, Skøyen",59.931673,10.685476
+1545172,"Bekkelikroken 4, Skøyen",59.931854,10.68468
+1545173,"Bekkelikroken 6, Skøyen",59.93177,10.684891
+1545174,"Heggeliveien 25, Skøyen",59.931116,10.686354
+1545175,"Bekkelikroken 2, Skøyen",59.931776,10.684426
+1545176,"Bekkeliveien 11, Skøyen",59.931985,10.684222
+1545177,"Bekkeliveien 12, Skøyen",59.931208,10.682518
+1545178,"Bekkeliveien 10A, Skøyen",59.930958,10.682362
+1545179,"Bekkeliveien 10B, Skøyen",59.930762,10.682263
+1545180,"Bekkeliveien 7, Skøyen",59.93056,10.682628
+1545181,"Bekkeliveien 9, Skøyen",59.931614,10.68372
+1545182,"Bekkeliveien 5, Skøyen",59.9303,10.682562
+1545183,"Bekkeliveien 6, Skøyen",59.930406,10.682012
+1545184,"Bekkeliveien 13B, Skøyen",59.932202,10.684823
+1545185,"Bekkeliveien 12B, Skøyen",59.931109,10.682495
+1545186,"Bekkeliveien 13, Skøyen",59.932212,10.684788
+1549486,"Charlotte Andersens vei 22, Ris",59.938793,10.694351
+1549490,"Charlotte Andersens vei 28B, Ris",59.9376,10.693903
+1549491,"Charlotte Andersens vei 28A, Ris",59.937806,10.693985
+1549492,"Charlotte Andersens vei 27B, Ris",59.938431,10.69357
+1549493,"Charlotte Andersens vei 27A, Ris",59.93861,10.693615
+1549494,"Charlotte Andersens vei 26, Ris",59.938173,10.69404
+1549495,"Charlotte Andersens vei 25, Ris",59.938975,10.693884
+1549496,"Charlotte Andersens vei 24B, Ris",59.93822,10.694597
+1549497,"Charlotte Andersens vei 24, Ris",59.938448,10.694072
+1549499,"Charlotte Andersens vei 39, Ris",59.937077,10.694091
+1549500,"Charlotte Andersens vei 37, Ris",59.937148,10.693433
+1549501,"Charlotte Andersens vei 35, Ris",59.937467,10.693406
+1549502,"Charlotte Andersens vei 33, Ris",59.937733,10.693391
+1549503,"Charlotte Andersens vei 31, Ris",59.938065,10.693426
+1549504,"Charlotte Andersens vei 30, Ris",59.937479,10.694255
+1549505,"Charlotte Andersens vei 29, Ris",59.938315,10.693492
+1559148,"Guldberglia 4A, Skøyen",59.930547,10.684204
+1559149,"Guldberglia 3, Skøyen",59.929914,10.682524
+1559150,"Guldberglia 2, Skøyen",59.930568,10.683345
+1559151,"Guldberglia 1, Skøyen",59.929909,10.682238
+1559156,"Guldberglia 6B, Skøyen",59.930712,10.684676
+1559157,"Guldberglia 6A, Skøyen",59.93064,10.684766
+1559158,"Guldberglia 5, Skøyen",59.929929,10.682811
+1559159,"Guldberglia 4F, Skøyen",59.9308,10.683888
+1559160,"Guldberglia 4E, Skøyen",59.930734,10.683981
+1559161,"Guldberglia 4D, Skøyen",59.930713,10.684003
+1559162,"Guldberglia 4C, Skøyen",59.93064,10.684093
+1559163,"Guldberglia 4B, Skøyen",59.930621,10.684115
+1559164,"Guldberglia 7B, Skøyen",59.930122,10.683125
+1559165,"Guldberglia 7A, Skøyen",59.930123,10.683036
+1559166,"Guldberglia 6F, Skøyen",59.930898,10.684449
+1559167,"Guldberglia 6E, Skøyen",59.930828,10.684535
+1559168,"Guldberglia 6D, Skøyen",59.930806,10.684561
+1559169,"Guldberglia 6C, Skøyen",59.93073,10.684656
+1559421,"Guldberglia 9A, Skøyen",59.930222,10.684039
+1559422,"Guldberglia 8, Skøyen",59.930973,10.685423
+1559423,"Guldberglia 7H, Skøyen",59.930114,10.683787
+1559424,"Guldberglia 7G, Skøyen",59.930128,10.683666
+1559425,"Guldberglia 7F, Skøyen",59.930117,10.683554
+1559426,"Guldberglia 7E, Skøyen",59.930118,10.683465
+1559427,"Guldberglia 7D, Skøyen",59.930119,10.683358
+1559428,"Guldberglia 7C, Skøyen",59.930121,10.68325
+1559429,"Guldberglia 11A, Skøyen",59.930435,10.68536
+1559430,"Guldberglia 9H, Skøyen",59.930216,10.684771
+1559431,"Guldberglia 9G, Skøyen",59.930219,10.684683
+1559432,"Guldberglia 9F, Skøyen",59.930221,10.68456
+1559433,"Guldberglia 9E, Skøyen",59.930221,10.684469
+1559434,"Guldberglia 9D, Skøyen",59.930222,10.684344
+1559435,"Guldberglia 9C, Skøyen",59.930221,10.684254
+1559436,"Guldberglia 9B, Skøyen",59.930222,10.684116
+1559437,"Guldberglia 15C, Skøyen",59.929683,10.685381
+1559438,"Guldberglia 15B, Skøyen",59.929725,10.685378
+1559439,"Guldberglia 13D, Skøyen",59.929895,10.685449
+1559440,"Guldberglia 13C, Skøyen",59.929937,10.685442
+1559441,"Guldberglia 13B, Skøyen",59.929988,10.685446
+1559442,"Guldberglia 13A, Skøyen",59.930021,10.685446
+1559443,"Guldberglia 11B, Skøyen",59.930174,10.685365
+1559444,"Guldbergs vei 4A, Skøyen",59.934432,10.692328
+1559445,"Guldbergs vei 3A, Skøyen",59.934815,10.691474
+1559446,"Guldbergs vei 2B, Skøyen",59.934739,10.692218
+1559447,"Guldbergs vei 2, Skøyen",59.934916,10.692406
+1559448,"Guldbergs vei 1B, Skøyen",59.935152,10.691523
+1559449,"Guldbergs vei 1A, Skøyen",59.934996,10.69182
+1559450,"Guldberglia 15D, Skøyen",59.929617,10.68539
+1559451,"Guldbergs vei 8B, Skøyen",59.933451,10.691097
+1559452,"Guldbergs vei 8A, Skøyen",59.933744,10.69138
+1559453,"Guldbergs vei 7B, Skøyen",59.934051,10.690537
+1559454,"Guldbergs vei 7, Skøyen",59.934073,10.690949
+1559455,"Guldbergs vei 6, Skøyen",59.934107,10.691792
+1559456,"Guldbergs vei 5B, Skøyen",59.934427,10.691307
+1559457,"Guldbergs vei 5, Skøyen",59.934512,10.69099
+1559458,"Guldbergs vei 4B, Skøyen",59.934496,10.69205
+1559459,"Guldbergs vei 14A, Skøyen",59.932501,10.690089
+1559460,"Guldbergs vei 13B, Skøyen",59.933034,10.689984
+1559461,"Guldbergs vei 13, Skøyen",59.933263,10.689655
+1559462,"Guldbergs vei 12, Skøyen",59.932864,10.690637
+1559463,"Guldbergs vei 11, Skøyen",59.933443,10.690362
+1559464,"Guldbergs vei 10B, Skøyen",59.933123,10.690794
+1559465,"Guldbergs vei 10, Skøyen",59.93332,10.690804
+1559466,"Guldbergs vei 9, Skøyen",59.9339,10.690404
+1559467,"Guldbergs vei 22B, Skøyen",59.931131,10.689243
+1559468,"Guldbergs vei 22A, Skøyen",59.931254,10.68941
+1559469,"Guldbergs vei 21, Skøyen",59.931957,10.688515
+1559470,"Guldbergs vei 20B, Skøyen",59.931616,10.689232
+1559471,"Guldbergs vei 20, Skøyen",59.931702,10.688824
+1559472,"Guldbergs vei 19, Skøyen",59.932187,10.688831
+1559473,"Guldbergs vei 17, Skøyen",59.932424,10.689219
+1559474,"Guldbergs vei 16, Skøyen",59.932257,10.689622
+1559475,"Guldbergs vei 28C, Skøyen",59.930618,10.68859
+1559476,"Guldbergs vei 28, Skøyen",59.93069,10.687914
+1559477,"Guldbergs vei 27B, Skøyen",59.93048,10.686574
+1559478,"Guldbergs vei 26B, Skøyen",59.930839,10.68887
+1559479,"Guldbergs vei 26A, Skøyen",59.931018,10.688951
+1559480,"Guldbergs vei 24, Skøyen",59.930974,10.688125
+1559481,"Guldbergs vei 23, Skøyen",59.93163,10.688159
+1559482,"Guldbergs vei 22C, Skøyen",59.931345,10.688645
+1559483,"Guldbergs vei 35, Skøyen",59.929059,10.686167
+1559484,"Guldbergs vei 33C, Skøyen",59.929673,10.685966
+1559485,"Guldbergs vei 33B, Skøyen",59.929345,10.686307
+1559486,"Guldbergs vei 33, Skøyen",59.929549,10.686532
+1559487,"Guldbergs vei 46, Skøyen",59.929644,10.687539
+1559488,"Guldbergs vei 31, Skøyen",59.929761,10.686775
+1559489,"Guldbergs vei 29A, Skøyen",59.930403,10.686457
+1561136,"Heggeliveien 23B, Skøyen",59.930847,10.68615
+1561137,"Heggeliveien 23A, Skøyen",59.930766,10.686146
+1561138,"Heggeliveien 21B, Skøyen",59.930685,10.686196
+1561139,"Heggeliveien 21, Skøyen",59.930613,10.686192
+1561142,"Heggeliveien 32C, Skøyen",59.931207,10.686061
+1561143,"Heggeliveien 32B, Skøyen",59.931376,10.686195
+1561144,"Heggeliveien 32A, Skøyen",59.93158,10.68642
+1561145,"Heggeliveien 30D, Skøyen",59.931257,10.68567
+1561146,"Heggeliveien 30C, Skøyen",59.931407,10.685875
+1561147,"Heggeliveien 30B, Skøyen",59.931585,10.686027
+1561148,"Heggeliveien 30A, Skøyen",59.9317,10.686194
+1561149,"Heggeliveien 38, Skøyen",59.932768,10.687662
+1561150,"Heggeliveien 37A, Skøyen",59.932649,10.68832
+1561151,"Heggeliveien 36, Skøyen",59.932236,10.687116
+1561152,"Heggeliveien 35, Skøyen",59.932448,10.688039
+1561153,"Heggeliveien 34D, Skøyen",59.932144,10.686574
+1561154,"Heggeliveien 34C, Skøyen",59.932078,10.686839
+1561155,"Heggeliveien 34B, Skøyen",59.931863,10.686757
+1561156,"Heggeliveien 34A, Skøyen",59.931775,10.686627
+1561157,"Heggeliveien 45B, Skøyen",59.934233,10.689633
+1561158,"Heggeliveien 45A, Skøyen",59.934039,10.690035
+1561159,"Heggeliveien 43C, Skøyen",59.933562,10.689438
+1561160,"Heggeliveien 43B, Skøyen",59.93384,10.689506
+1561161,"Heggeliveien 43A, Skøyen",59.933888,10.689276
+1561162,"Heggeliveien 40B, Skøyen",59.932945,10.687832
+1561163,"Heggeliveien 40, Skøyen",59.933232,10.687882
+1561164,"Heggeliveien 39, Skøyen",59.933018,10.688408
+1561166,"Heggeliveien 51B, Skøyen",59.934947,10.690672
+1561167,"Heggeliveien 50C, Skøyen",59.934874,10.689451
+1561168,"Heggeliveien 50B, Skøyen",59.93486,10.68952
+1561169,"Heggeliveien 50G, Skøyen",59.935149,10.689633
+1561170,"Heggeliveien 49B, Skøyen",59.934693,10.690598
+1561171,"Heggeliveien 49A, Skøyen",59.934827,10.690254
+1561172,"Heggeliveien 48A, Skøyen",59.934595,10.689455
+1561173,"Heggeliveien 46B, Skøyen",59.934474,10.689037
+1561179,"Heggeliveien 53, Skøyen",59.935305,10.690797
+1561180,"Heggeliveien 52, Skøyen",59.935528,10.690218
+1561181,"Heggeliveien 51C, Skøyen",59.935207,10.690721
+1562029,"Hjørungveien 1B, Ris",59.936196,10.692024
+1562030,"Hjørungveien 1, Ris",59.93644,10.691911
+1562037,"Hjørungveien 12, Ris",59.936482,10.695623
+1562038,"Hjørungveien 9, Ris",59.936145,10.69535
+1562039,"Hjørungveien 8, Ris",59.936707,10.69563
+1562040,"Hjørungkroken 2, Ris",59.936068,10.693664
+1562041,"Hjørungveien 7, Ris",59.936293,10.69376
+1562042,"Hjørungveien 6B, Ris",59.936675,10.693709
+1562043,"Hjørungveien 4B, Ris",59.936639,10.693192
+1562044,"Hjørungveien 4, Ris",59.936735,10.692767
+1562052,"Hjørungveien 11, Ris",59.936086,10.695705
+1567783,"Katy Dues vei 3, Skøyen",59.934866,10.688627
+1567784,"Katy Dues vei 2C, Skøyen",59.934231,10.688416
+1567785,"Katy Dues vei 1, Skøyen",59.934506,10.688645
+1567793,"Katy Dues vei 11, Skøyen",59.93503,10.688439
+1567794,"Katy Dues vei 9, Skøyen",59.935051,10.688869
+1567795,"Katy Dues vei 7, Skøyen",59.934758,10.68796
+1567796,"Katy Dues vei 5A, Skøyen",59.934883,10.688002
+1567797,"Katy Dues vei 4B, Skøyen",59.934292,10.687882
+1567798,"Katy Dues vei 4A, Skøyen",59.934392,10.68778
+1569251,"Bekkelistubben 12, Skøyen",59.933305,10.684951
+1569254,"Bekkelistubben 14, Skøyen",59.933535,10.685213
+1569261,"Bekkelistubben 8, Skøyen",59.932846,10.684373
+1569264,"Bekkelistubben 10, Skøyen",59.933075,10.684671
+1569268,"Bekkelistubben 2, Skøyen",59.932176,10.683355
+1569271,"Bekkelistubben 4, Skøyen",59.932396,10.683724
+1569274,"Bekkelistubben 6, Skøyen",59.932607,10.684056
+1575755,"Monolitveien 12B, Skøyen",59.93314,10.687305
+1575756,"Monolitveien 12, Skøyen",59.933346,10.687405
+1575757,"Monolitveien 10, Skøyen",59.932949,10.688924
+1575763,"Monolitveien 22, Skøyen",59.93384,10.6853
+1575764,"Monolitveien 20, Skøyen",59.933812,10.685388
+1575765,"Monolitveien 18, Skøyen",59.933774,10.685494
+1575766,"Monolitveien 16, Skøyen",59.933577,10.686182
+1575767,"Monolitveien 14C, Skøyen",59.933462,10.686713
+1575768,"Monolitveien 13B, Skøyen",59.933888,10.686741
+1575769,"Monolitveien 13, Skøyen",59.933871,10.686998
+1575770,"Monolitveien 37, Skøyen",59.934959,10.683442
+1575771,"Monolitveien 36, Skøyen",59.934219,10.683691
+1575772,"Monolitveien 34, Skøyen",59.934108,10.683971
+1575773,"Monolitveien 32, Skøyen",59.934015,10.684253
+1575774,"Monolitveien 30, Skøyen",59.933903,10.684552
+1575775,"Monolitveien 28, Skøyen",59.934431,10.684006
+1575776,"Monolitveien 26, Skøyen",59.934338,10.684287
+1575777,"Monolitveien 24, Skøyen",59.934226,10.684568
+1575778,"Monolitveien 45, Skøyen",59.935381,10.68273
+1575779,"Monolitveien 44, Skøyen",59.934623,10.681635
+1575780,"Monolitveien 43, Skøyen",59.935166,10.682719
+1575781,"Monolitveien 42, Skøyen",59.934676,10.681727
+1575782,"Monolitveien 41, Skøyen",59.935128,10.682842
+1575783,"Monolitveien 40, Skøyen",59.934728,10.681819
+1575784,"Monolitveien 39, Skøyen",59.935081,10.683019
+1575785,"Monolitveien 38, Skøyen",59.934619,10.682673
+1575786,"Monolitveien 60, Skøyen",59.935172,10.681502
+1575787,"Monolitveien 58, Skøyen",59.935135,10.681607
+1575788,"Monolitveien 56, Skøyen",59.93508,10.68173
+1575789,"Monolitveien 54, Skøyen",59.93492,10.681561
+1575790,"Monolitveien 52, Skøyen",59.934927,10.681704
+1575791,"Monolitveien 50, Skøyen",59.934926,10.681847
+1575792,"Monolitveien 48, Skøyen",59.934933,10.681991
+1575793,"Monolitveien 46A, Skøyen",59.934497,10.68138
+1575794,"Monolitveien 76, Skøyen",59.934948,10.680757
+1575795,"Monolitveien 74, Skøyen",59.934893,10.680861
+1575796,"Monolitveien 72, Skøyen",59.934847,10.680984
+1575797,"Monolitveien 70, Skøyen",59.934809,10.68109
+1575798,"Monolitveien 68, Skøyen",59.934979,10.681152
+1575799,"Monolitveien 66, Skøyen",59.935051,10.681138
+1575800,"Monolitveien 64, Skøyen",59.935113,10.681213
+1575801,"Monolitveien 62, Skøyen",59.935165,10.681358
+1575806,"Monolitveien 84, Skøyen",59.934799,10.680499
+1575807,"Monolitveien 82, Skøyen",59.934708,10.680601
+1575808,"Monolitveien 80, Skøyen",59.934662,10.680689
+1575809,"Monolitveien 78, Skøyen",59.934624,10.680812
+1577760,"Nedre Silkestrå 3, Skøyen",59.929461,10.684935
+1577761,"Nedre Silkestrå 4, Skøyen",59.92922,10.683457
+1578005,"Nedre Silkestrå 5, Skøyen",59.929045,10.683432
+1578006,"Nedre Silkestrå 6, Skøyen",59.928925,10.682972
+1578007,"Nedre Silkestrå 7, Skøyen",59.929072,10.682838
+1578008,"Nedre Silkestrå 8, Skøyen",59.929263,10.682867
+1578009,"Nedre Silkestrå 17, Skøyen",59.928893,10.684423
+1578010,"Nedre Silkestrå 18, Skøyen",59.928623,10.68359
+1578011,"Nedre Silkestrå 19, Skøyen",59.928437,10.683829
+1578012,"Nedre Silkestrå 20, Skøyen",59.928236,10.683753
+1578013,"Nedre Silkestrå 21, Skøyen",59.928141,10.683435
+1578014,"Nedre Silkestrå 22, Skøyen",59.928249,10.683306
+1578015,"Nedre Silkestrå 23, Skøyen",59.928448,10.683205
+1578016,"Nedre Silkestrå 24, Skøyen",59.928677,10.68307
+1578017,"Nedre Silkestrå 9, Skøyen",59.929269,10.683154
+1578018,"Nedre Silkestrå 10, Skøyen",59.928905,10.683531
+1578019,"Nedre Silkestrå 11, Skøyen",59.928891,10.68385
+1578020,"Nedre Silkestrå 12, Skøyen",59.928997,10.684017
+1578021,"Nedre Silkestrå 13, Skøyen",59.929186,10.684026
+1578022,"Nedre Silkestrå 14, Skøyen",59.929243,10.684423
+1578023,"Nedre Silkestrå 15, Skøyen",59.929149,10.684776
+1578024,"Nedre Silkestrå 16, Skøyen",59.928943,10.684765
+1589508,"Skøyenstubben 8, Skøyen",59.930702,10.691136
+1589509,"Skøyenstubben 10, Skøyen",59.930554,10.690824
+1589510,"Skøyensvingen 1, Skøyen",59.931074,10.692282
+1589511,"Skøyensvingen 2, Skøyen",59.930702,10.692585
+1589512,"Skøyensvingen 3, Skøyen",59.930843,10.692073
+1589513,"Skøyensvingen 4, Skøyen",59.930516,10.692379
+1589514,"Skøyensvingen 5, Skøyen",59.930549,10.691844
+1589515,"Skøyensvingen 6, Skøyen",59.930348,10.692138
+1589520,"Skøyenstubben 2, Skøyen",59.93134,10.69183
+1589521,"Skøyenstubben 4, Skøyen",59.931174,10.69163
+1589522,"Skøyenstubben 6, Skøyen",59.930967,10.691471
+1589523,"Skøyensvingen 16A, Skøyen",59.929725,10.690316
+1589524,"Skøyensvingen 18A, Skøyen",59.929749,10.689928
+1589525,"Skøyenveien 5B, Skøyen",59.934102,10.692884
+1589526,"Skøyenveien 5C, Skøyen",59.934075,10.692864
+1589527,"Skøyenveien 5D, Skøyen",59.933933,10.692714
+1589528,"Skøyenveien 5E, Skøyen",59.933898,10.692676
+1589529,"Skøyenveien 7A, Skøyen",59.933796,10.692206
+1589530,"Skøyenveien 7B, Skøyen",59.933693,10.692505
+1589531,"Skøyensvingen 7, Skøyen",59.930365,10.69153
+1589532,"Skøyensvingen 8, Skøyen",59.930234,10.691917
+1589533,"Skøyensvingen 9, Skøyen",59.930268,10.691364
+1589534,"Skøyensvingen 10A, Skøyen",59.930076,10.691641
+1589535,"Skøyensvingen 10B, Skøyen",59.929975,10.691832
+1589536,"Skøyensvingen 11A, Skøyen",59.930104,10.690837
+1589537,"Skøyensvingen 11B, Skøyen",59.930072,10.690549
+1589538,"Skøyensvingen 12, Skøyen",59.929866,10.691183
+1589539,"Skøyenveien 9H, Skøyen",59.933393,10.692114
+1589540,"Skøyenveien 9J, Skøyen",59.933446,10.69217
+1589541,"Skøyenveien 11A, Skøyen",59.933264,10.691713
+1589542,"Skøyenveien 11C, Skøyen",59.933046,10.691846
+1589543,"Skøyenveien 13, Skøyen",59.93278,10.691599
+1589544,"Skøyenveien 15A, Skøyen",59.932704,10.69122
+1589545,"Skøyenveien 15B, Skøyen",59.932558,10.691427
+1589546,"Skøyenveien 18, Skøyen",59.931623,10.691306
+1589547,"Skøyenveien 7C, Skøyen",59.933658,10.692467
+1589548,"Skøyenveien 9A, Skøyen",59.933548,10.691961
+1589549,"Skøyenveien 9B, Skøyen",59.933338,10.692218
+1589550,"Skøyenveien 9C, Skøyen",59.933409,10.692258
+1589551,"Skøyenveien 9D, Skøyen",59.933313,10.692092
+1589552,"Skøyenveien 9E, Skøyen",59.933375,10.692149
+1589553,"Skøyenveien 9F, Skøyen",59.933437,10.692223
+1589554,"Skøyenveien 9G, Skøyen",59.933322,10.692056
+1589555,"Skøyenveien 29, Skøyen",59.930739,10.689706
+1589556,"Skøyenveien 30, Skøyen",59.930356,10.690134
+1589557,"Skøyenveien 31, Skøyen",59.930509,10.68939
+1589558,"Skøyenveien 32, Skøyen",59.93017,10.68991
+1589559,"Skøyenveien 34, Skøyen",59.92979,10.689443
+1589560,"Skøyenveien 35, Skøyen",59.93011,10.688901
+1589561,"Skøyenveien 36, Skøyen",59.929579,10.689056
+1589562,"Skøyenveien 19, Skøyen",59.931881,10.69029
+1589563,"Skøyenveien 20, Skøyen",59.931411,10.691412
+1589564,"Skøyenveien 21, Skøyen",59.931541,10.69014
+1589565,"Skøyenveien 22, Skøyen",59.931216,10.690965
+1589566,"Skøyenveien 24, Skøyen",59.931048,10.690777
+1589567,"Skøyenveien 25, Skøyen",59.931138,10.690084
+1589568,"Skøyenveien 27, Skøyen",59.930978,10.689933
+1589569,"Skøyenveien 28, Skøyen",59.930631,10.690522
+1589570,"Skøyenveien 51, Skøyen",59.92871,10.686776
+1589571,"Skøyenveien 53, Skøyen",59.928454,10.686494
+1589572,"Skøyenveien 55, Skøyen",59.928358,10.686203
+1589573,"Skøyenveien 57, Skøyen",59.928172,10.685997
+1589574,"Skøyenveien 59, Skøyen",59.928034,10.686312
+1589575,"Skøyenveien 61, Skøyen",59.928156,10.686569
+1589576,"Skøyenveien 63, Skøyen",59.928333,10.68681
+1589577,"Skøyenveien 65, Skøyen",59.928301,10.687166
+1589578,"Skøyenveien 36B, Skøyen",59.929332,10.68874
+1589579,"Skøyenveien 37, Skøyen",59.929871,10.688713
+1589580,"Skøyenveien 38, Skøyen",59.928942,10.689006
+1589581,"Skøyenveien 39, Skøyen",59.929767,10.68844
+1589582,"Guldbergs vei 36, Skøyen",59.929901,10.688008
+1589583,"Skøyenveien 41, Skøyen",59.929569,10.687732
+1589584,"Skøyenveien 43, Skøyen",59.929176,10.687622
+1589585,"Skøyenveien 81, Skøyen",59.927471,10.686784
+1589586,"Skøyenveien 83, Skøyen",59.927376,10.686439
+1589587,"Skøyenveien 85, Skøyen",59.927709,10.686456
+1589588,"Skøyenveien 87, Skøyen",59.927831,10.685997
+1589589,"Skøyenveien 89, Skøyen",59.927996,10.685737
+1589590,"Skøyenveien 91, Skøyen",59.927911,10.685411
+1589591,"Skøyenveien 93, Skøyen",59.927716,10.685186
+1589592,"Skøyenveien 95, Skøyen",59.927587,10.685466
+1589593,"Skøyenveien 67, Skøyen",59.928378,10.68751
+1589594,"Skøyenveien 67B, Skøyen",59.928728,10.687474
+1589595,"Skøyenveien 69, Skøyen",59.928107,10.687622
+1589596,"Skøyenveien 71, Skøyen",59.928078,10.687066
+1589597,"Skøyenveien 73, Skøyen",59.927946,10.686826
+1589598,"Skøyenveien 75, Skøyen",59.927919,10.687541
+1589599,"Skøyenveien 77, Skøyen",59.927806,10.687249
+1589600,"Skøyenveien 79, Skøyen",59.92764,10.6869
+1589609,"Skøyenveien 97, Skøyen",59.927625,10.686005
+1589610,"Skøyenveien 99, Skøyen",59.927429,10.685852
+1594255,"Svalbardveien 2A, Ris",59.935355,10.693878
+1594256,"Svalbardveien 4, Ris",59.935811,10.694063
+1594264,"Svalbardveien 11A, Ris",59.937145,10.695337
+1594265,"Svalbardveien 11B, Ris",59.937234,10.695443
+1594266,"Svalbardveien 12, Ris",59.937248,10.694798
+1594267,"Svalbardveien 14, Ris",59.937623,10.69496
+1594268,"Svalbardveien 14B, Ris",59.937477,10.695132
+1594269,"Svalbardveien 16B, Ris",59.937825,10.695329
+1594270,"Svalbardveien 16C, Ris",59.93827,10.695298
+1594271,"Svalbardveien 18, Ris",59.938052,10.695788
+1594272,"Svalbardveien 4B, Ris",59.93578,10.693649
+1594273,"Svalbardveien 5, Ris",59.936178,10.694833
+1594274,"Svalbardveien 6, Ris",59.936222,10.694262
+1594275,"Svalbardveien 7, Ris",59.936536,10.694923
+1594276,"Svalbardveien 8, Ris",59.936625,10.694337
+1594277,"Svalbardveien 9A, Ris",59.936832,10.695097
+1594278,"Svalbardveien 9B, Ris",59.936807,10.695168
+1594279,"Svalbardveien 10, Ris",59.936815,10.694221
+1596361,"Bekkelistubben 13, Skøyen",59.933178,10.685768
+1607538,"Svalbardveien 1C, Ris",59.935536,10.694532
+1607544,"Svalbardveien 1E, Ris",59.9354,10.695277
+1607545,"Svalbardveien 1D, Ris",59.935459,10.694886
+1607546,"Svalbardveien 1B, Ris",59.935165,10.69471
+1607547,"Svalbardveien 1A, Ris",59.935196,10.694389
+1607605,"Hjørungkroken 16, Ris",59.935743,10.692377
+1607618,"Hjørungkroken 34, Ris",59.935542,10.692653
+1607630,"Hjørungkroken 20, Ris",59.935667,10.692695
+1607631,"Hjørungkroken 18, Ris",59.935732,10.692519
+1607632,"Hjørungkroken 24, Ris",59.935576,10.692798
+1607633,"Hjørungkroken 22, Ris",59.935621,10.692746
+1607634,"Hjørungkroken 28, Ris",59.935652,10.692479
+1607635,"Hjørungkroken 26, Ris",59.935669,10.692334
+1607636,"Hjørungkroken 32, Ris",59.935578,10.692601
+1607638,"Hjørungkroken 30, Ris",59.935633,10.692532
+1608757,"Solskinnskroken 13, Ris",59.939673,10.690572
+1608759,"Solskinnskroken 12, Ris",59.938825,10.690171
+1608761,"Solskinnskroken 20, Ris",59.938681,10.689448
+1608763,"Solskinnskroken 18, Ris",59.938926,10.689299
+1608765,"Solskinnskroken 24, Ris",59.938378,10.689969
+1608767,"Solskinnskroken 22, Ris",59.938516,10.689744
+1608792,"Solskinnskroken 28, Ris",59.938063,10.690025
+1608794,"Solskinnskroken 26, Ris",59.938204,10.690265
+1608796,"Solskinnskroken 32, Ris",59.938484,10.68942
+1608798,"Solskinnskroken 30, Ris",59.938265,10.689713
+1608800,"Solskinnskroken 36, Ris",59.93884,10.688955
+1608802,"Solskinnskroken 34, Ris",59.938603,10.689267
+1608806,"Solskinnskroken 38, Ris",59.939294,10.68998
+1608846,"Hjørungveien 3A, Ris",59.936404,10.692607
+1608848,"Hjørungveien 3C, Ris",59.935993,10.692515
+1608849,"Hjørungveien 3B, Ris",59.93619,10.692525
+1608871,"Heggelibakken 1, Ris",59.935956,10.691153
+1608873,"Heggelibakken 5, Ris",59.936269,10.691258
+1608874,"Heggelibakken 2, Ris",59.936079,10.69064
+1608883,"Heggelibakken 17, Ris",59.937019,10.692299
+1608884,"Heggelibakken 16, Ris",59.937287,10.691059
+1608885,"Heggelibakken 22, Ris",59.93775,10.690671
+1608886,"Heggelibakken 20, Ris",59.937769,10.691281
+1608887,"Heggelibakken 24, Ris",59.937928,10.69077
+1608888,"Heggelibakken 23A, Ris",59.937768,10.692697
+1608889,"Heggelibakken 26, Ris",59.938073,10.691386
+1608890,"Heggelibakken 7, Ris",59.936395,10.691282
+1608891,"Heggelibakken 6, Ris",59.936693,10.690438
+1608892,"Heggelibakken 9, Ris",59.936952,10.691638
+1608893,"Heggelibakken 8, Ris",59.93649,10.690822
+1608894,"Heggelibakken 14, Ris",59.936991,10.690973
+1608895,"Heggelibakken 10, Ris",59.936687,10.690886
+1608896,"Heggelibakken 15, Ris",59.937243,10.692382
+1608897,"Heggelibakken 13, Ris",59.937252,10.691666
+1608899,"Heggelibakken 39, Ris",59.938573,10.692968
+1608900,"Heggelibakken 43, Ris",59.938876,10.693163
+1608901,"Heggelibakken 41, Ris",59.938734,10.693066
+1608902,"Heggelibakken 47, Ris",59.938893,10.692573
+1608904,"Heggelibakken 45, Ris",59.938826,10.69291
+1608905,"Heggelibakken 49, Ris",59.938714,10.692528
+1608907,"Heggelibakken 30, Ris",59.938689,10.69165
+1608908,"Heggelibakken 29, Ris",59.938321,10.692311
+1608909,"Heggelibakken 32A, Ris",59.93891,10.691831
+1608910,"Heggelibakken 31, Ris",59.938193,10.692502
+1608911,"Heggelibakken 35, Ris",59.938298,10.692757
+1608912,"Heggelibakken 33, Ris",59.938118,10.692766
+1608913,"Heggelibakken 37, Ris",59.93844,10.692872
+1608922,"Heggelibakken 51, Ris",59.938571,10.692449
+1608932,"Heggelibakken 4, Ris",59.936212,10.690826
+1608933,"Heggelibakken 3, Ris",59.936145,10.691144
+1608936,"Solskinnskroken 4, Ris",59.938205,10.690891
+1608937,"Solskinnskroken 3A, Ris",59.938732,10.691097
+1608946,"Solskinnskroken 5, Ris",59.938834,10.690852
+1608993,"Hjørungkroken 1, Ris",59.935984,10.693159
+1609025,"Hjørungveien 5A, Ris",59.936212,10.692938
+1609035,"Heggeliveien 44A, Skøyen",59.934001,10.688852
+1609056,"Heggeliveien 44B, Skøyen",59.934109,10.688786
+1609397,"Monolitveien 8, Skøyen",59.932154,10.690709
+1609441,"Heggeliveien 46A, Skøyen",59.934391,10.689247
+1609689,"Solskinnskroken 9, Ris",59.93932,10.690769
+1609692,"Solskinnskroken 7, Ris",59.939207,10.690441
+1610350,"Hjørungveien 2A, Ris",59.936696,10.691584
+1610359,"Monolitveien 6, Skøyen",59.929057,10.690605
+1610656,"Heggeliveien 42A, Skøyen",59.933522,10.688194
+1610671,"Heggeliveien 42B, Skøyen",59.933682,10.68846
+1610680,"Bekkeliveien 14A, Skøyen",59.931448,10.682673
+1610845,"Heggeliveien 42C, Skøyen",59.933872,10.688072
+1610969,"Bekkeliveien 14B, Skøyen",59.931598,10.682896
+1611080,"Heggeliveien 41B, Skøyen",59.933321,10.6893
+1611081,"Heggeliveien 41A, Skøyen",59.933427,10.689431
+1611082,"Heggeliveien 41D, Skøyen",59.933255,10.688868
+1611083,"Heggeliveien 41C, Skøyen",59.933224,10.689188
+1611084,"Heggeliveien 41F, Skøyen",59.933462,10.688878
+1611085,"Heggeliveien 41E, Skøyen",59.933414,10.689073
+1612171,"Guldbergs vei 25C, Skøyen",59.931224,10.686867
+1612695,"Svalbardveien 3D, Ris",59.935849,10.695282
+1612697,"Svalbardveien 3C, Ris",59.935881,10.694925
+1612722,"Svalbardveien 3B, Ris",59.935708,10.69506
+1612724,"Svalbardveien 3A, Ris",59.93574,10.694703
+1613412,"Solskinnskroken 6B, Ris",59.938327,10.690611
+1613413,"Solskinnskroken 6D, Ris",59.93849,10.69036
+1613414,"Solskinnskroken 6C, Ris",59.938514,10.690621
+1613557,"Bekkeliveien 2A, Skøyen",59.929984,10.680896
+1613558,"Bekkeliveien 2B, Skøyen",59.929907,10.681244
+1613601,"Solskinnskroken 6A, Ris",59.938459,10.690897
+1618827,"Skøyenveien 26A, Skøyen",59.9309,10.69043
+1618846,"Skøyenveien 26B, Skøyen",59.930843,10.690695
+1620309,"Bekkeliveien 8B, Skøyen",59.930712,10.681938
+1620339,"Bekkeliveien 8A, Skøyen",59.930566,10.682128
+1620423,"Hjørungkroken 36, Ris",59.935772,10.692137
+1620440,"Hjørungkroken 46, Ris",59.935802,10.691936
+1621015,"Heggeliveien 29, Skøyen",59.931673,10.68689
+1621249,"Skøyenveien 17, Skøyen",59.931989,10.690858
+1622083,"Monolitveien 11, Skøyen",59.933686,10.687726
+1624155,"Guldbergs vei 25B, Skøyen",59.931263,10.687335
+1624158,"Guldbergs vei 25A, Skøyen",59.931455,10.687774
+1624855,"Guldbergs vei 27A, Skøyen",59.930817,10.687115
+1624985,"Heggeliveien 42D, Skøyen",59.933909,10.687915
+1624987,"Heggeliveien 42F, Skøyen",59.934004,10.687705
+1624988,"Heggeliveien 42E, Skøyen",59.933924,10.687864
+1624990,"Heggeliveien 42G, Skøyen",59.934017,10.687652
+1625196,"Skøyenveien 5F, Skøyen",59.933948,10.692303
+1625199,"Skøyenveien 5A, Skøyen",59.93409,10.692364
+1625362,"Bekkeliveien 26C, Skøyen",59.93284,10.686878
+1625366,"Bekkeliveien 26B, Skøyen",59.932696,10.686906
+1625368,"Bekkeliveien 26A, Skøyen",59.93269,10.686727
+1625507,"Heggelibakken 19A, Ris",59.937661,10.691991
+1625508,"Heggelibakken 19B, Ris",59.937492,10.691822
+1625509,"Heggelibakken 19C, Ris",59.937488,10.692179
+1626093,"Heggeliveien 47A, Skøyen",59.934508,10.68988
+1626094,"Heggeliveien 47D, Skøyen",59.934376,10.690428
+1626101,"Heggeliveien 47C, Skøyen",59.934422,10.690341
+1626102,"Heggeliveien 47B, Skøyen",59.934432,10.690216
+1626511,"Skøyenveien 1B, Skøyen",59.934688,10.693397
+1626513,"Skøyenveien 1D, Skøyen",59.934574,10.693176
+1626514,"Skøyenveien 1C, Skøyen",59.934608,10.693339
+1626619,"Guldbergs vei 30E, Skøyen",59.93019,10.687575
+1626621,"Guldbergs vei 30D, Skøyen",59.93017,10.68768
+1626624,"Guldbergs vei 30A, Skøyen",59.930423,10.687686
+1626642,"Guldbergs vei 30C, Skøyen",59.930336,10.6882
+1626644,"Guldbergs vei 30B, Skøyen",59.930346,10.688129
+1628603,"Bekkeliveien 15B, Skøyen",59.932331,10.685241
+1628621,"Bekkeliveien 15A, Skøyen",59.93236,10.685118
+1628803,"Skøyensvingen 14B, Skøyen",59.929746,10.690747
+1628804,"Skøyensvingen 14A, Skøyen",59.929791,10.690814
+1629172,"Hjørungkroken 4, Ris",59.935731,10.693271
+1629176,"Hjørungkroken 8, Ris",59.935596,10.693318
+1629178,"Hjørungkroken 6, Ris",59.935713,10.69327
+1629180,"Hjørungkroken 14, Ris",59.935399,10.693272
+1629182,"Hjørungkroken 10, Ris",59.935524,10.693314
+1629186,"Hjørungkroken 12, Ris",59.935417,10.693273
+1629617,"Solskinnskroken 11A, Ris",59.939506,10.690277
+1629624,"Solskinnskroken 11B, Ris",59.939479,10.690294
+1629626,"Solskinnskroken 11D, Ris",59.939495,10.690456
+1629628,"Solskinnskroken 11C, Ris",59.939522,10.690457
+1629630,"Solskinnskroken 15C, Ris",59.939497,10.690939
+1629632,"Solskinnskroken 15A, Ris",59.939588,10.690872
+1629665,"Solskinnskroken 15D, Ris",59.939489,10.690885
+1629667,"Solskinnskroken 15B, Ris",59.93958,10.690818
+1629725,"Skøyenveien 1E, Skøyen",59.93443,10.693187
+1629727,"Skøyenveien 1A, Skøyen",59.9348,10.693027
+1629753,"Skøyenveien 1G, Skøyen",59.934279,10.693054
+1629755,"Skøyenveien 1F, Skøyen",59.934377,10.693095
+1629758,"Skøyenveien 1H, Skøyen",59.934317,10.69293
+1630052,"Guldbergs vei 18B, Skøyen",59.931872,10.689567
+1630053,"Guldbergs vei 18A, Skøyen",59.931993,10.689215
+1630120,"Hjørungveien 2E, Ris",59.93713,10.69277
+1630121,"Hjørungveien 2F, Ris",59.936882,10.693204
+1630122,"Hjørungveien 2B, Ris",59.936708,10.692086
+1630123,"Hjørungveien 2D, Ris",59.936796,10.692216
+1630125,"Hjørungveien 2C, Ris",59.936644,10.692172
+1630445,"Guldbergs vei 15B, Skøyen",59.932628,10.68948
+1630447,"Guldbergs vei 15A, Skøyen",59.932726,10.689521
+1630451,"Guldbergs vei 15C, Skøyen",59.932566,10.689387
+1631118,"Heggeliveien 33A, Skøyen",59.931951,10.68762
+1631119,"Heggeliveien 33B, Skøyen",59.932129,10.687754
+1631166,"Svalbardveien 2B, Ris",59.935358,10.693681
+1631167,"Svalbardveien 2C, Ris",59.935506,10.694011
+1645935,"Hjørungveien 5B, Ris",59.936304,10.693255
+1718724,"Bekkelistubben 15, Skøyen",59.933384,10.685903
+1761872,"Skøyensvingen 16D, Skøyen",59.92948,10.690354
+1761874,"Skøyensvingen 16C, Skøyen",59.929497,10.690457
+1761876,"Skøyensvingen 16B, Skøyen",59.929497,10.690566
+1780350,"Heggelibakken 23E, Ris",59.937413,10.692915
+1780352,"Heggelibakken 23F, Ris",59.937413,10.692859
+1780354,"Heggelibakken 23G, Ris",59.937432,10.692583
+1780360,"Heggelibakken 23B, Ris",59.937766,10.69278
+1780361,"Heggelibakken 23C, Ris",59.937569,10.69289
+1780362,"Heggelibakken 23D, Ris",59.937524,10.692888
+1780367,"Heggelibakken 23H, Ris",59.937433,10.69252
+1785354,"Guldbergs vei 14C, Skøyen",59.932253,10.690071
+1785356,"Guldbergs vei 14B, Skøyen",59.93237,10.690186
+1815681,"Bekkeliveien 24D, Skøyen",59.933035,10.686426
+1815682,"Bekkeliveien 24E, Skøyen",59.93296,10.686564
+1815684,"Bekkeliveien 24B, Skøyen",59.932787,10.686496
+1815686,"Bekkeliveien 24A, Skøyen",59.932801,10.686176
+1824608,"Heggelibakken 18B, Ris",59.937454,10.690772
+1824609,"Heggelibakken 18A, Ris",59.93725,10.69078
+1859176,"Skøyensvingen 18B, Skøyen",59.929691,10.690041
+1919918,"Skøyensvingen 14C, Skøyen",59.92977,10.691425
+1919919,"Skøyensvingen 14D, Skøyen",59.929745,10.691373
+1920383,"Skøyensvingen 14E, Skøyen",59.929598,10.691083
+1920384,"Skøyensvingen 14G, Skøyen",59.929551,10.690902
+1920385,"Skøyensvingen 14F, Skøyen",59.929578,10.691025
+1933528,"Guldbergs vei 42, Skøyen",59.929805,10.687889
+1933570,"Guldbergs vei 40, Skøyen",59.929792,10.687924
+1933597,"Guldbergs vei 34, Skøyen",59.929939,10.68774
+1933598,"Guldbergs vei 38, Skøyen",59.929885,10.688048
+1933600,"Guldbergs vei 32, Skøyen",59.929932,10.6877
+1937464,"Heggelibakken 27F, Ris",59.937846,10.691947
+1937466,"Heggelibakken 27G, Ris",59.937801,10.691932
+1937469,"Heggelibakken 27E, Ris",59.938023,10.69201
+1937623,"Heggelibakken 27B, Ris",59.937888,10.692393
+1937624,"Heggelibakken 27C, Ris",59.937844,10.692376
+1937625,"Heggelibakken 27A, Ris",59.937937,10.692412
+1937626,"Heggelibakken 27D, Ris",59.938069,10.692026
+1938408,"Guldbergs vei 29B, Skøyen",59.930057,10.68688
+1941297,"Heggeliveien 50F, Skøyen",59.934966,10.689101
+1941354,"Heggeliveien 50H, Skøyen",59.935167,10.689559
+1941355,"Heggeliveien 50J, Skøyen",59.935147,10.689309
+1941390,"Heggeliveien 50K, Skøyen",59.935246,10.689946
+1941435,"Heggeliveien 50D, Skøyen",59.934926,10.689271
+1941437,"Heggeliveien 50A, Skøyen",59.934834,10.689621
+1941439,"Heggeliveien 50E, Skøyen",59.934943,10.689202
+1941494,"Heggeliveien 50L, Skøyen",59.935277,10.689974
+1943830,"Heggeliveien 37C, Skøyen",59.932484,10.688504
+1943831,"Heggeliveien 37B, Skøyen",59.932564,10.688181
+1969757,"Heggelibakken 12B, Ris",59.937074,10.690644
+1969758,"Heggelibakken 12A, Ris",59.936883,10.690572
+1986088,"Katy Dues vei 5B, Skøyen",59.934949,10.688059
+1994774,"Solskinnskroken 8, Ris",59.938604,10.690192
+1994776,"Solskinnskroken 14, Ris",59.938836,10.689751
+1995697,"Solskinnskroken 10, Ris",59.938756,10.690407
+2004239,"Guldbergs vei 3B, Skøyen",59.934841,10.691237
+2004240,"Guldbergs vei 3C, Skøyen",59.934691,10.691106
+2005887,"Monolitveien 14A, Skøyen",59.933158,10.686695
+2005888,"Monolitveien 14B, Skøyen",59.933291,10.68675
+2005890,"Monolitveien 14D, Skøyen",59.933369,10.686193
+2013142,"Monolitveien 46B, Skøyen",59.934518,10.681175
+2013361,"Monolitveien 46C, Skøyen",59.934515,10.680987
+2015592,"Svalbardveien 16A, Ris",59.937653,10.695436
+2016132,"Hjørungveien 6A, Ris",59.936569,10.693595
+2032822,"Katy Dues vei 2A, Skøyen",59.934054,10.688312
+2032873,"Katy Dues vei 2B, Skøyen",59.934152,10.688106
+2039010,"Heggelibakken 32D, Ris",59.938987,10.691876
+2039011,"Heggelibakken 32C, Ris",59.938979,10.691901
+2039012,"Heggelibakken 32B, Ris",59.938914,10.691806
+2064518,"Heggeliveien 51A, Skøyen",59.935046,10.690446
+2076830,"Solskinnskroken 3B, Ris",59.938904,10.691235
+2077341,"Hjørungveien 10, Ris",59.936517,10.695502
+2078326,"Guldbergs vei 12B, Skøyen",59.932768,10.690731
+2078533,"Guldbergs vei 12D, Skøyen",59.932845,10.690366
+2078544,"Guldbergs vei 12E, Skøyen",59.932988,10.690509
+2078545,"Guldbergs vei 12A, Skøyen",59.932912,10.690871
+2078580,"Guldbergs vei 12C, Skøyen",59.932683,10.690642
+2088303,"Heggeliveien 48B, Skøyen",59.934717,10.689064
+2088360,"Heggeliveien 31A, Skøyen",59.931898,10.687132
+2088361,"Heggeliveien 31B, Skøyen",59.931808,10.687391
+2088362,"Heggeliveien 31C, Skøyen",59.931744,10.687567
+2090017,"Skøyenveien 11B, Skøyen",59.933178,10.692053
+2377954,"Hjørungkroken 40, Ris",59.935798,10.692073
+2377955,"Hjørungkroken 42, Ris",59.935799,10.692045
+2377956,"Hjørungkroken 38, Ris",59.935759,10.692131
+2377957,"Hjørungkroken 44, Ris",59.935814,10.691944
+2377958,"Hjørungkroken 48, Ris",59.935823,10.691878
+2377959,"Hjørungkroken 50, Ris",59.935812,10.69187
+2377961,"Hjørungkroken 52, Ris",59.935867,10.691794
+2377962,"Hjørungkroken 54, Ris",59.935846,10.691786
+2485322,"Skøyenveien 33B, Skøyen",59.930373,10.688816
+2485354,"Skøyenveien 33A, Skøyen",59.930269,10.689217
+2487302,"Guldberglia 15A, Skøyen",59.929791,10.685377
+2488918,"Skøyenveien 3, Skøyen",59.934538,10.692874

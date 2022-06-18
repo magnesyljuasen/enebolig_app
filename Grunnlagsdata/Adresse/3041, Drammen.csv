@@ -1,0 +1,712 @@
+,Navn,Long,Lat
+798611,"Fjordgløtten 1, Austad Fjell",59.724438,10.218109
+798612,"Fjordgløtten 1A, Austad Fjell",59.72423,10.218244
+798613,"Fjordgløtten 3, Austad Fjell",59.724594,10.217706
+798614,"Fjordgløtten 3A, Austad Fjell",59.724721,10.217568
+798615,"Fjordgløtten 5, Austad Fjell",59.724769,10.217285
+798616,"Fjordgløtten 7, Austad Fjell",59.724915,10.216971
+798617,"Fjordgløtten 9, Austad Fjell",59.725043,10.216708
+798618,"Fjordgløtten 11, Austad Fjell",59.725163,10.216339
+798682,"Iver Holters gate 40, Tangen og Strømsø",59.72869,10.221447
+798683,"Iver Holters gate 42, Tangen og Strømsø",59.728373,10.221756
+798684,"Bjørnstjerne Bjørnsons gate 132, Tangen og Strømsø",59.729341,10.222929
+798821,"Markusveien 36, Austad Fjell",59.72532,10.219742
+798822,"Per Syvertsens vei 1, Austad Fjell",59.72366,10.217654
+798823,"Per Syvertsens vei 2, Austad Fjell",59.723942,10.218251
+798824,"Per Syvertsens vei 3, Austad Fjell",59.723871,10.217235
+798825,"Per Syvertsens vei 3A, Austad Fjell",59.72384,10.217643
+798826,"Per Syvertsens vei 3B, Austad Fjell",59.724041,10.217277
+798827,"Per Syvertsens vei 4, Austad Fjell",59.724142,10.217992
+798828,"Per Syvertsens vei 6, Austad Fjell",59.724298,10.217677
+798829,"Per Syvertsens vei 7, Austad Fjell",59.724188,10.216909
+798830,"Per Syvertsens vei 8, Austad Fjell",59.724473,10.217168
+798831,"Per Syvertsens vei 9, Austad Fjell",59.724407,10.216543
+798832,"Per Syvertsens vei 10, Austad Fjell",59.724693,10.216731
+798833,"Per Syvertsens vei 11, Austad Fjell",59.724581,10.216247
+798834,"Per Syvertsens vei 12, Austad Fjell",59.724904,10.216223
+798954,"Skogerveien 18, Austad Fjell",59.724261,10.218725
+798955,"Skogerveien 20, Austad Fjell",59.723984,10.218573
+798956,"Skogerveien 44, Austad Fjell",59.722076,10.220939
+798958,"Skogerveien 45, Austad Fjell",59.72357,10.218664
+798959,"Skogerveien 4, Austad Fjell",59.725595,10.217244
+798960,"Skogerveien 5, Austad Fjell",59.725253,10.218299
+799069,"Tollbugata 87, Tangen og Strømsø",59.733661,10.218089
+799070,"Tollbugata 91, Tangen og Strømsø",59.733226,10.2185
+799071,"Tollbugata 92, Tangen og Strømsø",59.732896,10.218221
+799072,"Tollbugata 94, Tangen og Strømsø",59.732787,10.218413
+799073,"Tollbugata 96, Tangen og Strømsø",59.732677,10.218604
+799074,"Tollbugata 97, Tangen og Strømsø",59.73257,10.219508
+799075,"Tollbugata 98, Tangen og Strømsø",59.732145,10.218905
+799076,"Tollbugata 99, Tangen og Strømsø",59.732352,10.21982
+799077,"Tollbugata 101, Tangen og Strømsø",59.732087,10.220308
+799078,"Tollbugata 102, Tangen og Strømsø",59.731736,10.220349
+799079,"Tollbugata 105, Tangen og Strømsø",59.731866,10.220816
+799121,"Wærners gate 2, Tangen og Strømsø",59.726833,10.224136
+799122,"Wærners gate 4, Tangen og Strømsø",59.726691,10.223971
+799123,"Wærners gate 6, Tangen og Strømsø",59.726549,10.223752
+799124,"Wærners gate 8, Tangen og Strømsø",59.726407,10.223587
+799125,"Wærners gate 11A, Tangen og Strømsø",59.726774,10.224756
+799126,"Wærners gate 11B, Tangen og Strømsø",59.726737,10.224826
+799127,"Wærners gate 11C, Tangen og Strømsø",59.726692,10.224878
+799128,"Wærners gate 11D, Tangen og Strømsø",59.726628,10.224964
+799162,"Christian Bloms gate 21, Tangen og Strømsø",59.732442,10.217813
+799204,"Kleivene 124, Austad Fjell",59.722017,10.222442
+799205,"Kleivene 126A, Austad Fjell",59.721968,10.22298
+799217,"Kleivene 126B, Austad Fjell",59.721871,10.222746
+799278,"Verven 18B, Tangen og Strømsø",59.729161,10.221073
+799288,"Tollbugata 97B, Tangen og Strømsø",59.732758,10.21955
+799289,"Tollbugata 98B, Tangen og Strømsø",59.732287,10.218999
+799293,"Nærbyveien 68, Austad Fjell",59.720594,10.227713
+799303,"Tollbugata 106B, Tangen og Strømsø",59.731491,10.220589
+799320,"Rundtomsvingen 23, Tangen og Strømsø",59.728718,10.225663
+799347,"Hans Kiærs gate 10B, Tangen og Strømsø",59.73164,10.21814
+799348,"Per Syvertsens vei 7B, Austad Fjell",59.724252,10.21684
+799592,"Markusveien 26A, Austad Fjell",59.72579,10.217916
+1649519,"Johan Sverdrups vei 11B, Austad Fjell",59.727248,10.216536
+1660229,"Hans Kiærs gate 1G, Tangen og Strømsø",59.731187,10.224368
+1732296,"Tollbugata 100B, Tangen og Strømsø",59.732161,10.219662
+1830298,"Kleivene 141, Austad Fjell",59.722134,10.223184
+1878855,"Aabys gate 5B, Tangen og Strømsø",59.732379,10.218697
+1878856,"Aabys gate 5A, Tangen og Strømsø",59.732406,10.218751
+1878857,"Aabys gate 5C, Tangen og Strømsø",59.732345,10.218624
+1880807,"Tordenskiolds gate 126, Tangen og Strømsø",59.733318,10.217402
+1952523,"Tollbugata 84, Tangen og Strømsø",59.733862,10.217292
+1959534,"Kleivene 45, Austad Fjell",59.725447,10.223922
+1985594,"Holmestrandsveien 56C, Tangen og Strømsø",59.725481,10.228059
+2009278,"Finnerudveien 19B, Austad Fjell",59.724715,10.225054
+2016076,"Nærbyveien 20, Austad Fjell",59.724278,10.225896
+2016113,"Nærbyveien 28, Austad Fjell",59.723869,10.226005
+2016114,"Nærbyveien 26, Austad Fjell",59.723928,10.226018
+2016115,"Nærbyveien 18, Austad Fjell",59.724324,10.225823
+2043884,"Hans Kiærs gate 1F, Tangen og Strømsø",59.73209,10.222126
+2044686,"Kleivene 139, Austad Fjell",59.722089,10.223235
+2107276,"Arbos gate 2B, Tangen og Strømsø",59.732097,10.218457
+2109605,"Kleivene 85, Austad Fjell",59.723834,10.221082
+2109989,"Kleivene 97, Austad Fjell",59.723826,10.221485
+2167960,"Nærbyveien 22A, Austad Fjell",59.724151,10.225987
+2194917,"Aabys gate 8, Tangen og Strømsø",59.732587,10.21834
+2210721,"Bromannsgangen 4A, Tangen og Strømsø",59.734318,10.215943
+2210733,"Bromannsgangen 11A, Tangen og Strømsø",59.73358,10.215204
+2210734,"Bromannsgangen 11B, Tangen og Strømsø",59.733552,10.215274
+2210735,"Bromannsgangen 11C, Tangen og Strømsø",59.733525,10.215327
+2210736,"Bromannsgangen 17, Tangen og Strømsø",59.733341,10.214858
+2210737,"Bromannsgangen 22, Tangen og Strømsø",59.732956,10.214719
+2210764,"Brandenggata 10, Tangen og Strømsø",59.727509,10.220995
+2210765,"Brandenggata 11, Tangen og Strømsø",59.727369,10.221559
+2210766,"Brandenggata 12, Tangen og Strømsø",59.727347,10.221078
+2211195,"Fjellsbyveien 26, Austad Fjell",59.722821,10.224896
+2211758,"Frydenhaugveien 37, Tangen og Strømsø",59.72838,10.215665
+2211759,"Frydenhaugveien 39, Tangen og Strømsø",59.728163,10.215346
+2211760,"Frydenhaugveien 42, Austad Fjell",59.727926,10.213772
+2211761,"Frydenhaugveien 43, Austad Fjell",59.727424,10.213683
+2211762,"Frydenhaugveien 45, Austad Fjell",59.727104,10.213369
+2211763,"Frydenhaugveien 46, Austad Fjell",59.727943,10.212972
+2211764,"Frydenhaugveien 48, Austad Fjell",59.727771,10.213108
+2211765,"Frydenhaugveien 50, Austad Fjell",59.727493,10.213009
+2212972,"Rundtomsvingen 9, Tangen og Strømsø",59.72958,10.225286
+2212973,"Rundtomsvingen 11, Tangen og Strømsø",59.729462,10.225335
+2212974,"Rundtomsvingen 13, Tangen og Strømsø",59.729336,10.225401
+2212975,"Rundtomsvingen 15, Tangen og Strømsø",59.729219,10.225415
+2212976,"Rundtomsvingen 17, Tangen og Strømsø",59.729147,10.225448
+2212977,"Rundtomsvingen 19, Tangen og Strømsø",59.72903,10.225497
+2212978,"Rundtomsvingen 21, Tangen og Strømsø",59.728877,10.225545
+2212983,"Holmestrandsveien 32, Tangen og Strømsø",59.726924,10.226914
+2213388,"Johan Sverdrups vei 1, Austad Fjell",59.727778,10.214265
+2213389,"Johan Sverdrups vei 2, Austad Fjell",59.727584,10.213902
+2213390,"Johan Sverdrups vei 3, Austad Fjell",59.72764,10.214651
+2213391,"Johan Sverdrups vei 4, Austad Fjell",59.727304,10.214016
+2213393,"Johan Sverdrups vei 5, Austad Fjell",59.72752,10.214967
+2213394,"Johan Sverdrups vei 6, Austad Fjell",59.727237,10.21453
+2213395,"Johan Sverdrups vei 7, Austad Fjell",59.727382,10.215371
+2213396,"Johan Sverdrups vei 11A, Austad Fjell",59.727267,10.216467
+2213478,"Kleivene 129, Austad Fjell",59.722409,10.223832
+2213479,"Kleivene 130, Austad Fjell",59.721675,10.223539
+2213480,"Kleivene 131, Austad Fjell",59.722316,10.223117
+2213481,"Kleivene 132, Austad Fjell",59.721581,10.224033
+2213482,"Kleivene 135, Austad Fjell",59.72233,10.222602
+2213483,"Kleivene 137, Austad Fjell",59.722468,10.222305
+2213484,"Kleivene 143, Austad Fjell",59.722196,10.223558
+2213493,"Kleivene 111, Austad Fjell",59.723062,10.221224
+2213494,"Kleivene 112, Austad Fjell",59.722951,10.220562
+2213495,"Kleivene 113, Austad Fjell",59.723013,10.221596
+2213496,"Kleivene 115, Austad Fjell",59.722946,10.222056
+2213497,"Kleivene 116, Austad Fjell",59.722611,10.221368
+2213498,"Kleivene 116A, Austad Fjell",59.72282,10.221144
+2213499,"Kleivene 117, Austad Fjell",59.722943,10.222376
+2213500,"Kleivene 118, Austad Fjell",59.722446,10.221753
+2213501,"Kleivene 119, Austad Fjell",59.722662,10.222614
+2213502,"Kleivene 121, Austad Fjell",59.72273,10.222119
+2213503,"Kleivene 122, Austad Fjell",59.722103,10.221972
+2213504,"Kleivene 125, Austad Fjell",59.72272,10.22315
+2213505,"Kleivene 127, Austad Fjell",59.722591,10.223501
+2213506,"Kleivene 128, Austad Fjell",59.721777,10.223222
+2213543,"Kleivene 11, Tangen og Strømsø",59.726645,10.223133
+2213544,"Kleivene 11A, Tangen og Strømsø",59.726723,10.223438
+2213545,"Kleivene 12, Tangen og Strømsø",59.727055,10.222544
+2213546,"Kleivene 13, Tangen og Strømsø",59.726392,10.223284
+2213547,"Kleivene 14, Tangen og Strømsø",59.726865,10.222608
+2213584,"Kleivene 1, Tangen og Strømsø",59.727725,10.222924
+2214424,"Markusveien 4B, Austad Fjell",59.7263,10.213891
+2214441,"Maria Fegths gate 28, Tangen og Strømsø",59.725391,10.232441
+2214442,"Maria Fegths gate 29, Tangen og Strømsø",59.725135,10.232877
+2214443,"Maria Fegths gate 30, Tangen og Strømsø",59.725328,10.232368
+2214444,"Maria Fegths gate 31A, Tangen og Strømsø",59.724963,10.232319
+2214445,"Maria Fegths gate 31B, Tangen og Strømsø",59.724838,10.232181
+2214446,"Maria Fegths gate 31C, Tangen og Strømsø",59.724696,10.232046
+2214447,"Maria Fegths gate 32, Tangen og Strømsø",59.725305,10.231976
+2214448,"Maria Fegths gate 34, Tangen og Strømsø",59.72529,10.23162
+2214449,"Maria Fegths gate 36, Tangen og Strømsø",59.725258,10.231263
+2214457,"Maria Fegths gate 8E, Tangen og Strømsø",59.725494,10.230027
+2214458,"Maria Fegths gate 8F, Tangen og Strømsø",59.725431,10.23006
+2214459,"Maria Fegths gate 11, Tangen og Strømsø",59.726363,10.23029
+2214460,"Maria Fegths gate 14A, Tangen og Strømsø",59.72594,10.230363
+2214461,"Maria Fegths gate 14B, Tangen og Strømsø",59.725886,10.230397
+2214462,"Maria Fegths gate 14C, Tangen og Strømsø",59.725804,10.230447
+2214463,"Maria Fegths gate 14D, Tangen og Strømsø",59.72575,10.230481
+2214464,"Maria Fegths gate 14E, Tangen og Strømsø",59.725678,10.230531
+2214465,"Maria Fegths gate 14F, Tangen og Strømsø",59.725615,10.230565
+2214466,"Maria Fegths gate 17, Tangen og Strømsø",59.726392,10.231038
+2214467,"Maria Fegths gate 20A, Tangen og Strømsø",59.726097,10.230849
+2214468,"Maria Fegths gate 20B, Tangen og Strømsø",59.726043,10.230883
+2214469,"Maria Fegths gate 20C, Tangen og Strømsø",59.72597,10.230951
+2214470,"Maria Fegths gate 20D, Tangen og Strømsø",59.725925,10.231003
+2214471,"Maria Fegths gate 20E, Tangen og Strømsø",59.725853,10.231054
+2214472,"Maria Fegths gate 20F, Tangen og Strømsø",59.725789,10.231087
+2214477,"Maria Fegths gate 2A, Tangen og Strømsø",59.725581,10.229319
+2214478,"Maria Fegths gate 2B, Tangen og Strømsø",59.725527,10.229334
+2214479,"Maria Fegths gate 2C, Tangen og Strømsø",59.725446,10.22942
+2214480,"Maria Fegths gate 2D, Tangen og Strømsø",59.725392,10.229454
+2214481,"Maria Fegths gate 2E, Tangen og Strømsø",59.72531,10.229504
+2214482,"Maria Fegths gate 2F, Tangen og Strømsø",59.725247,10.229573
+2214484,"Maria Fegths gate 5, Tangen og Strømsø",59.726054,10.229692
+2214485,"Maria Fegths gate 7, Tangen og Strømsø",59.726241,10.229894
+2214486,"Maria Fegths gate 8A, Tangen og Strømsø",59.725756,10.229823
+2214487,"Maria Fegths gate 8B, Tangen og Strømsø",59.725693,10.229856
+2214488,"Maria Fegths gate 8C, Tangen og Strømsø",59.725621,10.229925
+2214489,"Maria Fegths gate 8D, Tangen og Strømsø",59.725575,10.229976
+2215149,"Odins vei 14B, Tangen og Strømsø",59.726784,10.228438
+2215150,"Odins vei 14C, Tangen og Strømsø",59.72692,10.228336
+2215151,"Odins vei 20A, Tangen og Strømsø",59.726125,10.228858
+2215152,"Odins vei 20B, Tangen og Strømsø",59.726261,10.228721
+2215153,"Odins vei 20C, Tangen og Strømsø",59.726387,10.228619
+2215165,"Nærbyveien 78, Austad Fjell",59.718123,10.229845
+2215166,"Nærbyveien 81, Austad Fjell",59.718397,10.230282
+2215167,"Nærbyveien 84, Austad Fjell",59.71784,10.230297
+2215168,"Nærbyveien 89, Austad Fjell",59.717597,10.231301
+2215169,"Odins vei 1, Tangen og Strømsø",59.727789,10.22851
+2215170,"Odins vei 3, Tangen og Strømsø",59.727546,10.22859
+2215171,"Odins vei 4A, Tangen og Strømsø",59.727272,10.228118
+2215172,"Odins vei 4B, Tangen og Strømsø",59.727408,10.227998
+2215173,"Odins vei 4C, Tangen og Strømsø",59.727543,10.227914
+2215174,"Odins vei 5, Tangen og Strømsø",59.727302,10.228724
+2215175,"Odins vei 7, Tangen og Strømsø",59.727094,10.228912
+2215176,"Odins vei 10A, Tangen og Strømsø",59.726915,10.227838
+2215177,"Odins vei 10B, Tangen og Strømsø",59.727078,10.227702
+2215178,"Odins vei 14A, Tangen og Strømsø",59.726648,10.22854
+2215179,"Nærbyveien 80, Austad Fjell",59.718328,10.230013
+2215180,"Nærbyveien 6, Austad Fjell",59.72442,10.224866
+2215181,"Nærbyveien 8, Austad Fjell",59.7244,10.225061
+2215182,"Nærbyveien 16, Austad Fjell",59.724459,10.225436
+2215196,"Nærbyveien 34, Austad Fjell",59.723229,10.225445
+2215197,"Nærbyveien 38, Austad Fjell",59.723142,10.226135
+2215198,"Nærbyveien 47, Austad Fjell",59.722335,10.22687
+2215199,"Nærbyveien 55, Austad Fjell",59.721731,10.227204
+2215200,"Nærbyveien 62, Austad Fjell",59.721075,10.227215
+2215201,"Nærbyveien 66, Austad Fjell",59.721111,10.226238
+2216643,"Skogerveien 67, Austad Fjell",59.722142,10.221635
+2216661,"Skogerveien 53, Austad Fjell",59.723085,10.219625
+2216662,"Skogerveien 55, Austad Fjell",59.722865,10.22015
+2216664,"Skogerveien 57, Austad Fjell",59.722735,10.220554
+2216666,"Skogerveien 59, Austad Fjell",59.722551,10.221028
+2216668,"Skogerveien 61, Austad Fjell",59.722396,10.221378
+2216674,"Skogerveien 22, Austad Fjell",59.72353,10.218112
+2216675,"Skogerveien 26, Austad Fjell",59.723088,10.218327
+2216676,"Skogerveien 28A, Austad Fjell",59.723021,10.218787
+2216677,"Skogerveien 28B, Austad Fjell",59.722711,10.218349
+2216678,"Skogerveien 30, Austad Fjell",59.722921,10.218996
+2216679,"Skogerveien 32, Austad Fjell",59.722819,10.219295
+2216680,"Skogerveien 34, Austad Fjell",59.722664,10.219592
+2216681,"Skogerveien 36, Austad Fjell",59.722544,10.219925
+2216682,"Skogerveien 38, Austad Fjell",59.722335,10.220202
+2216683,"Skogerveien 40, Austad Fjell",59.722243,10.220448
+2216684,"Skogerveien 42, Austad Fjell",59.722204,10.220766
+2216692,"Skogerveien 29, Austad Fjell",59.724507,10.219374
+2216693,"Skogerveien 41, Austad Fjell",59.723836,10.219083
+2216694,"Skogerveien 6A, Austad Fjell",59.725346,10.217022
+2216695,"Skogerveien 6B, Austad Fjell",59.725374,10.216863
+2216696,"Skogerveien 7, Austad Fjell",59.725143,10.218579
+2216697,"Skogerveien 8, Austad Fjell",59.725322,10.217608
+2216729,"Skogerveien 1, Austad Fjell",59.725599,10.217813
+2216731,"Skogerveien 2A, Austad Fjell",59.725848,10.217129
+2216732,"Skogerveien 2B, Austad Fjell",59.725714,10.217
+2216733,"Skogerveien 3, Austad Fjell",59.725445,10.217986
+2217482,"Thomas Simensens vei 17, Austad Fjell",59.723613,10.222809
+2217483,"Thomas Simensens vei 18, Austad Fjell",59.723206,10.223097
+2217534,"Teglverksgata 19, Tangen og Strømsø",59.727887,10.221898
+2217535,"Teglverksgata 20, Tangen og Strømsø",59.727625,10.222031
+2217536,"Teglverksgata 21, Tangen og Strømsø",59.727974,10.222221
+2218193,"Verven 16, Tangen og Strømsø",59.729429,10.221172
+2218194,"Verven 18A, Tangen og Strømsø",59.729261,10.220952
+2218195,"Verven 23, Tangen og Strømsø",59.728451,10.223039
+2218196,"Verven 24, Tangen og Strømsø",59.728703,10.221999
+2218197,"Verven 24B, Tangen og Strømsø",59.72855,10.222082
+2218198,"Verven 25, Tangen og Strømsø",59.727741,10.224045
+2218199,"Verven 26, Tangen og Strømsø",59.728182,10.22198
+2218200,"Verven 27, Tangen og Strømsø",59.727586,10.224324
+2218496,"Aabys gate 13, Tangen og Strømsø",59.731771,10.217504
+2218529,"Aabys gate 3, Tangen og Strømsø",59.732476,10.219006
+2218689,"Ørka 24, Austad Fjell",59.725324,10.225201
+2218733,"Wærners gate 17, Tangen og Strømsø",59.725908,10.225169
+2218734,"Wærners gate 19, Tangen og Strømsø",59.726123,10.225159
+2218993,"Christian Bloms gate 26A, Tangen og Strømsø",59.73231,10.217542
+2218996,"Rundtomsvingen 1, Tangen og Strømsø",59.730282,10.225098
+2218997,"Rundtomsvingen 2, Tangen og Strømsø",59.729777,10.224386
+2218998,"Christian Bloms gate 16, Tangen og Strømsø",59.732653,10.216416
+2218999,"Christian Bloms gate 13, Tangen og Strømsø",59.732673,10.217128
+2219000,"Christian Bloms gate 20, Tangen og Strømsø",59.732571,10.216553
+2219001,"Christian Bloms gate 15, Tangen og Strømsø",59.732617,10.217322
+2219002,"Christian Bloms gate 22, Tangen og Strømsø",59.732513,10.216944
+2219003,"Christian Bloms gate 19, Tangen og Strømsø",59.732534,10.217568
+2219309,"Finnerudveien 1, Austad Fjell",59.725193,10.223756
+2219310,"Finnerudveien 3, Austad Fjell",59.725279,10.224186
+2219311,"Finnerudveien 5, Austad Fjell",59.72518,10.224236
+2219429,"Krinsilen 9, Austad Fjell",59.724763,10.220735
+2219430,"Krinsilen 11, Austad Fjell",59.724725,10.221054
+2219433,"Krinsilen 3, Austad Fjell",59.724873,10.219583
+2219434,"Krinsilen 5, Austad Fjell",59.724745,10.219845
+2219435,"Krinsilen 8, Austad Fjell",59.724479,10.220422
+2219436,"Krinsilen 6, Austad Fjell",59.724546,10.220016
+2219437,"Krinsilen 4, Austad Fjell",59.724565,10.219821
+2219525,"Thomas Simensens vei 15, Austad Fjell",59.723682,10.222154
+2219529,"Hans Kiærs gate 11, Tangen og Strømsø",59.731505,10.219113
+2219752,"Skogerveien 47, Austad Fjell",59.723483,10.219408
+2219774,"Aabys gate 16A, Tangen og Strømsø",59.731866,10.216974
+2219775,"Aabys gate 16B, Tangen og Strømsø",59.731958,10.216782
+2219776,"Hans Jægers vei 23, Austad Fjell",59.725843,10.22049
+2220041,"Hans Kiærs gate 9, Tangen og Strømsø",59.731551,10.219026
+2220042,"Aabys gate 14, Tangen og Strømsø",59.732062,10.217141
+2220044,"Hans Kiærs gate 17, Tangen og Strømsø",59.731439,10.219161
+2220045,"Hans Kiærs gate 19, Tangen og Strømsø",59.731488,10.219061
+2220046,"Hans Kiærs gate 23, Tangen og Strømsø",59.731329,10.21868
+2220069,"Hans Kiærs gate 15, Tangen og Strømsø",59.731533,10.218954
+2220070,"Hans Kiærs gate 13, Tangen og Strømsø",59.731459,10.2192
+2220071,"Hans Kiærs gate 29, Tangen og Strømsø",59.731357,10.218645
+2220072,"Hans Kiærs gate 21, Tangen og Strømsø",59.731383,10.218753
+2220073,"Aabys gate 13B, Tangen og Strømsø",59.73167,10.217821
+2220075,"Christian Bloms gate 26B, Tangen og Strømsø",59.732213,10.217307
+2220087,"Kleivene 116B, Austad Fjell",59.722672,10.221637
+2220248,"Aabys gate 2A, Tangen og Strømsø",59.733533,10.220272
+2220249,"Holmestrandsveien 16B, Tangen og Strømsø",59.728343,10.224956
+2220250,"Odins vei 12, Tangen og Strømsø",59.727314,10.227426
+2220278,"Fjellsbyveien 36B, Austad Fjell",59.721922,10.22593
+2220279,"Fjellsbyveien 36C, Austad Fjell",59.721956,10.22618
+2220339,"Markusveien 29A, Austad Fjell",59.725871,10.218517
+2220340,"Markusveien 29B, Austad Fjell",59.725815,10.218693
+2220671,"Aabys gate 4A, Tangen og Strømsø",59.733214,10.219816
+2220694,"Aabys gate 4B, Tangen og Strømsø",59.733317,10.219321
+2220950,"Iver Holters gate 48A, Tangen og Strømsø",59.728602,10.223205
+2221013,"Hans Kiærs gate 1C, Tangen og Strømsø",59.732906,10.221957
+2221014,"Hans Kiærs gate 1E, Tangen og Strømsø",59.732341,10.222861
+2221015,"Hans Kiærs gate 4B, Tangen og Strømsø",59.732043,10.219222
+2221433,"Kleivene 21A, Tangen og Strømsø",59.726029,10.22368
+2223451,"Johan Sverdrups vei 11D, Austad Fjell",59.727271,10.216585
+2223984,"Hans Kiærs gate 4A, Tangen og Strømsø",59.732098,10.219492
+2224506,"Holmestrandsveien 46T, Tangen og Strømsø",59.726162,10.227771
+2224788,"Holmestrandsveien 56B, Tangen og Strømsø",59.725503,10.228053
+2225151,"Nærbyveien 22B, Austad Fjell",59.724141,10.22609
+2225152,"Nærbyveien 24A, Austad Fjell",59.724073,10.225995
+2225153,"Nærbyveien 24B, Austad Fjell",59.724076,10.22611
+2225184,"Aabys gate 1, Tangen og Strømsø",59.732933,10.219962
+2225185,"Hans Kiærs gate 6A, Tangen og Strømsø",59.731867,10.218584
+2225187,"Wærners gate 21, Tangen og Strømsø",59.725757,10.225539
+2225229,"Kleivene 91, Austad Fjell",59.723646,10.220684
+2225322,"Tollbugata 116, Tangen og Strømsø",59.730508,10.222533
+2225473,"Hans Kiærs gate 1D, Tangen og Strømsø",59.732579,10.222441
+2225604,"Kleivene 95, Austad Fjell",59.723831,10.221325
+2226280,"Frydenhaugveien 44B, Austad Fjell",59.728063,10.21332
+2226282,"Frydenhaugveien 44C, Austad Fjell",59.72804,10.213257
+2226306,"Frydenhaugveien 44A, Austad Fjell",59.72815,10.213386
+2450412,"Lohrmanns gate 3C, Tangen og Strømsø",59.728509,10.224203
+2450522,"Lohrmanns gate 3B, Tangen og Strømsø",59.728407,10.224281
+2450534,"Lohrmanns gate 3A, Tangen og Strømsø",59.728367,10.224223
+2450609,"Lohrmanns gate 3D, Tangen og Strømsø",59.728492,10.224135
+2464539,"Arbos gate 6, Tangen og Strømsø",59.731881,10.218969
+2464540,"Arbos gate 8, Tangen og Strømsø",59.731521,10.219327
+2464541,"Arbos gate 9, Tangen og Strømsø",59.73154,10.220146
+2464569,"Arbos gate 2, Tangen og Strømsø",59.732176,10.218373
+2464570,"Arbos gate 4, Tangen og Strømsø",59.732039,10.218652
+2464605,"Bjørnstjerne Bjørnsons gate 122, Tangen og Strømsø",59.730428,10.220017
+2464607,"Bjørnstjerne Bjørnsons gate 123, Tangen og Strømsø",59.730912,10.22007
+2464609,"Bjørnstjerne Bjørnsons gate 124, Tangen og Strømsø",59.730065,10.22164
+2464611,"Bjørnstjerne Bjørnsons gate 125, Tangen og Strømsø",59.730893,10.220211
+2464614,"Bjørnstjerne Bjørnsons gate 130, Tangen og Strømsø",59.729621,10.221969
+2464731,"Anchersbakken 7, Tangen og Strømsø",59.730006,10.220037
+2464733,"Anchersbakken 15, Tangen og Strømsø",59.728744,10.217572
+2464735,"Anchersbakken 17, Tangen og Strømsø",59.728575,10.217424
+2464866,"Brandenggata 13, Tangen og Strømsø",59.727216,10.221607
+2464867,"Brandenggata 14, Tangen og Strømsø",59.727166,10.221143
+2464868,"Brandenggata 15, Tangen og Strømsø",59.727247,10.222088
+2464869,"Brandenggata 16, Tangen og Strømsø",59.726986,10.221189
+2464870,"Brandenggata 17, Tangen og Strømsø",59.727049,10.222188
+2464871,"Brandenggata 19, Tangen og Strømsø",59.726991,10.221688
+2464883,"Brandenggata 1, Tangen og Strømsø",59.728433,10.221136
+2464886,"Brandenggata 2, Tangen og Strømsø",59.728374,10.220653
+2464888,"Brandenggata 3, Tangen og Strømsø",59.728234,10.221217
+2464891,"Brandenggata 4, Tangen og Strømsø",59.728185,10.2207
+2464894,"Brandenggata 5, Tangen og Strømsø",59.727991,10.221315
+2464896,"Brandenggata 6, Tangen og Strømsø",59.728014,10.2208
+2464897,"Brandenggata 7, Tangen og Strømsø",59.727819,10.221469
+2464899,"Brandenggata 8, Tangen og Strømsø",59.727798,10.220881
+2464901,"Brandenggata 9, Tangen og Strømsø",59.727567,10.221477
+2464902,"Fjellsbyveien 27, Austad Fjell",59.723833,10.224186
+2464903,"Fjellsbyveien 28, Austad Fjell",59.722576,10.225154
+2464904,"Fjellsbyveien 29, Austad Fjell",59.723982,10.224654
+2464905,"Fjellsbyveien 29B, Austad Fjell",59.724221,10.225019
+2464906,"Fjellsbyveien 32, Austad Fjell",59.722378,10.225165
+2464907,"Fjellsbyveien 33, Austad Fjell",59.723887,10.225184
+2464908,"Fjellsbyveien 34, Austad Fjell",59.722196,10.22546
+2464909,"Fjellsbyveien 37, Austad Fjell",59.723586,10.224693
+2464910,"Fjellsbyveien 39, Austad Fjell",59.723404,10.224989
+2464911,"Fjellsbyveien 40, Austad Fjell",59.722274,10.225783
+2464912,"Fjellsbyveien 43, Austad Fjell",59.722997,10.225312
+2464913,"Fjellsbyveien 45, Austad Fjell",59.722786,10.225713
+2464914,"Fjellsbyveien 47, Austad Fjell",59.722648,10.226081
+2464915,"Fjellsbyveien 49, Austad Fjell",59.722468,10.226181
+2464916,"Fjellsbyveien 6, Austad Fjell",59.724059,10.22215
+2464917,"Fjellsbyveien 8, Austad Fjell",59.724039,10.222291
+2464918,"Fjellsbyveien 9, Austad Fjell",59.724048,10.223305
+2464919,"Fjellsbyveien 10, Austad Fjell",59.723824,10.222266
+2464920,"Fjellsbyveien 14, Austad Fjell",59.723864,10.222836
+2464921,"Fjellsbyveien 15, Austad Fjell",59.724204,10.223951
+2464922,"Fjellsbyveien 16, Austad Fjell",59.723779,10.223224
+2464923,"Fjellsbyveien 17, Austad Fjell",59.723981,10.223747
+2464924,"Fjellsbyveien 18, Austad Fjell",59.723686,10.223612
+2464925,"Fjellsbyveien 21, Austad Fjell",59.724245,10.224362
+2464926,"Fjellsbyveien 22, Austad Fjell",59.723475,10.224102
+2464927,"Fjellsbyveien 23A, Austad Fjell",59.724204,10.224634
+2464928,"Fjellsbyveien 23B, Austad Fjell",59.724188,10.224733
+2464929,"Fjellsbyveien 24, Austad Fjell",59.723183,10.224607
+2464930,"Fjellsbyveien 25, Austad Fjell",59.724065,10.224337
+2464931,"Fjellsbyveien 1, Austad Fjell",59.724231,10.221943
+2464932,"Fjellsbyveien 4, Austad Fjell",59.724045,10.221722
+2464933,"Fjellsbyveien 5, Austad Fjell",59.724108,10.222632
+2464956,"Kleivene 107, Austad Fjell",59.723488,10.220777
+2464957,"Kleivene 108, Austad Fjell",59.723293,10.220433
+2464958,"Hans Kiærs gate 8, Tangen og Strømsø",59.731609,10.21853
+2464959,"Kleivene 76, Austad Fjell",59.724677,10.222261
+2464960,"Hans Kiærs gate 10, Tangen og Strømsø",59.731539,10.218403
+2464961,"Kleivene 77, Austad Fjell",59.724395,10.222642
+2464962,"Hans Kiærs gate 12, Tangen og Strømsø",59.731452,10.218026
+2464963,"Kleivene 79, Austad Fjell",59.724307,10.222497
+2464964,"Krinsilen 16, Austad Fjell",59.724432,10.221577
+2464965,"Krinsilen 14, Austad Fjell",59.724374,10.22113
+2464966,"Kleivene 83, Austad Fjell",59.724032,10.221188
+2464967,"Krinsilen 12, Austad Fjell",59.724249,10.221054
+2464968,"Kleivene 86, Austad Fjell",59.7241,10.220569
+2464969,"Kleivene 87, Austad Fjell",59.723864,10.220898
+2464970,"Kleivene 89, Austad Fjell",59.723804,10.220576
+2464971,"Kleivene 90, Austad Fjell",59.724284,10.220166
+2464972,"Kleivene 93, Austad Fjell",59.723709,10.221088
+2464973,"Kleivene 101, Austad Fjell",59.723419,10.221397
+2464974,"Kleivene 103, Austad Fjell",59.723395,10.221147
+2464975,"Kleivene 22, Tangen og Strømsø",59.726152,10.223026
+2464976,"Kleivene 24, Austad Fjell",59.725821,10.222872
+2464977,"Kleivene 26, Austad Fjell",59.725577,10.223023
+2464978,"Kleivene 28, Austad Fjell",59.725485,10.223269
+2464979,"Hans Jægers vei 5, Austad Fjell",59.725005,10.222753
+2464980,"Iver Holters gate 48, Tangen og Strømsø",59.729068,10.223275
+2464981,"Kleivene 36, Austad Fjell",59.725005,10.223696
+2464982,"Hans Jægers vei 11, Austad Fjell",59.725306,10.222249
+2464983,"Kleivene 37, Austad Fjell",59.725715,10.223633
+2464984,"Hans Jægers vei 16, Austad Fjell",59.725837,10.221201
+2464985,"Kleivene 38, Austad Fjell",59.724834,10.223778
+2464986,"Hans Jægers vei 17, Austad Fjell",59.725548,10.221404
+2464987,"Kleivene 39, Austad Fjell",59.725472,10.223748
+2464988,"Hans Jægers vei 19, Austad Fjell",59.725651,10.220892
+2464989,"Kleivene 43, Austad Fjell",59.725495,10.224123
+2464990,"Hans Kiærs gate 1A, Tangen og Strømsø",59.732365,10.221226
+2464991,"Hans Kiærs gate 1B, Tangen og Strømsø",59.73317,10.221628
+2464992,"Kleivene 47, Austad Fjell",59.725373,10.223763
+2464993,"Hans Kiærs gate 2, Tangen og Strømsø",59.732733,10.220296
+2464994,"Kleivene 70, Austad Fjell",59.724788,10.222959
+2464995,"Hans Kiærs gate 3, Tangen og Strømsø",59.731956,10.219894
+2464996,"Kleivene 71, Austad Fjell",59.72445,10.223569
+2464997,"Hans Kiærs gate 4, Tangen og Strømsø",59.732178,10.219509
+2464998,"Kleivene 72, Austad Fjell",59.724633,10.223167
+2464999,"Hans Kiærs gate 5, Tangen og Strømsø",59.731701,10.219245
+2465000,"Kleivene 73, Austad Fjell",59.724426,10.223212
+2465001,"Hans Kiærs gate 6, Tangen og Strømsø",59.731881,10.218309
+2465002,"Kleivene 74, Austad Fjell",59.724656,10.222581
+2465003,"Kleivene 2, Tangen og Strømsø",59.728043,10.222544
+2465004,"Kleivene 3, Tangen og Strømsø",59.727509,10.222898
+2465005,"Kleivene 4, Tangen og Strømsø",59.727738,10.22248
+2465006,"Kleivene 5, Tangen og Strømsø",59.727338,10.222981
+2465007,"Kleivene 7, Tangen og Strømsø",59.727085,10.223096
+2465008,"Kleivene 8, Tangen og Strømsø",59.727567,10.222473
+2465009,"Kleivene 9, Tangen og Strømsø",59.726949,10.223251
+2465010,"Kleivene 10, Tangen og Strømsø",59.727298,10.222464
+2465011,"Iver Holters gate 26, Tangen og Strømsø",59.728985,10.217723
+2465012,"Iver Holters gate 28, Tangen og Strømsø",59.728838,10.218127
+2465013,"Iver Holters gate 30, Tangen og Strømsø",59.728719,10.218389
+2465014,"Iver Holters gate 32, Tangen og Strømsø",59.72876,10.218746
+2465015,"Iver Holters gate 36, Tangen og Strømsø",59.728618,10.220573
+2465016,"Kleivene 15, Tangen og Strømsø",59.726249,10.223279
+2465017,"Iver Holters gate 37, Tangen og Strømsø",59.728986,10.221476
+2465018,"Kleivene 18, Tangen og Strømsø",59.726298,10.2228
+2465019,"Iver Holters gate 38, Tangen og Strømsø",59.72864,10.221072
+2465020,"Kleivene 20, Tangen og Strømsø",59.726128,10.222759
+2465042,"Frydenhaugveien 7, Tangen og Strømsø",59.729204,10.22031
+2465044,"Frydenhaugveien 9, Tangen og Strømsø",59.728675,10.220202
+2465046,"Frydenhaugveien 10, Tangen og Strømsø",59.728711,10.219172
+2465048,"Frydenhaugveien 11, Tangen og Strømsø",59.729018,10.220054
+2465050,"Frydenhaugveien 12, Tangen og Strømsø",59.728544,10.218828
+2465052,"Frydenhaugveien 14, Tangen og Strømsø",59.728403,10.218502
+2465054,"Frydenhaugveien 16, Tangen og Strømsø",59.728317,10.218143
+2465056,"Frydenhaugveien 17, Tangen og Strømsø",59.727875,10.218305
+2465058,"Frydenhaugveien 18, Tangen og Strømsø",59.728329,10.217753
+2465060,"Frydenhaugveien 19, Tangen og Strømsø",59.728089,10.218455
+2465063,"Frydenhaugveien 21, Tangen og Strømsø",59.728059,10.217903
+2465066,"Frydenhaugveien 30, Tangen og Strømsø",59.728979,10.214755
+2465070,"Frydenhaugveien 1, Tangen og Strømsø",59.729761,10.220295
+2465072,"Frydenhaugveien 2, Tangen og Strømsø",59.730042,10.218971
+2465074,"Frydenhaugveien 3, Tangen og Strømsø",59.729564,10.220181
+2465076,"Frydenhaugveien 5, Tangen og Strømsø",59.729393,10.22021
+2465078,"Frydenhaugveien 5A, Tangen og Strømsø",59.729335,10.22067
+2465103,"Christian Bloms gate 5, Tangen og Strømsø",59.73313,10.217234
+2465106,"Christian Bloms gate 7, Tangen og Strømsø",59.732875,10.216673
+2465110,"Christian Bloms gate 10, Tangen og Strømsø",59.733362,10.215499
+2465148,"Bromannsgangen 5, Tangen og Strømsø",59.73381,10.215533
+2465150,"Bromannsgangen 6, Tangen og Strømsø",59.733849,10.215267
+2465152,"Bromannsgangen 7, Tangen og Strømsø",59.733722,10.215387
+2465203,"Fjordgløtten 6, Austad Fjell",59.725137,10.217263
+2465242,"Johan Sverdrups vei 15, Austad Fjell",59.726833,10.217449
+2465243,"Johan Sverdrups vei 16, Austad Fjell",59.726768,10.2167
+2465244,"Johan Sverdrups vei 17, Austad Fjell",59.726758,10.217767
+2465245,"Johan Sverdrups vei 18, Austad Fjell",59.726712,10.21684
+2465246,"Johan Sverdrups vei 20, Austad Fjell",59.726618,10.217317
+2465247,"Johan Sverdrups vei 22, Austad Fjell",59.726581,10.217458
+2465254,"Holmestrandsveien 34, Tangen og Strømsø",59.726383,10.227178
+2465255,"Holmestrandsveien 36, Tangen og Strømsø",59.726386,10.226858
+2465257,"Holmestrandsveien 46, Tangen og Strømsø",59.726091,10.227666
+2465258,"Holmestrandsveien 50, Tangen og Strømsø",59.725893,10.227641
+2465259,"Holmestrandsveien 52, Tangen og Strømsø",59.725782,10.228063
+2465260,"Holmestrandsveien 54, Tangen og Strømsø",59.725674,10.228059
+2465261,"Johan Sverdrups vei 8, Austad Fjell",59.727161,10.214936
+2465262,"Holmestrandsveien 56A, Tangen og Strømsø",59.725539,10.228047
+2465263,"Johan Sverdrups vei 9, Austad Fjell",59.727225,10.215792
+2465264,"Holmestrandsveien 60, Tangen og Strømsø",59.725252,10.228097
+2465265,"Johan Sverdrups vei 9A, Austad Fjell",59.727455,10.216174
+2465266,"Holmestrandsveien 62, Tangen og Strømsø",59.725489,10.227732
+2465267,"Johan Sverdrups vei 10, Austad Fjell",59.726957,10.215675
+2465268,"Johan Sverdrups vei 11, Austad Fjell",59.727129,10.216464
+2465269,"Johan Sverdrups vei 12, Austad Fjell",59.726953,10.216049
+2465270,"Johan Sverdrups vei 13, Austad Fjell",59.726962,10.217063
+2465271,"Johan Sverdrups vei 14, Austad Fjell",59.726798,10.216381
+2465272,"Holmestrandsveien 16, Tangen og Strømsø",59.728279,10.225131
+2465273,"Holmestrandsveien 20, Tangen og Strømsø",59.727543,10.226065
+2465274,"Holmestrandsveien 22, Tangen og Strømsø",59.727343,10.226342
+2465275,"Holmestrandsveien 26, Tangen og Strømsø",59.727125,10.226601
+2465276,"Holmestrandsveien 28, Tangen og Strømsø",59.727052,10.226723
+2465307,"Brandenggata 21, Tangen og Strømsø",59.72681,10.22177
+2465308,"Wærners gate 11E, Tangen og Strømsø",59.726527,10.225156
+2465309,"Wærners gate 11F, Tangen og Strømsø",59.726473,10.225208
+2465310,"Wærners gate 11G, Tangen og Strømsø",59.726606,10.22443
+2465338,"Markusveien 53A, Austad Fjell",59.725473,10.220725
+2465340,"Markusveien 55, Austad Fjell",59.725138,10.221015
+2465342,"Markusveien 57, Austad Fjell",59.725064,10.221226
+2465344,"Markusveien 59, Austad Fjell",59.724911,10.221309
+2465346,"Markusveien 59A, Austad Fjell",59.725205,10.221534
+2465347,"Markusveien 63, Austad Fjell",59.724781,10.221731
+2465348,"Markusveien 65, Austad Fjell",59.724626,10.221957
+2465349,"Markusveien 37, Austad Fjell",59.725479,10.22005
+2465350,"Markusveien 39, Austad Fjell",59.725662,10.219719
+2465351,"Markusveien 40, Austad Fjell",59.725156,10.220056
+2465352,"Markusveien 41, Austad Fjell",59.725987,10.219517
+2465353,"Markusveien 42, Austad Fjell",59.72527,10.219349
+2465354,"Hans Jægers vei 27, Austad Fjell",59.726137,10.21986
+2465355,"Markusveien 44, Austad Fjell",59.725123,10.21977
+2465356,"Hans Jægers vei 25, Austad Fjell",59.725957,10.219889
+2465357,"Markusveien 46, Austad Fjell",59.72504,10.220016
+2465358,"Markusveien 47, Austad Fjell",59.725776,10.219972
+2465359,"Markusveien 48, Austad Fjell",59.724999,10.220459
+2465360,"Markusveien 49, Austad Fjell",59.725702,10.220271
+2465361,"Markusveien 50, Austad Fjell",59.724917,10.220652
+2465362,"Markusveien 51, Austad Fjell",59.725548,10.220408
+2465363,"Markusveien 53, Austad Fjell",59.725258,10.220664
+2465364,"Markusveien 15, Austad Fjell",59.726322,10.216346
+2465365,"Markusveien 15A, Austad Fjell",59.726487,10.216921
+2465366,"Markusveien 15B, Austad Fjell",59.726468,10.21708
+2465367,"Markusveien 16, Austad Fjell",59.726071,10.216337
+2465368,"Markusveien 17, Austad Fjell",59.726291,10.216718
+2465369,"Markusveien 18, Austad Fjell",59.725803,10.216131
+2465370,"Markusveien 20, Austad Fjell",59.725684,10.216394
+2465371,"Markusveien 22, Austad Fjell",59.725967,10.216831
+2465372,"Markusveien 23, Austad Fjell",59.726222,10.217427
+2465373,"Markusveien 25, Austad Fjell",59.726112,10.217725
+2465374,"Markusveien 27, Austad Fjell",59.725972,10.218254
+2465375,"Markusveien 28, Austad Fjell",59.725613,10.218259
+2465376,"Markusveien 30, Austad Fjell",59.725564,10.21863
+2465377,"Markusveien 31, Austad Fjell",59.725786,10.218976
+2465378,"Markusveien 32, Austad Fjell",59.725452,10.219089
+2465379,"Markusveien 33, Austad Fjell",59.725693,10.21924
+2465380,"Markusveien 1, Austad Fjell",59.726994,10.213614
+2465381,"Markusveien 2, Austad Fjell",59.726529,10.213384
+2465382,"Markusveien 3, Austad Fjell",59.726865,10.213983
+2465383,"Markusveien 4, Austad Fjell",59.726568,10.214007
+2465384,"Markusveien 5, Austad Fjell",59.726814,10.214621
+2465385,"Markusveien 5A, Austad Fjell",59.726812,10.214763
+2465386,"Markusveien 6, Austad Fjell",59.726527,10.214522
+2465387,"Markusveien 7, Austad Fjell",59.72672,10.215027
+2465388,"Markusveien 8, Austad Fjell",59.726416,10.214944
+2465389,"Markusveien 9, Austad Fjell",59.726663,10.215398
+2465390,"Markusveien 10, Austad Fjell",59.726305,10.215207
+2465391,"Markusveien 11, Austad Fjell",59.726544,10.215678
+2465392,"Markusveien 12, Austad Fjell",59.726239,10.215578
+2465393,"Markusveien 13, Austad Fjell",59.726495,10.21605
+2465394,"Markusveien 14, Austad Fjell",59.726182,10.215896
+2465460,"Mads Wiels plass 2, Tangen og Strømsø",59.733043,10.217924
+2465550,"Lohrmanns gate 4B, Tangen og Strømsø",59.728508,10.224642
+2465551,"Lohrmanns gate 4C, Tangen og Strømsø",59.728462,10.224747
+2465552,"Lohrmanns gate 4D, Tangen og Strømsø",59.728445,10.224657
+2465553,"Lohrmanns gate 4E, Tangen og Strømsø",59.728408,10.224798
+2465554,"Lohrmanns gate 4F, Tangen og Strømsø",59.7284,10.224673
+2465555,"Finnerudveien 19A, Austad Fjell",59.724675,10.225144
+2465556,"Lohrmanns gate 7, Tangen og Strømsø",59.728509,10.223575
+2465557,"Nærbyveien 19, Austad Fjell",59.724761,10.225785
+2465558,"Nærbyveien 21, Austad Fjell",59.724659,10.226191
+2465559,"Nærbyveien 25, Austad Fjell",59.72436,10.226446
+2465560,"Nærbyveien 30, Austad Fjell",59.723542,10.225563
+2465561,"Lohrmanns gate 1, Tangen og Strømsø",59.728286,10.224349
+2465562,"Lohrmanns gate 2, Tangen og Strømsø",59.728147,10.224824
+2465563,"Lohrmanns gate 4A, Tangen og Strømsø",59.728516,10.224731
+2465564,"Lilleøygata 3, Tangen og Strømsø",59.731377,10.220371
+2465565,"Lilleøygata 4, Tangen og Strømsø",59.731373,10.21982
+2465566,"Lilleøygata 5, Tangen og Strømsø",59.731306,10.220209
+2465567,"Lilleøygata 6, Tangen og Strømsø",59.73124,10.219566
+2465568,"Lilleøygata 7, Tangen og Strømsø",59.731218,10.220063
+2465569,"Lilleøygata 8, Tangen og Strømsø",59.731135,10.219331
+2465570,"Lilleøygata 9, Tangen og Strømsø",59.731139,10.219882
+2465571,"Lilleøygata 11, Tangen og Strømsø",59.731042,10.219683
+2465574,"Spinnerigata 9, Tangen og Strømsø",59.728178,10.224363
+2465575,"Spinnerigata 10, Tangen og Strømsø",59.727891,10.225277
+2465576,"Spinnerigata 11, Tangen og Strømsø",59.728162,10.225109
+2465577,"Spinnerigata 12, Tangen og Strømsø",59.72787,10.225614
+2465582,"Spinnerigata 1, Tangen og Strømsø",59.728296,10.2233
+2465583,"Spinnerigata 2, Tangen og Strømsø",59.727967,10.223857
+2465584,"Spinnerigata 3, Tangen og Strømsø",59.72823,10.223582
+2465585,"Spinnerigata 4, Tangen og Strømsø",59.727954,10.224302
+2465586,"Spinnerigata 5, Tangen og Strømsø",59.72822,10.22376
+2465587,"Spinnerigata 6, Tangen og Strømsø",59.727915,10.224709
+2465588,"Spinnerigata 7, Tangen og Strømsø",59.728199,10.224008
+2465589,"Spinnerigata 8, Tangen og Strømsø",59.727912,10.224976
+2465606,"Skogerveien 51, Austad Fjell",59.723316,10.219918
+2465617,"Skogerveien 9, Austad Fjell",59.72497,10.218786
+2465619,"Skogerveien 10, Austad Fjell",59.724147,10.219397
+2465621,"Skogerveien 12, Austad Fjell",59.725149,10.217868
+2465623,"Skogerveien 13, Austad Fjell",59.725045,10.219412
+2465625,"Skogerveien 14, Austad Fjell",59.725012,10.21813
+2465627,"Skogerveien 15, Austad Fjell",59.724859,10.21912
+2465629,"Skogerveien 16, Austad Fjell",59.724857,10.218373
+2465631,"Skogerveien 17, Austad Fjell",59.724733,10.219205
+2465730,"Thomas Simensens vei 13, Austad Fjell",59.723577,10.221794
+2465756,"Verven 43, Tangen og Strømsø",59.726807,10.225967
+2465758,"Verven 44, Tangen og Strømsø",59.727238,10.224097
+2465760,"Verven 46, Tangen og Strømsø",59.727128,10.224271
+2465762,"Verven 47, Tangen og Strømsø",59.727231,10.224826
+2465764,"Verven 48, Tangen og Strømsø",59.726983,10.224497
+2465766,"Verven 49, Tangen og Strømsø",59.727039,10.225139
+2465768,"Verven 51, Tangen og Strømsø",59.726821,10.225452
+2465770,"Verven 53, Tangen og Strømsø",59.726546,10.226082
+2465772,"Verven 55, Tangen og Strømsø",59.726357,10.22611
+2465774,"Verven 57, Tangen og Strømsø",59.726139,10.226387
+2465776,"Verven 60, Tangen og Strømsø",59.7263,10.225504
+2465778,"Verven 62, Tangen og Strømsø",59.7261,10.225763
+2465781,"Verven 64, Tangen og Strømsø",59.725809,10.226144
+2465790,"Verven 28, Tangen og Strømsø",59.728394,10.22245
+2465793,"Verven 29, Tangen og Strømsø",59.727413,10.224548
+2465796,"Verven 30, Tangen og Strømsø",59.72793,10.223002
+2465799,"Verven 31A, Tangen og Strømsø",59.727461,10.225208
+2465801,"Verven 31B, Tangen og Strømsø",59.727561,10.22507
+2465803,"Verven 32, Tangen og Strømsø",59.727775,10.223299
+2465805,"Verven 34, Tangen og Strømsø",59.727629,10.22356
+2465807,"Verven 35, Tangen og Strømsø",59.72761,10.225569
+2465809,"Verven 36, Tangen og Strømsø",59.727474,10.22375
+2465811,"Verven 37, Tangen og Strømsø",59.727376,10.225614
+2465813,"Verven 37B, Tangen og Strømsø",59.727295,10.225785
+2465816,"Verven 38, Tangen og Strømsø",59.727072,10.223593
+2465817,"Verven 40, Tangen og Strømsø",59.727134,10.223702
+2465819,"Verven 41, Tangen og Strømsø",59.727134,10.22557
+2465821,"Verven 42, Tangen og Strømsø",59.72731,10.224011
+2465822,"Verven 8, Tangen og Strømsø",59.729883,10.220673
+2465823,"Verven 10, Tangen og Strømsø",59.729756,10.220828
+2465824,"Thomas Simensens vei 19, Austad Fjell",59.723499,10.22341
+2465825,"Verven 11, Tangen og Strømsø",59.729796,10.221328
+2465826,"Thomas Simensens vei 20, Austad Fjell",59.723121,10.223467
+2465827,"Verven 12, Tangen og Strømsø",59.729647,10.220913
+2465828,"Thomas Simensens vei 21, Austad Fjell",59.72325,10.224094
+2465829,"Verven 14, Tangen og Strømsø",59.72952,10.221033
+2465830,"Thomas Simensens vei 22, Austad Fjell",59.722877,10.223636
+2465832,"Thomas Simensens vei 25, Austad Fjell",59.722907,10.224295
+2465834,"Thomas Simensens vei 26, Austad Fjell",59.722966,10.222821
+2465836,"Thomas Simensens vei 27, Austad Fjell",59.722718,10.224341
+2465838,"Thomas Simensens vei 31, Austad Fjell",59.7225,10.224671
+2465850,"Thomas Simensens vei 8, Austad Fjell",59.723228,10.221657
+2465851,"Thomas Simensens vei 10, Austad Fjell",59.723269,10.222103
+2465852,"Thomas Simensens vei 14, Austad Fjell",59.723228,10.222653
+2465861,"Aabys gate 6, Tangen og Strømsø",59.732979,10.218989
+2465862,"Aabys gate 7, Tangen og Strømsø",59.732045,10.218066
+2465863,"Aabys gate 9, Tangen og Strømsø",59.732009,10.217975
+2465864,"Aabys gate 10, Tangen og Strømsø",59.732377,10.218007
+2465865,"Aabys gate 11, Tangen og Strømsø",59.731831,10.217809
+2465866,"Aabys gate 12, Tangen og Strømsø",59.732236,10.217735
+2465873,"Verven 28B, Tangen og Strømsø",59.72826,10.222356
+2465922,"Wærners gate 23, Tangen og Strømsø",59.725975,10.225616
+2465923,"Wærners gate 25, Tangen og Strømsø",59.725614,10.225834
+2465924,"Ørka 6, Austad Fjell",59.725692,10.224183
+2465925,"Ørka 8, Austad Fjell",59.725654,10.224431
+2465926,"Ørka 10, Austad Fjell",59.725581,10.224588
+2465927,"Ørka 12, Austad Fjell",59.725457,10.22437
+2465928,"Ørka 14, Austad Fjell",59.725295,10.2244
+2465929,"Ørka 16, Austad Fjell",59.725256,10.224754
+2465930,"Ørka 18, Austad Fjell",59.725506,10.22487
+2465931,"Ørka 20, Austad Fjell",59.725477,10.225118
+2465932,"Ørka 22, Austad Fjell",59.725173,10.224929
+2465933,"Tollbugata 106, Tangen og Strømsø",59.731543,10.220804
+2465934,"Wærners gate 11H, Tangen og Strømsø",59.72656,10.2245
+2465935,"Wærners gate 11I, Tangen og Strømsø",59.726515,10.224533
+2465936,"Tollbugata 108, Tangen og Strømsø",59.731397,10.221084
+2465937,"Wærners gate 11J, Tangen og Strømsø",59.726461,10.224585
+2465938,"Wærners gate 11K, Tangen og Strømsø",59.726416,10.224601
+2465939,"Tollbugata 114, Tangen og Strømsø",59.73075,10.222109
+2465940,"Wærners gate 11L, Tangen og Strømsø",59.72637,10.22467
+2465941,"Finnerudveien 7, Austad Fjell",59.725102,10.223877
+2465942,"Tollbugata 115, Tangen og Strømsø",59.730913,10.22288
+2465943,"Wærners gate 11M, Tangen og Strømsø",59.726119,10.224661
+2465944,"Finnerudveien 9, Austad Fjell",59.725046,10.224142
+2465945,"Wærners gate 11N, Tangen og Strømsø",59.726064,10.22473
+2465946,"Finnerudveien 11, Austad Fjell",59.724884,10.224172
+2465947,"Wærners gate 11O, Tangen og Strømsø",59.726277,10.224062
+2465948,"Finnerudveien 13, Austad Fjell",59.7248,10.224524
+2465949,"Tollbugata 118, Tangen og Strømsø",59.730348,10.222859
+2465950,"Wærners gate 11P, Tangen og Strømsø",59.726232,10.224132
+2465951,"Finnerudveien 15, Austad Fjell",59.724825,10.224703
+2465953,"Tollbugata 127, Tangen og Strømsø",59.731352,10.224942
+2465954,"Wærners gate 11Q, Tangen og Strømsø",59.726196,10.224148
+2465955,"Finnerudveien 17, Austad Fjell",59.724923,10.224849
+2465956,"Tollbugata 129, Tangen og Strømsø",59.730367,10.22366
+2465957,"Wærners gate 11R, Tangen og Strømsø",59.726141,10.224217
+2465958,"Wærners gate 11S, Tangen og Strømsø",59.726105,10.224252
+2465959,"Wærners gate 11T, Tangen og Strømsø",59.72606,10.224286
+2465960,"Wærners gate 15, Tangen og Strømsø",59.725955,10.22494
+2465977,"Frydenhaugveien 2A, Tangen og Strømsø",59.729932,10.219492
+2466000,"Hans Kiærs gate 31, Tangen og Strømsø",59.731304,10.218554
+2466001,"Fjellsbyveien 36A, Austad Fjell",59.722013,10.225845
+2466005,"Johan Sverdrups vei 11C, Austad Fjell",59.727298,10.216501
+2466012,"Christian Bloms gate 24A, Tangen og Strømsø",59.732355,10.217301
+2466013,"Christian Bloms gate 24B, Tangen og Strømsø",59.732462,10.217161
+2466015,"Christian Bloms gate 24C, Tangen og Strømsø",59.732413,10.217047
+2466016,"Christian Bloms gate 24D, Tangen og Strømsø",59.732201,10.217052
+2466081,"Iver Holters gate 35, Tangen og Strømsø",59.72894,10.22062
+2466114,"Hans Kiærs gate 25, Tangen og Strømsø",59.731295,10.218519
+2466115,"Hans Kiærs gate 27, Tangen og Strømsø",59.73141,10.218736
+2466116,"Tollbugata 100A, Tangen og Strømsø",59.732271,10.219483

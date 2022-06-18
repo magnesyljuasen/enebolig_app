@@ -1,0 +1,829 @@
+,Navn,Long,Lat
+812854,"Schøyens vei 5, Narvik",68.445353,17.439335
+812855,"Schøyens vei 3, Narvik",68.445344,17.439995
+812856,"Schøyens vei 2, Narvik",68.44559,17.439527
+812857,"Schøyens vei 1, Narvik",68.445525,17.44141
+821132,"Frydenlundgata 44, Narvik",68.441569,17.428831
+821133,"Frydenlundgata 46, Narvik",68.441677,17.429477
+827142,"Einerveien 16, Narvik",68.444841,17.429643
+827143,"Einerveien 15, Narvik",68.444839,17.429157
+827144,"Einerveien 14, Narvik",68.444674,17.429531
+827145,"Einerveien 13, Narvik",68.444705,17.428582
+827146,"Einerveien 12, Narvik",68.444622,17.429403
+827147,"Einerveien 11, Narvik",68.444565,17.428372
+827148,"Einerveien 10, Narvik",68.444491,17.429145
+827149,"Einerveien 9, Narvik",68.444381,17.428196
+827150,"Einerveien 8, Narvik",68.444439,17.428993
+827151,"Einerveien 7, Narvik",68.444205,17.427821
+827152,"Einerveien 6, Narvik",68.444322,17.428731
+827153,"Einerveien 5, Narvik",68.444018,17.427703
+827154,"Einerveien 4, Narvik",68.444123,17.42852
+827155,"Einerveien 3, Narvik",68.44387,17.427703
+827156,"Einerveien 2, Narvik",68.443889,17.428519
+827157,"Einerveien 1, Narvik",68.443764,17.42791
+827193,"Elias Blix vei 8, Narvik",68.447755,17.441942
+827194,"Elias Blix vei 6, Narvik",68.447585,17.44194
+827195,"Elias Blix vei 4, Narvik",68.447441,17.44188
+827196,"Elias Blix vei 2, Narvik",68.447241,17.441825
+827514,"Fridtjof Nansens vei 12, Narvik",68.442493,17.429018
+827515,"Fridtjof Nansens vei 10, Narvik",68.442447,17.429113
+827516,"Fridtjof Nansens vei 8, Narvik",68.442397,17.429208
+827518,"Fridtjof Nansens vei 6, Narvik",68.44235,17.429308
+827519,"Fridtjof Nansens vei 5, Narvik",68.442637,17.427653
+827520,"Fridtjof Nansens vei 4, Narvik",68.442303,17.429394
+827521,"Fridtjof Nansens vei 3, Narvik",68.442172,17.428649
+827532,"Frydenlundgata 36, Narvik",68.441049,17.42697
+827533,"Frydenlundgata 35, Narvik",68.441321,17.426562
+827534,"Frydenlundgata 34A, Narvik",68.440837,17.426496
+827535,"Frydenlundgata 34, Narvik",68.440829,17.426284
+827536,"Frydenlundgata 33, Narvik",68.441166,17.425697
+827537,"Frydenlundgata 32, Narvik",68.440715,17.425906
+827538,"Frydenlundgata 31, Narvik",68.441088,17.425261
+827539,"Frydenlundgata 30, Narvik",68.440614,17.425435
+827540,"Frydenlundgata 29, Narvik",68.440964,17.424733
+827541,"Frydenlundgata 28, Narvik",68.440451,17.424804
+827542,"Frydenlundgata 27, Narvik",68.440675,17.424294
+827543,"Frydenlundgata 26, Narvik",68.440395,17.424387
+827544,"Frydenlundgata 24, Narvik",68.440349,17.423998
+827545,"Frydenlundgata 23, Narvik",68.440479,17.423566
+827546,"Frydenlundgata 22, Narvik",68.440168,17.423822
+827547,"Frydenlundgata 21, Narvik",68.440384,17.423336
+827548,"Frydenlundgata 18, Narvik",68.439974,17.422664
+827549,"Frydenlundgata 16, Narvik",68.43984,17.422445
+827552,"Frydenlundgata 25B, Narvik",68.440551,17.424044
+827566,"Fridtjof Nansens vei 44, Narvik",68.445429,17.423686
+827567,"Fridtjof Nansens vei 42, Narvik",68.445126,17.424384
+827568,"Fridtjof Nansens vei 40, Narvik",68.445019,17.424079
+827569,"Fridtjof Nansens vei 39, Narvik",68.4451,17.423011
+827570,"Fridtjof Nansens vei 38A, Narvik",68.445023,17.42493
+827571,"Fridtjof Nansens vei 38, Narvik",68.444772,17.424676
+827572,"Fridtjof Nansens vei 37, Narvik",68.44483,17.423402
+827573,"Fridtjof Nansens vei 36, Narvik",68.444597,17.424889
+827574,"Fridtjof Nansens vei 35, Narvik",68.444703,17.423544
+827575,"Fridtjof Nansens vei 34A, Narvik",68.444454,17.425158
+827576,"Fridtjof Nansens vei 34, Narvik",68.444432,17.425203
+827577,"Fridtjof Nansens vei 33, Narvik",68.444533,17.42385
+827578,"Fridtjof Nansens vei 32, Narvik",68.444364,17.425354
+827579,"Fridtjof Nansens vei 31, Narvik",68.444426,17.424122
+827580,"Fridtjof Nansens vei 30, Narvik",68.443831,17.426479
+827581,"Fridtjof Nansens vei 29, Narvik",68.444222,17.424318
+827582,"Fridtjof Nansens vei 28, Narvik",68.443677,17.426716
+827583,"Fridtjof Nansens vei 27B, Narvik",68.44387,17.425187
+827584,"Fridtjof Nansens vei 26, Narvik",68.443599,17.426877
+827585,"Fridtjof Nansens vei 25, Narvik",68.443744,17.425655
+827586,"Fridtjof Nansens vei 24, Narvik",68.443489,17.427061
+827587,"Fridtjof Nansens vei 22B, Narvik",68.442942,17.428247
+827588,"Fridtjof Nansens vei 22A, Narvik",68.442896,17.428364
+827589,"Fridtjof Nansens vei 21, Narvik",68.443155,17.426586
+827590,"Fridtjof Nansens vei 20, Narvik",68.442697,17.428632
+827591,"Fridtjof Nansens vei 18, Narvik",68.442642,17.428725
+827592,"Fridtjof Nansens vei 16, Narvik",68.442596,17.428826
+827593,"Fridtjof Nansens vei 14, Narvik",68.442541,17.428934
+827609,"Furuveien 7, Narvik",68.44336,17.432731
+827610,"Furuveien 5, Narvik",68.443081,17.43287
+827611,"Furuveien 4, Narvik",68.443029,17.433578
+827612,"Furuveien 3, Narvik",68.442907,17.432904
+827613,"Furuveien 2, Narvik",68.442733,17.433876
+827614,"Frydenlundgata 75, Narvik",68.442652,17.435244
+827615,"Frydenlundgata 71, Narvik",68.442643,17.432714
+827616,"Frydenlundgata 69, Narvik",68.442513,17.432141
+827617,"Frydenlundgata 67, Narvik",68.442436,17.431584
+827618,"Frydenlundgata 65, Narvik",68.442421,17.431387
+827619,"Frydenlundgata 63, Narvik",68.442396,17.431238
+827620,"Frydenlundgata 61, Narvik",68.442362,17.431088
+827621,"Frydenlundgata 59, Narvik",68.442333,17.43094
+827622,"Frydenlundgata 57, Narvik",68.44231,17.430796
+827623,"Frydenlundgata 55, Narvik",68.442288,17.430666
+827624,"Frydenlundgata 53, Narvik",68.442254,17.430491
+827625,"Frydenlundgata 51, Narvik",68.442239,17.430343
+827626,"Frydenlundgata 49, Narvik",68.442205,17.430169
+827627,"Frydenlundgata 45, Narvik",68.44198,17.428813
+827628,"Frydenlundgata 43A, Narvik",68.441848,17.42847
+827629,"Frydenlundgata 42, Narvik",68.44142,17.428304
+827630,"Frydenlundgata 41, Narvik",68.441745,17.427932
+827631,"Frydenlundgata 40, Narvik",68.441265,17.427909
+827632,"Frydenlundgata 39, Narvik",68.441526,17.427255
+827633,"Frydenlundgata 38, Narvik",68.441159,17.427397
+827634,"Frydenlundgata 37, Narvik",68.441464,17.42695
+827699,"Falkbergets vei 7C, Narvik",68.446589,17.437302
+827700,"Falkbergets vei 7B, Narvik",68.446555,17.437177
+827701,"Falkbergets vei 7A, Narvik",68.44652,17.437075
+827702,"Falkbergets vei 6, Narvik",68.446328,17.437348
+827763,"Falkbergets vei 8D, Narvik",68.446529,17.437711
+827764,"Falkbergets vei 8C, Narvik",68.446503,17.437635
+827765,"Falkbergets vei 8B, Narvik",68.446477,17.437559
+827766,"Falkbergets vei 8A, Narvik",68.446452,17.437483
+827767,"Falkbergets vei 7E, Narvik",68.446676,17.437507
+827768,"Falkbergets vei 7D, Narvik",68.446633,17.43738
+827800,"Falkbergets vei 18A, Narvik",68.446651,17.442446
+827801,"Falkbergets vei 18, Narvik",68.44655,17.442448
+827802,"Falkbergets vei 17A, Narvik",68.447122,17.442416
+827803,"Falkbergets vei 17, Narvik",68.446945,17.441972
+827804,"Falkbergets vei 15, Narvik",68.44699,17.441643
+827805,"Falkbergets vei 14B, Narvik",68.446466,17.44078
+827806,"Falkbergets vei 14A, Narvik",68.446481,17.440415
+827807,"Falkbergets vei 14, Narvik",68.446843,17.440758
+827808,"Falkbergets vei 13H, Narvik",68.446992,17.439992
+827809,"Falkbergets vei 13G, Narvik",68.446991,17.43986
+827810,"Falkbergets vei 13F, Narvik",68.446991,17.439763
+827811,"Falkbergets vei 13E, Narvik",68.446985,17.439622
+827812,"Falkbergets vei 13D, Narvik",68.446984,17.43954
+827813,"Falkbergets vei 13C, Narvik",68.446983,17.43939
+827814,"Falkbergets vei 13B, Narvik",68.44698,17.439308
+827815,"Falkbergets vei 13A, Narvik",68.446979,17.439166
+827816,"Falkbergets vei 12H, Narvik",68.446837,17.440267
+827817,"Falkbergets vei 12G, Narvik",68.446836,17.440083
+827818,"Falkbergets vei 12F, Narvik",68.446835,17.440019
+827819,"Falkbergets vei 12E, Narvik",68.446831,17.439851
+827820,"Falkbergets vei 12D, Narvik",68.446832,17.439789
+827821,"Falkbergets vei 12C, Narvik",68.446827,17.439627
+827822,"Falkbergets vei 12B, Narvik",68.446828,17.439561
+827823,"Falkbergets vei 12A, Narvik",68.446826,17.439387
+827824,"Falkbergets vei 11D, Narvik",68.446959,17.438816
+827825,"Falkbergets vei 11C, Narvik",68.446942,17.438669
+827826,"Falkbergets vei 11B, Narvik",68.446925,17.438518
+827827,"Falkbergets vei 11A, Narvik",68.446904,17.438367
+827828,"Falkbergets vei 9D, Narvik",68.446855,17.438112
+827829,"Falkbergets vei 9C, Narvik",68.446829,17.437999
+827830,"Falkbergets vei 9B, Narvik",68.446805,17.437863
+827831,"Falkbergets vei 9A, Narvik",68.446762,17.43776
+827832,"Falkbergets vei 8E, Narvik",68.446555,17.437811
+828110,"Furuveien 32, Narvik",68.4459,17.43469
+828111,"Furuveien 31, Narvik",68.446283,17.433602
+828112,"Furuveien 30, Narvik",68.445653,17.434308
+828113,"Furuveien 29A, Narvik",68.446104,17.433589
+828114,"Furuveien 29, Narvik",68.44608,17.43344
+828115,"Furuveien 28, Narvik",68.445468,17.434155
+828116,"Furuveien 27, Narvik",68.445758,17.433357
+828117,"Furuveien 26, Narvik",68.445222,17.433787
+828118,"Furuveien 25A, Narvik",68.445533,17.433357
+828119,"Furuveien 25, Narvik",68.4455,17.433183
+828120,"Furuveien 24, Narvik",68.445054,17.433598
+828121,"Furuveien 23, Narvik",68.44528,17.43295
+828122,"Furuveien 22A, Narvik",68.444759,17.4338
+828123,"Furuveien 22, Narvik",68.444833,17.433385
+828124,"Furuveien 21, Narvik",68.444997,17.432592
+828125,"Furuveien 20C, Narvik",68.444638,17.433997
+828126,"Furuveien 20B, Narvik",68.444601,17.433255
+828127,"Furuveien 20A, Narvik",68.444711,17.433368
+828128,"Furuveien 19, Narvik",68.44458,17.432258
+828129,"Furuveien 18A, Narvik",68.444367,17.433887
+828130,"Furuveien 18, Narvik",68.444326,17.433129
+828131,"Furuveien 17, Narvik",68.444368,17.432356
+828132,"Furuveien 16A, Narvik",68.444231,17.433868
+828133,"Furuveien 16, Narvik",68.444212,17.433197
+828134,"Furuveien 15, Narvik",68.444185,17.432312
+828135,"Furuveien 14A, Narvik",68.443945,17.433926
+828136,"Furuveien 14, Narvik",68.443935,17.433232
+828137,"Furuveien 13, Narvik",68.443982,17.432544
+828138,"Furuveien 12A, Narvik",68.44385,17.43398
+828139,"Furuveien 12, Narvik",68.44383,17.433434
+828140,"Furuveien 11A, Narvik",68.443858,17.431991
+828141,"Furuveien 11, Narvik",68.443796,17.432488
+828142,"Furuveien 10A, Narvik",68.443574,17.43389
+828143,"Furuveien 10, Narvik",68.443553,17.433433
+828144,"Furuveien 9, Narvik",68.443596,17.432692
+828145,"Furuveien 8A, Narvik",68.443402,17.433916
+828146,"Furuveien 8, Narvik",68.443428,17.433351
+828284,"Hamsuns vei 49, Narvik",68.446273,17.44481
+828285,"Hamsuns vei 48, Narvik",68.44673,17.44547
+828286,"Hamsuns vei 47, Narvik",68.446014,17.444758
+828287,"Hamsuns vei 45, Narvik",68.44595,17.444775
+828288,"Hamsuns vei 43, Narvik",68.445886,17.444866
+828289,"Hamsuns vei 41, Narvik",68.445823,17.444884
+828290,"Hamsuns vei 32, Narvik",68.445677,17.445698
+828291,"Hamsuns vei 30, Narvik",68.445614,17.445715
+828292,"Hamsuns vei 28, Narvik",68.445461,17.445723
+828293,"Hamsuns vei 26, Narvik",68.445389,17.44574
+828294,"Hamsuns vei 25, Narvik",68.445142,17.444835
+828295,"Hamsuns vei 23, Narvik",68.445025,17.444871
+828296,"Hamsuns vei 22, Narvik",68.445087,17.446122
+828297,"Hamsuns vei 21, Narvik",68.444926,17.44486
+828298,"Hamsuns vei 20, Narvik",68.444758,17.446502
+828299,"Hamsuns vei 19, Narvik",68.444809,17.444896
+828300,"Hamsuns vei 18, Narvik",68.444884,17.445881
+828301,"Hamsuns vei 17, Narvik",68.444665,17.444905
+828302,"Hamsuns vei 16, Narvik",68.444704,17.44591
+828303,"Hamsuns vei 15, Narvik",68.444565,17.444992
+828304,"Hamsuns vei 14, Narvik",68.444606,17.445899
+828305,"Hamsuns vei 13, Narvik",68.444449,17.444979
+828306,"Hamsuns vei 12, Narvik",68.444489,17.445911
+828307,"Hamsuns vei 11, Narvik",68.44435,17.444993
+828308,"Hamsuns vei 10, Narvik",68.44439,17.445949
+828309,"Hamsuns vei 9, Narvik",68.444277,17.445058
+828310,"Hamsuns vei 8, Narvik",68.444272,17.445985
+828311,"Hamsuns vei 7, Narvik",68.444089,17.445014
+828312,"Hamsuns vei 6, Narvik",68.444182,17.446024
+828313,"Hamsuns vei 5, Narvik",68.443981,17.445075
+828314,"Hamsuns vei 4, Narvik",68.444039,17.44596
+828315,"Hamsuns vei 3, Narvik",68.443871,17.445142
+828316,"Hamsuns vei 2, Narvik",68.443968,17.445928
+828317,"Hamsuns vei 1, Narvik",68.443755,17.445124
+828403,"Hamsuns vei 61, Narvik",68.447069,17.444408
+828404,"Hamsuns vei 59, Narvik",68.44686,17.444581
+828405,"Hamsuns vei 57, Narvik",68.446588,17.444747
+828406,"Hamsuns vei 55, Narvik",68.446471,17.444783
+828407,"Hamsuns vei 54, Narvik",68.447003,17.445231
+828408,"Hamsuns vei 53, Narvik",68.446399,17.4448
+828409,"Hamsuns vei 52, Narvik",68.446939,17.445322
+828410,"Hamsuns vei 51, Narvik",68.446345,17.444818
+828411,"Hamsuns vei 50, Narvik",68.44683,17.445383
+828435,"Herjangsveien 6, Narvik",68.441954,17.425212
+828436,"Helmer Hansens vei 11, Narvik",68.443633,17.425807
+828437,"Helmer Hansens vei 10, Narvik",68.443238,17.425813
+828438,"Helmer Hansens vei 9, Narvik",68.44347,17.425274
+828439,"Gjøabakken 6, Narvik",68.443089,17.425279
+828440,"Helmer Hansens vei 7, Narvik",68.443395,17.42483
+828441,"Gjøabakken 5, Narvik",68.442864,17.424786
+828442,"Gjøabakken 7, Narvik",68.442976,17.424683
+828443,"Helmer Hansens vei 5, Narvik",68.443292,17.424475
+828444,"Helmer Hansens vei 4, Narvik",68.442866,17.424205
+828445,"Helmer Hansens vei 2, Narvik",68.442736,17.4238
+828446,"Heggeveien 6, Narvik",68.443169,17.431354
+828447,"Heggeveien 4, Narvik",68.442933,17.431731
+828448,"Heggeveien 3, Narvik",68.442915,17.430875
+828449,"Heggeveien 2, Narvik",68.442741,17.431956
+828450,"Heggeveien 1, Narvik",68.442699,17.431167
+828584,"Læstadius vei 2, Narvik",68.444368,17.442481
+828610,"Industriveien 21, Narvik",68.440692,17.426796
+828611,"Industriveien 20, Narvik",68.441008,17.428527
+828612,"Industriveien 19, Narvik",68.440574,17.42637
+828613,"Industriveien 18, Narvik",68.440869,17.428244
+828614,"Industriveien 17, Narvik",68.440459,17.426175
+828615,"Industriveien 16, Narvik",68.440503,17.427521
+828616,"Industriveien 15, Narvik",68.440415,17.425753
+828617,"Industriveien 13, Narvik",68.44022,17.425319
+828618,"Industriveien 12, Narvik",68.440118,17.426211
+828619,"Industriveien 11, Narvik",68.440152,17.425068
+828620,"Industriveien 10, Narvik",68.439998,17.425784
+828621,"Industriveien 9, Narvik",68.440032,17.424665
+828622,"Industriveien 8, Narvik",68.439929,17.425581
+828623,"Industriveien 7A, Narvik",68.439994,17.424271
+828624,"Industriveien 7, Narvik",68.439931,17.424239
+828625,"Industriveien 6, Narvik",68.439862,17.425305
+828626,"Industriveien 5, Narvik",68.439709,17.423763
+828627,"Industriveien 4, Narvik",68.439794,17.425005
+828628,"Industriveien 3, Narvik",68.439577,17.42325
+828641,"Ibsens vei 16, Narvik",68.446746,17.441807
+828642,"Ibsens vei 15, Narvik",68.44675,17.441383
+828643,"Ibsens vei 14, Narvik",68.44652,17.44203
+828644,"Ibsens vei 13, Narvik",68.446493,17.441417
+828645,"Ibsens vei 12A, Narvik",68.446332,17.44201
+828646,"Ibsens vei 12, Narvik",68.446362,17.442379
+828647,"Ibsens vei 11, Narvik",68.446288,17.441346
+828648,"Ibsens vei 10B, Narvik",68.44619,17.442507
+828649,"Ibsens vei 10A, Narvik",68.446133,17.442086
+828650,"Ibsens vei 9, Narvik",68.446107,17.441424
+828651,"Ibsens vei 8, Narvik",68.4459,17.442095
+828652,"Ibsens vei 7, Narvik",68.44577,17.441509
+828653,"Ibsens vei 6, Narvik",68.445716,17.442407
+828654,"Ibsens vei 5, Narvik",68.445532,17.44207
+828655,"Ibsens vei 3, Narvik",68.445364,17.442468
+828656,"Ibsens vei 1, Narvik",68.445274,17.442658
+828707,"Jørg Berges vei 7, Narvik",68.442836,17.444757
+828708,"Jørg Berges vei 5, Narvik",68.442845,17.444172
+828709,"Jørg Berges vei 4, Narvik",68.442752,17.442551
+828710,"Jørg Berges vei 3, Narvik",68.442927,17.443473
+828711,"Jørg Berges vei 2, Narvik",68.442803,17.442117
+828712,"Jul B.Olsens vei 4, Narvik",68.44346,17.422397
+828713,"Jul B.Olsens vei 3, Narvik",68.443145,17.422198
+828714,"Jul B.Olsens vei 2, Narvik",68.443439,17.422685
+828715,"Jul B.Olsens vei 1, Narvik",68.443134,17.422478
+828731,"Jak Andersens vei 2, Narvik",68.442726,17.422039
+828732,"Jak Andersens vei 1, Narvik",68.442462,17.422127
+828733,"Industriveien 27, Narvik",68.441006,17.427735
+828734,"Industriveien 25, Narvik",68.440986,17.427657
+828735,"Industriveien 23, Narvik",68.440949,17.427269
+828736,"Kirkegata 52, Narvik",68.441461,17.425307
+828737,"Kirkegata 51, Narvik",68.441693,17.424648
+828738,"Kirkegata 50A, Narvik",68.441307,17.424927
+828739,"Kirkegata 48A, Narvik",68.441278,17.424368
+828740,"Kirkegata 48, Narvik",68.441132,17.424166
+828741,"Kirkegata 43, Narvik",68.441156,17.422786
+828742,"Kirkegata 41, Narvik",68.441098,17.422601
+828743,"Kirkegata 39A, Narvik",68.440704,17.421338
+828744,"Kirkegata 39, Narvik",68.440811,17.421419
+828745,"Kirkegata 37, Narvik",68.440786,17.420699
+828747,"Kirkegata 35A, Narvik",68.440552,17.420448
+828748,"Kirkegata 35, Narvik",68.44062,17.420691
+828750,"Kirkegata 33, Narvik",68.440353,17.419892
+828791,"Kirkegata 64, Narvik",68.442269,17.428328
+828792,"Kirkegata 63, Narvik",68.442582,17.427832
+828793,"Kirkegata 62, Narvik",68.442149,17.427732
+828794,"Kirkegata 61, Narvik",68.442473,17.4274
+828795,"Evenesveien 8, Narvik",68.441902,17.427615
+828796,"Kirkegata 60A, Narvik",68.442021,17.427287
+828797,"Kirkegata 59, Narvik",68.442297,17.426957
+828798,"Kirkegata 58, Narvik",68.441842,17.426738
+828799,"Kirkegata 57A, Narvik",68.442268,17.426466
+828800,"Kirkegata 57, Narvik",68.44211,17.426205
+828801,"Kirkegata 56, Narvik",68.44175,17.426298
+828802,"Kirkegata 55, Narvik",68.44198,17.425656
+828803,"Kirkegata 54A, Narvik",68.441633,17.426019
+828804,"Kirkegata 54, Narvik",68.441609,17.425698
+829234,"Markussons vei 23, Narvik",68.445127,17.442552
+829235,"Markussons vei 21, Narvik",68.445041,17.442568
+829236,"Markussons vei 19, Narvik",68.444951,17.44249
+829237,"Markussons vei 17, Narvik",68.444844,17.442508
+829238,"Markussons vei 15, Narvik",68.444708,17.442432
+829239,"Markussons vei 13, Narvik",68.444566,17.442454
+829262,"Rønningtomtveien 11, Narvik",68.441497,17.422902
+829263,"Rønningtomtveien 9, Narvik",68.441417,17.423058
+829264,"Rønningtomtveien 8, Narvik",68.441059,17.424465
+829265,"Rønningtomtveien 7, Narvik",68.441343,17.423219
+829266,"Rønningtomtveien 5, Narvik",68.44126,17.423344
+829388,"Rønningtomtveien 15, Narvik",68.44197,17.421128
+829389,"Rønningtomtveien 13, Narvik",68.441884,17.42159
+829390,"Rønningtomtveien 12, Narvik",68.442175,17.421713
+829391,"Nordahl Griegs vei 15, Narvik",68.445644,17.438236
+829392,"Nordahl Griegs vei 13, Narvik",68.445542,17.438404
+829393,"Nordahl Griegs vei 12A, Narvik",68.446008,17.43848
+829394,"Nordahl Griegs vei 12, Narvik",68.446056,17.438391
+829395,"Nordahl Griegs vei 11, Narvik",68.445319,17.438474
+829396,"Nordahl Griegs vei 9, Narvik",68.445128,17.438504
+829397,"Nordahl Griegs vei 8, Narvik",68.445614,17.438988
+829398,"Nordahl Griegs vei 7, Narvik",68.444889,17.438492
+829399,"Nordahl Griegs vei 5, Narvik",68.444906,17.439065
+829400,"Nordahl Griegs vei 4A, Narvik",68.445095,17.439299
+829401,"Nordahl Griegs vei 4, Narvik",68.445064,17.439462
+829402,"Nordahl Griegs vei 3, Narvik",68.444835,17.439855
+829403,"Nordahl Griegs vei 2, Narvik",68.445086,17.440215
+829404,"Nordahl Griegs vei 1, Narvik",68.444835,17.440376
+829491,"Nordahl Griegs vei 29, Narvik",68.446283,17.438338
+829492,"Nordahl Griegs vei 27, Narvik",68.446257,17.438212
+829493,"Nordahl Griegs vei 25, Narvik",68.44622,17.438063
+829494,"Nordahl Griegs vei 23A, Narvik",68.446001,17.437815
+829495,"Nordahl Griegs vei 21, Narvik",68.445947,17.437896
+829496,"Nordahl Griegs vei 19, Narvik",68.445891,17.437967
+829497,"Nordahl Griegs vei 17, Narvik",68.445837,17.438038
+829586,"Olderveien 9, Narvik",68.443252,17.429908
+829587,"Olderveien 7, Narvik",68.443191,17.42965
+829588,"Olderveien 5, Narvik",68.44314,17.429415
+829589,"Olderveien 4, Narvik",68.442969,17.429991
+829590,"Olderveien 3, Narvik",68.443069,17.42911
+829591,"Olderveien 2, Narvik",68.442858,17.429477
+829593,"Ofotveien 6, Narvik",68.441107,17.42175
+829594,"Ofotveien 3, Narvik",68.440917,17.421086
+829595,"Ofotveien 1, Narvik",68.439881,17.423355
+829617,"Otto Sverdrups vei 15, Narvik",68.442405,17.420746
+829689,"Otto Sverdrups vei 34, Narvik",68.443911,17.422164
+829690,"Otto Sverdrups vei 32A, Narvik",68.443698,17.422496
+829691,"Otto Sverdrups vei 32, Narvik",68.443685,17.422051
+829692,"Otto Sverdrups vei 31A, Narvik",68.444034,17.421652
+829693,"Otto Sverdrups vei 31, Narvik",68.44408,17.421584
+829694,"Otto Sverdrups vei 30, Narvik",68.443471,17.421934
+829695,"Otto Sverdrups vei 29, Narvik",68.443931,17.421348
+829696,"Otto Sverdrups vei 28, Narvik",68.443169,17.421759
+829697,"Otto Sverdrups vei 27, Narvik",68.443734,17.421303
+829698,"Otto Sverdrups vei 26B, Narvik",68.442923,17.421868
+829699,"Otto Sverdrups vei 26A, Narvik",68.442985,17.422103
+829700,"Otto Sverdrups vei 26, Narvik",68.442976,17.421881
+829701,"Otto Sverdrups vei 25, Narvik",68.443594,17.421099
+829702,"Otto Sverdrups vei 24, Narvik",68.442786,17.421781
+829703,"Otto Sverdrups vei 23, Narvik",68.443222,17.421087
+829704,"Otto Sverdrups vei 22A, Narvik",68.442386,17.421499
+829705,"Otto Sverdrups vei 22, Narvik",68.4425,17.421519
+829706,"Otto Sverdrups vei 21, Narvik",68.44304,17.420863
+829707,"Otto Sverdrups vei 20, Narvik",68.442261,17.421334
+829708,"Otto Sverdrups vei 19, Narvik",68.442835,17.420743
+829710,"Otto Sverdrups vei 17A, Narvik",68.442538,17.420858
+829711,"Otto Sverdrups vei 17, Narvik",68.442609,17.420914
+829714,"Petter Dass vei 34, Narvik",68.447264,17.439645
+829716,"Petter Dass vei 32, Narvik",68.447275,17.4395
+829717,"Petter Dass vei 30, Narvik",68.447269,17.439304
+829718,"Petter Dass vei 28, Narvik",68.447263,17.439108
+829719,"Petter Dass vei 27, Narvik",68.447499,17.439518
+829720,"Petter Dass vei 26, Narvik",68.447268,17.438718
+829721,"Petter Dass vei 25, Narvik",68.447483,17.439365
+829722,"Petter Dass vei 24, Narvik",68.447252,17.438594
+829723,"Petter Dass vei 23, Narvik",68.447498,17.438987
+829724,"Petter Dass vei 22, Narvik",68.447227,17.43847
+829725,"Petter Dass vei 21, Narvik",68.44751,17.438769
+829726,"Petter Dass vei 20, Narvik",68.447202,17.438345
+829727,"Petter Dass vei 19, Narvik",68.447471,17.438374
+829728,"Petter Dass vei 18, Narvik",68.447168,17.438195
+829729,"Petter Dass vei 17, Narvik",68.447437,17.438224
+829730,"Petter Dass vei 16, Narvik",68.447152,17.438047
+829731,"Petter Dass vei 15, Narvik",68.447421,17.4381
+829732,"Petter Dass vei 14, Narvik",68.447094,17.437723
+829733,"Petter Dass vei 13, Narvik",68.447326,17.437821
+829734,"Petter Dass vei 12, Narvik",68.447069,17.437598
+829735,"Petter Dass vei 11, Narvik",68.447329,17.437626
+829736,"Petter Dass vei 10, Narvik",68.447018,17.437422
+829737,"Petter Dass vei 9, Narvik",68.447209,17.437358
+829738,"Petter Dass vei 8, Narvik",68.446994,17.437248
+829739,"Petter Dass vei 7, Narvik",68.447189,17.437255
+829740,"Petter Dass vei 6, Narvik",68.446885,17.436861
+829741,"Petter Dass vei 5, Narvik",68.447131,17.436846
+829742,"Petter Dass vei 4, Narvik",68.446885,17.436675
+829743,"Petter Dass vei 3, Narvik",68.447107,17.436736
+829744,"Petter Dass vei 2A, Narvik",68.446775,17.436249
+829745,"Petter Dass vei 2, Narvik",68.446851,17.43655
+829887,"Rombaksveien 75, Narvik",68.450589,17.465075
+829888,"Rombaksveien 47, Narvik",68.446256,17.453964
+829889,"Rombaksveien 45, Narvik",68.444859,17.451951
+829890,"Rombaksveien 44, Narvik",68.442868,17.452398
+829891,"Rombaksveien 42, Narvik",68.442477,17.44789
+829892,"Rombaksveien 40, Narvik",68.442666,17.447724
+829893,"Rombaksveien 38, Narvik",68.442558,17.44724
+829894,"Rombaksveien 36, Narvik",68.442475,17.446792
+829895,"Rombaksveien 34A, Narvik",68.442319,17.447019
+829896,"Rombaksveien 34, Narvik",68.442299,17.446504
+829897,"Rombaksveien 26, Narvik",68.442343,17.442043
+829898,"Rombaksveien 24, Narvik",68.442315,17.441414
+829899,"Rombaksveien 22, Narvik",68.442611,17.440783
+829900,"Rombaksveien 20, Narvik",68.442309,17.440893
+829901,"Rombaksveien 18, Narvik",68.442383,17.440169
+829902,"Rombaksveien 16, Narvik",68.442654,17.440116
+829903,"Rombaksveien 12, Narvik",68.442481,17.439562
+829904,"Rombaksveien 10A, Narvik",68.442517,17.438963
+829905,"Rombaksveien 10, Narvik",68.44251,17.438816
+829906,"Rombaksveien 8, Narvik",68.442789,17.438731
+829907,"Rombaksveien 6, Narvik",68.442708,17.438202
+829908,"Rombaksveien 4, Narvik",68.442491,17.438277
+829909,"Rombaksveien 1, Narvik",68.44308,17.439428
+829960,"Strandveien 50, Narvik",68.447585,17.442877
+829961,"Strandveien 48, Narvik",68.447671,17.44252
+829962,"Strandveien 38, Narvik",68.447714,17.438961
+829963,"Strandveien 32, Narvik",68.446474,17.433458
+829964,"Strandveien 30, Narvik",68.446461,17.433139
+829965,"Strandveien 28, Narvik",68.446383,17.43235
+829966,"Strandveien 26, Narvik",68.44636,17.432079
+829967,"Strandveien 24, Narvik",68.446336,17.431832
+830028,"Strandveien 60, Narvik",68.44719,17.4453
+830029,"Strandveien 58, Narvik",68.447165,17.445175
+830030,"Strandveien 56, Narvik",68.447234,17.444157
+830031,"Strandveien 54, Narvik",68.447314,17.443785
+830114,"Sjøveien 39, Narvik",68.446683,17.429475
+830115,"Sjøveien 28, Narvik",68.445897,17.428731
+830116,"Sjøveien 26, Narvik",68.445789,17.428557
+830117,"Sjøveien 24, Narvik",68.445623,17.428278
+830118,"Sjøveien 22, Narvik",68.445532,17.428191
+830119,"Sjøveien 20, Narvik",68.445399,17.427756
+830120,"Sjøveien 18, Narvik",68.445376,17.427721
+830121,"Sjøveien 16, Narvik",68.445267,17.427784
+830122,"Sjøveien 14, Narvik",68.445099,17.427453
+830123,"Sjøveien 12, Narvik",68.445011,17.427321
+830124,"Sjøveien 10, Narvik",68.444798,17.427253
+830125,"Sjøveien 8, Narvik",68.444673,17.427106
+830126,"Sjøveien 6, Narvik",68.444464,17.426893
+830127,"Sjøveien 4A, Narvik",68.444281,17.426697
+830128,"Sjøveien 4, Narvik",68.444121,17.42662
+830129,"Sjøveien 2, Narvik",68.444003,17.426592
+830249,"Slåttvikveien 12, Narvik",68.446246,17.433219
+830250,"Slåttvikveien 10, Narvik",68.446047,17.433193
+830251,"Slåttvikveien 9, Narvik",68.446145,17.432617
+830252,"Slåttvikveien 8, Narvik",68.445743,17.433111
+830253,"Slåttvikveien 7, Narvik",68.445883,17.432174
+830254,"Slåttvikveien 6, Narvik",68.445485,17.432986
+830255,"Slåttvikveien 5, Narvik",68.44564,17.432197
+830256,"Slåttvikveien 4, Narvik",68.445211,17.432688
+830257,"Slåttvikveien 3, Narvik",68.445389,17.432146
+830501,"Ursins vei 8, Narvik",68.443898,17.442748
+830502,"Ursins vei 6, Narvik",68.44373,17.442676
+830503,"Ursins vei 3A, Narvik",68.443657,17.442014
+830504,"Ursins vei 3, Narvik",68.443729,17.442022
+830505,"Ursins vei 2, Narvik",68.443244,17.442677
+830506,"Ursins vei 1A, Narvik",68.443425,17.44194
+830507,"Ursins vei 1, Narvik",68.443524,17.441951
+830508,"Tårnveien 38, Narvik",68.442849,17.427236
+830509,"Tårnveien 37, Narvik",68.443035,17.426817
+830510,"Tårnveien 36A, Narvik",68.442738,17.426834
+830511,"Tårnveien 36, Narvik",68.442593,17.426916
+830512,"Tårnveien 35A, Narvik",68.443028,17.426035
+830513,"Tårnveien 35, Narvik",68.443053,17.42616
+830514,"Tårnveien 34, Narvik",68.442574,17.426377
+830515,"Gjøabakken 2, Narvik",68.442831,17.426014
+830516,"Gjøabakken 4, Narvik",68.442904,17.425612
+830517,"Tårnveien 32A, Narvik",68.442443,17.426119
+830518,"Tårnveien 32, Narvik",68.442369,17.425672
+830519,"Gjøabakken 3, Narvik",68.442743,17.42491
+830520,"Tårnveien 31, Narvik",68.442598,17.425317
+830521,"Tårnveien 30, Narvik",68.442295,17.4252
+830522,"Tårnveien 29, Narvik",68.442452,17.42469
+830523,"Tårnveien 28, Narvik",68.442204,17.424851
+830524,"Tårnveien 27, Narvik",68.44239,17.424481
+830525,"Tårnveien 26, Narvik",68.4415,17.421902
+830526,"Tårnveien 25, Narvik",68.442296,17.424053
+830527,"Tårnveien 24, Narvik",68.441438,17.421674
+830528,"Tårnveien 23, Narvik",68.441791,17.42201
+830529,"Tårnveien 22, Narvik",68.441359,17.421389
+830530,"Tårnveien 21, Narvik",68.441674,17.421595
+830531,"Tårnveien 20A, Narvik",68.441122,17.420808
+830532,"Tårnveien 20, Narvik",68.441083,17.420677
+830533,"Tårnveien 19, Narvik",68.441573,17.421121
+830534,"Tårnveien 18, Narvik",68.440998,17.420262
+830535,"Tårnveien 17, Narvik",68.441349,17.420487
+830536,"Tårnveien 16, Narvik",68.44094,17.420059
+830537,"Tårnveien 15A, Narvik",68.441255,17.42016
+830538,"Tårnveien 15, Narvik",68.441384,17.419929
+830539,"Tårnveien 14, Narvik",68.440731,17.419201
+830540,"Tårnveien 13, Narvik",68.441282,17.419528
+830542,"Tårnveien 11, Narvik",68.441069,17.419408
+830607,"Ursins vei 10, Narvik",68.444051,17.44274
+830638,"Taraldsvikbakken 13, Narvik",68.443328,17.443077
+830639,"Taraldsvikbakken 11A, Narvik",68.443297,17.442073
+830640,"Taraldsvikbakken 11, Narvik",68.443191,17.442013
+830641,"Taraldsvikbakken 10, Narvik",68.443136,17.444545
+830642,"Taraldsvikbakken 9A, Narvik",68.443247,17.441593
+830643,"Taraldsvikbakken 9, Narvik",68.443106,17.441328
+830644,"Taraldsvikbakken 8, Narvik",68.443234,17.44397
+830645,"Taraldsvikbakken 7, Narvik",68.44307,17.441024
+830646,"Taraldsvikbakken 6, Narvik",68.443142,17.443496
+830647,"Taraldsvikbakken 5, Narvik",68.443033,17.440531
+830648,"Taraldsvikbakken 4, Narvik",68.443042,17.442948
+830649,"Taraldsvikbakken 2, Narvik",68.442822,17.441436
+831133,"Vassvikveien 29, Narvik",68.444182,17.424416
+831134,"Vassvikveien 27, Narvik",68.444097,17.424124
+831136,"Vassvikveien 23, Narvik",68.443603,17.42304
+831137,"Vassvikveien 22, Narvik",68.443946,17.425046
+831138,"Vassvikveien 21, Narvik",68.443398,17.422917
+831139,"Vassvikveien 20, Narvik",68.443802,17.424654
+831140,"Vassvikveien 19, Narvik",68.443156,17.422834
+831141,"Vassvikveien 18, Narvik",68.44365,17.424223
+831142,"Vassvikveien 17, Narvik",68.442919,17.422687
+831143,"Vassvikveien 16B, Narvik",68.443498,17.423938
+831144,"Vassvikveien 16A, Narvik",68.443409,17.423928
+831145,"Vassvikveien 15A, Narvik",68.442775,17.422668
+831146,"Vassvikveien 15, Narvik",68.442684,17.422765
+831147,"Vassvikveien 14, Narvik",68.443177,17.423806
+831148,"Vassvikveien 13, Narvik",68.442442,17.422471
+831149,"Vassvikveien 12B, Narvik",68.442518,17.423467
+831150,"Vassvikveien 12A, Narvik",68.442465,17.423388
+831151,"Vassvikveien 11, Narvik",68.442182,17.422276
+831152,"Vassvikveien 9, Narvik",68.442064,17.422191
+831260,"Wergelands vei 52, Narvik",68.446306,17.443825
+831261,"Wergelands vei 50, Narvik",68.44621,17.443896
+831262,"Wergelands vei 48, Narvik",68.446024,17.444051
+831263,"Wergelands vei 46, Narvik",68.445934,17.44409
+831264,"Wergelands vei 44, Narvik",68.445809,17.444028
+831265,"Wergelands vei 42, Narvik",68.445746,17.444046
+831266,"Wergelands vei 40, Narvik",68.445636,17.444156
+831267,"Wergelands vei 38, Narvik",68.445528,17.444169
+831268,"Wergelands vei 36, Narvik",68.44543,17.444158
+831269,"Wergelands vei 34, Narvik",68.445331,17.444196
+831270,"Wergelands vei 32, Narvik",68.445108,17.444099
+831271,"Wergelands vei 30, Narvik",68.445044,17.444141
+831272,"Wergelands vei 28, Narvik",68.44491,17.444151
+831273,"Wergelands vei 26, Narvik",68.444856,17.444145
+831274,"Wergelands vei 24, Narvik",68.444721,17.444179
+831275,"Wergelands vei 23A, Narvik",68.44662,17.443188
+831276,"Wergelands vei 22, Narvik",68.444658,17.444197
+831277,"Wergelands vei 21A, Narvik",68.446385,17.442966
+831278,"Wergelands vei 21, Narvik",68.446256,17.443142
+831279,"Wergelands vei 20, Narvik",68.444517,17.444064
+831280,"Wergelands vei 19B, Narvik",68.446111,17.443345
+831281,"Wergelands vei 19A, Narvik",68.446077,17.443086
+831282,"Wergelands vei 19, Narvik",68.445994,17.442608
+831283,"Wergelands vei 18, Narvik",68.444463,17.444072
+831284,"Wergelands vei 17, Narvik",68.44574,17.443215
+831285,"Wergelands vei 16, Narvik",68.444325,17.444258
+831286,"Wergelands vei 15B, Narvik",68.445574,17.443235
+831287,"Wergelands vei 15A, Narvik",68.445379,17.443347
+831288,"Wergelands vei 14, Narvik",68.444253,17.444251
+831289,"Wergelands vei 13C, Narvik",68.445093,17.443292
+831290,"Wergelands vei 13B, Narvik",68.444985,17.443304
+831291,"Wergelands vei 13A, Narvik",68.444886,17.443294
+831292,"Wergelands vei 12, Narvik",68.444127,17.444261
+831293,"Wergelands vei 11, Narvik",68.444761,17.443256
+831294,"Wergelands vei 10, Narvik",68.444064,17.444279
+831295,"Wergelands vei 9, Narvik",68.44458,17.443383
+831296,"Wergelands vei 8, Narvik",68.443938,17.44429
+831297,"Wergelands vei 7A, Narvik",68.444362,17.443506
+831298,"Wergelands vei 7, Narvik",68.44437,17.44297
+831299,"Wergelands vei 6, Narvik",68.443866,17.444331
+831300,"Wergelands vei 4, Narvik",68.443731,17.444341
+831301,"Wergelands vei 3B, Narvik",68.443929,17.443386
+831302,"Wergelands vei 3A, Narvik",68.443776,17.44339
+831303,"Wergelands vei 2, Narvik",68.443659,17.444333
+831304,"Wergelands vei 1B, Narvik",68.443563,17.443498
+831305,"Wergelands vei 1A, Narvik",68.443429,17.443527
+831383,"Wergelands vei 60, Narvik",68.446622,17.443732
+831384,"Wergelands vei 58, Narvik",68.446578,17.443796
+831385,"Wergelands vei 56, Narvik",68.446435,17.443873
+831386,"Wergelands vei 54, Narvik",68.44634,17.443815
+831462,"Bjørkveien 6A, Narvik",68.443526,17.429481
+831463,"Bjørkveien 5A, Narvik",68.443566,17.428013
+831464,"Bjørkveien 5, Narvik",68.443585,17.428235
+831465,"Bjørkveien 4B, Narvik",68.443363,17.428951
+831466,"Bjørkveien 4A, Narvik",68.443311,17.428823
+831467,"Bjørkveien 3B, Narvik",68.44345,17.427886
+831468,"Bjørkveien 3A, Narvik",68.443407,17.427735
+831469,"Bjørkveien 2B, Narvik",68.443166,17.428295
+831470,"Bjørkveien 2A, Narvik",68.443115,17.42807
+831471,"Bjørkveien 1, Narvik",68.443314,17.427335
+831537,"Bjørkveien 34, Narvik",68.446121,17.431809
+831538,"Bjørkveien 32, Narvik",68.446165,17.432381
+831539,"Bjørkveien 30, Narvik",68.445912,17.431887
+831540,"Bjørkveien 29, Narvik",68.445778,17.430747
+831541,"Bjørkveien 28A, Narvik",68.445602,17.431705
+831542,"Bjørkveien 28, Narvik",68.445662,17.431885
+831543,"Bjørkveien 27A, Narvik",68.445592,17.430532
+831544,"Bjørkveien 27, Narvik",68.44558,17.430799
+831545,"Bjørkveien 26, Narvik",68.445349,17.431873
+831546,"Bjørkveien 25, Narvik",68.445372,17.43085
+831547,"Bjørkveien 24, Narvik",68.445078,17.43199
+831548,"Bjørkveien 23, Narvik",68.445164,17.430974
+831549,"Bjørkveien 22, Narvik",68.444694,17.431561
+831550,"Bjørkveien 21C, Narvik",68.445025,17.430642
+831551,"Bjørkveien 21B, Narvik",68.445002,17.431006
+831552,"Bjørkveien 21A, Narvik",68.444922,17.430948
+831553,"Bjørkveien 20A, Narvik",68.444432,17.431359
+831554,"Bjørkveien 20, Narvik",68.444479,17.431169
+831555,"Bjørkveien 19, Narvik",68.444738,17.430684
+831556,"Bjørkveien 18, Narvik",68.444321,17.430933
+831557,"Bjørkveien 17, Narvik",68.444581,17.430375
+831558,"Bjørkveien 16, Narvik",68.444164,17.430647
+831559,"Bjørkveien 15, Narvik",68.444433,17.430017
+831560,"Bjørkveien 14, Narvik",68.444005,17.430435
+831561,"Bjørkveien 13, Narvik",68.444275,17.429781
+831562,"Bjørkveien 12, Narvik",68.443885,17.430056
+831563,"Bjørkveien 11, Narvik",68.444117,17.42952
+831564,"Bjørkveien 9, Narvik",68.443969,17.429211
+831565,"Bjørkveien 7, Narvik",68.443731,17.428893
+831566,"Bjørkveien 6B, Narvik",68.443588,17.429536
+831795,"Aspeveien 8, Narvik",68.443808,17.430438
+831796,"Aspeveien 7, Narvik",68.443514,17.430285
+831797,"Aspeveien 6, Narvik",68.443786,17.430704
+831798,"Aspeveien 4, Narvik",68.443666,17.43157
+831799,"Aspeveien 3, Narvik",68.44337,17.431563
+831800,"Aspeveien 2A, Narvik",68.443642,17.431958
+831801,"Aspeveien 2, Narvik",68.443627,17.431761
+831802,"Aspeveien 1A, Narvik",68.443364,17.431928
+831803,"Aspeveien 1, Narvik",68.443353,17.432122
+831996,"Ornesveien 7, Narvik",68.447571,17.45433
+831997,"Ornesveien 5, Narvik",68.446911,17.452739
+832028,"Bjørnsons vei 23, Narvik",68.445792,17.439784
+832029,"Bjørnsons vei 22, Narvik",68.445413,17.441059
+832030,"Bjørnsons vei 21, Narvik",68.445627,17.44
+832031,"Bjørnsons vei 20A, Narvik",68.445297,17.441705
+832032,"Bjørnsons vei 19, Narvik",68.445384,17.440529
+832033,"Bjørnsons vei 18, Narvik",68.445052,17.441523
+832034,"Bjørnsons vei 17, Narvik",68.445106,17.440669
+832035,"Bjørnsons vei 16, Narvik",68.444886,17.441553
+832036,"Bjørnsons vei 15, Narvik",68.444859,17.440756
+832037,"Bjørnsons vei 14, Narvik",68.444687,17.441623
+832038,"Bjørnsons vei 12, Narvik",68.444492,17.441678
+832039,"Bjørnsons vei 10, Narvik",68.44421,17.441746
+832040,"Bjørnsons vei 8B, Narvik",68.444019,17.44185
+832041,"Bjørnsons vei 8A, Narvik",68.443945,17.44187
+832042,"Bjørnsons vei 8, Narvik",68.443763,17.441296
+832043,"Bjørnsons vei 7, Narvik",68.443937,17.440702
+832044,"Bjørnsons vei 6, Narvik",68.44359,17.44108
+832045,"Bjørnsons vei 5, Narvik",68.443788,17.440466
+832046,"Bjørnsons vei 4, Narvik",68.443425,17.44072
+832047,"Bjørnsons vei 2A, Narvik",68.443151,17.439836
+832048,"Bjørnsons vei 2, Narvik",68.443269,17.440337
+832116,"Bjørnsons vei 36, Narvik",68.446601,17.439274
+832117,"Bjørnsons vei 35, Narvik",68.446581,17.438153
+832118,"Bjørnsons vei 34, Narvik",68.446486,17.439536
+832119,"Bjørnsons vei 33, Narvik",68.446582,17.43845
+832120,"Bjørnsons vei 32, Narvik",68.446349,17.439702
+832121,"Bjørnsons vei 31, Narvik",68.446451,17.438728
+832122,"Bjørnsons vei 30, Narvik",68.446156,17.440193
+832123,"Bjørnsons vei 29, Narvik",68.446353,17.438672
+832124,"Bjørnsons vei 28, Narvik",68.446043,17.440539
+832125,"Bjørnsons vei 27A, Narvik",68.44613,17.439233
+832126,"Bjørnsons vei 27, Narvik",68.446231,17.43918
+832127,"Bjørnsons vei 26, Narvik",68.445836,17.440685
+832128,"Bjørnsons vei 25B, Narvik",68.445993,17.439477
+832129,"Bjørnsons vei 25A, Narvik",68.445941,17.439707
+832130,"Bjørnsons vei 24A, Narvik",68.44573,17.440847
+832131,"Bjørnsons vei 24, Narvik",68.445656,17.440936
+832226,"Brugata 6C, Narvik",68.44119,17.419074
+832227,"Brugata 6A, Narvik",68.44072,17.420446
+832228,"Brugata 6, Narvik",68.440762,17.420282
+832229,"Brugata 5, Narvik",68.440528,17.419545
+832231,"Brugata 3, Narvik",68.439909,17.420796
+833553,"Seljeveien 6, Narvik",68.446263,17.430067
+833554,"Seljeveien 5, Narvik",68.44593,17.430178
+833555,"Seljeveien 4, Narvik",68.446246,17.430627
+833556,"Seljeveien 3, Narvik",68.445977,17.430598
+833650,"Seljeveien 16, Narvik",68.445972,17.42913
+833651,"Seljeveien 14, Narvik",68.446011,17.4292
+833652,"Seljeveien 12, Narvik",68.446141,17.429249
+833653,"Seljeveien 10, Narvik",68.446192,17.429401
+833654,"Seljeveien 8, Narvik",68.446285,17.429777
+833729,"Teknologiveien 19, Narvik",68.447594,17.452056
+833730,"Teknologiveien 17, Narvik",68.448043,17.452666
+833731,"Teknologiveien 15, Narvik",68.44831,17.452207
+833732,"Teknologiveien 13, Narvik",68.448417,17.451657
+833733,"Teknologiveien 12, Narvik",68.447971,17.450852
+833734,"Teknologiveien 11, Narvik",68.448475,17.45137
+833735,"Teknologiveien 10, Narvik",68.447769,17.450513
+833736,"Teknologiveien 5, Narvik",68.44443,17.449322
+833737,"Teknologiveien 4, Narvik",68.44611,17.449235
+833835,"Kirkegata 44, Narvik",68.440716,17.422713
+833956,"Ursins vei 4A, Narvik",68.443484,17.442801
+833991,"Ursins vei 4B, Narvik",68.443522,17.442659
+834092,"Sjøveien 15, Narvik",68.445262,17.426758
+834093,"Sjøveien 25, Narvik",68.445283,17.425408
+834095,"Frydenlundgata 15, Narvik",68.440111,17.422057
+834100,"Vassvikkaia 10, Narvik",68.445542,17.425405
+834101,"Vassvikkaia 8, Narvik",68.445535,17.425223
+834102,"Vassvikkaia 16, Narvik",68.445555,17.425876
+834103,"Vassvikkaia 18, Narvik",68.445558,17.426067
+834104,"Vassvikkaia 14, Narvik",68.445545,17.425736
+834116,"Sjøveien 23, Narvik",68.445281,17.425668
+834117,"Sjøveien 17, Narvik",68.445268,17.426479
+834118,"Sjøveien 19, Narvik",68.445271,17.426212
+834119,"Sjøveien 21, Narvik",68.445277,17.42594
+834162,"Bjørnsons vei 3, Narvik",68.44363,17.440205
+834164,"Bjørnsons vei 1, Narvik",68.444537,17.438936
+834168,"Frydenlundgata 73, Narvik",68.442931,17.435176
+834169,"Sjøveien 5B, Narvik",68.444616,17.426083
+834170,"Sjøveien 5A, Narvik",68.444579,17.426177
+834171,"Sjøveien 3B, Narvik",68.444577,17.425906
+834172,"Sjøveien 3A, Narvik",68.444536,17.426001
+834173,"Sjøveien 1B, Narvik",68.444522,17.425731
+834174,"Sjøveien 1A, Narvik",68.444476,17.425824
+834175,"Sjøveien 7, Narvik",68.444797,17.426325
+834176,"Sjøveien 13, Narvik",68.444998,17.426598
+834177,"Sjøveien 11, Narvik",68.445023,17.425705
+834180,"Vassvikkaia 24, Narvik",68.445559,17.426907
+834181,"Vassvikkaia 22, Narvik",68.445565,17.42664
+834182,"Vassvikkaia 12, Narvik",68.445543,17.425549
+834183,"Vassvikkaia 20, Narvik",68.445557,17.426253
+834184,"Aspeveien 5B, Narvik",68.443391,17.430983
+834219,"Brugata 8, Narvik",68.441966,17.418771
+834226,"Vassvikkaia 26, Narvik",68.445557,17.427173
+834292,"Kirkegata 53, Narvik",68.441879,17.425424
+834293,"Helmer Hansens vei 12A, Narvik",68.443338,17.426144
+834437,"Frydenlundgata 52, Narvik",68.442183,17.431984
+834458,"Strandveien 52A, Narvik",68.447499,17.44347
+834459,"Strandveien 52B, Narvik",68.447341,17.442997
+834468,"Teknologiveien 2A, Narvik",68.445053,17.449096
+834481,"Helmer Hansens vei 12B, Narvik",68.44323,17.426325
+834483,"Hamsuns vei 61A, Narvik",68.447023,17.444452
+834526,"Vassvikkaia 6, Narvik",68.44546,17.42486
+834527,"Vassvikkaia 4, Narvik",68.445455,17.424733
+834528,"Industriveien 16A, Narvik",68.440652,17.427757
+834662,"Tårnveien 26A, Narvik",68.441549,17.422227
+834663,"Industriveien 2, Narvik",68.439692,17.424628
+834736,"Bjørnsons vei 13A, Narvik",68.444537,17.440767
+834737,"Bjørnsons vei 13B, Narvik",68.444627,17.440776
+834843,"Falkbergets vei 29, Narvik",68.446825,17.443585
+834844,"Falkbergets vei 23, Narvik",68.44686,17.442979
+834846,"Falkbergets vei 27, Narvik",68.447008,17.443645
+834848,"Falkbergets vei 21, Narvik",68.447092,17.442775
+834850,"Falkbergets vei 19, Narvik",68.446933,17.442656
+834869,"Vassvikveien 10B, Narvik",68.442153,17.42341
+834871,"Vassvikveien 10A, Narvik",68.442113,17.423239
+834879,"Nordahl Griegs vei 10A, Narvik",68.445805,17.438735
+834881,"Nordahl Griegs vei 10B, Narvik",68.445843,17.438688
+834887,"Sjøveien 41, Narvik",68.446958,17.430459
+834891,"Bjørnsons vei 11A, Narvik",68.444265,17.440957
+834895,"Bjørnsons vei 11B, Narvik",68.444371,17.441042
+834896,"Falkbergets vei 10D, Narvik",68.446691,17.43915
+834897,"Falkbergets vei 10C, Narvik",68.446714,17.439132
+834899,"Falkbergets vei 10B, Narvik",68.446772,17.439109
+834901,"Falkbergets vei 10A, Narvik",68.446829,17.43901
+834923,"Furuveien 6A, Narvik",68.443223,17.43351
+834925,"Brugata 2A, Narvik",68.439179,17.424696
+834948,"Ofotveien 4, Narvik",68.440488,17.42301
+834976,"Falkbergets vei 25, Narvik",68.447012,17.443148
+834983,"Wergelands vei 23F, Narvik",68.44658,17.442842
+834984,"Wergelands vei 23E, Narvik",68.446586,17.443014
+834985,"Wergelands vei 23D, Narvik",68.446594,17.443136
+834986,"Wergelands vei 23C, Narvik",68.446607,17.442821
+834987,"Wergelands vei 23B, Narvik",68.446604,17.443016
+835061,"Kirkegata 46C, Narvik",68.440977,17.423755
+835063,"Kirkegata 46B, Narvik",68.440909,17.423496
+835065,"Kirkegata 46A, Narvik",68.440825,17.423178
+835083,"Elias Blix vei 4B, Narvik",68.447358,17.442438
+835085,"Olderveien 13, Narvik",68.443394,17.430384
+835086,"Olderveien 11, Narvik",68.443322,17.430317
+835115,"Aspeveien 5A, Narvik",68.443382,17.43132
+835124,"Helmer Hansens vei 9A, Narvik",68.443516,17.425447
+835205,"Furuveien 6B, Narvik",68.443227,17.433988
+835277,"Rønningtomtveien 11B, Narvik",68.441536,17.422483
+835278,"Ofotveien 6A, Narvik",68.441019,17.422208
+835314,"Herjangsveien 6A, Narvik",68.441949,17.425139
+835367,"Teknologiveien 6, Narvik",68.446745,17.449377
+835517,"Industriveien 5A, Narvik",68.439779,17.423589
+1268801,"Wergelands vei 5, Narvik",68.444065,17.443389
+1660808,"Nordahl Griegs vei 23B, Narvik",68.446064,17.437883
+1662860,"Bjørnsons vei 20B, Narvik",68.445211,17.4413
+1662861,"Bjørnsons vei 20C, Narvik",68.44525,17.441257
+1664791,"Fridtjof Nansens vei 27A, Narvik",68.443833,17.42526
+1701270,"Evenesveien 7, Narvik",68.441656,17.427548
+1701271,"Evenesveien 9, Narvik",68.441838,17.427196
+1706019,"Aspeveien 5C, Narvik",68.443359,17.43098
+1706021,"Aspeveien 5D, Narvik",68.443315,17.430962
+1727169,"Strandveien 34, Narvik",68.446777,17.434707
+1787425,"Roald Amundsens vei 6, Narvik",68.445013,17.422889
+1814027,"Teknologiveien 2B, Narvik",68.445508,17.449086
+1896539,"Strandveien 65, Narvik",68.446681,17.447769
+1960151,"Frydenlundgata 43B, Narvik",68.441889,17.428606
+2003007,"Jul B.Olsens vei 8, Narvik",68.443534,17.420995
+2003008,"Jul B.Olsens vei 7, Narvik",68.443268,17.420901
+2015771,"Strandveien 61, Narvik",68.447485,17.447239
+2038624,"Frydenlundgata 19, Narvik",68.440214,17.422417
+2098281,"Rombaksveien 73, Narvik",68.450407,17.461163
+2119890,"Industriveien 14, Narvik",68.44026,17.426755
+2358565,"Frydenlundgata 20, Narvik",68.439997,17.423084
+2395035,"Rombaksveien 71, Narvik",68.450126,17.459947
+2454373,"Rombaksveien 49, Narvik",68.446806,17.454089
+2459577,"Kirkegata 50, Narvik",68.441276,17.424736
+2487184,"Frydenlundgata 25A, Narvik",68.440504,17.423861
+2510116,"Ibsens vei 8A, Narvik",68.446003,17.442029

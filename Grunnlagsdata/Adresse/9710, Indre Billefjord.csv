@@ -1,0 +1,574 @@
+,Navn,Long,Lat
+27470,"6/7, Porsanger",70.360208,25.05357
+27471,"6/8, Porsanger",70.36133,25.060523
+27474,"6/20, Porsanger",70.349849,25.038667
+27475,"7/116, Porsanger",70.275575,24.992773
+27476,"7/267, Porsanger",70.323091,25.061932
+27477,"7/221, Porsanger",70.27709,25.031767
+27478,"7/195, Porsanger",70.275606,25.047919
+27479,"Indre-Billefjord, 7/48/2, Porsanger",70.324001,25.064106
+27480,"9/51, Porsanger",70.225683,24.927527
+27481,"Gåradak, 7/375, Porsanger",70.278163,25.055609
+27482,"7/339, Porsanger",70.278266,25.029042
+27483,"7/295, Porsanger",70.277311,25.035299
+27484,"7/301, Porsanger",70.278438,25.027504
+27486,"Stabbursdalen, 13/1/4, Porsanger",69.868238,24.240287
+27487,"Stabbursdalen, 13/1/13, Porsanger",69.956179,24.194237
+27488,"Stabbursdalen, 13/1/9, Porsanger",69.842831,24.23451
+27489,"Stabbursnes, 10/1/35, Porsanger",70.176253,24.948247
+27511,"7/501, Porsanger",70.325987,25.118484
+27512,"7/1/44, Porsanger",70.292997,24.947841
+27514,"9/11, Porsanger",70.153381,24.765754
+27517,"13/1/11, Porsanger",69.95795,24.302977
+27520,"10/1/24, Porsanger",70.170467,24.797521
+27531,"7/420, Porsanger",70.262023,24.991404
+27535,"6/34/3, Porsanger",70.341214,25.031841
+27536,"6/34/1, Porsanger",70.340819,25.032877
+27538,"6/34/2, Porsanger",70.341184,25.033989
+27539,"6/34/4, Porsanger",70.341843,25.035559
+27540,"6/34/5, Porsanger",70.341486,25.030682
+27543,"7/201, Porsanger",70.276103,24.993678
+27552,"7/399, Porsanger",70.278645,25.026125
+27556,"7/394, Porsanger",70.323155,25.050361
+27557,"9/52, Porsanger",70.173328,24.854706
+27558,"10/1/23, Porsanger",70.169112,24.795098
+27559,"10/1/21, Porsanger",70.168408,24.803048
+27595,"9/1/7, Porsanger",70.136535,24.469326
+27602,"13/1/7, Porsanger",69.856278,24.236684
+27612,"13/1/1, Porsanger",69.83459,24.246544
+27628,"6/1/20, Porsanger",70.317255,24.774194
+27631,"10/2, Porsanger",70.177073,24.987063
+27633,"9/1/11, Porsanger",70.193781,24.621546
+27636,"7/1/76, Porsanger",70.279504,24.937216
+27637,"6/1/6, Porsanger",70.369416,24.931505
+27638,"10/1/30, Porsanger",70.133655,24.708902
+27639,"8/2, Porsanger",70.298863,24.904318
+27641,"Ytre Billefjord, 6/57, Porsanger",70.350489,25.031103
+27642,"Ytre Billefjord, 6/58, Porsanger",70.350798,25.030948
+27643,"Ytre Billefjord, 6/55, Porsanger",70.349855,25.031236
+27644,"Ytre Billefjord, 6/56, Porsanger",70.350133,25.030971
+27645,"Ytre Billefjord, 6/53, Porsanger",70.34945,25.033284
+27646,"Ytre Billefjord, 6/54, Porsanger",70.349666,25.032353
+27647,"6/1/32, Porsanger",70.319074,24.87549
+27650,"7/1/110, Porsanger",70.257299,24.913031
+27654,"10/7, Porsanger",70.136019,24.753618
+27655,"7/80, Porsanger",70.269162,24.9838
+27656,"8/1/2, Porsanger",70.269454,24.842437
+27681,"7/221-2, Porsanger",70.27639,25.032267
+27717,"Duolbajarcohkka, 7/1-1, Porsanger",70.25014,24.820395
+27723,"Indre Billefjord, 7/459, Porsanger",70.302877,25.062878
+27731,"6/17-1, Porsanger",70.352683,25.037169
+27754,"Navkajohka, 13/1/14, Porsanger",69.971044,24.303106
+27759,"Navkajokka, 13/1/8, Porsanger",69.958565,24.302086
+27760,"Dilljåklækki, 13/1/10, Porsanger",70.018493,24.627402
+27761,"Navkajokka, 13/1/5, Porsanger",69.980973,24.258273
+27762,"Navkajokka, 13/1/6, Porsanger",69.983102,24.257233
+27763,"Navkajokka, 13/1/2, Porsanger",69.977587,24.258717
+27764,"Stuorranjoasgurra, 9/1-6, Porsanger",70.158016,24.707524
+27765,"Diljohka, 10/1/31, Porsanger",70.123062,24.771543
+27768,"6/1-2, Porsanger",70.372084,24.850926
+27769,"6/1-3, Porsanger",70.373364,24.890265
+27772,"9/1-3, Porsanger",70.127246,24.27754
+27773,"9/1-1, Porsanger",70.14447,24.483794
+27774,"Gussasaiva, 9/1-2, Porsanger",70.176315,24.268879
+27779,"Gorbovuonjavri, 9/1-4, Porsanger",70.196266,24.640346
+27780,"Gorbovuonjavri, 9/1-5, Porsanger",70.19641,24.642393
+27781,"7/221-1, Porsanger",70.27709,25.031767
+27782,"6/1-4, Porsanger",70.35333,24.746824
+27785,"8/1/3, Porsanger",70.29907,24.903569
+27786,"Auskarholmen, 7/1/92, Porsanger",70.328032,25.286977
+27787,"9/99, Porsanger",70.159928,24.784372
+27793,"9/100, Porsanger",70.166392,24.79072
+27797,"Stabbursdalsvann, 13/1/12, Porsanger",69.864968,24.241718
+27798,"Stabbursnes, 10/48, Porsanger",70.175419,24.903956
+27803,"Ytre Billefjordelv, 7/1-6, Porsanger",70.335284,25.01474
+27810,"11/1-2, Porsanger",70.094583,24.204623
+27811,"13/1-3, Porsanger",69.84169,24.244011
+27814,"Bastinjåkka, 11/1-1, Porsanger",70.113094,24.245944
+27815,"Airujavri, 13/1-1, Porsanger",69.914046,24.275754
+27817,"7/472, Porsanger",70.277528,25.053693
+29722,"7/1/125, Porsanger",70.260366,24.868895
+31036,"6/72, Porsanger",70.348622,25.038665
+31104,"10/36, Porsanger",70.160826,24.788275
+31113,"13/1/3, Porsanger",69.959189,24.289358
+31117,"9/116, Porsanger",70.212284,24.999631
+34580,"8/1/4, Porsanger",70.258925,24.849762
+35764,"7/487, Porsanger",70.273,25.045162
+36389,"9/1/35, Porsanger",70.131851,24.299569
+36885,"6/76, Porsanger",70.360953,25.052902
+37300,"8/1/5, Porsanger",70.262602,24.727231
+40107,"7/502, Porsanger",70.276856,25.035013
+40131,"7/424, Porsanger",70.269388,25.07498
+40229,"7/1/89, Porsanger",70.304959,25.171173
+44183,"8/3, Porsanger",70.298564,24.904412
+45756,"6/85, Porsanger",70.359408,25.050276
+47309,"Bajit Gierddotjavri, 7/1-3, Porsanger",70.279594,24.926731
+47310,"Duolbajavri, 7/1-4, Porsanger",70.247489,24.839351
+47312,"Gorbovuonjohka, 8/1-6, Porsanger",70.277169,24.872651
+47313,"Gorbovuonjohka, 7/1-2, Porsanger",70.243116,24.804988
+47315,"Skaiddejavri, 8/1-4, Porsanger",70.262622,24.72698
+47317,"Gorbovuonavzi, 8/1-5, Porsanger",70.290164,24.896663
+47318,"Raktoaijavrit, 8/1-2, Porsanger",70.333321,24.60253
+47320,"Balddonasjohka, 8/1-3, Porsanger",70.246987,24.797253
+2192142,"Rávttošvuopmi 602, Porsanger",70.14304,24.768161
+2192143,"Rávttošvuopmi 480, Porsanger",70.147514,24.778151
+2192145,"Rávttošvuopmi 356, Porsanger",70.138893,24.788352
+2192146,"Rávttošvuopmi 606, Porsanger",70.144292,24.76478
+2192147,"Rávttošvuopmi 604, Porsanger",70.14475,24.764693
+2192149,"Rávttošvuopmi 510, Porsanger",70.1534,24.765752
+2192582,"Badjenjárga 100, Porsanger",70.172944,24.883863
+2192584,"Badjenjárga 83, Porsanger",70.173738,24.888851
+2192585,"Badjenjárga 68, Porsanger",70.17314,24.891169
+2192620,"Badjenjárga 54, Porsanger",70.173215,24.89759
+2192635,"Badjenjárga 64, Porsanger",70.17312,24.893681
+2192636,"Badjenjárga 1, Porsanger",70.175634,24.907152
+2192676,"Badjenjárga 90, Porsanger",70.172955,24.888506
+2192678,"Badjenjárga 66, Porsanger",70.173147,24.89269
+2378195,"Vestre Porsangerveien 3311, Porsanger",70.322869,25.059217
+2378196,"Vestre Porsangerveien 2889, Porsanger",70.289105,25.092848
+2378197,"Vestre Porsangerveien 1970, Porsanger",70.230872,24.929735
+2378339,"Ráigeája 109, Porsanger",70.229106,24.929546
+2378347,"Vestre Porsangerveien 1305, Porsanger",70.176458,24.911167
+2378348,"Vestre Porsangerveien 1297, Porsanger",70.175338,24.910585
+2378355,"Snekkernesveien 206, Porsanger",70.178404,24.877598
+2378356,"Snekkernesveien 211, Porsanger",70.17835,24.871576
+2378357,"Vestre Porsangerveien 1762, Porsanger",70.215996,24.916844
+2378358,"Igeldas, Vestre Porsangerveien 1758, Porsanger",70.215933,24.91523
+2378359,"Ráigeája 48, Porsanger",70.224922,24.925401
+2378360,"Vestre Porsangerveien 1756, Porsanger",70.21544,24.915229
+2378361,"Vestre Porsangerveien 1343, Porsanger",70.18076,24.912704
+2378362,"Vestre Porsangerveien 1345, Porsanger",70.181285,24.915081
+2378363,"Vestre Porsangerveien 1287, Porsanger",70.174675,24.910216
+2378364,"Snekkernesveien 50, Porsanger",70.184694,24.904963
+2378365,"Snekkernesveien 385, Porsanger",70.18329,24.844913
+2378366,"Vestre Porsangerveien 1653, Porsanger",70.207758,24.918447
+2378466,"Vestre Porsangerveien 2964, Porsanger",70.297504,25.067295
+2378467,"Vestre Porsangerveien 2988, Porsanger",70.299272,25.064177
+2378468,"Vestre Porsangerveien 3134, Porsanger",70.309639,25.049085
+2378469,"Vestre Porsangerveien 3323, Porsanger",70.323593,25.061137
+2378470,"Vestre Porsangerveien 2413, Porsanger",70.255189,25.024112
+2378471,"Vestre Porsangerveien 2511, Porsanger",70.264328,25.029185
+2378472,"Vestre Porsangerveien 2983, Porsanger",70.300005,25.075819
+2378473,"Vestre Porsangerveien 3224, Porsanger",70.31913,25.040489
+2378474,"Vestre Porsangerveien 2957, Porsanger",70.299058,25.081391
+2378475,"Vestre Porsangerveien 3090, Porsanger",70.308088,25.05928
+2378476,"Vestre Porsangerveien 3413, Porsanger",70.331683,25.073845
+2378477,"Vestre Porsangerveien 3092, Porsanger",70.30646,25.056263
+2378478,"Vestre Porsangerveien 2251, Porsanger",70.245439,24.995086
+2378479,"Vestre Porsangerveien 3145, Porsanger",70.311849,25.053382
+2378480,"Vestre Porsangerveien 2891, Porsanger",70.291667,25.101506
+2378481,"Vestre Porsangerveien 3118, Porsanger",70.309033,25.055434
+2378482,"Vestre Porsangerveien 3106, Porsanger",70.309174,25.057483
+2378483,"Vestre Porsangerveien 3815, Porsanger",70.354939,25.039956
+2378484,"Vestre Porsangerveien 3220, Porsanger",70.316575,25.041136
+2378485,"Vestre Porsangerveien 3765, Porsanger",70.351176,25.039261
+2378486,"Vestre Porsangerveien 3763, Porsanger",70.350897,25.040167
+2378487,"Vestre Porsangerveien 3819, Porsanger",70.355674,25.040334
+2378488,"Vestre Porsangerveien 4122, Porsanger",70.374553,25.092739
+2378489,"Vestre Porsangerveien 3218, Porsanger",70.31644,25.042197
+2378490,"Vestre Porsangerveien 3132, Porsanger",70.309484,25.052673
+2378491,"Vestre Porsangerveien 2918, Porsanger",70.293685,25.068032
+2378492,"Vestre Porsangerveien 4272, Porsanger",70.385913,25.112545
+2378493,"Vestre Porsangerveien 4120, Porsanger",70.373982,25.090975
+2378494,"Vestre Porsangerveien 4286, Porsanger",70.387551,25.114992
+2378495,"Vestre Porsangerveien 3846, Porsanger",70.357545,25.042586
+2378496,"Vestre Porsangerveien 3787, Porsanger",70.352682,25.03717
+2378497,"Vestre Porsangerveien 3904, Porsanger",70.360528,25.055266
+2378542,"Vestre Porsangerveien 3874, Porsanger",70.359002,25.048378
+2378543,"Vestre Porsangerveien 4011, Porsanger",70.366882,25.075311
+2378544,"Vestre Porsangerveien 3936, Porsanger",70.362107,25.063168
+2378545,"Vestre Porsangerveien 3856, Porsanger",70.358618,25.046031
+2378546,"Vestre Porsangerveien 3256, Porsanger",70.319222,25.048229
+2378547,"Vestre Porsangerveien 3317, Porsanger",70.323263,25.060205
+2378548,"Vestre Porsangerveien 3030, Porsanger",70.301853,25.065021
+2378549,"Vestre Porsangerveien 3096, Porsanger",70.305709,25.054425
+2378550,"Vestre Porsangerveien 3070, Porsanger",70.305446,25.058035
+2378551,"Vestre Porsangerveien 3208, Porsanger",70.314843,25.044021
+2378552,"Vestre Porsangerveien 3339, Porsanger",70.324496,25.064204
+2378553,"Vestre Porsangerveien 2513, Porsanger",70.261636,25.031925
+2378554,"Vestre Porsangerveien 3285, Porsanger",70.320939,25.053562
+2378556,"Vestre Porsangerveien 3592, Porsanger",70.344914,25.073008
+2378557,"Vestre Porsangerveien 2504, Porsanger",70.264384,25.026268
+2378558,"Vestre Porsangerveien 3706, Porsanger",70.346785,25.047405
+2378559,"Vestre Porsangerveien 3430, Porsanger",70.330159,25.06633
+2378560,"Vestre Porsangerveien 3695, Porsanger",70.34809,25.051276
+2378561,"Vestre Porsangerveien 3299, Porsanger",70.322038,25.056365
+2378562,"Vestre Porsangerveien 2580, Porsanger",70.268871,25.041075
+2378563,"Vestre Porsangerveien 3034, Porsanger",70.30337,25.062934
+2378564,"Vestre Porsangerveien 3404, Porsanger",70.32945,25.066828
+2378565,"Vestre Porsangerveien 2279, Porsanger",70.247371,25.001507
+2378597,"Vestre Porsangerveien 2705, Porsanger",70.275344,25.068856
+2378598,"Vestre Porsangerveien 2514, Porsanger",70.266652,25.025593
+2378599,"Vestre Porsangerveien 2878, Porsanger",70.289926,25.070416
+2378600,"Vestre Porsangerveien 3074, Porsanger",70.306036,25.058812
+2378601,"Vestre Porsangerveien 3361, Porsanger",70.326158,25.068235
+2378602,"Vestre Porsangerveien 3098, Porsanger",70.30657,25.054192
+2378603,"Vestre Porsangerveien 2690, Porsanger",70.274385,25.060939
+2378604,"Vestre Porsangerveien 1787, Porsanger",70.216917,24.92751
+2378605,"Vestre Porsangerveien 1798, Porsanger",70.218585,24.924789
+2378606,"Vestre Porsangerveien 1669, Porsanger",70.209255,24.915937
+2378607,"Vestre Porsangerveien 1923, Porsanger",70.227804,24.942119
+2378608,"Vestre Porsangerveien 1545, Porsanger",70.197889,24.915367
+2378609,"Vestre Porsangerveien 1760, Porsanger",70.216515,24.916818
+2378610,"Snekkernesveien 197, Porsanger",70.180713,24.872755
+2378611,"Vestre Porsangerveien 1727, Porsanger",70.213072,24.920598
+2378612,"Vestre Porsangerveien 1720, Porsanger",70.212258,24.913639
+2378613,"Snekkernesveien 260, Porsanger",70.173823,24.866933
+2378614,"Vestre Porsangerveien 1939, Porsanger",70.229363,24.940879
+2378615,"Vestre Porsangerveien 1734, Porsanger",70.213782,24.913112
+2378616,"Ráigeája 74, Porsanger",70.226535,24.923718
+2378617,"Vestre Porsangerveien 1389, Porsanger",70.183755,24.910408
+2378618,"Vestre Porsangerveien 2506, Porsanger",70.263975,25.021385
+2378619,"Vestre Porsangerveien 3091, Porsanger",70.308705,25.061305
+2378620,"Snekkernesveien 252, Porsanger",70.175168,24.869229
+2378621,"Ráigeája 10, Porsanger",70.221409,24.930312
+2378622,"Ráigeája 8, Porsanger",70.221066,24.930563
+2378623,"Vestre Porsangerveien 1670, Porsanger",70.208207,24.910512
+2378624,"Vestre Porsangerveien 3415, Porsanger",70.331207,25.075411
+2378625,"Vestre Porsangerveien 3222, Porsanger",70.317141,25.03896
+2378626,"Vestre Porsangerveien 3072, Porsanger",70.305912,25.057401
+2378627,"Vestre Porsangerveien 2411, Porsanger",70.255577,25.022113
+2378628,"Vestre Porsangerveien 3212, Porsanger",70.315904,25.039933
+2378629,"Vestre Porsangerveien 2512, Porsanger",70.265539,25.027497
+2378630,"Vestre Porsangerveien 3342, Porsanger",70.325606,25.065092
+2379112,"Vestre Porsangerveien 4082, Porsanger",70.371898,25.086316
+2379115,"Vestre Porsangerveien 3666, Porsanger",70.34764,25.053803
+2379118,"Vestre Porsangerveien 3230, Porsanger",70.316994,25.04372
+2379121,"Vestre Porsangerveien 3662, Porsanger",70.348042,25.054818
+2379125,"Vestre Porsangerveien 3928, Porsanger",70.361472,25.06151
+2379160,"Ráigeája 115, Porsanger",70.229029,24.933246
+2379340,"Snekkernesveien 76, Porsanger",70.181254,24.900174
+2379341,"Vestre Porsangerveien 3925, Porsanger",70.361033,25.061987
+2379352,"Vestre Porsangerveien 2633, Porsanger",70.269737,25.056125
+2379520,"Vestre Porsangerveien 3882, Porsanger",70.359688,25.052302
+2379537,"Vestre Porsangerveien 1335, Porsanger",70.179138,24.909637
+2379552,"Vestre Porsangerveien 3456, Porsanger",70.334564,25.070333
+2379553,"Vestre Porsangerveien 3089, Porsanger",70.308292,25.061727
+2379554,"Vestre Porsangerveien 3130, Porsanger",70.309817,25.051744
+2379559,"Vestre Porsangerveien 3028, Porsanger",70.302517,25.064602
+2379560,"Vestre Porsangerveien 3027, Porsanger",70.303144,25.065378
+2379561,"Vestre Porsangerveien 3044, Porsanger",70.304608,25.062016
+2379566,"Vestre Porsangerveien 3228, Porsanger",70.317103,25.042203
+2379574,"Vestre Porsangerveien 1442, Porsanger",70.188534,24.911352
+2379584,"Vestre Porsangerveien 4092, Porsanger",70.373517,25.084867
+2379592,"Vestre Porsangerveien 1655, Porsanger",70.207677,24.919877
+2379595,"Vestre Porsangerveien 968, Porsanger",70.148349,24.901035
+2379609,"Ráigeája 86, Porsanger",70.22753,24.925385
+2379618,"Vestre Porsangerveien 3926, Porsanger",70.361134,25.059243
+2379628,"Vestre Porsangerveien 2337, Porsanger",70.250146,25.018858
+2379651,"Snekkernesveien 304, Porsanger",70.172843,24.853092
+2379652,"Snekkernesveien 306, Porsanger",70.17236,24.853705
+2379653,"Rávttošvuopmi 492, Porsanger",70.148986,24.774696
+2379654,"Rávttošvuopmi 478, Porsanger",70.147041,24.780259
+2379655,"Rávttošvuopmi 490, Porsanger",70.148296,24.77528
+2379658,"Snekkernesveien 232, Porsanger",70.176244,24.876786
+2379659,"Snekkernesveien 383, Porsanger",70.182938,24.842581
+2379660,"Snekkernesveien 253, Porsanger",70.175686,24.866146
+2379661,"Snekkernesveien 231, Porsanger",70.17667,24.870134
+2379662,"Vestre Porsangerveien 4088, Porsanger",70.373001,25.085874
+2379663,"Vestre Porsangerveien 4084, Porsanger",70.372222,25.085119
+2379664,"Vestre Porsangerveien 4083, Porsanger",70.370872,25.090705
+2379665,"Vestre Porsangerveien 4204, Porsanger",70.382537,25.102585
+2379666,"Vestre Porsangerveien 4226, Porsanger",70.382949,25.103607
+2379667,"Vestre Porsangerveien 4200, Porsanger",70.381241,25.100063
+2379668,"Vestre Porsangerveien 4202, Porsanger",70.381819,25.100263
+2379669,"Rávttošvuopmi 486, Porsanger",70.14594,24.776847
+2379671,"Vestre Porsangerveien 3914, Porsanger",70.360606,25.05812
+2379679,"Vestre Porsangerveien 1484, Porsanger",70.192072,24.914145
+2379685,"Snekkernesveien 48, Porsanger",70.185055,24.905135
+2379688,"Vestre Porsangerveien 1314, Porsanger",70.177678,24.907551
+2379703,"Vestre Porsangerveien 1337, Porsanger",70.17878,24.914657
+2379716,"Vestre Porsangerveien 4141, Porsanger",70.376144,25.096303
+2379717,"Vestre Porsangerveien 4185, Porsanger",70.379238,25.103191
+2379718,"Vestre Porsangerveien 4086, Porsanger",70.372292,25.083752
+2379719,"Vestre Porsangerveien 4080, Porsanger",70.371747,25.084126
+2379749,"Rávttošvuopmi 608, Porsanger",70.144032,24.764676
+2379750,"Vestre Porsangerveien 1663, Porsanger",70.203965,24.923811
+2379758,"Vestre Porsangerveien 1273, Porsanger",70.173447,24.909949
+2379850,"Vestre Porsangerveien 3240, Porsanger",70.318014,25.045746
+2379851,"Vestre Porsangerveien 2604, Porsanger",70.269484,25.048613
+2379852,"Vestre Porsangerveien 1526, Porsanger",70.194304,24.913565
+2379853,"Vestre Porsangerveien 2516, Porsanger",70.268254,25.02892
+2379861,"Snekkernesveien 250, Porsanger",70.174981,24.868364
+2379863,"Vestre Porsangerveien 2224, Porsanger",70.244179,24.988215
+2379900,"Vestre Porsangerveien 3906, Porsanger",70.360788,25.055534
+2379901,"Vestre Porsangerveien 3289, Porsanger",70.321332,25.054843
+2379902,"Vestre Porsangerveien 3269, Porsanger",70.320304,25.051669
+2379953,"Rávttošvuopmi 610, Porsanger",70.142283,24.765149
+2379955,"Vestre Porsangerveien 2517, Porsanger",70.262663,25.037342
+2379956,"Vestre Porsangerveien 2207, Porsanger",70.243389,24.989695
+2379957,"Vestre Porsangerveien 2519, Porsanger",70.261412,25.043858
+2379958,"Snekkernesveien 32, Porsanger",70.185575,24.907796
+2379959,"Vestre Porsangerveien 3316, Porsanger",70.323623,25.058637
+2379961,"Rávttošvuopmi 358, Porsanger",70.137317,24.795103
+2379962,"Vestre Porsangerveien 2333, Porsanger",70.249799,25.015199
+2379963,"Vestre Porsangerveien 3136, Porsanger",70.310025,25.049115
+2379964,"Vestre Porsangerveien 4090, Porsanger",70.372942,25.083936
+2379965,"Vestre Porsangerveien 3668, Porsanger",70.347471,25.053057
+2379968,"Vestre Porsangerveien 3310, Porsanger",70.322762,25.056408
+2379969,"Vestre Porsangerveien 3823, Porsanger",70.356354,25.042818
+2379970,"Vestre Porsangerveien 3210, Porsanger",70.315535,25.041288
+2379979,"Vestre Porsangerveien 3664, Porsanger",70.347801,25.054231
+2379996,"Rávttošvuopmi 482, Porsanger",70.147223,24.777473
+2379998,"Rávttošvuopmi 616, Porsanger",70.138857,24.76025
+2380007,"Rávttošvuopmi 354, Porsanger",70.140361,24.801908
+2380009,"Snekkernesveien 237, Porsanger",70.176387,24.869782
+2380010,"Vestre Porsangerveien 4186, Porsanger",70.379914,25.100397
+2380014,"Vestre Porsangerveien 1347, Porsanger",70.18128,24.915531
+2380015,"Vestre Porsangerveien 2552, Porsanger",70.266545,25.034083
+2380031,"Vestre Porsangerveien 3845, Porsanger",70.357354,25.046103
+2380032,"Snekkernesveien 230, Porsanger",70.176392,24.873583
+2380050,"Vestre Porsangerveien 3226, Porsanger",70.316915,25.04175
+2380072,"Vestre Porsangerveien 1276, Porsanger",70.17375,24.907526
+2380091,"Snekkernesveien 215, Porsanger",70.179165,24.870519
+2380128,"Vestre Porsangerveien 1722, Porsanger",70.212518,24.912474
+2380129,"Badjenjárga 98, Porsanger",70.173104,24.885346
+2380132,"Vestre Porsangerveien 3094, Porsanger",70.306129,25.055914
+2380138,"Vestre Porsangerveien 3876, Porsanger",70.359542,25.050786
+2380149,"Vestre Porsangerveien 2335, Porsanger",70.249815,25.017717
+2380150,"Vestre Porsangerveien 3727, Porsanger",70.348372,25.047206
+2380151,"Vestre Porsangerveien 3729, Porsanger",70.349278,25.04628
+2380163,"Vestre Porsangerveien 1672, Porsanger",70.207696,24.905962
+2380174,"Vestre Porsangerveien 1324, Porsanger",70.175489,24.901368
+2380176,"Vestre Porsangerveien 1641, Porsanger",70.205697,24.91339
+2380177,"Ráigeája 49, Porsanger",70.225012,24.928564
+2380189,"Ráigeája 53, Porsanger",70.225511,24.931354
+2380205,"Vestre Porsangerveien 1639, Porsanger",70.20555,24.912526
+2380220,"Vestre Porsangerveien 1736, Porsanger",70.214374,24.910176
+2380222,"Rávttošvuopmi 484, Porsanger",70.14692,24.77822
+2380223,"Vestre Porsangerveien 1657, Porsanger",70.204266,24.918654
+2380227,"Vestre Porsangerveien 1332, Porsanger",70.174977,24.899898
+2380238,"Vestre Porsangerveien 1659, Porsanger",70.203677,24.918448
+2380239,"Vestre Porsangerveien 3255, Porsanger",70.319268,25.05115
+2380240,"Vestre Porsangerveien 1661, Porsanger",70.203891,24.92065
+2380244,"Vestre Porsangerveien 3821, Porsanger",70.355915,25.041534
+2380248,"Ráigeája 45, Porsanger",70.225061,24.931874
+2380274,"Vestre Porsangerveien 3898, Porsanger",70.360192,25.049694
+2380275,"Vestre Porsangerveien 4078, Porsanger",70.371568,25.085218
+2380296,"Vestre Porsangerveien 1278, Porsanger",70.173608,24.906721
+2380300,"Vestre Porsangerveien 1213, Porsanger",70.164133,24.91345
+2380303,"Snekkernesveien 213, Porsanger",70.177848,24.866795
+2380304,"Vestre Porsangerveien 2720, Porsanger",70.27665,25.062417
+2380316,"Vestre Porsangerveien 1925, Porsanger",70.227882,24.942093
+2380325,"Vestre Porsangerveien 1940, Porsanger",70.228806,24.939043
+2380328,"Vestre Porsangerveien 1942, Porsanger",70.228898,24.939026
+2380331,"Snekkernesveien 245, Porsanger",70.175676,24.868102
+2380346,"Rávttošvuopmi 500, Porsanger",70.150972,24.768459
+2380356,"Vestre Porsangerveien 4143, Porsanger",70.376365,25.097121
+2380358,"Ráigeája 111, Porsanger",70.22927,24.931677
+2380359,"Vestre Porsangerveien 3854, Porsanger",70.35803,25.044135
+2380362,"Vestre Porsangerveien 4183, Porsanger",70.378168,25.101523
+2380366,"Vestre Porsangerveien 4181, Porsanger",70.378903,25.101121
+2380370,"Vestre Porsangerveien 1326, Porsanger",70.175416,24.901005
+2380372,"Snekkernesveien 74, Porsanger",70.181757,24.901731
+2380374,"Rávttošvuopmi 600, Porsanger",70.143435,24.76998
+2380378,"Vestre Porsangerveien 2515, Porsanger",70.261001,25.032853
+2380380,"Vestre Porsangerveien 2518, Porsanger",70.266417,25.03057
+2380381,"Vestre Porsangerveien 1330, Porsanger",70.175239,24.899947
+2380385,"Ráigeája 51, Porsanger",70.225158,24.929572
+2380389,"Vestre Porsangerveien 1628, Porsanger",70.204711,24.910773
+2380408,"Vestre Porsangerveien 1316, Porsanger",70.176661,24.905997
+2380409,"Vestre Porsangerveien 1318, Porsanger",70.176593,24.905763
+2380429,"Vestre Porsangerveien 1320, Porsanger",70.176496,24.905506
+2380448,"Snekkernesveien 195, Porsanger",70.179667,24.866945
+2380449,"Vestre Porsangerveien 1328, Porsanger",70.175327,24.90066
+2380457,"Vestre Porsangerveien 3900, Porsanger",70.360876,25.051515
+2380463,"Vestre Porsangerveien 1322, Porsanger",70.175546,24.901674
+2380464,"Vestre Porsangerveien 3894, Porsanger",70.359877,25.053407
+2380468,"Ráigeája 15, Porsanger",70.222947,24.93375
+2380476,"Vestre Porsangerveien 1341, Porsanger",70.180637,24.909507
+2459883,"Cuoppogieddi 148, Porsanger",70.322314,25.17287
+2459885,"Trollholmsundveien 37, Porsanger",70.284896,25.081523
+2459886,"Jekkirveien 70, Porsanger",70.309328,25.04693
+2459911,"Trollholmsundveien 541, Porsanger",70.299638,25.166233
+2459912,"Trollholmsundveien 141, Porsanger",70.285377,25.107229
+2459913,"Áitenjárga 3, Porsanger",70.313962,25.056085
+2459914,"Suovdigeaidnu 44, Porsanger",70.312997,25.062352
+2459915,"Suovdigeaidnu 143, Porsanger",70.315472,25.087925
+2459918,"Gáldodievva 19, Porsanger",70.316632,25.047279
+2459919,"Gáldodievva 1, Porsanger",70.314873,25.05027
+2459924,"Trollholmsundveien 194, Porsanger",70.289575,25.102763
+2459925,"Gáldodievva 15, Porsanger",70.315984,25.050305
+2459927,"Gáldodievva 17, Porsanger",70.316218,25.050041
+2459928,"Trollholmsundveien 450, Porsanger",70.293879,25.151121
+2459929,"Sandvikveien 172, Porsanger",70.312436,25.101588
+2459930,"Koppeng 55, Porsanger",70.326237,25.059473
+2459931,"Trollholmsundveien 3, Porsanger",70.284904,25.073293
+2460034,"Trollholmsundveien 67, Porsanger",70.284477,25.087254
+2460035,"Billájohka 60, Porsanger",70.307489,25.025573
+2460036,"Suovdigeaidnu 126, Porsanger",70.316849,25.082674
+2460037,"Sandvikveien 414, Porsanger",70.32469,25.148774
+2460038,"Áitenjárga 5, Porsanger",70.313127,25.058258
+2460039,"Trollholmsundveien 282, Porsanger",70.294544,25.109876
+2460040,"Trollholmsundveien 453, Porsanger",70.293912,25.153193
+2460041,"Suovdigeaidnu 228, Porsanger",70.321275,25.100483
+2460042,"Trollholmsundveien 138, Porsanger",70.286136,25.106146
+2460043,"Trollholmsundveien 352, Porsanger",70.290439,25.130176
+2460044,"Trollholmsundveien 47, Porsanger",70.284891,25.083003
+2460045,"Billájohka 61, Porsanger",70.308432,25.024383
+2460046,"Anopsetveien 134, Porsanger",70.269215,25.07607
+2460047,"Anopsetveien 115, Porsanger",70.267703,25.073591
+2460048,"Trollholmsundveien 139, Porsanger",70.284285,25.106448
+2460049,"Trollholmsundveien 290, Porsanger",70.293326,25.123117
+2460050,"Trollholmsundveien 222, Porsanger",70.290538,25.108718
+2460051,"Anopsetveien 24, Porsanger",70.271591,25.06646
+2460052,"Sandvikveien 39, Porsanger",70.306274,25.072581
+2460053,"Klubben 21, Porsanger",70.346549,25.079013
+2460054,"Cuoppogieddi 21, Porsanger",70.321285,25.14123
+2460055,"Sandvikveien 81, Porsanger",70.306554,25.082896
+2460056,"Anopsetveien 1, Porsanger",70.271606,25.060704
+2460057,"Sandvikveien 10, Porsanger",70.307995,25.063586
+2460058,"Gáldodievva 20, Porsanger",70.315845,25.045837
+2460059,"Vestkaiveien 22, Porsanger",70.323091,25.061932
+2460060,"Gáldodievva 22, Porsanger",70.315692,25.045053
+2460061,"Trollholmsundveien 28, Porsanger",70.287461,25.088398
+2460062,"Trollholmsundveien 551, Porsanger",70.300594,25.168052
+2460063,"Anopsetveien 28, Porsanger",70.271626,25.067734
+2460064,"Sandvikveien 17, Porsanger",70.306531,25.066311
+2460065,"Koppeng 74, Porsanger",70.3247,25.056891
+2460066,"Billájohka 27, Porsanger",70.31037,25.032796
+2460067,"Suovdigeaidnu 63, Porsanger",70.31293,25.067403
+2460068,"Suovdigeaidnu 41, Porsanger",70.311844,25.069041
+2460069,"Sandvikveien 339, Porsanger",70.320803,25.133724
+2460070,"Gáldodievva 12, Porsanger",70.315673,25.048016
+2460071,"Koppeng 46, Porsanger",70.326757,25.061723
+2460072,"Båtbukt 26, Porsanger",70.271204,25.049106
+2460073,"Trollholmsundveien 17, Porsanger",70.2853,25.077011
+2460074,"Suovdigeaidnu 29, Porsanger",70.311141,25.063293
+2460075,"Jekkirveien 49, Porsanger",70.314161,25.034072
+2460076,"Sandvikveien 66, Porsanger",70.307282,25.076843
+2460077,"Suovdigeaidnu 185, Porsanger",70.318761,25.096414
+2460088,"Trollholmsundveien 105, Porsanger",70.282889,25.111504
+2460090,"Suovdigeaidnu 120, Porsanger",70.316001,25.079688
+2460092,"Anopsetveien 136, Porsanger",70.269209,25.081641
+2460095,"Trollholmsundveien 70, Porsanger",70.28547,25.089229
+2460097,"Trollholmsundveien 49, Porsanger",70.284981,25.084976
+2460100,"Trollholmsundveien 497, Porsanger",70.297272,25.171683
+2460107,"Trollholmsundveien 495, Porsanger",70.297153,25.168667
+2460109,"Trollholmsundveien 137, Porsanger",70.284526,25.107194
+2460110,"Trollholmsundveien 66, Porsanger",70.285215,25.088634
+2460112,"Koppeng 40, Porsanger",70.32706,25.063295
+2460113,"Billájohka 59, Porsanger",70.309525,25.024842
+2460114,"Trollholmsundveien 528, Porsanger",70.301418,25.156451
+2460115,"Trollholmsundveien 54, Porsanger",70.285491,25.086043
+2460116,"Suovdigeaidnu 85, Porsanger",70.313444,25.073389
+2460117,"Sandvikveien 12, Porsanger",70.308272,25.064385
+2460118,"Suovdigeaidnu 154, Porsanger",70.316959,25.088472
+2460119,"Sandvikveien 18, Porsanger",70.306951,25.067324
+2460120,"Sandvikveien 245, Porsanger",70.314549,25.125194
+2460121,"Sandvikveien 456, Porsanger",70.327002,25.161015
+2460122,"Trollholmsundveien 499, Porsanger",70.296071,25.17142
+2460123,"Trollholmsundveien 434, Porsanger",70.293129,25.1488
+2460124,"Trollholmsundveien 103, Porsanger",70.284136,25.103207
+2460125,"Suovdigeaidnu 175, Porsanger",70.317013,25.096849
+2460126,"Båtbukt 41, Porsanger",70.272157,25.046195
+2460127,"Båtbukt 29, Porsanger",70.271786,25.049826
+2460128,"Suovdigeaidnu 5, Porsanger",70.309801,25.058497
+2460129,"Koppeng 62, Porsanger",70.325428,25.060042
+2460130,"Suovdigeaidnu 97, Porsanger",70.314052,25.074698
+2460131,"Suovdigeaidnu 177, Porsanger",70.317778,25.093532
+2460132,"Billájohka 63, Porsanger",70.30793,25.023742
+2460133,"Jekkirveien 5, Porsanger",70.314474,25.045162
+2460134,"Suovdigeaidnu 21, Porsanger",70.310256,25.060415
+2460135,"Øvre Bjørklia 7, Porsanger",70.313505,25.046244
+2460136,"Øvre Bjørklia 3, Porsanger",70.313253,25.047838
+2460137,"Øvre Bjørklia 9, Porsanger",70.313658,25.045342
+2460138,"Øvre Bjørklia 11, Porsanger",70.313856,25.044386
+2460139,"Suovdigeaidnu 25, Porsanger",70.30995,25.061901
+2460140,"Gáldodievva 2, Porsanger",70.315027,25.048941
+2460141,"Gáldodievva 7, Porsanger",70.315732,25.051579
+2460142,"Anopsetveien 15, Porsanger",70.27127,25.06439
+2460143,"Øvre Bjørklia 5, Porsanger",70.31337,25.047067
+2460144,"Trollholmsundveien 248, Porsanger",70.292163,25.106797
+2460145,"Suovdigeaidnu 23, Porsanger",70.310364,25.060974
+2460148,"Bjørklia 11, Porsanger",70.314194,25.047659
+2460149,"Øvre Bjørklia 4, Porsanger",70.313183,25.046082
+2460180,"Gáldodievva 3, Porsanger",70.315106,25.050564
+2460193,"Trollholmsundveien 288, Porsanger",70.293588,25.121713
+2460194,"Båtbukt 23, Porsanger",70.271293,25.049902
+2460203,"Sandvikveien 317, Porsanger",70.319564,25.130885
+2460208,"Áitenjárga 49, Porsanger",70.316684,25.05975
+2460209,"Áitenjárga 53, Porsanger",70.31697,25.060098
+2460213,"Billájohka 65, Porsanger",70.307131,25.019764
+2460218,"Suovdigeaidnu 211, Porsanger",70.319879,25.098048
+2460219,"Trollholmsundveien 231, Porsanger",70.290926,25.114379
+2460222,"Sandvikveien 495, Porsanger",70.328032,25.167388
+2460223,"Billájohka 112, Porsanger",70.304828,25.024492
+2460226,"Sandvikveien 11, Porsanger",70.30664,25.065116
+2460227,"Båtbukt 35, Porsanger",70.271914,25.046882
+2460228,"Gáldodievva 11, Porsanger",70.316396,25.052735
+2460229,"Klubben 5, Porsanger",70.345785,25.08103
+2460233,"Trollholmsundveien 207, Porsanger",70.289306,25.110579
+2460234,"Trollholmsundveien 225, Porsanger",70.290847,25.112838
+2460235,"Trollholmsundveien 145, Porsanger",70.285662,25.108586
+2460236,"Trollholmsundveien 186, Porsanger",70.28855,25.101775
+2460237,"Trollholmsundveien 109, Porsanger",70.280315,25.114902
+2460238,"Trollholmsundveien 111, Porsanger",70.2806,25.115888
+2460239,"Cuoppogieddi 147, Porsanger",70.32098,25.171601
+2460241,"Cuoppogieddi 149, Porsanger",70.320583,25.178724
+2460243,"Sandvikveien 511, Porsanger",70.328303,25.170454
+2460244,"Cuoppogieddi 111, Porsanger",70.320282,25.171246
+2460245,"Sandvikveien 475, Porsanger",70.326617,25.164795
+2460246,"Trollholmsundveien 350, Porsanger",70.28999,25.130834
+2460247,"Trollholmsundveien 426, Porsanger",70.292547,25.145573
+2460248,"Klubben 181, Porsanger",70.355545,25.105419
+2460249,"Trollholmsundveien 278, Porsanger",70.296727,25.113114
+2460250,"Trollholmsundveien 280, Porsanger",70.295552,25.113288
+2460251,"Stormelen 128, Porsanger",70.362,25.03196
+2460252,"Stormelen 130, Porsanger",70.361848,25.031453
+2460254,"Vestkaiveien 6, Porsanger",70.322538,25.058389
+2460255,"Suovdigeaidnu 12, Porsanger",70.311113,25.055265
+2460256,"Trollholmsundveien 276, Porsanger",70.294397,25.119464
+2460258,"Trollholmsundveien 156, Porsanger",70.286668,25.107508
+2460261,"Suovdigeaidnu 58, Porsanger",70.313931,25.0656
+2460268,"Stormelen 136, Porsanger",70.362386,25.031217
+2460275,"Áitenjárga 44, Porsanger",70.317508,25.050689
+2460279,"Áitenjárga 7, Porsanger",70.314353,25.060608
+2460280,"Trollholmsundveien 465, Porsanger",70.294186,25.154372
+2460281,"Vestkaiveien 34, Porsanger",70.323555,25.063478
+2460282,"Trollholmsundveien 15, Porsanger",70.285054,25.075684
+2460285,"Klubben 87, Porsanger",70.347912,25.086563
+2460286,"Klubben 82, Porsanger",70.347384,25.086078
+2460288,"Vestkaiveien 36, Porsanger",70.323973,25.065379
+2460289,"Jekkirveien 44, Porsanger",70.31214,25.04868
+2460296,"Båtbukt 43, Porsanger",70.272466,25.045409
+2460299,"Suovdigeaidnu 27, Porsanger",70.310755,25.063476
+2460300,"Anopsetveien 89, Porsanger",70.266344,25.067575
+2460301,"Trollholmsundveien 69, Porsanger",70.284477,25.087254
+2460304,"Koppeng 61, Porsanger",70.325896,25.058898
+2460305,"Sandvikveien 332, Porsanger",70.32067,25.131844
+2460308,"Trollholmsundveien 35, Porsanger",70.285024,25.080323
+2460311,"Trollholmsundveien 68, Porsanger",70.285195,25.089213
+2460313,"Trollholmsundveien 229, Porsanger",70.291082,25.114411
+2460316,"Trollholmsundveien 65, Porsanger",70.284775,25.085763
+2460318,"Jekkirveien 111, Porsanger",70.307861,25.031458
+2460319,"Suovdigeaidnu 109, Porsanger",70.315062,25.077942
+2460321,"Trollholmsundveien 424, Porsanger",70.291839,25.142147
+2460324,"Trollholmsundveien 227, Porsanger",70.291107,25.113678
+2460327,"Trollholmsundveien 234, Porsanger",70.291561,25.1102
+2460333,"Trollholmsundveien 553, Porsanger",70.300156,25.169336
+2460337,"Trollholmsundveien 422, Porsanger",70.292088,25.143881
+2460339,"Áitenjárga 35, Porsanger",70.31605,25.057785
+2460394,"Gáldodievva 5, Porsanger",70.315358,25.051073
+2460395,"Billájohka 57, Porsanger",70.30927,25.023996
+2460407,"Vestre Porsangerveien 4236, Porsanger",70.38364,25.106818
+2460553,"Sandvikveien 127, Porsanger",70.309824,25.090728
+2460562,"Vestre Porsangerveien 3199, Porsanger",70.315512,25.046924
+2460566,"Bjørklia 1, Porsanger",70.31387,25.049198
+2460567,"Bjørklia 3, Porsanger",70.313915,25.048986
+2460568,"Bjørklia 7, Porsanger",70.314014,25.048428
+2460569,"Bjørklia 9, Porsanger",70.314041,25.048189
+2460570,"Bjørklia 6, Porsanger",70.313899,25.046806
+2460571,"Bjørklia 4, Porsanger",70.313773,25.047629
+2460576,"Klubben 34, Porsanger",70.348436,25.069391
+2460641,"Vestre Porsangerveien 3665, Porsanger",70.349311,25.061457
+2460650,"Jekkirveien 4, Porsanger",70.314849,25.046972
+2460680,"Bjørklia 5, Porsanger",70.313978,25.048667
+2460681,"Bjørklia 13, Porsanger",70.314231,25.046516
+2460682,"Bjørklia 2, Porsanger",70.313629,25.048425
+2462700,"Várdu 20, Porsanger",70.222829,24.924409
+2462701,"Várdu 32, Porsanger",70.221721,24.925369
+2466743,"Ráigeája 24, Porsanger",70.222187,24.929216
+2466744,"Várdu 7, Porsanger",70.223774,24.927153
+2485913,"Trollholmsundveien 320, Porsanger",70.2915,25.125951
+2495482,"Øvre Bjørklia 8, Porsanger",70.313498,25.043745

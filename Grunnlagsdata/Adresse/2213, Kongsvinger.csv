@@ -1,0 +1,801 @@
+,Navn,Long,Lat
+654781,"Dr.Aamodts veg 3, Vinger",60.195725,12.019704
+654783,"Dr.Aamodts veg 5, Vinger",60.195931,12.019723
+654784,"Dr.Aamodts veg 7, Vinger",60.196172,12.019781
+654785,"Dr.Aamodts veg 9, Vinger",60.196431,12.019859
+654786,"Dr.Aamodts veg 11, Vinger",60.196654,12.019916
+654787,"Dr.Aamodts veg 13, Vinger",60.196924,12.019905
+654792,"Doblougbakken 1, Vinger",60.193447,12.006068
+654793,"Doblougbakken 3, Vinger",60.193769,12.006116
+654794,"Doblougbakken 6, Vinger",60.19374,12.006997
+654795,"Doblougbakken 8, Vinger",60.193685,12.00748
+654796,"Doblougbakken 10, Vinger",60.193673,12.007966
+654797,"Doblougbakken 12, Vinger",60.193633,12.00854
+654798,"Doblougbakken 15, Vinger",60.193959,12.008046
+654799,"Doblougbakken 17, Vinger",60.193964,12.008624
+654800,"Doblougbakken 19, Vinger",60.194091,12.008979
+655092,"Alfs gate 2, Vinger",60.19495,12.007144
+655093,"Alfs gate 4, Vinger",60.195354,12.007181
+655094,"Alfs gate 6, Vinger",60.195316,12.006871
+655095,"Alfs gate 10, Vinger",60.195431,12.006557
+655096,"Alfs gate 11, Vinger",60.195663,12.005405
+655160,"Bergvegen 1, Vinger",60.195849,12.013868
+655161,"Bergvegen 2, Vinger",60.196052,12.014789
+655162,"Bergvegen 3, Vinger",60.19635,12.014347
+655163,"Bergvegen 4, Vinger",60.196232,12.015203
+655164,"Bergvegen 5, Vinger",60.196573,12.014819
+655165,"Bergvegen 6, Vinger",60.196428,12.015636
+655166,"Bergvegen 7, Vinger",60.196792,12.015074
+655167,"Bergvegen 8, Vinger",60.196848,12.016162
+655168,"Bergvegen 10, Vinger",60.197155,12.016479
+655169,"Blindvegen 2, Vinger",60.19783,12.00138
+655170,"Blindvegen 6, Vinger",60.197794,12.000185
+655280,"Ekornvegen 9, Vinger",60.193083,12.015365
+655281,"Ekornvegen 10, Vinger",60.192499,12.015744
+655282,"Ekornvegen 11, Vinger",60.193076,12.015274
+655283,"Ekornvegen 12, Vinger",60.192497,12.015834
+655284,"Ekornvegen 13, Vinger",60.193079,12.015166
+655285,"Ekornvegen 14, Vinger",60.192504,12.015943
+655286,"Ekornvegen 15, Vinger",60.19308,12.015094
+655287,"Ekornvegen 16, Vinger",60.192502,12.016033
+655288,"Ekornvegen 18, Vinger",60.192701,12.016358
+655289,"Ekornvegen 20, Vinger",60.192699,12.016448
+655290,"Ekornvegen 22, Vinger",60.192705,12.016557
+655291,"Ekornvegen 24, Vinger",60.192703,12.016647
+655292,"Ekornvegen 26, Vinger",60.192998,12.017144
+655293,"Ekornvegen 28, Vinger",60.193002,12.017361
+655294,"Ekornvegen 29, Vinger",60.193475,12.016285
+655295,"Ekornvegen 31, Vinger",60.193463,12.016049
+655303,"Ekornvegen 1, Vinger",60.192787,12.01532
+655304,"Ekornvegen 2, Vinger",60.192334,12.015116
+655305,"Ekornvegen 3, Vinger",60.19279,12.015212
+655306,"Ekornvegen 4, Vinger",60.192332,12.015188
+655307,"Ekornvegen 5, Vinger",60.192792,12.015122
+655308,"Ekornvegen 6, Vinger",60.19233,12.015296
+655309,"Ekornvegen 7, Vinger",60.192785,12.015013
+655310,"Ekornvegen 8, Vinger",60.192336,12.015405
+655311,"Granvegen 7, Vinger",60.202816,12.012107
+655312,"Granvegen 9, Vinger",60.202859,12.011407
+655313,"Granvegen 11, Vinger",60.202871,12.010902
+655314,"Granvegen 12, Vinger",60.203405,12.010338
+655327,"Glåmlivegen 13, Vinger",60.201569,12.012823
+655328,"Glåmlivegen 14, Vinger",60.202398,12.011924
+655329,"Glåmlivegen 15, Vinger",60.201706,12.011915
+655330,"Glåmlivegen 16, Vinger",60.202509,12.011393
+655331,"Glåmlivegen 17, Vinger",60.202006,12.01178
+655332,"Glåmlivegen 19, Vinger",60.202062,12.011298
+655333,"Glåmlivegen 20, Vinger",60.202566,12.010459
+655334,"Glåmlivegen 21, Vinger",60.201739,12.011286
+655335,"Glåmlivegen 23, Vinger",60.20183,12.010428
+655336,"Glåmlivegen 27, Vinger",60.202254,12.009943
+655337,"Granvegen 1, Vinger",60.202826,12.01366
+655338,"Granvegen 2, Vinger",60.203266,12.013664
+655339,"Granvegen 3, Vinger",60.202848,12.013103
+655340,"Granvegen 4, Vinger",60.203274,12.012907
+655341,"Granvegen 5, Vinger",60.202836,12.012434
+655342,"Granvegen 6, Vinger",60.203287,12.012367
+655416,"Heibergs gate 1, Vinger",60.194715,12.006798
+655417,"Heibergs gate 8, Vinger",60.19415,12.005555
+655459,"Furuvegen 1, Vinger",60.203298,12.011068
+655460,"Furuvegen 2, Vinger",60.203263,12.011805
+655461,"Furuvegen 3, Vinger",60.203466,12.011174
+655462,"Furuvegen 5, Vinger",60.203842,12.011262
+655463,"Furuvegen 6, Vinger",60.203931,12.012101
+655464,"Furuvegen 7, Vinger",60.204072,12.011428
+655465,"Furuvegen 8, Vinger",60.204224,12.012218
+655466,"Furuvegen 9, Vinger",60.204338,12.011578
+655467,"Furuvegen 10, Vinger",60.204536,12.012337
+655468,"Furuvegen 11, Vinger",60.204634,12.011588
+655517,"Georg Stangs gate 5, Vinger",60.197832,12.008419
+655518,"Georg Stangs gate 7, Vinger",60.197911,12.008534
+655546,"Georg Stangs gate 1, Vinger",60.197384,12.007584
+655547,"Georg Stangs gate 2, Vinger",60.197538,12.008338
+655548,"Georg Stangs gate 3, Vinger",60.197753,12.00834
+655552,"Glåmlivegen 3, Vinger",60.202213,12.014922
+655553,"Glåmlivegen 4, Vinger",60.202685,12.015091
+655554,"Glåmlivegen 5, Vinger",60.20225,12.014095
+655572,"Erik Werenskiolds veg 1, Vinger",60.195622,12.015544
+655573,"Erik Werenskiolds veg 2, Vinger",60.195371,12.014727
+655574,"Erik Werenskiolds veg 3, Vinger",60.195843,12.016087
+655575,"Erik Werenskiolds veg 4, Vinger",60.195322,12.015282
+655576,"Erik Werenskiolds veg 5, Vinger",60.196022,12.016501
+655577,"Erik Werenskiolds veg 6, Vinger",60.195329,12.01577
+655578,"Erik Werenskiolds veg 7, Vinger",60.196222,12.01679
+655579,"Erik Werenskiolds veg 8, Vinger",60.195441,12.016393
+655580,"Erik Werenskiolds veg 9, Vinger",60.196478,12.016994
+655581,"Erik Werenskiolds veg 10, Vinger",60.195378,12.016785
+655582,"Erik Werenskiolds veg 11, Vinger",60.196735,12.01718
+655583,"Erik Werenskiolds veg 12, Vinger",60.195716,12.016942
+655584,"Erik Werenskiolds veg 13, Vinger",60.19698,12.017455
+655585,"Erik Werenskiolds veg 14, Vinger",60.196019,12.017421
+655586,"Erik Werenskiolds veg 15, Vinger",60.197269,12.017789
+655595,"Erik Werenskiolds veg 32, Vinger",60.195228,12.017836
+655596,"Erik Werenskiolds veg 33, Vinger",60.195712,12.019089
+655597,"Erik Werenskiolds veg 34, Vinger",60.194962,12.017667
+655598,"Erik Werenskiolds veg 35, Vinger",60.195459,12.01912
+655599,"Erik Werenskiolds veg 38, Vinger",60.194932,12.018621
+655600,"Erik Werenskiolds veg 37, Vinger",60.195439,12.019606
+655601,"Erik Werenskiolds veg 36A, Vinger",60.195274,12.018562
+655602,"Erik Werenskiolds veg 40, Vinger",60.195057,12.019426
+655603,"Erik Werenskiolds veg 42, Vinger",60.195055,12.019931
+655604,"Erik Werenskiolds veg 44, Vinger",60.195035,12.020381
+655605,"Erik Werenskiolds veg 46, Vinger",60.195013,12.020956
+655606,"Erik Werenskiolds veg 47, Vinger",60.196134,12.021853
+655611,"Erik Werenskiolds veg 16, Vinger",60.196274,12.017697
+655612,"Erik Werenskiolds veg 17, Vinger",60.197231,12.018254
+655613,"Erik Werenskiolds veg 18, Vinger",60.196556,12.017922
+655614,"Erik Werenskiolds veg 19, Vinger",60.19724,12.01867
+655615,"Erik Werenskiolds veg 20, Vinger",60.196843,12.017966
+655616,"Erik Werenskiolds veg 21, Vinger",60.197254,12.019231
+655617,"Erik Werenskiolds veg 22, Vinger",60.196502,12.018314
+655618,"Erik Werenskiolds veg 23, Vinger",60.19693,12.019256
+655619,"Erik Werenskiolds veg 24, Vinger",60.196231,12.018361
+655620,"Erik Werenskiolds veg 25, Vinger",60.196681,12.019124
+655621,"Erik Werenskiolds veg 26, Vinger",60.19598,12.018356
+655622,"Erik Werenskiolds veg 27, Vinger",60.196431,12.019083
+655623,"Erik Werenskiolds veg 28, Vinger",60.195757,12.018263
+655624,"Erik Werenskiolds veg 29, Vinger",60.196197,12.019098
+655625,"Erik Werenskiolds veg 30, Vinger",60.19551,12.018096
+655626,"Erik Werenskiolds veg 31, Vinger",60.195954,12.019112
+655653,"Festningsgata 1, Vinger",60.196675,12.009125
+655654,"Festningsgata 2, Vinger",60.196699,12.009651
+655655,"Festningsgata 3, Vinger",60.196893,12.009434
+655656,"Festningsgata 6, Vinger",60.197116,12.010303
+655657,"Festningsgata 7, Vinger",60.197245,12.009737
+655658,"Festningsgata 8, Vinger",60.197452,12.010929
+655691,"Glåmlivegen 8, Vinger",60.202609,12.013694
+655692,"Glåmlivegen 9, Vinger",60.202085,12.012653
+655693,"Glåmlivegen 10, Vinger",60.202546,12.013328
+655694,"Glåmlivegen 11, Vinger",60.201823,12.012738
+655695,"Glåmlivegen 6, Vinger",60.202652,12.014601
+655696,"Glåmlivegen 7, Vinger",60.202135,12.013236
+655790,"Krokvegen 6, Vinger",60.191716,12.008707
+655791,"Krokvegen 8, Vinger",60.191599,12.009111
+655792,"Krokvegen 10, Vinger",60.191481,12.009534
+655793,"Krokvegen 12, Vinger",60.191364,12.009956
+655794,"Krokvegen 14, Vinger",60.191218,12.010448
+655820,"Krokvegen 1, Vinger",60.191217,12.011274
+655821,"Krokvegen 2, Vinger",60.191925,12.007824
+655822,"Krokvegen 4, Vinger",60.191859,12.008323
+655863,"Lavettvegen 1, Vinger",60.197052,12.015477
+655864,"Lavettvegen 2, Vinger",60.197402,12.01587
+655865,"Lavettvegen 3, Vinger",60.197219,12.01486
+655866,"Lavettvegen 4, Vinger",60.197531,12.01534
+656070,"Kirkestredet 3, Vinger",60.195564,12.009799
+656071,"Kirkestredet 5, Vinger",60.195539,12.010086
+656072,"Kirkestredet 7, Vinger",60.195441,12.010456
+656073,"Kirkestredet 11, Vinger",60.195611,12.011266
+656088,"Jonas Lies gate 1, Vinger",60.194976,12.008392
+656089,"Jonas Lies gate 2, Vinger",60.195043,12.008994
+656090,"Jonas Lies gate 3, Vinger",60.194963,12.008138
+656091,"Jonas Lies gate 4, Vinger",60.195329,12.009056
+656092,"Jonas Lies gate 10, Vinger",60.195962,12.009655
+656093,"Jonas Lies gate 11, Vinger",60.196239,12.008562
+656094,"Jonas Lies gate 12, Vinger",60.196171,12.009945
+656095,"Jonas Lies gate 13, Vinger",60.196089,12.009198
+656096,"Jonas Lies gate 15, Vinger",60.196374,12.009332
+656099,"Kirkebakken 1, Vinger",60.193881,12.009898
+656100,"Kirkebakken 2, Vinger",60.193994,12.010865
+656101,"Kirkestredet 1, Vinger",60.195624,12.009534
+656102,"Kirkestredet 2, Vinger",60.195396,12.009279
+656203,"Løkkegata 15, Vinger",60.196688,12.007896
+656204,"Løkkegata 16, Vinger",60.19697,12.00831
+656205,"Løkkegata 19, Vinger",60.196825,12.007262
+656206,"Løkkegata 20, Vinger",60.197197,12.007892
+656207,"Løkkegata 21, Vinger",60.196891,12.007124
+656208,"Løkkegata 22, Vinger",60.197271,12.007429
+656209,"Løkkegata 24, Vinger",60.197395,12.007116
+656210,"Løkkegata 25, Vinger",60.197206,12.007134
+656211,"Løkkegata 27, Vinger",60.197128,12.006189
+656212,"Løkkegata 29, Vinger",60.197398,12.006574
+656213,"Løkkegata 30, Vinger",60.197677,12.006167
+656214,"Løkkegata 31, Vinger",60.197546,12.005974
+656215,"Løkkegata 33, Vinger",60.197899,12.005104
+656216,"Løkkegata 35, Vinger",60.198074,12.004506
+656217,"Løkkegata 35B, Vinger",60.198318,12.004439
+656218,"Løkkegata 36, Vinger",60.198625,12.005153
+656227,"Løkkegata 1, Vinger",60.196177,12.011281
+656228,"Løkkegata 2, Vinger",60.196668,12.011417
+656229,"Løkkegata 3, Vinger",60.19626,12.010784
+656230,"Løkkegata 5, Vinger",60.196331,12.010447
+656231,"Løkkegata 8, Vinger",60.196645,12.010079
+656232,"Løkkegata 9, Vinger",60.196483,12.008873
+656233,"Løkkegata 11, Vinger",60.196832,12.008127
+656234,"Løkkegata 13, Vinger",60.196789,12.008057
+656249,"Løkkegata 37, Vinger",60.198268,12.003856
+656250,"Løkkegata 38, Vinger",60.198684,12.004544
+656251,"Løkkegata 39, Vinger",60.198597,12.003634
+656252,"Løkkegata 41, Vinger",60.198945,12.002926
+656253,"Løkkegata 46, Vinger",60.198945,12.004117
+656254,"Løkkegata 52, Vinger",60.199692,12.003698
+656315,"Prestegårdsvegen 2, Vinger",60.196398,12.002314
+656316,"Prestegårdsvegen 3, Vinger",60.196285,12.001383
+656317,"Prestegårdsvegen 4, Vinger",60.196736,12.002868
+656318,"Prestegårdsvegen 5, Vinger",60.196658,12.001977
+656319,"Prestegårdsvegen 6, Vinger",60.196998,12.003235
+656320,"Prestegårdsvegen 7, Vinger",60.196883,12.002322
+656321,"Prestegårdsvegen 9, Vinger",60.197099,12.002306
+656322,"Prestegårdsvegen 11, Vinger",60.197162,12.002726
+656323,"Prestegårdsvegen 13, Vinger",60.197291,12.002955
+656360,"Rynnings gate 12, Vinger",60.197386,12.005508
+656361,"Rynnings gate 11, Vinger",60.19741,12.004843
+656362,"Rynnings gate 15, Vinger",60.19773,12.005414
+656363,"Rynnings gate 17, Vinger",60.198469,12.006907
+656364,"Rynnings gate 19, Vinger",60.198587,12.007225
+656384,"Rynnings gate 1, Vinger",60.195908,12.002143
+656385,"Rynnings gate 3, Vinger",60.196288,12.002809
+656386,"Rynnings gate 4, Vinger",60.196171,12.003249
+656387,"Rynnings gate 5, Vinger",60.196547,12.003302
+656388,"Rynnings gate 6, Vinger",60.196268,12.003728
+656389,"Rynnings gate 7A, Vinger",60.196806,12.003777
+656390,"Rynnings gate 7B, Vinger",60.196864,12.003584
+656391,"Rynnings gate 9, Vinger",60.197057,12.004197
+656438,"Oldervegen 2, Vinger",60.201827,12.013316
+656439,"Oldervegen 3, Vinger",60.201672,12.014222
+656440,"Oldervegen 4, Vinger",60.201565,12.0134
+656441,"Oldervegen 5, Vinger",60.201428,12.01429
+656494,"O.Schøyens veg 3, Vinger",60.192753,12.008152
+656495,"O.Schøyens veg 10, Vinger",60.192358,12.007737
+656511,"O.Schøyens veg 1, Vinger",60.192718,12.008095
+656544,"Nedre Skogveg 32, Vinger",60.201941,12.015023
+656575,"Nedre Skogveg 5, Vinger",60.205434,12.014333
+656576,"Nygata 19, Vinger",60.197445,12.003294
+656577,"Rynnings gate 10, Vinger",60.197145,12.005053
+656578,"Nygata 21, Vinger",60.197627,12.002823
+656579,"Nygata 21B, Vinger",60.197743,12.002473
+656580,"Nygata 23, Vinger",60.197883,12.002233
+656581,"Nygata 24, Vinger",60.197537,12.004421
+656582,"Nygata 25, Vinger",60.198071,12.001474
+656583,"Nygata 26, Vinger",60.19764,12.003835
+656584,"Nygata 27, Vinger",60.198065,12.000932
+656585,"Nygata 28, Vinger",60.197954,12.003431
+656586,"Nygata 29, Vinger",60.19807,12.000319
+656587,"Nygata 30, Vinger",60.198326,12.003284
+656588,"Nygata 32, Vinger",60.198083,12.002901
+656589,"O.A.Hexums veg 4, Vinger",60.196602,12.001268
+656590,"O.A.Hexums veg 6, Vinger",60.196813,12.001467
+656591,"O.A.Hexums veg 8, Vinger",60.197041,12.001723
+656594,"Nygata 4, Vinger",60.195924,12.007775
+656595,"Nygata 5, Vinger",60.195805,12.007096
+656596,"Nygata 7, Vinger",60.196194,12.006554
+656597,"Nygata 8, Vinger",60.196333,12.006784
+656598,"Nygata 9, Vinger",60.196489,12.005841
+656599,"Nygata 11, Vinger",60.196633,12.005458
+656600,"Nygata 12, Vinger",60.196556,12.006461
+656601,"Nygata 13A, Vinger",60.196754,12.005174
+656602,"Nygata 14, Vinger",60.196609,12.006087
+656603,"Nygata 15, Vinger",60.19692,12.00469
+656604,"Nygata 16, Vinger",60.196734,12.005756
+656605,"Nygata 16A, Vinger",60.196942,12.006081
+656606,"Nygata 17, Vinger",60.197177,12.00363
+656607,"Nygata 18, Vinger",60.196915,12.005303
+656608,"O.A.Hexums veg 32, Vinger",60.200174,12.000655
+656609,"Oberst Krebs gate 1, Vinger",60.196025,12.005312
+656610,"Oberst Krebs gate 2, Vinger",60.195933,12.005791
+656611,"Oberst Krebs gate 3, Vinger",60.196187,12.005705
+656612,"Oberst Krebs gate 4, Vinger",60.196107,12.006041
+656613,"Oberst Krebs gate 5, Vinger",60.196375,12.005705
+656624,"O.A.Hexums veg 10, Vinger",60.197197,12.001954
+656625,"O.A.Hexums veg 12, Vinger",60.197371,12.002204
+656626,"O.A.Hexums veg 15, Vinger",60.198492,12.001531
+656627,"O.A.Hexums veg 16, Vinger",60.198335,12.002491
+656628,"O.A.Hexums veg 17, Vinger",60.198726,12.001498
+656629,"O.A.Hexums veg 18, Vinger",60.198723,12.002418
+656630,"O.A.Hexums veg 19, Vinger",60.198986,12.001522
+656631,"O.A.Hexums veg 20, Vinger",60.19929,12.00238
+656632,"O.A.Hexums veg 21A, Vinger",60.199314,12.001578
+656633,"O.A.Hexums veg 24, Vinger",60.199595,12.002805
+656634,"O.A.Hexums veg 25, Vinger",60.19973,12.001192
+656635,"O.A.Hexums veg 26, Vinger",60.199914,12.00222
+656636,"O.A.Hexums veg 27, Vinger",60.19975,12.00031
+656637,"O.A.Hexums veg 28, Vinger",60.200069,12.001729
+656638,"O.A.Hexums veg 29, Vinger",60.199755,11.999697
+656639,"O.A.Hexums veg 30, Vinger",60.200161,12.001232
+656640,"O.Schøyens veg 9, Vinger",60.192611,12.008464
+656641,"O.Schøyens veg 16, Vinger",60.191965,12.009217
+656642,"O.Schøyens veg 11, Vinger",60.192582,12.008534
+656643,"O.Schøyens veg 18, Vinger",60.191868,12.009533
+656644,"O.Schøyens veg 13, Vinger",60.192562,12.00864
+656645,"O.Schøyens veg 20, Vinger",60.191787,12.009904
+656646,"O.Schøyens veg 15, Vinger",60.192524,12.008709
+656647,"O.Schøyens veg 22, Vinger",60.191717,12.010259
+656648,"O.Schøyens veg 17, Vinger",60.19244,12.008882
+656649,"O.Schøyens veg 24, Vinger",60.191628,12.010612
+656650,"O.Schøyens veg 19, Vinger",60.192411,12.008969
+656651,"O.Schøyens veg 26, Vinger",60.191566,12.010967
+656652,"O.Schøyens veg 21, Vinger",60.192382,12.009039
+656653,"O.Schøyens veg 28, Vinger",60.191485,12.011338
+656654,"O.Schøyens veg 23, Vinger",60.192353,12.009126
+656655,"O.Schøyens veg 30, Vinger",60.191468,12.011716
+656656,"O.Schøyens veg 5, Vinger",60.192805,12.008229
+656657,"O.Schøyens veg 12, Vinger",60.192239,12.008213
+656658,"O.Schøyens veg 7, Vinger",60.19284,12.008269
+656659,"O.Schøyens veg 14, Vinger",60.192071,12.008884
+656676,"O.Schøyens veg 25, Vinger",60.192266,12.009425
+656677,"O.Schøyens veg 32, Vinger",60.191414,12.012126
+656678,"O.Schøyens veg 27, Vinger",60.192237,12.009513
+656679,"O.Schøyens veg 29, Vinger",60.192199,12.009599
+656680,"O.Schøyens veg 31, Vinger",60.19217,12.009669
+656681,"O.Schøyens veg 33, Vinger",60.192375,12.00976
+656682,"O.Schøyens veg 35, Vinger",60.19241,12.009799
+656683,"O.Schøyens veg 37, Vinger",60.192463,12.009822
+656684,"O.Schøyens veg 39, Vinger",60.192507,12.00988
+656685,"O.Schøyens veg 41, Vinger",60.192054,12.010037
+656686,"O.Schøyens veg 43, Vinger",60.192003,12.0107
+656731,"Seljevegen 1, Vinger",60.204938,12.014035
+656732,"Seljevegen 2, Vinger",60.205267,12.013379
+656733,"Seljevegen 3, Vinger",60.204887,12.013506
+656734,"Seljevegen 4, Vinger",60.205268,12.012964
+656735,"Seljevegen 5, Vinger",60.204832,12.012779
+656751,"Seljevegen 6, Vinger",60.205217,12.012417
+656752,"Seljevegen 7, Vinger",60.204824,12.012327
+656753,"Seljevegen 8, Vinger",60.205175,12.011926
+656754,"Seljevegen 9, Vinger",60.204849,12.011625
+656755,"Seljevegen 10, Vinger",60.205159,12.011437
+656756,"Seljevegen 12, Vinger",60.205193,12.011115
+656847,"Tråstadvegen 1, Vinger",60.193465,12.002912
+656848,"Tråstadvegen 4, Vinger",60.193181,12.003951
+656849,"Tråstadvegen 5, Vinger",60.193805,12.005325
+656870,"Sisseners gate 1, Vinger",60.198138,12.007238
+656871,"Sisseners gate 2, Vinger",60.197822,12.006884
+656872,"Sisseners gate 3, Vinger",60.197948,12.007672
+656873,"Sisseners gate 4, Vinger",60.19762,12.0071
+656874,"Sisseners gate 6, Vinger",60.197543,12.007725
+656875,"Sisseners gate 8, Vinger",60.197223,12.008724
+656876,"Sisseners gate 13, Vinger",60.197028,12.011377
+656877,"Sisseners gate 14, Vinger",60.196688,12.010931
+656878,"Sisseners gate 15, Vinger",60.196916,12.011981
+656879,"Sisseners gate 17, Vinger",60.196961,12.011967
+656880,"Sisseners gate 18, Vinger",60.196671,12.012085
+656913,"Sisseners gate 19, Vinger",60.197006,12.011971
+656914,"Sisseners gate 21, Vinger",60.197052,12.011939
+656915,"Sisseners gate 22, Vinger",60.196753,12.013229
+656916,"Sisseners gate 23, Vinger",60.197105,12.011944
+656917,"Sisseners gate 24, Vinger",60.196835,12.013959
+656918,"Sisseners gate 25, Vinger",60.197151,12.01193
+656919,"Sisseners gate 26, Vinger",60.196589,12.014117
+656920,"Sisseners gate 27, Vinger",60.197205,12.011899
+656921,"Sisseners gate 28, Vinger",60.197021,12.014481
+656922,"Sisseners gate 29, Vinger",60.19725,12.011903
+656943,"Solvegen 11, Vinger",60.193762,12.011998
+656944,"Solvegen 12, Vinger",60.193379,12.012234
+656945,"Solvegen 13, Vinger",60.193687,12.012533
+656946,"Solvegen 14, Vinger",60.193305,12.012714
+656947,"Solvegen 15, Vinger",60.193691,12.013129
+656948,"Solvegen 16, Vinger",60.193293,12.013237
+656949,"Solvegen 17, Vinger",60.193626,12.013628
+656950,"Solvegen 18, Vinger",60.193214,12.013969
+656951,"Solvegen 19, Vinger",60.193596,12.014149
+656952,"Solvegen 21, Vinger",60.19355,12.014578
+656963,"Storgata 88, Vinger",60.195368,12.006948
+656964,"Storgata 89, Vinger",60.195755,12.006532
+656965,"Storgata 90, Vinger",60.195701,12.006924
+656966,"Storgata 91, Vinger",60.195928,12.006801
+656967,"Storgata 93, Vinger",60.196118,12.006746
+656968,"Storgata 95, Vinger",60.19619,12.007132
+657088,"Solvegen 2, Vinger",60.193327,12.00936
+657089,"Solvegen 3, Vinger",60.193702,12.009087
+657090,"Solvegen 4, Vinger",60.193279,12.009897
+657091,"Solvegen 5, Vinger",60.193698,12.009646
+657092,"Solvegen 6, Vinger",60.193283,12.010511
+657093,"Solvegen 7, Vinger",60.193617,12.010433
+657094,"Solvegen 8, Vinger",60.193369,12.011078
+657095,"Solvegen 9, Vinger",60.19373,12.0114
+657096,"Solvegen 10, Vinger",60.193446,12.011645
+657113,"Storgata 96, Vinger",60.196171,12.007581
+657114,"Storgata 98, Vinger",60.196249,12.007732
+657115,"Storgata 99, Vinger",60.196513,12.007558
+657116,"Storgata 100, Vinger",60.196452,12.008256
+657117,"Storgata 104, Vinger",60.197085,12.009056
+657118,"Storgata 106, Vinger",60.197009,12.008952
+657119,"Storgata 107, Vinger",60.197119,12.008588
+657120,"Storgata 108, Vinger",60.19693,12.008837
+657121,"Storgata 111, Vinger",60.197513,12.009039
+657122,"Storgata 113, Vinger",60.197464,12.009215
+657123,"Storgata 114, Vinger",60.197664,12.009902
+657124,"Storgata 115, Vinger",60.197725,12.009564
+657125,"Stusslivegen 7, Vinger",60.199437,12.000245
+657126,"Stusslivegen 8, Vinger",60.199463,12.001078
+657141,"Storgata 119, Vinger",60.197891,12.009796
+657151,"Stusslivegen 1, Vinger",60.198524,12.000126
+657152,"Stusslivegen 2, Vinger",60.198549,12.000994
+657153,"Stusslivegen 3, Vinger",60.19882,12.000117
+657154,"Stusslivegen 4, Vinger",60.198871,12.001042
+657155,"Stusslivegen 5, Vinger",60.199132,12.000217
+657156,"Stusslivegen 6, Vinger",60.199159,12.001032
+657189,"Tråstadvegen 37, Vinger",60.1931,12.013435
+657190,"Tråstadvegen 38, Vinger",60.192883,12.014282
+657191,"Tråstadvegen 40, Vinger",60.192881,12.01439
+657192,"Tråstadvegen 42, Vinger",60.192878,12.01448
+657193,"Tråstadvegen 44, Vinger",60.192885,12.014589
+657194,"Tverrvegen 1, Vinger",60.19199,12.011655
+657195,"Tverrvegen 2, Vinger",60.191869,12.012637
+657196,"Tverrvegen 3, Vinger",60.191987,12.011384
+657197,"Tverrvegen 4, Vinger",60.191863,12.012889
+657198,"Tverrvegen 6, Vinger",60.192234,12.0124
+657199,"Tyrivegen 1, Vinger",60.203566,12.013529
+657200,"Tyrivegen 2, Vinger",60.203918,12.012659
+657201,"Tyrivegen 3, Vinger",60.203562,12.012897
+657202,"Tyrivegen 5, Vinger",60.203563,12.012446
+657203,"Tyrivegen 7, Vinger",60.203536,12.012047
+657205,"Tråstadvegen 21, Vinger",60.193057,12.010165
+657206,"Tråstadvegen 22, Vinger",60.192798,12.009329
+657207,"Tråstadvegen 23, Vinger",60.192973,12.010735
+657208,"Tråstadvegen 24, Vinger",60.192796,12.009419
+657209,"Tråstadvegen 25, Vinger",60.192899,12.011215
+657210,"Tråstadvegen 26, Vinger",60.192775,12.009526
+657211,"Tråstadvegen 27, Vinger",60.193143,12.01113
+657212,"Tråstadvegen 28, Vinger",60.192755,12.009614
+657213,"Tråstadvegen 29, Vinger",60.192895,12.011774
+657214,"Tråstadvegen 30, Vinger",60.192723,12.009846
+657215,"Tråstadvegen 31, Vinger",60.193179,12.011945
+657216,"Tråstadvegen 32, Vinger",60.192713,12.009917
+657217,"Tråstadvegen 33, Vinger",60.192937,12.012284
+657218,"Tråstadvegen 34, Vinger",60.1927,12.01006
+657219,"Tråstadvegen 35, Vinger",60.192979,12.012847
+657220,"Tråstadvegen 36, Vinger",60.192689,12.01015
+657329,"Tråstadvegen 6, Vinger",60.193181,12.004312
+657330,"Tråstadvegen 7, Vinger",60.193488,12.004664
+657331,"Tråstadvegen 8, Vinger",60.19317,12.004798
+657332,"Tråstadvegen 9, Vinger",60.193546,12.005644
+657333,"Tråstadvegen 10, Vinger",60.192949,12.006221
+657334,"Tråstadvegen 11A, Vinger",60.193428,12.0065
+657335,"Tråstadvegen 14, Vinger",60.192855,12.008811
+657336,"Tråstadvegen 15, Vinger",60.193239,12.008522
+657337,"Tråstadvegen 16, Vinger",60.192843,12.008918
+657338,"Tråstadvegen 17, Vinger",60.193172,12.009075
+657339,"Tråstadvegen 18, Vinger",60.192823,12.009007
+657340,"Tråstadvegen 19, Vinger",60.193115,12.009611
+657341,"Tråstadvegen 20, Vinger",60.192812,12.009114
+657462,"Vollgata 8, Vinger",60.197961,12.010687
+657463,"Vollgata 9, Vinger",60.19816,12.009009
+657464,"Vollgata 15, Vinger",60.1984,12.008345
+657465,"Vollgata 17, Vinger",60.19822,12.007967
+657466,"Vollgata 18, Vinger",60.198649,12.008837
+657467,"Vollgata 19, Vinger",60.198353,12.007654
+657468,"Vollgata 20, Vinger",60.198881,12.008154
+657469,"Vollgata 21, Vinger",60.19858,12.007946
+657470,"Vollgata 23, Vinger",60.198838,12.007645
+657471,"Vollgata 25, Vinger",60.199048,12.00752
+657472,"Vollgata 26, Vinger",60.199562,12.008234
+657473,"Vollgata 27, Vinger",60.199449,12.007647
+657474,"Vollgata 33, Vinger",60.202399,12.008332
+657475,"Vollgata 34, Vinger",60.201934,12.009806
+657476,"Vollgata 35, Vinger",60.202377,12.009305
+657477,"Vollgata 38, Vinger",60.202875,12.010325
+657478,"Vestre Solørveg 2, Vinger",60.194847,12.01051
+657479,"Vestre Solørveg 3, Vinger",60.195925,12.012088
+657480,"Vestre Solørveg 5, Vinger",60.195438,12.012567
+657481,"Vestre Solørveg 7, Vinger",60.195866,12.012715
+657482,"Vestre Solørveg 9, Vinger",60.196234,12.012333
+657483,"Vestre Solørveg 11, Vinger",60.19643,12.0132
+657484,"Vestre Solørveg 13, Vinger",60.196093,12.013403
+657485,"Vestre Solørveg 15, Vinger",60.195681,12.013329
+657490,"Vollgata 1, Vinger",60.197158,12.013591
+657491,"Vollgata 3, Vinger",60.197227,12.012515
+657492,"Vollgata 7, Vinger",60.197304,12.011493
+657509,"Vollgata 40, Vinger",60.203012,12.010229
+657510,"Vollgata 44, Vinger",60.203901,12.010636
+657511,"Vollgata 46, Vinger",60.204116,12.010674
+657512,"Vollgata 48, Vinger",60.204348,12.010731
+657513,"Vollgata 50, Vinger",60.204641,12.010902
+657514,"Vollgata 52, Vinger",60.204872,12.011014
+657515,"Vollgata 54, Vinger",60.205391,12.011115
+657525,"Øvre Langelandsveg 3B, Vinger",60.194441,12.007423
+657526,"Øvre Langelandsveg 9, Vinger",60.194198,12.007039
+657527,"Øvre Langelandsveg 10, Vinger",60.195233,12.005745
+657528,"Øvre Langelandsveg 11, Vinger",60.194281,12.006524
+657529,"Øvre Langelandsveg 12, Vinger",60.195253,12.005593
+657530,"Øvre Langelandsveg 13, Vinger",60.194684,12.006976
+657531,"Øvre Langelandsveg 14, Vinger",60.195282,12.005452
+657532,"Øvre Langelandsveg 17, Vinger",60.195167,12.005089
+657533,"Øvre Langelandsveg 18, Vinger",60.195528,12.00505
+657534,"Øvre Langelandsveg 19, Vinger",60.195297,12.004541
+657535,"Øvre Langelandsveg 20, Vinger",60.195555,12.004619
+657536,"Øvre Langelandsveg 22A, Vinger",60.195936,12.004539
+657537,"Øvre Langelandsveg 26, Vinger",60.195704,12.003207
+657538,"Øvre Langelandsveg 34, Vinger",60.196601,12.000112
+657539,"Øvre Langelandsveg 43, Vinger",60.196524,11.998337
+657554,"Øvre Langelandsveg 2, Vinger",60.194907,12.007447
+657555,"Øvre Langelandsveg 3A, Vinger",60.194374,12.007597
+657556,"Øvre Skogveg 4, Vinger",60.203613,12.014202
+657557,"Øvre Skogveg 5, Vinger",60.204266,12.013142
+657558,"Øvre Skogveg 6, Vinger",60.203848,12.014151
+657559,"Øvre Skogveg 7, Vinger",60.204539,12.013005
+657560,"Øvre Skogveg 8, Vinger",60.20415,12.013908
+657561,"Øvre Skogveg 10, Vinger",60.204378,12.013767
+657562,"Øvre Skogveg 12, Vinger",60.204632,12.013645
+657572,"Øvre Langelandsveg 45, Vinger",60.196692,11.998063
+657573,"Øvre Langelandsveg 47, Vinger",60.196822,11.997913
+657585,"Øvre Skogveg 1, Vinger",60.202638,12.014004
+657586,"Øvre Skogveg 2, Vinger",60.203369,12.01427
+657587,"Øvre Skogveg 3, Vinger",60.203939,12.013311
+657984,"Røhneløkka 2, Vinger",60.198866,12.006799
+657985,"Røhneløkka 4, Vinger",60.199059,12.006636
+658187,"Vollgata 28, Vinger",60.199602,12.008834
+658188,"Vestre Solørveg 16, Vinger",60.194286,12.01423
+658210,"Sisseners gate 20, Vinger",60.196693,12.0127
+658213,"O.A.Hexums veg 14, Vinger",60.197502,12.001982
+658214,"Vollgata 10, Vinger",60.197832,12.010404
+658215,"Løkkegata 17B, Vinger",60.196758,12.007436
+658216,"Løkkegata 17A, Vinger",60.196958,12.007761
+658217,"Vollgata 41, Vinger",60.203683,12.009533
+658316,"Nygata 3, Vinger",60.195627,12.007423
+658344,"O.A.Hexums veg 2A, Vinger",60.196341,12.000504
+658416,"Kirkestredet 6, Vinger",60.195387,12.009675
+658418,"Kirkestredet 4, Vinger",60.195325,12.009236
+658446,"Kirkestredet 9, Vinger",60.195821,12.010725
+658519,"Georg Stangs gate 9, Vinger",60.198076,12.008748
+658712,"Storgata 85, Vinger",60.195305,12.005751
+658731,"Nedre Skogveg 33, Vinger",60.201976,12.015875
+658732,"Nedre Skogveg 1, Vinger",60.205859,12.01383
+658733,"Nedre Skogveg 31, Vinger",60.202212,12.01577
+658734,"Nedre Skogveg 29, Vinger",60.202445,12.015791
+658735,"Nedre Skogveg 27, Vinger",60.202986,12.015715
+658736,"Nedre Skogveg 2, Vinger",60.206015,12.012111
+658737,"Nedre Skogveg 3, Vinger",60.205636,12.014135
+658738,"Nedre Skogveg 4A, Vinger",60.205633,12.013062
+658739,"Nedre Skogveg 6, Vinger",60.205279,12.013651
+658740,"Nedre Skogveg 7, Vinger",60.205203,12.014637
+658741,"Nedre Skogveg 25, Vinger",60.203366,12.015605
+658742,"Nedre Skogveg 12, Vinger",60.204472,12.014371
+658743,"Nedre Skogveg 17, Vinger",60.204187,12.015235
+658744,"Nedre Skogveg 10, Vinger",60.204708,12.014248
+658745,"Nedre Skogveg 19, Vinger",60.204058,12.015273
+658746,"Nedre Skogveg 14, Vinger",60.204216,12.014546
+658747,"Løkkegata 40, Vinger",60.199027,12.00528
+658748,"Storgata 84, Vinger",60.195501,12.006617
+658750,"Storgata 86, Vinger",60.195444,12.006738
+658752,"Storgata 87, Vinger",60.195354,12.005593
+658754,"Storgata 102, Vinger",60.196806,12.008505
+658755,"Nygata 6, Vinger",60.19601,12.007548
+658772,"Nedre Skogveg 37, Vinger",60.201483,12.015793
+658774,"Nedre Skogveg 36, Vinger",60.2014,12.0151
+658775,"Nedre Skogveg 35, Vinger",60.201727,12.015743
+658776,"Nedre Skogveg 34, Vinger",60.201627,12.015012
+658789,"Alfs gate 3A, Vinger",60.195138,12.006567
+658793,"Alfs gate 16, Vinger",60.195769,12.005902
+658794,"Alfs gate 8, Vinger",60.195363,12.006767
+658795,"Heibergs gate 2, Vinger",60.194815,12.006374
+658796,"Heibergs gate 4, Vinger",60.194544,12.006024
+658797,"Heibergs gate 6, Vinger",60.194359,12.005863
+658798,"Øvre Langelandsveg 5, Vinger",60.194025,12.007511
+658799,"Øvre Langelandsveg 7, Vinger",60.194418,12.007034
+658800,"Øvre Langelandsveg 15, Vinger",60.194863,12.006234
+658803,"Doblougbakken 21, Vinger",60.194087,12.009141
+658810,"Kirkestredet 15, Vinger",60.195233,12.0117
+658824,"Nedre Skogveg 21, Vinger",60.203874,12.015381
+658825,"Nedre Skogveg 18, Vinger",60.20368,12.014804
+658826,"Nedre Skogveg 11, Vinger",60.204683,12.014986
+658827,"Nedre Skogveg 16, Vinger",60.203962,12.014649
+658828,"Nedre Skogveg 13, Vinger",60.204392,12.01514
+658829,"Nedre Skogveg 15, Vinger",60.204444,12.015217
+658830,"Nedre Skogveg 20, Vinger",60.203444,12.014926
+658831,"Nedre Skogveg 9, Vinger",60.20492,12.014809
+658840,"Sundvegen 1, Vinger",60.192546,12.01407
+658841,"Sundvegen 2, Vinger",60.19254,12.01315
+658842,"Sundvegen 3, Vinger",60.192544,12.01416
+658843,"Sundvegen 4, Vinger",60.192533,12.013059
+658844,"Sundvegen 5, Vinger",60.192551,12.014269
+658845,"Sundvegen 6, Vinger",60.192527,12.012968
+658846,"Sundvegen 7, Vinger",60.192549,12.014359
+658847,"Sundvegen 8, Vinger",60.192529,12.01286
+658848,"Festningsgata 10, Vinger",60.197411,12.011124
+658870,"Sundvegen 10, Vinger",60.19218,12.013568
+658882,"Glåmlivegen 25A, Vinger",60.202148,12.010656
+658883,"Glåmlivegen 25B, Vinger",60.202178,12.01055
+658884,"Glåmlivegen 12A, Vinger",60.20248,12.012672
+658885,"Glåmlivegen 12B, Vinger",60.202507,12.012656
+658887,"Jonas Lies gate 8A, Vinger",60.195757,12.0096
+658888,"Jonas Lies gate 8B, Vinger",60.195704,12.00956
+658889,"Jonas Lies gate 8C, Vinger",60.195642,12.009536
+658890,"Jonas Lies gate 8D, Vinger",60.195655,12.009718
+658891,"Jonas Lies gate 8E, Vinger",60.195644,12.009843
+658892,"Jonas Lies gate 8F, Vinger",60.195614,12.009948
+658893,"Jonas Lies gate 8G, Vinger",60.195593,12.010073
+658894,"Vollgata 16A, Vinger",60.19855,12.009243
+658895,"Vollgata 16B, Vinger",60.19854,12.009296
+658896,"Vollgata 16C, Vinger",60.198512,12.009366
+658897,"Vollgata 16D, Vinger",60.198484,12.009417
+658903,"Løkkegata 23A, Vinger",60.196882,12.006744
+658904,"Løkkegata 23B, Vinger",60.19694,12.006569
+658905,"Oberst Krebs gate 7, Vinger",60.196447,12.005711
+658912,"Øvre Langelandsveg 4, Vinger",60.194845,12.007405
+658914,"Alfs gate 1, Vinger",60.195107,12.006706
+658915,"Alfs gate 14, Vinger",60.195716,12.005843
+658917,"Vollgata 36A, Vinger",60.202612,12.010012
+658918,"Vollgata 36B, Vinger",60.20277,12.010189
+658919,"Rynnings gate 8B, Vinger",60.196415,12.004373
+658920,"Rynnings gate 8C, Vinger",60.196366,12.004946
+658921,"Rynnings gate 8D, Vinger",60.196617,12.004572
+658922,"Rynnings gate 8E, Vinger",60.196664,12.00445
+658923,"Alfs gate 5, Vinger",60.195249,12.00663
+658924,"Alfs gate 7, Vinger",60.195308,12.006437
+658928,"Jonas Lies gate 6, Vinger",60.195514,12.009235
+659071,"Øvre Langelandsveg 32, Vinger",60.196113,12.001024
+659099,"Røhneløkka 7, Vinger",60.199425,12.005154
+659141,"Glåmstadvegen 2, Vinger",60.202667,12.017075
+659142,"Glåmstadvegen 8, Vinger",60.203358,12.017536
+659143,"Glåmstadvegen 9, Vinger",60.20341,12.016819
+659144,"Glåmstadvegen 10, Vinger",60.203556,12.0175
+659145,"Glåmstadvegen 11, Vinger",60.203789,12.016727
+659193,"Georg Stangs gate 4, Vinger",60.197518,12.008426
+659263,"Jonas Lies gate 9, Vinger",60.195898,12.008928
+659268,"Kirkestredet 17, Vinger",60.195411,12.011753
+659270,"Kirkestredet 19, Vinger",60.19551,12.01178
+659372,"Vollgata 42A, Vinger",60.203689,12.010472
+659373,"Vollgata 42B, Vinger",60.20366,12.010578
+659376,"Øvre Langelandsveg 1B, Vinger",60.19423,12.008378
+659377,"Øvre Langelandsveg 1A, Vinger",60.19434,12.008298
+659381,"Øvre Langelandsveg 1C, Vinger",60.194262,12.008182
+659398,"Øvre Langelandsveg 1D, Vinger",60.194302,12.008005
+659458,"Nedre Skogveg 23A, Vinger",60.203681,12.015562
+659459,"Nedre Skogveg 23B, Vinger",60.203572,12.015606
+659466,"Rynnings gate 13A, Vinger",60.197732,12.004926
+659467,"Rynnings gate 13B, Vinger",60.19768,12.004831
+659469,"Tråstadvegen 2A, Vinger",60.193191,12.003085
+659470,"Tråstadvegen 2B, Vinger",60.193155,12.003479
+659477,"Nedre Skogveg 38, Vinger",60.201327,12.015183
+659478,"Nedre Skogveg 40, Vinger",60.201309,12.015182
+659498,"Blindvegen 4B, Vinger",60.197805,12.000926
+659499,"Blindvegen 4A, Vinger",60.197769,12.000923
+659500,"Blindvegen 4C, Vinger",60.197823,12.00091
+659528,"Bergvegen 9, Vinger",60.196815,12.01522
+659583,"Øvre Langelandsveg 39, Vinger",60.195925,11.999401
+659584,"Øvre Langelandsveg 41, Vinger",60.196182,11.998757
+659585,"O.Schøyens veg 6, Vinger",60.192129,12.007139
+659586,"O.Schøyens veg 8, Vinger",60.19209,12.007279
+659601,"Tråstadvegen 12A, Vinger",60.192448,12.006915
+659602,"Tråstadvegen 12B, Vinger",60.192853,12.006898
+659658,"Øvre Langelandsveg 37, Vinger",60.195801,12.00013
+659820,"Vestre Solørveg 419, Vinger",60.227319,12.02198
+659821,"Setersetervegen 96, Vinger",60.245599,12.018261
+659838,"Vestre Solørveg 619, Vinger",60.244514,12.027216
+659839,"Leirrudvegen 23, Vinger",60.245414,12.029523
+659853,"Setersetervegen 25, Vinger",60.238682,12.021744
+659854,"Setersetervegen 67, Vinger",60.242354,12.019896
+659855,"Vestre Solørveg 370, Vinger",60.222369,12.020386
+659856,"Setersetervegen 221, Vinger",60.236424,12.0009
+659857,"Motjernsvegen 310, Vinger",60.239529,11.988697
+659858,"Setersetervegen 293, Vinger",60.241804,11.991037
+659859,"Setersetervegen 253, Vinger",60.238837,11.998284
+659860,"Vestre Solørveg 345, Vinger",60.220819,12.017823
+659861,"Vestre Solørveg 451, Vinger",60.229511,12.020827
+659862,"Setersetervegen 223, Vinger",60.238833,12.000037
+659863,"Setersetervegen 191, Vinger",60.241737,12.005507
+659864,"Vestre Solørveg 582, Vinger",60.241209,12.027146
+659865,"Vestre Solørveg 575, Vinger",60.240679,12.025959
+659866,"Leirrudvegen 59, Vinger",60.246138,12.035193
+659867,"Vestre Solørveg 641, Vinger",60.246199,12.025853
+660283,"Setersetervegen 176, Brandval",60.245884,12.002544
+660284,"Vestre Solørveg 651, Brandval",60.247377,12.0258
+660285,"Vestre Solørveg 777, Brandval",60.258016,12.028916
+660286,"Setersetervegen 316, Brandval",60.244569,11.989952
+662068,"Vestre Solørveg 800, Brandval",60.260749,12.03085
+662069,"Vestre Solørveg 784, Brandval",60.258957,12.031806
+662070,"Vestre Solørveg 786, Brandval",60.25934,12.031172
+662071,"Vestre Solørveg 775, Brandval",60.258074,12.029554
+662072,"Hansrudvegen 33, Brandval",60.247942,12.022309
+662073,"Hansrudvegen 37, Brandval",60.247637,12.021106
+662074,"Vestre Solørveg 645, Vinger",60.246568,12.025418
+662075,"Setersetervegen 247, Vinger",60.239844,11.997852
+662076,"Setersetervegen 249, Vinger",60.239428,11.997977
+662077,"Setersetervegen 264, Vinger",60.24109,11.995616
+662078,"Setersetervegen 291, Vinger",60.24184,11.99104
+662079,"Setersetervegen 295, Vinger",60.24238,11.990584
+662080,"Setersetervegen 367, Vinger",60.243867,11.979604
+662081,"Setersetervegen 369, Vinger",60.244201,11.979923
+662082,"Setersetervegen 368, Vinger",60.244592,11.979742
+662083,"Vestre Solørveg 447, Vinger",60.229312,12.022073
+662084,"Vestre Solørveg 449, Vinger",60.229446,12.021688
+662085,"Vestre Solørveg 453, Vinger",60.229792,12.021106
+662086,"Vestre Solørveg 455, Vinger",60.229595,12.022244
+662087,"Vestre Solørveg 457, Vinger",60.23011,12.022111
+662088,"Vestre Solørveg 433, Vinger",60.228248,12.022228
+662089,"Vestre Solørveg 417, Vinger",60.226795,12.021715
+662090,"Vestre Solørveg 366, Vinger",60.221947,12.020763
+662091,"Vestre Solørveg 640, Vinger",60.24625,12.027142
+662092,"Vestre Solørveg 638, Vinger",60.246186,12.027208
+662093,"Leirrudvegen 2, Vinger",60.243469,12.028132
+662094,"Leirrudvegen 5, Vinger",60.243912,12.02839
+662095,"Leirrudvegen 22, Vinger",60.244245,12.032325
+662096,"Leirrudvegen 37, Vinger",60.24524,12.032796
+662097,"Leirrudvegen 49, Vinger",60.245383,12.03402
+662098,"Setersetervegen 3, Vinger",60.236651,12.022153
+662099,"Setersetervegen 5, Vinger",60.23686,12.021631
+662100,"Setersetervegen 9, Vinger",60.237257,12.021577
+662101,"Setersetervegen 79, Vinger",60.243303,12.01964
+662102,"Setersetervegen 94, Vinger",60.245659,12.01879
+662103,"Setersetervegen 98, Vinger",60.245023,12.018678
+662104,"Setersetervegen 132, Vinger",60.246021,12.012353
+662105,"Setersetervegen 151, Vinger",60.244633,12.009749
+662106,"Setersetervegen 201, Vinger",60.241183,12.004209
+662123,"Vestre Solørveg 368, Vinger",60.222496,12.020705
+662124,"Vestre Solørveg 341, Vinger",60.220369,12.017059
+662125,"Motjernsvegen 36, Vinger",60.220515,12.016567
+662126,"Motjernsvegen 23, Vinger",60.219091,12.01398
+662127,"Motjernsvegen 32, Vinger",60.220102,12.015355
+662128,"Motjernsvegen 34, Vinger",60.219973,12.016301
+662129,"Motjernsvegen 38, Vinger",60.220682,12.015156
+662130,"Setersetervegen 255, Vinger",60.236991,11.997266
+662584,"Motjernsvegen 9, Vinger",60.217617,12.014368
+662595,"Motjernsvegen 17, Vinger",60.218679,12.012335
+662596,"Motjernsvegen 15, Vinger",60.218276,12.012262
+662597,"Motjernsvegen 13, Vinger",60.21824,12.013071
+662603,"Bogersjøvegen 2, Vinger",60.213609,12.010064
+662604,"Bogersjøvegen 4, Vinger",60.213422,12.009577
+662606,"Bogersjøvegen 1, Vinger",60.213091,12.009944
+662607,"Bogersjøvegen 3, Vinger",60.213128,12.008683
+662608,"Bogersjøvegen 5, Vinger",60.212899,12.0085
+662609,"Bogersjøvegen 7, Vinger",60.212718,12.008158
+662624,"Motjernsvegen 11, Vinger",60.217833,12.013973
+662626,"Vestre Solørveg 189, Vinger",60.208951,12.007434
+662627,"Bogersjøvegen 110, Vinger",60.219554,11.996702
+662628,"Vestre Solørveg 214, Vinger",60.21005,12.011308
+662629,"Vestre Solørveg 216, Vinger",60.210113,12.011278
+662662,"Rolstadvegen 551, Brandval",60.248536,11.953655
+662663,"Rolstadvegen 510, Brandval",60.250857,11.95757
+662746,"Rolstadvegen 225, Brandval",60.247169,11.999751
+662932,"Røhneløkka 11, Vinger",60.199995,12.004592
+663078,"O.A.Hexums veg 23A, Vinger",60.199522,12.001679
+663079,"O.A.Hexums veg 23B, Vinger",60.199542,12.001572
+663083,"Tråstadvegen 13B, Vinger",60.193365,12.007324
+663084,"Tråstadvegen 13C, Vinger",60.193367,12.007397
+663085,"Tråstadvegen 13D, Vinger",60.193332,12.007556
+663162,"O.A.Hexums veg 2E, Vinger",60.196394,12.000906
+663164,"O.A.Hexums veg 2B, Vinger",60.196252,12.00046
+663166,"O.A.Hexums veg 2C, Vinger",60.196241,12.000549
+663168,"O.A.Hexums veg 2D, Vinger",60.196319,12.000664
+663202,"Øvre Langelandsveg 16A, Vinger",60.195355,12.005124
+663203,"Øvre Langelandsveg 16B, Vinger",60.195376,12.005379
+663296,"Leirrudvegen 26, Vinger",60.244538,12.032081
+663297,"Leirrudvegen 24, Vinger",60.244792,12.031164
+1168262,"Motjernsvegen 21, Vinger",60.21882,12.013902
+1168263,"Motjernsvegen 19, Vinger",60.219022,12.01159
+1374420,"Motjernsvegen 25, Vinger",60.219824,12.013969
+1703473,"Tråstadvegen 11C, Vinger",60.193498,12.007017
+1703474,"Tråstadvegen 11B, Vinger",60.193506,12.006866
+1771636,"Øvre Langelandsveg 22C, Vinger",60.195941,12.004735
+1771638,"Øvre Langelandsveg 22B, Vinger",60.196018,12.004502
+1783862,"Storgata 101, Vinger",60.196872,12.008347
+1806827,"Kongsvinger festning 5, Vinger",60.198761,12.011049
+1806828,"Kongsvinger festning 3, Vinger",60.19854,12.011263
+1806829,"Kongsvinger festning 24, Vinger",60.199105,12.010918
+1806830,"Kongsvinger festning 22, Vinger",60.199262,12.011546
+1806832,"Kongsvinger festning 20, Vinger",60.199449,12.011202
+1806939,"Kongsvinger festning 18, Vinger",60.199652,12.011365
+1806942,"Kongsvinger festning 16, Vinger",60.199623,12.012247
+1806944,"Kongsvinger festning 14, Vinger",60.199344,12.0126
+1806946,"Kongsvinger festning 12, Vinger",60.199195,12.012763
+1806949,"Kongsvinger festning 10, Vinger",60.199008,12.012822
+1806952,"Kongsvinger festning 8, Vinger",60.19914,12.012185
+1806954,"Kongsvinger festning 6, Vinger",60.19825,12.013074
+1806959,"Kongsvinger festning 4, Vinger",60.197824,12.013129
+1806962,"Kongsvinger festning 2, Vinger",60.19768,12.012358
+1807681,"Nygata 13B, Vinger",60.196756,12.004952
+1824611,"Motjernsvegen 3, Vinger",60.218391,12.015144
+1834962,"O.A.Hexums veg 21B, Vinger",60.199193,12.001629
+1852575,"Tråstadvegen 13A, Vinger",60.193331,12.007316
+1853127,"Alfs gate 3B, Vinger",60.195143,12.00654
+1941444,"Erik Werenskiolds veg 36B, Vinger",60.195316,12.018634
+1962166,"Rynnings gate 8A, Vinger",60.196493,12.003924
+2000976,"Vestre Solørveg 304, Vinger",60.212609,12.020641
+2001050,"Vollgata 65, Vinger",60.206408,12.01123
+2023754,"Kirkestredet 13B, Vinger",60.19547,12.011148
+2023755,"Kirkestredet 13A, Vinger",60.195385,12.010996
+2032530,"Festningsgata 5, Vinger",60.197079,12.00955
+2089181,"Motjernsvegen 12, Vinger",60.219174,12.015451
+2089182,"Motjernsvegen 107, Vinger",60.225402,12.005395
+2089193,"Motjernsvegen 29, Vinger",60.220189,12.013882
+2091250,"O.Schøyens veg 4, Vinger",60.192674,12.007362
+2091251,"O.Schøyens veg 2, Vinger",60.192721,12.007251
+2091414,"Nedre Skogveg 4B, Vinger",60.205701,12.013104
+2091415,"Nedre Skogveg 4C, Vinger",60.205643,12.013183
+2106045,"Krokvegen 3, Vinger",60.19121,12.011452
+2109078,"Tråstadvegen 12C, Vinger",60.192824,12.006851
+2183623,"Setersetervegen 73, Vinger",60.242881,12.019655
+2329425,"Sisseners gate 11, Vinger",60.19706,12.010953
+2358717,"Sisseners gate 9, Vinger",60.196849,12.01017
+2421179,"Erik Werenskiolds veg 49, Vinger",60.196619,12.021799
+2535667,"Oldervegen 1A, Vinger",60.202005,12.014217
+2535673,"Oldervegen 1B, Vinger",60.202055,12.014552

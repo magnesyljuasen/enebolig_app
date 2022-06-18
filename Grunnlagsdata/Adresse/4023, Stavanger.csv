@@ -1,0 +1,906 @@
+,Navn,Long,Lat
+44062,"27/224, Stokka",58.967111,5.692196
+968724,"Adolph Tidemands vei 3, Stokka",58.967358,5.697179
+968725,"Adolph Tidemands vei 4, Stokka",58.967083,5.697309
+968726,"Adolph Tidemands vei 4B, Stokka",58.967097,5.697134
+968727,"Adolph Tidemands vei 5, Stokka",58.967324,5.696521
+968728,"Adolph Tidemands vei 6, Stokka",58.966998,5.696796
+968729,"Adolph Tidemands vei 11, Stokka",58.967164,5.694848
+968730,"Adolph Tidemands vei 13, Stokka",58.967112,5.694557
+968737,"Adolph Tidemands vei 1, Stokka",58.967467,5.697569
+968738,"Adolph Tidemands vei 2, Stokka",58.967166,5.697737
+968755,"Agathe Backer Grøndahls vei 1C, Kampen",58.965135,5.701968
+968756,"Agathe Backer Grøndahls vei 1D, Kampen",58.965155,5.702036
+968757,"Agathe Backer Grøndahls vei 1E, Kampen",58.965184,5.70212
+968758,"Agathe Backer Grøndahls vei 1F, Kampen",58.965203,5.702188
+968759,"Agathe Backer Grøndahls vei 3A, Kampen",58.965245,5.70241
+968760,"Agathe Backer Grøndahls vei 3C, Kampen",58.965294,5.702562
+968761,"Agathe Backer Grøndahls vei 3D, Kampen",58.965322,5.702629
+968762,"Agathe Backer Grøndahls vei 3E, Kampen",58.965352,5.702713
+968769,"Agathe Backer Grøndahls vei 1A, Kampen",58.965077,5.7018
+968770,"Agathe Backer Grøndahls vei 1B, Kampen",58.965106,5.701884
+968771,"Agathe Backer Grøndahls vei 7E, Kampen",58.965739,5.703825
+968772,"Agathe Backer Grøndahls vei 7F, Kampen",58.965769,5.703926
+968773,"Agathe Backer Grøndahls vei 8A, Kampen",58.966229,5.704352
+968774,"Agathe Backer Grøndahls vei 8B, Kampen",58.966289,5.704573
+968779,"Agathe Backer Grøndahls vei 3F, Kampen",58.965372,5.702798
+968780,"Agathe Backer Grøndahls vei 4A, Kampen",58.965558,5.702363
+968781,"Agathe Backer Grøndahls vei 4B, Kampen",58.965635,5.702564
+968782,"Agathe Backer Grøndahls vei 5A, Kampen",58.965431,5.703001
+968783,"Agathe Backer Grøndahls vei 5C, Kampen",58.965488,5.703135
+968784,"Agathe Backer Grøndahls vei 5D, Kampen",58.965508,5.70322
+968785,"Agathe Backer Grøndahls vei 7C, Kampen",58.965691,5.703673
+968786,"Agathe Backer Grøndahls vei 7D, Kampen",58.965711,5.703758
+968972,"Anne Grimdalens vei 5C, Stokka",58.96664,5.685623
+968973,"Anne Grimdalens vei 6, Stokka",58.966941,5.686151
+968974,"Anne Grimdalens vei 7A, Stokka",58.965937,5.685551
+968975,"Anne Grimdalens vei 7B, Stokka",58.966019,5.68556
+968976,"Anne Grimdalens vei 7C, Stokka",58.9661,5.68557
+968977,"Anne Grimdalens vei 7D, Stokka",58.966163,5.685581
+968978,"Anne Grimdalens vei 7E, Stokka",58.966253,5.685608
+968979,"Anne Grimdalens vei 9C, Stokka",58.965603,5.685479
+968980,"Anne Grimdalens vei 3A, Stokka",58.966955,5.685644
+968981,"Anne Grimdalens vei 3B, Stokka",58.967027,5.685638
+968982,"Anne Grimdalens vei 3C, Stokka",58.967108,5.68563
+968983,"Anne Grimdalens vei 3D, Stokka",58.967189,5.685622
+968984,"Anne Grimdalens vei 3E, Stokka",58.967287,5.685613
+968985,"Anne Grimdalens vei 4, Stokka",58.967252,5.686347
+968986,"Anne Grimdalens vei 5A, Stokka",58.966478,5.685603
+968987,"Anne Grimdalens vei 5B, Stokka",58.966568,5.685612
+968996,"Anne Grimdalens vei 9D, Stokka",58.965711,5.685486
+968997,"Anne Grimdalens vei 10, Stokka",58.966091,5.686157
+968998,"Anne Grimdalens vei 12, Stokka",58.965793,5.686226
+969192,"August Jacobsens vei 2, Stokka",58.968186,5.682463
+969193,"August Jacobsens vei 3, Stokka",58.968611,5.681597
+969194,"August Jacobsens vei 4, Stokka",58.968135,5.682075
+969203,"August Jacobsens vei 14, Stokka",58.968387,5.680119
+969204,"August Jacobsens vei 16, Stokka",58.968446,5.679563
+969211,"August Jacobsens vei 5, Stokka",58.968546,5.68121
+969212,"August Jacobsens vei 6, Stokka",58.968129,5.681652
+969213,"August Jacobsens vei 7, Stokka",58.968615,5.680844
+969214,"August Jacobsens vei 9, Stokka",58.968654,5.680391
+969215,"August Jacobsens vei 10, Stokka",58.968227,5.680799
+969216,"August Jacobsens vei 11, Stokka",58.968696,5.680007
+969217,"August Jacobsens vei 12, Stokka",58.968284,5.680499
+969218,"August Jacobsens vei 13, Stokka",58.968681,5.679596
+970480,"Byhaugveien 1, Kampen",58.969521,5.706909
+970481,"Byhaugveien 3, Kampen",58.969719,5.706908
+970482,"Byhaugveien 5, Kampen",58.969906,5.706872
+970746,"Christian Skredsvigs vei 1, Stokka",58.966643,5.690652
+970747,"Christian Skredsvigs vei 3, Stokka",58.966463,5.690617
+970748,"Christian Skredsvigs vei 5, Stokka",58.966276,5.690687
+971075,"Dues vei 22, Domkirken og St. Petri",58.963466,5.706652
+971091,"Dues vei 24, Domkirken og St. Petri",58.963403,5.706293
+971092,"Dues vei 24A, Domkirken og St. Petri",58.963315,5.706371
+971093,"Dues vei 26, Domkirken og St. Petri",58.963287,5.70599
+971094,"Dues vei 28, Domkirken og St. Petri",58.963151,5.705586
+971095,"Dues vei 38, Domkirken og St. Petri",58.963785,5.706082
+971096,"Dues vei 40, Domkirken og St. Petri",58.964297,5.705784
+971097,"Dues vei 42, Domkirken og St. Petri",58.964893,5.705228
+971186,"Edvard Griegs vei 6, Kampen",58.968272,5.708701
+971187,"Edvard Griegs vei 8, Kampen",58.968218,5.708335
+971188,"Edvard Griegs vei 10, Kampen",58.968115,5.707828
+971189,"Edvard Griegs vei 12, Kampen",58.968016,5.707471
+971190,"Edvard Griegs vei 13, Kampen",58.968081,5.70649
+971191,"Edvard Griegs vei 15, Kampen",58.968005,5.706323
+971192,"Edvard Griegs vei 16, Kampen",58.967845,5.70681
+971193,"Edvard Griegs vei 17, Kampen",58.967925,5.706017
+971200,"Edvard Griegs vei 2, Kampen",58.968353,5.709497
+971201,"Edvard Griegs vei 4, Kampen",58.968333,5.709081
+971202,"Edvard Griegs vei 26, Kampen",58.96697,5.704873
+971203,"Edvard Griegs vei 27, Kampen",58.967405,5.704292
+971204,"Edvard Griegs vei 28, Kampen",58.966683,5.705214
+971205,"Edvard Griegs vei 29, Kampen",58.967298,5.703989
+971206,"Edvard Griegs vei 30, Kampen",58.966739,5.704617
+971207,"Edvard Griegs vei 31, Kampen",58.967199,5.703633
+971208,"Edvard Griegs vei 32, Kampen",58.966862,5.704483
+971209,"Edvard Griegs vei 33, Kampen",58.967083,5.703296
+971210,"Edvard Griegs vei 19, Kampen",58.967872,5.705882
+971211,"Edvard Griegs vei 20, Kampen",58.967543,5.70581
+971212,"Edvard Griegs vei 21, Kampen",58.967792,5.705583
+971213,"Edvard Griegs vei 22, Kampen",58.967427,5.705508
+971214,"Edvard Griegs vei 23, Kampen",58.967662,5.705225
+971215,"Edvard Griegs vei 24, Kampen",58.967225,5.704988
+971216,"Edvard Griegs vei 24A, Kampen",58.967144,5.704648
+971217,"Edvard Griegs vei 25, Kampen",58.967521,5.704629
+971218,"Edvard Griegs vei 42, Kampen",58.966368,5.703434
+971219,"Edvard Griegs vei 43, Kampen",58.966866,5.702534
+971220,"Edvard Griegs vei 44, Kampen",58.966481,5.703301
+971221,"Edvard Griegs vei 45, Kampen",58.966769,5.702264
+971222,"Edvard Griegs vei 46, Kampen",58.966603,5.70315
+971223,"Edvard Griegs vei 47, Kampen",58.966598,5.701915
+971224,"Edvard Griegs vei 48, Kampen",58.966145,5.702829
+971225,"Edvard Griegs vei 50, Kampen",58.966295,5.70271
+971226,"Edvard Griegs vei 34, Kampen",58.966983,5.704315
+971227,"Edvard Griegs vei 35, Kampen",58.966976,5.702976
+971228,"Edvard Griegs vei 36, Kampen",58.966545,5.704061
+971229,"Edvard Griegs vei 37, Kampen",58.967295,5.702971
+971230,"Edvard Griegs vei 38, Kampen",58.966676,5.703909
+971231,"Edvard Griegs vei 39, Kampen",58.967266,5.702356
+971232,"Edvard Griegs vei 40, Kampen",58.966797,5.703724
+971233,"Edvard Griegs vei 41, Kampen",58.967032,5.702361
+971243,"Edvard Griegs vei 52, Kampen",58.966417,5.702559
+971244,"Edvard Griegs vei 54B, Kampen",58.965812,5.70203
+971245,"Edvard Griegs vei 56, Kampen",58.9661,5.70212
+971246,"Edvard Griegs vei 58, Kampen",58.966222,5.701969
+971858,"Erika Nissens vei 2A, Domkirken og St. Petri",58.9633,5.702265
+971859,"Erika Nissens vei 2D, Domkirken og St. Petri",58.963466,5.702093
+971868,"Erika Nissens vei 13, Domkirken og St. Petri",58.96302,5.702901
+971869,"Erika Nissens vei 15, Domkirken og St. Petri",58.962942,5.702665
+971870,"Erika Nissens vei 17, Domkirken og St. Petri",58.962873,5.702428
+971871,"Erika Nissens vei 19, Domkirken og St. Petri",58.962581,5.702265
+971872,"Erika Nissens vei 21, Domkirken og St. Petri",58.962483,5.701961
+971873,"Erika Nissens vei 23, Domkirken og St. Petri",58.962414,5.701724
+971874,"Erik Werenskiolds vei 1, Stokka",58.966488,5.692623
+971875,"Erik Werenskiolds vei 2, Stokka",58.96685,5.692772
+971876,"Erika Nissens vei 2E, Domkirken og St. Petri",58.963547,5.702068
+971877,"Erika Nissens vei 3A, Domkirken og St. Petri",58.963225,5.703926
+971878,"Erika Nissens vei 3B, Domkirken og St. Petri",58.963275,5.704112
+971879,"Erika Nissens vei 4, Domkirken og St. Petri",58.963768,5.702656
+971880,"Erika Nissens vei 5A, Domkirken og St. Petri",58.963762,5.703805
+971881,"Erika Nissens vei 5B, Domkirken og St. Petri",58.964146,5.703368
+971882,"Erika Nissens vei 9, Domkirken og St. Petri",58.963167,5.703392
+971883,"Erika Nissens vei 11, Domkirken og St. Petri",58.963117,5.703188
+971884,"Erik Werenskiolds vei 10, Stokka",58.96595,5.693433
+971885,"Erik Werenskiolds vei 11, Stokka",58.965609,5.692717
+971886,"Erik Werenskiolds vei 12, Stokka",58.965693,5.693562
+971887,"Erik Werenskiolds vei 14B, Stokka",58.965492,5.693588
+971888,"Erik Werenskiolds vei 16, Stokka",58.965385,5.693043
+971892,"Erik Werenskiolds vei 3, Stokka",58.966348,5.692714
+971893,"Erik Werenskiolds vei 4, Stokka",58.966933,5.693199
+971894,"Erik Werenskiolds vei 5, Stokka",58.966099,5.692761
+971895,"Erik Werenskiolds vei 6, Stokka",58.966616,5.693091
+971896,"Erik Werenskiolds vei 6A, Stokka",58.966467,5.693244
+971897,"Erik Werenskiolds vei 7, Stokka",58.965958,5.692666
+971898,"Erik Werenskiolds vei 8, Stokka",58.966288,5.693312
+971899,"Erik Werenskiolds vei 9, Stokka",58.96581,5.692728
+971970,"Fartein Valens vei 2, Kampen",58.968182,5.70179
+971971,"Fartein Valens vei 4, Kampen",58.967964,5.701816
+971972,"Fartein Valens vei 6, Kampen",58.968313,5.70228
+971973,"Fartein Valens vei 8, Kampen",58.96816,5.702321
+971974,"Fartein Valens vei 10, Kampen",58.967918,5.702417
+971975,"Fartein Valens vei 12, Kampen",58.967702,5.702422
+971976,"Fartein Valens vei 14, Kampen",58.967529,5.702406
+971993,"Fartein Valens vei 16, Kampen",58.967761,5.701822
+971994,"Fartein Valens vei 18, Kampen",58.967545,5.7019
+971995,"Fartein Valens vei 20, Kampen",58.967341,5.701792
+971996,"Fartein Valens vei 22, Kampen",58.967171,5.701801
+971997,"Fartein Valens vei 24, Kampen",58.966911,5.701851
+972734,"Gerhard Munthes vei 1, Stokka",58.96693,5.691579
+972735,"Gerhard Munthes vei 3, Stokka",58.966775,5.691596
+972736,"Gerhard Munthes vei 4, Stokka",58.966773,5.692205
+972737,"Gerhard Munthes vei 5, Stokka",58.966607,5.691682
+972738,"Gerhard Munthes vei 7, Stokka",58.966439,5.691785
+972739,"Gerhard Munthes vei 9, Stokka",58.96625,5.691803
+972740,"Gerhard Munthes vei 11, Stokka",58.966099,5.69187
+972741,"Gerhard Munthes vei 13, Stokka",58.965919,5.69187
+972758,"Gerhard Munthes vei 15, Stokka",58.965759,5.691902
+972759,"Gerhard Munthes vei 17, Stokka",58.96557,5.691903
+972760,"Gerhard Munthes vei 19, Stokka",58.965409,5.691936
+972761,"Gerhard Munthes vei 21, Stokka",58.965239,5.69197
+972762,"Gerhard Munthes vei 23, Stokka",58.965059,5.691969
+973270,"Gustav Vigelands vei 25, Stokka",58.968082,5.686807
+973271,"Gustav Vigelands vei 35, Stokka",58.968807,5.68846
+973272,"Gustav Vigelands vei 26, Stokka",58.967509,5.686566
+973273,"Gustav Vigelands vei 27, Stokka",58.967794,5.686451
+973274,"Gustav Vigelands vei 30, Stokka",58.967698,5.684094
+973275,"Gustav Vigelands vei 41, Stokka",58.968277,5.683899
+973276,"Gustav Vigelands vei 43, Stokka",58.968307,5.683339
+973277,"Gustav Vigelands vei 45, Stokka",58.968307,5.682956
+973282,"Gustav Vigelands vei 9, Stokka",58.969853,5.699208
+973283,"Gustav Vigelands vei 24, Stokka",58.967457,5.686989
+973285,"Gustav Vigelands vei 54, Stokka",58.967835,5.680008
+973286,"Gustav Vigelands vei 56, Stokka",58.967963,5.679718
+973287,"Gustav Vigelands vei 58, Stokka",58.968123,5.679302
+973288,"Gustav Vigelands vei 63, Stokka",58.968703,5.679142
+973289,"Gustav Vigelands vei 64, Stokka",58.968127,5.67737
+973290,"Gustav Vigelands vei 72, Stokka",58.969064,5.678515
+973291,"Gustav Vigelands vei 46A, Stokka",58.96762,5.681787
+973292,"Gustav Vigelands vei 46B, Stokka",58.96728,5.681489
+973293,"Gustav Vigelands vei 46C, Stokka",58.967288,5.68107
+973294,"Gustav Vigelands vei 46D, Stokka",58.967403,5.680659
+973295,"Gustav Vigelands vei 46E, Stokka",58.967595,5.68078
+973296,"Gustav Vigelands vei 48, Stokka",58.967607,5.681266
+973297,"Gustav Vigelands vei 50, Stokka",58.967757,5.680799
+973298,"Gustav Vigelands vei 52, Stokka",58.967627,5.680307
+973307,"Gustav Vigelands vei 90, Stokka",58.971532,5.677999
+973368,"Edvard Griegs vei 3, Kampen",58.968643,5.70987
+973369,"Kirsten Flagstads vei 1A, Kampen",58.96865,5.709429
+973378,"Halfdan Kjerulfs vei 1, Kampen",58.967459,5.70857
+973379,"Halfdan Kjerulfs vei 2, Kampen",58.967317,5.707864
+973380,"Kirsten Flagstads vei 9, Kampen",58.968963,5.707572
+973381,"Kirsten Flagstads vei 11, Kampen",58.969033,5.707147
+973382,"Halfdan Egedius' vei 1, Stokka",58.966894,5.69779
+973383,"Halfdan Egedius' vei 2, Stokka",58.966608,5.697882
+973384,"Halfdan Egedius' vei 3, Stokka",58.966862,5.697216
+973385,"Halfdan Egedius' vei 4, Stokka",58.966564,5.697474
+973386,"Halfdan Egedius' vei 5, Stokka",58.966762,5.696973
+973387,"Halfdan Egedius' vei 6, Stokka",58.966549,5.697039
+973388,"Halfdan Kjerulfs vei 6A, Kampen",58.967437,5.706831
+973389,"Halfdan Kjerulfs vei 7, Kampen",58.967779,5.70749
+973390,"Halfdan Kjerulfs vei 8, Kampen",58.967728,5.707006
+973391,"Halfdan Kjerulfs vei 8A, Kampen",58.967584,5.706685
+973392,"Halfdan Kjerulfs vei 10, Kampen",58.968225,5.706128
+973393,"Halfdan Kjerulfs vei 12, Kampen",58.968216,5.705798
+973394,"Halfdan Kjerulfs vei 14, Kampen",58.96819,5.70547
+973395,"Halfdan Kjerulfs vei 16, Kampen",58.968137,5.705162
+973396,"Halfdan Kjerulfs vei 3, Kampen",58.967564,5.70822
+973397,"Halfdan Kjerulfs vei 4, Kampen",58.967415,5.707664
+973398,"Halfdan Kjerulfs vei 5, Kampen",58.967653,5.707862
+973399,"Halfdan Kjerulfs vei 6, Kampen",58.96757,5.707219
+973400,"Halfdan Kjerulfs vei 33, Kampen",58.967833,5.703102
+973407,"Halfdan Kjerulfs vei 18, Kampen",58.968021,5.704825
+973408,"Halfdan Kjerulfs vei 20, Kampen",58.968038,5.704277
+973409,"Halfdan Kjerulfs vei 22, Kampen",58.967982,5.703946
+973410,"Halfdan Kjerulfs vei 24, Kampen",58.967935,5.703617
+973411,"Halfdan Kjerulfs vei 24B, Kampen",58.967758,5.703667
+973412,"Halfdan Kjerulfs vei 26, Kampen",58.967666,5.703917
+973413,"Halfdan Kjerulfs vei 27, Kampen",58.968422,5.702942
+973414,"Halfdan Kjerulfs vei 28, Kampen",58.967454,5.703588
+973524,"Hans Gudes vei 3, Stokka",58.967547,5.69805
+973525,"Hans Gudes vei 4, Stokka",58.967724,5.698581
+973526,"Hans Gudes vei 5, Stokka",58.967289,5.698071
+973535,"Hans Gudes vei 13, Stokka",58.966297,5.69739
+973536,"Hans Gudes vei 14, Stokka",58.966136,5.698223
+973537,"Hans Gudes vei 15, Stokka",58.966224,5.696417
+973538,"Hans Gudes vei 16, Stokka",58.966108,5.697765
+973539,"Hans Gudes vei 17, Stokka",58.966417,5.696493
+973540,"Hans Gudes vei 18, Stokka",58.966043,5.697101
+973541,"Hans Gudes vei 20, Stokka",58.965941,5.696791
+973542,"Hans Gudes vei 22, Stokka",58.965902,5.696295
+973543,"Hans Gudes vei 6, Stokka",58.967396,5.69859
+973544,"Hans Gudes vei 7, Stokka",58.966959,5.698131
+973545,"Hans Gudes vei 8, Stokka",58.967086,5.698698
+973546,"Hans Gudes vei 9, Stokka",58.966602,5.698196
+973547,"Hans Gudes vei 10, Stokka",58.966797,5.698736
+973548,"Hans Gudes vei 11, Stokka",58.966378,5.697847
+973549,"Hans Gudes vei 12, Stokka",58.966347,5.698772
+973550,"Hans Gudes vei 12A, Stokka",58.966199,5.698673
+973551,"Hans Gudes vei 32, Stokka",58.965804,5.694246
+973552,"Hans Gudes vei 34, Stokka",58.965941,5.694112
+973553,"Hans Gudes vei 34A, Stokka",58.966038,5.694021
+973554,"Hans Gudes vei 36, Stokka",58.966234,5.694025
+973555,"Hans Gudes vei 38, Stokka",58.966436,5.693961
+973556,"Hans Gudes vei 40, Stokka",58.966632,5.693733
+973557,"Hans Gudes vei 40A, Stokka",58.966572,5.693495
+973558,"Hans Gudes vei 42, Stokka",58.967022,5.693645
+973559,"Hans Gudes vei 23, Stokka",58.966107,5.694688
+973560,"Hans Gudes vei 24, Stokka",58.96577,5.695852
+973561,"Hans Gudes vei 25, Stokka",58.966323,5.694633
+973562,"Hans Gudes vei 26, Stokka",58.965746,5.695403
+973563,"Hans Gudes vei 27, Stokka",58.966549,5.694333
+973564,"Hans Gudes vei 28, Stokka",58.965741,5.694927
+973565,"Hans Gudes vei 29, Stokka",58.967012,5.694166
+973566,"Hans Gudes vei 30, Stokka",58.965592,5.694383
+973582,"Harriet Backers vei 2, Stokka",58.968311,5.70069
+973583,"Harriet Backers vei 3, Stokka",58.968037,5.700177
+973584,"Harriet Backers vei 4, Stokka",58.968037,5.700873
+973585,"Harriet Backers vei 5, Stokka",58.967848,5.700177
+973586,"Harriet Backers vei 6, Stokka",58.967768,5.700899
+973587,"Harriet Backers vei 7, Stokka",58.967643,5.700232
+973588,"Harriet Backers vei 8, Stokka",58.967506,5.700854
+973589,"Harriet Backers vei 9, Stokka",58.967418,5.700236
+973597,"Harriet Backers vei 1, Stokka",58.968253,5.700191
+973598,"Harriet Backers vei 22, Stokka",58.966567,5.699256
+973599,"Harriet Backers vei 22B, Stokka",58.966342,5.69926
+973600,"Harriet Backers vei 24, Stokka",58.966819,5.699649
+973601,"Harriet Backers vei 26, Stokka",58.966763,5.69922
+973602,"Harriet Backers vei 28, Stokka",58.967065,5.699052
+973603,"Harriet Backers vei 34, Stokka",58.967406,5.699054
+973604,"Harriet Backers vei 34A, Stokka",58.967291,5.699099
+973605,"Harriet Backers vei 36, Stokka",58.967621,5.699033
+973606,"Harriet Backers vei 10, Stokka",58.967212,5.700934
+973607,"Harriet Backers vei 11, Stokka",58.967212,5.700256
+973608,"Harriet Backers vei 12, Stokka",58.966906,5.700929
+973609,"Harriet Backers vei 13, Stokka",58.967006,5.700275
+973610,"Harriet Backers vei 14, Stokka",58.966637,5.700972
+973611,"Harriet Backers vei 15, Stokka",58.966807,5.700242
+973612,"Harriet Backers vei 16, Stokka",58.966508,5.70048
+973613,"Harriet Backers vei 20, Stokka",58.966544,5.69978
+973620,"Harriet Backers vei 38, Stokka",58.967617,5.699573
+973621,"Harriet Backers vei 40, Stokka",58.967885,5.699495
+973622,"Harriet Backers vei 42, Stokka",58.968147,5.69954
+975184,"Johan Svendsens vei 2, Kampen",58.968717,5.707473
+975185,"Johan Svendsens vei 3, Kampen",58.968591,5.70704
+975186,"Johan Svendsens vei 4, Kampen",58.968483,5.707443
+975187,"Johan Svendsens vei 5, Kampen",58.96841,5.707007
+975188,"Johan Svendsens vei 6, Kampen",58.968267,5.707429
+976066,"Konservator Helliesens gate 1, Domkirken og St. Petri",58.966864,5.71073
+976067,"Konservator Helliesens gate 4A, Domkirken og St. Petri",58.966796,5.710371
+976068,"Konservator Helliesens gate 6A, Domkirken og St. Petri",58.967042,5.710165
+976069,"Konservator Helliesens gate 6B, Domkirken og St. Petri",58.9671,5.710106
+976070,"Konservator Helliesens gate 6C, Domkirken og St. Petri",58.967125,5.710083
+976071,"Konservator Helliesens gate 6D, Domkirken og St. Petri",58.967181,5.71002
+977049,"Lars Utnes vei 7, Stokka",58.968647,5.683272
+977050,"Lars Utnes vei 8, Stokka",58.969192,5.683106
+977051,"Lars Utnes vei 10, Stokka",58.969024,5.683601
+977057,"Lars Utnes vei 1, Stokka",58.968754,5.682182
+977058,"Lars Utnes vei 2, Stokka",58.969144,5.681948
+977059,"Lars Utnes vei 3, Stokka",58.968717,5.682499
+977060,"Lars Utnes vei 4, Stokka",58.969118,5.682339
+977061,"Lars Utnes vei 5, Stokka",58.968638,5.682907
+977062,"Lars Utnes vei 6, Stokka",58.969213,5.682706
+977679,"Magnus Vigrestads vei 1, Stokka",58.969307,5.681311
+977680,"Magnus Vigrestads vei 3, Stokka",58.969383,5.680764
+977681,"Magnus Vigrestads vei 4, Stokka",58.968981,5.681172
+977699,"Magnus Vigrestads vei 5, Stokka",58.969366,5.680442
+977700,"Magnus Vigrestads vei 6, Stokka",58.96896,5.680753
+977701,"Magnus Vigrestads vei 7, Stokka",58.969301,5.67998
+977702,"Magnus Vigrestads vei 8, Stokka",58.968992,5.680398
+977703,"Magnus Vigrestads vei 9, Stokka",58.969285,5.67955
+977704,"Magnus Vigrestads vei 10, Stokka",58.968959,5.680005
+977705,"Magnus Vigrestads vei 12, Stokka",58.969048,5.679538
+977706,"Magnus Vigrestads vei 14, Stokka",58.969028,5.679197
+978600,"Nedre Stokkavei 3, Kampen",58.968969,5.711348
+978601,"Nedre Stokkavei 7, Kampen",58.969222,5.710697
+978602,"Nedre Stokkavei 9, Kampen",58.969003,5.710561
+978603,"Edvard Griegs vei 1, Kampen",58.968773,5.710009
+978604,"Nedre Stokkavei 14, Kampen",58.968842,5.70955
+978605,"Nedre Stokkavei 15, Kampen",58.969337,5.709027
+978606,"Nedre Stokkavei 16, Kampen",58.968905,5.709178
+978607,"Nedre Stokkavei 17, Kampen",58.969363,5.708675
+978615,"Nedre Stokkavei 1, Kampen",58.968869,5.71167
+978616,"Nedre Stokkavei 26, Kampen",58.969192,5.707393
+978617,"Nedre Stokkavei 47, Kampen",58.969391,5.704624
+978618,"Nedre Stokkavei 50, Kampen",58.968971,5.704369
+978619,"Nedre Stokkavei 54, Kampen",58.968837,5.703703
+978620,"Nedre Stokkavei 56, Kampen",58.968786,5.703464
+978621,"Nedre Stokkavei 62, Kampen",58.968589,5.702421
+978622,"Nedre Stokkavei 64, Kampen",58.968507,5.702046
+978623,"Nedre Stokkavei 66, Kampen",58.968436,5.701705
+978624,"Nedre Stokkavei 18, Kampen",58.96896,5.708877
+978625,"Nedre Stokkavei 19, Kampen",58.969464,5.708295
+978626,"Nedre Stokkavei 19A, Kampen",58.969487,5.708061
+978627,"Nedre Stokkavei 20, Kampen",58.969005,5.708525
+978628,"Nedre Stokkavei 22, Kampen",58.969075,5.7081
+978629,"Nedre Stokkavei 23B, Kampen",58.969447,5.707663
+978630,"Nedre Stokkavei 24, Kampen",58.969121,5.707783
+978631,"Nedre Stokkavei 25, Kampen",58.969587,5.707408
+978632,"Nedre Stokkavei 81B, Stokka",58.968175,5.697118
+978633,"Nedre Stokkavei 82A, Stokka",58.967839,5.696976
+978634,"Nedre Stokkavei 83, Stokka",58.968141,5.69686
+978635,"Nedre Stokkavei 84, Stokka",58.967656,5.696506
+978636,"Nedre Stokkavei 85, Stokka",58.968107,5.696585
+978637,"Nedre Stokkavei 87, Stokka",58.968064,5.696311
+978638,"Nedre Stokkavei 88A, Stokka",58.967345,5.695944
+978639,"Nedre Stokkavei 74, Stokka",58.968106,5.699004
+978640,"Nedre Stokkavei 74A, Stokka",58.967973,5.69901
+978641,"Nedre Stokkavei 74B, Stokka",58.967808,5.699027
+978642,"Nedre Stokkavei 75, Stokka",58.968356,5.698945
+978643,"Nedre Stokkavei 79, Stokka",58.968197,5.698003
+978644,"Nedre Stokkavei 80, Stokka",58.967859,5.697566
+978645,"Nedre Stokkavei 81A, Stokka",58.968218,5.697392
+978646,"Nedre Stokkavei 97, Stokka",58.967867,5.69492
+978647,"Nedre Stokkavei 99, Stokka",58.967833,5.694645
+978648,"Nedre Stokkavei 101, Stokka",58.96779,5.69437
+978649,"Nedre Stokkavei 102, Stokka",58.967136,5.692473
+978650,"Nedre Stokkavei 103, Stokka",58.967747,5.694096
+978651,"Nedre Stokkavei 103A, Stokka",58.96767,5.693895
+978652,"Nedre Stokkavei 104, Stokka",58.967042,5.69218
+978653,"Nedre Stokkavei 105, Stokka",58.96759,5.692893
+978654,"Nedre Stokkavei 89, Stokka",58.96803,5.696035
+978655,"Nedre Stokkavei 90, Stokka",58.967476,5.695096
+978656,"Nedre Stokkavei 91, Stokka",58.967987,5.695761
+978657,"Nedre Stokkavei 92, Stokka",58.967432,5.69477
+978658,"Nedre Stokkavei 93, Stokka",58.967953,5.695486
+978659,"Nedre Stokkavei 94, Stokka",58.967376,5.694358
+978660,"Nedre Stokkavei 95, Stokka",58.96791,5.695212
+978661,"Nedre Stokkavei 96, Stokka",58.967319,5.693893
+978662,"Nedre Stokkavei 115A, Stokka",58.967191,5.690634
+978663,"Nedre Stokkavei 117, Stokka",58.967233,5.690045
+978664,"Nedre Stokkavei 118, Stokka",58.966357,5.69
+978665,"Nedre Stokkavei 120, Stokka",58.966381,5.689662
+978666,"Nedre Stokkavei 120B, Stokka",58.96615,5.689655
+978667,"Nedre Stokkavei 122B, Stokka",58.966713,5.689862
+978668,"Nedre Stokkavei 122C, Stokka",58.966867,5.689917
+978669,"Nedre Stokkavei 124, Stokka",58.966704,5.689515
+978670,"Nedre Stokkavei 105A, Stokka",58.967608,5.693222
+978671,"Nedre Stokkavei 107, Stokka",58.967529,5.692585
+978672,"Nedre Stokkavei 108, Stokka",58.966894,5.69061
+978673,"Nedre Stokkavei 109, Stokka",58.967466,5.692243
+978674,"Nedre Stokkavei 110, Stokka",58.966831,5.690251
+978675,"Nedre Stokkavei 111, Stokka",58.967388,5.69199
+978676,"Nedre Stokkavei 113, Stokka",58.96735,5.691558
+978677,"Nedre Stokkavei 115, Stokka",58.96722,5.690401
+978678,"Nedre Stokkavei 133, Stokka",58.966819,5.687676
+978679,"Nedre Stokkavei 134, Stokka",58.966088,5.688634
+978680,"Nedre Stokkavei 136, Stokka",58.96614,5.689255
+978681,"Nedre Stokkavei 138, Stokka",58.965898,5.689279
+978682,"Nedre Stokkavei 140, Stokka",58.965839,5.68871
+978683,"Nedre Stokkavei 142, Stokka",58.965766,5.687986
+978684,"Nedre Stokkavei 143, Stokka",58.966603,5.686529
+978685,"Nedre Stokkavei 144, Stokka",58.966008,5.687963
+978686,"Nedre Stokkavei 126A, Stokka",58.966711,5.689096
+978687,"Nedre Stokkavei 126B, Stokka",58.966734,5.68892
+978688,"Nedre Stokkavei 127, Stokka",58.967037,5.689243
+978689,"Nedre Stokkavei 128, Stokka",58.966608,5.688567
+978690,"Nedre Stokkavei 129, Stokka",58.966941,5.688604
+978691,"Nedre Stokkavei 130, Stokka",58.966407,5.689143
+978692,"Nedre Stokkavei 131, Stokka",58.966885,5.68814
+978693,"Nedre Stokkavei 132, Stokka",58.966313,5.68863
+978694,"Nedre Stokkavei 166, Stokka",58.966286,5.686161
+978702,"Nedre Stokkavei 146, Stokka",58.966241,5.687923
+978703,"Nedre Stokkavei 152, Stokka",58.966437,5.687156
+978704,"Nedre Stokkavei 154, Stokka",58.966181,5.687337
+978706,"Nedre Stokkavei 154A, Stokka",58.966192,5.687058
+978707,"Nedre Stokkavei 156, Stokka",58.965963,5.687236
+978708,"Nedre Stokkavei 158, Stokka",58.965706,5.687383
+978709,"Nedre Stokkavei 160, Stokka",58.965661,5.686674
+978710,"Nedre Stokkavei 162, Stokka",58.966073,5.686652
+979626,"Ole Bulls vei 1A, Kampen",58.968234,5.710008
+979627,"Ole Bulls vei 1B, Kampen",58.968303,5.709914
+979628,"Ole Bulls vei 3, Kampen",58.968162,5.709721
+979629,"Ole Bulls vei 4, Kampen",58.967957,5.709934
+979630,"Ole Bulls vei 5, Kampen",58.968065,5.709408
+979647,"Ole Bulls vei 6, Kampen",58.967863,5.709624
+979648,"Ole Bulls vei 7, Kampen",58.967984,5.709047
+979649,"Ole Bulls vei 8, Kampen",58.967766,5.709304
+979650,"Ole Bulls vei 9, Kampen",58.96804,5.708504
+979651,"Ole Bulls vei 10, Kampen",58.967601,5.709077
+979652,"Ole Bulls vei 12, Kampen",58.967672,5.708732
+979653,"Ole Bulls vei 14, Kampen",58.96779,5.70827
+979654,"Ole Bulls vei 16, Kampen",58.967909,5.708125
+980855,"Rikard Nordraaks vei 18, Kampen",58.968245,5.70409
+980856,"Rikard Nordraaks vei 19, Kampen",58.968641,5.704487
+980857,"Rikard Nordraaks vei 20, Kampen",58.968422,5.703986
+980858,"Rikard Nordraaks vei 21, Kampen",58.968809,5.704384
+980859,"Rikard Nordraaks vei 22, Kampen",58.96865,5.703773
+980864,"Rikard Nordraaks vei 2, Kampen",58.966729,5.705627
+980865,"Rikard Nordraaks vei 3, Kampen",58.96704,5.705824
+980866,"Rikard Nordraaks vei 4, Kampen",58.966982,5.705324
+980867,"Rikard Nordraaks vei 5, Kampen",58.96721,5.705807
+980868,"Rikard Nordraaks vei 13, Kampen",58.967801,5.705003
+980869,"Rikard Nordraaks vei 14, Kampen",58.967734,5.704504
+980870,"Rikard Nordraaks vei 17, Kampen",58.968403,5.704649
+982789,"Steingata 103, Domkirken og St. Petri",58.966068,5.708192
+982790,"Steingata 105, Domkirken og St. Petri",58.966005,5.707908
+982791,"Steingata 109, Domkirken og St. Petri",58.965798,5.707275
+982792,"Steingata 111, Domkirken og St. Petri",58.96567,5.706924
+982793,"Steingata 113, Domkirken og St. Petri",58.965636,5.70681
+982794,"Steingata 115, Domkirken og St. Petri",58.965584,5.706565
+982795,"Steingata 117, Domkirken og St. Petri",58.965542,5.706456
+982796,"Steingata 119, Domkirken og St. Petri",58.965476,5.706236
+982800,"Steingata 91B, Domkirken og St. Petri",58.966705,5.710848
+982801,"Steingata 97, Domkirken og St. Petri",58.966403,5.7094
+982802,"Steingata 99, Domkirken og St. Petri",58.966289,5.708967
+982803,"Steingata 98, Domkirken og St. Petri",58.966054,5.710199
+982804,"Steingata 101, Domkirken og St. Petri",58.966196,5.708716
+982805,"Steingata 121, Domkirken og St. Petri",58.965437,5.706112
+982806,"Steingata 123B, Domkirken og St. Petri",58.965299,5.706019
+982807,"Steingata 123C, Domkirken og St. Petri",58.96535,5.705959
+982808,"Steingata 123E, Domkirken og St. Petri",58.965426,5.705877
+982875,"Stokkabrautene 1, Stokka",58.965012,5.69073
+982876,"Stokkabrautene 2, Stokka",58.964662,5.690817
+982877,"Stokkabrautene 3, Stokka",58.965188,5.690944
+982886,"Stokkabrautene 8A, Stokka",58.964277,5.689641
+982887,"Stokkabrautene 9, Stokka",58.965874,5.690778
+982888,"Stokkabrautene 11, Stokka",58.966098,5.690756
+982889,"Stokkabrautene 12, Stokka",58.964157,5.68824
+982890,"Stokkabrautene 13, Stokka",58.966188,5.690069
+982891,"Stokkabrautene 15A, Stokka",58.96597,5.689968
+982892,"Stokkabrautene 17, Stokka",58.965755,5.690006
+982893,"Stokkabrautene 18A, Stokka",58.963656,5.686658
+982894,"Stokkabrautene 3B, Stokka",58.965223,5.690466
+982895,"Stokkabrautene 4, Stokka",58.964597,5.690328
+982896,"Stokkabrautene 5, Stokka",58.965418,5.690861
+982897,"Stokkabrautene 5B, Stokka",58.965424,5.690407
+982898,"Stokkabrautene 6, Stokka",58.964544,5.689941
+982899,"Stokkabrautene 7, Stokka",58.965641,5.690817
+982900,"Stokkabrautene 7B, Stokka",58.965614,5.690472
+982901,"Stokkabrautene 8, Stokka",58.96438,5.689257
+982902,"Stokkabrautene 20E, Stokka",58.963953,5.685968
+982903,"Stokkabrautene 21, Stokka",58.965311,5.690151
+982904,"Stokkabrautene 22A, Stokka",58.963698,5.685157
+982905,"Stokkabrautene 22B, Stokka",58.963772,5.68522
+982906,"Stokkabrautene 22C, Stokka",58.963844,5.685247
+982907,"Stokkabrautene 22D, Stokka",58.963927,5.685309
+982908,"Stokkabrautene 22E, Stokka",58.964009,5.685336
+982909,"Stokkabrautene 23, Stokka",58.965077,5.690188
+982910,"Stokkabrautene 18B, Stokka",58.963727,5.686633
+982911,"Stokkabrautene 18D, Stokka",58.963888,5.686583
+982912,"Stokkabrautene 18E, Stokka",58.963959,5.686576
+982913,"Stokkabrautene 19, Stokka",58.965536,5.690109
+982914,"Stokkabrautene 20A, Stokka",58.963638,5.685946
+982915,"Stokkabrautene 20B, Stokka",58.963718,5.685921
+982916,"Stokkabrautene 20C, Stokka",58.963799,5.68593
+982917,"Stokkabrautene 20D, Stokka",58.96388,5.68594
+982918,"Stokkabrautene 26C, Stokka",58.964548,5.685006
+982919,"Stokkabrautene 26D, Stokka",58.964621,5.685034
+982920,"Stokkabrautene 26E, Stokka",58.964703,5.68506
+982921,"Stokkabrautene 27, Stokka",58.964793,5.689453
+982922,"Stokkabrautene 28A, Stokka",58.964858,5.68515
+982923,"Stokkabrautene 28B, Stokka",58.964931,5.685195
+982924,"Stokkabrautene 28C, Stokka",58.965003,5.685223
+982925,"Stokkabrautene 28D, Stokka",58.965076,5.685251
+982926,"Stokkabrautene 24A, Stokka",58.963817,5.684519
+982927,"Stokkabrautene 24B, Stokka",58.96389,5.684582
+982928,"Stokkabrautene 24C, Stokka",58.963963,5.684627
+982929,"Stokkabrautene 24D, Stokka",58.964036,5.684672
+982930,"Stokkabrautene 24E, Stokka",58.96411,5.684717
+982931,"Stokkabrautene 25A, Stokka",58.964889,5.690218
+982932,"Stokkabrautene 26A, Stokka",58.964402,5.684898
+982933,"Stokkabrautene 26B, Stokka",58.964475,5.68496
+982934,"Stokkabrautene 43, Stokka",58.965172,5.688652
+982935,"Stokkabrautene 45, Stokka",58.965021,5.688679
+982936,"Stokkabrautene 47, Stokka",58.964895,5.688696
+982937,"Stokkabrautene 49, Stokka",58.964758,5.688716
+982938,"Stokkabrautene 51, Stokka",58.964617,5.688727
+982939,"Stokkabrautene 53, Stokka",58.96452,5.688146
+982940,"Stokkabrautene 55, Stokka",58.964659,5.688133
+982941,"Stokkabrautene 57, Stokka",58.964792,5.68812
+982942,"Stokkabrautene 28E, Stokka",58.965149,5.685296
+982943,"Stokkabrautene 29, Stokka",58.964872,5.689449
+982944,"Stokkabrautene 31, Stokka",58.965021,5.689415
+982945,"Stokkabrautene 33, Stokka",58.965155,5.689385
+982946,"Stokkabrautene 35, Stokka",58.965281,5.68939
+982947,"Stokkabrautene 37, Stokka",58.965445,5.689367
+982948,"Stokkabrautene 39, Stokka",58.965444,5.688626
+982949,"Stokkabrautene 41, Stokka",58.965293,5.688644
+982950,"Stokkabrautene 75, Stokka",58.964823,5.687377
+982951,"Stokkabrautene 77, Stokka",58.96469,5.68738
+982952,"Stokkabrautene 79, Stokka",58.964557,5.687398
+982953,"Stokkabrautene 81, Stokka",58.96442,5.687414
+982954,"Stokkabrautene 83, Stokka",58.964291,5.686812
+982955,"Stokkabrautene 85, Stokka",58.964429,5.686815
+982956,"Stokkabrautene 87, Stokka",58.964563,5.686807
+982957,"Stokkabrautene 89, Stokka",58.964699,5.686815
+982958,"Stokkabrautene 59, Stokka",58.964916,5.688115
+982959,"Stokkabrautene 61, Stokka",58.965061,5.688101
+982960,"Stokkabrautene 63, Stokka",58.965195,5.688091
+982961,"Stokkabrautene 65, Stokka",58.965351,5.688066
+982962,"Stokkabrautene 67, Stokka",58.965353,5.687351
+982963,"Stokkabrautene 69, Stokka",58.965223,5.687339
+982964,"Stokkabrautene 71, Stokka",58.96509,5.687355
+982965,"Stokkabrautene 73, Stokka",58.964956,5.687368
+982966,"Stokkabrautene 101E, Stokka",58.965065,5.685896
+982967,"Stokkabrautene 101F, Stokka",58.96513,5.685942
+982968,"Stokkabrautene 103A, Stokka",58.964309,5.685498
+982969,"Stokkabrautene 103B, Stokka",58.964391,5.685543
+982970,"Stokkabrautene 103C, Stokka",58.964464,5.685571
+982971,"Stokkabrautene 103D, Stokka",58.964537,5.685616
+982972,"Stokkabrautene 103E, Stokka",58.964601,5.685662
+982974,"Stokkabrautene 91, Stokka",58.964832,5.686797
+982975,"Stokkabrautene 93, Stokka",58.964968,5.686801
+982976,"Stokkabrautene 95, Stokka",58.965102,5.686797
+982977,"Stokkabrautene 97, Stokka",58.965238,5.686781
+982978,"Stokkabrautene 101A, Stokka",58.964765,5.685751
+982979,"Stokkabrautene 101B, Stokka",58.964847,5.685777
+982980,"Stokkabrautene 101C, Stokka",58.96492,5.685823
+982981,"Stokkabrautene 101D, Stokka",58.964983,5.685851
+983544,"Stoltenbergs vei 4, Stokka",58.968475,5.682035
+983555,"Stoltenbergs vei 10, Stokka",58.96957,5.681773
+983556,"Stoltenbergs vei 11, Stokka",58.969791,5.683005
+983557,"Stoltenbergs vei 12, Stokka",58.969801,5.682012
+983558,"Stoltenbergs vei 13, Stokka",58.970032,5.68293
+983559,"Stoltenbergs vei 14, Stokka",58.970069,5.681951
+983560,"Stoltenbergs vei 15, Stokka",58.970248,5.682961
+983561,"Stoltenbergs vei 16, Stokka",58.970154,5.682465
+984071,"Theodor Kittelsens vei 6A, Stokka",58.966582,5.696
+984080,"Theodor Kittelsens vei 1B, Stokka",58.966138,5.69523
+984081,"Theodor Kittelsens vei 2, Stokka",58.966445,5.69508
+984082,"Theodor Kittelsens vei 3, Stokka",58.96625,5.695649
+984083,"Theodor Kittelsens vei 4, Stokka",58.966507,5.69552
+984084,"Theodor Kittelsens vei 5, Stokka",58.966321,5.695914
+984085,"Theodor Kittelsens vei 6, Stokka",58.966607,5.695893
+985564,"Øvre Stokkavei 4, Domkirken og St. Petri",58.96819,5.711819
+985565,"Øvre Stokkavei 6, Domkirken og St. Petri",58.967988,5.71165
+985574,"Øvre Stokkavei 18E, Domkirken og St. Petri",58.966785,5.709224
+985575,"Øvre Stokkavei 19, Kampen",58.967406,5.709099
+985576,"Øvre Stokkavei 20B, Domkirken og St. Petri",58.966834,5.708697
+985577,"Øvre Stokkavei 20C, Domkirken og St. Petri",58.966814,5.708642
+985578,"Øvre Stokkavei 21, Kampen",58.967183,5.708864
+985579,"Øvre Stokkavei 22A, Domkirken og St. Petri",58.966507,5.70892
+985580,"Øvre Stokkavei 22B, Domkirken og St. Petri",58.966487,5.708835
+985581,"Øvre Stokkavei 24A, Domkirken og St. Petri",58.966681,5.708329
+985582,"Øvre Stokkavei 8A, Domkirken og St. Petri",58.967884,5.711538
+985583,"Øvre Stokkavei 10, Domkirken og St. Petri",58.96772,5.711362
+985584,"Øvre Stokkavei 12, Domkirken og St. Petri",58.967367,5.710491
+985585,"Øvre Stokkavei 13, Kampen",58.967692,5.710168
+985586,"Øvre Stokkavei 15, Kampen",58.967588,5.709802
+985587,"Øvre Stokkavei 17, Kampen",58.967472,5.709559
+985588,"Øvre Stokkavei 18B, Domkirken og St. Petri",58.966671,5.709339
+985589,"Øvre Stokkavei 18C, Domkirken og St. Petri",58.966716,5.709352
+985591,"Øvre Stokkavei 28D, Domkirken og St. Petri",58.966177,5.707959
+985592,"Øvre Stokkavei 30A, Domkirken og St. Petri",58.966403,5.707277
+985593,"Øvre Stokkavei 30B, Domkirken og St. Petri",58.966359,5.707316
+985594,"Øvre Stokkavei 30C, Domkirken og St. Petri",58.966324,5.707371
+985595,"Øvre Stokkavei 30D, Domkirken og St. Petri",58.966289,5.707427
+985596,"Øvre Stokkavei 32B, Domkirken og St. Petri",58.966068,5.707204
+985597,"Øvre Stokkavei 32C, Domkirken og St. Petri",58.966034,5.70726
+985598,"Øvre Stokkavei 32D, Domkirken og St. Petri",58.96599,5.707299
+985599,"Øvre Stokkavei 24B, Domkirken og St. Petri",58.966613,5.708403
+985600,"Øvre Stokkavei 26A, Domkirken og St. Petri",58.96658,5.707886
+985601,"Øvre Stokkavei 26B, Domkirken og St. Petri",58.966545,5.707924
+985602,"Øvre Stokkavei 26C, Domkirken og St. Petri",58.966501,5.707963
+985603,"Øvre Stokkavei 26D, Domkirken og St. Petri",58.966466,5.708019
+985604,"Øvre Stokkavei 28A, Domkirken og St. Petri",58.966299,5.707791
+985605,"Øvre Stokkavei 28B, Domkirken og St. Petri",58.966255,5.707847
+985606,"Øvre Stokkavei 28C, Domkirken og St. Petri",58.966221,5.707903
+985607,"Øvre Stokkavei 44, Domkirken og St. Petri",58.964837,5.704
+985608,"Øvre Stokkavei 46, Domkirken og St. Petri",58.964657,5.702646
+985609,"Øvre Stokkavei 51, Kampen",58.966378,5.705974
+985610,"Øvre Stokkavei 53, Kampen",58.9663,5.705737
+985611,"Øvre Stokkavei 55, Kampen",58.966213,5.705485
+985612,"Øvre Stokkavei 57A, Kampen",58.966367,5.705174
+985613,"Øvre Stokkavei 59B, Kampen",58.96578,5.704378
+985615,"Øvre Stokkavei 34A, Domkirken og St. Petri",58.966133,5.706571
+985616,"Øvre Stokkavei 34B, Domkirken og St. Petri",58.966094,5.706471
+985617,"Øvre Stokkavei 34C, Domkirken og St. Petri",58.966065,5.706369
+985618,"Øvre Stokkavei 34D, Domkirken og St. Petri",58.966035,5.70625
+985619,"Øvre Stokkavei 36A, Domkirken og St. Petri",58.965922,5.706069
+985620,"Øvre Stokkavei 36B, Domkirken og St. Petri",58.965893,5.705968
+985621,"Øvre Stokkavei 36C, Domkirken og St. Petri",58.965863,5.705866
+985622,"Øvre Stokkavei 36D, Domkirken og St. Petri",58.965825,5.705766
+986546,"Stephan Sindings vei 5, Stokka",58.967306,5.689032
+986547,"Stephan Sindings vei 6, Stokka",58.967228,5.688095
+986548,"Stephan Sindings vei 8, Stokka",58.967268,5.687865
+986949,"Mathias Skeibroks vei 1, Stokka",58.966718,5.687098
+986950,"Mathias Skeibroks vei 3, Stokka",58.966838,5.687172
+986951,"Mathias Skeibroks vei 5, Stokka",58.966969,5.687246
+986965,"Mathias Skeibroks vei 7, Stokka",58.967104,5.687386
+986966,"Mathias Skeibroks vei 9, Stokka",58.967231,5.687459
+986967,"Mathias Skeibroks vei 11, Stokka",58.967382,5.687553
+987021,"Stephan Sindings vei 1, Stokka",58.967262,5.689703
+987022,"Stephan Sindings vei 2, Stokka",58.967102,5.688904
+987023,"Stephan Sindings vei 3, Stokka",58.967286,5.68937
+987024,"Stephan Sindings vei 4, Stokka",58.967188,5.688346
+987453,"Stokkaeidet 61, Stokka",58.973785,5.682356
+987466,"Stokkaeidet 39, Stokka",58.971812,5.683209
+987467,"Stokkaeidet 47, Stokka",58.972582,5.681826
+987468,"Stokkaeidet 53, Stokka",58.972897,5.680814
+987469,"Berberisveien 4, Stokka",58.96459,5.69191
+987470,"Berberisveien 5, Stokka",58.963991,5.69202
+987471,"Berberisveien 7, Stokka",58.963884,5.692047
+987472,"Berberisveien 8, Stokka",58.964777,5.692376
+987473,"Berberisveien 9, Stokka",58.963757,5.692025
+987474,"Berberisveien 10, Stokka",58.964602,5.692483
+987475,"Berberisveien 12, Stokka",58.96463,5.692999
+987476,"Berberisveien 13, Stokka",58.96419,5.692418
+987482,"Berberisveien 1, Stokka",58.964193,5.691826
+987483,"Berberisveien 2, Stokka",58.964474,5.691921
+987484,"Berberisveien 3, Stokka",58.964181,5.692071
+987485,"Berberisveien 23, Stokka",58.964794,5.693925
+987493,"Berberisveien 14, Stokka",58.964815,5.69295
+987494,"Berberisveien 15, Stokka",58.964159,5.69263
+987495,"Berberisveien 16, Stokka",58.964931,5.693287
+987496,"Berberisveien 17, Stokka",58.964308,5.69319
+987497,"Berberisveien 17A, Stokka",58.964315,5.692986
+987498,"Berberisveien 18, Stokka",58.964966,5.693597
+987499,"Berberisveien 19, Stokka",58.964587,5.693539
+987500,"Berberisveien 21, Stokka",58.964563,5.694001
+992294,"Øvre Stokkavei 59D, Kampen",58.966106,5.704816
+992295,"Øvre Stokkavei 59C, Kampen",58.965957,5.704587
+992838,"Øvre Stokkavei 59A, Kampen",58.965964,5.704186
+992868,"Halfdan Kjerulfs vei 11, Kampen",58.968208,5.706878
+992944,"Konservator Helliesens gate 5, Domkirken og St. Petri",58.96717,5.710463
+993106,"Øvre Stokkavei 20D, Domkirken og St. Petri",58.966787,5.708566
+993107,"Øvre Stokkavei 20A, Domkirken og St. Petri",58.966863,5.708781
+993109,"Øvre Stokkavei 32A, Domkirken og St. Petri",58.966094,5.707167
+993120,"Øvre Stokkavei 18D, Domkirken og St. Petri",58.96675,5.709262
+993121,"Øvre Stokkavei 14A, Domkirken og St. Petri",58.967109,5.709593
+993204,"Christian Skredsvigs vei 23, Stokka",58.964114,5.690494
+993308,"Dues vei 35, Domkirken og St. Petri",58.964938,5.707295
+993343,"Konservator Helliesens gate 5A, Domkirken og St. Petri",58.967181,5.710514
+993368,"Gustav Vigelands vei 60, Stokka",58.968204,5.678963
+993450,"Stokkabrautene 10, Stokka",58.964259,5.688815
+993457,"Johan Svendsens vei 7, Kampen",58.968175,5.707003
+993532,"Konservator Helliesens gate 4D, Domkirken og St. Petri",58.966932,5.710252
+993614,"Christian Skredsvigs vei 27, Stokka",58.962651,5.690948
+993900,"Gustav Vigelands vei 78, Stokka",58.969951,5.67729
+993901,"Gustav Vigelands vei 70, Stokka",58.969061,5.678028
+993902,"Gustav Vigelands vei 92, Stokka",58.971808,5.677903
+993903,"Gustav Vigelands vei 80, Stokka",58.969814,5.676894
+993960,"Johan Svendsens vei 3A, Kampen",58.968543,5.706968
+994232,"Nedre Stokkavei 76, Stokka",58.967951,5.698549
+994241,"Nedre Stokkavei 28, Kampen",58.969202,5.707096
+994895,"Mathias Skeibroks vei 4, Stokka",58.967181,5.686836
+994917,"Steingata 97A, Domkirken og St. Petri",58.966336,5.709267
+994918,"Steingata 123D, Domkirken og St. Petri",58.965376,5.705934
+995298,"Agathe Backer Grøndahls vei 6A, Kampen",58.966044,5.703796
+995301,"Agathe Backer Grøndahls vei 7A, Kampen",58.965642,5.703538
+995303,"Anne Grimdalens vei 9A, Stokka",58.965484,5.685403
+995365,"Halfdan Kjerulfs vei 31, Kampen",58.968036,5.702944
+995366,"Nedre Stokkavei 80B, Stokka",58.967645,5.697499
+995368,"Halfdan Kjerulfs vei 29, Kampen",58.968231,5.702856
+995470,"Gustav Vigelands vei 7, Stokka",58.969457,5.70018
+995596,"Agathe Backer Grøndahls vei 5B, Kampen",58.965459,5.703068
+995614,"Agathe Backer Grøndahls vei 5F, Kampen",58.965557,5.703372
+995615,"Agathe Backer Grøndahls vei 5E, Kampen",58.965528,5.703288
+995616,"Anne Grimdalens vei 5E, Stokka",58.966793,5.685625
+995617,"Anne Grimdalens vei 5D, Stokka",58.966712,5.685616
+995632,"Erika Nissens vei 2C, Domkirken og St. Petri",58.963414,5.70215
+995633,"Erika Nissens vei 2B, Domkirken og St. Petri",58.963352,5.702208
+995635,"Erika Nissens vei 2F, Domkirken og St. Petri",58.963599,5.701993
+995640,"Stokkabrautene 18C, Stokka",58.963798,5.686609
+996030,"Agathe Backer Grøndahls vei 6B, Kampen",58.966103,5.703999
+996031,"Agathe Backer Grøndahls vei 3B, Kampen",58.965274,5.702494
+996032,"Anne Grimdalens vei 9B, Stokka",58.965539,5.685433
+996033,"Agathe Backer Grøndahls vei 7B, Kampen",58.965662,5.703606
+996035,"Anne Grimdalens vei 9E, Stokka",58.965784,5.685513
+996203,"Øvre Stokkavei 22D, Domkirken og St. Petri",58.966447,5.708665
+996204,"Øvre Stokkavei 22C, Domkirken og St. Petri",58.966467,5.70875
+996549,"Hans Gudes vei 30A, Stokka",58.965522,5.693892
+996564,"Edvard Griegs vei 54A, Kampen",58.966016,5.702319
+996596,"Konservator Helliesens gate 4B, Domkirken og St. Petri",58.966855,5.710326
+996599,"Konservator Helliesens gate 4C, Domkirken og St. Petri",58.966875,5.710312
+996626,"Magnus Vigrestads vei 11, Stokka",58.969262,5.679192
+997851,"Nedre Stokkavei 150B, Stokka",58.966503,5.68762
+997852,"Nedre Stokkavei 150A, Stokka",58.966415,5.687715
+997924,"Harriet Backers vei 32B, Stokka",58.967434,5.699451
+997936,"Harriet Backers vei 32A, Stokka",58.967436,5.699521
+998006,"Nedre Stokkavei 60B, Kampen",58.968686,5.702725
+998007,"Nedre Stokkavei 60A, Kampen",58.96868,5.70283
+998096,"Erika Nissens vei 3D, Domkirken og St. Petri",58.963363,5.7044
+998097,"Erika Nissens vei 3C, Domkirken og St. Petri",58.963314,5.704248
+998098,"Erika Nissens vei 3F, Domkirken og St. Petri",58.96345,5.704618
+998099,"Erika Nissens vei 3E, Domkirken og St. Petri",58.963421,5.704551
+998100,"Erika Nissens vei 3H, Domkirken og St. Petri",58.9635,5.704839
+998101,"Erika Nissens vei 3G, Domkirken og St. Petri",58.963499,5.70477
+998119,"Erika Nissens vei 3J, Domkirken og St. Petri",58.963598,5.705143
+998120,"Erika Nissens vei 3I, Domkirken og St. Petri",58.963558,5.704973
+998122,"Erika Nissens vei 3K, Domkirken og St. Petri",58.963645,5.705243
+998166,"Kirsten Flagstads vei 5B, Kampen",58.96885,5.708435
+998167,"Kirsten Flagstads vei 5A, Kampen",58.968842,5.708488
+998168,"Kirsten Flagstads vei 7B, Kampen",58.968927,5.707941
+998169,"Kirsten Flagstads vei 7A, Kampen",58.96891,5.707994
+998178,"Kirsten Flagstads vei 3B, Kampen",58.968779,5.708842
+998179,"Kirsten Flagstads vei 3A, Kampen",58.968772,5.708895
+998238,"Edvard Griegs vei 14A, Kampen",58.967965,5.707232
+998240,"Edvard Griegs vei 14B, Kampen",58.967913,5.707289
+998369,"Hans Gudes vei 21, Stokka",58.966117,5.695731
+998784,"Øvre Stokkavei 27B, Kampen",58.967005,5.707637
+998785,"Øvre Stokkavei 27A, Kampen",58.966929,5.707818
+998842,"Nedre Stokkavei 164B, Stokka",58.966399,5.686725
+998843,"Nedre Stokkavei 164A, Stokka",58.966389,5.686708
+999166,"Øvre Stokkavei 24D, Domkirken og St. Petri",58.966533,5.7085
+999167,"Øvre Stokkavei 24C, Domkirken og St. Petri",58.966585,5.708442
+999209,"Øvre Stokkavei 38, Domkirken og St. Petri",58.965479,5.704911
+999211,"Øvre Stokkavei 42A, Domkirken og St. Petri",58.965354,5.704592
+999212,"Øvre Stokkavei 40, Domkirken og St. Petri",58.965233,5.705109
+999213,"Øvre Stokkavei 42C, Domkirken og St. Petri",58.965223,5.704013
+999214,"Øvre Stokkavei 42B, Domkirken og St. Petri",58.965266,5.704288
+999218,"Dues vei 49, Domkirken og St. Petri",58.965714,5.705637
+999219,"Dues vei 45, Domkirken og St. Petri",58.965627,5.70575
+999220,"Dues vei 47, Domkirken og St. Petri",58.965661,5.705694
+999232,"Dues vei 51, Domkirken og St. Petri",58.96574,5.7056
+999511,"Øvre Stokkavei 14D, Domkirken og St. Petri",58.96703,5.709322
+999525,"Øvre Stokkavei 14C, Domkirken og St. Petri",58.967069,5.70944
+999526,"Øvre Stokkavei 14B, Domkirken og St. Petri",58.967079,5.709492
+999732,"Anne Grimdalens vei 1A, Stokka",58.967716,5.684823
+999735,"Anne Grimdalens vei 1D, Stokka",58.967554,5.685147
+1000396,"Halfdan Kjerulfs vei 21, Kampen",58.968539,5.703279
+1000397,"Halfdan Kjerulfs vei 19, Kampen",58.96838,5.703416
+1000409,"Halfdan Kjerulfs vei 17, Kampen",58.9682,5.703398
+1000555,"Øvre Stokkavei 25B, Kampen",58.967142,5.708076
+1000568,"Øvre Stokkavei 25A, Kampen",58.967071,5.708118
+1000728,"Johan Halvorsens vei 3, Kampen",58.966883,5.707457
+1000745,"Johan Halvorsens vei 8B, Kampen",58.967093,5.70688
+1000746,"Johan Halvorsens vei 16, Kampen",58.966581,5.706379
+1000753,"Johan Halvorsens vei 7, Kampen",58.967272,5.707194
+1000754,"Johan Halvorsens vei 5, Kampen",58.967108,5.707435
+1000755,"Johan Halvorsens vei 11, Kampen",58.967106,5.706304
+1000756,"Johan Halvorsens vei 6, Kampen",58.966929,5.706934
+1000757,"Johan Halvorsens vei 15, Kampen",58.966819,5.706431
+1000758,"Johan Halvorsens vei 13, Kampen",58.966992,5.706411
+1000759,"Johan Halvorsens vei 14, Kampen",58.966686,5.706724
+1000760,"Johan Halvorsens vei 8A, Kampen",58.967054,5.706744
+1001295,"Lars Utnes vei 9A, Stokka",58.968756,5.683661
+1001297,"Lars Utnes vei 9C, Stokka",58.968525,5.683753
+1001496,"Gustav Vigelands vei 28, Stokka",58.967526,5.686181
+1001536,"Nedre Stokkavei 5B, Kampen",58.968963,5.711105
+1001537,"Nedre Stokkavei 5A, Kampen",58.968958,5.710914
+1002204,"Kirsten Flagstads vei 12B, Kampen",58.968875,5.706971
+1002205,"Kirsten Flagstads vei 12A, Kampen",58.968843,5.707113
+1002442,"Halfdan Kjerulfs vei 23A, Kampen",58.9687,5.703246
+1002445,"Halfdan Kjerulfs vei 23B, Kampen",58.968726,5.703226
+1002459,"Nedre Stokkavei 73A, Stokka",58.968376,5.699361
+1002462,"Nedre Stokkavei 73B, Stokka",58.968423,5.699444
+1002939,"Øvre Stokkavei 23A, Kampen",58.967178,5.708455
+1002940,"Øvre Stokkavei 23B, Kampen",58.967185,5.708368
+1003246,"Byhaugveien 2, Kampen",58.969389,5.705965
+1003292,"Nedre Stokkavei 100A, Stokka",58.967102,5.693131
+1003293,"Nedre Stokkavei 100B, Stokka",58.967271,5.693063
+1003462,"Nedre Stokkavei 77B, Stokka",58.968374,5.698578
+1003475,"Nedre Stokkavei 77A, Stokka",58.968276,5.698605
+1003570,"Berberisveien 20B, Stokka",58.964995,5.694029
+1003571,"Berberisveien 20A, Stokka",58.964927,5.693844
+1004193,"Nedre Stokkavei 148, Stokka",58.966564,5.68791
+1004612,"Anne Grimdalens vei 1B, Stokka",58.967635,5.684813
+1004838,"Nedre Stokkavei 145, Stokka",58.966652,5.686074
+1004896,"Gustav Vigelands vei 34, Stokka",58.967862,5.683852
+1004897,"Gustav Vigelands vei 32, Stokka",58.967706,5.683014
+1004920,"Nedre Stokkavei 82B, Stokka",58.967732,5.697021
+1004921,"Nedre Stokkavei 82C, Stokka",58.967633,5.697031
+1004926,"Gustav Vigelands vei 36A, Stokka",58.967991,5.683265
+1004927,"Gustav Vigelands vei 36E, Stokka",58.967788,5.682728
+1004928,"Gustav Vigelands vei 36C, Stokka",58.967948,5.683008
+1004929,"Gustav Vigelands vei 36B, Stokka",58.967966,5.683006
+1004938,"August Jacobsens vei 8B, Stokka",58.968216,5.681173
+1004939,"August Jacobsens vei 8A, Stokka",58.968209,5.681243
+1004946,"Gustav Vigelands vei 36F, Stokka",58.967878,5.682702
+1004947,"Gustav Vigelands vei 36D, Stokka",58.967926,5.682836
+1005274,"Nedre Stokkavei 98, Stokka",58.96722,5.69352
+1005307,"Adolph Tidemands vei 14, Stokka",58.96674,5.69515
+1005497,"Adolph Tidemands vei 20, Stokka",58.966761,5.694352
+1005542,"Harriet Backers vei 30A, Stokka",58.967116,5.699656
+1005543,"Harriet Backers vei 30C, Stokka",58.967129,5.699463
+1005544,"Harriet Backers vei 30B, Stokka",58.967122,5.699551
+1005559,"Steingata 102A, Domkirken og St. Petri",58.966005,5.709664
+1005561,"Steingata 102C, Domkirken og St. Petri",58.965659,5.709836
+1005562,"Steingata 102B, Domkirken og St. Petri",58.965819,5.709786
+1005571,"Steingata 104F, Domkirken og St. Petri",58.965565,5.708958
+1005572,"Steingata 104E, Domkirken og St. Petri",58.965928,5.70948
+1005573,"Steingata 106A, Domkirken og St. Petri",58.96533,5.708562
+1005574,"Steingata 104G, Domkirken og St. Petri",58.965483,5.708948
+1005575,"Steingata 106C, Domkirken og St. Petri",58.965501,5.708563
+1005576,"Steingata 106B, Domkirken og St. Petri",58.965393,5.708574
+1005577,"Steingata 106E, Domkirken og St. Petri",58.965407,5.708433
+1005578,"Steingata 106D, Domkirken og St. Petri",58.965575,5.708313
+1005579,"Steingata 102E, Domkirken og St. Petri",58.965539,5.709726
+1005580,"Steingata 102D, Domkirken og St. Petri",58.965507,5.709537
+1005581,"Steingata 102G, Domkirken og St. Petri",58.965586,5.70946
+1005582,"Steingata 102F, Domkirken og St. Petri",58.965627,5.709665
+1005583,"Steingata 104B, Domkirken og St. Petri",58.96556,5.709115
+1005584,"Steingata 104A, Domkirken og St. Petri",58.965478,5.709105
+1005585,"Steingata 104D, Domkirken og St. Petri",58.965842,5.709279
+1005586,"Steingata 104C, Domkirken og St. Petri",58.965713,5.709135
+1005595,"Steingata 108A, Domkirken og St. Petri",58.965189,5.707967
+1005596,"Steingata 106F, Domkirken og St. Petri",58.965344,5.708422
+1005597,"Steingata 108C, Domkirken og St. Petri",58.965365,5.707828
+1005598,"Steingata 108B, Domkirken og St. Petri",58.965259,5.707908
+1005599,"Steingata 108E, Domkirken og St. Petri",58.965495,5.708007
+1005600,"Steingata 108D, Domkirken og St. Petri",58.965427,5.707805
+1005601,"Steingata 108G, Domkirken og St. Petri",58.965167,5.707812
+1005602,"Steingata 108F, Domkirken og St. Petri",58.965238,5.707771
+1005651,"Nedre Stokkavei 44, Kampen",58.969082,5.705576
+1005768,"Nedre Stokkavei 71B, Stokka",58.968442,5.699842
+1005769,"Nedre Stokkavei 71A, Stokka",58.968403,5.699724
+1005967,"Steingata 93, Domkirken og St. Petri",58.966548,5.710151
+1005969,"Steingata 95, Domkirken og St. Petri",58.966511,5.709755
+1006213,"Adolph Tidemands vei 16, Stokka",58.966705,5.694805
+1006372,"Ole Bulls vei 2A, Kampen",58.967813,5.710436
+1006387,"Ole Bulls vei 2B, Kampen",58.968061,5.710235
+1006580,"Adolph Tidemands vei 10A, Stokka",58.966828,5.695785
+1006583,"Adolph Tidemands vei 10B, Stokka",58.966746,5.695741
+1678446,"Erik Werenskiolds vei 14A, Stokka",58.965372,5.693735
+1680546,"Stokkabrautene 15, Stokka",58.966001,5.689869
+1680919,"Gustav Vigelands vei 62, Stokka",58.968336,5.678683
+1697405,"Øvre Stokkavei 8B, Domkirken og St. Petri",58.967828,5.7115
+1710290,"Nedre Stokkavei 120A, Stokka",58.966435,5.689587
+1722063,"Nedre Stokkavei 79B, Stokka",58.968215,5.697735
+1722064,"Nedre Stokkavei 79C, Stokka",58.968279,5.697701
+1794919,"Gustav Vigelands vei 29, Stokka",58.968073,5.686449
+1868756,"Konservator Helliesens gate 3, Domkirken og St. Petri",58.967009,5.710642
+1911594,"Theodor Kittelsens vei 1A, Stokka",58.966172,5.695046
+1943795,"Agathe Backer Grøndahls vei 15, Kampen",58.966204,5.705162
+1951513,"Stokkaeidet 63, Stokka",58.974008,5.682328
+1954565,"Hans Gudes vei 6B, Stokka",58.967244,5.698678
+1955246,"Steingata 94, Domkirken og St. Petri",58.96591,5.710771
+1955247,"Steingata 92, Domkirken og St. Petri",58.965957,5.710996
+1955248,"Steingata 90, Domkirken og St. Petri",58.966007,5.711233
+1955249,"Steingata 96, Domkirken og St. Petri",58.96586,5.710541
+1959894,"Berberisveien 17B, Stokka",58.964373,5.692919
+1965574,"Hans Gudes vei 13B, Stokka",58.966263,5.696847
+1975354,"Christian Skredsvigs vei 25, Stokka",58.963363,5.690878
+1988905,"Nedre Stokkavei 40, Kampen",58.96857,5.705112
+1989568,"Mathias Skeibroks vei 2, Stokka",58.96678,5.68666
+1991464,"Nedre Stokkavei 74C, Stokka",58.967805,5.69897
+1997590,"Nedre Stokkavei 23A, Kampen",58.96938,5.707748
+2012100,"Adolph Tidemands vei 12, Stokka",58.966784,5.695478
+2021861,"Øvre Stokkavei 29, Kampen",58.966701,5.707236
+2038954,"Torfæus' gate 88, Domkirken og St. Petri",58.968171,5.711937
+2067261,"Gustav Vigelands vei 88, Stokka",58.971207,5.678269
+2089177,"Øvre Stokkavei 28E, Domkirken og St. Petri",58.96636,5.70841
+2093003,"Stokkabrautene 25B, Stokka",58.964784,5.689777
+2186177,"Adolph Tidemands vei 9, Stokka",58.967242,5.695399
+2228242,"Hans Gudes vei 1A, Stokka",58.967975,5.69796
+2228342,"Hans Gudes vei 1C, Stokka",58.967724,5.698071
+2228407,"Hans Gudes vei 1B, Stokka",58.967861,5.698013
+2385256,"Anne Grimdalens vei 1C, Stokka",58.967501,5.685131
+2385261,"Anne Grimdalens vei 1G, Stokka",58.967507,5.685506
+2385336,"Anne Grimdalens vei 1E, Stokka",58.967526,5.685322
+2385337,"Anne Grimdalens vei 1F, Stokka",58.967517,5.685411
+2385338,"Anne Grimdalens vei 1H, Stokka",58.967499,5.685603
+2412828,"Gustav Vigelands vei 52B, Stokka",58.967346,5.679481
+2415103,"Nedre Stokkavei 49, Kampen",58.969259,5.704078
+2492514,"Stoltenbergs vei 6, Stokka",58.968871,5.681616

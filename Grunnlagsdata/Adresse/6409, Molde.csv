@@ -1,0 +1,807 @@
+,Navn,Long,Lat
+1068,"133/33, Molde Domkirke",62.738316,7.03337
+1136,"135/1-7, Molde Domkirke",62.753043,7.066524
+1178,"15/14, Aukra",62.771921,6.978808
+1179,"21/8, Aukra",62.750293,6.993369
+1180,"21/2/1, Aukra",62.761798,6.993547
+40410,"131/39-1, Molde Domkirke",62.752841,7.043401
+42705,"135/3-2, Molde Domkirke",62.748463,7.062236
+60664,"Jendemsbukta 136, Vågøy og Myrbostad",62.790074,6.984276
+60665,"Jendemsbukta 130, Vågøy og Myrbostad",62.790158,6.986237
+60666,"Jendemsbukta 128, Vågøy og Myrbostad",62.790003,6.986793
+60692,"Jendemsbukta 43, Vågøy og Myrbostad",62.788898,7.000772
+60693,"Jendemsbukta 74, Vågøy og Myrbostad",62.79078,6.990928
+60695,"Hoemsvegen 848, Vågøy og Myrbostad",62.790465,7.00917
+60696,"Jendemsbukta 21, Vågøy og Myrbostad",62.788352,7.004272
+60697,"Jendemsbukta 56, Vågøy og Myrbostad",62.790464,6.99724
+60700,"Jendemsbukta 17, Vågøy og Myrbostad",62.79001,7.004354
+60706,"Jendemsbukta 70, Vågøy og Myrbostad",62.791295,6.991815
+60707,"Jendemsbukta 147, Vågøy og Myrbostad",62.790281,6.982433
+60708,"Jendemsbukta 132, Vågøy og Myrbostad",62.790189,6.9854
+60709,"Jendemsbukta 102, Vågøy og Myrbostad",62.78889,6.98939
+60710,"Jendemsbukta 107, Vågøy og Myrbostad",62.787511,6.987759
+60726,"Hoemsvegen 827, Vågøy og Myrbostad",62.79166,7.006105
+60731,"Jendemsbukta 80, Vågøy og Myrbostad",62.789505,6.992172
+63814,"Hoemsvegen 847, Vågøy og Myrbostad",62.790743,7.009254
+63818,"Jendemsbukta 58, Vågøy og Myrbostad",62.790982,6.99819
+64049,"Jendemsbukta 45, Vågøy og Myrbostad",62.788724,7.001029
+64435,"Jendemsbukta 79, Vågøy og Myrbostad",62.786969,6.991121
+64582,"Trafovegen 16, Vågøy og Myrbostad",62.787371,7.008219
+118379,"Nybyggervegen 13, Vågøy og Myrbostad",62.785378,7.004644
+200943,"Barvegen 6, Molde Domkirke",62.728088,7.010335
+200944,"Haukabøvegen 57, Molde Domkirke",62.730445,7.035538
+200945,"Barvegen 2, Molde Domkirke",62.72823,7.011499
+200946,"Barvegen 18, Molde Domkirke",62.727883,7.015553
+200947,"Julsundvegen 722, Molde Domkirke",62.728275,7.02064
+200948,"Haukabøvegen 37, Molde Domkirke",62.729947,7.031009
+200949,"Haukabøvegen 85, Molde Domkirke",62.732892,7.040835
+200950,"Haukabøvegen 77, Molde Domkirke",62.731232,7.037892
+200951,"Haukabøvegen 91, Molde Domkirke",62.731872,7.040022
+200952,"Haukabøvegen 83, Molde Domkirke",62.732618,7.040031
+200953,"Haukabøvegen 87, Molde Domkirke",62.733679,7.041605
+200956,"Julsundvegen 724, Molde Domkirke",62.727297,7.023899
+201021,"Mordalslia 16, Molde Domkirke",62.733854,7.009203
+201022,"Mordalslia 69, Molde Domkirke",62.734775,7.015817
+201023,"Julsundvegen 770, Molde Domkirke",62.730974,7.004896
+201024,"Mordalslia 5, Molde Domkirke",62.733286,7.005856
+201025,"Julsundvegen 909, Molde Domkirke",62.732671,6.987125
+201026,"Mordalslia 61, Molde Domkirke",62.734369,7.014177
+201027,"Mordalslia 4, Molde Domkirke",62.732895,7.010559
+201028,"Julsundvegen 802, Molde Domkirke",62.732064,7.008971
+201029,"Julsundvegen 910, Molde Domkirke",62.731528,6.988398
+201030,"Julsundvegen 912, Molde Domkirke",62.731504,6.987306
+201031,"Julsundvegen 879, Molde Domkirke",62.732354,6.99398
+201032,"Julsundvegen 877, Molde Domkirke",62.732303,6.993612
+201033,"Barvegen 16, Molde Domkirke",62.727772,7.0147
+201034,"Julsundvegen 863, Molde Domkirke",62.732426,6.996717
+201035,"Barvegen 10, Molde Domkirke",62.727758,7.010474
+201044,"Gausetbuktvegen 31, Molde Domkirke",62.747301,6.996036
+201045,"Gausetbuktvegen 12, Molde Domkirke",62.749076,6.995024
+201046,"Julsundvegen 1089, Molde Domkirke",62.745124,6.99539
+201047,"Julsundvegen 1044, Molde Domkirke",62.741914,6.991354
+201048,"Julsundvegen 982, Molde Domkirke",62.736186,6.979452
+201049,"Julsundvegen 842, Molde Domkirke",62.732271,7.000777
+201050,"Julsundvegen 1042, Molde Domkirke",62.743477,6.991346
+201051,"Julsundvegen 980, Molde Domkirke",62.735746,6.98322
+205882,"Gausetbuktvegen 61, Molde Domkirke",62.748441,6.993808
+205883,"Gausetbuktvegen 39, Molde Domkirke",62.746032,6.99362
+206065,"Gausetbuktvegen 59, Molde Domkirke",62.748275,6.994094
+206156,"Barvegen 8, Molde Domkirke",62.728032,7.009575
+206220,"Barvegen 20, Molde Domkirke",62.727895,7.016224
+206242,"Barbuktvegen 4, Molde Domkirke",62.726307,7.012762
+206243,"Barbuktvegen 7, Molde Domkirke",62.725057,7.012364
+206244,"Gausetbuktvegen 65, Molde Domkirke",62.748731,6.993338
+206245,"Gausetbuktvegen 28, Molde Domkirke",62.748304,6.99556
+206246,"Julsundvegen 841, Molde Domkirke",62.732829,7.003401
+206247,"Gausetbuktvegen 32, Molde Domkirke",62.747947,6.995702
+206248,"Gausetbuktvegen 57, Molde Domkirke",62.747866,6.994376
+206249,"Gausetbuktvegen 51, Molde Domkirke",62.747011,6.994258
+206250,"Gausetbuktvegen 67, Molde Domkirke",62.748964,6.992696
+206251,"Gausetbuktvegen 53, Molde Domkirke",62.747525,6.99445
+206253,"Gausetbuktvegen 38, Molde Domkirke",62.747424,6.995522
+206254,"Julsundvegen 1034, Molde Domkirke",62.741391,6.989878
+206259,"Barbuktvegen 1, Molde Domkirke",62.727102,7.013776
+206260,"Barbuktvegen 3, Molde Domkirke",62.726707,7.01303
+206263,"Barbuktvegen 2, Molde Domkirke",62.726928,7.013367
+206264,"Barbuktvegen 6, Molde Domkirke",62.725356,7.012602
+206265,"Barbuktvegen 5, Molde Domkirke",62.72679,7.014349
+206266,"Barvegen 12, Molde Domkirke",62.726645,7.006753
+206638,"Gausetbuktvegen 64, Molde Domkirke",62.748973,6.993968
+206642,"Gausetbuktvegen 26, Molde Domkirke",62.748463,6.995315
+206653,"Julsundvegen 903, Molde Domkirke",62.732517,6.989057
+206987,"Gausetbuktvegen 66, Molde Domkirke",62.749211,6.993658
+207178,"Haukabøvegen 79, Molde Domkirke",62.731762,7.038542
+207257,"Haukabøvegen 89, Molde Domkirke",62.733769,7.042452
+207381,"Mordalslia 63, Molde Domkirke",62.734461,7.014662
+207420,"Gausetbuktvegen 24, Molde Domkirke",62.748775,6.995176
+207539,"Gausetbuktvegen 76, Molde Domkirke",62.749712,6.992861
+207541,"Gausetbuktvegen 75, Molde Domkirke",62.749476,6.992093
+207542,"Gausetbuktvegen 77, Molde Domkirke",62.749672,6.992002
+207603,"Julsundvegen 984, Molde Domkirke",62.73639,6.983685
+207705,"Julsundvegen 845, Molde Domkirke",62.7326,7.001851
+207706,"Mordalslia 7, Molde Domkirke",62.733363,7.006222
+207707,"Julsundvegen 840, Molde Domkirke",62.732204,7.000508
+207708,"Julsundvegen 900, Molde Domkirke",62.731225,6.992942
+207709,"Haukabøvegen 56, Molde Domkirke",62.729101,7.029952
+207710,"Haukabøvegen 52, Molde Domkirke",62.728754,7.027647
+207711,"Mordalslia 2, Molde Domkirke",62.733069,7.010446
+207712,"Haukabøvegen 54, Molde Domkirke",62.728859,7.028716
+207759,"Barbuktvegen 8, Molde Domkirke",62.724952,7.012111
+207871,"Gausetbuktvegen 70, Molde Domkirke",62.749459,6.99332
+208060,"Gausetbuktvegen 73, Molde Domkirke",62.749341,6.99267
+208062,"Gausetbuktvegen 80, Molde Domkirke",62.750008,6.992233
+208318,"Ramshaugen 3, Aukra",62.755358,6.994651
+208319,"Ramshaugen 2, Aukra",62.754677,6.994756
+208320,"Ramshaugen 1, Aukra",62.75522,6.994445
+208321,"Naustskaret 25, Aukra",62.756244,6.994473
+208323,"Naustskaret 23, Aukra",62.756193,6.994007
+208324,"Naustskaret 21, Aukra",62.756028,6.993822
+208325,"Naustskaret 19, Aukra",62.755809,6.993582
+208326,"Naustskaret 17, Aukra",62.755578,6.993324
+208327,"Naustskaret 15, Aukra",62.755331,6.993419
+208328,"Naustskaret 13, Aukra",62.755129,6.993687
+208329,"Naustskaret 11, Aukra",62.754915,6.9938
+208330,"Naustskaret 10, Aukra",62.756216,6.995043
+208331,"Naustskaret 9, Aukra",62.7547,6.993873
+208332,"Naustskaret 8, Aukra",62.755814,6.994541
+208333,"Naustskaret 7, Aukra",62.754468,6.993987
+208334,"Naustskaret 6, Aukra",62.755641,6.994338
+208335,"Naustskaret 5, Aukra",62.754237,6.99412
+208336,"Naustskaret 4, Aukra",62.755448,6.994057
+208337,"Naustskaret 2, Aukra",62.754357,6.994954
+208354,"Stormyra 15, Aukra",62.778104,6.987303
+208355,"Stormyra 12, Aukra",62.778404,6.987577
+208356,"Stormyra 10, Aukra",62.778459,6.988278
+208357,"Stormyra 8, Aukra",62.778682,6.988773
+208358,"Stormyra 6, Aukra",62.778807,6.989372
+208359,"Stormyra 4, Aukra",62.779254,6.989283
+208360,"Stormyra 3, Aukra",62.778583,6.990054
+208361,"Korsberget 16, Aukra",62.755178,6.99717
+208362,"Korsberget 15, Aukra",62.755853,6.996635
+208363,"Korsberget 13, Aukra",62.755437,6.996408
+208365,"Korsberget 12, Aukra",62.754885,6.996759
+208366,"Korsberget 11, Aukra",62.755235,6.996148
+208367,"Korsberget 10, Aukra",62.754693,6.996517
+208368,"Korsberget 9, Aukra",62.75507,6.995885
+208369,"Korsberget 8, Aukra",62.754554,6.996233
+208370,"Korsberget 7, Aukra",62.754871,6.9958
+208371,"Korsberget 6, Aukra",62.75437,6.995932
+208372,"Korsberget 5, Aukra",62.754671,6.995579
+208373,"Korsberget 4, Aukra",62.754161,6.995692
+208374,"Korsberget 3, Aukra",62.754497,6.995336
+208375,"Korsberget 2, Aukra",62.753995,6.995429
+208376,"Ramshaugen 14, Aukra",62.755962,6.996118
+208377,"Ramshaugen 12, Aukra",62.755546,6.995911
+208378,"Ramshaugen 10, Aukra",62.755337,6.99569
+208379,"Ramshaugen 9, Aukra",62.756072,6.99564
+208380,"Ramshaugen 8, Aukra",62.755145,6.995488
+208381,"Ramshaugen 7, Aukra",62.755822,6.995109
+208382,"Ramshaugen 6, Aukra",62.754972,6.995284
+208383,"Ramshaugen 5, Aukra",62.755585,6.994851
+208384,"Ramshaugen 4, Aukra",62.754798,6.99508
+208419,"Gausetbuktvegen 78, Molde Domkirke",62.749934,6.992708
+208421,"Gausetbuktvegen 69, Molde Domkirke",62.749176,6.993112
+208462,"Hollingsetervegen 39, Aukra",62.771996,6.987778
+208535,"Fangholvegen 12, Aukra",62.769499,6.997158
+208537,"Fangholvegen 10, Aukra",62.769296,6.996761
+208538,"Fangholvegen 8, Aukra",62.769429,6.996007
+208539,"Fangholvegen 6, Aukra",62.769128,6.995714
+208540,"Fangholvegen 4, Aukra",62.768723,6.995016
+208541,"Fangholvegen 2, Aukra",62.768859,6.994478
+208730,"Hollingsetervegen 46, Aukra",62.771249,6.986399
+208731,"Hollingsetervegen 32, Aukra",62.772621,6.983111
+208732,"Julsundet 256, Aukra",62.770789,6.994117
+208734,"Hollingsetervegen 15, Aukra",62.77387,6.989473
+208736,"Hollingsetervegen 17, Aukra",62.773497,6.989146
+208737,"Hollingsetervegen 21, Aukra",62.773231,6.988713
+208738,"Ingeborgs veg 35, Aukra",62.775525,6.985931
+208739,"Ingeborgs veg 33, Aukra",62.775579,6.986554
+208740,"Vikaneset 1, Aukra",62.783298,6.983871
+208741,"Vikaneset 2, Aukra",62.784127,6.984049
+208742,"Hollingsetervegen 18, Aukra",62.773657,6.987763
+208743,"Ingeborgs veg 8, Aukra",62.77651,6.988235
+208754,"Grønvollen 4, Aukra",62.777627,6.983474
+208755,"Grønvollen 2, Aukra",62.777793,6.98313
+208756,"Grønvollen 1, Aukra",62.777874,6.984437
+208761,"Hollingsetervegen 74, Aukra",62.770065,6.991535
+208762,"Hollingsetervegen 72, Aukra",62.770244,6.992072
+208763,"Skolebakken 15, Aukra",62.772855,6.995108
+208765,"Skolebakken 17, Aukra",62.772637,6.995574
+208766,"Skolebakken 19, Aukra",62.772852,6.996147
+208768,"Hollingsetervegen 43, Aukra",62.771455,6.988266
+208770,"Hollingsetervegen 41, Aukra",62.771752,6.987827
+208771,"Hollingsetervegen 63, Aukra",62.771242,6.991534
+208773,"Hollingsetervegen 45, Aukra",62.771568,6.989219
+208774,"Staurhaugen 9, Aukra",62.77792,6.985748
+208776,"Staurhaugen 7, Aukra",62.777956,6.986411
+208777,"Staurhaugen 5, Aukra",62.778175,6.986632
+208778,"Staurhaugen 3, Aukra",62.778525,6.986608
+208779,"Staurhaugen 2, Aukra",62.778341,6.985052
+208780,"Staurhaugen 1, Aukra",62.778558,6.985802
+208781,"Ørnetua 7, Aukra",62.777788,6.979661
+208782,"Ørnetua 5, Aukra",62.777801,6.980312
+208783,"Ørnetua 4, Aukra",62.778189,6.981319
+208784,"Ørnetua 3, Aukra",62.777852,6.981028
+208785,"Ørnetua 2, Aukra",62.778138,6.982204
+208786,"Ørnetua 1, Aukra",62.777827,6.981795
+208787,"Breiløkvegen 20, Aukra",62.777628,6.978554
+208788,"Breiløkvegen 18, Aukra",62.777617,6.979045
+208789,"Breiløkvegen 16, Aukra",62.777517,6.979542
+208790,"Breiløkvegen 14, Aukra",62.777526,6.980227
+208791,"Breiløkvegen 12, Aukra",62.777546,6.980951
+208792,"Breiløkvegen 10, Aukra",62.777696,6.981392
+208793,"Breiløkvegen 7, Aukra",62.777415,6.981862
+208794,"Breiløkvegen 6, Aukra",62.778288,6.982645
+208795,"Breiløkvegen 5, Aukra",62.777595,6.982477
+208796,"Breiløkvegen 4, Aukra",62.778334,6.983308
+208797,"Breiløkvegen 3, Aukra",62.778038,6.983995
+208798,"Breiløkvegen 2, Aukra",62.778439,6.983772
+208799,"Breiløkvegen 1, Aukra",62.778243,6.98451
+208849,"Vollskaret 15, Aukra",62.773907,6.992097
+208869,"Furuhaugen 5B, Aukra",62.779448,6.990612
+208870,"Furuhaugen 3B, Aukra",62.779219,6.990559
+208871,"Furuhaugen 3A, Aukra",62.779182,6.990464
+208878,"Stormyra 9, Aukra",62.778245,6.989038
+208882,"Vollskaret 21B, Aukra",62.774156,6.991237
+208884,"Vollskaret 21A, Aukra",62.774083,6.991223
+208886,"Vollskaret 6A, Aukra",62.773795,6.993006
+208888,"Vollskaret 6B, Aukra",62.773833,6.99318
+208899,"Korsberget 18I, Aukra",62.755984,6.998251
+208900,"Korsberget 18H, Aukra",62.755947,6.998215
+208901,"Korsberget 18G, Aukra",62.75592,6.998158
+208902,"Korsberget 18F, Aukra",62.755892,6.99812
+208903,"Korsberget 18E, Aukra",62.755696,6.997566
+208904,"Korsberget 18D, Aukra",62.755632,6.997531
+208905,"Korsberget 18C, Aukra",62.755605,6.997494
+208906,"Korsberget 18B, Aukra",62.755559,6.997438
+208907,"Korsberget 18A, Aukra",62.755532,6.997401
+208913,"Korsberget 26, Aukra",62.756091,6.997598
+208916,"Furuhaugen 6B, Aukra",62.779464,6.991385
+208917,"Furuhaugen 6A, Aukra",62.779471,6.991248
+208918,"Furuhaugen 5A, Aukra",62.779496,6.990725
+208973,"Stormyra 7, Aukra",62.77834,6.989384
+208975,"Stormyra 11, Aukra",62.778141,6.988653
+209000,"Furuhaugen 1, Aukra",62.778938,6.990363
+209041,"Korsberget 30, Aukra",62.756456,6.996731
+209042,"Korsberget 28, Aukra",62.756374,6.997285
+209043,"Furuhaugen 7, Aukra",62.779481,6.990071
+209046,"Hollingsetervegen 37, Aukra",62.771959,6.988349
+209047,"Fangholvegen 3, Aukra",62.769874,6.995115
+209048,"Fangholvegen 5, Aukra",62.769881,6.996231
+209049,"Fangholvegen 7, Aukra",62.770304,6.996947
+209050,"Fangholvegen 9, Aukra",62.770253,6.997528
+209051,"Fangholvegen 11, Aukra",62.769939,6.997128
+209052,"Fangholvegen 13, Aukra",62.769822,6.997744
+209053,"Fangholvegen 15, Aukra",62.770208,6.998384
+209054,"Vollskaret 13, Aukra",62.773462,6.992362
+209055,"Vollskaret 11, Aukra",62.77326,6.992004
+209056,"Vollskaret 7, Aukra",62.773118,6.991543
+209057,"Vollskaret 5, Aukra",62.773354,6.991076
+209059,"Vollskaret 3, Aukra",62.773147,6.991051
+209060,"Vollskaret 1, Aukra",62.772969,6.991142
+209061,"Vollskaret 8, Aukra",62.773886,6.993745
+209102,"Furuhaugen 2D, Aukra",62.778851,6.991449
+209104,"Furuhaugen 2C, Aukra",62.778887,6.991229
+209105,"Furuhaugen 2A, Aukra",62.778892,6.990934
+209116,"Stormyra 5, Aukra",62.778444,6.98975
+209118,"Furuhaugen 8, Aukra",62.779743,6.989555
+209119,"Skolebakken 7, Aukra",62.77263,6.992862
+209122,"Stormyra 2, Aukra",62.779184,6.990013
+209130,"Stormyra 13, Aukra",62.778038,6.988327
+209132,"Furuhaugen 10, Aukra",62.779493,6.988992
+209149,"Furuhaugen 2B, Aukra",62.778873,6.991113
+209167,"Hollingsetervegen 30, Aukra",62.772779,6.982885
+209197,"Fangholvegen 1, Aukra",62.769589,6.995252
+209200,"Furuhaugen 4, Aukra",62.779148,6.99125
+209202,"Stormyra 1, Aukra",62.778583,6.990642
+209203,"Vollskaret 23, Aukra",62.774234,6.991722
+209204,"Vollskaret 10, Aukra",62.774199,6.993645
+209206,"Vollskaret 12, Aukra",62.774106,6.992828
+209208,"Vollskaret 19, Aukra",62.773794,6.991105
+209209,"Vollskaret 17, Aukra",62.773829,6.991612
+856378,"Breiløkvegen 9B, Aukra",62.777257,6.983932
+856380,"Breiløkvegen 9A, Aukra",62.777354,6.98392
+856416,"Breiløkvegen 13A, Aukra",62.777114,6.98312
+856418,"Breiløkvegen 13B, Aukra",62.777014,6.983132
+1124801,"Plassvegen 10, Vågøy og Myrbostad",62.785638,7.006665
+1125263,"Breiløkvegen 31, Aukra",62.776727,6.978103
+1299604,"Nybyggervegen 17, Vågøy og Myrbostad",62.785543,7.003664
+1634864,"Hollingsbukta 18A, Aukra",62.774627,6.988351
+1634865,"Hollingsbukta 18B, Aukra",62.774574,6.988292
+1634866,"Hollingsbukta 20A, Aukra",62.774669,6.988184
+1634867,"Hollingsbukta 20B, Aukra",62.774627,6.988128
+1634868,"Hollingsbukta 14A, Aukra",62.774532,6.988688
+1634869,"Hollingsbukta 14B, Aukra",62.77449,6.988622
+1634870,"Hollingsbukta 16A, Aukra",62.774582,6.988506
+1634871,"Hollingsbukta 16B, Aukra",62.774549,6.988463
+1634872,"Hollingsbukta 22A, Aukra",62.774711,6.988009
+1634983,"Hollingsbukta 22B, Aukra",62.774658,6.987956
+1635109,"Hollingsbukta 28B, Aukra",62.774804,6.987495
+1635231,"Hollingsbukta 28A, Aukra",62.774835,6.987524
+1635237,"Hollingsbukta 24B, Aukra",62.774723,6.987794
+1635240,"Hollingsbukta 24A, Aukra",62.774759,6.987841
+1635242,"Hollingsbukta 26B, Aukra",62.774751,6.987631
+1635244,"Hollingsbukta 26A, Aukra",62.774793,6.987685
+1635296,"Breiløkvegen 41, Aukra",62.77724,6.977664
+1635601,"Hollingsbukta 32B, Aukra",62.774816,6.988343
+1635602,"Hollingsbukta 30B, Aukra",62.774948,6.98823
+1635603,"Hollingsbukta 32A, Aukra",62.774824,6.98843
+1635604,"Hollingsbukta 30A, Aukra",62.774958,6.988325
+1646901,"Breiløkvegen 39, Aukra",62.7772,6.978288
+1658617,"Breiløkvegen 37, Aukra",62.777159,6.978804
+1658697,"Breiløkvegen 35, Aukra",62.777088,6.979385
+1659314,"Breiløkvegen 33, Aukra",62.776846,6.9786
+1659379,"Hollingsbukta 46B, Aukra",62.775249,6.987049
+1659387,"Hollingsbukta 48A, Aukra",62.775263,6.986768
+1659389,"Hollingsbukta 48B, Aukra",62.775273,6.986894
+1659699,"Hollingsbukta 46A, Aukra",62.775204,6.98714
+1659724,"Hollingsbukta 50B, Aukra",62.775173,6.986447
+1659733,"Hollingsbukta 50A, Aukra",62.77513,6.986548
+1659736,"Hollingsbukta 52B, Aukra",62.775198,6.986298
+1659738,"Hollingsbukta 52A, Aukra",62.775189,6.986179
+1661720,"Breiløkvegen 47, Aukra",62.776637,6.976582
+1662088,"Breiløkvegen 43, Aukra",62.777088,6.977141
+1669388,"Trondvegen 3, Vågøy og Myrbostad",62.784552,7.00519
+1680869,"Julsundet 88, Aukra",62.757508,7.00126
+1680870,"Breiløkvegen 11B, Aukra",62.777028,6.984113
+1680871,"Breiløkvegen 11A, Aukra",62.777064,6.983634
+1681169,"Julsundet 158B, Aukra",62.763788,6.998909
+1681170,"Julsundet 158A, Aukra",62.763824,6.999024
+1681284,"Julsundet 148, Aukra",62.762732,6.999563
+1682466,"Julsundet 227, Aukra",62.768277,6.99082
+1682467,"Julsundet 233, Aukra",62.767808,6.991285
+1682468,"Julsundet 229, Aukra",62.768,6.99061
+1682470,"Julsundet 231, Aukra",62.767934,6.990932
+1687113,"Breiløkvegen 49, Aukra",62.77688,6.976324
+1712239,"Ingeborgs veg 19, Aukra",62.775844,6.988563
+1712240,"Ingeborgs veg 1, Aukra",62.775894,6.990335
+1712378,"Haukabøvegen 47, Molde Domkirke",62.730315,7.032949
+1712466,"Ingeborgs veg 17, Aukra",62.775663,6.988657
+1712468,"Ingeborgs veg 5, Aukra",62.775857,6.990958
+1712470,"Ingeborgs veg 6, Aukra",62.776598,6.988605
+1712472,"Ingeborgs veg 29, Aukra",62.775714,6.98735
+1712473,"Ingeborgs veg 3, Aukra",62.775904,6.990612
+1712477,"Ingeborgs veg 27, Aukra",62.775793,6.98794
+1712490,"Ingeborgs veg 21, Aukra",62.776031,6.988653
+1712495,"Ingeborgs veg 20, Aukra",62.77672,6.984214
+1712738,"Ingeborgs veg 23A, Aukra",62.776067,6.989084
+1712739,"Ingeborgs veg 25, Aukra",62.775992,6.989538
+1712741,"Ingeborgs veg 22, Aukra",62.776723,6.983348
+1712785,"Ingeborgs veg 43, Aukra",62.776091,6.986779
+1712786,"Ingeborgs veg 39, Aukra",62.775893,6.985816
+1712787,"Ingeborgs veg 41, Aukra",62.776128,6.985834
+1712941,"Ingeborgs veg 55, Aukra",62.77646,6.983467
+1712942,"Ingeborgs veg 57, Aukra",62.776403,6.982273
+1712943,"Ingeborgs veg 51, Aukra",62.776455,6.984889
+1712944,"Ingeborgs veg 53, Aukra",62.776401,6.984205
+1712945,"Ingeborgs veg 49, Aukra",62.776329,6.986135
+1714671,"Bjørkefaret 9, Vågøy og Myrbostad",62.785547,7.002348
+1714715,"Furualleen 17, Vågøy og Myrbostad",62.78604,6.99959
+1715198,"Bjørkefaret 11, Vågøy og Myrbostad",62.785393,7.002002
+1718940,"Plassvegen 2, Vågøy og Myrbostad",62.785257,7.005766
+1719006,"Furualleen 3, Vågøy og Myrbostad",62.78687,7.002145
+1719007,"Furualleen 5, Vågøy og Myrbostad",62.786659,7.001832
+1719008,"Bjørkefaret 3, Vågøy og Myrbostad",62.786345,7.002965
+1721853,"Elgfaret 1, Vågøy og Myrbostad",62.786027,7.003147
+1721887,"Elgfaret 3, Vågøy og Myrbostad",62.78622,7.003479
+1721888,"Furualleen 16, Vågøy og Myrbostad",62.786329,6.999241
+1721889,"Furualleen 15, Vågøy og Myrbostad",62.785652,6.999904
+1721890,"Furualleen 7, Vågøy og Myrbostad",62.786413,7.001578
+1721964,"Bjørkefaret 12, Vågøy og Myrbostad",62.785816,7.001275
+1723044,"Bjørkefaret 6, Vågøy og Myrbostad",62.786398,7.002289
+1729757,"Vollskaret 4, Aukra",62.773353,6.992907
+1742109,"Julsundet 87, Aukra",62.75787,7.00018
+1742414,"Julsundet 135, Aukra",62.761549,6.998736
+1742417,"Julsundet 111, Aukra",62.759798,6.999556
+1742763,"Julsundet 146, Aukra",62.762479,6.99979
+1742764,"Julsundet 150, Aukra",62.763205,6.999016
+1742765,"Julsundet 143, Aukra",62.762211,6.998574
+1742766,"Julsundet 145, Aukra",62.762468,6.99838
+1742767,"Julsundet 139, Aukra",62.762377,6.997642
+1742768,"Julsundet 141, Aukra",62.762128,6.997796
+1742769,"Julsundet 137, Aukra",62.761917,6.99685
+1742770,"Julsundet 156, Aukra",62.763593,6.999205
+1742771,"Julsundet 164, Aukra",62.764052,6.998645
+1742861,"Julsundet 39, Aukra",62.754075,6.992231
+1742862,"Julsundet 109, Aukra",62.759272,7.000281
+1742864,"Julsundet 86, Aukra",62.75696,7.001031
+1742865,"Julsundet 80, Aukra",62.75642,7.00045
+1742893,"Julsundet 235, Aukra",62.769983,6.992677
+1743181,"Julsundet 382, Aukra",62.780424,6.976745
+1743183,"Julsundet 450, Aukra",62.778077,6.976496
+1743185,"Julsundet 452, Aukra",62.778012,6.976476
+1743187,"Julsundet 456, Aukra",62.778094,6.975974
+1743204,"Julsundet 239, Aukra",62.769551,6.989056
+1743215,"Julsundet 378, Aukra",62.779813,6.980009
+1743216,"Julsundet 355, Aukra",62.779531,6.992114
+1743217,"Julsundet 380, Aukra",62.779786,6.978552
+1743237,"Julsundet 277, Aukra",62.773041,6.989035
+1743238,"Julsundet 319, Aukra",62.776761,6.990905
+1743239,"Julsundet 320, Aukra",62.777252,6.993114
+1743240,"Tausahaugvegen 2, Aukra",62.779873,6.994886
+1743241,"Tausahaugvegen 4, Aukra",62.779942,6.994019
+1743263,"Tausahaugvegen 6, Aukra",62.780532,6.995246
+1743264,"Tausahaugvegen 10, Aukra",62.780683,6.99585
+1743430,"Hollingsbukta 4D, Aukra",62.774553,6.989282
+1743431,"Hollingsbukta 6A, Aukra",62.774612,6.989468
+1743433,"Hollingsbukta 6B, Aukra",62.774673,6.989577
+1743434,"Hollingsbukta 6D, Aukra",62.774696,6.989495
+1743437,"Hollingsbukta 4A, Aukra",62.774467,6.989272
+1743438,"Hollingsbukta 4B, Aukra",62.774516,6.989354
+1743439,"Hollingsbukta 4C, Aukra",62.774498,6.989175
+1743503,"Hollingsbukta 2A, Aukra",62.774387,6.989147
+1743505,"Hollingsbukta 2B, Aukra",62.774417,6.989058
+1743507,"Hollingsbukta 6C, Aukra",62.774633,6.989405
+1743584,"Julsundet 129, Aukra",62.760668,6.999932
+1757973,"Ingeborgs veg 23B, Aukra",62.776064,6.989353
+1758114,"Breiløkvegen 45, Aukra",62.77687,6.977213
+1772807,"Nybyggervegen 14, Vågøy og Myrbostad",62.78572,7.00497
+1774078,"Nybyggervegen 20, Vågøy og Myrbostad",62.785784,7.004301
+1774126,"Elgfaret 2, Vågøy og Myrbostad",62.785898,7.003736
+1776149,"Furualleen 14, Vågøy og Myrbostad",62.78638,6.999633
+1786968,"Nybyggervegen 16, Vågøy og Myrbostad",62.785872,7.005375
+1793107,"Bjørkefaret 14, Vågøy og Myrbostad",62.785655,7.0009
+1793108,"Bjørkefaret 10, Vågøy og Myrbostad",62.785959,7.001601
+1807630,"Hollingsbukta 10D, Aukra",62.774912,6.990165
+1807790,"Breiløkvegen 23B, Aukra",62.777032,6.98033
+1807792,"Hollingsbukta 10B, Aukra",62.774949,6.990035
+1807793,"Hollingsbukta 10A, Aukra",62.774981,6.9901
+1807795,"Hollingsbukta 8, Aukra",62.775008,6.989888
+1807796,"Hollingsbukta 10C, Aukra",62.774947,6.990217
+1807802,"Breiløkvegen 23A, Aukra",62.777114,6.980505
+1814195,"Seljetunet 24, Vågøy og Myrbostad",62.784632,7.007506
+1814388,"Seljetunet 4, Vågøy og Myrbostad",62.784893,7.006631
+1814389,"Seljetunet 8, Vågøy og Myrbostad",62.785116,7.007059
+1825885,"Bjørkefaret 15, Vågøy og Myrbostad",62.785322,7.001115
+1826011,"Bjørkefaret 13, Vågøy og Myrbostad",62.785214,7.001714
+1826090,"Furualleen 11, Vågøy og Myrbostad",62.786032,7.000684
+1834640,"Einetunet 5, Vågøy og Myrbostad",62.784244,7.006683
+1834641,"Einetunet 3, Vågøy og Myrbostad",62.78436,7.006812
+1834673,"Einetunet 19, Vågøy og Myrbostad",62.784693,7.006059
+1834674,"Einetunet 17, Vågøy og Myrbostad",62.78459,7.005811
+1834675,"Einetunet 15, Vågøy og Myrbostad",62.784467,7.005674
+1834676,"Einetunet 13, Vågøy og Myrbostad",62.784365,7.005563
+1834677,"Einetunet 21, Vågøy og Myrbostad",62.784612,7.006482
+1834708,"Einetunet 11, Vågøy og Myrbostad",62.78432,7.005923
+1834709,"Einetunet 9, Vågøy og Myrbostad",62.784255,7.006241
+1834710,"Einetunet 7, Vågøy og Myrbostad",62.784157,7.006534
+1843078,"Fangholvegen 3A, Aukra",62.770275,6.996033
+1843079,"Fangholvegen 3B, Aukra",62.770338,6.996118
+1843908,"Nybyggervegen 15, Vågøy og Myrbostad",62.78545,7.004157
+1847482,"Jendemsbukta 120, Vågøy og Myrbostad",62.789743,6.987819
+1848547,"Trafovegen 9, Vågøy og Myrbostad",62.787465,7.009704
+1856294,"Hollingsetervegen 35B, Aukra",62.771931,6.988831
+1861958,"Ingeborgs veg 7A, Aukra",62.775255,6.990289
+1861968,"Ingeborgs veg 7B, Aukra",62.775279,6.99018
+1862450,"Bjørkefaret 2, Vågøy og Myrbostad",62.786648,7.002607
+1862672,"Ingeborgs veg 15A, Aukra",62.775423,6.990539
+1862737,"Ingeborgs veg 11B, Aukra",62.775368,6.990321
+1862740,"Ingeborgs veg 11A, Aukra",62.775346,6.990406
+1862742,"Ingeborgs veg 13B, Aukra",62.775408,6.990389
+1862744,"Ingeborgs veg 13A, Aukra",62.77538,6.990473
+1862746,"Ingeborgs veg 9B, Aukra",62.775334,6.990227
+1862748,"Ingeborgs veg 9A, Aukra",62.7753,6.990356
+1873953,"Bygdavegen 85, Vågøy og Myrbostad",62.7907,7.010582
+1874067,"Bygdavegen 2, Vågøy og Myrbostad",62.792293,7.024221
+1874081,"Bygdavegen 72, Vågøy og Myrbostad",62.792346,7.01204
+1874083,"Bygdavegen 54, Vågøy og Myrbostad",62.791521,7.015331
+1874086,"Bygdavegen 46, Vågøy og Myrbostad",62.791289,7.017935
+1874088,"Bygdavegen 28, Vågøy og Myrbostad",62.79086,7.020631
+1874090,"Bygdavegen 13, Vågøy og Myrbostad",62.789875,7.023364
+1874091,"Bygdavegen 7, Vågøy og Myrbostad",62.789676,7.023906
+1874092,"Bygdavegen 5, Vågøy og Myrbostad",62.789421,7.024276
+1874093,"Bygdavegen 24, Vågøy og Myrbostad",62.790759,7.022383
+1874795,"Tyttebærvegen 3, Aukra",62.784181,6.998631
+1874803,"Torhaugvegen 27, Aukra",62.783678,6.996627
+1874852,"Lauvåsvegen 69, Aukra",62.777458,7.005634
+1874854,"Lauvåsvegen 77, Aukra",62.778137,7.005373
+1874855,"Lauvåsvegen 80, Aukra",62.778599,7.005047
+1874857,"Torhaugvegen 48, Aukra",62.78516,6.994134
+1874873,"Torhaugvegen 38, Aukra",62.784667,6.996736
+1876443,"Hollingsbukta 13, Aukra",62.774069,6.985814
+1876446,"Hollingsbukta 21, Aukra",62.77431,6.984446
+1876451,"Hollingsbukta 19, Aukra",62.774555,6.985272
+1876453,"Hollingsbukta 54, Aukra",62.775196,6.985612
+1876456,"Hollingsbukta 58, Aukra",62.775033,6.9842
+1878477,"Furualleen 12, Vågøy og Myrbostad",62.786437,7.000186
+1878478,"Furualleen 10, Vågøy og Myrbostad",62.786524,7.000665
+1878801,"Hollingsbukta 23, Aukra",62.773969,6.984028
+1878802,"Julsundet 250, Aukra",62.77229,6.996381
+1878803,"Julsundet 252, Aukra",62.771495,6.994789
+1878805,"Julsundet 246, Aukra",62.773242,6.998982
+1878806,"Julsundet 240, Aukra",62.7711,6.99605
+1879643,"Naustskaret 3, Aukra",62.753706,6.994645
+1903078,"Gausetbuktvegen 47, Molde Domkirke",62.746648,6.99451
+1905591,"Breiløkvegen 21A, Aukra",62.777122,6.980882
+1930686,"Korsberget 19, Aukra",62.756227,6.9963
+1934920,"Hollingsetervegen 35A, Aukra",62.771934,6.98905
+1940606,"Trafovegen 12, Vågøy og Myrbostad",62.787754,7.008948
+1942885,"Torhaugvegen 41B, Aukra",62.783941,6.994562
+1942886,"Torhaugvegen 41A, Aukra",62.783864,6.99461
+1945205,"Jendemsbukta 25, Vågøy og Myrbostad",62.787503,7.004392
+1946364,"Gausetbuktvegen 6, Molde Domkirke",62.749688,6.993886
+1946369,"Gausetbuktvegen 2, Molde Domkirke",62.750094,6.993459
+1953575,"Breiløkvegen 17D, Aukra",62.777087,6.981605
+1953686,"Breiløkvegen 17C, Aukra",62.777062,6.981678
+1953711,"Breiløkvegen 17B, Aukra",62.776997,6.98164
+1953712,"Breiløkvegen 17A, Aukra",62.776988,6.981547
+1954864,"Breiløkvegen 15C, Aukra",62.777082,6.982339
+1954865,"Breiløkvegen 15D, Aukra",62.777078,6.982234
+1954866,"Breiløkvegen 15A, Aukra",62.777,6.982237
+1954867,"Breiløkvegen 15B, Aukra",62.777006,6.982351
+1959154,"Ingeborgs veg 15B, Aukra",62.775463,6.990423
+1968290,"Depelhaugvegen 5, Aukra",62.782882,6.997841
+1969151,"Julsundet 206, Aukra",62.7672,6.995323
+1972723,"Torhaugvegen 25, Aukra",62.783497,6.997737
+1973624,"Depelhaugvegen 13, Aukra",62.782595,6.996281
+1979847,"Depelhaugvegen 3, Aukra",62.782882,6.998278
+1980511,"Depelhaugvegen 14, Aukra",62.783072,6.995264
+1980512,"Julsundet 200, Aukra",62.766833,6.995442
+1982363,"Depelhaugvegen 7, Aukra",62.782889,6.997291
+1985184,"Depelhaugvegen 11, Aukra",62.782875,6.996122
+1985254,"Breiløkvegen 21B, Aukra",62.777187,6.980833
+1987967,"Jendemsbukta 124, Vågøy og Myrbostad",62.789536,6.988876
+1987980,"Jendemsbukta 122, Vågøy og Myrbostad",62.789637,6.988396
+1988219,"Depelhaugvegen 6, Aukra",62.783312,6.997146
+1988220,"Depelhaugvegen 16, Aukra",62.78304,6.995053
+1990989,"Depelhaugvegen 8, Aukra",62.783611,6.995845
+1995613,"Depelhaugvegen 1B, Aukra",62.782877,6.998702
+1995676,"Torhaugvegen 31, Aukra",62.783938,6.997073
+1995738,"Torhaugvegen 29, Aukra",62.78373,6.997199
+1996086,"Torhaugvegen 51B, Aukra",62.784331,6.99601
+1996087,"Torhaugvegen 51A, Aukra",62.784328,6.995883
+1996088,"Torhaugvegen 49B, Aukra",62.784306,6.995545
+2003389,"Depelhaugvegen 12, Aukra",62.783245,6.995169
+2003938,"Depelhaugvegen 22, Aukra",62.782327,6.995683
+2004025,"Julsundet 237B, Aukra",62.769987,6.992007
+2004026,"Julsundet 237A, Aukra",62.769918,6.991753
+2006435,"Åndalsbakken 7, Vågøy og Myrbostad",62.788827,7.024271
+2007284,"Furualleen 18, Vågøy og Myrbostad",62.786304,6.999117
+2009956,"Depelhaugvegen 2A, Aukra",62.783247,6.998162
+2009957,"Depelhaugvegen 2B, Aukra",62.783244,6.997942
+2011561,"Depelhaugvegen 20B, Aukra",62.782494,6.995562
+2011562,"Depelhaugvegen 20A, Aukra",62.782612,6.995492
+2013209,"Furualleen 6, Vågøy og Myrbostad",62.786878,7.001423
+2018860,"Bygdavegen 48, Vågøy og Myrbostad",62.791892,7.018506
+2020299,"Depelhaugvegen 10B, Aukra",62.783471,6.995134
+2020478,"Julsundet 133, Aukra",62.761602,6.998489
+2029634,"Langnesvegen 25, Aukra",62.764158,6.995319
+2030733,"Langnesvegen 18, Aukra",62.763967,6.993425
+2030735,"Langnesvegen 45, Aukra",62.763437,6.991763
+2030736,"Langnesvegen 37, Aukra",62.763525,6.99389
+2030737,"Langnesvegen 39, Aukra",62.763509,6.993243
+2030738,"Langnesvegen 41, Aukra",62.763454,6.992735
+2030739,"Langnesvegen 43, Aukra",62.763454,6.992238
+2030740,"Langnesvegen 16, Aukra",62.764002,6.993956
+2030777,"Langnesvegen 29, Aukra",62.76372,6.995141
+2030778,"Langnesvegen 27, Aukra",62.76391,6.994761
+2030803,"Langnesvegen 21, Aukra",62.763778,6.996179
+2030804,"Langnesvegen 31, Aukra",62.763536,6.995596
+2030839,"Langnesvegen 19, Aukra",62.763505,6.997222
+2035042,"Langnesvegen 10, Aukra",62.764433,6.994749
+2035099,"Langnesvegen 8, Aukra",62.764392,6.994874
+2040219,"Mevoldvegen 10, Aukra",62.764195,6.996423
+2058634,"Gausetbuktvegen 81, Molde Domkirke",62.75006,6.99186
+2058651,"Gausetbuktvegen 84, Molde Domkirke",62.750234,6.992014
+2060067,"Langnesvegen 1B, Aukra",62.764437,6.995954
+2062500,"Gausetbuktvegen 35, Molde Domkirke",62.746448,6.995796
+2062501,"Gausetbuktvegen 43, Molde Domkirke",62.74638,6.994158
+2062503,"Gausetbuktvegen 34, Molde Domkirke",62.747657,6.995628
+2064628,"Furualleen 8, Vågøy og Myrbostad",62.786705,7.001035
+2070021,"Bjørkefaret 7, Vågøy og Myrbostad",62.785769,7.002261
+2070241,"Julsundet 115, Aukra",62.75931,6.998271
+2070253,"Julsundet 117, Aukra",62.759255,6.997682
+2070255,"Julsundet 113, Aukra",62.759597,6.998001
+2070257,"Julsundet 119, Aukra",62.759127,6.998033
+2070458,"Langnesvegen 6A, Aukra",62.764629,6.995169
+2070459,"Langnesvegen 4A, Aukra",62.764677,6.995288
+2070460,"Langnesvegen 4B, Aukra",62.764604,6.995442
+2070712,"Mevoldvegen 2, Aukra",62.764804,6.995435
+2070890,"Langnesvegen 3B, Aukra",62.764344,6.995921
+2070922,"Langnesvegen 3A, Aukra",62.764395,6.995802
+2081243,"Julsundvegen 726, Molde Domkirke",62.72803,7.01997
+2081279,"Julsundvegen 901, Molde Domkirke",62.732406,6.990401
+2081496,"Julsundvegen 1059, Molde Domkirke",62.743499,6.993952
+2081498,"Julsundvegen 1030, Molde Domkirke",62.740806,6.989008
+2083268,"Julsundvegen 905, Molde Domkirke",62.732315,6.988846
+2083269,"Julsundvegen 907, Molde Domkirke",62.732394,6.988114
+2086820,"Åndalsbakken 2, Vågøy og Myrbostad",62.786988,7.015205
+2090853,"Fossvegen 14, Aukra",62.784873,7.001111
+2090897,"Fossvegen 8, Aukra",62.784643,6.999238
+2092547,"Tyttebærvegen 5, Aukra",62.784446,6.999504
+2092650,"Tyttebærvegen 14, Aukra",62.784335,7.0002
+2092651,"Tyttebærvegen 12, Aukra",62.784244,6.999754
+2092667,"Tyttebærvegen 10, Aukra",62.784067,6.999407
+2092709,"Fossvegen 6, Aukra",62.784518,6.998569
+2092710,"Myrullvegen 2, Aukra",62.783197,6.999345
+2092712,"Myrullvegen 9, Aukra",62.783736,6.999915
+2092714,"Fossvegen 12, Aukra",62.784837,7.000452
+2092715,"Myrullvegen 7, Aukra",62.783651,6.99965
+2092716,"Torhaugvegen 34, Aukra",62.78408,6.99773
+2092717,"Myrullvegen 5, Aukra",62.783567,6.999397
+2092719,"Tyttebærvegen 7, Aukra",62.784542,6.999994
+2092720,"Tyttebærvegen 9, Aukra",62.784562,7.00053
+2092721,"Tyttebærvegen 11, Aukra",62.784559,7.001
+2092722,"Tyttebærvegen 18, Aukra",62.784389,7.001214
+2092723,"Tyttebærvegen 16, Aukra",62.78431,7.000709
+2092731,"Tyttebærvegen 6, Aukra",62.783861,6.998954
+2092732,"Tyttebærvegen 8, Aukra",62.783969,6.999183
+2092733,"Myrullvegen 3, Aukra",62.783494,6.999113
+2092734,"Myrullvegen 1, Aukra",62.783409,6.998882
+2092735,"Tyttebærvegen 2, Aukra",62.783678,6.998445
+2092736,"Tyttebærvegen 4, Aukra",62.783787,6.998701
+2092748,"Trondselvvegen 32, Aukra",62.783931,7.004518
+2092749,"Trondselvvegen 30, Aukra",62.784089,7.004815
+2092750,"Trondselvvegen 42, Aukra",62.784324,7.004005
+2092754,"Trondselvvegen 44, Aukra",62.784242,7.004373
+2092755,"Trondselvvegen 38, Aukra",62.784221,7.003492
+2092756,"Trondselvvegen 40, Aukra",62.784443,7.003501
+2092757,"Trondselvvegen 17, Aukra",62.7831,7.000585
+2092942,"Trondselvvegen 27, Aukra",62.783488,7.002304
+2092943,"Trondselvvegen 1, Aukra",62.782934,6.999695
+2092949,"Trondselvvegen 35, Aukra",62.783615,7.003597
+2092950,"Trondselvvegen 33, Aukra",62.783689,7.003011
+2092951,"Trondselvvegen 31, Aukra",62.783447,7.003138
+2092952,"Trondselvvegen 29, Aukra",62.783304,7.002421
+2092953,"Trondselvvegen 36, Aukra",62.78399,7.003784
+2092954,"Trondselvvegen 34, Aukra",62.783781,7.004075
+2092955,"Trondselvvegen 39, Aukra",62.784028,7.003111
+2092956,"Trondselvvegen 37, Aukra",62.783809,7.00336
+2093837,"Torhaugvegen 42, Aukra",62.785078,6.99645
+2093838,"Torhaugvegen 40, Aukra",62.784919,6.996577
+2095584,"Åndalsbakken 4, Vågøy og Myrbostad",62.786842,7.015493
+2097929,"Torhaugvegen 50, Aukra",62.786373,6.993165
+2107024,"Julsundvegen 728, Molde Domkirke",62.727868,7.022614
+2167434,"Langnesvegen 32, Aukra",62.76383,6.992347
+2167527,"Langnesvegen 20, Aukra",62.763981,6.993248
+2167528,"Langnesvegen 28, Aukra",62.764026,6.992634
+2167530,"Langnesvegen 26, Aukra",62.763981,6.992923
+2167533,"Langnesvegen 30, Aukra",62.76386,6.992349
+2167534,"Langnesvegen 34, Aukra",62.763811,6.992421
+2167597,"Langnesvegen 22, Aukra",62.764079,6.992742
+2167599,"Langnesvegen 38, Aukra",62.763783,6.993052
+2167600,"Langnesvegen 42, Aukra",62.763737,6.993282
+2167621,"Langnesvegen 44, Aukra",62.76372,6.992911
+2167644,"Langnesvegen 24, Aukra",62.764057,6.992918
+2167646,"Langnesvegen 36, Aukra",62.763846,6.992505
+2167647,"Langnesvegen 40, Aukra",62.763775,6.993141
+2256884,"Åndalsbakken 8, Vågøy og Myrbostad",62.786449,7.01609
+2353429,"Åndalsbakken 22, Vågøy og Myrbostad",62.78592,7.016918
+2353444,"Åndalsbakken 16, Vågøy og Myrbostad",62.786156,7.016904
+2353451,"Åndalsbakken 24, Vågøy og Myrbostad",62.785903,7.016948
+2353452,"Åndalsbakken 26, Vågøy og Myrbostad",62.785894,7.016829
+2353453,"Åndalsbakken 18, Vågøy og Myrbostad",62.786138,7.016844
+2353454,"Åndalsbakken 14, Vågøy og Myrbostad",62.786187,7.016772
+2354221,"Åndalsbakken 6, Vågøy og Myrbostad",62.786699,7.015797
+2361726,"Haukabøvegen 71, Molde Domkirke",62.731086,7.037082
+2367760,"Barvegen 14, Molde Domkirke",62.727328,7.012646
+2374985,"Åndalsbakken 10A, Vågøy og Myrbostad",62.786269,7.016447
+2374986,"Åndalsbakken 10B, Vågøy og Myrbostad",62.786235,7.016375
+2376073,"Haukabøvegen 73, Molde Domkirke",62.731035,7.036741
+2376104,"Åndalsbakken 11, Vågøy og Myrbostad",62.786947,7.016696
+2376105,"Åndalsbakken 9, Vågøy og Myrbostad",62.786861,7.016552
+2376136,"Åndalsbakken 3, Vågøy og Myrbostad",62.787277,7.016099
+2376137,"Åndalsbakken 1, Vågøy og Myrbostad",62.787202,7.015916
+2376138,"Åndalsbakken 5B, Vågøy og Myrbostad",62.787135,7.016387
+2376151,"Åndalsbakken 5A, Vågøy og Myrbostad",62.787043,7.016238
+2382699,"Trafovegen 13, Vågøy og Myrbostad",62.787101,7.008749
+2389223,"Nybyggervegen 4, Vågøy og Myrbostad",62.785049,7.006166
+2389258,"Trafovegen 11, Vågøy og Myrbostad",62.787342,7.009338
+2389263,"Hoemsvegen 864, Vågøy og Myrbostad",62.789209,7.011173
+2389270,"Hoemsvegen 892, Vågøy og Myrbostad",62.786993,7.012444
+2389271,"Hoemsvegen 878, Vågøy og Myrbostad",62.788315,7.011712
+2389274,"Hoemsvegen 870, Vågøy og Myrbostad",62.789085,7.009097
+2389275,"Hoemsvegen 868, Vågøy og Myrbostad",62.789055,7.009791
+2389305,"Trafovegen 10, Vågøy og Myrbostad",62.787784,7.009485
+2389307,"Trafovegen 14, Vågøy og Myrbostad",62.787578,7.008571
+2389308,"Storelvvegen 9, Vågøy og Myrbostad",62.787787,7.010955
+2389310,"Trafovegen 8, Vågøy og Myrbostad",62.787806,7.010405
+2389312,"Kvernhushaugen 16, Vågøy og Myrbostad",62.786665,7.007437
+2389313,"Kvernhushaugen 17, Vågøy og Myrbostad",62.78694,7.006895
+2389314,"Kvernhushaugen 14, Vågøy og Myrbostad",62.786624,7.00695
+2389315,"Kvernhushaugen 15, Vågøy og Myrbostad",62.786851,7.006313
+2389316,"Småskara 3, Vågøy og Myrbostad",62.786406,7.007911
+2389317,"Småskara 4, Vågøy og Myrbostad",62.786101,7.00852
+2389318,"Småskara 1, Vågøy og Myrbostad",62.7863,7.007369
+2389319,"Småskara 2, Vågøy og Myrbostad",62.786033,7.007989
+2389320,"Småskara 7, Vågøy og Myrbostad",62.786715,7.008792
+2389321,"Småskara 8, Vågøy og Myrbostad",62.786411,7.009519
+2389322,"Småskara 5, Vågøy og Myrbostad",62.786609,7.00825
+2389323,"Småskara 6, Vågøy og Myrbostad",62.786241,7.008922
+2389324,"Småskara 13, Vågøy og Myrbostad",62.786757,7.01177
+2389325,"Småskara 15, Vågøy og Myrbostad",62.78652,7.012158
+2389326,"Småskara 9, Vågøy og Myrbostad",62.786776,7.009278
+2389327,"Småskara 11, Vågøy og Myrbostad",62.786996,7.009616
+2389328,"Torveplassen 3, Vågøy og Myrbostad",62.787396,7.010589
+2389329,"Torveplassen 4, Vågøy og Myrbostad",62.787177,7.010977
+2389330,"Torveplassen 1, Vågøy og Myrbostad",62.786751,7.010084
+2389331,"Torveplassen 2, Vågøy og Myrbostad",62.787075,7.01014
+2389333,"Torveplassen 8, Vågøy og Myrbostad",62.786678,7.010618
+2389335,"Torveplassen 6, Vågøy og Myrbostad",62.787003,7.01138
+2389336,"Torveplassen 7, Vågøy og Myrbostad",62.786694,7.011107
+2389340,"Porsmyra 1, Vågøy og Myrbostad",62.785723,7.008487
+2389341,"Porsmyra 2, Vågøy og Myrbostad",62.785365,7.009178
+2389342,"Porsmyra 5, Vågøy og Myrbostad",62.786163,7.009731
+2389343,"Porsmyra 6, Vågøy og Myrbostad",62.785821,7.010303
+2389344,"Porsmyra 3, Vågøy og Myrbostad",62.78584,7.009147
+2389346,"Porsmyra 4, Vågøy og Myrbostad",62.785533,7.009676
+2389347,"Porsmyra 10, Vågøy og Myrbostad",62.786222,7.011374
+2389348,"Kvernhushaugen 1, Vågøy og Myrbostad",62.785113,7.008489
+2389350,"Porsmyra 7, Vågøy og Myrbostad",62.786353,7.010483
+2389352,"Porsmyra 8, Vågøy og Myrbostad",62.786035,7.010858
+2389353,"Kvernhushaugen 7, Vågøy og Myrbostad",62.785917,7.006984
+2389356,"Kvernhushaugen 12, Vågøy og Myrbostad",62.786423,7.006577
+2389359,"Kvernhushaugen 3, Vågøy og Myrbostad",62.785409,7.007869
+2389360,"Kvernhushaugen 5, Vågøy og Myrbostad",62.785622,7.007541
+2389431,"Trondvegen 13, Vågøy og Myrbostad",62.785026,7.003044
+2389432,"Trondvegen 8, Vågøy og Myrbostad",62.785173,7.003781
+2389433,"Trondvegen 10, Vågøy og Myrbostad",62.7853,7.00332
+2389434,"Trondvegen 4, Vågøy og Myrbostad",62.784971,7.004832
+2389435,"Trondvegen 9, Vågøy og Myrbostad",62.784763,7.003874
+2389436,"Plassvegen 4, Vågøy og Myrbostad",62.785437,7.00614
+2389437,"Trondvegen 6, Vågøy og Myrbostad",62.785082,7.004433
+2389438,"Trondvegen 7, Vågøy og Myrbostad",62.784658,7.004285
+2389440,"Bakketeigen 5, Vågøy og Myrbostad",62.787391,7.014668
+2389444,"Nybyggervegen 19, Vågøy og Myrbostad",62.785609,7.002966
+2389446,"Trondvegen 5, Vågøy og Myrbostad",62.784618,7.004699
+2389448,"Storelvvegen 19, Vågøy og Myrbostad",62.787629,7.007378
+2389450,"Bakketeigen 7, Vågøy og Myrbostad",62.787378,7.014433
+2389451,"Bakketeigen 9, Vågøy og Myrbostad",62.78732,7.014124
+2389460,"Jendemsbukta 27, Vågøy og Myrbostad",62.787463,7.005324
+2389463,"Nybyggervegen 8, Vågøy og Myrbostad",62.78545,7.006956
+2389476,"Bakketeigen 15, Vågøy og Myrbostad",62.787649,7.013866
+2389477,"Bakketeigen 13, Vågøy og Myrbostad",62.78755,7.013873
+2389478,"Bakketeigen 11, Vågøy og Myrbostad",62.78739,7.013943
+2389480,"Bakketeigen 19, Vågøy og Myrbostad",62.787887,7.014203
+2389481,"Bakketeigen 17, Vågøy og Myrbostad",62.787823,7.01409
+2389499,"Hoemsvegen 866, Vågøy og Myrbostad",62.78908,7.01028
+2389553,"Nybyggervegen 6A, Vågøy og Myrbostad",62.785263,7.006459
+2389554,"Nybyggervegen 6B, Vågøy og Myrbostad",62.785319,7.006573
+2389632,"Nybyggervegen 11, Vågøy og Myrbostad",62.785181,7.005034
+2390715,"Julsundet 208, Aukra",62.76764,6.995835
+2390716,"Julsundet 210, Aukra",62.768024,6.995186
+2390718,"Julsundet 237C, Aukra",62.769508,6.990937
+2390961,"Furualleen 4, Vågøy og Myrbostad",62.787136,7.002047
+2391067,"Bjørkefaret 16, Vågøy og Myrbostad",62.785492,7.000478
+2391068,"Bjørkefaret 8, Vågøy og Myrbostad",62.786223,7.001938
+2391076,"Nybyggervegen 18, Vågøy og Myrbostad",62.785997,7.00458
+2391084,"Einetunet 1, Vågøy og Myrbostad",62.78448,7.006955
+2391085,"Seljetunet 2, Vågøy og Myrbostad",62.784781,7.007119
+2391103,"Fossvegen 3, Aukra",62.784698,6.997636
+2391137,"Jendemsvegen 3, Vågøy og Myrbostad",62.786112,7.013184
+2391138,"Åndalsbakken 23, Vågøy og Myrbostad",62.78811,7.021109
+2391139,"Åndalsbakken 12, Vågøy og Myrbostad",62.789188,7.023057
+2391164,"Seljetunet 6, Vågøy og Myrbostad",62.785003,7.006841
+2391165,"Seljetunet 20, Vågøy og Myrbostad",62.784829,7.00799
+2391166,"Seljetunet 18, Vågøy og Myrbostad",62.784928,7.008233
+2391167,"Seljetunet 22, Vågøy og Myrbostad",62.784734,7.007746
+2391168,"Julsundet 188, Aukra",62.76574,6.99612
+2391169,"Seljetunet 12, Vågøy og Myrbostad",62.785332,7.007474
+2391171,"Seljetunet 10, Vågøy og Myrbostad",62.785226,7.007271
+2391173,"Seljetunet 16, Vågøy og Myrbostad",62.785044,7.007909
+2391175,"Seljetunet 14, Vågøy og Myrbostad",62.785171,7.007671
+2391198,"Furualleen 9, Vågøy og Myrbostad",62.786198,7.001022
+2391214,"Furualleen 13, Vågøy og Myrbostad",62.785908,7.000352
+2391241,"Depelhaugvegen 18, Aukra",62.782829,6.995433
+2391293,"Bjørkefaret 5, Vågøy og Myrbostad",62.786092,7.002541
+2391364,"Depelhaugvegen 4, Aukra",62.783323,6.997298
+2391383,"Torhaugvegen 39B, Aukra",62.783747,6.994676
+2391384,"Torhaugvegen 39A, Aukra",62.783693,6.994703
+2391385,"Torhaugvegen 37B, Aukra",62.783811,6.995067
+2391386,"Torhaugvegen 37A, Aukra",62.783839,6.99519
+2391387,"Torhaugvegen 35B, Aukra",62.783902,6.995465
+2391388,"Torhaugvegen 35A, Aukra",62.783933,6.995613
+2391389,"Torhaugvegen 33B, Aukra",62.783986,6.99592
+2391390,"Torhaugvegen 33A, Aukra",62.784005,6.996063
+2391555,"Torhaugvegen 49A, Aukra",62.784301,6.995339
+2391556,"Torhaugvegen 47B, Aukra",62.78432,6.995099
+2391557,"Torhaugvegen 47A, Aukra",62.784333,6.994892
+2391558,"Torhaugvegen 45B, Aukra",62.784301,6.994347
+2391559,"Torhaugvegen 45A, Aukra",62.784216,6.994392
+2391560,"Torhaugvegen 43B, Aukra",62.784118,6.994453
+2391561,"Torhaugvegen 43A, Aukra",62.784055,6.994494
+2391800,"Langnesvegen 33, Aukra",62.763572,6.994792
+2391801,"Langnesvegen 35, Aukra",62.763722,6.994402
+2391821,"Langnesvegen 14, Aukra",62.764132,6.994511
+2391854,"Langnesvegen 12, Aukra",62.764461,6.994673
+2391855,"Langnesvegen 23, Aukra",62.763959,6.99574
+2391856,"Langnesvegen 1A, Aukra",62.764382,6.996079
+2391857,"Langnesvegen 6B, Aukra",62.764561,6.995365
+2391863,"Mevoldvegen 8, Aukra",62.764265,6.996281
+2391864,"Langnesvegen 5, Aukra",62.76415,6.996017
+2391865,"Langnesvegen 13, Aukra",62.763821,6.996915
+2391866,"Mevoldvegen 16, Aukra",62.763787,6.997015
+2391867,"Mevoldvegen 12, Aukra",62.764048,6.996659
+2391868,"Langnesvegen 9, Aukra",62.763974,6.996379
+2391869,"Langnesvegen 17, Aukra",62.763617,6.997126
+2391870,"Mevoldvegen 20, Aukra",62.763587,6.997201
+2391871,"Langnesvegen 15, Aukra",62.763711,6.997036
+2391872,"Mevoldvegen 18, Aukra",62.763763,6.99704
+2391910,"Mevoldvegen 22, Aukra",62.763565,6.997224
+2391932,"Depelhaugvegen 10A, Aukra",62.783426,6.995178
+2392019,"Langnesvegen 7, Aukra",62.764099,6.996191
+2392021,"Mevoldvegen 14, Aukra",62.763989,6.996779
+2392022,"Langnesvegen 11, Aukra",62.763919,6.996581
+2392563,"Depelhaugvegen 9, Aukra",62.782992,6.996564
+2454946,"Julsundvegen 914, Molde Domkirke",62.731527,6.986126
+2496724,"Depelhaugvegen 1A, Aukra",62.782902,6.99876

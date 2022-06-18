@@ -1,0 +1,420 @@
+,Navn,Long,Lat
+226037,"Blåbærstien 23, Skien",59.195232,9.625457
+226038,"Blåbærstien 21, Skien",59.19535,9.625092
+226039,"Blåbærstien 25, Skien",59.194998,9.625488
+226040,"Blåbærstien 24, Skien",59.194656,9.625569
+226041,"Blåbærstien 15, Skien",59.195867,9.624016
+226042,"Blåbærstien 14, Skien",59.195988,9.623195
+226043,"Blåbærstien 20, Skien",59.194846,9.62524
+226044,"Blåbærstien 19, Skien",59.195541,9.624605
+226045,"Blåbærstien 12, Skien",59.19616,9.622936
+226046,"Blåbærstien 10, Skien",59.19635,9.622659
+226047,"Blåbærstien 13B, Skien",59.195994,9.623703
+226048,"Blåbærstien 13A, Skien",59.196093,9.623635
+226049,"Blåbærstien 2, Skien",59.197082,9.621692
+226050,"Blåbærlia 18, Skien",59.195648,9.624852
+226051,"Blåbærstien 6, Skien",59.196566,9.622436
+226052,"Blåbærstien 4, Skien",59.196829,9.622038
+226053,"Blåbærlia 7, Skien",59.196796,9.623105
+226054,"Blåbærlia 5, Skien",59.197159,9.622324
+226055,"Blåbærlia 16, Skien",59.195686,9.624345
+226056,"Blåbærlia 9, Skien",59.196606,9.623574
+226059,"Blåbærlia 3, Skien",59.197447,9.622259
+226230,"Bølevegen 30, Skien",59.191803,9.623084
+226231,"Bølevegen 29, Skien",59.193494,9.622537
+226232,"Bølevegen 32, Skien",59.191506,9.623201
+226233,"Bølevegen 31, Skien",59.193368,9.622587
+226234,"Bølevegen 26, Skien",59.192066,9.622546
+226235,"Bølevegen 25, Skien",59.193927,9.62223
+226236,"Bølevegen 28, Skien",59.192038,9.622948
+226237,"Bølevegen 27, Skien",59.193747,9.622349
+226238,"Bølevegen 22, Skien",59.192327,9.622464
+226239,"Bølevegen 21, Skien",59.194278,9.622096
+226240,"Bølevegen 24, Skien",59.192209,9.622829
+226241,"Bølevegen 23, Skien",59.194107,9.622181
+226242,"Bølevegen 17, Skien",59.194781,9.621965
+226243,"Bølevegen 16, Skien",59.19331,9.621606
+226244,"Bølevegen 20, Skien",59.19238,9.622762
+226245,"Bølevegen 19, Skien",59.194449,9.622029
+226246,"Bølevegen 14E, Skien",59.192776,9.622489
+226247,"Bølevegen 14D, Skien",59.192914,9.621914
+226248,"Bølevegen 15, Skien",59.194979,9.621917
+226249,"Bølevegen 14F, Skien",59.192715,9.622068
+226250,"Bølevegen 14A, Skien",59.193155,9.622198
+226251,"Bølevegen 13, Skien",59.19514,9.622042
+226252,"Bølevegen 14C, Skien",59.192974,9.622353
+226253,"Bølevegen 14B, Skien",59.193076,9.621759
+226254,"Bølevegen 10, Skien",59.194464,9.620647
+226255,"Bølevegen 8B, Skien",59.194835,9.620216
+226256,"Bølevegen 12, Skien",59.19377,9.621264
+226257,"Bølevegen 11, Skien",59.195293,9.621975
+226258,"Bølevegen 5, Skien",59.195788,9.621739
+226259,"Bølevegen 4B, Skien",59.195605,9.620545
+226260,"Bølevegen 7, Skien",59.195527,9.621856
+226261,"Bølevegen 6, Skien",59.195189,9.621308
+226262,"Bølevegen 3A, Skien",59.196157,9.621588
+226263,"Bølevegen 2, Skien",59.19727,9.619927
+226264,"Bølevegen 4, Skien",59.1968,9.620427
+226265,"Bølevegen 3B, Skien",59.195923,9.621706
+226268,"Bølevegen 1C, Skien",59.19631,9.621521
+226269,"Bølevegen 1B, Skien",59.196509,9.621279
+226399,"Bølevegen 79, Skien",59.189061,9.625607
+226400,"Bølevegen 73, Skien",59.189657,9.625058
+226401,"Bølevegen 81, Borgestad",59.188546,9.625896
+226402,"Bølevegen 80, Borgestad",59.188174,9.625101
+226403,"Bølevegen 55, Skien",59.191449,9.6239
+226404,"Bølevegen 53, Skien",59.19163,9.623746
+226405,"Bølevegen 59, Skien",59.191071,9.624121
+226406,"Bølevegen 57, Skien",59.19126,9.623967
+226407,"Bølevegen 49, Skien",59.191963,9.62349
+226408,"Bølevegen 48, Skien",59.189875,9.624397
+226409,"Bølevegen 52, Skien",59.189533,9.624583
+226410,"Bølevegen 51, Skien",59.19181,9.623644
+226411,"Bølevegen 45, Skien",59.192251,9.623285
+226412,"Bølevegen 44, Skien",59.190181,9.62421
+226413,"Bølevegen 47, Skien",59.192107,9.623387
+226414,"Bølevegen 46, Skien",59.189984,9.624276
+226415,"Bølevegen 40, Skien",59.19058,9.623604
+226416,"Bølevegen 39, Skien",59.192648,9.623047
+226417,"Bølevegen 43, Skien",59.192395,9.623217
+226418,"Bølevegen 41, Skien",59.192522,9.623115
+226419,"Bølevegen 34, Skien",59.191129,9.623317
+226420,"Bølevegen 33, Skien",59.193188,9.622742
+226421,"Bølevegen 37, Skien",59.192918,9.622894
+226422,"Bølevegen 35, Skien",59.193053,9.622827
+226615,"Bruene 6B, Skien",59.204933,9.609875
+226620,"Bruene 1, Skien",59.207132,9.608198
+227227,"Nedre Elvegate 22, Skien",59.20033,9.616674
+227228,"Nedre Elvegate 21, Skien",59.19939,9.617865
+227229,"Nedre Elvegate 26, Skien",59.199897,9.617034
+227230,"Nedre Elvegate 24, Skien",59.20014,9.616811
+227231,"Nedre Elvegate 16, Skien",59.200913,9.616667
+227232,"Nedre Elvegate 15, Skien",59.199867,9.617541
+227233,"Nedre Elvegate 19, Skien",59.199552,9.617745
+227234,"Nedre Elvegate 17, Skien",59.199732,9.617661
+227235,"Nedre Elvegate 11, Skien",59.200057,9.617299
+227236,"Nedre Elvegate 7, Skien",59.200201,9.617197
+227237,"Nedre Elvegate 13, Skien",59.199967,9.617455
+227238,"Nedre Elvegate 12, Skien",59.201013,9.616476
+227239,"Nedre Elvegate 3, Skien",59.20121,9.616672
+227241,"Nedre Elvegate 5, Skien",59.200309,9.617129
+227242,"Nedre Elvegate 4, Skien",59.201419,9.616098
+227382,"Øvre Elvegate 31, Skien",59.198528,9.619793
+227383,"Øvre Elvegate 30, Skien",59.198645,9.619707
+227385,"Øvre Elvegate 32, Skien",59.198428,9.619878
+227386,"Øvre Elvegate 26, Skien",59.199231,9.61921
+227387,"Øvre Elvegate 22, Skien",59.199646,9.618885
+227388,"Øvre Elvegate 28, Skien",59.198888,9.619502
+227389,"Øvre Elvegate 27, Skien",59.199122,9.619348
+227390,"Øvre Elvegate 18, Skien",59.200224,9.618178
+227391,"Øvre Elvegate 16, Skien",59.20043,9.618216
+227392,"Øvre Elvegate 21, Skien",59.199845,9.618521
+227393,"Øvre Elvegate 20, Skien",59.199989,9.618383
+227394,"Øvre Elvegate 13, Skien",59.200855,9.617664
+227395,"Øvre Elvegate 11, Skien",59.200972,9.617561
+227396,"Øvre Elvegate 15, Skien",59.200538,9.618148
+227397,"Øvre Elvegate 14, Skien",59.200684,9.617783
+227398,"Øvre Elvegate 8, Skien",59.201263,9.616901
+227399,"Øvre Elvegate 10, Skien",59.201037,9.617089
+227400,"Øvre Elvegate 9, Skien",59.201143,9.617459
+227401,"Øvre Elvegate 3, Skien",59.201675,9.616978
+227402,"Øvre Elvegate 2, Skien",59.201686,9.616558
+227403,"Øvre Elvegate 5, Skien",59.201558,9.617081
+227404,"Øvre Elvegate 4, Skien",59.201578,9.616679
+227405,"Nedre Elvegate 38B, Skien",59.198625,9.618114
+227406,"Nedre Elvegate 38, Skien",59.199112,9.61772
+227407,"Nedre Elvegate 42, Skien",59.197939,9.618854
+227408,"Nedre Elvegate 39, Skien",59.198912,9.618206
+227409,"Nedre Elvegate 33, Skien",59.199047,9.618296
+227410,"Nedre Elvegate 32, Skien",59.199509,9.617447
+227411,"Nedre Elvegate 36, Skien",59.199292,9.617601
+227412,"Nedre Elvegate 34, Skien",59.199401,9.617515
+227413,"Nedre Elvegate 28, Skien",59.199725,9.617258
+227414,"Nedre Elvegate 27, Skien",59.199237,9.617985
+227415,"Nedre Elvegate 30, Skien",59.199617,9.617326
+227416,"Nedre Elvegate 29, Skien",59.199129,9.61807
+228369,"Gampedalsvegen 4, Skien",59.20205,9.617493
+229886,"Hesselbergs gate 5, Skien",59.208047,9.602716
+229961,"Nedre Hjellegate 29, Skien",59.203819,9.606073
+229962,"Nedre Hjellegate 28, Skien",59.204043,9.606165
+229963,"Nedre Hjellegate 20, Skien",59.205048,9.606288
+229964,"Nedre Hjellegate 18, Skien",59.205362,9.606521
+229965,"Nedre Hjellegate 23, Skien",59.204724,9.606422
+229966,"Nedre Hjellegate 22, Skien",59.204815,9.606336
+229967,"Nedre Hjellegate 15, Skien",59.205729,9.60665
+229968,"Nedre Hjellegate 14, Skien",59.205846,9.60667
+229969,"Nedre Hjellegate 17, Skien",59.205514,9.606576
+229970,"Nedre Hjellegate 16, Skien",59.205622,9.606631
+229971,"Nedre Hjellegate 9, Skien",59.20634,9.606591
+229972,"Nedre Hjellegate 4, Skien",59.206662,9.606894
+229973,"Nedre Hjellegate 13, Skien",59.205971,9.606707
+229976,"Nedre Hjellegate 2, Skien",59.206833,9.606827
+229977,"Nedre Hjellegate 1, Skien",59.207066,9.606849
+229995,"Nedre Hjellegate 10, Skien",59.206197,9.606821
+230768,"Henrik Ibsens gate 7, Skien",59.208184,9.607989
+230769,"Henrik Ibsens gate 6, Skien",59.207658,9.609013
+230770,"Henrik Ibsens gate 10, Skien",59.208226,9.60848
+230771,"Henrik Ibsens gate 8, Skien",59.208109,9.608566
+230772,"Henrik Ibsens gate 3, Skien",59.207913,9.608177
+230773,"Henrik Ibsens gate 2, Skien",59.206864,9.609787
+230774,"Henrik Ibsens gate 5, Skien",59.208066,9.60811
+230775,"Henrik Ibsens gate 4, Skien",59.20709,9.609546
+232857,"Lundegata 15, Skien",59.207248,9.60454
+232859,"Lundegata 19, Skien",59.207755,9.603604
+232860,"Lundegata 17, Skien",59.207117,9.603663
+232861,"Lundegata 11B, Skien",59.206104,9.605133
+232862,"Lundegata 11A, Skien",59.206229,9.60531
+232863,"Lundegata 13, Skien",59.206689,9.605021
+232865,"Lundegata 6, Skien",59.207531,9.605404
+232866,"Lundegata 5, Skien",59.204494,9.60577
+232868,"Lundegata 9, Skien",59.205257,9.605749
+232871,"Lundegata 2, Skien",59.20486,9.606284
+232872,"Lundegata 1, Skien",59.204278,9.605819
+233780,"Munkelia 15, Skien",59.19203,9.624471
+233781,"Munkelia 14, Skien",59.192138,9.624473
+233782,"Munkelia 17, Skien",59.191688,9.62464
+233783,"Munkelia 16, Skien",59.19185,9.624573
+233784,"Munkelia 10, Skien",59.192833,9.623733
+233785,"Munkelia 9, Skien",59.193031,9.623614
+233786,"Munkelia 13, Skien",59.192238,9.624177
+233787,"Munkelia 11, Skien",59.192581,9.623868
+233788,"Munkelia 6, Skien",59.193599,9.623239
+233789,"Munkelia 5, Skien",59.193869,9.623087
+233790,"Munkelia 8, Skien",59.19322,9.623477
+233791,"Munkelia 7, Skien",59.193401,9.623376
+235053,"Prinsessegata 13, Skien",59.209471,9.60528
+235054,"Prinsessegata 9, Skien",59.208525,9.605999
+235056,"Prinsessegata 14, Skien",59.208838,9.606337
+235057,"Prinsessegata 5, Skien",59.207785,9.606756
+235058,"Prinsessegata 2B, Skien",59.207693,9.607263
+235059,"Prinsessegata 8, Skien",59.208378,9.60682
+235060,"Prinsessegata 7, Skien",59.208299,9.606345
+235062,"Prestegårdsgata 18, Skien",59.207395,9.601934
+235063,"Prestegårdsgata 16, Skien",59.207544,9.602584
+235064,"Prinsessegata 2A, Skien",59.207558,9.607418
+235065,"Prestegårdsgata 4, Skien",59.207994,9.602487
+235067,"Prestegårdsgata 10, Skien",59.207657,9.601501
+235068,"Prestegårdsgata 6, Skien",59.207905,9.602241
+235347,"Rådhusgata 1, Skien",59.207132,9.61009
+235350,"Rådhusgata 2, Skien",59.207324,9.60934
+235818,"Skistredet 11, Skien",59.207913,9.606373
+235819,"Skistredet 10, Skien",59.208509,9.607505
+235821,"Skistredet 12, Skien",59.208123,9.605677
+235824,"Skistredet 8, Skien",59.209004,9.60923
+235825,"Skistredet 7, Skien",59.208416,9.608326
+235931,"Sandviksvegen 10, Skien",59.202795,9.615668
+235932,"Sandviksvegen 3, Skien",59.203533,9.615261
+235937,"Sandviksvegen 1, Skien",59.203687,9.615123
+237701,"Telemarksgata 24, Skien",59.207107,9.605904
+237703,"Telemarksgata 18, Skien",59.207373,9.606644
+237704,"Telemarksgata 16, Skien",59.207647,9.607612
+237705,"Telemarksgata 22, Skien",59.207213,9.606309
+237706,"Telemarksgata 20, Skien",59.207302,9.606433
+237707,"Telemarksgata 11, Skien",59.206863,9.606092
+237708,"Telemarksgata 10, Skien",59.207902,9.608772
+237709,"Telemarksgata 14, Skien",59.207645,9.607927
+237710,"Telemarksgata 12, Skien",59.207769,9.608262
+237711,"Telemarksgata 6, Skien",59.208176,9.609705
+237712,"Telemarksgata 5, Skien",59.208002,9.61028
+237713,"Telemarksgata 8, Skien",59.207999,9.609107
+237714,"Telemarksgata 7, Skien",59.207746,9.609295
+237715,"Telemarksgata 2, Skien",59.208254,9.610232
+237717,"Telemarksgata 4, Skien",59.208228,9.609987
+237718,"Telemarksgata 3, Skien",59.208037,9.610561
+238103,"Torggata 9, Skien",59.208331,9.609043
+238104,"Torggata 8, Skien",59.208419,9.609535
+238105,"Torggata 11, Skien",59.208548,9.608889
+238106,"Torggata 10, Skien",59.208707,9.609382
+238107,"Torggata 5, Skien",59.207574,9.609712
+238108,"Torggata 3, Skien",59.207385,9.609831
+238109,"Torggata 7, Skien",59.207779,9.609581
+238110,"Torggata 6, Skien",59.207905,9.609928
+239018,"Wergelands gate 10, Skien",59.205605,9.604476
+239019,"Wergelands gate 9, Skien",59.205588,9.604091
+239022,"Welhavens gate 1A, Skien",59.205162,9.603138
+239024,"Welhavens gate 3, Skien",59.205306,9.602948
+239025,"Welhavens gate 1B, Skien",59.205017,9.603275
+239959,"Nedre Hjellegate 7, Skien",59.206458,9.606313
+240038,"Bølevegen 63A, Skien",59.190764,9.6245
+240041,"Bølevegen 63B, Skien",59.190269,9.624631
+240066,"Nedre Hjellegate 12A, Skien",59.206056,9.606155
+240200,"Welhavens gate 2B, Skien",59.205087,9.603819
+240206,"Wergelands gate 5B, Skien",59.205248,9.60398
+240208,"Wergelands gate 5A, Skien",59.205274,9.604103
+240210,"Welhavens gate 2A, Skien",59.20506,9.603749
+240212,"Wergelands gate 5C, Skien",59.205212,9.603874
+240257,"Prinsessegata 12, Skien",59.208676,9.606405
+240579,"Bruene 7, Skien",59.203892,9.609699
+240583,"Langbrygga 6, Skien",59.204875,9.612588
+240584,"Langbrygga 5B, Skien",59.204776,9.612639
+240587,"Langbrygga 1, Skien",59.204022,9.612521
+240589,"Langbrygga 5A, Skien",59.204668,9.612672
+240590,"Langbrygga 4, Skien",59.204515,9.612775
+240837,"Wergelands gate 5I, Skien",59.205131,9.603925
+240838,"Wergelands gate 5H, Skien",59.205158,9.604048
+240841,"Wergelands gate 5E, Skien",59.205212,9.603997
+240842,"Wergelands gate 5D, Skien",59.205274,9.604138
+240843,"Wergelands gate 5G, Skien",59.205238,9.604155
+240844,"Wergelands gate 5F, Skien",59.205176,9.603856
+240845,"Welhavens gate 2D, Skien",59.205105,9.603785
+240846,"Welhavens gate 2C, Skien",59.205078,9.603697
+240847,"Welhavens gate 2F, Skien",59.205132,9.60375
+240848,"Welhavens gate 2E, Skien",59.205114,9.60368
+241058,"Prinsessegata 10, Skien",59.208504,9.606664
+241221,"Lundegata 4C, Skien",59.206488,9.605648
+241234,"Lundegata 4A, Skien",59.205624,9.606123
+241252,"Nedre Hjellegate 11, Skien",59.206058,9.607339
+241294,"Øvre Hjellegate 6, Skien",59.206317,9.605715
+241297,"Einar Østvedts gate 17C, Skien",59.204949,9.602469
+241303,"Einar Østvedts gate 15C, Skien",59.205121,9.602314
+241305,"Einar Østvedts gate 15B, Skien",59.205129,9.602384
+241307,"Einar Østvedts gate 17B, Skien",59.204949,9.602539
+241309,"Einar Østvedts gate 17A, Skien",59.204994,9.602504
+241311,"Einar Østvedts gate 13B, Skien",59.205465,9.603546
+241313,"Einar Østvedts gate 13A, Skien",59.205527,9.60374
+241315,"Einar Østvedts gate 15A, Skien",59.205166,9.602332
+241317,"Einar Østvedts gate 13C, Skien",59.205403,9.603405
+241319,"Einar Østvedts gate 7, Skien",59.205854,9.604919
+241321,"Einar Østvedts gate 5, Skien",59.205898,9.605095
+241323,"Einar Østvedts gate 11, Skien",59.205685,9.60446
+241325,"Einar Østvedts gate 9, Skien",59.205801,9.604725
+241330,"Einar Østvedts gate 3, Skien",59.20596,9.605323
+241865,"Einar Østvedts gate 14, Skien",59.205568,9.602602
+241866,"Einar Østvedts gate 12, Skien",59.206227,9.603787
+241880,"Torggata 4, Skien",59.207761,9.610048
+242079,"Øvre Hjellegate 3, Skien",59.206879,9.606495
+242100,"Øvre Elvegate 29B, Skien",59.198735,9.619639
+242101,"Øvre Elvegate 29A, Skien",59.19878,9.619605
+242122,"Bruene 3, Skien",59.206512,9.608345
+242130,"Nedre Elvegate 6A, Skien",59.201175,9.616321
+242133,"Nedre Elvegate 6B, Skien",59.20132,9.616184
+242147,"Langbrygga 7, Skien",59.205208,9.612402
+242626,"Rådhusplassen 2, Skien",59.207471,9.610516
+242907,"Nedre Hjellegate 21, Skien",59.204337,9.606625
+243017,"Nedre Hjellegate 6C, Skien",59.206736,9.60637
+243018,"Nedre Hjellegate 6B, Skien",59.206674,9.606352
+243021,"Nedre Hjellegate 8A, Skien",59.206456,9.60682
+243023,"Nedre Hjellegate 6A, Skien",59.206691,9.606457
+243024,"Nedre Hjellegate 8B, Skien",59.206466,9.606523
+243101,"Skistredet 9G, Skien",59.208096,9.60748
+243102,"Skistredet 9F, Skien",59.20815,9.607446
+243103,"Skistredet 9I, Skien",59.207837,9.607265
+243104,"Skistredet 9H, Skien",59.208006,9.607566
+243105,"Skistredet 9C, Skien",59.208221,9.60778
+243106,"Skistredet 9B, Skien",59.208266,9.607728
+243107,"Skistredet 9E, Skien",59.208231,9.60736
+243108,"Skistredet 9D, Skien",59.208267,9.607466
+243111,"Skistredet 9A, Skien",59.208364,9.607853
+243132,"Bølevegen 4C, Skien",59.196332,9.620681
+243143,"Fløtninga 6A, Skien",59.204352,9.605417
+243150,"Fløtninga 1A, Skien",59.203442,9.605894
+243152,"Fløtninga 8, Skien",59.204505,9.605368
+243226,"Henrik Ibsens gate 1, Skien",59.206042,9.608967
+243274,"Langbrygga 2, Skien",59.204181,9.613171
+243312,"Prinsessegata 1C, Skien",59.207524,9.606962
+243355,"Prinsessegata 1A, Skien",59.207424,9.6071
+243357,"Prinsessegata 1B, Skien",59.207398,9.606907
+243922,"Øvre Hjellegate 2, Skien",59.206515,9.605683
+243961,"Jernbanebrygga 14K, Skien",59.205506,9.612162
+243962,"Jernbanebrygga 12K, Skien",59.205515,9.612215
+243963,"Jernbanebrygga 10L, Skien",59.205505,9.612267
+243964,"Jernbanebrygga 8L, Skien",59.205514,9.612337
+243965,"Jernbanebrygga 14J, Skien",59.205542,9.612145
+243966,"Jernbanebrygga 12J, Skien",59.205551,9.612198
+243967,"Jernbanebrygga 10K, Skien",59.205523,9.612267
+243968,"Jernbanebrygga 8K, Skien",59.205532,9.61232
+243969,"Jernbanebrygga 14I, Skien",59.205578,9.612111
+243970,"Jernbanebrygga 12I, Skien",59.205587,9.612163
+243971,"Jernbanebrygga 10J, Skien",59.205559,9.61225
+243972,"Jernbanebrygga 8J, Skien",59.205568,9.612303
+243973,"Jernbanebrygga 14H, Skien",59.205605,9.612094
+243974,"Jernbanebrygga 12H, Skien",59.205614,9.612146
+243975,"Jernbanebrygga 10I, Skien",59.205595,9.612234
+243976,"Jernbanebrygga 8I, Skien",59.205604,9.612286
+243977,"Jernbanebrygga 14G, Skien",59.205641,9.612077
+243978,"Jernbanebrygga 12G, Skien",59.20565,9.612129
+243979,"Jernbanebrygga 10H, Skien",59.205622,9.612199
+243980,"Jernbanebrygga 8H, Skien",59.205631,9.612269
+243981,"Jernbanebrygga 14F, Skien",59.205695,9.612043
+243982,"Jernbanebrygga 12F, Skien",59.205704,9.612095
+243983,"Jernbanebrygga 10G, Skien",59.205658,9.612182
+243984,"Jernbanebrygga 8G, Skien",59.205667,9.612235
+243985,"Jernbanebrygga 14E, Skien",59.205731,9.612008
+243986,"Jernbanebrygga 12E, Skien",59.20574,9.612079
+243987,"Jernbanebrygga 10F, Skien",59.205712,9.612148
+243988,"Jernbanebrygga 8F, Skien",59.205721,9.612218
+243989,"Jernbanebrygga 14D, Skien",59.205776,9.611974
+243990,"Jernbanebrygga 12D, Skien",59.205785,9.612044
+243991,"Jernbanebrygga 10E, Skien",59.205748,9.612131
+243992,"Jernbanebrygga 8E, Skien",59.205757,9.612201
+243993,"Jernbanebrygga 14C, Skien",59.20583,9.611993
+243994,"Jernbanebrygga 12C, Skien",59.20583,9.612045
+243995,"Jernbanebrygga 10D, Skien",59.205793,9.612114
+243996,"Jernbanebrygga 8D, Skien",59.205793,9.612185
+243997,"Jernbanebrygga 14A, Skien",59.205929,9.611942
+243998,"Jernbanebrygga 12A, Skien",59.205938,9.611994
+243999,"Jernbanebrygga 10C, Skien",59.205838,9.612115
+244000,"Jernbanebrygga 8C, Skien",59.205847,9.612168
+244001,"Jernbanebrygga 12B, Skien",59.205884,9.612029
+244002,"Jernbanebrygga 10B, Skien",59.205892,9.612081
+244003,"Jernbanebrygga 10A, Skien",59.205946,9.612047
+244004,"Jernbanebrygga 14B, Skien",59.205884,9.611976
+244007,"Jernbanebrygga 8B, Skien",59.205901,9.612134
+244023,"Schwachs gate 5, Skien",59.204063,9.605675
+244078,"Langbrygga 10, Skien",59.205929,9.611854
+244079,"Langbrygga 9, Skien",59.205668,9.612007
+244082,"Jernbanebrygga 16D, Skien",59.205776,9.611939
+244083,"Jernbanebrygga 16C, Skien",59.205821,9.611922
+244084,"Jernbanebrygga 16F, Skien",59.205695,9.61199
+244085,"Jernbanebrygga 16E, Skien",59.205731,9.611956
+244086,"Jernbanebrygga 14L, Skien",59.205488,9.612162
+244087,"Jernbanebrygga 12L, Skien",59.205496,9.612232
+244088,"Jernbanebrygga 16B, Skien",59.205875,9.611923
+244089,"Jernbanebrygga 16A, Skien",59.20592,9.611889
+244119,"Jernbanebrygga 63, Skien",59.201915,9.615687
+1693766,"Gampedalsvegen 5, Skien",59.202365,9.617442
+1731358,"Nedre Hjellegate 12B, Skien",59.206048,9.606291
+1731438,"Nedre Hjellegate 12C, Skien",59.205929,9.606275
+1731443,"Nedre Hjellegate 12D, Skien",59.205885,9.606171
+1774812,"Schwachs gate 10, Skien",59.204401,9.60614
+1774814,"Schwachs gate 8, Skien",59.204541,9.606318
+1774815,"Schwachs gate 6, Skien",59.204483,9.606303
+1774821,"Schwachs gate 4, Skien",59.204318,9.606234
+1774833,"Schwachs gate 2, Skien",59.204285,9.606149
+1923087,"Fløtninga 5A, Skien",59.203416,9.605639
+1923089,"Fløtninga 5B, Skien",59.203468,9.605603
+1923091,"Fløtninga 5C, Skien",59.203513,9.605569
+1923236,"Fløtninga 1C, Skien",59.203295,9.605737
+1923238,"Fløtninga 1D, Skien",59.203258,9.605621
+1923239,"Fløtninga 3A, Skien",59.203171,9.605284
+1923240,"Fløtninga 3B, Skien",59.203239,9.605212
+1923242,"Fløtninga 3C, Skien",59.203321,9.605119
+1923243,"Fløtninga 3D, Skien",59.203413,9.605005
+1923248,"Fløtninga 1B, Skien",59.203378,9.605862
+1974665,"Fløtninga 6B, Skien",59.204295,9.605519
+1996237,"Bølevegen 70, Borgestad",59.187595,9.624887
+2039177,"Fløtninga 7C, Skien",59.203901,9.605179
+2039178,"Fløtninga 7B, Skien",59.203848,9.60525
+2039180,"Fløtninga 7A, Skien",59.203816,9.605386
+2039183,"Fløtninga 7G, Skien",59.203924,9.605066
+2039184,"Fløtninga 7F, Skien",59.204101,9.60518
+2039186,"Fløtninga 7E, Skien",59.204036,9.605127
+2039189,"Fløtninga 7D, Skien",59.203966,9.605136
+2071164,"Prestegårdsgata 26, Skien",59.207356,9.600013
+2072725,"Jernbanebrygga 8A, Skien",59.205954,9.612109
+2080679,"Oscars gate 1B, Skien",59.204071,9.604185
+2080680,"Oscars gate 1A, Skien",59.204283,9.604838
+2090433,"Nedre Elvegate 1B, Skien",59.201429,9.616803
+2090434,"Nedre Elvegate 1A, Skien",59.201478,9.61672
+2094068,"Prestegårdsgata 16B, Skien",59.207225,9.602394
+2094069,"Prestegårdsgata 16C, Skien",59.207224,9.602272
+2459460,"Lundegata 7, Skien",59.204933,9.605747
+2466504,"Prestegårdsgata 12, Skien",59.207612,9.601896
+2469104,"Prestegårdsgata 22, Skien",59.207506,9.601218
+2476600,"Nedre Hjellegate 10D, Skien",59.206264,9.606703
+2476601,"Nedre Hjellegate 10E, Skien",59.206234,9.606635
+2476602,"Nedre Hjellegate 10B, Skien",59.206155,9.606672
+2476603,"Nedre Hjellegate 10C, Skien",59.206207,9.606683
+2476711,"Nedre Hjellegate 10F, Skien",59.206198,9.606329
+2476713,"Nedre Hjellegate 10G, Skien",59.20632,9.606367
+2490791,"Einar Østvedts gate 16, Skien",59.205718,9.60277
