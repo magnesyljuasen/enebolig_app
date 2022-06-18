@@ -48,19 +48,11 @@ class Forklaringer:
             st.write("""Mange banker har begynt å tilby billigere 
             boliglån hvis boligen regnes som miljøvennlig; et såkalt [grønt boliglån](%s). Med et bergvarmeanlegg 
             vil din bolig havne i energiklasse A eller B, som gjør at boligen kvalifiserer for et slikt lån. """ % url)
-
-
-        with st.expander('Hva er bergvarme?'):
-            st.write(""" Bergvarme er i hovedsak lagret solenergi med en stabil temperatur i størrelsesorden rundt 5 - 7 °C.""")
-            st.write(""" 1) For å hente ut bergvarme fra grunnen må det bores en energibrønn.""")
-            st.write(""" 2) Inne i energibrønnen monteres det en U-formet plastslange som fylles med en sirkulerende frostsikker væske.""")
-            st.write(""" 3) Væsken varmes opp av berggrunnen, og varmeenergien kan nå utnyttes ved hjelp av en 
-                            væske-vann-varmepumpe for å levere høy temperatur til boligens vannbårne varmesystem.""")
             
         with st.expander('Hvorfor bergvarme?'):
             st.write(""" Bergvarme er både miljøvennlig, kortreist og fornybar energi, 
                         og blir stadig mer populært blant norske byggeiere. Et bergvarmeanlegg gir den 
-                        beste energibesparelsen og kan redusere din strømregning med en faktor på 3 – 4. """)
+                        beste strømbesparelsen og kan redusere din strømregning med en faktor på 3 – 4. """)
 
             st.write(""" Om sommeren, når det er behov for kjøling, er temperaturen i brønnen i seg selv
                             lav nok til å kjøle bygningen. Da trengs viftekonvektorer som kan 
@@ -92,7 +84,7 @@ class Forside:
             image = Image.open('Grunnlagsdata/Bilder/Construction-bro.png')
             st.image(image)         
 
-        c1, c2 = st.columns(2)
+        c2, c1 = st.columns(2)
         with c1:
             image = Image.open('Grunnlagsdata/Bilder/Pipeline maintenance-amico.png')
             st.image(image)
@@ -106,10 +98,6 @@ class Forside:
             vannbårne varmesystem. For å utføre dette arbeidet bruker varmepumpen strøm, 
             men siden berggrunnen har en mye jevnere temperatur enn uteluft vil strømforbruket 
             være lavere sammenlignet med en luft-luft-varmepumpe. """)
-            st.write("""
-            En bergvarmepumpe gir deg 
-            altså den beste energibesparelsen med tre til fire ganger 
-            så mye varme som den strømmen den bruker. """)
         c1, c2 = st.columns(2)
         with c1:
             st.header('3) Miljøvennlig og lønnsom oppvarming')
@@ -178,6 +166,9 @@ class Input:
         valgt = st.multiselect('Skriv inn postnummer', postnummer_liste, 
         help=""" Adressen brukes til å hente inn nøyaktige temperaturdata 
         og nærliggende energibrønner. """)
+        if len(valgt) > 1:
+            st.error('Du må velge ett postnummer')
+            st.stop()
         if valgt:
             self.valgt = valgt[0] 
             self.velg_adresse()
@@ -194,6 +185,9 @@ class Input:
         valgt = st.multiselect('Skriv inn adresse', adresse_liste, 
         help=""" Adressen brukes til å hente inn nøyaktige temperaturdata 
         og nærliggende energibrønner. """)
+        if len(valgt) > 1:
+            st.error('Du må velge en adresse')
+            st.stop()
         if len(valgt) == 1:
             i=adresse_df[adresse_df['Navn']==valgt[0]]
             self.lat, self.long, self.navn = i.iat[0,3], i.iat[0,2], valgt[0]
@@ -600,8 +594,8 @@ class Kostnader:
         self.el_pris = el_pris
 
     def juster_investeringskostnad(self, investeringskostnad):
-        return st.number_input('Komplett prisestimat for varmepumpe, montering og energibrønn [kr]', 
-        min_value=1, value=investeringskostnad, max_value=750000, step=5000, help = 'Vannbåren varme er ikke tatt med i dette regnestykket')
+        return math.ceil(st.number_input('Komplett prisestimat for varmepumpe, montering og energibrønn [kr]', 
+        min_value=1, value=investeringskostnad, max_value=750000, step=5000, help = 'Vannbåren varme er ikke tatt med i dette regnestykket'))
 
 
     def oppdater_dybde_til_fjell(self):
@@ -617,7 +611,7 @@ class Kostnader:
 
         varmepumpe_pris = 141000
         if self.varmepumpe_storrelse > 12:
-            varmepumpe_pris = varmepumpe_pris + (self.varmepumpe_storrelse - 12) * 10000
+            varmepumpe_pris = math.ceil(varmepumpe_pris + (self.varmepumpe_storrelse - 12) * 10000)
             
         
         etablering_pris = 3500
@@ -635,7 +629,9 @@ class Kostnader:
         boring = ((antall_meter - dybde_til_fjell) * fjellboring_pris) + (dybde_til_fjell * odex_i_losmasser_pris)
         boring_faste_kostnader = etablering_pris + odex_sko_pris + bunnlodd_pris + lokk_pris
 
-        komplett_pris = int(kollektor) + int(boring) + int(boring_faste_kostnader) + int(varmepumpe_pris)
+        energibronn_pris = math.ceil(kollektor) + math.ceil(boring) + math.ceil(boring_faste_kostnader)
+
+        komplett_pris = energibronn_pris + varmepumpe_pris
 
         return komplett_pris
 
@@ -806,7 +802,7 @@ class Strompriser ():
     def input (self):
         self.year = st.selectbox('Hvilken årlig strømpris skal ligge til grunn?',('2021', '2020', '2019', '2018', 
         'Gjennomsnitt av de siste 4 år'), help="""
-        Det er hentet inn strømpris per time for de siste 4 år. Dette inkluderer også nettleie. 
+        Det er hentet inn historisk strømpris per time for de siste 4 år.
         Velg den som skal ligge til grunn for beregningen. 
         """)
         self.nettleie = st.number_input('Nettleie [øre/kWh]', value=float(27.9), step=0.25) / 100
@@ -941,7 +937,7 @@ class Dimensjonering:
         c = alt.Chart(wide_form).transform_fold(
             ['Spisslast (ikke bergvarme)', 'Levert energi fra brønn(er)', 'Strømforbruk varmepumpe'],
             as_=['key', 'Effekt (kW)']).mark_area().encode(
-                x=alt.X('Varighet (timer):Q'),
+                x=alt.X('Varighet (timer):Q', scale=alt.Scale(domain=[0, 8760])),
                 y='Effekt (kW):Q',
                 color=alt.Color('key:N', scale=alt.Scale(domain=['Spisslast (ikke bergvarme)', 'Levert energi fra brønn(er)', 'Strømforbruk varmepumpe'], 
                 range=['#ffdb9a', '#48a23f', '#1d3c34']), legend=alt.Legend(orient='top', direction='vertical', title=None))
@@ -975,17 +971,18 @@ class Dimensjonering:
             energi_per_meter = 120
         if energi_per_meter < 50:
             energi_per_meter = 50
-        effekt_per_meter = 100  # kriterie 2
+        
+        #effekt_per_meter = 100  # kriterie 2
 
-        antall_meter_effekt = ((varmepumpe_storrelse - varmepumpe_storrelse / cop) * 1000) / effekt_per_meter
+        #antall_meter_effekt = ((varmepumpe_storrelse - varmepumpe_storrelse / cop) * 1000) / effekt_per_meter
         antall_meter_energi = (levert_fra_bronner) / energi_per_meter
 
-        if antall_meter_effekt < antall_meter_energi:
-            antall_meter_tot = antall_meter_energi
-        else:
-            antall_meter_tot = antall_meter_effekt
+        #if antall_meter_effekt < antall_meter_energi:
+        #    antall_meter_tot = antall_meter_energi
+        #else:
+        #    antall_meter_tot = antall_meter_effekt
 
-        return int(antall_meter_tot)
+        return math.ceil(antall_meter_energi)
 
     def antall_bronner(self, antall_meter):
         bronnlengde = 0

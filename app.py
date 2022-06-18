@@ -9,11 +9,7 @@ def beregning(adresse_lat, adresse_long, bolig_areal):
         stromregion_obj = Stromregion(adresse_lat, adresse_long)
 
         with st.sidebar:
-            with st.expander('Forutsetninger'):
-                st.write(""" For mest mulig nøyaktig dimensjonering av ditt bergvarmeanlegg kan du justere 
-                verdiene. Alle resultatene oppdateres automatisk. """)
-
-                st.write(""" Trykk på boksene under for å justere forutsetningene.""")
+            st.header("Forutsetninger")
 
 
 
@@ -39,8 +35,8 @@ def beregning(adresse_lat, adresse_long, bolig_areal):
         #--Sidebar--
         with st.sidebar:
             with st.expander('Oppvarmingsbehov'):
-                st.caption("""Oppvarmingsbehovet er estimert ut ifra oppgitt areal og adresse. 
-                Estimerte verdier vises i boksene under. Du kan fritt justere verdiene. """)
+                #st.caption("""Oppvarmingsbehovet er estimert ut ifra oppgitt areal og adresse. 
+                #Estimerte verdier vises i boksene under. Du kan fritt justere verdiene. """)
             
                 #energibehov_obj.resultater(dhw_sum, romoppvarming_sum, energibehov_sum)
                 dhw_sum, romoppvarming_sum, dhw_arr, romoppvarming_arr = energibehov_obj.juster_behov(dhw_sum, romoppvarming_sum, dhw_arr, romoppvarming_arr)
@@ -85,9 +81,11 @@ def beregning(adresse_lat, adresse_long, bolig_areal):
         energibehov_obj.resultater(dhw_sum, romoppvarming_sum, energibehov_sum)
         st.markdown("""---""")
         st.title("""Resultater""")
+        st.write(""" Resultatene fra bergvarmekalkulatoren er estimater, og skal ikke brukes for endelig dimensjonering av energibrønn med varmepumpe. 
+            Dimensjonering må tilpasses de stedlige forholdene av leverandør. """)
         
         with st.sidebar:
-            with st.expander('Se kart'):
+            with st.expander('Kart'):
                 Gis().kart(stasjon_lat, adresse_lat, energibronn_lat, stasjon_long, adresse_long, energibronn_long)
                 st.write (f""" Kartet viser adresse (mørkegrønn farge), nærmeste eksisterende energibrønn (grønn farge) 
                 og nærmeste værstasjon, {stasjon_id}, med fullstendige temperaturdata (solgul farge). 
@@ -114,7 +112,7 @@ def beregning(adresse_lat, adresse_long, bolig_areal):
         if valg == "Investering":
             st.caption("""Investeringskostnaden omfatter en komplett installsjon av bergvarme inkl. varmepumpe, montering og energibrønn. 
             Merk at dette er et estimat, og endelig pris må fastsettes av leverandør. """)
-            st.metric('Investeringskostnad bergvarme', str(int(investeringskostnad)) + ' kr')
+            st.metric('Investeringskostnad bergvarme', str(investeringskostnad) + ' kr')
         co2 = Co2()
         with st.sidebar:
             with st.expander('Klimagassutslipp'):
