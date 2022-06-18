@@ -50,7 +50,7 @@ def main():
         "Andre tjenester" : side_3}  
     with st.sidebar:
         Innstillinger().egen_logo()
-    selected_page = st.sidebar.radio("", page_names_to_funcs.keys(), horizontal=False, index=0)
+    selected_page = st.sidebar.radio("", page_names_to_funcs.keys(), index=0)
     st.sidebar.markdown("""---""")
     page_names_to_funcs[selected_page]()
 
