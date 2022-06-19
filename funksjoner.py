@@ -241,7 +241,7 @@ class Temperaturdata ():
 
     @st.cache
     def temperaturserie_fra_fil(self):
-        serie = 'Grunnlagsdata/Database/' + self.stasjon_id + '_temperatur.csv'
+        serie = 'Grunnlagsdata/Temperatur/_' + self.stasjon_id + '_temperatur.csv'
         temperatur_arr = pd.read_csv(serie, sep=',', on_bad_lines='skip').to_numpy()
         return temperatur_arr
 
@@ -258,7 +258,7 @@ class Temperaturdata ():
 
     @st.cache
     def importer_csv (self):
-        stasjonsliste = pd.read_csv('Grunnlagsdata/Database/Stasjoner.csv', sep=',',on_bad_lines='skip')
+        stasjonsliste = pd.read_csv('Grunnlagsdata/Temperatur/Stasjoner.csv', sep=',',on_bad_lines='skip')
         return stasjonsliste
 
     def nearmeste_stasjon (self):
@@ -323,9 +323,10 @@ class Energibehov():
 
     #@st.cache
     def hent_behov_fra_fil(self):
-        faktor = 1.25
-        dhw = 'Grunnlagsdata/Database/' + self.stasjon_id + '_dhw.csv'
-        romoppvarming = 'Grunnlagsdata/Database/' + self.stasjon_id + '_romoppvarming.csv'
+        faktor = 1
+        #dhw = 'Grunnlagsdata/Database/' + self.stasjon_id + '_dhw.csv'
+        dhw = 'Grunnlagsdata/Database/' + 'SN180' + '_dhw.csv'
+        romoppvarming = 'Grunnlagsdata/Temperatur/_' + self.stasjon_id + '_romoppvarming.csv'
         self.dhw_arr = (pd.read_csv(dhw, sep=',', on_bad_lines='skip').to_numpy() * self.bolig_areal) * faktor
         self.romoppvarming_arr = (pd.read_csv(romoppvarming, sep=',', on_bad_lines='skip').to_numpy() * self.bolig_areal) * faktor
 
@@ -598,8 +599,9 @@ class Kostnader:
         varmepumpe_pris = 141000
         if self.varmepumpe_storrelse > 12:
             varmepumpe_pris = math.ceil(varmepumpe_pris + (self.varmepumpe_storrelse - 12) * 10000)
-            
         
+        graving_pris = 30000
+        rigg_pris = 15000
         etablering_pris = 3500
         odex_sko_pris = 575
         bunnlodd_pris = 1000
@@ -613,13 +615,13 @@ class Kostnader:
 
         kollektor = (antall_meter - 1) * kollektor_pris
         boring = ((antall_meter - dybde_til_fjell) * fjellboring_pris) + (dybde_til_fjell * odex_i_losmasser_pris)
-        boring_faste_kostnader = etablering_pris + odex_sko_pris + bunnlodd_pris + lokk_pris
+        boring_faste_kostnader = etablering_pris + odex_sko_pris + bunnlodd_pris + lokk_pris + rigg_pris + graving_pris
 
         energibronn_pris = math.ceil(kollektor) + math.ceil(boring) + math.ceil(boring_faste_kostnader)
 
         komplett_pris = energibronn_pris + varmepumpe_pris
 
-        return komplett_pris
+        return round(komplett_pris,-3)
 
     def plot_investeringskostnad(self, investeringskostnad):
         x_axis = np.array(range(1, 26))
@@ -953,10 +955,12 @@ class Dimensjonering:
     def antall_meter(self, varmepumpe_storrelse, levert_fra_bronner, cop, gjennomsnittstemperatur):
         
         energi_per_meter = 0.0011*gjennomsnittstemperatur**4 - 0.0537*gjennomsnittstemperatur**3 + 1.0318*gjennomsnittstemperatur**2 + 6.2816*gjennomsnittstemperatur + 36.192
-        if energi_per_meter > 120:
-            energi_per_meter = 120
-        if energi_per_meter < 50:
-            energi_per_meter = 50
+        ovre = 110
+        nedre = 70
+        if energi_per_meter > ovre:
+            energi_per_meter = ovre
+        if energi_per_meter < nedre:
+            energi_per_meter = nedre
         
         #effekt_per_meter = 100  # kriterie 2
 
