@@ -102,7 +102,7 @@ def beregning(adresse_lat, adresse_long, bolig_areal):
                 nedbetalingtid, effektiv_rente = kostnader_obj.fyring_input()
         #st.header('Kostnader')
         with st.expander('Kostnader'):
-            valg = st.radio('Visningsvalg', ['Drift', 'Investering', 'Investering og drift over 20 år'], horizontal=True)
+            valg = st.radio('Visningsvalg', ['Drift', 'Investering', 'Investering og drift over 20 år'])
             if valg == "Investering og drift over 20 år":
                 st.caption(f"""Figuren under viser årlige kostnader til oppvarming inkl. investeringskostnad. 
                 Det er forutsatt at investeringen nedbetales i løpet av {int(nedbetalingtid)} år 
