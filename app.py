@@ -2,9 +2,10 @@ import streamlit as st
 from funksjoner import Dimensjonering, Gis, Energibronn, Strompriser, Temperaturdata, Energibehov, Kostnader, Co2, Stromregion, Forklaringer, load_lottie
 import numpy as np
 from streamlit_lottie import st_lottie
+from bokeh.models.widgets import Div
 
 
-def beregning(adresse_lat, adresse_long, bolig_areal):
+def beregning(adresse_lat, adresse_long, bolig_areal, navn):
     if adresse_long:
         energibronn_obj = Energibronn(adresse_lat, adresse_long)
         temperaturdata_obj = Temperaturdata(adresse_lat, adresse_long)
@@ -145,8 +146,12 @@ def beregning(adresse_lat, adresse_long, bolig_areal):
             dimensjonering_obj.varighetsdiagram(energibehov_arr, energibehov_arr_gv, kompressor_arr)
         
         st.markdown(""" --- """)
-        url = 'https://www.varmepumpeinfo.no/'
-        st.title('Finn nærmeste [leverandør](%s)' %url)
+        if st.button('Trykk her for å finne nærmeste leverandør av bergvarmeanlegg!'):
+            js = "window.open('https://www.varmepumpeinfo.no/varmepumpe')"  # New tab or window
+            html = '<img src onerror="{}">'.format(js)
+            div = Div(text=html)
+            st.bokeh_chart(div)
+        
 
         #st_lottie(load_lottie('https://assets5.lottiefiles.com/packages/lf20_l22gyrgm.json'))  
         #st.caption('Et verktøy fra Asplan Viak AS | 📧 magne.syljuasen@asplanviak.no')

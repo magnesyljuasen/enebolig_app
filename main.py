@@ -2,6 +2,8 @@ import streamlit as st
 from funksjoner import Input, Forside, Innstillinger, Forklaringer
 from app import beregning
 from PIL import Image
+from bokeh.models.widgets import Div
+
  
 def forside():
     st.title('Kalkuler din gevinst ved å hente energi fra grunnen')
@@ -17,7 +19,7 @@ def forside():
         input.prosess()
         st.markdown("""---""")
         if input.lat != float:
-            beregning(input.long, input.lat, input.boligareal)
+            beregning(input.long, input.lat, input.boligareal, input.navn)
             
 
 def side_1():
@@ -34,59 +36,56 @@ def side_2():
 
 def side_3():
     st.title("Andre tjenester")
+
     st.header('AV Solenergi')
-    c1, c2 = st.columns(2)
-    with c1:
-        st.write(""" AV Solenergi er et rammeverk for kartlegging, 
-        lønnsomhetsanalyser og planlegging av muligheter for 
-        solcelleanlegg på nye og eksisterende bygg. """)
 
-        st.write(""" Verktøyet benyttes av våre rådgivere i planlegging, 
-        dimensjonering og budsjettering av solcelleanlegg på alle typer bygg, 
-        og gjør at vi kan jobbe svært effektivt og målrettet.""")
+    st.write(""" AV Solenergi er et rammeverk for kartlegging, 
+    lønnsomhetsanalyser og planlegging av muligheter for 
+    solcelleanlegg på nye og eksisterende bygg. """)
 
-        url = 'https://av-solenergi.no/'
-        st.subheader("[Prøv det her!](%s)" % url)
-    with c2:
-        image = Image.open('Grunnlagsdata/Bilder/solenergi.PNG')
-        st.image(image) 
+    st.write(""" Verktøyet benyttes av våre rådgivere i planlegging, 
+    dimensjonering og budsjettering av solcelleanlegg på alle typer bygg, 
+    og gjør at vi kan jobbe svært effektivt og målrettet.""")
+
+    if st.button('Gå til AV Solenergi ☀️'):
+        js = "window.open('https://av-solenergi.no/')"  # New tab or window
+        html = '<img src onerror="{}">'.format(js)
+        div = Div(text=html)
+        st.bokeh_chart(div)
 
     st.header('AV Ombruk')
-    c1, c2 = st.columns(2)
-    with c1:
-        st.write(""" Alt som kan brukes, skal brukes på nytt. """)
 
-        st.write(""" Med AV Ombruk registreres materialene som 
-        finnes i eksisterende bygg, for senere ombruk i rehabiliterings- 
-        og nye prosjekter. En egen app gjør det enkelt for byggherrer 
-        å kartlegge tilgjengelige materialer.""")
+    st.write(""" Alt som kan brukes, skal brukes på nytt. """)
 
-        url = 'https://av-ombruk.no/'
-        st.subheader("[Prøv det her!](%s)" % url)
-    with c2:
-        image = Image.open('Grunnlagsdata/Bilder/ombruk.PNG')
-        st.image(image) 
+    st.write(""" Med AV Ombruk registreres materialene som 
+    finnes i eksisterende bygg, for senere ombruk i rehabiliterings- 
+    og nye prosjekter. En egen app gjør det enkelt for byggherrer 
+    å kartlegge tilgjengelige materialer.""")
+
+    if st.button('Gå til AV Ombruk ♻️', key='ombruk'):
+        js = "window.open('https://av-ombruk.no/')"  # New tab or window
+        html = '<img src onerror="{}">'.format(js)
+        div = Div(text=html)
+        st.bokeh_chart(div)
+
 
     st.header('Into Zero')
-    c1, c2 = st.columns(2)
-    with c1:
-        st.write(""" Verktøy er under arbeid... """)
 
-        st.write(""" Asplan Viak leder 3-årig innovasjonsprosjekt som skal føre til 
-        bedre verktøy for klimavennlig områdeutvikling. I løpet av prosjektet skal 
-        Asplan Viak, sammen med sine 11 partnere, se nærmere på hva som 
-        skal til for å utvikle områder med fokus på reduksjon av klimagassutslipp. 
-        Prosjektet er tverrfaglig anlagt, og det skal sees på løsninger 
-        innenfor bygg og materialbruk, mobilitet, infrastruktur og energiforsyning. 
-        Samtidig skal det være høyt fokus på gode stedskvaliteter og 
-        utvikling av attraktive områder hvor folk vil trives, og 
-        løsningene skal være økonomisk bærekraftige.""")
+    st.write(""" Asplan Viak leder 3-årig innovasjonsprosjekt som skal føre til 
+    bedre verktøy for klimavennlig områdeutvikling. I løpet av prosjektet skal 
+    Asplan Viak, sammen med sine 11 partnere, se nærmere på hva som 
+    skal til for å utvikle områder med fokus på reduksjon av klimagassutslipp. 
+    Prosjektet er tverrfaglig anlagt, og det skal sees på løsninger 
+    innenfor bygg og materialbruk, mobilitet, infrastruktur og energiforsyning. 
+    Samtidig skal det være høyt fokus på gode stedskvaliteter og 
+    utvikling av attraktive områder hvor folk vil trives, og 
+    løsningene skal være økonomisk bærekraftige.""")
 
-        url = 'https://www.asplanviak.no/prosjekter/integrert-planlegging-av-nullutslippsomraader-into-zero/'
-        st.subheader("[Les mer her](%s)" % url)
-    with c2:
-        image = Image.open('Grunnlagsdata/Bilder/intoZero.PNG')
-        st.image(image) 
+    if st.button('Les om Into Zero 🌱', key='ombruk'):
+        js = "window.open('https://www.asplanviak.no/prosjekter/integrert-planlegging-av-nullutslippsomraader-into-zero/')"  # New tab or window
+        html = '<img src onerror="{}">'.format(js)
+        div = Div(text=html)
+        st.bokeh_chart(div)
 
 
 def main():
