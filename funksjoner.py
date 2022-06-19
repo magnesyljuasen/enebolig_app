@@ -339,7 +339,7 @@ class Energibehov():
         self.energibehov_sum = self.dhw_sum + self.romoppvarming_sum
 
     def resultater(self, dhw_sum, romoppvarming_sum, energibehov_sum):
-        st.caption(""" Oppvarmingsbehovet er estimert ut ifra boligareal og adresse. Dette er den viktigste forutsetningen for beregningen av ditt bergvarmeanlegg. 
+        st.caption(""" Oppvarmingsbehovet er estimert ut ifra oppvarmet areal og adresse. Dette er den viktigste forutsetningen for beregningen av ditt bergvarmeanlegg. 
         Du kan justere oppvarmingsbehovet for din bolig i menyen til venstre.""")
         column_1, column_2, column_3 = st.columns(3)
         with column_1:
