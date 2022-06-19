@@ -139,9 +139,11 @@ class Input:
         self.long = float
         self.navn = str
         self.boligareal = int
+        self.valg = []
         self.velg_boligareal()
         self.velg_postnummer()
-
+        
+        
     @st.cache
     def importer_postnummer(self):
         postnummer_df = pd.read_csv('Grunnlagsdata/Adresse/alle_postnummer.csv', sep=',', low_memory=False)
@@ -150,15 +152,18 @@ class Input:
     def velg_postnummer(self):
         postnummer_liste = self.importer_postnummer()
         postnummer_liste = np.sort(postnummer_liste)
-        valgt = st.multiselect('Skriv inn postnummer', postnummer_liste, 
+        self.valg = st.multiselect('Skriv inn postnummer', postnummer_liste, 
         help=""" Adressen brukes til å hente inn nøyaktige temperaturdata 
         og nærliggende energibrønner. """)
+        
+    def prosess(self):
+        valgt = self.valg
         if len(valgt) > 1:
             st.error('Du må velge ett postnummer')
             st.stop()
         if valgt:
             self.valgt = valgt[0] 
-            self.velg_adresse()
+            self.velg_adresse()            
 
     @st.cache
     def importer_adresse(self):

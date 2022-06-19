@@ -7,19 +7,21 @@ def forside():
     st.title('Kalkuler din gevinst ved å hente energi fra grunnen')
     st.header('Start kalkulator ved å fylle inn i feltene under')
     input = Input()
-    if input.lat == float:
+    if len(input.valg) == 0:
         st.markdown("""---""")
         if 'key' not in st.session_state:
             st.session_state['key'] = 'value'
         st.header('Hva er bergvarme?')
         Forside()
     else:
-        beregning(input.long, input.lat, input.boligareal)
+        input.prosess()
+        st.markdown("""---""")
+        if input.lat != float:
+            beregning(input.long, input.lat, input.boligareal)
+            
 
 def side_1():
     st.title('Lær mer')
-    with st.expander('Hva er bergvarme?'):
-        Forside()
     Forklaringer()
 
 def side_2():
