@@ -137,7 +137,9 @@ def beregning(adresse_lat, adresse_long, bolig_areal):
 
         #st.header('Dimensjonering')
         with st.expander('Dimensjonering'):
-            st.write('Ditt bergvarmeanlegg:')
+            st.markdown(""" Vi har dimensjonert et _bergvarmeanlegg for din bolig_ ut ifra oppgitte forutsetninger. 
+            Merk at dette er et estimat, og endelig dimensjoneringskal utføres av leverandør.""")
+
             #with st.expander('Se graf'):
             dimensjonering_obj.bronn_resultater(antall_meter, varmepumpe_storrelse, antall_bronner)
             dimensjonering_obj.varighetsdiagram(energibehov_arr, energibehov_arr_gv, kompressor_arr)
