@@ -83,8 +83,8 @@ def beregning(adresse_lat, adresse_long, bolig_areal):
         energibehov_obj.resultater(dhw_sum, romoppvarming_sum, energibehov_sum)
         st.markdown("""---""")
         st.title("""Resultater""")
-        st.markdown(""" *_Resultatene fra bergvarmekalkulatoren er å anse som estimater, og skal ikke brukes for endelig dimensjonering av energibrønn med varmepumpe. 
-            Asplan Viak og Norsk varmepumpeforening tar ikke ansvar for resultatene. Dimensjonering må tilpasses de stedlige forholdene av leverandør._* """)
+        st.markdown(""" **_Resultatene fra bergvarmekalkulatoren er å anse som estimater, og skal ikke brukes for endelig dimensjonering av energibrønn med varmepumpe. 
+            Asplan Viak og Norsk varmepumpeforening tar ikke ansvar for resultatene. Dimensjonering må tilpasses de stedlige forholdene av leverandør._** """)
         
         with st.sidebar:
             with st.expander('Kart'):
