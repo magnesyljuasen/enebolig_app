@@ -185,7 +185,7 @@ class Input:
             self.lat, self.long, self.navn = i.iat[0,3], i.iat[0,2], valgt[0]
 
     def velg_boligareal(self):
-        self.boligareal = st.number_input('Oppgi oppvarmet areal [m\u00b2]?', min_value=100, value=150, max_value=1000, step=10, 
+        self.boligareal = st.number_input('Oppgi oppvarmet areal [m\u00b2]', min_value=100, value=150, max_value=1000, step=10, 
         help='Oppvarmet bruksareal er den delen av bruksarealet (BRA) som tilføres varme fra bygnings varmesystem')
 
 #----
