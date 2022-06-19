@@ -50,6 +50,7 @@ class Forklaringer:
             å justere parameterene som ligger til grunn for beregningen i menyen til venstre som dukker opp når du skriver inn din adresse. """)
             st.write(""" Resultatene fra kalkulatoren er å anse som et estimat, og endelig dimensjonering av energibrønnen med varmepumpe
             må tilpasses de stedlige forholdene av leverandør. """)
+           
             
 #--OK--
 class Forside:
@@ -524,7 +525,7 @@ class Co2:
             st.metric('Besparelse med bergvarme', str(besparelse) + ' tonn', delta='Miljøvennlig')
 
         flyreiser = int(round(besparelse * 1000 / 103,0)) 
-        tekst = f""" CO\u2082 besparelsen med bergvarme tilsvarer {flyreiser} flyreiser mellom Oslo og Trondheim. """
+        tekst = f"""CO\u2082 besparelsen med bergvarme tilsvarer {flyreiser} flyreiser mellom Oslo og Trondheim. """
         st.write(tekst)
 
         return co2_gv_yearly, co2_el_yearly
@@ -1019,17 +1020,17 @@ class Gis:
     def __init__(self):
         pass
 
-    def adresse_til_koordinat (self, adresse):
-        geolocator = Nominatim(user_agent="my_request")
-        location = geolocator.geocode(adresse, timeout=None, country_codes='NO', exactly_one=True)
-        if location is None:
-            st.error ('Ugyldig adresse. Prøv igjen!')
+#    def adresse_til_koordinat (self, adresse):
+#        geolocator = Nominatim(user_agent="my_request")
+#        location = geolocator.geocode(adresse, timeout=None, country_codes='NO', exactly_one=True)
+#        if location is None:
+#            st.error ('Ugyldig adresse. Prøv igjen!')
             #lott = load_lottie('https://assets2.lottiefiles.com/packages/lf20_i0hpsr18.json')
             #st_lottie(lott)
-            st.stop()
-        lat = location.latitude
-        long = location.longitude
-        return lat, long
+#            st.stop()
+#        lat = location.latitude
+#        long = location.longitude
+#        return lat, long
 
     def kart(self, stasjon_lat, adresse_lat, energibronn_lat, stasjon_long, adresse_long, energibronn_long):
         df1 = pd.DataFrame({'latitude': [stasjon_lat],'longitude': [stasjon_long]})

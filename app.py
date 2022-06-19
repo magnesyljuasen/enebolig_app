@@ -1,6 +1,8 @@
 import streamlit as st
-from funksjoner import Dimensjonering, Gis, Energibronn, Strompriser, Temperaturdata, Energibehov, Kostnader, Co2, Stromregion, Forklaringer
+from funksjoner import Dimensjonering, Gis, Energibronn, Strompriser, Temperaturdata, Energibehov, Kostnader, Co2, Stromregion, Forklaringer, load_lottie
 import numpy as np
+from streamlit_lottie import st_lottie
+
 
 def beregning(adresse_lat, adresse_long, bolig_areal):
     if adresse_long:
@@ -81,8 +83,8 @@ def beregning(adresse_lat, adresse_long, bolig_areal):
         energibehov_obj.resultater(dhw_sum, romoppvarming_sum, energibehov_sum)
         st.markdown("""---""")
         st.title("""Resultater""")
-        st.write(""" Resultatene fra bergvarmekalkulatoren er estimater, og skal ikke brukes for endelig dimensjonering av energibrønn med varmepumpe. 
-            Dimensjonering må tilpasses de stedlige forholdene av leverandør. """)
+        st.markdown(""" *_Resultatene fra bergvarmekalkulatoren er estimater, og skal ikke brukes for endelig dimensjonering av energibrønn med varmepumpe. 
+            Dimensjonering må tilpasses de stedlige forholdene av leverandør._* """)
         
         with st.sidebar:
             with st.expander('Kart'):
@@ -128,9 +130,13 @@ def beregning(adresse_lat, adresse_long, bolig_areal):
         dimensjonering_obj.bronn_resultater(antall_meter, varmepumpe_storrelse, antall_bronner)
         dimensjonering_obj.varighetsdiagram(energibehov_arr, energibehov_arr_gv, kompressor_arr)
         
-        
+        st.markdown(""" --- """)
         url = 'https://www.varmepumpeinfo.no/'
-        st.title('Finn nærmeste [forhandler](%s)' %url)
+        st.title('Finn nærmeste [leverandør](%s)' %url)
+
+        #st_lottie(load_lottie('https://assets5.lottiefiles.com/packages/lf20_l22gyrgm.json'))  
+        #st.caption('Et verktøy fra Asplan Viak AS | 📧 magne.syljuasen@asplanviak.no')
+
 
 
         
