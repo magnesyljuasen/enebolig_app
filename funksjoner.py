@@ -520,7 +520,7 @@ class Co2:
 
         besparelse = round (co2_el_ligning[-1] - co2_gv_ligning[-1])
 
-        st.caption('Forbrukt CO\u2082 etter 20 år:')
+        st.write('Forbrukt CO\u2082 etter 20 år:')
         res_column_1, res_column_2, res_column_3 = st.columns(3)
         with res_column_2:
             st.metric('Bergvarme', str(round (co2_gv_ligning[-1])) + ' tonn')
@@ -529,11 +529,9 @@ class Co2:
         with res_column_1:
             st.metric('Besparelse med bergvarme', str(besparelse) + ' tonn', delta='Miljøvennlig')
 
-        flyreiser = int(round(besparelse * 1000 / 103,0)) 
-        tekst = f"""CO\u2082 besparelsen med bergvarme tilsvarer {flyreiser} flyreiser mellom Oslo og Trondheim. """
-        st.write(tekst)
+        flyreiser = int(round(besparelse * 1000 / 103,0))
 
-        return co2_gv_yearly, co2_el_yearly
+        return co2_gv_yearly, co2_el_yearly, flyreiser
 
     def plotting(self, co2_gv_yearly, co2_el_yearly):
 #        x_axis = np.array(range(1, 26))
@@ -675,8 +673,17 @@ class Kostnader:
             d = 'Ikke lønnsomt'
             d_c = 'off'
                  
-        st.caption("""Figuren under viser årlige driftskostnader med bergvarme kontra elektrisk oppvarming. 
+        st.write("""Figuren under viser årlige driftskostnader med bergvarme kontra elektrisk oppvarming. 
         I dette regnestykket er ikke investeringskostnaden inkludert. Bergvarme gir en god strømbesparelse som reduserer din månedlige strømregning.""")
+
+        #bergvarme=str(round(kostnad_gv_yearly, -2))
+        #st.markdown(f" _Bergvarme: *{bergvarme} kr/år*_ ")
+        #el=str(round(kostnad_el_yearly, -2))
+        #st.markdown(f" _Elektrisk oppvarming: *{el} kr/år*_ ")
+        #st.markdown("--")
+        #besparelse=str(round (kostnad_el_yearly - kostnad_gv_yearly, -2))
+        #st.markdown(f" _Besparelse med bergvarme: **{besparelse} kr/år**_ ")
+        
         cost_column_1, cost_column_2, cost_column_3 = st.columns(3)
         with cost_column_2:
             st.metric(label="Bergvarme", value=(str(round(kostnad_gv_yearly, -2)) + " kr/år"))
@@ -727,8 +734,9 @@ class Kostnader:
             with cost_column_1:
                 st.metric('Besparelse med bergvarme', str(round (kostnad_el_yearly - kostnad_gv_yearly, -2)) + ' kr/år', delta=d, delta_color=d_c)
 
+            total_besparelse = besparelse * 20
             kostnad_gv_monthly = np.array(kostnad_gv_monthly) + termin_yearly/12
-            return kostnad_gv_monthly, kostnad_el_monthly
+            return kostnad_gv_monthly, kostnad_el_monthly, total_besparelse
 
     def fyring_costs_plot(self, kostnad_gv_monthly, kostnad_el_monthly):         
         months = ['jan', 'feb', 'mar', 'apr', 'mai', 'jun', 'jul', 'aug', 'sep', 'okt', 'nov', 'des']
