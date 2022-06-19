@@ -80,11 +80,11 @@ def beregning(adresse_lat, adresse_long, bolig_areal):
             with st.expander('Dybde til fjell'):   
                 kostnader_obj.oppdater_dybde_til_fjell()
         #--Sidebar--
-        energibehov_obj.resultater(dhw_sum, romoppvarming_sum, energibehov_sum)
-        st.markdown("""---""")
+        #energibehov_obj.resultater(dhw_sum, romoppvarming_sum, energibehov_sum)
+        #st.markdown("""---""")
         st.title("""Resultater""")
         st.markdown(""" **_Resultatene fra bergvarmekalkulatoren er å anse som estimater, og skal ikke brukes for endelig dimensjonering av energibrønn med varmepumpe. 
-            Asplan Viak og Norsk varmepumpeforening tar ikke ansvar for resultatene. Dimensjonering må tilpasses de stedlige forholdene av leverandør._** """)
+            Dimensjonering må tilpasses de stedlige forholdene av leverandør._** """)
         
         with st.sidebar:
             with st.expander('Kart'):
@@ -100,35 +100,38 @@ def beregning(adresse_lat, adresse_long, bolig_areal):
             with st.expander('Investering'):
                 investeringskostnad = kostnader_obj.juster_investeringskostnad(investeringskostnad)
                 nedbetalingtid, effektiv_rente = kostnader_obj.fyring_input()
-        st.header('Kostnader')
-        valg = st.radio('Visningsvalg', ['Drift', 'Investering', 'Investering og drift over 20 år'])
-        if valg == "Investering og drift over 20 år":
-            st.caption(f"""Figuren under viser årlige kostnader til oppvarming inkl. investeringskostnad. 
-            Det er forutsatt at investeringen nedbetales i løpet av {int(nedbetalingtid)} år 
-            med en effektiv rente på {float("{:.4f}".format(effektiv_rente * 100)) } %. Dette kan justeres i menyen til venstre. """)            
-            kostnad_gv_monthly, kostnad_el_monthly = kostnader_obj.fyring_costs(investeringskostnad, nedbetalingtid, effektiv_rente)
-            kostnader_obj.fyring_costs_plot(kostnad_gv_monthly, kostnad_el_monthly)
-        if valg == "Drift":
-            kostnad_gv_monthly, kostnad_el_monthly = kostnader_obj.monthly_costs()
-            kostnader_obj.fyring_costs_plot(kostnad_gv_monthly, kostnad_el_monthly)
-        if valg == "Investering":
-            st.caption("""Investeringskostnaden omfatter en komplett installsjon av bergvarme inkl. varmepumpe, montering og energibrønn. 
-            Merk at dette er et estimat, og endelig pris må fastsettes av leverandør. """)
-            st.metric('Investeringskostnad bergvarme', str(investeringskostnad) + ' kr')
+        #st.header('Kostnader')
+        with st.expander('Kostnader'):
+            valg = st.radio('Visningsvalg', ['Drift', 'Investering', 'Investering og drift over 20 år'], horizontal=True)
+            if valg == "Investering og drift over 20 år":
+                st.caption(f"""Figuren under viser årlige kostnader til oppvarming inkl. investeringskostnad. 
+                Det er forutsatt at investeringen nedbetales i løpet av {int(nedbetalingtid)} år 
+                med en effektiv rente på {float("{:.4f}".format(effektiv_rente * 100)) } %. Dette kan justeres i menyen til venstre. """)            
+                kostnad_gv_monthly, kostnad_el_monthly = kostnader_obj.fyring_costs(investeringskostnad, nedbetalingtid, effektiv_rente)
+                kostnader_obj.fyring_costs_plot(kostnad_gv_monthly, kostnad_el_monthly)
+            if valg == "Drift":
+                kostnad_gv_monthly, kostnad_el_monthly = kostnader_obj.monthly_costs()
+                kostnader_obj.fyring_costs_plot(kostnad_gv_monthly, kostnad_el_monthly)
+            if valg == "Investering":
+                st.caption("""Investeringskostnaden omfatter en komplett installsjon av bergvarme inkl. varmepumpe, montering og energibrønn. 
+                Merk at dette er et estimat, og endelig pris må fastsettes av leverandør. """)
+                st.metric('Investeringskostnad bergvarme', str(investeringskostnad) + ' kr')
         co2 = Co2()
         with st.sidebar:
             with st.expander('Klimagassutslipp'):
                 co2.juster_input()
-        st.header('Klimagassutslipp')
-        co2_gv_yearly, co2_el_yearly = co2.beregning(energibehov_arr, kompressor_sum)
-        #with st.expander('Se graf'):
-        co2.plotting(co2_gv_yearly, co2_el_yearly)
+        #st.header('Klimagassutslipp'):
+        with st.expander('Klimagassutslipp'):
+            co2_gv_yearly, co2_el_yearly = co2.beregning(energibehov_arr, kompressor_sum)
+            #with st.expander('Se graf'):
+            co2.plotting(co2_gv_yearly, co2_el_yearly)
 
-        st.header('Dimensjonering')
-        st.caption('Ditt bergvarmeanlegg:')
-        #with st.expander('Se graf'):
-        dimensjonering_obj.bronn_resultater(antall_meter, varmepumpe_storrelse, antall_bronner)
-        dimensjonering_obj.varighetsdiagram(energibehov_arr, energibehov_arr_gv, kompressor_arr)
+        #st.header('Dimensjonering')
+        with st.expander('Dimensjonering'):
+            st.caption('Ditt bergvarmeanlegg:')
+            #with st.expander('Se graf'):
+            dimensjonering_obj.bronn_resultater(antall_meter, varmepumpe_storrelse, antall_bronner)
+            dimensjonering_obj.varighetsdiagram(energibehov_arr, energibehov_arr_gv, kompressor_arr)
         
         st.markdown(""" --- """)
         url = 'https://www.varmepumpeinfo.no/'
