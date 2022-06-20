@@ -372,13 +372,13 @@ class Energibehov():
         st.altair_chart(c, use_container_width=True)
         
     def juster_behov(self, dhw_sum, romoppvarming_sum, dhw_arr, romoppvarming_arr):
-        dhw_sum_ny = st.number_input('Varmtvann [kWh]', min_value = int(1000), 
-        max_value = int(50000), value = round(dhw_sum, -1), step = int(500), help="""
+        dhw_sum_ny = st.slider('Varmtvann [kWh]', min_value = int(round(dhw_sum - dhw_sum/2, -1)), 
+        max_value = int(round(dhw_sum + dhw_sum/2, -1)), value = round(dhw_sum, -1), step = int(500), help="""
         Erfaring viser at varmtvannsbehovet er avhengig av antall forbrukere og bør justeres etter dette. 
         Bor det mange i boligen bør det altså justeres opp. """)
 
-        romoppvarming_sum_ny = st.number_input('Romoppvarming [kWh]', min_value = int(10000), 
-        max_value = int(100000), value = round (romoppvarming_sum, -1), step = int(500), help= """
+        romoppvarming_sum_ny = st.slider('Romoppvarming [kWh]', min_value = int(round(romoppvarming_sum - romoppvarming_sum/2, -1)), 
+        max_value = int(round(romoppvarming_sum + romoppvarming_sum/2, -1)), value = round(romoppvarming_sum, -1), step = int(500), help= """
         Romoppvarmingsbehovet er beregnet basert på oppgitt oppvarmet areal og temperaturdata fra nærmeste værstasjon
         for de 30 siste år. """)
         dhw_prosent = dhw_sum_ny / dhw_sum
@@ -585,8 +585,8 @@ class Kostnader:
         self.el_pris = el_pris
 
     def juster_investeringskostnad(self, investeringskostnad):
-        return math.ceil(st.number_input('Komplett prisestimat for varmepumpe, montering og energibrønn [kr]', 
-        min_value=1, value=investeringskostnad, max_value=750000, step=5000, help = 'Vannbåren varme er ikke tatt med i dette regnestykket'))
+        return math.ceil(st.slider('Komplett prisestimat for varmepumpe, montering og energibrønn [kr]', 
+        min_value=1, value=investeringskostnad, max_value=500000, step=5000, help = 'Vannbåren varme er ikke tatt med i dette regnestykket'))
 
 
     def oppdater_dybde_til_fjell(self):
@@ -594,9 +594,18 @@ class Kostnader:
         Foreslått dybde til fjell er basert på målt dybde til fjell i nærmeste energibrønn. 
         Dybde til fjell har stor lokal variasjon og bør sjekkes mot Nasjonal database 
         for grunnundersøkelser (NADAG). Lenke: https://geo.ngu.no/kart/nadag-avansert/ """)
-        #st.caption(tekst)
-        self.dybde_til_fjell = st.number_input ('Oppgi dybde til fjell [m]', 
-        value = self.dybde_til_fjell, min_value = 0, max_value = 150, help=tekst)
+
+        if self.dybde_til_fjell == 0:
+            min_value_ = 0
+            mean_value_ = 0
+            max_value_ = 20
+        else:
+            min_value_ = int (self.dybde_til_fjell - self.dybde_til_fjell/1.5)
+            mean_value_ = int(self.dybde_til_fjell)
+            max_value_ = int(self.dybde_til_fjell + self.dybde_til_fjell/1.5)
+        
+        self.dybde_til_fjell = st.slider ('Oppgi dybde til fjell [m]', 
+        value = mean_value_, min_value = min_value_, max_value = max_value_, help=tekst)
         
     def investeringskostnad (self):
 
@@ -697,7 +706,7 @@ class Kostnader:
     def fyring_input(self):
         #nedbetalingstid = st.number_input('Nedbetalingstid [år]', value=20, min_value=1, max_value=25,step=1)
         nedbetalingstid = 20
-        effektiv_rente = st.number_input('Effektiv rente [%]', value=2.44, min_value=1.00, max_value=10.00) / 100
+        effektiv_rente = st.slider('Effektiv rente [%]', value=2.44, min_value=1.00, max_value=10.00) / 100
         return nedbetalingstid, effektiv_rente
 
     def fyring_costs (self, investeringskostnad, nedbetalingtid, effektiv_rente):
@@ -807,8 +816,8 @@ class Strompriser ():
         Det er hentet inn historisk strømpris per time for de siste 4 år.
         Velg den som skal ligge til grunn for beregningen. 
         """)
-        self.nettleie = st.number_input('Nettleie [øre/kWh]', value=float(27.9), step=0.25) / 100
-        self.fastledd = st.number_input('Fastledd [kr/år]', value=int(1380), step=100) / 8600
+        self.nettleie = st.slider('Nettleie [øre/kWh]', value=float(32.02), step=0.25, min_value=1.0, max_value=50.0) / 100
+        self.fastledd = st.slider('Fastledd [kr/år]', value=int(3444), step=100, min_value=0, max_value=5000) / 8600
 
     @st.cache
     def el_spot_pris (self):
@@ -896,13 +905,13 @@ class Dimensjonering:
         return np.array (tmp_liste_h), round (np.sum (tmp_liste_h)), float("{:.1f}".format(varmepumpe_storrelse))
 
     def angi_dekningsgrad(self):
-        return st.number_input('Energidekningsgrad for bergvarme [%]', value=100, 
+        return st.slider('Energidekningsgrad for bergvarme [%]', value=100, 
         min_value=80, max_value=100, step = 1, help='Vanligvis settes dekningsgraden til 100% ' 
         'som betyr at bergvarmeanlegget skal dekke hele energibehovet.' 
         ' Dersom dekningsgraden er mindre enn dette skal energikilder som vedfyring eller strøm dekke behovet de kaldeste dagene.')
 
     def angi_cop(self):
-        return st.number_input('Årsvarmefaktor (SCOP) til varmepumpen', value=3.5, min_value=2.0, 
+        return st.slider('Årsvarmefaktor (SCOP) til varmepumpen', value=3.5, min_value=2.0, 
         max_value=4.0, step = 0.1, help='Årsvarmefaktoren avgjør hvor mye ' 
         'energi du sparer med et varmepumpeanlegg; den uttrykker hvor ' 
         'mye varmeenergi anlegget leverer i forhold til hvor mye elektrisk energi det bruker i løpet av et år.')
