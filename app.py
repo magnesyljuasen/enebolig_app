@@ -146,11 +146,13 @@ def beregning(adresse_lat, adresse_long, bolig_areal, navn):
             dimensjonering_obj.varighetsdiagram(energibehov_arr, energibehov_arr_gv, kompressor_arr)
         
         st.markdown(""" --- """)
-        if st.button('Trykk her for å finne nærmeste leverandør av bergvarmeanlegg!'):
-            js = "window.open('https://www.varmepumpeinfo.no/varmepumpe')"  # New tab or window
-            html = '<img src onerror="{}">'.format(js)
-            div = Div(text=html)
-            st.bokeh_chart(div)
+        url = 'https://www.varmepumpeinfo.no/varmepumpe'
+        st.header("[Trykk her for å finne leverandør av bergvarmeanlegg!](%s)" % url)
+#        if st.button('Trykk her for å finne nærmeste leverandør av bergvarmeanlegg!'):
+#            js = "window.open('https://www.varmepumpeinfo.no/varmepumpe')"  # New tab or window
+#            html = '<img src onerror="{}">'.format(js)
+#            div = Div(text=html)
+#            st.bokeh_chart(div)
         
 
         #st_lottie(load_lottie('https://assets5.lottiefiles.com/packages/lf20_l22gyrgm.json'))  
