@@ -52,8 +52,7 @@ def beregning(adresse_lat, adresse_long, bolig_areal, navn):
         #--Sidebar--
         with st.sidebar:
             with st.expander('Dekningsgrad og årsvarmefaktor'):       
-                dekningsgrad = dimensjonering_obj.angi_dekningsgrad()
-                cop = dimensjonering_obj.angi_cop()
+                dekningsgrad, cop = dimensjonering_obj.angi_dekningsgrad_og_cop()
         #--Sidebar--
 
         energibehov_arr_gv, energibehov_sum_gv, varmepumpe_storrelse = dimensjonering_obj.energi_og_effekt_beregning(dekningsgrad, energibehov_arr, energibehov_sum)
@@ -88,21 +87,11 @@ def beregning(adresse_lat, adresse_long, bolig_areal, navn):
         st.markdown(""" *_Trykk på boksene under for å se resultatene. Du kan endre forutsetningene for beregningene i menyen til venstre.
         Oppvarmingsbehovet er den viktigste forutsetningen og er estimert ut ifra oppgitt oppvarmet areal og adresse._* """)
         
-        with st.sidebar:
-            with st.expander('Kart'):
-                Gis().kart(stasjon_lat, adresse_lat, energibronn_lat, stasjon_long, adresse_long, energibronn_long)
-                st.write (f""" Kartet viser adresse (mørkegrønn farge), nærmeste eksisterende energibrønn (grønn farge) 
-                og nærmeste værstasjon, {stasjon_id}, med fullstendige temperaturdata (solgul farge). 
-                Nærmeste eksisterende energibrønn brukes til å estimere dybde til fjell i området. Fra værstasjonen hentes det 
-                inn målt temperatur per time for de siste 30 år. Gjennomsnittstemperaturen
-                er målt til å være {gjennomsnittstemperatur} \u2103. {tekst} Strømregionen er {region}. """)
-        
         investeringskostnad = kostnader_obj.investeringskostnad()
         with st.sidebar:
             with st.expander('Investering'):
-                investeringskostnad = kostnader_obj.juster_investeringskostnad(investeringskostnad)
-                nedbetalingtid, effektiv_rente = kostnader_obj.fyring_input()
-        #st.header('Kostnader')
+                nedbetalingtid, effektiv_rente, investeringskostnad = kostnader_obj.juster_investeringskostnad(investeringskostnad)
+        
         with st.expander('Kostnader'):
             st.subheader("Drift")
             kostnad_gv_monthly, kostnad_el_monthly = kostnader_obj.monthly_costs()
@@ -127,6 +116,15 @@ def beregning(adresse_lat, adresse_long, bolig_areal, navn):
         with st.sidebar:
             with st.expander('Klimagassutslipp'):
                 co2.juster_input()
+
+        with st.sidebar:
+            with st.expander('Kart'):
+                Gis().kart(stasjon_lat, adresse_lat, energibronn_lat, stasjon_long, adresse_long, energibronn_long)
+                st.write (f""" Kartet viser adresse (mørkegrønn farge), nærmeste eksisterende energibrønn (grønn farge) 
+                og nærmeste værstasjon, {stasjon_id}, med fullstendige temperaturdata (solgul farge). 
+                Nærmeste eksisterende energibrønn brukes til å estimere dybde til fjell i området. Fra værstasjonen hentes det 
+                inn målt temperatur per time for de siste 30 år. Gjennomsnittstemperaturen
+                er målt til å være {gjennomsnittstemperatur} \u2103. {tekst} Strømregionen er {region}. """)
         #st.header('Klimagassutslipp'):
         with st.expander('Klimagassutslipp'):
             co2_gv_yearly, co2_el_yearly, flyreiser = co2.beregning(energibehov_arr, kompressor_sum)
