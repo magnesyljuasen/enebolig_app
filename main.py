@@ -47,11 +47,13 @@ def side_3():
     dimensjonering og budsjettering av solcelleanlegg på alle typer bygg, 
     og gjør at vi kan jobbe svært effektivt og målrettet.""")
 
-    if st.button('Gå til AV Solenergi ☀️'):
-        js = "window.open('https://av-solenergi.no/')"  # New tab or window
-        html = '<img src onerror="{}">'.format(js)
-        div = Div(text=html)
-        st.bokeh_chart(div)
+    st.write(""" **[Gå til AV Solenergi ☀️](%s)** """ % 'https://av-solenergi.no/')
+
+#    if st.button('Gå til AV Solenergi ☀️'):
+#        js = "window.open('https://av-solenergi.no/')"  # New tab or window
+#        html = '<img src onerror="{}">'.format(js)
+#        div = Div(text=html)
+#        st.bokeh_chart(div)
 
     st.header('AV Ombruk')
 
@@ -62,11 +64,13 @@ def side_3():
     og nye prosjekter. En egen app gjør det enkelt for byggherrer 
     å kartlegge tilgjengelige materialer.""")
 
-    if st.button('Gå til AV Ombruk ♻️', key='ombruk'):
-        js = "window.open('https://av-ombruk.no/')"  # New tab or window
-        html = '<img src onerror="{}">'.format(js)
-        div = Div(text=html)
-        st.bokeh_chart(div)
+    st.write(""" **[Gå til AV Ombruk ♻️](%s)** """ % 'https://av-ombruk.no/')
+
+#    if st.button('Gå til AV Ombruk ♻️', key='ombruk'):
+#        js = "window.open('https://av-ombruk.no/')"  # New tab or window
+#        html = '<img src onerror="{}">'.format(js)
+#        div = Div(text=html)
+#        st.bokeh_chart(div)
 
 
     st.header('Into Zero')
@@ -81,11 +85,14 @@ def side_3():
     utvikling av attraktive områder hvor folk vil trives, og 
     løsningene skal være økonomisk bærekraftige.""")
 
-    if st.button('Les om Into Zero 🌱', key='ombruk'):
-        js = "window.open('https://www.asplanviak.no/prosjekter/integrert-planlegging-av-nullutslippsomraader-into-zero/')"  # New tab or window
-        html = '<img src onerror="{}">'.format(js)
-        div = Div(text=html)
-        st.bokeh_chart(div)
+    st.write(""" **[Les om Into Zero 🌱](%s)** """ % 'https://www.asplanviak.no/prosjekter/integrert-planlegging-av-nullutslippsomraader-into-zero/')
+
+
+#    if st.button('Les om Into Zero 🌱', key='ombruk'):
+#        js = "window.open('https://www.asplanviak.no/prosjekter/integrert-planlegging-av-nullutslippsomraader-into-zero/')"  # New tab or window
+#        html = '<img src onerror="{}">'.format(js)
+#        div = Div(text=html)
+#        st.bokeh_chart(div)
 
 
 def main():
