@@ -35,9 +35,23 @@ def side_2():
     st.write("...")
 
 def side_3():
-    st.title("Andre tjenester")
+    st.title("Tjenester")
 
-    st.header('AV Solenergi')
+    st.header("Rådgivning til leverandører")
+
+    st.write(""" Asplan Viak har solid kompetanse på både lukkede systemer med energibrønner i fjell, 
+    åpne systemer med bruk av grunnvann som energikilde, og større energilager. """)
+
+    st.write(""" Vi tilbyr en rekke tjenester innen disse fagområdene, alt fra større utredninger 
+    og utviklingsprosjekter til forundersøkelser og detaljprosjektering av energibrønnparker. 
+    Vår erfaring er at tidlig og god planlegging, gjennomtenkte løsninger, gode grunnlagsdata og 
+    fokus på oppfølging i bygge- og driftsfasen er de største suksesskriteriene for vellykkede grunnvarmeanlegg. """)
+
+    st.write(""" **[Sjekk det ut her 💬](%s)**""")
+
+    st.markdown(""" --- """)
+    st.header('Andre verktøy fra Asplan Viak')
+    st.subheader('AV Solenergi')
 
     st.write(""" AV Solenergi er et rammeverk for kartlegging, 
     lønnsomhetsanalyser og planlegging av muligheter for 
@@ -55,7 +69,7 @@ def side_3():
 #        div = Div(text=html)
 #        st.bokeh_chart(div)
 
-    st.header('AV Ombruk')
+    st.subheader('AV Ombruk')
 
     st.write(""" Alt som kan brukes, skal brukes på nytt. """)
 
@@ -73,7 +87,7 @@ def side_3():
 #        st.bokeh_chart(div)
 
 
-    st.header('Into Zero')
+    st.subheader('Into Zero')
 
     st.write(""" Asplan Viak leder 3-årig innovasjonsprosjekt som skal føre til 
     bedre verktøy for klimavennlig områdeutvikling. I løpet av prosjektet skal 
@@ -100,7 +114,7 @@ def main():
         "Kalkulatoren": forside,
         "Lær mer" : side_1,
         "Om oss": side_2,
-        "Andre tjenester" : side_3}  
+        "Tjenester" : side_3}  
     with st.sidebar:
         Innstillinger().egen_logo()
     selected_page = st.sidebar.radio("", page_names_to_funcs.keys(), index=0)
