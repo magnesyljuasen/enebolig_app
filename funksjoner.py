@@ -22,34 +22,36 @@ class Forklaringer:
         self.forklaringer()
 
     def forklaringer(self):
+        st.header('Hvorfor bergvarme?')
+        st.write(""" Bergvarme er både miljøvennlig, kortreist og fornybar energi, 
+                    og blir stadig mer populært blant norske byggeiere. Et bergvarmeanlegg gir den 
+                    beste strømbesparelsen og kan redusere din strømregning med en faktor på 3 – 4. """)
 
-        with st.expander('Finansiering'):
-            url = 'https://www.enova.no/privat/alle-energitiltak/varmepumper/vaske-til-vann-varmepumpe-/'
-            st.write(""" Du får inntil 10 000,- i støtte fra [ENOVA](%s) når du skaffer deg en væske-til-vann-varmepumpe. """ % url)
+        st.write(""" Om sommeren, når det er behov for kjøling, er temperaturen i brønnen i seg selv
+                        lav nok til å kjøle bygningen. Da trengs viftekonvektorer som kan 
+                        fordele kjøling i bygningen på en komfortabel måte. """)
+
+        st.header('Hvordan fungerer bergvarmekalkulatoren?')
+        st.write(""" Kalkulatoren er utviklet av Asplan Viak, og utfører en enkel dimensjonering av en energibrønn 
+        med bergvarmepumpe for din bolig. Den regner så ut kostnader og miljøgevinst for det aktuelle anlegget. Det er mulig 
+        å justere parameterene som ligger til grunn for beregningen i menyen til venstre som dukker opp når du skriver inn din adresse. """)
+        st.write(""" Resultatene fra kalkulatoren er å anse som et estimat, og endelig dimensjonering av energibrønnen med varmepumpe
+        må tilpasses de stedlige forholdene av leverandør. """)
+
+        st.header('Finansiering')
+        url = 'https://www.enova.no/privat/alle-energitiltak/varmepumper/vaske-til-vann-varmepumpe-/'
+        st.write(""" Du får inntil 10 000,- i støtte fra [ENOVA](%s) når du skaffer deg en væske-til-vann-varmepumpe. """ % url)
+        
+        url = 'https://www.enova.no/privat/alle-energitiltak/tiltaksbonus---vannbarent-anlegg/'
+        st.write(""" Dersom du i tillegg installerer akkumulatortank og vannbåren varme kan du få inntil 40 000,- i [tiltaksbonus](%s).""" % url)
+
+        url = "https://www.smartepenger.no/lan/3408-gronne-boliglan"
+        st.write("""Mange banker har begynt å tilby billigere 
+        boliglån hvis boligen regnes som miljøvennlig; et såkalt [grønt boliglån](%s). Med et bergvarmeanlegg 
+        vil din bolig havne i energiklasse A eller B, som gjør at boligen kvalifiserer for et slikt lån. """ % url)
             
-            url = 'https://www.enova.no/privat/alle-energitiltak/tiltaksbonus---vannbarent-anlegg/'
-            st.write(""" Dersom du i tillegg installerer akkumulatortank og vannbåren varme kan du få inntil 40 000,- i [tiltaksbonus](%s).""" % url)
 
-            url = "https://www.smartepenger.no/lan/3408-gronne-boliglan"
-            st.write("""Mange banker har begynt å tilby billigere 
-            boliglån hvis boligen regnes som miljøvennlig; et såkalt [grønt boliglån](%s). Med et bergvarmeanlegg 
-            vil din bolig havne i energiklasse A eller B, som gjør at boligen kvalifiserer for et slikt lån. """ % url)
-            
-        with st.expander('Hvorfor bergvarme?'):
-            st.write(""" Bergvarme er både miljøvennlig, kortreist og fornybar energi, 
-                        og blir stadig mer populært blant norske byggeiere. Et bergvarmeanlegg gir den 
-                        beste strømbesparelsen og kan redusere din strømregning med en faktor på 3 – 4. """)
-
-            st.write(""" Om sommeren, når det er behov for kjøling, er temperaturen i brønnen i seg selv
-                            lav nok til å kjøle bygningen. Da trengs viftekonvektorer som kan 
-                            fordele kjøling i bygningen på en komfortabel måte. """)
-
-        with st.expander('Hva gjør bergvarmekalkulatoren?'):
-            st.write(""" Kalkulatoren er utviklet av Asplan Viak, og utfører en enkel dimensjonering av en energibrønn 
-            med bergvarmepumpe for din bolig. Den regner så ut kostnader og miljøgevinst for det aktuelle anlegget. Det er mulig 
-            å justere parameterene som ligger til grunn for beregningen i menyen til venstre som dukker opp når du skriver inn din adresse. """)
-            st.write(""" Resultatene fra kalkulatoren er å anse som et estimat, og endelig dimensjonering av energibrønnen med varmepumpe
-            må tilpasses de stedlige forholdene av leverandør. """)
+        
            
             
 #--OK--
