@@ -331,7 +331,7 @@ class Energibehov():
 
     #@st.cache
     def hent_behov_fra_fil(self):
-        faktor = 1.25
+        faktor = 1
         #dhw = 'Grunnlagsdata/Database/' + self.stasjon_id + '_dhw.csv'
         dhw = 'Grunnlagsdata/Database/' + 'SN180' + '_dhw.csv'
         romoppvarming = 'Grunnlagsdata/Temperatur/_' + self.stasjon_id + '_romoppvarming.csv'
