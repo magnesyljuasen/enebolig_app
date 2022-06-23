@@ -585,8 +585,8 @@ class Kostnader:
         self.el_pris = el_pris
 
     def juster_investeringskostnad(self, investeringskostnad):
-        return math.ceil(st.slider('Komplett prisestimat for varmepumpe, montering og energibrønn [kr]', 
-        min_value=1, value=investeringskostnad, max_value=500000, step=5000, help = 'Vannbåren varme er ikke tatt med i dette regnestykket'))
+        return int(st.slider('Komplett prisestimat for varmepumpe, montering og energibrønn [kr]', 
+        min_value=50000, value=investeringskostnad, max_value=500000, step=5000, help = 'Vannbåren varme er ikke tatt med i dette regnestykket'))
 
 
     def oppdater_dybde_til_fjell(self):

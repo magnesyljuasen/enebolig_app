@@ -14,8 +14,6 @@ def beregning(adresse_lat, adresse_long, bolig_areal, navn):
         with st.sidebar:
             st.header("Forutsetninger")
 
-
-
         energibehov_obj = Energibehov(bolig_areal, temperaturdata_obj.stasjon_id)
         energibehov_obj.hent_behov_fra_fil()
         energibehov_obj.aarlig_behov()
@@ -148,16 +146,18 @@ def beregning(adresse_lat, adresse_long, bolig_areal, navn):
         st.markdown(""" --- """)
         url = 'https://www.varmepumpeinfo.no/varmepumpe'
         st.header("[Trykk her for å finne leverandør av bergvarmeanlegg!](%s)" % url)
+
+        
 #        if st.button('Trykk her for å finne nærmeste leverandør av bergvarmeanlegg!'):
 #            js = "window.open('https://www.varmepumpeinfo.no/varmepumpe')"  # New tab or window
 #            html = '<img src onerror="{}">'.format(js)
 #            div = Div(text=html)
 #            st.bokeh_chart(div)
-        
+    
 
-        #st_lottie(load_lottie('https://assets5.lottiefiles.com/packages/lf20_l22gyrgm.json'))  
-        #st.caption('Et verktøy fra Asplan Viak AS | 📧 magne.syljuasen@asplanviak.no')
+    #st_lottie(load_lottie('https://assets5.lottiefiles.com/packages/lf20_l22gyrgm.json'))  
+    #st.caption('Et verktøy fra Asplan Viak AS | 📧 magne.syljuasen@asplanviak.no')
 
 
 
-        
+    
