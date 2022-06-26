@@ -6,6 +6,9 @@ from bokeh.models.widgets import Div
 
  
 def forside():
+    url = 'https://magnesyljuasen-bergvarme-app-7fvbu7.streamlitapp.com/'
+    st.subheader("[Denne versjonen er utdatert. Gå til ny versjon av bergarmekalkulatoren!](%s)" % url)
+    st.stop()
     st.title('Kalkuler din gevinst ved å hente energi fra grunnen')
     st.header('Start kalkulator ved å fylle inn i feltene under')
     input = Input()
